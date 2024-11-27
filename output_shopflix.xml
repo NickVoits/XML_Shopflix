@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-27 15:05</created_at>
+	<created_at>2024-11-27 16:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -348,7 +348,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>1020</Quantity>
+		<Quantity>1018</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -394,7 +394,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>760</Quantity>
+		<Quantity>758</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -454,7 +454,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
-		<Quantity>688</Quantity>
+		<Quantity>686</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -689,7 +689,7 @@
 		<Description>
 Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<EAN>5201171331220</EAN>
-		<Quantity>508</Quantity>
+		<Quantity>500</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -719,7 +719,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<EAN>5201171331244</EAN>
-		<Quantity>411</Quantity>
+		<Quantity>403</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -796,7 +796,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μοναδική Cola Φλώρινας Δινάκη από φυσικό ξινό νερό, τώρα χωρίς προσθήκη ζάχαρης, με γλυκαντικά από το φυτό Στέβια και 0 θερμίδες!</Description>
 		<EAN>5205241020601</EAN>
-		<Quantity>484</Quantity>
+		<Quantity>478</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -901,7 +901,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>1786</Quantity>
+		<Quantity>1784</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -916,7 +916,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>1136</Quantity>
+		<Quantity>1130</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1291,7 +1291,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>448</Quantity>
+		<Quantity>442</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2207,7 +2207,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>3084</Quantity>
+		<Quantity>3076</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2612,7 +2612,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Μοσχάτο κοκκινέλι είναι ερυθρός ξηρός οίνος που παράγεται από Μοσχάτο. Είναι κρασί με φωτεινό κόκκινο χρώμα που συνοδεύει απολαυστικά μεγάλη ποικιλία φαγητών. Πίνεται σε θερμοκρασία 12-14°C.</Description>
 		<EAN>5202037115039</EAN>
-		<Quantity>13</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2642,7 +2642,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>657</Quantity>
+		<Quantity>656</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2738,7 +2738,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2833,7 +2833,7 @@
 		<MPN>1315</MPN>
 		<Description>Λαμπερό αχυρένιο χρώμα με πρασινωπές ανταύγειες . Μύτη κομψή με αρώματα εσπεριδοειδών και λευκού ροδάκινου. Στο στόμα πλούσιο και γεμάτο με τραγανή οξύτητα. Μεγάλη αρωματική διάρκεια.</Description>
 		<EAN>5201214100127</EAN>
-		<Quantity>97</Quantity>
+		<Quantity>397</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2881,7 +2881,7 @@
 Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.
 Σερβίρεται στους 8-10°C.</Description>
 		<EAN>5204222575017</EAN>
-		<Quantity>17</Quantity>
+		<Quantity>137</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2898,7 +2898,7 @@
 Μεγάλη δυνατότητα παλαίωσης.
 Σερβίρεται στους 16–18 °C.</Description>
 		<EAN>5204222575024</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2928,7 +2928,7 @@
 		<MPN>1321</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με λεμονοπράσινο χρώμα, γευστικές νότες βερίκοκου, ροδάκινου, αχλαδιού, τροπικών φρούτων αλλά και δυόσμου συνδιάζονται με ανθικά αρώματα με κυρίαρχο το τριαντάφυλλο. Στο στόμα είναι ξηρό, με ικανοποιητική οξύτητα, μέτριο σώμα και μακρά επίγευση.</Description>
 		<EAN>5204222239209</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3114,7 +3114,7 @@
 		<MPN>1330</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888273152</EAN>
-		<Quantity>26</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3321,7 +3321,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Λευκό κρασί με απαλές πράσινες ανταύγειες και σύνθετη μύτη με φρέσκους ανθικούς χαρακτήρες να υπερισχύουν. Ακολουθούν νότες φλούδας λεμονιού και αρώματα τροπικών φρούτων όπως αβοκάντο.</Description>
 		<EAN>5203773000184</EAN>
-		<Quantity>20</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3407,7 +3407,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
 		<EAN>5202037000045</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3826,7 +3826,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<EAN>promitheas-520237120064</EAN>
-		<Quantity>216</Quantity>
+		<Quantity>456</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3841,7 +3841,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202037130063</EAN>
-		<Quantity>305</Quantity>
+		<Quantity>545</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8033,7 +8033,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<EAN>5200100281667</EAN>
-		<Quantity>990</Quantity>
+		<Quantity>988</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8119,7 +8119,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<EAN>5202995010537</EAN>
-		<Quantity>491</Quantity>
+		<Quantity>476</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10896,7 +10896,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643140</EAN>
-		<Quantity>97</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12048,7 +12048,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0895</MPN>
 		<Description>Καπάκια ποτηριών μιας χρήσης σε συσκευασία των 100 τεμαχίων σε μαύρο χρώμα, που συνδυάζουν την πρακτικότητα τους με τα αντίστοιχα ποτήρια. Είναι κατάλληλα για εκδηλώσεις, πάρτι, επαγγελματική αλλά και καθημερινή χρήση. Τα καπάκια ποτηριών τύπου πιπίλα προσφέρουν μια πιο ομαλή ροή του υγρού καθώς προσομοιάζει τον τρόπο που την χρησιμοποιούν τα μωρά αφήνοντας το υγρό να ρέει με σταθερό ρυθμό. Διαθέτει μια μικρή ανάγλυφη περιοχή στο κέντρο που μοιάζει με πιπίλα και επιτρέπει στον χρήστη να πίνει με πιο φυσικό τρόπο.</Description>
 		<EAN>6425092035060</EAN>
-		<Quantity>100</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12456,7 +12456,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5202054473631</EAN>
-		<Quantity>1185</Quantity>
+		<Quantity>1184</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12471,7 +12471,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5202054473648</EAN>
-		<Quantity>500</Quantity>
+		<Quantity>499</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13503,7 +13503,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1469</MPN>
 		<Description>Χριστουγεννιάτικα φωτάκια led 100L IP44 με μετασχηματιστή 31V πολύχρωμα (multicolour) με 8 προγράμματα. Είναι επεκτεινόμενα και έχουν μήκος 5m με επιπλέον 3m τροφοδοσίας.</Description>
 		<EAN>5200300503187</EAN>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16579,7 +16579,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.2 kg</Weight>
 		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Είναι ένα χειροποίητο προϊόν, το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλούσια προσθήκη αμυγδάλου.</Description>
 		<EAN>5200430910060</EAN>
-		<Quantity>281</Quantity>
+		<Quantity>280</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16658,7 +16658,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.2 kg</Weight>
 		<Description>Το κουλούρι μπαράτ έχει κάτι το μοναδικό! Συνδυάζει την ξεχωριστή γεύση της γαρίδας με την πλούσια υφή και θρεπτικότητα του ταχινιού. Φτιαγμένα με προσοχή και αγνά υλικά, προσφέρουν έναν πρωτότυπο συνδυασμό γεύσεων για τους λάτρεις του ξεχωριστού και ποιοτικού σνακ.</Description>
 		<EAN>5200430910350</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
