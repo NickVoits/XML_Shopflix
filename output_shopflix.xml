@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-16 16:05</created_at>
+	<created_at>2024-12-16 16:50</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -301,7 +301,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>1142</Quantity>
+		<Quantity>1140</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -673,7 +673,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>994</Quantity>
+		<Quantity>986</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -871,7 +871,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>816</Quantity>
+		<Quantity>813</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1487,7 +1487,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<EAN>5201309703172</EAN>
-		<Quantity>3573</Quantity>
+		<Quantity>3572</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1678,7 +1678,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000044</EAN>
-		<Quantity>2147</Quantity>
+		<Quantity>2144</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1693,7 +1693,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000068</EAN>
-		<Quantity>4774</Quantity>
+		<Quantity>4770</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1723,7 +1723,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. </Description>
 		<EAN>5202908004011</EAN>
-		<Quantity>1104</Quantity>
+		<Quantity>1100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1768,7 +1768,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000174</EAN>
-		<Quantity>1366</Quantity>
+		<Quantity>1362</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2192,7 +2192,7 @@
    Όγκος Τεμαχίου: 1.5lt
     Τεμάχια: 1</Description>
 		<EAN>5201946010015</EAN>
-		<Quantity>16024</Quantity>
+		<Quantity>16020</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2207,7 +2207,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>8676</Quantity>
+		<Quantity>8668</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2477,7 +2477,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<EAN>5203413000017</EAN>
-		<Quantity>1657</Quantity>
+		<Quantity>1656</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4285,7 +4285,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Jack Daniel's παράγεται με τον ίδιο παραδοσιακό τρόπο εδώ και 140 χρόνια. Έχει πλούσιο κεχριμπαρένιο χρώμα και ισορροπημένη γεύση με στοιχεία καπνισμένου ξύλου, καραμέλας και βανίλιας. </Description>
 		<EAN>5099873045961</EAN>
-		<Quantity>75</Quantity>
+		<Quantity>72</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5751,7 +5751,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>1.5 kg</Weight>
 		<Description>Πάνες Pufies Trusted Trends Maxi+ 4, Gingham baby Value Pack 48 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
 		<EAN>3800024027864</EAN>
-		<Quantity>797</Quantity>
+		<Quantity>795</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8777,7 +8777,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<EAN>8720181204050</EAN>
-		<Quantity>824</Quantity>
+		<Quantity>823</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16659,7 +16659,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.2 kg</Weight>
 		<Description>Μια νόστιμη επιλογή για ένα γρήγορο και γευστικό σνακ. Κατασκευάζεται με υψηλής ποιότητας χοιρινό κρέας και παραδοσιακές συνταγές, προσφέροντας έναν πλούσιο γευστικό συνδυασμό από αλεσμένο κρέας και μπαχαρικά. Ιδανικό για να απολαύσετε σε σαλάτες, σάντουιτς ή απευθείας από το πιάτο.</Description>
 		<EAN>8710581913966</EAN>
-		<Quantity>442</Quantity>
+		<Quantity>439</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17056,7 +17056,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>235</Quantity>
+		<Quantity>234</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17203,7 +17203,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
 		<EAN>8007520012188</EAN>
-		<Quantity>340</Quantity>
+		<Quantity>338</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 </mywebstore>
