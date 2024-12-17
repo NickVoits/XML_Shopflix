@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-17 16:05</created_at>
+	<created_at>2024-12-17 16:46</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -6751,7 +6751,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Δράση: Ανάπλαση, Ενυδάτωση
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5208005110174</EAN>
-		<Quantity>33</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6786,7 +6786,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 Δράση: Ανάπλαση, Ενυδάτωση
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5208005110198</EAN>
-		<Quantity>19</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15204,7 +15204,7 @@ VAX
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7973023</SKU>
+		<SKU>7974021</SKU>
 		<Name>Eurolamp 147-18210 Κοπίδι Φαλτσέτα με Πλάτος Λάμας 18mm Κίτρινο</Name>
 		<URL>https://www.skroutz.gr/s/28080194/Eurolamp-Kopidi-Faltseta-me-Plastiko-Soma-kai-Platos-Lamas-18mm-Kitrino-147-18210.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/028080/28080194/20210803141354_eurolamp_18mm_147_18210.jpeg</Image>
@@ -15218,6 +15218,7 @@ VAX
     Συρόμενη σπαστή λεπίδα
     Grip λαβή</Description>
 		<EAN>5207227107863</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
