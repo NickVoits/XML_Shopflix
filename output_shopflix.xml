@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-19 14:05</created_at>
+	<created_at>2024-12-19 15:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -901,7 +901,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>2081</Quantity>
+		<Quantity>2041</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -916,7 +916,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>1023</Quantity>
+		<Quantity>867</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -961,7 +961,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000214775</EAN>
-		<Quantity>233</Quantity>
+		<Quantity>225</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1141,7 +1141,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση πορτοκάλι, βερίκοκο και μήλο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005074163</EAN>
-		<Quantity>68</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1246,7 +1246,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005004443</EAN>
-		<Quantity>276</Quantity>
+		<Quantity>288</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1291,7 +1291,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>7150</Quantity>
+		<Quantity>7168</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1487,7 +1487,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<EAN>5201309703172</EAN>
-		<Quantity>3517</Quantity>
+		<Quantity>3505</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1693,7 +1693,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000068</EAN>
-		<Quantity>4635</Quantity>
+		<Quantity>4581</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2207,7 +2207,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>6616</Quantity>
+		<Quantity>6596</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2222,7 +2222,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345092</EAN>
-		<Quantity>4552</Quantity>
+		<Quantity>4492</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2372,7 +2372,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα μοναδικό κρασί με απόλυτα Ελληνική ταυτότητα, με απαλό άρωμα και γεύση ρητίνης που αφήνουν να αναδυθούν και τα αρώματα των ποικιλιών.</Description>
 		<EAN>5201625000016</EAN>
-		<Quantity>1482</Quantity>
+		<Quantity>1478</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2462,7 +2462,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αρώματα από καλοκαιρινά μεσογειακά φρούτα σε συνδυασμό με ζωηρές νότες μαστίχας, πεύκου και θυμαριού στο φόντο. Αρωματικό, δροσερό και ισορροπημένο, αφήνει στο στόμα γεύση από το ελληνικό καλοκαίρι.</Description>
 		<EAN>5200101940266</EAN>
-		<Quantity>174</Quantity>
+		<Quantity>156</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2522,7 +2522,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>3428</Quantity>
+		<Quantity>3416</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2708,7 +2708,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Στον Ημίγλυκο αυτό ποικιλιακό οίνο του Μοσχάτου Μαύρου Τυρνάβου τα αζύμωτα σάκχαρα του σταφυλιού που περιέχονται αναδεικνύουν τα πληθωρικά αρώματα τριαντάφυλλου και τη φρουτώδη επίγευση.</Description>
 		<EAN>5202037114117</EAN>
-		<Quantity>60</Quantity>
+		<Quantity>55</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2738,7 +2738,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>1086</Quantity>
+		<Quantity>1076</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2759,7 +2759,7 @@
 
 </Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>524</Quantity>
+		<Quantity>516</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2789,7 +2789,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ερυθρό είναι ένα εκλεπτυσμένο κρασί με πλούσια αρώματα ερυθρών φρούτων και μπαχαρικών. Το βαθύ κόκκινο χρώμα του αντικατοπτρίζει την πλούσια και γεμάτη γεύση του, με απαλές τανίνες και μακρά επίγευση. Ιδανικό για να συνοδεύσει γεύσεις κρεατικών και τυριών, προσφέροντας μια απολαυστική εμπειρία γευστικής απόλαυσης.</Description>
 		<EAN>5201214100202</EAN>
-		<Quantity>121</Quantity>
+		<Quantity>114</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3734,7 +3734,7 @@
     Χώρα Προέλευσης: Ελλάδα
     Παραγωγός: Ισίδωρος Αρβανίτης</Description>
 		<EAN>5202413002014</EAN>
-		<Quantity>690</Quantity>
+		<Quantity>680</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3792,7 +3792,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000233</EAN>
-		<Quantity>3076</Quantity>
+		<Quantity>2956</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3852,7 +3852,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>5193</Quantity>
+		<Quantity>5097</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4212,7 +4212,7 @@
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<EAN>5000281002538</EAN>
-		<Quantity>643</Quantity>
+		<Quantity>642</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4226,7 +4226,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
-		<Quantity>1017</Quantity>
+		<Quantity>1013</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4284,7 +4284,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Jack Daniel's παράγεται με τον ίδιο παραδοσιακό τρόπο εδώ και 140 χρόνια. Έχει πλούσιο κεχριμπαρένιο χρώμα και ισορροπημένη γεύση με στοιχεία καπνισμένου ξύλου, καραμέλας και βανίλιας. </Description>
 		<EAN>5099873045961</EAN>
-		<Quantity>70</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4431,7 +4431,7 @@
 		<MPN>1499</MPN>
 		<Description>To Beefeater London είναι ένα premium dry τζιν με κρυστάλλινη όψη που παρασκευάζεται στο Λονδίνο, στο αποστακτήριο του Kennington. Οι νότες αρκεύθου, μπαχαρικών και φρούτων είναι ένας συνδυασμός που έχει ως αποτέλεσμα ένα απόσταγμα αρωματικό και με καθαρή γεύση.</Description>
 		<EAN>5000329002209</EAN>
-		<Quantity>233</Quantity>
+		<Quantity>228</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4535,7 +4535,7 @@
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5010677012782</EAN>
-		<Quantity>437</Quantity>
+		<Quantity>436</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8776,7 +8776,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<EAN>8720181204050</EAN>
-		<Quantity>798</Quantity>
+		<Quantity>796</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9924,7 +9924,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>75</Quantity>
+		<Quantity>939</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10888,7 +10888,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 •Έχει μεγάλη αντοχή.
 •Συσκευασία 10kg σε χάρτινο κουτί.</Description>
 		<EAN>5200116050189</EAN>
-		<Quantity>43</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
