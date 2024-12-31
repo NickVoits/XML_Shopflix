@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-31 11:05</created_at>
+	<created_at>2024-12-31 12:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -73,7 +73,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ξανθιά, θολή μπίρα από την καρδιά της Βαυαρίας, η οποία αποτελεί σήμερα συνώνυμο της Weiss μπίρας. Παράγεται σύμφωνα με τον αυστηρό γερμανικό νόμο περί αγνότητας των υλικών του 1516 και περιέχει μόνο νερό, βύνη, λυκίσκο και μαγιά. Δεν παστεριώνεται, γι’ αυτό και δεν περιέχει πρόσθετα και συντηρητικά. Η παραδοσιακή επαναζύμωση που υφίσταται στη φιάλη την κάνει ιδιαίτερα αναζωογονητική. Έχει φρουτώδη, ξηρή καθαρή γεύση, πικάντικη επίγευση και άρωμα φρούτων και μαγιάς.</Description>
 		<EAN>4002103248248</EAN>
-		<Quantity>240</Quantity>
+		<Quantity>252</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -673,7 +673,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>734</Quantity>
+		<Quantity>718</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -704,7 +704,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>633</Quantity>
+		<Quantity>621</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -871,7 +871,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>1983</Quantity>
+		<Quantity>1947</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -886,7 +886,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000133335</EAN>
-		<Quantity>1264</Quantity>
+		<Quantity>1258</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -901,7 +901,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>2501</Quantity>
+		<Quantity>2621</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -916,7 +916,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>1191</Quantity>
+		<Quantity>1071</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -991,7 +991,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Σόδα Schweppes γκρέιπφρουτ με μέντα.</Description>
 		<EAN>5449000271174</EAN>
-		<Quantity>66</Quantity>
+		<Quantity>64</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1051,7 +1051,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>54491472</EAN>
-		<Quantity>382</Quantity>
+		<Quantity>378</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1186,7 +1186,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Amita από πορτοκάλι το οποίο είναι ο κυριότερος εκπρόσωπος των εσπεριδοειδών και είναι από τα πιο αγαπητά φρούτα στις μεσογειακές χώρες. Είναι πλούσιο σε βιταμίνη C, ενώ χάρη στο φολικό οξύ που περιέχει, βοηθά στο να ξεκινάμε τη μέρα μας με καλή διάθεση. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<EAN>5201005011724</EAN>
-		<Quantity>79</Quantity>
+		<Quantity>67</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1231,7 +1231,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση μπανάνα σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005001480</EAN>
-		<Quantity>109</Quantity>
+		<Quantity>97</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1261,7 +1261,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση βύσσινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005011465</EAN>
-		<Quantity>115</Quantity>
+		<Quantity>101</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1581,7 +1581,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<EAN>90415708</EAN>
-		<Quantity>11298</Quantity>
+		<Quantity>11274</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1633,7 +1633,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Η Three Cents μετέφερε το μοναδικό άρωμα και τη γεύση του φρέσκου ροζ γκρέιπφρουτ σε ένα υψηλής κλάσης αναψυκτικό. Αυτή η κορυφαία σόδα δημιουργείται χρησιμοποιώντας φρέσκα φρούτα και διακρίνεται για το έντονο και πολύπλοκο άρωμά της που ξεχωρίζει στα κοκτέιλ και ποτά, όντας παράλληλα ένα τέλειο αναψυκτικό από μόνη της. Φτιαγμένη ειδικά για την παρασκευή του παραδοσιακού μεξικάνικου ποτού Paloma.</Description>
 		<EAN>5060671000070</EAN>
-		<Quantity>2552</Quantity>
+		<Quantity>2528</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1963,7 +1963,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός cranberry από συμπυκνωμένο φυσικό χυμό.</Description>
 		<EAN>5202908000228</EAN>
-		<Quantity>78</Quantity>
+		<Quantity>72</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2192,7 +2192,7 @@
    Όγκος Τεμαχίου: 1.5lt
     Τεμάχια: 1</Description>
 		<EAN>5201946010015</EAN>
-		<Quantity>6388</Quantity>
+		<Quantity>6344</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2207,7 +2207,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>8888</Quantity>
+		<Quantity>8844</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2327,7 +2327,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το Perrier, το Φυσικό Μεταλλικό νερό με προσθήκη διοξειδίου του άνθρακα, έχει καθιερωθεί ως την απόλυτα υγιεινή εναλλακτική επιλογή! Με τις 50 εκατομμύρια φυσαλίδες ανά λίτρο, σε δροσίζει όλη την διάρκεια της ημέρας!</Description>
 		<EAN>3179730011369</EAN>
-		<Quantity>839</Quantity>
+		<Quantity>815</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2357,7 +2357,7 @@
 		<Weight>0.9 kg</Weight>
 		<Description>Το San Pellegrino πρόκειται για ένα φυσικό μεταλλικό ανθρακούχο νερό με προέλευση από τις Άλπεις. Έχει κρυστάλλινη, δροσιστική, ντελικάτη γεύση και μικροσκοπικές φυσαλίδες. Αναδεικνύει κάθε εκλεκτό κρασί και κάθε εξαιρετικό γεύμα.</Description>
 		<EAN>8002270000324</EAN>
-		<Quantity>166</Quantity>
+		<Quantity>151</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2738,7 +2738,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>977</Quantity>
+		<Quantity>974</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2759,7 +2759,7 @@
 
 </Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>446</Quantity>
+		<Quantity>444</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2774,7 +2774,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
 		<EAN>5201214100271</EAN>
-		<Quantity>120</Quantity>
+		<Quantity>116</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2789,7 +2789,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ερυθρό είναι ένα εκλεπτυσμένο κρασί με πλούσια αρώματα ερυθρών φρούτων και μπαχαρικών. Το βαθύ κόκκινο χρώμα του αντικατοπτρίζει την πλούσια και γεμάτη γεύση του, με απαλές τανίνες και μακρά επίγευση. Ιδανικό για να συνοδεύσει γεύσεις κρεατικών και τυριών, προσφέροντας μια απολαυστική εμπειρία γευστικής απόλαυσης.</Description>
 		<EAN>5201214100202</EAN>
-		<Quantity>89</Quantity>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2895,7 +2895,7 @@
 Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.
 Σερβίρεται στους 8-10°C.</Description>
 		<EAN>5204222575017</EAN>
-		<Quantity>24</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3029,7 +3029,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Λαμπερό υποκίτρινο χρώμα με πράσινες ανταύγειες. Σύνθετη αρωματική παλέτα όπου οι φυτικοί χαρακτήρες του σπαραγγιού και της πιπεριάς συνυπάρχουν με νότες ώριμων φρούτων (πεπόνι, ροδάκινο, ανανάς). Πλούσιο στη γεύση, διακρίνεται για τη δροσερή οξύτητα, τη λιπαρότητα, τη γευστική πολυπλοκότητα και την επίμονη, φρουτώδη επίγευση.</Description>
 		<EAN>15200372900997</EAN>
-		<Quantity>245</Quantity>
+		<Quantity>239</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3287,7 +3287,7 @@
     •Αλκοόλ: 11,5% v/v
     •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>491</Quantity>
+		<Quantity>473</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4198,7 +4198,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<EAN>5010314700003</EAN>
-		<Quantity>358</Quantity>
+		<Quantity>357</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4254,7 +4254,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<EAN>5000267024202</EAN>
-		<Quantity>632</Quantity>
+		<Quantity>626</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4358,7 +4358,7 @@
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
 		<EAN>5000289925440</EAN>
-		<Quantity>283</Quantity>
+		<Quantity>282</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5247,7 +5247,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0241</MPN>
 		<Description>Η οδοντόκρεμα Colgate Triple Action ενδείκνυται για καθημερινή χρήση με τριπλή δράση και μέντα.</Description>
 		<EAN>6920354812521</EAN>
-		<Quantity>1923</Quantity>
+		<Quantity>1917</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8195,7 +8195,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<EAN>5203650710286</EAN>
-		<Quantity>2456</Quantity>
+		<Quantity>2455</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9009,7 +9009,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.
 Προφυλάξεις: Μακριά από παιδιά.</Description>
 		<EAN>80225843</EAN>
-		<Quantity>473</Quantity>
+		<Quantity>465</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17031,7 +17031,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.5 kg</Weight>
 		<Description>Κρακεράκια μίνι της εταιρείας Gullon σε στρογγυλό σχήμα με αλάτι.</Description>
 		<EAN>8410376014051</EAN>
-		<Quantity>235</Quantity>
+		<Quantity>229</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
