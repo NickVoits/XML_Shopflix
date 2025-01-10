@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-01-10 12:05</created_at>
+	<created_at>2025-01-10 14:34</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -73,7 +73,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ξανθιά, θολή μπίρα από την καρδιά της Βαυαρίας, η οποία αποτελεί σήμερα συνώνυμο της Weiss μπίρας. Παράγεται σύμφωνα με τον αυστηρό γερμανικό νόμο περί αγνότητας των υλικών του 1516 και περιέχει μόνο νερό, βύνη, λυκίσκο και μαγιά. Δεν παστεριώνεται, γι’ αυτό και δεν περιέχει πρόσθετα και συντηρητικά. Η παραδοσιακή επαναζύμωση που υφίσταται στη φιάλη την κάνει ιδιαίτερα αναζωογονητική. Έχει φρουτώδη, ξηρή καθαρή γεύση, πικάντικη επίγευση και άρωμα φρούτων και μαγιάς.</Description>
 		<EAN>4002103248248</EAN>
-		<Quantity>204</Quantity>
+		<Quantity>192</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -270,7 +270,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>876</Quantity>
+		<Quantity>872</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -301,7 +301,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>2422</Quantity>
+		<Quantity>2332</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -332,7 +332,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>1647</Quantity>
+		<Quantity>1629</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -348,23 +348,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>1622</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>110311</SKU>
-		<Name>Κλιάφα Πορτοκαλάδα χωρίς ζάχαρη 6x330 ml</Name>
-		<URL>https://www.skroutz.gr/s/54609738/Kliafa-Portokalada-choris-zachari-Kliafa-6x330-ml-5-1-doro.html</URL>
-		<Image>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/2/4200015422/portokali-xwris-zaxarh-6x330ml-pet-51-dwro.jpg?id=1653993200</Image>
-		<Price>2.889</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>0144</MPN>
-		<Weight>2 kg</Weight>
-		<Description>
-Η κλιάφα πορτοκάλι χωρίς ζάχαρη είναι ένα φρουτώδες, αρωματικό σνακ που παράγεται από φρέσκα πορτοκάλια χωρίς την προσθήκη ζάχαρης. Είναι μια υγιεινή επιλογή για όσους αποφεύγουν την πρόσθεση ζάχαρης στη διατροφή τους, προσφέροντας τη φυσική γεύση και τα θρεπτικά οφέλη του φρούτου χωρίς τα επιπλέον σάκχαρα.</Description>
-		<EAN>5201275000756</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>1607</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -379,7 +363,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<EAN>5201275611372</EAN>
-		<Quantity>834</Quantity>
+		<Quantity>830</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -394,37 +378,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>1223</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>110321</SKU>
-		<Name>Κλιάφα Λεμονάδα χωρίς ζάχαρη Κλιάφα 6x330 ml</Name>
-		<URL>https://www.skroutz.gr/s/54611940/Kliafa-Lemonada-choris-zachari-Kliafa-6x330-ml-5-1-doro.html</URL>
-		<Image>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/4/4200015424/lemoni-xwris-zaxarh-6x330ml-pet-51-dwro.jpg?id=1653993448</Image>
-		<Price>2.889</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>0145</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Η ΚΛΙΑΦΑ Λεμόνι Χωρίς Ζάχαρη είναι μια αναζωογονητική αναψυκτική που προσφέρει το φρέσκο άρωμα και τη γεύση του λεμονιού, χωρίς την προσθήκη ζάχαρης. Είναι ιδανική επιλογή για όσους αναζητούν μια αναζωογονητική πρόταση με χαμηλή περιεκτικότητα σε ζάχαρη.</Description>
-		<EAN>5201275000763</EAN>
-		<Quantity>1</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>110322</SKU>
-		<Name>Κλιάφα Αναψυκτικό Λεμόνι Χωρίς Ανθρακικό 6x330 ml</Name>
-		<URL>https://www.skroutz.gr/s/54737896/Kliafa-Anapsyktiko-Lemoni-CHoris-Anthrakiko-0696.html</URL>
-		<Image>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/4/4200015434/lemonada-xwris-anthrakiko-6x330ml-pet-51-dwro.jpg?id=1653996928</Image>
-		<Price>2.889</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>0696</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Η Κλιάφα Λεμόνι Χωρίς Ανθρακικό είναι μια δροσιστική αναψυκτική με γεύση λεμονιού, χωρίς ανθρακικό, ιδανική για όσους αναζητούν μια ελαφριά και φρουτώδη απόλαυση.</Description>
-		<EAN>5201275001029</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>1217</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -439,7 +393,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<EAN>5201275610672</EAN>
-		<Quantity>317</Quantity>
+		<Quantity>303</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -455,21 +409,6 @@
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
 		<Quantity>728</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>110351</SKU>
-		<Name>Κλιάφα Βυσσινάδα χωρίς ζάχαρη 6x330ml</Name>
-		<URL>https://www.skroutz.gr/s/45374899/Kliafa-Vyssinada-me-Anthrakiko-CHoris-Zachari-Mpoukali-6x330ml.html</URL>
-		<Image>https://d3kdwhwrhuoqcv.cloudfront.net/uploads/products/202207/83943.PNG</Image>
-		<Price>3.366</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>1277</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Το πιο ωραίο γευστικό ταξίδι το βιώνει κανείς όταν απολαμβάνει μια Βυσσινάδα από την Οικογένεια Κλιάφα. Με οδηγό την υπέροχη γεύση της η οποία ξυπνάει αναμνήσεις παιδικών χρόνων και την ίδια συνταγή που παραμένει αναλλοίωτη, μόνο επιφωνήματα απόλαυσης προκαλεί σε όποιον τη δοκιμάζει. Χωρίς προσθήκη ζάχαρης.</Description>
-		<EAN>5201275000770</EAN>
-		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -555,7 +494,7 @@
 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/53900383/EPSA-Soda-Soda-me-Anthrakiko-se-Kouti-0314-6x330ml.html</URL>
 		<Image>https://d3kdwhwrhuoqcv.cloudfront.net/uploads/products/202006/2020_06_pockee_EPSA_Soda_4x330ml_Can-.png</Image>
-		<Price>2.403</Price>
+		<Price>1.78</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0314</MPN>
@@ -571,7 +510,7 @@
 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54767502/EPSA-Lemoni-me-Anthrakiko-Kouti-6x330ml.html</URL>
 		<Image>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/0/4200000850/epsa-gkazoza-4x330ml-can.jpg</Image>
-		<Price>3.159</Price>
+		<Price>2.92</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0930</MPN>
@@ -587,7 +526,7 @@
 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54720030/EPSA-Pink-Grapefruit-Kouti-6x330ml.html</URL>
 		<Image>https://edt-shop.gr/18063-home_default_2x/epsa-pink-grapefruit-lemon-koyti-330ml-4x6pack-51-dwro.jpg</Image>
-		<Price>3.276</Price>
+		<Price>2.77</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0182</MPN>
@@ -712,7 +651,7 @@
 		<Name>ΕΨΑ Βύσσινο Χωρίς Ανθρακικό Μπουκάλι 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/46219900/EPSA-Vyssino-me-Anthrakiko-Mpoukali-6x330ml.html</URL>
 		<Image>https://static.shopflix.gr/images/detailed/11398/20230126165723_anapsyktiko_vyssinada_epsa_6x330ml_5_1_doro.jpeg</Image>
-		<Price>3.987</Price>
+		<Price>3.81</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0450</MPN>
@@ -796,7 +735,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μοναδική Cola Φλώρινας Δινάκη από φυσικό ξινό νερό, τώρα χωρίς προσθήκη ζάχαρης, με γλυκαντικά από το φυτό Στέβια και 0 θερμίδες!</Description>
 		<EAN>5205241020601</EAN>
-		<Quantity>45</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -826,7 +765,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό της εταιρείας Αφοί Δινάκη με φυσικό χυμό πορτοκαλιών.</Description>
 		<EAN>5205241000054</EAN>
-		<Quantity>170</Quantity>
+		<Quantity>164</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -871,7 +810,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>1321</Quantity>
+		<Quantity>1249</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -886,7 +825,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000133335</EAN>
-		<Quantity>874</Quantity>
+		<Quantity>856</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -901,7 +840,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>1939</Quantity>
+		<Quantity>1917</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -916,7 +855,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>1191</Quantity>
+		<Quantity>1170</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1021,7 +960,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<EAN>5449000214805</EAN>
-		<Quantity>104</Quantity>
+		<Quantity>103</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1051,7 +990,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>54491472</EAN>
-		<Quantity>223</Quantity>
+		<Quantity>217</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1066,7 +1005,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000131836</EAN>
-		<Quantity>168</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1291,7 +1230,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>6419</Quantity>
+		<Quantity>6389</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1336,7 +1275,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<EAN>5201946910315</EAN>
-		<Quantity>424</Quantity>
+		<Quantity>421</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1351,7 +1290,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<EAN>5201946911213</EAN>
-		<Quantity>436</Quantity>
+		<Quantity>433</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1366,7 +1305,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<EAN>5201946910247</EAN>
-		<Quantity>435</Quantity>
+		<Quantity>417</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1411,7 +1350,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>354</Quantity>
+		<Quantity>342</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1441,7 +1380,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<EAN>5201946910445</EAN>
-		<Quantity>218</Quantity>
+		<Quantity>215</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1599,7 +1538,7 @@
 •Δεν περιέχει συντηρητικά
 •Φιλική για το περιβάλλον συσκευασία</Description>
 		<EAN>5999884034469</EAN>
-		<Quantity>9655</Quantity>
+		<Quantity>9631</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1656,7 +1595,7 @@
 		<Name>Agros Χυμός Πορτοκάλι 100% Φυσικός 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812101/Agros-CHymos-Portokali-100-Fysikos-250ml.html?product_id=204993906</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023812/23812168/20220318111841_agros_chymos_portokali_250ml.jpeg</Image>
-		<Price>0.470592342</Price>
+		<Price>0.51</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0977</MPN>
@@ -1671,14 +1610,14 @@
 		<Name>Agros Χυμός Ροδάκινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812172/Agros-CHymos-Rodakino-250ml.html?product_id=204993918</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023812/23812172/20220216103524_agros_chymos_rodakino_250ml.jpeg</Image>
-		<Price>0.320858415</Price>
+		<Price>0.35</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0750</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000044</EAN>
-		<Quantity>1779</Quantity>
+		<Quantity>1752</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1686,7 +1625,7 @@
 		<Name>Agros Χυμός Πορτοκάλι / Μήλο / Ροδάκινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812144/Agros-CHymos-Portokali-Milo-Rodakino-250ml.html?product_id=204993903</URL>
 		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=d7596862-c7a2-424e-ba6d-a759de6db60a</Image>
-		<Price>0.320858415</Price>
+		<Price>0.35</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0440</MPN>
@@ -1701,7 +1640,7 @@
 		<Name>Agros Χυμός 8 Φρούτα 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812121/Agros-CHymos-8-Frouta-250ml.html?product_id=204993908</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023812/23812121/20220216102732_agros_chymos_8_frouta_250ml.jpeg</Image>
-		<Price>0.3957253785000001</Price>
+		<Price>0.41</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0584</MPN>
@@ -1716,14 +1655,14 @@
 		<Name>Agros Φρουτοποτό Μπανάνα / Βύσσινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/54188164/Agros-Froutopoto-Mpanana-Vyssino-250ml-0803.html</URL>
 		<Image>https://i.imgur.com/p6xOQPf.jpeg</Image>
-		<Price>0.3529442565000001</Price>
+		<Price>0.38</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0803</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. </Description>
 		<EAN>5202908004011</EAN>
-		<Quantity>805</Quantity>
+		<Quantity>778</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1761,14 +1700,14 @@
 		<Name>Agros Χυμός Πορτοκάλι / Μήλο / Βερίκοκο / Ροδάκινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812151/Agros-CHymos-Portokali-Milo-Verikoko-Rodakino-250ml.html?product_id=204993911</URL>
 		<Image>https://lianiki.mrpanda.gr/107712-large_default/agros-%CF%87%CF%85%CE%BC%CF%8C%CF%82-4-%CF%86%CF%81%CE%BF%CF%8D%CF%84%CE%B1-250ml.jpg</Image>
-		<Price>0.3529442565000001</Price>
+		<Price>0.3957253785000001</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0578</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000174</EAN>
-		<Quantity>1227</Quantity>
+		<Quantity>1200</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1776,7 +1715,7 @@
 		<Name>Agros Χυμός Πορτοκάλι 100% Φυσικός 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812050/Agros-CHymos-Portokali-100-Fysikos-1000ml.html?product_id=204993913</URL>
 		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=b1b2b861-d830-4bcc-a3fb-bbca6ee434a7</Image>
-		<Price>1.411777026</Price>
+		<Price>1.53</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0310</MPN>
@@ -1791,14 +1730,14 @@
 		<Name>Agros Χυμός Ροδάκινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812064/Agros-CHymos-Rodakino-1000ml.html?product_id=204993912</URL>
 		<Image>https://www.bioscoop.gr/wp-content/uploads//2020/08/5202908110002.jpg</Image>
-		<Price>0.9625752449999999</Price>
+		<Price>1.06</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0341</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908110002</EAN>
-		<Quantity>889</Quantity>
+		<Quantity>877</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1806,14 +1745,14 @@
 		<Name>Agros Χυμός Πορτοκάλι / Μήλο / Ροδάκινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23706207/Agros-CHymos-Portokali-Milo-Rodakino-1000ml.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320067_0_lo.jpg</Image>
-		<Price>0.9625752449999999</Price>
+		<Price>1.06</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908001003</EAN>
-		<Quantity>955</Quantity>
+		<Quantity>937</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1836,7 +1775,7 @@
 		<Name>Agros Χυμός 8 Φρούτα 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23811972/Agros-CHymos-8-Frouta-1000ml.html?product_id=204993927</URL>
 		<Image>https://balaskas.shop/wp-content/uploads/2019/11/5202908000105.jpg</Image>
-		<Price>1.1871761355</Price>
+		<Price>1.25</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0035</MPN>
@@ -1851,7 +1790,7 @@
 		<Name>Agros Χυμός Μήλο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/27224039/Agros-CHymos-Milo-Milo-1000ml.html?product_id=204993916</URL>
 		<Image>https://captain-hellas.gr/media/catalog/product/cache/7f8f0dadd9024ab92d0921af5c41888f/P/a/Page_1009_1.jpg</Image>
-		<Price>1.0588327695</Price>
+		<Price>1.13</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0788</MPN>
@@ -1866,14 +1805,14 @@
 		<Name>Agros Φρουτοποτό Μπανάνα / Βύσσινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812016/Agros-Froutopoto-Mpanana-Vyssino-1000ml-23-5202908001.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320094_low.jpg</Image>
-		<Price>1.0588327695</Price>
+		<Price>1.13</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0544</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. </Description>
 		<EAN>5202908001072</EAN>
-		<Quantity>230</Quantity>
+		<Quantity>224</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1896,14 +1835,14 @@
 		<Name>Agros Χυμός Ρόδι 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812072/Agros-CHymos-Rodi-1000ml.html?product_id=204993917</URL>
 		<Image>https://imageproxy.wolt.com/menu/menu-images/64253711538dc3031d335d2d/c97f3a06-e439-11ed-97ba-c21da986045d_4519edb0_cf94_11ed_bc66_be0762469d7c_sok_market_88_photoroom.jpeg</Image>
-		<Price>1.1871761355</Price>
+		<Price>1.13</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0424</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
 		<EAN>5202908000143</EAN>
-		<Quantity>612</Quantity>
+		<Quantity>602</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1941,14 +1880,14 @@
 		<Name>Agros Χυμός 4 Φρούτα Πορτοκάλι / Μήλο / Βερίκοκο / Ροδάκινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/29585006/Agros-CHymos-4-Frouta-Portokali-Milo-Verikoko-Rodakino-1000ml.html?product_id=204993921</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/029585/29585006/20210621111226_agros_chymos_4_frouta_1000ml.jpeg</Image>
-		<Price>1.1230044525</Price>
+		<Price>1.19</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0972</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000273</EAN>
-		<Quantity>360</Quantity>
+		<Quantity>348</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2023,7 +1962,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<EAN>5201156030261</EAN>
-		<Quantity>467</Quantity>
+		<Quantity>466</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2038,7 +1977,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<EAN>5201156030308</EAN>
-		<Quantity>2346</Quantity>
+		<Quantity>2345</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2192,7 +2131,7 @@
    Όγκος Τεμαχίου: 1.5lt
     Τεμάχια: 1</Description>
 		<EAN>5201946010015</EAN>
-		<Quantity>4832</Quantity>
+		<Quantity>4788</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2207,7 +2146,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>4440</Quantity>
+		<Quantity>4336</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2222,7 +2161,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345092</EAN>
-		<Quantity>4940</Quantity>
+		<Quantity>4924</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2470,14 +2409,14 @@
 		<Name>ΑΝΕΜΕΛΟ ΛΕΥΚΟ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/54186864/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-Krasi-Anemelo-Leyko-Imixiro-500ml.html</URL>
 		<Image>https://edt-shop.gr/18601-large_default_2x/agchialoy-anemelo-leyko-hmixhro-05lt.jpg</Image>
-		<Price>1.242</Price>
+		<Price>1.39</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
 		<MPN>0989</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<EAN>5203413000017</EAN>
-		<Quantity>1490</Quantity>
+		<Quantity>1484</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2485,14 +2424,14 @@
 		<Name>ΑΝΕΜΕΛΟ ΡΟΖΕ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/54326353/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-Krasi-Roze-Imixiro-500ml.html</URL>
 		<Image>https://mpalantinas.gr/wp-content/uploads/2021/09/01-05-028.jpg</Image>
-		<Price>1.296</Price>
+		<Price>1.45</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
 		<MPN>0429</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<EAN>5203413000000</EAN>
-		<Quantity>242</Quantity>
+		<Quantity>236</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2500,14 +2439,14 @@
 		<Name>ΑΝΕΜΕΛΟ ΕΡΥΘΡΟ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/54186866/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-Anemelo-Erythro-6f-X500ml-Imixiro-Pet-A-o-s-neas-Agchialou.html</URL>
 		<Image>https://mpalantinas.gr/wp-content/uploads/2021/09/01-06-028.jpg</Image>
-		<Price>1.323</Price>
+		<Price>1.49</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
 		<MPN>0412</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ημιξηρό ερυθρό κρασί σε συσκευασία PET. Με πλούσια αρώματα και εκλεπτυσμένη γεύση, προσφέρει μια ευχάριστη εμπειρία απόλαυσης και αναψυχής.</Description>
 		<EAN>5203413000024</EAN>
-		<Quantity>259</Quantity>
+		<Quantity>253</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2522,7 +2461,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>2507</Quantity>
+		<Quantity>2489</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2537,7 +2476,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413040181</EAN>
-		<Quantity>288</Quantity>
+		<Quantity>276</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2552,7 +2491,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ερυθρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα πλούσιο και γεμάτο ερυθρό κρασί με εκλεπτυσμένη γεύση και αρώματα μούρων και μπαχαρικών. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413030182</EAN>
-		<Quantity>159</Quantity>
+		<Quantity>147</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2567,7 +2506,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ημίγλυκο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα γλυκό και αρωματικό κρασί με φρουτώδεις νότες και ελαφρώς γλυκιές αποχρώσεις. Με την απαλή του γεύση και το φωτεινό του χρώμα, αποτελεί μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης.</Description>
 		<EAN>5203413010610</EAN>
-		<Quantity>132</Quantity>
+		<Quantity>120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2582,7 +2521,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<EAN>5202037115015</EAN>
-		<Quantity>196</Quantity>
+		<Quantity>190</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2597,7 +2536,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ρετσίνα προσφέρει ένα δροσιστικό και αρωματικό λευκό κρασί με τις χαρακτηριστικές νότες της ρετσίνας. Με το φρέσκο άρωμά της και τη δροσερή γεύση της, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε μοναδικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5202037115022</EAN>
-		<Quantity>131</Quantity>
+		<Quantity>125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2627,7 +2566,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<EAN>5202037115053</EAN>
-		<Quantity>39</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2642,7 +2581,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>686</Quantity>
+		<Quantity>682</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2738,7 +2677,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>913</Quantity>
+		<Quantity>908</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2991,7 +2930,7 @@
 	</product>
 	<product>
 		<SKU>46553</SKU>
-		<Name>Κτήμα Ζαφειράκη Βιολογικό Κρασί Λημνιώνα Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κτήμα Ζαφειράκη Βιολογικό Κρασί Λημνιώνα Young Vines Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/21631690/Ktima-Zafeiraki-Viologiko-Krasi-Limniona-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/021631/21631690/20211018140845_ktima_zafeiraki_limniona_new_age_erythro_750ml.jpeg</Image>
 		<Price>13.815</Price>
@@ -3019,7 +2958,7 @@
 	</product>
 	<product>
 		<SKU>47011</SKU>
-		<Name>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ SAUVIGNON BLANC ΛΕΥΚΟ ΒΙΟΛΟΓΙΚΟ 750ml</Name>
+		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Καριπίδης Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/55483259/Ktima-Karipidi-Viologiko-Krasi-Sauvignon-Blanc-Leyko-Xiro-750ml-15200372900997.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/041628/41628887/20230418114806_ktima_karipidi_viologiko_krasi_karipidis_sauvignon_blanc_leyko_xiro_1500ml.jpeg</Image>
 		<Price>10.206</Price>
@@ -3030,6 +2969,40 @@
 		<Description>Λαμπερό υποκίτρινο χρώμα με πράσινες ανταύγειες. Σύνθετη αρωματική παλέτα όπου οι φυτικοί χαρακτήρες του σπαραγγιού και της πιπεριάς συνυπάρχουν με νότες ώριμων φρούτων (πεπόνι, ροδάκινο, ανανάς). Πλούσιο στη γεύση, διακρίνεται για τη δροσερή οξύτητα, τη λιπαρότητα, τη γευστική πολυπλοκότητα και την επίμονη, φρουτώδη επίγευση.</Description>
 		<EAN>15200372900997</EAN>
 		<Quantity>230</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47013</SKU>
+		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Hydria Merlot Ερυθρό Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/21364690/Ktima-Karipidi-Viologiko-Krasi-Hydria-Merlot-Erythro-Xiro-750ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/021364/21364690/20200722155757_ktima_karipidi_hydria_erythro_750ml.jpeg</Image>
+		<Price>11.844</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
+		<MPN>1667</MPN>
+		<Description>Βαθύ κόκκινο χρώμα με ιώδεις ανταύγειες στη νεότητά του. Πυκνό αρωματικό μπουκέτο από νότες μαρμελάδας δαμάσκηνου, σταφίδας, βιολέτας, σοκολάτας και βανίλιας.</Description>
+		<EAN>5200372900051</EAN>
+		<Quantity>30</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47015</SKU>
+		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Rilancio Nebbiolo Ερυθρό Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/26387543/Ktima-Karipidi-Viologiko-Krasi-Rilancio-Nebbiolo-Erythro-Xiro-750ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/026387/26387543/20211018115112_ktima_karipidi_krasi_erythro_xiro_rilancio_750ml.jpeg</Image>
+		<Price>12.78</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
+		<MPN>1668</MPN>
+		<Description>Χαρακτηρίζεται από το μέτριας(-) έντασης ρουμπινί χρώμα του, με κεραμιδί νύξεις όσο το κρασί ‘φορτώνει’ χρόνια στην πλάτη του.
+
+Δαμάσκηνο και άγριο βύσσινο μαζί με αποξηραμένα λουλούδια στη μύτη, σε πρώτο πλάνο, υποστηρίζονται από κάποια πικάντικα, πιπεράτα, αρώματα και αρκετές δόσεις βαρελιού που εκφράζονται μέσα από μπαχαρένια αρώματα δρυός.
+
+Στο στόμα το κρασί είναι σχετικά δριμύ με οξύτητα και τανίνες να προκαλούν εξάρσεις, ωστόσο το φρούτο και το αλκοόλ να καταφέρνουν τελικά να ισορροπούν τα δύο αυτά ‘εξτρεμιστικά’ στοιχεία που η ποικιλία διαθέτει ως χαρακτηριστικά της.
+
+Στην επίγευση του κρασιού το αρχικό φρέσκο φρούτο, διαδέχεται η βαρελάτη αίσθηση και τα ξηροκαρπάτα στοιχεία.</Description>
+		<EAN>5200372900143</EAN>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3079,7 +3052,7 @@
 		<Name>Κτήμα ΑΛΦΑ Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707577/Ktima-ALFA-Krasi-Alpha-Estate-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004707/4707577/20211112163408_ktima_alfa_krasi_alpha_estate_leyko_xiro_750ml.jpeg</Image>
-		<Price>17.81990579136768</Price>
+		<Price>18.3816</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1325</MPN>
@@ -3093,7 +3066,7 @@
 		<Name>Κτήμα ΑΛΦΑ Κρασί Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/41645223/Ktima-ALFA-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/041645/41645223/20230419090801_ktima_alfa_krasi_erythro_xiro_750ml.jpeg</Image>
-		<Price>24.56907739173888</Price>
+		<Price>25.4104</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1326</MPN>
@@ -3107,7 +3080,7 @@
 		<Name>Κτήμα ΑΛΦΑ Κρασί Χελώνες Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707579/Ktima-ALFA-Krasi-CHelones-Malagouzia-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004707/4707579/20200204121338_ktima_alfa_malagouzia_leyko_750ml.jpeg</Image>
-		<Price>12.47979379984297</Price>
+		<Price>13.1928</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1327</MPN>
@@ -3127,7 +3100,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888160100</EAN>
-		<Quantity>1068</Quantity>
+		<Quantity>1062</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3287,7 +3260,7 @@
     •Αλκοόλ: 11,5% v/v
     •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>409</Quantity>
+		<Quantity>406</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3632,6 +3605,34 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>43001</SKU>
+		<Name>Βασδαβανου Ερωτικο Λευκο Ξηρο 750ml Ροδίτης</Name>
+		<URL>https://www.skroutz.gr/s/56287309/Vasdavanou-Erotiko-Leyko-750ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/056287/56287309/20240917133208_vasdavanou_erotiko_leyko_750ml.jpeg</Image>
+		<Price>2.16</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
+		<MPN>1665</MPN>
+		<Description>Ένα ισορροπημένο λευκό κρασί, με γεμάτη γεύση φίνο άρωμα και διαυγές χρώμα. Προέρχεται από τοπικούς αμπελώνες της ποικιλίας Ροδίτης.</Description>
+		<EAN>5202924031473</EAN>
+		<Quantity>739</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>43003</SKU>
+		<Name>Βασδαβανου Ερωτικο Ροζε Ξηρο 750ml Μοσχάτο Μαύρο Τυρνάβου</Name>
+		<URL>https://www.ekava.gr/product/%CE%B2%CE%B1%CF%83%CE%B4%CE%B1%CE%B2%CE%B1%CE%BD%CE%BF%CF%85-%CE%B5%CF%81%CF%89%CF%84%CE%B9%CE%BA%CE%BF-%CF%81%CE%BF%CE%B6%CE%B5-750ml/</URL>
+		<Image>https://grigoriouonline.gr/wp-content/uploads/2023/12/CCCPRODUCTIMAGES-3301-scaled-800x449.jpg</Image>
+		<Price>2.295</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
+		<MPN>1666</MPN>
+		<Description>ΕΡΩΤΙΚΟ ένα ανοιχτόχρωμο ροζέ κρασί με έντονη φρουτώδη γεύση και άρωμα. Προέρχεται από τη ποικιλία Μοσχάτο μαύρο Τυρνάβου γνωστή για τα αρώματά της.</Description>
+		<EAN>5202924032487</EAN>
+		<Quantity>173</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>46004</SKU>
 		<Name>Κτήμα Αβαντίς Κρασί Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4746618/Ktima-Avantis-Krasi-Syrah-Erythro-Xiro-750ml.html</URL>
@@ -3734,7 +3735,7 @@
     Χώρα Προέλευσης: Ελλάδα
     Παραγωγός: Ισίδωρος Αρβανίτης</Description>
 		<EAN>5202413002014</EAN>
-		<Quantity>568</Quantity>
+		<Quantity>538</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3748,7 +3749,7 @@
 		<MPN>1421</MPN>
 		<Description>Ένα ούζο πλωμαρίου με συνταγή από το 1894, όταν ο Ισίδωρος Αρβανίτης συνδύασε τους αρωματικούς σπόρους και τα βότανα της Λέσβου με κυρίαρχο τον γλυκάνισο από το Λισβόρι, αλάτι Καλλονής, μοσχοκάρυδο και κανέλλα.</Description>
 		<EAN>5202413007019</EAN>
-		<Quantity>42</Quantity>
+		<Quantity>41</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3770,7 +3771,7 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5265103/Apostolakis-Tsipouro-me-glykaniso-50ml.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%B1%CE%BA%CE%B7-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image>
-		<Price>1.1528365095</Price>
+		<Price>1.230053526</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0898</MPN>
@@ -3785,14 +3786,14 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/17910830/Apostolakis-Tsipouro-Me-Glykaniso-42-100ml.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000233_1-1000x1000.jpg</Image>
-		<Price>2.002825773</Price>
+		<Price>2.087117253</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0322</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000233</EAN>
-		<Quantity>2484</Quantity>
+		<Quantity>2457</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3800,14 +3801,14 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5269196/Apostolakis-Tsipouro-me-glykaniso-200ml.html</URL>
 		<Image>https://www.cavakalomenidis.gr/wp-content/uploads/2023/06/Tsipouro-Apostolakis-With-Anise-200ml.jpg</Image>
-		<Price>3.800040543</Price>
+		<Price>3.927681927</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0970</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064011222</EAN>
-		<Quantity>188</Quantity>
+		<Quantity>186</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3815,14 +3816,14 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 700ml ΜΕ ΓΛΥΚΑΝΙΣΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/55498166/Apostolakis-Tsipouro-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/017419/17419159/20200504104314_apostolakis_me_glykaniso_tsipouro_700ml.jpeg</Image>
-		<Price>12.091311765</Price>
+		<Price>12.410415225</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>1031</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000318</EAN>
-		<Quantity>35</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3830,7 +3831,7 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5265102/Apostolakis-Tsipouro-choris-glykaniso-50ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-50.jpg</Image>
-		<Price>1.146364128</Price>
+		<Price>1.215001476</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0345</MPN>
@@ -3845,14 +3846,14 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/17911194/Apostolakis-Tsipouro-CHoris-Glykaniso-42-100ml.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000219_1-1000x1000.jpg</Image>
-		<Price>1.956164418</Price>
+		<Price>2.040455898</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0638</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>1777</Quantity>
+		<Quantity>1750</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3860,14 +3861,14 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5269192/Apostolakis-Tsipouro-choris-glykaniso-200ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005269/5269192/20210210125058_apostolakis_tsipouro_choris_glykaniso_200ml.jpeg</Image>
-		<Price>3.705212628</Price>
+		<Price>3.832854012</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0722</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064011550</EAN>
-		<Quantity>1154</Quantity>
+		<Quantity>1151</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3875,7 +3876,7 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 700ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/55498167/Apostolakis-Tsipouro-700ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-700.jpg</Image>
-		<Price>11.75565105</Price>
+		<Price>12.07475451</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>1032</MPN>
@@ -3912,7 +3913,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα πικάντικα αρώματα γλυκάνισου, μάραθου και γλυκόριζας, φρουτώδη αρώματα περγαμόντου και σύκου και βοτανικές νότες μέντας. Στο στόμα είναι μαλακό και γλυκόπιοτο με μακρύ βοτανικό τελείωμα. Καταναλώνεται με προσθήκη δροσερού νερού και πάγου παίρνοντας γαλάζια μορφή και συνδυάζεται με παραδοσιακούς μεζέδες.</Description>
 		<EAN>5202548101125</EAN>
-		<Quantity>285</Quantity>
+		<Quantity>261</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3957,7 +3958,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202548141022</EAN>
-		<Quantity>227</Quantity>
+		<Quantity>203</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3995,7 +3996,7 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/20022697/Tyrnavou-Me-Glykaniso-Tsipouro-42-100ml.html</URL>
 		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4120-1200x1200.jpg</Image>
-		<Price>1.89</Price>
+		<Price>1.998</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0125</MPN>
@@ -4010,7 +4011,7 @@
 		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/20022660/Tyrnavou-CHoris-glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/020022/20022660/20210210124802_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image>
-		<Price>1.827</Price>
+		<Price>1.944</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0232</MPN>
@@ -4025,7 +4026,7 @@
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Με Γλυκάνισο Τσίπουρο 50ml</Name>
 		<URL>https://www.skroutz.gr/s/55764445/Tsipouro-THessaliko-50ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.070325377574956</Price>
+		<Price>1.15143853890164</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0896</MPN>
@@ -4040,7 +4041,7 @@
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Με Γλυκάνισο Τσίπουρο 100ml</Name>
 		<URL>https://www.skroutz.gr/s/55764393/Tsipouro-THessaliko-100ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.852248403766148</Price>
+		<Price>1.978424432496545</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0454</MPN>
@@ -4055,7 +4056,7 @@
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Χωρίς Γλυκάνισο Τσίπουρο 50ml</Name>
 		<URL>https://www.skroutz.gr/s/24672677/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-THessaliko-CHoris-Glykaniso-Tsipouro-50ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.058283737574956</Price>
+		<Price>1.13939689890164</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0747</MPN>
@@ -4070,14 +4071,14 @@
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Χωρίς Γλυκάνισο Τσίπουρο 100ml</Name>
 		<URL>https://www.skroutz.gr/s/24672659/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-THessaliko-CHoris-Glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.813113073766147</Price>
+		<Price>1.939289102496544</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0692</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα. Χωρίς γλυκάνισο.</Description>
 		<EAN>5203413080026</EAN>
-		<Quantity>2266</Quantity>
+		<Quantity>2251</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4094,7 +4095,7 @@
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5202924122423</EAN>
-		<Quantity>1075</Quantity>
+		<Quantity>1073</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4124,7 +4125,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<EAN>5202207622015</EAN>
-		<Quantity>443</Quantity>
+		<Quantity>417</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4154,7 +4155,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207612016</EAN>
-		<Quantity>965</Quantity>
+		<Quantity>932</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4188,6 +4189,60 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>53101</SKU>
+		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<URL>https://www.skroutz.gr/s/39781068/Kalaitzi-Tsipouro-me-Glykaniso-42-50ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/039781/39781068/20221201092609_kalaitzi_tsipouro_me_glykaniso_42_50ml.jpeg</Image>
+		<Price>1.27</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
+		<MPN>1669</MPN>
+		<Description>Το τσίπουρο Καλαϊτζή δεν είναι απλά ένα μαλακό, ευκολόπιοτο και αρωματικό τσίπουρο διπλής απόσταξης. Είναι το πείσμα, η διαίσθηση και η αφοσίωση, που έγιναν η οικογενειακή ιστορία τριών γενεών.
+
+Ακολουθώντας πιστά την πατροπαράδοτη συνταγή, το τσίπουρο Καλαϊτζή είναι ένα ποιοτικό εκλεπτυσμένο απόσταγμα από επιλεγμένα στέμφυλα αρωματικών ποικιλιών αμπέλου, με αρώματα λευκών λουλουδιών και λευκόσαρκων φρούτων, με διακριτικές νότες εσπεριδοειδών και μοναδική γεύση με μαλακό, αρωματικό τελείωμα.  </Description>
+		<EAN>5206165002117</EAN>
+		<Quantity>48</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>53103</SKU>
+		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<URL>https://www.skroutz.gr/s/31866726/Kalaitzi-Tsipouro-me-Glykaniso-42-200ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/031866/31866726/20211021160647_kalaitzi_tsipouro_me_glykaniso_42_200ml.jpeg</Image>
+		<Price>4.24</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
+		<MPN>1670</MPN>
+		<Description>Από τις αρχές του περασμένου αιώνα η τέχνη και τα μυστικά της παρασκευής παραδοσιακού τσίπουρου με χάλκινους άμβυκες ταξιδεύουν μαζί με την οικογένεια Κρομμύδα από τα ορεινά χωριά της Μουργκάνας Θεσπρωτίας.
+
+Το 1947 ο Χαράλαμπος Κρομμύδας, γνωστός και ως Καλαϊτζής, μετοίκησε στη Βασιλική Τρικάλων. Εκεί συνέχισε να φτιάχνει το καλύτερο τσίπουρο που έγινε γνωστό και ως το τσίπουρο του Καλαϊτζή.
+
+Σήμερα, τα εγγόνια του συνεχίζουν να παράγουν το γνωστό τσίπουρο του παππού τους, με τις ίδιες μεθόδους και το ίδιο μεράκι, από εξαιρετικές ποικιλίες σταφυλιών που προσφέρουν έντονα φρουτώδη αρώματα εσπεριδοειδών, χαρίζοντας στο τσίπουρο Καλαϊτζή τη μοναδική γεύση του με μαλακό, αρωματικό τελείωμα.</Description>
+		<EAN>5206165002070</EAN>
+		<Quantity>50</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>53153</SKU>
+		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<URL>https://www.skroutz.gr/s/31866646/Kalaitzi-Tsipouro-choris-Glykaniso-40-200ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/031866/31866646/20211021160546_kalaitzi_tsipouro_choris_glykaniso_40_200ml.jpeg</Image>
+		<Price>4.17</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
+		<MPN>1671</MPN>
+		<Description>Από τις αρχές του περασμένου αιώνα η τέχνη και τα μυστικά της παρασκευής παραδοσιακού τσίπουρου με χάλκινους άμβυκες ταξιδεύουν μαζί με την οικογένεια Κρομμύδα από τα ορεινά χωριά της Μουργκάνας Θεσπρωτίας.
+
+Το 1947, ο Χαράλαμπος Κρομμύδας μετοίκησε στη Βασιλική Τρικάλων, όπου συνέχισε να φτιάχνει το καλύτερο τσίπουρο που έγινε γνωστό και ως το τσίπουρο του Καλαϊτζή.
+
+Σήμερα, τα εγγόνια του συνεχίζουν να παράγουν το γνωστό τσίπουρο του παππού τους με το ίδιο όνομα, τα ίδια μυστικά και το ίδιο μεράκι.
+
+Παράγεται από εξαιρετικές ποικιλίες σταφυλιών με έντονα φρουτώδη αρώματα εσπεριδοειδών που χαρίζουν στο τσίπουρο Καλαϊτζή τη μοναδική γεύση του με μαλακό, αρωματικό τελείωμα.</Description>
+		<EAN>5206165002063</EAN>
+		<Quantity>51</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>55003</SKU>
 		<Name>Famous Grouse Ουίσκι Blended 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4902132/Famous-Grouse-Oyiski-Blended-40-700ml.html</URL>
@@ -4198,7 +4253,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<EAN>5010314700003</EAN>
-		<Quantity>326</Quantity>
+		<Quantity>321</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4212,7 +4267,7 @@
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<EAN>5000281002538</EAN>
-		<Quantity>579</Quantity>
+		<Quantity>571</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4226,7 +4281,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
-		<Quantity>700</Quantity>
+		<Quantity>699</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4240,7 +4295,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<EAN>promitheas-080432402931</EAN>
-		<Quantity>460</Quantity>
+		<Quantity>456</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4254,7 +4309,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<EAN>5000267024202</EAN>
-		<Quantity>578</Quantity>
+		<Quantity>575</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4445,7 +4500,7 @@
 		<MPN>1528</MPN>
 		<Description>Η συλλεκτική συσκευασία Bombay Sapphire X Vassia Kostara, ιδανικό δώρο για τα εορταστικά καλέσματα. </Description>
 		<EAN>5010677714006</EAN>
-		<Quantity>170</Quantity>
+		<Quantity>169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5247,7 +5302,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0241</MPN>
 		<Description>Η οδοντόκρεμα Colgate Triple Action ενδείκνυται για καθημερινή χρήση με τριπλή δράση και μέντα.</Description>
 		<EAN>6920354812521</EAN>
-		<Quantity>1917</Quantity>
+		<Quantity>1911</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5261,7 +5316,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0222</MPN>
 		<Description>Οδοντόκρεμα της Colgate, η οποία βοηθά στην πρόληψη της τερηδόνας. Προστατεύει τα δόντια από τα οξέα της οδοντικής πλάκας. Ενισχύει το σμάλτο των δοντιών εσωτερικά, αυξάνοντας την αντοχή τους ενάντια στα οξέα της οδοντικής πλάκας.</Description>
 		<EAN>7891024149164</EAN>
-		<Quantity>200</Quantity>
+		<Quantity>194</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5396,7 +5451,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1282</MPN>
 		<Description>Βελτιωμένες κεφαλές της σειράς Cross Action με τεχνολογία CleanMaximiser που προσφέρει έως και 100% περισσότερη αφαίρεση πλάκας και πιο υγιή ούλα σε σύγκριση με μια κανονική χειροκίνητη οδοντόβουρτσα. </Description>
 		<EAN>4210201353409</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5907,7 +5962,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0629</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως από ανοξείδωτο ατσάλι, μονής λεπίδας, με επικάλυψη πολυμερούς και χρωμίου. Προσαρμοσμένο για ευαίσθητες επιδερμίδες. Με λευκή πολυεστερική σταθερή κεφαλή.</Description>
 		<EAN>5201313008652</EAN>
-		<Quantity>577</Quantity>
+		<Quantity>571</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6274,7 +6329,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1066</MPN>
 		<Description>Καθαρή βαζελίνη που προστατεύει και κλειδώνει την υγρασία για ενυδάτωση και ανάπλαση.</Description>
 		<EAN>6001085120946</EAN>
-		<Quantity>76</Quantity>
+		<Quantity>75</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7769,7 +7824,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Name>Tesori d'Oriente White Musk Κρέμώδες Αφρόλουτρο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/7510422/Tesori-d-Oriente-White-Musk-Kremodes-Afroloutro-250ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/007510/7510422/20240131101016_tesori_d_oriente_white_musk_kremodes_afroloutro_250ml.jpeg</Image>
-		<Price>2.0608</Price>
+		<Price>1.9228</Price>
 		<Category>Αφρόλουτρα</Category>
 		<Manufacturer>TESORI</Manufacturer>
 		<MPN>1254</MPN>
@@ -7784,7 +7839,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Name>Tesori d'Oriente Hammam Κρέμώδες Αφρόλουτρο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/7510588/Tesori-d-Oriente-Hammam-Kremodes-Afroloutro-250ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/007510/7510588/20200317162532_tesori_d_oriente_hammam_shower_cream_250ml.jpeg</Image>
-		<Price>2.0608</Price>
+		<Price>1.9228</Price>
 		<Category>Αφρόλουτρα</Category>
 		<Manufacturer>TESORI</Manufacturer>
 		<MPN>1255</MPN>
@@ -7799,7 +7854,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Name>Tesori d'Oriente Japanese Rituals Κρέμώδες Αφρόλουτρο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/12457753/Tesori-d-Oriente-Japanese-Rituals-Kremodes-Afroloutro-250ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/012457/12457753/20230719100313_tesori_d_oriente_japanese_rituals_kremodes_afroloutro_250ml.jpeg</Image>
-		<Price>2.0608</Price>
+		<Price>1.9228</Price>
 		<Category>Αφρόλουτρα</Category>
 		<Manufacturer>TESORI</Manufacturer>
 		<MPN>1256</MPN>
@@ -7869,7 +7924,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1074</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>5202054455248</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7897,7 +7952,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1076</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>5202054454821</EAN>
-		<Quantity>203</Quantity>
+		<Quantity>193</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7911,7 +7966,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1077</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>4250016484332</EAN>
-		<Quantity>104</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8108,7 +8163,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<EAN>5200100281629</EAN>
-		<Quantity>4292</Quantity>
+		<Quantity>4262</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8123,7 +8178,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102833</EAN>
-		<Quantity>881</Quantity>
+		<Quantity>869</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8209,7 +8264,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<EAN>5200100281667</EAN>
-		<Quantity>915</Quantity>
+		<Quantity>907</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8223,7 +8278,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0343</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί. </Description>
 		<EAN>5203650101409</EAN>
-		<Quantity>1687</Quantity>
+		<Quantity>1677</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8281,7 +8336,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1340</MPN>
 		<Description>Ιδανικές για επαγγελματική και οικιακή χρήση, προσφέροντας απορροφητικότητα και ανθεκτικότητα. Κατασκευασμένες από 1 φύλλο λευκού χαρτιού υψηλής ποιότητας, σε διαστάσεις 21x25cm, είναι κατάλληλες για καθημερινή υγιεινή και καθαριότητα. Η συσκευασία των 200 τεμαχίων προσφέρει μεγάλη διάρκεια και πρακτική χρήση, ιδανική για χώρους με αυξημένες ανάγκες καθαριότητας.</Description>
 		<EAN>5202995010544</EAN>
-		<Quantity>1128</Quantity>
+		<Quantity>1130</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8355,6 +8410,22 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>70401</SKU>
+		<Name>Septona Calm N' Care Aloe Vera Μωρομάντηλα χωρίς Οινόπνευμα &amp; Parabens με Aloe Vera 3x60τμχ</Name>
+		<URL>https://www.skroutz.gr/s/32266358/Septona-Calm-N-Care-Aloe-Vera-Moromantila-choris-Oinopneyma-Parabens-me-Aloe-Vera-3x60tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/032266/32266358/20241213173121_septona_calm_n_care_aloe_vera_moromantila_choris_oinopneyma_parabens_me_aloe_vera_3x60tmch.jpeg</Image>
+		<Price>1.81</Price>
+		<Category>Μωρομάντηλα</Category>
+		<Manufacturer>SEPTONA</Manufacturer>
+		<MPN>1672</MPN>
+		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.
+
+Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
+		<EAN>5201410964127</EAN>
+		<Quantity>348</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>70403</SKU>
 		<Name>MY HEART ΜΩΡΟΜΑΝΤΗΛΑ 100 ΦΥΛΛΩΝ ΜΕ ΚΑΠΑΚΙ</Name>
 		<URL>https://www.skroutz.gr/s/55538785/My-Heart-Moromantila-100tmch-1091.html?product_id=215518798</URL>
@@ -8410,6 +8481,20 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Μαντηλάκια ντεμακιγιάζ προσώπου και ματιών της Pom Pon, κατάλληλα για όλους τους τύπους επιδερμίδας. Αφαιρούν τα υπολείμματα που αφήνει το μακιγιάζ στο δέρμα, αποτρέποντας το φράξιμο των πόρων και βοηθώντας το να αναπνεύσει καλύτερα. Ταυτόχρονα αποφεύγεται η πρόκληση φαγούρας, ερεθισμών, ερυθρότητας καθώς και διαφόρων άλλων δυσάρεστων για την επιδερμίδα συνεπειών.</Description>
 		<EAN>5201263016646</EAN>
 		<Quantity>5</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>70901</SKU>
+		<Name>Endless Τραπεζομάντηλο Λευκό 100x100cm 150τμχ</Name>
+		<URL>https://www.skroutz.gr/s/24101706/Endless-Trapezomantilo-Leyko-1100791106-32cm-150tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/024101/24101706/20200721131318_endless_trapezomantilo_leyko_1100791106_100x100cm_150tmch.jpeg</Image>
+		<Price>14.9625</Price>
+		<Category>Στρώσιμο Τραπεζιού μιας Χρήσης</Category>
+		<Manufacturer>Endless</Manufacturer>
+		<MPN>1673</MPN>
+		<Description>Τραπεζομάντηλο μίας χρήσης Endless με γκοφρέ χαρτί και επικολλημένο από την κάτω πλευρά εξαιρετικά λεπτό αλλά ανθεκτικό λεπτό φύλλο νάιλον για αντοχή στο σκίσιμο. Κατάλληλο και για οικιακή χρήση σε εξοχικά, γιορτές κλπ</Description>
+		<EAN>5202995006974</EAN>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8472,7 +8557,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0406</MPN>
 		<Description>Τραπεζομάντιλο λαδόκολλα σε φύλλο 130x110 cm επαγγελματικής χρήσης. Διατίθεται σε κιβώτιο 110 τεμαχίων.</Description>
 		<EAN>15202995008630</EAN>
-		<Quantity>197</Quantity>
+		<Quantity>198</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8505,7 +8590,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>4313</Quantity>
+		<Quantity>4301</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9433,7 +9518,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 •Απομακρύνει Βρομιές &amp; Σκόνη
 •Υγρό Σπρέι</Description>
 		<EAN>8718951048553</EAN>
-		<Quantity>405</Quantity>
+		<Quantity>404</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9566,7 +9651,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Το Υγρό γενικού καθαρισμού REX Gold Ανθή Γιασεμιού με ελεγχόμενο αφρό &amp; συστατικά που δεσμεύουν τα άλατα.δημιουργεί προστατευτικό φιλμ και προσφέρει επιπλέον γυαλάδα.
 Με τα ειδικά συστατικά που περιέχει διευκολύνει το σφουγγάρισμα. Με πολύ δυνατό άρωμα που διαρκεί.</Description>
 		<EAN>5200250703323</EAN>
-		<Quantity>68</Quantity>
+		<Quantity>67</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9625,7 +9710,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 1. καθαριότητα, 2. φρεσκάδα, 3. χρήματα στην τσέπη τους.
 Η πραγματικά παχύρρευστη και δυνατή σύνθεση της σειράς προϊόντων REX ULTRA έχει αποτέλεσμα το χλώριο να παραμένει περισσότερο χρόνο στην επιφάνεια και επομένως να καθαρίζει και να απολυμαίνει πιο καλά και πιο σίγουρα! Και πάντα πιο οικονομικά!</Description>
 		<EAN>5200250701107</EAN>
-		<Quantity>520</Quantity>
+		<Quantity>518</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10022,7 +10107,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
 		<EAN>5204170300570</EAN>
-		<Quantity>539</Quantity>
+		<Quantity>538</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10603,7 +10688,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχουν ικανοποιητική διάρκεια και αξίζουν τα χρήματά τους.</Description>
 		<EAN>5410853039242</EAN>
-		<Quantity>56</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10838,7 +10923,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>5 kg</Weight>
 		<Description>Εξαίρετο κάρβουνο από σκληρό ξύλο με μεγάλη διάρκεια. Είναι η ιδανική επιλογή για όσους εκτιμούν την παράδοση και επιθυμούν να προσθέσουν έναν παραδοσιακό χαρακτήρα στο ψήσιμό τους. Με τα παραδοσιακά ξυλοκάρβουνα, μπορείτε να δημιουργήσετε την τέλεια φλόγα και την ιδανική θερμοκρασία για να αναδείξετε τη γεύση των ψητών σας εδεσμάτων.</Description>
 		<EAN>5200116050097</EAN>
-		<Quantity>625</Quantity>
+		<Quantity>622</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11031,7 +11116,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 •Σε Μαύρο Χρώμα
 •Αντοχής</Description>
 		<EAN>5200128643089</EAN>
-		<Quantity>1987</Quantity>
+		<Quantity>1982</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12140,7 +12225,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 Πλάτος: 150εκ.
 Μήκος: 220εκ.</Description>
 		<EAN>5206952007905</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12155,6 +12240,68 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Είναι κατάλληλη για τις βροχερές ημέρες και είναι εύκολη στη μεταφορά της καθώς χωράει σε οποιαδήποτε τσάντα. Για την ορθή συντήρηση τις ομπρέλα σας θα πρέπει πάντα να την αφήνετε ανοιχτή για να στεγνώσει και μετα την κλείνετε.</Description>
 		<EAN>5206753015987</EAN>
 		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>78001</SKU>
+		<Name>FREDO Χάρτινα Καλαμάκια 500 ΤΕΜ Ίσια Kraft FSC, Ø 0.42 x 19, Συσκευασμένα</Name>
+		<URL>https://www.skroutz.gr/s/33969636/Tessera-CHartina-Kalamakia-Freddo-19cm-500tmch-Q04219BWFSC.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/033969/33969636/20220428093355_tessera_chartina_kalamakia_freddo_19cm_500tmch_q04219bwfsc.jpeg</Image>
+		<Price>3.08</Price>
+		<Category>Καλαμάκια (Χονδρική)</Category>
+		<Manufacturer>KRAFT</Manufacturer>
+		<MPN>1674</MPN>
+		<Description>Χάρτινα καλαμάκια ιδανικά για freddo με μήκος 19 εκατοστά, σε συσκευασία 500 τεμαχίων. Είναι φιλικά προς το περιβάλλον σε αντίθεση με τα πλαστικά που χρειάζονται πάνω από εκατό χρόνια για την διάσπασή τους.</Description>
+		<EAN>5206970900004</EAN>
+		<Quantity>57</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>78002</SKU>
+		<Name>Φρέντο Πλαστικά Καλαμάκια Ισια Μαύρα Επαναχρησιμοποιούμενα 1000τμχ</Name>
+		<URL>https://www.skroutz.gr/s/50876862/Kalamakia-Mayra-7449138607-1000tmch.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/050876/50876862/20240229170703_kalamakia_plastika_epanachrisimopoioumena_isia_mayra_freddo_ntymena_1000_temachia.jpeg</Image>
+		<Price>3.492</Price>
+		<Category>Καλαμάκια (Χονδρική)</Category>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1675</MPN>
+		<Description>    Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση) 
+    Συσκευασμένο κάθε καλαμάκι ξεχωριστά
+    Διαστάσεις: 18cmx4mm </Description>
+		<EAN>7449138607</EAN>
+		<Quantity>199</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>78011</SKU>
+		<Name>ΦΡΑΠΕ Χάρτινα Καλαμάκια 500 ΤΕΜ Ίσια Kraft FSC, Ø 0.50 x 21, Συσκευασμένα</Name>
+		<URL>https://www.skroutz.gr/s/33059328/Tessera-Viodiaspomena-Kalamakia-21cm-500tmch-Q0621BWFSC.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/033059/33059328/20211216161147_tessera_viodiaspomena_kalamakia_me_mikos_21cm_500tmch_q0621bwfsc.jpeg</Image>
+		<Price>5.049</Price>
+		<Category>Καλαμάκια (Χονδρική)</Category>
+		<Manufacturer>KRAFT</Manufacturer>
+		<MPN>1676</MPN>
+		<Description>Χάρτινα καλαμάκια σπαστά μαύρα, διαμέτρου 0.6 εκ. και μήκους 21 εκ., χωρίς εσωτερική πλαστική επίστρωση.
+
+Κατάλληλα για ανακύκλωση, βιοδιασπώμενα και κομποστοποιήσιμα. Προϊόν κατασκευασμένο με βάση τις αρχές της αειφόρου ανάπτυξης από δάση με υπεύθυνη διαχείριση και πιστοποίηση FSC®.
+
+Καλαμάκια εξαιρετικής ποιότητας και ανθεκτικότητας σε όλα τα κρύα ροφήματα. Μια φιλική προς το περιβάλλον λύση, πλήρως προσαρμοσμένη στις νομοθετικές απαιτήσεις.</Description>
+		<EAN>5206970900035</EAN>
+		<Quantity>18</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>78012</SKU>
+		<Name>Φραπέ Πλαστικά Καλαμάκια Σπαστά Μαύρα Επαναχρησιμοποιούμενα 1000τμχ</Name>
+		<URL>https://www.skroutz.gr/s/56779466/Kalamakia-Mayra-344095-1000tmch.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/056779/56779466/20241010164857_kalamakia_mayra_344095_1000tmch.jpeg</Image>
+		<Price>5.238</Price>
+		<Category>Καλαμάκια (Χονδρική)</Category>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1677</MPN>
+		<Description>Ιδανικά για κρυό καφέ και κρύα ροφήματα.</Description>
+		<EAN>5206492000541</EAN>
+		<Quantity>157</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12182,7 +12329,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0361</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 235ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5202054464660</EAN>
-		<Quantity>114</Quantity>
+		<Quantity>112</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12253,7 +12400,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0041</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 480ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5200425303228</EAN>
-		<Quantity>174</Quantity>
+		<Quantity>169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12267,7 +12414,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0257</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 480ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<EAN>5200425303174</EAN>
-		<Quantity>153</Quantity>
+		<Quantity>151</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12460,7 +12607,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0687</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 1000ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία κρύων φαγητών. Η συσκευασία περιλαμβάνει 100 τεμάχια.</Description>
 		<EAN>promitheas-15202054466463</EAN>
-		<Quantity>112</Quantity>
+		<Quantity>111</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15232,7 +15379,7 @@ VAX
 
 Διαθέτει πολλαπλά συστήματα προστασίας από υπερθέρμανση, βραχυκύκλωμα, υπερφόρτωση και υπέρταση, παρέχοντας απόλυτη προστασία για τις συσκευές σας. Μπορείτε να τον χρησιμοποιήσετε και ως συμβατικό φορτιστή για το Smartphone ή Tablet σας.</Description>
 		<EAN>5205308321320</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15800,7 +15947,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.5 kg</Weight>
 		<Description>Το ρύζι Basmati σε συσκευασία 500 γραμμαρίων είναι ιδανικό για δημιουργία απολαυστικών ασιατικών φαγητών. Με το μακρύ, λεπτό κόκκο του και το ιδιαίτερο άρωμά του, προσφέρει μια γεύση και μια αίσθηση που δεν συγκρίνεται εύκολα με άλλους τύπους ρυζιού. Ιδανικό για πιλάφι, σερβίρεται ως πλευρικό ή βασικό πιάτο, και συνοδεύει τέλεια ποικίλα κρέατα, ψάρια και λαχανικά.</Description>
 		<EAN>8212006200567</EAN>
-		<Quantity>293</Quantity>
+		<Quantity>287</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16028,7 +16175,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.4 kg</Weight>
 		<Description>Το αναπλήρωμα ξύδιου John Top σε συσκευασία 400ml είναι ιδανικό για χρήση στη μαγειρική και στην παρασκευή σάλτσων, μαριναδών, σαλατών και dressings. Με το χαρακτηριστικό άρωμα και την έντονη γεύση του, προσδίδει ξεχωριστή γεύση στα φαγητά σας. Είναι ιδανικό για να δώσει μια ευχάριστη οξύτητα και αναδεικνύει τα αρώματα των υλικών που χρησιμοποιείτε.</Description>
 		<EAN>5202737200547</EAN>
-		<Quantity>937</Quantity>
+		<Quantity>942</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16058,7 +16205,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<EAN>5202737900218</EAN>
-		<Quantity>1380</Quantity>
+		<Quantity>1385</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17001,7 +17148,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>1kg</Weight>
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Cortese. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 1000gr.</Description>
 		<EAN>promitheas-771710171430456000</EAN>
-		<Quantity>28</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17031,182 +17178,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.5 kg</Weight>
 		<Description>Κρακεράκια μίνι της εταιρείας Gullon σε στρογγυλό σχήμα με αλάτι.</Description>
 		<EAN>8410376014051</EAN>
-		<Quantity>234</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86101</SKU>
-		<Name>Χειροποίητα Μπισκότα Μπαράτ Αμυγδάλου 175gr</Name>
-		<URL>https://www.skroutz.gr/s/56368163/CHeiropoiita-Mpiskota-Mparat-Amygdalou-175gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%91%CE%9C%CE%A5%CE%93%CE%94%CE%91%CE%9B%CE%9F%CE%A5-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F-.jpg</Image>
-		<Additional_Image>https://i.imgur.com/elGo39g.jpeg</Additional_Image>
-		<Price>2.05</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1291</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Είναι ένα χειροποίητο προϊόν, το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλούσια προσθήκη αμυγδάλου.</Description>
-		<EAN>5200430910060</EAN>
-		<Quantity>98</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86102</SKU>
-		<Name>Χειροποίητα Μπισκότα Μπαράτ Δημητριακών 140gr</Name>
-		<URL>https://www.skroutz.gr/s/56368164/CHeiropoiita-Mpiskota-Mparat-Dimitriakon-140gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2024/02/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%94%CE%97%CE%9C%CE%97%CE%A4%CE%A1%CE%99%CE%91%CE%9A%CE%A9%CE%9D-CEREAL-%CE%A7%CE%95%CE%99-1.jpg</Image>
-		<Additional_Image>https://i.imgur.com/S7LenKZ.jpeg</Additional_Image>
-		<Price>1.49</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1292</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Αποτελεί έναν μοναδικό συνδυασμό από αγνά υλικά και παραδοσιακή παραγωγική διαδικασία. Φτιαγμένα με μεράκι, προσφέρουν πλούσια γεύση δημητριακών, ενώ η χειροποίητη παρασκευή τους εξασφαλίζει την ιδιαίτερη ποιότητα και φρεσκάδα σε κάθε μπουκιά.</Description>
-		<EAN>5200430910114</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86103</SKU>
-		<Name>Χειροποίητα Μπισκότα Μπαράτ Κάσιους-Κράνμπερι 150gr</Name>
-		<URL>https://www.skroutz.gr/s/56368165/CHeiropoiita-Mpiskota-Mparat-Kasious-kranmperi-150gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%9A%CE%91%CE%A3%CE%99%CE%9F%CE%A5%CE%A3-%CE%9A%CE%A1%CE%91%CE%9D%CE%9C%CE%A0%CE%95%CE%A1%CE%99-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image>
-		<Additional_Image>https://i.imgur.com/92k9tKl.jpeg</Additional_Image>
-		<Price>1.77</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1293</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το μπισκότο μπαράτ έχει κατι το μοναδικό! Είναι ένα χειροποίητο προϊόν το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλούσια προσθήκη κάσιους και κράνμπερι.</Description>
-		<EAN>5200430910077</EAN>
-		<Quantity>139</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86105</SKU>
-		<Name>Χειροποίητα Μπισκότα Μπαράτ Σουσάμι-Ταχίνι 150gr</Name>
-		<URL>https://www.skroutz.gr/s/56368166/CHeiropoiita-Mpiskota-Mparat-Sousami-tachini-150gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%A3%CE%9F%CE%A5%CE%A3%CE%91%CE%9C%CE%99-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image>
-		<Additional_Image>https://i.imgur.com/obcaCf9.jpeg</Additional_Image>
-		<Price>1.55</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1295</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το μπισκότο μπαράτ έχει κατι το μοναδικο! Είναι ένα χειροποίητο προϊόν, το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλόυσια προσθήκη σπόρων σουσαμιού και σταφίδας!</Description>
-		<EAN>5200430905615</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86121</SKU>
-		<Name>Χειροποίητα Κουλουράκια Μπαράτ Γαρίδα Αμυγδάλου 130gr</Name>
-		<URL>https://www.skroutz.gr/s/56696112/Barat-Koulourakia-130gr-1296.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%93%CE%91%CE%A1%CE%99%CE%94%CE%91-%CE%91%CE%9C%CE%A5%CE%93%CE%94%CE%91%CE%9B%CE%9F%CE%A5_ALMOND-PETAL.jpg</Image>
-		<Price>1.49</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1296</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το κουλούρι μπαράτ έχει κάτι το μοναδικό! Συνδυάζει την ιδιαίτερη γεύση της γαρίδας με την πλούσια υφή του αμυγδάλου. Χειροποίητα με φροντίδα, αποτελούν μια πρωτότυπη και γευστική επιλογή, φτιαγμένα από αγνά υλικά για μια μοναδική γαστρονομική εμπειρία.</Description>
-		<EAN>5200430906476</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86122</SKU>
-		<Name>Χειροποίητα Κουλουράκια Μπαράτ Γαρίδα Ταχινιού 120gr</Name>
-		<URL>https://www.skroutz.gr/s/57120198/CHeiropoiita-Koulourakia-Mparat-Garida-Tachiniou-120gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2023/12/%CE%93%CE%91%CE%A1%CE%99%CE%94%CE%91-%CE%A4%CE%91%CE%A7%CE%99%CE%9D%CE%99_TAHINI-PETAL.jpg</Image>
-		<Additional_Image>https://i.imgur.com/Ie8J6q0.jpeg</Additional_Image>
-		<Price>1.27</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1297</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το κουλούρι μπαράτ έχει κάτι το μοναδικό! Συνδυάζει την ξεχωριστή γεύση της γαρίδας με την πλούσια υφή και θρεπτικότητα του ταχινιού. Φτιαγμένα με προσοχή και αγνά υλικά, προσφέρουν έναν πρωτότυπο συνδυασμό γεύσεων για τους λάτρεις του ξεχωριστού και ποιοτικού σνακ.</Description>
-		<EAN>5200430910350</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86131</SKU>
-		<Name>Χειροποίητα Μπισκότα Μπαράτ Αμύγδαλο-Σταφίδα Χωρίς Ζάχαρη 160gr</Name>
-		<URL>https://www.skroutz.gr/s/56368162/CHeiropoiita-Mpiskota-Mparat-Amygdalo-stafida-CHoris-Zachari-160gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2023/11/NO-ADDED-SUGAR-AMY%CE%93%CE%94%CE%91%CE%9B%CE%9F-%CE%A3%CE%A4%CE%91%CE%A6%CE%99%CE%94%CE%91.jpg</Image>
-		<Additional_Image>https://i.imgur.com/TE1btEH.jpeg</Additional_Image>
-		<Price>1.66</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1298</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Προσφέρει έναν υγιεινό και γευστικό συνδυασμό αμυγδάλου και σταφίδας, χωρίς προσθήκη ζάχαρης. Χειροποίητα με φυσικά συστατικά, είναι η ιδανική επιλογή για όσους αναζητούν μια απολαυστική και θρεπτική λύση χωρίς συμβιβασμούς στη γεύση.</Description>
-		<EAN>5200430910336</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86132</SKU>
-		<Name>Χειροποίητα Μπισκότα Μπαράτ Κάσιους-Κράνμπερι Χωρίς Ζάχαρη 160gr</Name>
-		<URL>https://www.skroutz.gr/s/56368165/CHeiropoiita-Mpiskota-Mparat-Kasious-kranmperi-150gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2023/11/NO-ADDED-SUGAR-%CE%9A%CE%91%CE%A3%CE%99%CE%9F%CE%A5%CE%A3-%CE%9A%CE%A1%CE%91%CE%9D%CE%9C%CE%A0%CE%95%CE%A1%CE%99.jpg</Image>
-		<Additional_Image>https://i.imgur.com/jBiAGzS.jpeg</Additional_Image>
-		<Price>1.66</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1299</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Συνδυάζει την πλούσια γεύση των κάσιους με τη φυσική γλύκα των κράνμπερι, χωρίς προσθήκη ζάχαρης. Χειροποίητα και φτιαγμένα με προσεγμένα υλικά, αποτελούν μια θρεπτική και απολαυστική επιλογή για όσους επιθυμούν έναν υγιεινό και γευστικό σνακ.</Description>
-		<EAN>5200430910343</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86141</SKU>
-		<Name>Χειροποίητα Κριτσίνια Μπαράτ Ηλιόσπορου Mini 150gr</Name>
-		<URL>https://www.skroutz.gr/s/56433337/CHeiropoiita-Kritsinia-Mparat-Iliosporou-Mini-150gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9A%CE%A1%CE%99%CE%A4%CE%A3%CE%99%CE%9D%CE%99-%CE%97%CE%9B%CE%99%CE%9F%CE%A3%CE%A0%CE%9F%CE%A1%CE%9F%CE%A3_SUNFLOWER-SEED-BREADSTICK.jpg</Image>
-		<Additional_Image>https://i.imgur.com/uTw3P0M.jpeg</Additional_Image>
-		<Price>1.72</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1301</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το κριτσίνι μπαράτ έχει κάτι το μοναδικό! Είναι ένα τραγανό και γευστικό σνακ, φτιαγμένο από αγνά υλικά και πλούσια σε ηλιόσπορο. Η χειροποίητη παρασκευή τους εξασφαλίζει την ιδιαίτερη ποιότητα και φρεσκάδα, κάνοντάς τα ιδανική επιλογή για ένα υγιεινό και χορταστικό κολατσιό.</Description>
-		<EAN>5200430902720</EAN>
-		<Quantity>28</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86142</SKU>
-		<Name>Χειροποίητα Κριτσίνια Μπαράτ Τυρί Mini 150gr</Name>
-		<URL>https://www.skroutz.gr/s/56433335/CHeiropoiita-Kritsinia-Mparat-Tyri-Mini-150gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9A%CE%A1%CE%99%CE%A4%CE%A3%CE%99%CE%9D%CE%99-%CE%A4%CE%A5%CE%A1%CE%99-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image>
-		<Additional_Image>https://i.imgur.com/zQ0OvlW.jpeg</Additional_Image>
-		<Price>1.94</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1302</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το κριτσίνι μπαράτ έχει κάτι το μοναδικό! Με πλούσια γεύση τυριού, φτιαγμένα με μεράκι και αγνά υλικά. Η χειροποίητη παρασκευή τους εγγυάται φρεσκάδα και ποιότητα, προσφέροντας μια νόστιμη και απολαυστική επιλογή για κάθε στιγμή της ημέρας.</Description>
-		<EAN>5200430905950</EAN>
-		<Quantity>40</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>86151</SKU>
-		<Name>Χειροποίητα Κουλουράκια Μπαράτ Κρίκος Ελιάς 140gr</Name>
-		<URL>https://www.skroutz.gr/s/56860856/Barat-Mpiskota-140gr.html</URL>
-		<Image>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9A%CE%A1%CE%99%CE%9A%CE%9F%CE%A3-%CE%95%CE%9B%CE%99%CE%91%CE%A3-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image>
-		<Additional_Image>https://i.imgur.com/KhGrAUA.jpeg</Additional_Image>
-		<Price>1.43</Price>
-		<Category>Κέικ, Τσουρέκια &amp; Κρουασάν</Category>
-		<Manufacturer>BARAT</Manufacturer>
-		<MPN>1303</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το κουλούρι μπαράτ έχει κάτι το μοναδικό! Είναι μια γευστική πρόταση με έντονη την παρουσία της ελιάς, φτιαγμένα με αγνά υλικά και παραδοσιακή χειροποίητη διαδικασία. Κάθε κρίκος προσφέρει τραγανή υφή και πλούσια γεύση, ιδανικό σνακ για τους λάτρεις της ελιάς και των ποιοτικών προϊόντων.</Description>
-		<EAN>5200430906957</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>233</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17221,7 +17193,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>108</Quantity>
+		<Quantity>105</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17239,7 +17211,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 • Κυρίως συστατικό: Κοτόπουλο, Ρύζι
 • Συσκευασία: 15kg</Description>
 		<EAN>5202546009119</EAN>
-		<Quantity>125</Quantity>
+		<Quantity>123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
