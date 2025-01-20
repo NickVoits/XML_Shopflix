@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-01-20 11:57</created_at>
+	<created_at>2025-01-20 12:11</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -299,7 +299,7 @@
 		<Weight>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Weight>
 		<Description>5201275001678</Description>
 		<EAN>1840</EAN>
-		<Quantity>1822</Quantity>
+		<Quantity>1810</Quantity>
 	</product>
 	<product>
 		<SKU>110118</SKU>
@@ -531,7 +531,7 @@
 		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΕ ΓΙΑΣΕΜΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54656348/EPSA-Portokali-me-giasemi-Kouti-6x330ml.html</URL>
 		<Image>https://masoutisadm.masoutis.gr/main/ExportPromoOffers/PromoOffers_574_1949.webp</Image>
-		<Additional_Image>3.204</Additional_Image>
+		<Additional_Image>3.20</Additional_Image>
 		<Price>Αναψυκτικά</Price>
 		<Category>ΕΨΑ</Category>
 		<Manufacturer>0105</Manufacturer>
@@ -546,7 +546,7 @@
 		<Name>ΕΨΑ ΛΕΜΟΝΙ ΜΕ ΙΒΙΣΚΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54720031/EPSA-Lemoni-me-Ivisko-Kouti-6x330ml.html</URL>
 		<Image>https://imageproxy.wolt.com/menu/menu-images/63f8c000865b00c7cd5edd55/05b90106-1755-11ef-8abf-c2da0ae748c8_4010955.jpg</Image>
-		<Additional_Image>3.204</Additional_Image>
+		<Additional_Image>3.20</Additional_Image>
 		<Price>Αναψυκτικά</Price>
 		<Category>ΕΨΑ</Category>
 		<Manufacturer>0973</Manufacturer>
@@ -561,7 +561,7 @@
 		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54720054/EPSA-Portokali-Cola-Kouti-6x330ml.html</URL>
 		<Image>https://edt-shop.gr/18065-home_default_2x/epsa-portokali-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image>
-		<Additional_Image>3.519</Additional_Image>
+		<Additional_Image>3.52</Additional_Image>
 		<Price>Αναψυκτικά</Price>
 		<Category>ΕΨΑ</Category>
 		<Manufacturer>0536</Manufacturer>
@@ -576,7 +576,7 @@
 		<Name>ΕΨΑ YUZU COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54720032/EPSA-Yuzu-Cola-me-Anthrakiko-se-Kouti-6x330ml.html</URL>
 		<Image>https://edt-shop.gr/18064-home_default_2x/epsa-yuzu-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image>
-		<Additional_Image>3.519</Additional_Image>
+		<Additional_Image>3.52</Additional_Image>
 		<Price>Αναψυκτικά</Price>
 		<Category>ΕΨΑ</Category>
 		<Manufacturer>0050</Manufacturer>
@@ -599,7 +599,7 @@
 		<Weight>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Weight>
 		<Description>5201171331237</Description>
 		<EAN>928</EAN>
-		<Quantity>928</Quantity>
+		<Quantity>924</Quantity>
 	</product>
 	<product>
 		<SKU>115318</SKU>
@@ -629,7 +629,7 @@
 		<Weight>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Weight>
 		<Description>5201171331213</Description>
 		<EAN>808</EAN>
-		<Quantity>808</Quantity>
+		<Quantity>806</Quantity>
 	</product>
 	<product>
 		<SKU>11535</SKU>
@@ -794,7 +794,7 @@
 		<Weight>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Weight>
 		<Description>5449000000439</Description>
 		<EAN>862</EAN>
-		<Quantity>790</Quantity>
+		<Quantity>778</Quantity>
 	</product>
 	<product>
 		<SKU>120118</SKU>
@@ -824,7 +824,7 @@
 		<Weight>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Weight>
 		<Description>5449000214911</Description>
 		<EAN>962</EAN>
-		<Quantity>886</Quantity>
+		<Quantity>866</Quantity>
 	</product>
 	<product>
 		<SKU>120218-Τ</SKU>
@@ -839,7 +839,7 @@
 		<Weight>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Weight>
 		<Description>5449000214799</Description>
 		<EAN>875</EAN>
-		<Quantity>807</Quantity>
+		<Quantity>767</Quantity>
 	</product>
 	<product>
 		<SKU>1202186-Τ</SKU>
@@ -1289,7 +1289,7 @@
 		<Weight>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Weight>
 		<Description>5201946910247</Description>
 		<EAN>243</EAN>
-		<Quantity>210</Quantity>
+		<Quantity>204</Quantity>
 	</product>
 	<product>
 		<SKU>130341</SKU>
@@ -1364,7 +1364,7 @@
 		<Weight>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Weight>
 		<Description>5201946910445</Description>
 		<EAN>190</EAN>
-		<Quantity>190</Quantity>
+		<Quantity>187</Quantity>
 	</product>
 	<product>
 		<SKU>13037</SKU>
@@ -1379,7 +1379,7 @@
 		<Weight>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Weight>
 		<Description>5201946911404</Description>
 		<EAN>143</EAN>
-		<Quantity>137</Quantity>
+		<Quantity>135</Quantity>
 	</product>
 	<product>
 		<SKU>13038</SKU>
@@ -1409,7 +1409,7 @@
 		<Weight>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Weight>
 		<Description>5201309703172</Description>
 		<EAN>2952</EAN>
-		<Quantity>2924</Quantity>
+		<Quantity>2920</Quantity>
 	</product>
 	<product>
 		<SKU>14022</SKU>
@@ -1574,7 +1574,7 @@
 		<Weight>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Weight>
 		<Description>5202908000020</Description>
 		<EAN>2736</EAN>
-		<Quantity>2736</Quantity>
+		<Quantity>2694</Quantity>
 	</product>
 	<product>
 		<SKU>17052</SKU>
@@ -1604,7 +1604,7 @@
 		<Weight>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Weight>
 		<Description>5202908000068</Description>
 		<EAN>1149</EAN>
-		<Quantity>1115</Quantity>
+		<Quantity>1061</Quantity>
 	</product>
 	<product>
 		<SKU>17055</SKU>
@@ -1664,7 +1664,7 @@
 		<Weight>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Weight>
 		<Description>5202908000150</Description>
 		<EAN>1902</EAN>
-		<Quantity>1901</Quantity>
+		<Quantity>1864</Quantity>
 	</product>
 	<product>
 		<SKU>17062</SKU>
@@ -1694,7 +1694,7 @@
 		<Weight>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Weight>
 		<Description>5202908110019</Description>
 		<EAN>2092</EAN>
-		<Quantity>2080</Quantity>
+		<Quantity>2068</Quantity>
 	</product>
 	<product>
 		<SKU>17072</SKU>
@@ -1724,7 +1724,7 @@
 		<Weight>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Weight>
 		<Description>5202908001003</Description>
 		<EAN>879</EAN>
-		<Quantity>879</Quantity>
+		<Quantity>855</Quantity>
 	</product>
 	<product>
 		<SKU>17074</SKU>
@@ -1769,7 +1769,7 @@
 		<Weight>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Weight>
 		<Description>5202908101000</Description>
 		<EAN>143</EAN>
-		<Quantity>143</Quantity>
+		<Quantity>131</Quantity>
 	</product>
 	<product>
 		<SKU>17077</SKU>
@@ -1784,7 +1784,7 @@
 		<Weight>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Weight>
 		<Description>5202908001072</Description>
 		<EAN>212</EAN>
-		<Quantity>212</Quantity>
+		<Quantity>200</Quantity>
 	</product>
 	<product>
 		<SKU>17078</SKU>
@@ -1814,7 +1814,7 @@
 		<Weight>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Weight>
 		<Description>5202908000143</Description>
 		<EAN>566</EAN>
-		<Quantity>566</Quantity>
+		<Quantity>554</Quantity>
 	</product>
 	<product>
 		<SKU>17081</SKU>
@@ -2099,7 +2099,7 @@
 		<Weight>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Weight>
 		<Description>5201946010015</Description>
 		<EAN>7316</EAN>
-		<Quantity>6392</Quantity>
+		<Quantity>6056</Quantity>
 	</product>
 	<product>
 		<SKU>20401-Τ</SKU>
@@ -2114,7 +2114,7 @@
 		<Weight>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Weight>
 		<Description>5200040345078</Description>
 		<EAN>840</EAN>
-		<Quantity>7932</Quantity>
+		<Quantity>7832</Quantity>
 	</product>
 	<product>
 		<SKU>20403-Τ</SKU>
@@ -2129,7 +2129,7 @@
 		<Weight>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Weight>
 		<Description>5200040345092</Description>
 		<EAN>3140</EAN>
-		<Quantity>3080</Quantity>
+		<Quantity>3072</Quantity>
 	</product>
 	<product>
 		<SKU>21412-Τ</SKU>
@@ -2429,7 +2429,7 @@
 		<Weight>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Weight>
 		<Description>5203413020183</Description>
 		<EAN>2211</EAN>
-		<Quantity>2191</Quantity>
+		<Quantity>2179</Quantity>
 	</product>
 	<product>
 		<SKU>40103</SKU>
@@ -5379,7 +5379,7 @@
 		<Weight>Σερβιετάκια ειδικά σχεδιασμένα για καθημερινή προστασία, άνεση και σιγουριά.</Weight>
 		<Description>5201263011801</Description>
 		<EAN>375</EAN>
-		<Quantity>375</Quantity>
+		<Quantity>351</Quantity>
 	</product>
 	<product>
 		<SKU>61002</SKU>
@@ -5393,7 +5393,7 @@
 		<Weight>Ανατομικά σχεδιασμένα σερβιετάκια, κανονικού μεγέθους, για καθημερινή προστασία, άνεση και σιγουριά. Με έξτρα στεγνό κάλυμμα και εκχύλισμα χαμομηλιού.</Weight>
 		<Description>5201263010903</Description>
 		<EAN>287</EAN>
-		<Quantity>287</Quantity>
+		<Quantity>263</Quantity>
 	</product>
 	<product>
 		<SKU>61011</SKU>
@@ -5804,7 +5804,7 @@
 		<Weight>Ξυραφάκια μιας χρήσεως από ανοξείδωτο ατσάλι, μονής λεπίδας, με επικάλυψη πολυμερούς και χρωμίου. Προσαρμοσμένο για ευαίσθητες επιδερμίδες. Με λευκή πολυεστερική σταθερή κεφαλή.</Weight>
 		<Description>5201313008652</Description>
 		<EAN>521</EAN>
-		<Quantity>521</Quantity>
+		<Quantity>509</Quantity>
 	</product>
 	<product>
 		<SKU>62052</SKU>
@@ -8159,7 +8159,7 @@
 		<Weight>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Weight>
 		<Description>5201410964127</Description>
 		<EAN>1975</EAN>
-		<Quantity>1971</Quantity>
+		<Quantity>1947</Quantity>
 	</product>
 	<product>
 		<SKU>70403</SKU>
@@ -12440,7 +12440,7 @@
 		<Weight>Μεμβράνη της εταιρίας Θαλασσινός, για να προστατεύει τη φρεσκάδα και τη γεύση των τροφίμων χάρη στην ικανότητα να κλείνει αεροστεγώς πάνω σε στεγνές επιφάνειες και να εμποδίζει τη μεταφορά των οσμών μεταξύ των τροφίμων στο ψυγείο.Χαρακτηριστικά    Μήκος(μέτρα): 30μ.    Πλάτος: 30εκ.    Τεμάχια: 1τμχ</Weight>
 		<Description>5202054031855</Description>
 		<EAN>1735</EAN>
-		<Quantity>1735</Quantity>
+		<Quantity>1710</Quantity>
 	</product>
 	<product>
 		<SKU>78932</SKU>
@@ -14722,7 +14722,7 @@
 		<Weight>Ρύζι καρολίνα από την εταιρεία Αξιός, πλούσιο σε πρωτεΐνες και βιταμίνες για θρεπτικά και νόστιμα πιάτα. Ιδανικό για σπανακόρυζο και πιλάφι.</Weight>
 		<Description>5204575030119</Description>
 		<EAN>76</EAN>
-		<Quantity>76</Quantity>
+		<Quantity>66</Quantity>
 	</product>
 	<product>
 		<SKU>81011</SKU>
@@ -16053,7 +16053,7 @@
 		<Weight>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Weight>
 		<Description>5202546009379</Description>
 		<EAN>12</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<SKU>99002</SKU>
