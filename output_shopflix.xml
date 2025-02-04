@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-04 10:05</created_at>
+	<created_at>2025-02-04 11:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -328,7 +328,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>1110</Quantity>
+		<Quantity>1090</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -343,7 +343,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<EAN>5201275611372</EAN>
-		<Quantity>668</Quantity>
+		<Quantity>656</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -373,7 +373,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<EAN>5201275610672</EAN>
-		<Quantity>86</Quantity>
+		<Quantity>85</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -778,7 +778,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>1702</Quantity>
+		<Quantity>1672</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -808,7 +808,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>1340</Quantity>
+		<Quantity>1338</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -823,7 +823,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>888</Quantity>
+		<Quantity>846</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2473,7 +2473,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<EAN>5202037115015</EAN>
-		<Quantity>289</Quantity>
+		<Quantity>277</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3057,7 +3057,7 @@
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888070027</EAN>
-		<Quantity>228</Quantity>
+		<Quantity>208</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3170,7 +3170,7 @@
 		<MPN>1633</MPN>
 		<Description>Ένα ημίξηρο λευκό κρασί με απαλό αλκοόλ με δυνατά αρώματα, όπως λουκούμι, τριαντάφυλλο και εξωτικά φρούτα. Στο στόμα αφήνει μια γλύκα και επίγευση από φρουτώδη αρώματα. Συνοδεύει φρουτοσαλάτες, ξηρούς καρπούς, πάπια και απαλά σε γεύση τυριά.</Description>
 		<EAN>5206283100009</EAN>
-		<Quantity>38</Quantity>
+		<Quantity>68</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3184,7 +3184,7 @@
 		<MPN>1634</MPN>
 		<Description>Το Variere Ροζέ, από τους Ορεινούς Αμπελώνες Λαλίκου, είναι ένα άμεσο, χαρούμενο, καθόλου ελιτίστικο και πάνω από όλα απολαυστικό ροζέ κρασί.</Description>
 		<EAN>5206283001009</EAN>
-		<Quantity>39</Quantity>
+		<Quantity>159</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3212,7 +3212,7 @@
 		<MPN>1646</MPN>
 		<Description>Λευκό κρασί από τις ποικιλίες Ροδίτης αλεπού και Sauvignon blanc.Αρωματική μύτη που συνδυάζει ήπια φυτικότητα λόγω Sauvignon Blanc μαζί με νότες από τροπικά φρούτα και ροδάκινα. Στο στόμα διαθέτει όγκο και βάθος φρούτου με συγκρατημένα επίπεδα αλκοόλης ενώ έχει ιδανική ισορροπία οξύτητας και αλκοόλ.</Description>
 		<EAN>5200101831021</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>66</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3778,7 +3778,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>1692</Quantity>
+		<Quantity>1572</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5652,7 +5652,7 @@
 		<Weight>1.6 kg</Weight>
 		<Description>Πάνες Pufies Trusted Trends Maxi 4, Banana leaves baby Value Pack 52 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
 		<EAN>3800024027857</EAN>
-		<Quantity>272</Quantity>
+		<Quantity>268</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7768,7 +7768,7 @@
 		<MPN>1081</MPN>
 		<Description>Γάντια μιάς χρήσης νιτριλίου μαύρου χρώματος. Ενδείκνυνται για εργασίες που απαιτείται άριστη αφή, για εργασίες που επιβάλεται η χρήση χημικών ουσιών, για εργασίες όπου δεν φαίνεται ο χρωματισμός του γαντιού από διάφορες ουσίες. Κατάλληλο για εργαστήρια τατουάζ, συνεργεία αυτοκινήτων, κομμωτήρια, εργαστήρια χημικών αναλύσεων.</Description>
 		<EAN>5202054468897</EAN>
-		<Quantity>93</Quantity>
+		<Quantity>92</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10839,7 +10839,7 @@
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643119</EAN>
-		<Quantity>1597</Quantity>
+		<Quantity>1594</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12473,7 +12473,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5219711976220</EAN>
-		<Quantity>817</Quantity>
+		<Quantity>814</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14363,7 +14363,7 @@
 		<Name>Gruppe CM 4677 Italiana Μηχανή Espresso 1050W Πίεσης 20bar Κόκκινη</Name>
 		<URL>https://www.skroutz.gr/s/13134187/Gruppe-CM-4677-Italiana-Michani-Espresso-1050W-Piesis-20bar-Kokkini.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/013134/13134187/20221207165221_gruppe_cm_4677_italiana_red_michani_espresso_1050w_piesis_20bar_kokkini.jpeg</Image>
-		<Price>99.72</Price>
+		<Price>96.90</Price>
 		<Category>Μηχανές Espresso</Category>
 		<Manufacturer>GRUPPE</Manufacturer>
 		<MPN>1539</MPN>
@@ -14495,7 +14495,7 @@
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικός και φορτίζει το κινητό σου στον προβλεπόμενο χρόνο.</Description>
 		<EAN>6957303877744</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
