@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-06 16:05</created_at>
+	<created_at>2025-02-06 16:48</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -277,14 +277,14 @@
 		<URL>https://www.skroutz.gr/s/54144482/Kliafa-Portokali-me-Anthrakiko-0838-1500ml.html</URL>
 		<Image>https://static.ab.gr/medias/sys_master/h0c/h6d/9785272598558.jpg?buildNumber=3b762742e6edd814396ddac8825d3a01eff350b7c2a6d770cb7da109f54b927f&amp;imwidth=320</Image>
 		<Price>1.16</Price>
-		<Category>1.17</Category>
-		<Manufacturer>1.18</Manufacturer>
-		<MPN>1.19</MPN>
-		<Weight>1.20</Weight>
-		<Description>1.21</Description>
-		<EAN>1.22</EAN>
+		<Category>Αναψυκτικά</Category>
+		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
+		<MPN>0838</MPN>
+		<Weight>1.5 kg</Weight>
+		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
+		<EAN>5201275001678</EAN>
 		<Quantity>802</Quantity>
-		<Shipping_Lead_Time>1.24</Shipping_Lead_Time>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>110118</SKU>
@@ -343,7 +343,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<EAN>5201275611372</EAN>
-		<Quantity>646</Quantity>
+		<Quantity>642</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1762,14 +1762,14 @@
 		<URL>https://www.skroutz.gr/s/33486403/Lipton-Kouti-Ice-Tea-Lemoni-CHoris-Anthrakiko-CHoris-Zachari-6x330ml.html?product_id=204993937</URL>
 		<Image>https://www.thanopoulos.gr/1035730/lipton-etoimo-afepsima-maurou-tsagiou-ice-tea-lemoni-6x330ml.jpg</Image>
 		<Price>2.79</Price>
-		<Category>2.80</Category>
-		<Manufacturer>2.81</Manufacturer>
-		<MPN>2.82</MPN>
-		<Weight>2.83</Weight>
-		<Description>2.84</Description>
-		<EAN>2.85</EAN>
+		<Category>Αναψυκτικά</Category>
+		<Manufacturer>LIPTON</Manufacturer>
+		<MPN>0701</MPN>
+		<Weight>0.3 kg</Weight>
+		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
+		<EAN>5201156030261</EAN>
 		<Quantity>2071</Quantity>
-		<Shipping_Lead_Time>2.87</Shipping_Lead_Time>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>18022</SKU>
@@ -9846,7 +9846,7 @@
 		<MPN>1620</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλουν στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστοι. Σημαντικό πλεονέκτημα τους είναι το γεγονός πως δεν αφήνουν οσμή, ενώ διακρίνονται για την ασφαλή τους χρήση.    Τεμάχια: 48τμχ</Description>
 		<EAN>5207043000614</EAN>
-		<Quantity>4540</Quantity>
+		<Quantity>4525</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
