@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-06 13:54</created_at>
+	<created_at>2025-02-06 14:54</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1948,7 +1948,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>8084</Quantity>
+		<Quantity>8040</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1963,7 +1963,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345092</EAN>
-		<Quantity>6440</Quantity>
+		<Quantity>6392</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2413,7 +2413,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>773</Quantity>
+		<Quantity>771</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9721,6 +9721,37 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>74943</SKU>
+		<Name>Glue &amp; Trade Petrorat Παγίδα Κόλλας από Πλαστικό Μεσαία 2τμχ</Name>
+		<URL>https://www.skroutz.gr/s/25900549/Glue-Trade-Petrorat-Pagida-Kollas-apo-Plastiko-Mesaia-2tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/025900/25900549/20210305161646_pro_race_pagides_kollas_mesaio_megethos_2temachia.jpeg</Image>
+		<Price>1.61</Price>
+		<Category>Παγίδες Ζώων</Category>
+		<Manufacturer>PETRORAT</Manufacturer>
+		<MPN>1757</MPN>
+		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
+		<EAN>5200138990050</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>74944</SKU>
+		<Name>Glue &amp; Trade Petrorat Παγίδα Κόλλας από Πλαστικό 0067 Μεγάλη 2τμχ</Name>
+		<URL>https://www.skroutz.gr/s/47342061/Glue-Trade-Petrorat-Pagida-Kollas-apo-Plastiko-0067-Megali-2tmch.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/047342/47342061/20231109172855_glue_trade_petrorat_pagida_kollas_apo_plastiko_0067_megali_2tmch.jpeg</Image>
+		<Price>2.64</Price>
+		<Category>Παγίδες Ζώων</Category>
+		<Manufacturer>PETRORAT</Manufacturer>
+		<MPN>1758</MPN>
+		<Description>Παγίδες κόλλας για ποντίκια με νέο, υψηλής ποιότητας σχεδιασμό. Δεν περιέχουν δηλητήριο. Είναι εύκολο στη χρήση αφού χρειάζεται να τοποθετήσετε μόνο δόλωμα. Έχει ασφαλή αποτελέσματα και είναι κατάλληλες για εσωτερικούς και εξωτερικούς χώρους.
+ΠΡΟΣΟΧΗ!
+
+Κρατήστε το μακριά από παιδιά και κατοικίδια.</Description>
+		<EAN>5200138990067</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>74951</SKU>
 		<Name>ΠΟΝΤΙΚΟΚΤΟΝΟ ΔΟΛΩΜΑ ΣΙΤΑΡΙ 100gr</Name>
 		<URL>https://www.skroutz.gr/s/32065320/Pontikofarmako-se-Garidaki-Petrorat-0-1kg-100GR.html</URL>
@@ -9930,6 +9961,50 @@
 		<Description>Αλκαλικές μπαταρίες μεγέθους ΑΑ, ιδανικές για τηλεχειριστήρια, φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
 		<EAN>5207227115523</EAN>
 		<Quantity>398</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7975003</SKU>
+		<Name>Eurolamp Extreme Αλκαλική Μπαταρία 9V</Name>
+		<URL>https://www.skroutz.gr/s/50413499/Alkalikes-Mpataries-9V-12tmch-147-24124.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/050413/50413499/20240809134139_alkalikes_mpataries_9v_12tmch_147_24124.jpeg</Image>
+		<Price>1.49</Price>
+		<Category>Αλκαλικές Μπαταρίες</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1759</MPN>
+		<Description>Αλκαλική μπαταρία μεγέθους 9V, ιδανική για φακούς, ποτιστικά κι άλλες οικιακές συσκευές.</Description>
+		<EAN>5207227115462</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7975004</SKU>
+		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες C 1.5V 2τμχ</Name>
+		<URL>https://www.skroutz.gr/s/50216870/Alkalikes-Mpataries-C-1-5V-2tmch-147-24122.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/050216/50216870/20240809134141_alkalikes_mpataries_c_1_5v_2tmch_147_24122.jpeg</Image>
+		<Price>1.91</Price>
+		<Category>Αλκαλικές Μπαταρίες</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1760</MPN>
+		<Description>Αλκαλικές μπαταρίες μεγέθους C, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
+		<EAN>5207227115400</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7975005</SKU>
+		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες D 1.5V 2τμχ</Name>
+		<URL>https://www.skroutz.gr/s/54567742/Eurolamp-Mpataries-Alkalikes-Extreme-D-Eurolamp-2-tem.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/054567/54567742/20240809134139_eurolamp_mpataries_alkalikes_extreme_d_eurolamp_2_tem.jpeg</Image>
+		<Price>2.70</Price>
+		<Category>Αλκαλικές Μπαταρίες</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1761</MPN>
+		<Description>Αλκαλικές μπαταρίες μεγέθους D, ιδανικές για φακούς κι άλλες οικιακές συσκευές.
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
+		<EAN>5207227115431</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14831,6 +14906,25 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799515103</SKU>
+		<Name>Ugreen Car Audio Receiver Bluetooth 5,0 MIC/AUX/USB-A CM309 (70601)</Name>
+		<URL>https://www.skroutz.gr/s/26547271/Ugreen-Bluetooth-Aytokinitou-5-0-gia-to-Tamplo-AUX-Audio-Receiver-me-USB-thyra-Fortisis-70601.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/026547/26547271/20210112145141_ugreen_bluetooth_5_0_70601.jpeg</Image>
+		<Price>8.19</Price>
+		<Category>Bluetooth Car Kit</Category>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1762</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Αντάπτορας Bluetooth από AUX σε USB
+    Σύνδεση έως 2 συσκευών ταυτόχρονα
+    Εμβέλεια Bluetooth έως 10 μέτρα
+    Λυχνία LED ένδειξης λειτουργίας</Description>
+		<EAN>6957303876013</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>799515201</SKU>
 		<Name>Ugreen USB Bluetooth 5.0 Adapter με Εμβέλεια 20m CM390 (80889)</Name>
 		<URL>https://www.skroutz.gr/s/31198539/Ugreen-CM390-USB-Bluetooth-5-0-Adapter-me-Emveleia-20m.html</URL>
@@ -15031,6 +15125,25 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 Για κινητά και tablet ως 7.9'. Ο ρυθμιζόμενος βραχίονας δίνει την επιθυμητή γωνία για άνετη θέαση και η επένδυση από σιλικόνη προστατεύει από πτώσεις και γρατζουνιές. Με άνοιγμα στη θύρα φόρτισης.</Description>
 		<EAN>6957303889037</EAN>
 		<Quantity>3</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799551104</SKU>
+		<Name>Ugreen Βάση Γραφείου για Κινητό Μαύρη LP106 (50747)</Name>
+		<URL>https://www.skroutz.gr/s/22413638/Ugreen-Multi-Angle-LP106-Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/022413/22413638/20230215154209_ugreen_multi_angle_vasi_grafeiou_gia_kinito_se_mayro_chroma.jpeg</Image>
+		<Price>3.10</Price>
+		<Category>Κινητών Βάσεις Στήριξης Κινητών</Category>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1763</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Ιδανικό για κινητά από 4" έως 10''
+    Αναδιπλούμενος σχεδιασμός
+    Ρυθμιζόμενη γωνία θέασης
+    Μέγεθος: 95 x 85 χιλ.</Description>
+		<EAN>6957303857470</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15242,6 +15355,29 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Description>Βασικά χαρακτηριστικά:    Διαστάσεις 139,2 x 96 x 16mm    Βάρος 206gr    Ανθεκτικότητα IPX4</Description>
 		<EAN>4713436145455</EAN>
 		<Quantity>3</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799631101</SKU>
+		<Name>Ugreen Θήκη για Σκληρό Δίσκο 2.5" SATA III με σύνδεση USB 3.1 Type-C Μαύρη US221 (50743)</Name>
+		<URL>https://www.skroutz.gr/s/21799407/Ugreen-THiki-gia-Skliro-Disko-2-5-SATA-III-me-syndesi-USB-3-1-Type-C-50743.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/021799/21799407/20200129163513_ugreen_usb_c_hard_drive_enclosure.jpeg</Image>
+		<Price>16.01</Price>
+		<Category>Θήκες Σκληρών Δίσκων</Category>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1764</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Συνδεση με USB-C 3.1 Gen.2
+    10TB μέγιστη χωρητικότητα
+    Ένδειξη led
+    Plug &amp; play
+
+Θήκη σκληρού δίσκου 2,5 ιντσών με θύρα Type-C.
+
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτηση του δίσκου στη θήκη και είναι σταθερή στη λειτουργία της.</Description>
+		<EAN>6957303857432</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
