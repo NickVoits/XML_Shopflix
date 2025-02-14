@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-14 08:52</created_at>
+	<created_at>2025-02-14 09:00</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -10221,6 +10221,7 @@
 		<MPN>Ε-0922</MPN>
 		<Description>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών με Μπαταρία και Διάσταση 6x9x15 εκ.</Description>
 		<EAN>5203642109222</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11863,6 +11864,7 @@
 - Πλάτος: 45εκ.
 - Μήκος: 75εκ.</Description>
 		<EAN>3574387402537</EAN>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
