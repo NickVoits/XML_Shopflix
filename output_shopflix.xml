@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-14 09:00</created_at>
+	<created_at>2025-02-14 10:32</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -73,7 +73,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ξανθιά, θολή μπίρα από την καρδιά της Βαυαρίας, η οποία αποτελεί σήμερα συνώνυμο της Weiss μπίρας. Παράγεται σύμφωνα με τον αυστηρό γερμανικό νόμο περί αγνότητας των υλικών του 1516 και περιέχει μόνο νερό, βύνη, λυκίσκο και μαγιά. Δεν παστεριώνεται, γι’ αυτό και δεν περιέχει πρόσθετα και συντηρητικά. Η παραδοσιακή επαναζύμωση που υφίσταται στη φιάλη την κάνει ιδιαίτερα αναζωογονητική. Έχει φρουτώδη, ξηρή καθαρή γεύση, πικάντικη επίγευση και άρωμα φρούτων και μαγιάς.</Description>
 		<EAN>4002103248248</EAN>
-		<Quantity>120</Quantity>
+		<Quantity>108</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -253,7 +253,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>1740</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -268,7 +268,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<EAN>75041670</EAN>
-		<Quantity>2132</Quantity>
+		<Quantity>2108</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -283,7 +283,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>225</Quantity>
+		<Quantity>219</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -313,7 +313,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>871</Quantity>
+		<Quantity>865</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -328,7 +328,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>899</Quantity>
+		<Quantity>895</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -583,7 +583,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>580</Quantity>
+		<Quantity>568</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -598,7 +598,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<EAN>5201171331220</EAN>
-		<Quantity>440</Quantity>
+		<Quantity>432</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -613,7 +613,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>922</Quantity>
+		<Quantity>918</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -628,7 +628,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<EAN>5201171331244</EAN>
-		<Quantity>172</Quantity>
+		<Quantity>164</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -673,7 +673,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>1240</Quantity>
+		<Quantity>1228</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -688,7 +688,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000133335</EAN>
-		<Quantity>890</Quantity>
+		<Quantity>884</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -703,7 +703,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>744</Quantity>
+		<Quantity>738</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -718,7 +718,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>481</Quantity>
+		<Quantity>477</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -853,7 +853,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>54491472</EAN>
-		<Quantity>380</Quantity>
+		<Quantity>376</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -943,7 +943,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση πορτοκάλι, βερίκοκο και μήλο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005074163</EAN>
-		<Quantity>179</Quantity>
+		<Quantity>155</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1063,7 +1063,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση βύσσινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005011465</EAN>
-		<Quantity>47</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1138,7 +1138,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<EAN>5201946910315</EAN>
-		<Quantity>289</Quantity>
+		<Quantity>280</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1153,7 +1153,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<EAN>5201946911213</EAN>
-		<Quantity>415</Quantity>
+		<Quantity>397</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1378,7 +1378,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<EAN>90415708</EAN>
-		<Quantity>10184</Quantity>
+		<Quantity>10172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1453,7 +1453,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908000020</EAN>
-		<Quantity>2409</Quantity>
+		<Quantity>2403</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1468,7 +1468,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000044</EAN>
-		<Quantity>1277</Quantity>
+		<Quantity>1271</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1483,7 +1483,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000068</EAN>
-		<Quantity>24</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1498,7 +1498,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<EAN>5202908000037</EAN>
-		<Quantity>1418</Quantity>
+		<Quantity>1412</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1513,7 +1513,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<EAN>5202908004011</EAN>
-		<Quantity>534</Quantity>
+		<Quantity>528</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1528,7 +1528,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000051</EAN>
-		<Quantity>1113</Quantity>
+		<Quantity>1107</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1678,7 +1678,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000167</EAN>
-		<Quantity>616</Quantity>
+		<Quantity>604</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1933,7 +1933,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<EAN>5201946010015</EAN>
-		<Quantity>6592</Quantity>
+		<Quantity>6540</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1948,7 +1948,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>4940</Quantity>
+		<Quantity>4888</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1963,7 +1963,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345092</EAN>
-		<Quantity>4912</Quantity>
+		<Quantity>4908</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2053,7 +2053,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα μοναδικό κρασί με απόλυτα Ελληνική ταυτότητα, με απαλό άρωμα και γεύση ρητίνης που αφήνουν να αναδυθούν και τα αρώματα των ποικιλιών.</Description>
 		<EAN>5201625000016</EAN>
-		<Quantity>1583</Quantity>
+		<Quantity>1579</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2083,7 +2083,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<EAN>15202548505012</EAN>
-		<Quantity>128</Quantity>
+		<Quantity>122</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2128,7 +2128,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ημίγλυκη γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<EAN>15202548505319</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2263,7 +2263,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<EAN>5202037115015</EAN>
-		<Quantity>405</Quantity>
+		<Quantity>387</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2308,7 +2308,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<EAN>5202037115053</EAN>
-		<Quantity>156</Quantity>
+		<Quantity>150</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2323,7 +2323,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>575</Quantity>
+		<Quantity>574</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2383,7 +2383,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Στον Ημίγλυκο αυτό ποικιλιακό οίνο του Μοσχάτου Μαύρου Τυρνάβου τα αζύμωτα σάκχαρα του σταφυλιού που περιέχονται αναδεικνύουν τα πληθωρικά αρώματα τριαντάφυλλου και τη φρουτώδη επίγευση.</Description>
 		<EAN>5202037114117</EAN>
-		<Quantity>40</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2398,7 +2398,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
 		<EAN>5202037114162</EAN>
-		<Quantity>70</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2413,7 +2413,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>632</Quantity>
+		<Quantity>631</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2428,7 +2428,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>358</Quantity>
+		<Quantity>356</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2458,7 +2458,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ερυθρό είναι ένα εκλεπτυσμένο κρασί με πλούσια αρώματα ερυθρών φρούτων και μπαχαρικών. Το βαθύ κόκκινο χρώμα του αντικατοπτρίζει την πλούσια και γεμάτη γεύση του, με απαλές τανίνες και μακρά επίγευση. Ιδανικό για να συνοδεύσει γεύσεις κρεατικών και τυριών, προσφέροντας μια απολαυστική εμπειρία γευστικής απόλαυσης.</Description>
 		<EAN>5201214100202</EAN>
-		<Quantity>66</Quantity>
+		<Quantity>64</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2931,7 +2931,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888160100</EAN>
-		<Quantity>837</Quantity>
+		<Quantity>825</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3361,7 +3361,7 @@
 		<MPN>1421</MPN>
 		<Description>Ένα ούζο πλωμαρίου με συνταγή από το 1894, όταν ο Ισίδωρος Αρβανίτης συνδύασε τους αρωματικούς σπόρους και τα βότανα της Λέσβου με κυρίαρχο τον γλυκάνισο από το Λισβόρι, αλάτι Καλλονής, μοσχοκάρυδο και κανέλλα.</Description>
 		<EAN>5202413007019</EAN>
-		<Quantity>25</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3465,7 +3465,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>1491</Quantity>
+		<Quantity>1419</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3480,7 +3480,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064011550</EAN>
-		<Quantity>739</Quantity>
+		<Quantity>734</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3615,7 +3615,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<EAN>promitheas-520237120064</EAN>
-		<Quantity>562</Quantity>
+		<Quantity>538</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3690,7 +3690,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα. Χωρίς γλυκάνισο.</Description>
 		<EAN>5203413080026</EAN>
-		<Quantity>3763</Quantity>
+		<Quantity>3739</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3705,7 +3705,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Τσίπουρο “Το Δεκαράκι”, ένα τσίπουρο που γεννήθηκε στον Τύρναβο και παράγεται μόνο από Μοσχάτο σταφύλι. Είναι το πρώτο μονοποικιλιακό τσίπουρο που αποτελεί προϊόν απόσταξης μόνο από Μοσχάτο Τυρνάβου.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5202924122423</EAN>
-		<Quantity>968</Quantity>
+		<Quantity>963</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3750,7 +3750,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207610517</EAN>
-		<Quantity>806</Quantity>
+		<Quantity>758</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3765,7 +3765,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207612016</EAN>
-		<Quantity>1393</Quantity>
+		<Quantity>1388</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3865,7 +3865,7 @@
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<EAN>5000281002538</EAN>
-		<Quantity>453</Quantity>
+		<Quantity>449</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3879,7 +3879,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
-		<Quantity>452</Quantity>
+		<Quantity>446</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3893,7 +3893,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<EAN>promitheas-080432402931</EAN>
-		<Quantity>385</Quantity>
+		<Quantity>382</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3907,7 +3907,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<EAN>5000267024202</EAN>
-		<Quantity>463</Quantity>
+		<Quantity>462</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4784,7 +4784,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>H νέα άποψη στο κρασί είναι ασπρόμαυρη… BiancoNero. Mια νέα σειρά οίνων με απόλυτα νεανική διάθεση. Τίποτα στη ζωή δεν είναι ασπρόμαυρο! Είναι ο καμβάς για το χρώμα και τη γεύση του κρασιού που δραματοποιεί την απόλαυση. Είναι ο τρόπος να αποθεωθούν οι αισθήσεις και να νιώσουμε έντονες στιγμές. Πέντε διαφορετικές μορφές, κλεισμένες σε συσκευασίες που συναρπάζουν το βλέμμα. Εκφράζουν την αγάπη για την ποιότητα ζωής, σκέψης και κατανάλωσης και συντροφεύουν τις πολύτιμες στιγμές της ζωής μας, με το δικό τους ευφάνταστο τρόπο. BiancoNero και αφεθείτε στη σαγήνη της ευδαιμονίας!</Description>
 		<EAN>5202548501031</EAN>
-		<Quantity>187</Quantity>
+		<Quantity>181</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4858,7 +4858,7 @@
 		<MPN>0241</MPN>
 		<Description>Η οδοντόκρεμα Colgate Triple Action ενδείκνυται για καθημερινή χρήση με τριπλή δράση και μέντα.</Description>
 		<EAN>6920354812521</EAN>
-		<Quantity>1814</Quantity>
+		<Quantity>1813</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4956,7 +4956,7 @@
 		<MPN>0681</MPN>
 		<Description>Οδοντόβουρτσα που καθαρίζει απαλά και βαθιά μεταξύ των δοντιών, με γωνιακή λαβή σχεδιασμένη για έλεγχο και ευελιξία κατά το βούρτσισμα.</Description>
 		<EAN>6001067007289</EAN>
-		<Quantity>94</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5124,7 +5124,7 @@
 		<MPN>1011</MPN>
 		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
 		<EAN>5201263006357</EAN>
-		<Quantity>1251</Quantity>
+		<Quantity>1250</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5180,7 +5180,7 @@
 		<MPN>1041</MPN>
 		<Description>Σερβιέτες με μακρύ μήκος, φτερά και σύστημα προστασίας Flex &amp; Fit που προσφέρει απαλότητα, ευελιξία και έως 100% προστασία από διαρροές. Μέγεθος 3 κατάλληλο για τις ημέρες με ελαφριά, μέτρια και έντονη ροή και για εσώρουχα M, L, XL+.</Description>
 		<EAN>4015400759140</EAN>
-		<Quantity>1807</Quantity>
+		<Quantity>1806</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5841,7 +5841,7 @@
 		<MPN>1067</MPN>
 		<Description>Τα Hansaplast Universal είναι αυτοκόλλητα επιθέματα ανθεκτικά στο νερό.</Description>
 		<EAN>promitheas-4005800110658</EAN>
-		<Quantity>198</Quantity>
+		<Quantity>197</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6107,7 +6107,7 @@
 		<MPN>1249</MPN>
 		<Description>Το κρεμοσάπουνο Natura Vanilla Caramel με φυτικό εκχύλισμα καλέντουλας, λειτουργεί σαν ένα φυσικό μαλακτικό για τα χέρια, ενώ παράλληλα τα προστατεύει από ερεθισμούς.</Description>
 		<EAN>5201109001638</EAN>
-		<Quantity>168</Quantity>
+		<Quantity>167</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6723,7 +6723,7 @@
 		<MPN>1384</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<EAN>5201395647718</EAN>
-		<Quantity>97</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6737,7 +6737,7 @@
 		<MPN>1385</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<EAN>5201395645318</EAN>
-		<Quantity>33</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7594,7 +7594,7 @@
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102840</EAN>
-		<Quantity>587</Quantity>
+		<Quantity>577</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7748,7 +7748,26 @@
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<EAN>5202995010537</EAN>
-		<Quantity>136</Quantity>
+		<Quantity>125</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>70231101</SKU>
+		<Name>Nossa Θήκη Τοίχου από Πλαστικό για Χειροπετσέτες Ζικ Ζακ Μπλε/Λευκή 25x9x21cm Χωρητικότητας 200τμχ NS-440</Name>
+		<URL>https://www.hepsiburada.com/nossa-pro-z-katli-havlu-dispenseri-200-lu-pm-HBC00005ISXYN</URL>
+		<Image>https://productimages.hepsiburada.net/s/523/424-600/110000580444433.jpg/format:webp</Image>
+		<Additional_Image>https://productimages.hepsiburada.net/s/523/424-600/110000580444434.jpg/format:webp, https://productimages.hepsiburada.net/s/523/960-1280/110000580444435.jpg</Additional_Image>
+		<Price>6.36</Price>
+		<Category>Επαγγελματικές Θήκες Χαρτιού</Category>
+		<Manufacturer>NOSSA</Manufacturer>
+		<MPN>NS-440</MPN>
+		<Description>Συσκευή για χειροπετσέτες ζικ ζακ, σε μπλε/λευκό χρώμα. Κατάλληλη για τη συνεχόμενη τροφοδοσία χειροπετσετών.
+
+    Υλικό: πλαστικό
+    Μονόφυλλη ή Δίφυλλη
+    Διαστάσεις: 25x9x21cm</Description>
+		<EAN>8682704601688</EAN>
+		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7762,7 +7781,7 @@
 		<MPN>0190</MPN>
 		<Description>Χαρτομάντηλα της εταιρίας Selpak, 4 φύλλων απαλά και ανθεκτικά, υψηλής απορροφητικότητας. Απαραίτητος σύμμαχος στην περίοδο των κρυολογημάτων και των ανοιξιάτικων αλλεργιών.</Description>
 		<EAN>8690530051331</EAN>
-		<Quantity>574</Quantity>
+		<Quantity>573</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7818,7 +7837,7 @@
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<EAN>5201410964127</EAN>
-		<Quantity>1758</Quantity>
+		<Quantity>1755</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7973,7 +7992,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>3856</Quantity>
+		<Quantity>3852</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7988,7 +8007,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055237</EAN>
-		<Quantity>1384</Quantity>
+		<Quantity>1382</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8241,7 +8260,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<EAN>8720181204050</EAN>
-		<Quantity>473</Quantity>
+		<Quantity>465</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8970,7 +8989,7 @@
 		<MPN>1115</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
 		<EAN>8718951048553</EAN>
-		<Quantity>341</Quantity>
+		<Quantity>337</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9054,7 +9073,7 @@
 		<MPN>0937</MPN>
 		<Description>Το Ajax ανανεώνεται με καινούργια σύνθεση, αποτελεσματικότερη και φιλικότερη προς τον πλανήτη μας με 24ωρο Άρωμα Φρεσκάδας! Το Ajax εξελίσσεται όπως και εσείς. Ανώτερη αποτελεσματικότητα σε σύγκριση με την προηγούμενη σύνθεση. 96% βιοδιασπώμενη σύνθεση. Ανακυκλώσιμο μπουκάλι και καπάκι. Μπουκάλι από 100% ανακυκλωμένο πλαστικό. Παρασκευάζεται σε πιστοποιημένο εργοστάσιο μηδενικών αποβλήτων. Παράγεται υπεύθυνα με άρωμα από φυσικά εκχυλίσματα. Με 99% συστατικά φυσικής προέλευσης και 100% καθαριστική δύναμη.</Description>
 		<EAN>8718951333512</EAN>
-		<Quantity>313</Quantity>
+		<Quantity>307</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9082,7 +9101,7 @@
 		<MPN>0372</MPN>
 		<Description>Το Υγρό γενικού καθαρισμού REX Gold Ανθή Γιασεμιού με ελεγχόμενο αφρό &amp; συστατικά που δεσμεύουν τα άλατα.δημιουργεί προστατευτικό φιλμ και προσφέρει επιπλέον γυαλάδα.Με τα ειδικά συστατικά που περιέχει διευκολύνει το σφουγγάρισμα. Με πολύ δυνατό άρωμα που διαρκεί.</Description>
 		<EAN>5200250703323</EAN>
-		<Quantity>65</Quantity>
+		<Quantity>64</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9418,7 +9437,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>56</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9432,7 +9451,7 @@
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>761</Quantity>
+		<Quantity>757</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9856,7 +9875,7 @@
 		<MPN>1120</MPN>
 		<Description>Ένα αποτελεσματικό προϊόν για την αντιμετώπιση των τρωκτικών. Περιέχει ισχυρή κόλλα που εφαρμόζεται σε επιφάνειες όπως χαρτόνι ή ξύλο, δημιουργώντας παγίδες για ποντίκια και άλλα ανεπιθύμητα παράσιτα. Η κόλλα είναι άοσμη και μη τοξική, καθιστώντας την ασφαλή για χρήση σε εσωτερικούς χώρους. Είναι κατάλληλη για οικιακή, επαγγελματική ή γεωργική χρήση, εξασφαλίζοντας ότι τα τρωκτικά παραμένουν κολλημένα στην επιφάνεια μέχρι την απομάκρυνσή τους.</Description>
 		<EAN>8005831003512</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>151</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9894,7 +9913,7 @@
 		<MPN>1757</MPN>
 		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
 		<EAN>5200138990050</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>210</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9911,7 +9930,7 @@
 
 Κρατήστε το μακριά από παιδιά και κατοικίδια.</Description>
 		<EAN>5200138990067</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>160</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9925,7 +9944,7 @@
 		<MPN>1121</MPN>
 		<Description>Ένα αποτελεσματικό δόλωμα για την εξόντωση ποντικών και αρουραίων. Αποτελείται από ειδικά επεξεργασμένο σιτάρι που προσελκύει τα τρωκτικά, τα οποία το καταναλώνουν και στη συνέχεια εξολοθρεύονται. Το προϊόν είναι σχεδιασμένο για χρήση σε εσωτερικούς και εξωτερικούς χώρους, όπως αποθήκες, οικίες ή αγροτικές εγκαταστάσεις. Είναι κατάλληλο για περιοχές με υψηλή παρουσία τρωκτικών και μπορεί να τοποθετηθεί σε σημεία όπου υπάρχει κίνηση των τρωκτικών. Συνίσταται η χρήση του με προσοχή, σύμφωνα με τις οδηγίες, για την αποφυγή επαφής με ανθρώπους και κατοικίδια.</Description>
 		<EAN>5200138990197</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>200</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9939,7 +9958,7 @@
 		<MPN>1122</MPN>
 		<Description>Το ποντικοφάρμακο σε μορφή πάστας της εταιρείας Glue &amp; Trade είναι ένα μείγμα ελκυστικών ουσιών που προκαλούν τα τρωκτικά να το καταναλώσουν και δραστικών ουσιών οι οποίες αποτελούν τον τοξικό παράγοντα, που απώτερο σκοπό έχει τον έλεγχο και την εξόντωση των τρωκτικών.Χρησιμοποιείται σε εσωτερικούς χώρους και για την καταπολέμηση οικιακών τρωκτικών. Έχει μεγάλη διάρκεια ζωής, αλλά αν σκιστεί το χαρτί που συγκρατεί την πάστα ξεραίνεται και δεν είναι πλέον ελκυστικό.Διατηρήστε τα δολώματα μακριά από παιδιά και κατά την εφαρμογή φορέστε γάντια για προσωπική ασφάλεια αλλά και καλύτερα αποτελέσματα, διότι τα τρωκτικά αντιλαμβάνονται την ανθρώπινη μυρωδιά και αποφεύγουν τα δολώματα.Τοποθετήστε τα μέσα σε δολωματικούς σταθμούς για μεγαλύτερη ασφάλεια και διάρκεια ζωής, αφού έτσι θα προστατεύονται από τους διάφορους περιβαλλοντικούς παράγοντες και θα παραμένουν ελκυστικά.</Description>
 		<EAN>5200138990210</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>210</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10052,7 +10071,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Καθαριστικός κορμός κατάλληλος για τον καθαρισμό της καμινάδας του τζακιού. Θα σας βοηθήσει να απομακρύνετε από τα τοιχώματα της καμινάδας σας καπνιά και επικαθήσεις. Έτσι η κυκλοφορία του αέρα θα είναι καλύτερη και το τζάκι σας πιο αποδοτικό. Επιπλέον με τον τακτικό καθαρισμό της καμινάδας σας μειώνεται ο κίνδυνος αυτανάφλεξής της, κάνοντάς την πιο ασφαλή αλλά και λειτουργική.</Description>
 		<EAN>3800022501731</EAN>
-		<Quantity>114</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10335,7 +10354,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Εξαίρετο κάρβουνο από σκληρό ξύλο με μεγάλη διάρκεια. Είναι η ιδανική επιλογή για όσους εκτιμούν την παράδοση και επιθυμούν να προσθέσουν έναν παραδοσιακό χαρακτήρα στο ψήσιμό τους. Με τα παραδοσιακά ξυλοκάρβουνα, μπορείτε να δημιουργήσετε την τέλεια φλόγα και την ιδανική θερμοκρασία για να αναδείξετε τη γεύση των ψητών σας εδεσμάτων.</Description>
 		<EAN>5200116050097</EAN>
-		<Quantity>467</Quantity>
+		<Quantity>462</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14138,7 +14157,7 @@
 		<MPN>1590</MPN>
 		<Description>Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 6 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 50 μέχρι 58 watt ή μια αλογόνου από 30 μέχρι 34 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.</Description>
 		<EAN>5207227113437</EAN>
-		<Quantity>29</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14502,7 +14521,7 @@
 		<MPN>1660</MPN>
 		<Description>Αλκαλικές μπαταρίες μεγέθους AAA, ιδανικές για τηλεχειριστήρια, φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
 		<EAN>5207227115493</EAN>
-		<Quantity>404</Quantity>
+		<Quantity>401</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14630,7 +14649,7 @@
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<EAN>5410853039334</EAN>
-		<Quantity>243</Quantity>
+		<Quantity>242</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14644,7 +14663,7 @@
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<EAN>5410853039273</EAN>
-		<Quantity>87</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15321,7 +15340,7 @@
 
 </Description>
 		<EAN>6941027651605</EAN>
-		<Quantity>14</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17363,7 +17382,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<EAN>6111260550359</EAN>
-		<Quantity>408</Quantity>
+		<Quantity>393</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17601,7 +17620,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<MPN>1630</MPN>
 		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι.</Description>
 		<EAN>5201219046055</EAN>
-		<Quantity>499</Quantity>
+		<Quantity>451</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17749,7 +17768,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>515</Quantity>
+		<Quantity>514</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
