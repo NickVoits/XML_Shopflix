@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-26 09:17</created_at>
+	<created_at>2025-02-26 09:36</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -703,7 +703,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>1775</Quantity>
+		<Quantity>1771</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -958,7 +958,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005179370</EAN>
-		<Quantity>1478</Quantity>
+		<Quantity>1468</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1003,7 +1003,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση ροδάκινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005011687</EAN>
-		<Quantity>70</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1018,7 +1018,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση πορτοκάλι, βερίκοκο και μήλο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005174153</EAN>
-		<Quantity>143</Quantity>
+		<Quantity>138</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1063,7 +1063,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση βύσσινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005011465</EAN>
-		<Quantity>181</Quantity>
+		<Quantity>178</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1967,6 +1967,50 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>21501011</SKU>
+		<Name>ΔΟΥΜΠΙΑ Ανθρακούχο Φυσικό Μεταλλικό Νερό 250ml </Name>
+		<URL>https://www.doubia.gr/</URL>
+		<Image>https://www.doubia.gr/wp-content/uploads/2023/03/250mL.png</Image>
+		<Additional_Image>https://www.doubia.gr/wp-content/uploads/2024/06/Gr-home-table.png, https://www.doubia.gr/wp-content/uploads/2025/02/Doubia-main-image.png</Additional_Image>
+		<Price>0.78</Price>
+		<Category>Εμφιαλωμένα Νερά</Category>
+		<Manufacturer>ΔΟΥΜΠΙΑ</Manufacturer>
+		<MPN>929</MPN>
+		<Description>Προστατευμένο μέσα στα πετρώματα της πηγής του, το ανθρακούχο φυσικό μεταλλικό νερό ΔΟΥΜΠΙΑ παρουσιάζει διαχρονικά σταθερή ποιότητα και πληροί τις αυστηρές απαιτήσεις της νομοθεσίας των φυσικών μεταλλικών νερών, όσον αφορά τα φυσικοχημικά και μικροβιολογικά χαρακτηριστικά του.
+
+Από την περίφημη πηγή των Αγίων Αποστόλων στον Πολύγυρο της Χαλκιδικής, είναι το πρώτο Ελληνικό γαστρονομικό νερό της αγοράς με υψηλή περιεκτικότητα σε ασβέστιο, μαγνήσιο και άλλα πολύτιμα μέταλλα.
+
+Αγωγιμότητα (20°): 1655 μS/cm
+Ολική Σκληρότητα: 98,49° F
+Στερεό Υπόλειμμα (180°): 1,25 g/L
+</Description>
+		<EAN>5206167001002</EAN>
+		<Quantity>366</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>21501031</SKU>
+		<Name>ΔΟΥΜΠΙΑ Ανθρακούχο Φυσικό Μεταλλικό Νερό 750ml </Name>
+		<URL>https://www.doubia.gr/</URL>
+		<Image>https://www.doubia.gr/wp-content/uploads/2023/03/750mL.png</Image>
+		<Additional_Image>https://www.doubia.gr/wp-content/uploads/2024/06/Gr-home-table.png, https://www.doubia.gr/wp-content/uploads/2025/02/Doubia-main-image.png</Additional_Image>
+		<Price>1.29</Price>
+		<Category>Εμφιαλωμένα Νερά</Category>
+		<Manufacturer>ΔΟΥΜΠΙΑ</Manufacturer>
+		<MPN>931</MPN>
+		<Description>Προστατευμένο μέσα στα πετρώματα της πηγής του, το ανθρακούχο φυσικό μεταλλικό νερό ΔΟΥΜΠΙΑ παρουσιάζει διαχρονικά σταθερή ποιότητα και πληροί τις αυστηρές απαιτήσεις της νομοθεσίας των φυσικών μεταλλικών νερών, όσον αφορά τα φυσικοχημικά και μικροβιολογικά χαρακτηριστικά του.
+
+Από την περίφημη πηγή των Αγίων Αποστόλων στον Πολύγυρο της Χαλκιδικής, είναι το πρώτο Ελληνικό γαστρονομικό νερό της αγοράς με υψηλή περιεκτικότητα σε ασβέστιο, μαγνήσιο και άλλα πολύτιμα μέταλλα.
+
+Αγωγιμότητα (20°): 1655 μS/cm
+Ολική Σκληρότητα: 98,49° F
+Στερεό Υπόλειμμα (180°): 1,25 g/L
+</Description>
+		<EAN>5206167003006</EAN>
+		<Quantity>108</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>21601</SKU>
 		<Name>MASTIH2O ΜΑΣΤΙΧΟΝΕΡΟ 330ml</Name>
 		<URL>https://www.skroutz.gr/s/24540181/Stoupaki-Anthrakoucho-Nero-MastiH2O-me-Geysi-Masticha-se-Gyalino-Mpoukali-0-33lt.html?product_id=215518716</URL>
@@ -2083,7 +2127,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<EAN>15202548505012</EAN>
-		<Quantity>854</Quantity>
+		<Quantity>848</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2203,7 +2247,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>495</Quantity>
+		<Quantity>489</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2323,7 +2367,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>387</Quantity>
+		<Quantity>375</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3322,11 +3366,24 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>47951</SKU>
+		<Name>Τυρνάβου Κρασί Ρόδοινος Μοσχάτο Τυρνάβου Λευκό Ημίγλυκο 750ml</Name>
+		<URL>https://www.skroutz.gr/s/15619319/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Leyko-Imiglyko-750ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/015619/15619319/xlarge_20211018163914_tyrnavou_rodoinos_leyko_750ml.jpeg</Image>
+		<Price>3.79</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
+		<MPN>101122003</MPN>
+		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
+		<EAN>5202037000052</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>47952</SKU>
 		<Name>Τυρνάβου Κρασί Ροδοινος Μοσχάτο Τυρνάβου Ροζέ Ημίγλυκο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/15607237/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Roze-Imiglyko-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/015607/15607237/20200204124530_tyrnavou_rodoinos_roze_750ml.jpeg</Image>
-		<Price>3.57</Price>
+		<Price>3.79</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>1159</MPN>
@@ -3420,7 +3477,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064011222</EAN>
-		<Quantity>80</Quantity>
+		<Quantity>74</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3765,7 +3822,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207612016</EAN>
-		<Quantity>1069</Quantity>
+		<Quantity>1045</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3893,7 +3950,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<EAN>promitheas-080432402931</EAN>
-		<Quantity>357</Quantity>
+		<Quantity>356</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6835,7 +6892,7 @@
 		<MPN>1392</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<EAN>5201143728430</EAN>
-		<Quantity>44</Quantity>
+		<Quantity>43</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7319,7 +7376,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ EXTRA LARGE 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://brolias.com/wp-content/uploads/2023/04/768b7044ec2818823b769234cd869d6b-PhotoRoom.jpg</Image>
-		<Price>2.68</Price>
+		<Price>2.775632189616</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1074</MPN>
@@ -7333,7 +7390,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ LARGE 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://www.geapharmacy.gr/mediastream/w800/files/products/5e26a5d46ba5cb629729114dabbcf8cd.jpg.webp</Image>
-		<Price>2.68</Price>
+		<Price>2.775632189616</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1075</MPN>
@@ -7347,7 +7404,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ MEDIUM 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://www.geapharmacy.gr/mediastream/w800/files/products/945ceb16e82d6da30ddaf8650d3c4ab0.jpg.webp</Image>
-		<Price>2.68</Price>
+		<Price>2.775632189616</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1076</MPN>
@@ -7361,7 +7418,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ SMALL 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://s1.sklavenitis.gr/images/1600x1600/40/files/ProductMedia/Products/6483473/1.jpg</Image>
-		<Price>2.68</Price>
+		<Price>2.775632189616</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1077</MPN>
@@ -7375,7 +7432,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ EXTRA LARGE 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/8/184222_1.jpg</Image>
-		<Price>2.78</Price>
+		<Price>2.523221476776</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1078</MPN>
@@ -7389,7 +7446,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ LARGE 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/56686836/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://brolias.com/wp-content/uploads/2023/04/PhotoRoom-20240115_141545.png</Image>
-		<Price>2.78</Price>
+		<Price>2.523221476776</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
@@ -7403,7 +7460,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ MEDIUM 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/56686835/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://xalkiadakis.gr/products/172914.jpg?v=1675435054</Image>
-		<Price>2.78</Price>
+		<Price>2.523221476776</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080</MPN>
@@ -7417,7 +7474,7 @@
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Extra Large Μαύρο 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468897_1_1.jpg</Image>
-		<Price>4.14</Price>
+		<Price>4.034635176</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1081</MPN>
@@ -7431,7 +7488,7 @@
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Large Μαύρο 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468880_1_1.jpg</Image>
-		<Price>4.14</Price>
+		<Price>4.034635176</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1082</MPN>
@@ -7445,7 +7502,7 @@
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Medium Μαύρο 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image>
-		<Price>4.14</Price>
+		<Price>4.034635176</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1083</MPN>
@@ -7459,7 +7516,7 @@
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ONE SIZE ΔΙΑΦΑΝΑ 100 ΤΕΜ</Name>
 		<URL>https://www.skroutz.gr/s/22849406/Goldglove-HDPE-Gantia-Polyaithyleniou-se-Diafano-CHroma-100tmch.html?product_id=215518789</URL>
 		<Image>https://maskes.gr/wp-content/uploads/2020/05/%CE%93%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%A0%CE%BF%CE%BB%CF%85%CE%B1%CE%B9%CE%B8%CF%85%CE%BB%CE%B5%CE%BD%CE%AF%CE%BF%CF%85-%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1-One-Size-Large-%CE%A3%CE%B5%CF%84-100-%CE%A4%CE%B5%CE%BC%CE%B1%CF%87%CE%AF%CF%89%CE%BD.jpg</Image>
-		<Price>0.5</Price>
+		<Price>0.49667383584</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1084</MPN>
@@ -7473,7 +7530,7 @@
 		<Name>Θαλασσινός Γάντια Καθαριότητας Latex Large Κίτρινα 2τμχ</Name>
 		<URL>https://www.skroutz.gr/s/37721353/THalassinos-Gantia-Kathariotitas-Plastika-Large-9542-Kitrina-2tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/063390/63390752/20220822120102_2fb614b2.jpeg</Image>
-		<Price>0.63</Price>
+		<Price>0.6179672928</Price>
 		<Category>Γάντια Κουζίνας</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1085</MPN>
@@ -7487,7 +7544,7 @@
 		<Name>Θαλασσινός Γάντια Καθαριότητας Latex Medium Κίτρινα 2τμχ</Name>
 		<URL>https://www.skroutz.gr/s/40449602/THalassinos-Gantia-Kathariotitas-Latex-Medium-9525-Kitrina-2tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/063390/63390752/20220822120102_2fb614b2.jpeg</Image>
-		<Price>0.63</Price>
+		<Price>0.6179672928</Price>
 		<Category>Γάντια Κουζίνας</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1086</MPN>
@@ -7501,7 +7558,7 @@
 		<Name>Θαλασσινός Γάντια Καθαριότητας Latex Small Κίτρινα 2τμχ</Name>
 		<URL>https://www.skroutz.gr/s/33756412/THalassinos-Gantia-Kathariotitas-Latex-Small-9528-Kitrina-2tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/063390/63390752/20220822120102_2fb614b2.jpeg</Image>
-		<Price>0.63</Price>
+		<Price>0.6179672928</Price>
 		<Category>Γάντια Κουζίνας</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1087</MPN>
@@ -7515,7 +7572,7 @@
 		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ EXTRA LARGE</Name>
 		<URL>https://www.skroutz.gr/s/27459203/Viosarp-Gantia-Ergasias-Nitriliou-Gri-VC1179.html</URL>
 		<Image>https://antzoulatosmarket.gr/wp-content/uploads/2023/01/image-1ea1c377-8b00-ea11-9f9e-342387f0a054-l.jpg</Image>
-		<Price>0.78</Price>
+		<Price>0.7584942566666666</Price>
 		<Category>Γάντια Εργασίας</Category>
 		<Manufacturer>VIOSARP</Manufacturer>
 		<MPN>1088</MPN>
@@ -7529,7 +7586,7 @@
 		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ LARGE</Name>
 		<URL>https://www.skroutz.gr/s/27459203/Viosarp-Gantia-Ergasias-Nitriliou-Gri-VC1179.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027459/27459203/20220804122636_viosarp_gantia_ergasias_vc1179_gri.jpeg</Image>
-		<Price>0.78</Price>
+		<Price>0.7584942566666666</Price>
 		<Category>Γάντια Εργασίας</Category>
 		<Manufacturer>VIOSARP</Manufacturer>
 		<MPN>1089</MPN>
@@ -7543,7 +7600,7 @@
 		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ MEDIUM</Name>
 		<URL>https://www.skroutz.gr/s/27459203/Viosarp-Gantia-Ergasias-Nitriliou-Gri-VC1179.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027459/27459203/20220804122636_viosarp_gantia_ergasias_vc1179_gri.jpeg</Image>
-		<Price>0.78</Price>
+		<Price>0.7584942566666666</Price>
 		<Category>Γάντια Εργασίας</Category>
 		<Manufacturer>VIOSARP</Manufacturer>
 		<MPN>1090</MPN>
@@ -7742,7 +7799,7 @@
 		<Name>Χειροπετσέτες Ζικ Ζακ 2φυλλες 21x25cm 200τμχ Λευκές Endless</Name>
 		<URL>https://www.skroutz.gr/s/24266789/Endless-200-CHartopetsetes-Professional.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024266/24266789/20200804095301_endless_professional_difylli_zik_zak_cheiropetseta.jpeg</Image>
-		<Price>1.39</Price>
+		<Price>1.33</Price>
 		<Category>Χαρτικά</Category>
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1341</MPN>
@@ -9901,7 +9958,7 @@
 
 Είναι άχρωμη, μη τοξική, δεν περιέχει δηλητήριο και διατηρεί την κολλητική της ιδιότητα για αρκετό διάστημα χωρίς να ξεραίνεται, ενώ δεν επηρεάζεται από την υγρασία, το νερό και τη θερμότητα.</Description>
 		<EAN>5206753004974</EAN>
-		<Quantity>200</Quantity>
+		<Quantity>197</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10653,7 +10710,7 @@
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643140</EAN>
-		<Quantity>1118</Quantity>
+		<Quantity>1113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12288,7 +12345,7 @@
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>3800206611195</EAN>
-		<Quantity>383</Quantity>
+		<Quantity>378</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12302,7 +12359,7 @@
 		<MPN>0332</MPN>
 		<Description>• Καπάκι πομπέ 504-505• Χρώμα: Διάφανο• Διατίθεται σε συσκευασία 100 τεμαχίων• Συμβατό με τα ποτήρια: OC-12.00.514, OC-12.00.518</Description>
 		<EAN>promitheas-19088104065</EAN>
-		<Quantity>214</Quantity>
+		<Quantity>212</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12316,7 +12373,7 @@
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 250ml.</Description>
 		<EAN>5203124503005</EAN>
-		<Quantity>1800</Quantity>
+		<Quantity>1795</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12877,7 +12934,7 @@
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<EAN>5202054036188</EAN>
-		<Quantity>628</Quantity>
+		<Quantity>623</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13065,7 +13122,7 @@
     Πλάτος: 48mm
     Μήκος: 50m</Description>
 		<EAN>5203642104449</EAN>
-		<Quantity>66</Quantity>
+		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16403,7 +16460,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>79962701</SKU>
+		<SKU>79962702</SKU>
 		<Name>TP-LINK WiFi Extender V6 Passthrough Single Band (2.4GHz) 300Mbps WA860RE</Name>
 		<URL>https://www.skroutz.gr/s/23141702/TP-LINK-TL-WA860RE-v6-WiFi-Extender-Single-Band-2-4GHz-300Mbps.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/032335/32335432/xlarge_20200512165900_c74a4650.jpeg</Image>
@@ -17057,7 +17114,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<EAN>5202737900218</EAN>
-		<Quantity>964</Quantity>
+		<Quantity>934</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18118,7 +18175,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>423</Quantity>
+		<Quantity>422</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
