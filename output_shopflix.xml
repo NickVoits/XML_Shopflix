@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-28 14:05</created_at>
+	<created_at>2025-02-28 15:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -253,7 +253,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>1280</Quantity>
+		<Quantity>1256</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -328,7 +328,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>1186</Quantity>
+		<Quantity>1170</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -358,7 +358,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>1116</Quantity>
+		<Quantity>1104</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -373,7 +373,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<EAN>5201275610672</EAN>
-		<Quantity>1012</Quantity>
+		<Quantity>1004</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -388,7 +388,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
-		<Quantity>818</Quantity>
+		<Quantity>806</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -688,7 +688,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000133335</EAN>
-		<Quantity>305</Quantity>
+		<Quantity>293</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -703,7 +703,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>1580</Quantity>
+		<Quantity>1572</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -718,7 +718,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>1188</Quantity>
+		<Quantity>1180</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -853,7 +853,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>54491472</EAN>
-		<Quantity>283</Quantity>
+		<Quantity>275</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -868,7 +868,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000131836</EAN>
-		<Quantity>147</Quantity>
+		<Quantity>139</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -958,7 +958,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005179370</EAN>
-		<Quantity>1362</Quantity>
+		<Quantity>1314</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1093,7 +1093,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>3959</Quantity>
+		<Quantity>3941</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1138,7 +1138,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<EAN>5201946910315</EAN>
-		<Quantity>187</Quantity>
+		<Quantity>181</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1153,7 +1153,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<EAN>5201946911213</EAN>
-		<Quantity>641</Quantity>
+		<Quantity>614</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1168,7 +1168,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<EAN>5201946910247</EAN>
-		<Quantity>755</Quantity>
+		<Quantity>749</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1183,7 +1183,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<EAN>5201946910261</EAN>
-		<Quantity>416</Quantity>
+		<Quantity>413</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1213,7 +1213,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>474</Quantity>
+		<Quantity>468</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1528,7 +1528,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000051</EAN>
-		<Quantity>792</Quantity>
+		<Quantity>765</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1543,7 +1543,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
 		<EAN>5202908000150</EAN>
-		<Quantity>1597</Quantity>
+		<Quantity>1570</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1558,7 +1558,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000174</EAN>
-		<Quantity>920</Quantity>
+		<Quantity>893</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1573,7 +1573,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908110019</EAN>
-		<Quantity>1451</Quantity>
+		<Quantity>1445</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1588,7 +1588,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908110002</EAN>
-		<Quantity>612</Quantity>
+		<Quantity>594</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1603,7 +1603,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908001003</EAN>
-		<Quantity>1323</Quantity>
+		<Quantity>1311</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1618,7 +1618,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<EAN>5202908000112</EAN>
-		<Quantity>703</Quantity>
+		<Quantity>691</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1633,7 +1633,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<EAN>5202908000105</EAN>
-		<Quantity>549</Quantity>
+		<Quantity>531</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1648,7 +1648,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908101000</EAN>
-		<Quantity>119</Quantity>
+		<Quantity>107</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<EAN>5202908001072</EAN>
-		<Quantity>468</Quantity>
+		<Quantity>462</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1693,7 +1693,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
 		<EAN>5202908000143</EAN>
-		<Quantity>358</Quantity>
+		<Quantity>346</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1708,7 +1708,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Ένας φυσικός χυμός από την Agros με γεύση ανανά από συμπυκνωμένο χυμό.</Description>
 		<EAN>5202908100003</EAN>
-		<Quantity>55</Quantity>
+		<Quantity>43</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1738,7 +1738,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000273</EAN>
-		<Quantity>625</Quantity>
+		<Quantity>613</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1948,7 +1948,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>8108</Quantity>
+		<Quantity>8088</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1963,7 +1963,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345092</EAN>
-		<Quantity>6132</Quantity>
+		<Quantity>6084</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2217,7 +2217,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<EAN>5203413000000</EAN>
-		<Quantity>324</Quantity>
+		<Quantity>312</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2307,7 +2307,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<EAN>5202037115015</EAN>
-		<Quantity>330</Quantity>
+		<Quantity>324</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2337,7 +2337,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Μοσχάτο κοκκινέλι είναι ερυθρός ξηρός οίνος που παράγεται από Μοσχάτο. Είναι κρασί με φωτεινό κόκκινο χρώμα που συνοδεύει απολαυστικά μεγάλη ποικιλία φαγητών. Πίνεται σε θερμοκρασία 12-14°C.</Description>
 		<EAN>5202037115039</EAN>
-		<Quantity>77</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3405,7 +3405,7 @@
 		<MPN>1420</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Αλκοολικός Βαθμός: 40%    Ποσότητα: 200ml    Χώρα Προέλευσης: Ελλάδα    Παραγωγός: Ισίδωρος Αρβανίτης</Description>
 		<EAN>5202413002014</EAN>
-		<Quantity>892</Quantity>
+		<Quantity>882</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3673,7 +3673,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<EAN>promitheas-520237120064</EAN>
-		<Quantity>476</Quantity>
+		<Quantity>464</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3823,7 +3823,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207612016</EAN>
-		<Quantity>1001</Quantity>
+		<Quantity>996</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5280,7 +5280,7 @@
 		<MPN>1043</MPN>
 		<Description>Οι βρεφικές πάνες Babylino Sensitive, χάρη στην ενισχυμένη απορροφητικότητά τους και τα πλαϊνά φράγματα ασφαλείας, προστατεύουν από ανεπιθύμητες διαρροέςκαι προσφέρουν στο μωράκι σας τη στεγνότητα που ζητάτε από μία πάνα. Σε κάθε του κίνηση, οι πάνες Babylino Sensitive φροντίζουν και περιποιούνται το δέρμα του,χάρη στο εκχύλισμα χαμομηλιού και τα πιστοποιημένα φιλικά υλικά τους.</Description>
 		<EAN>5201263082580</EAN>
-		<Quantity>176</Quantity>
+		<Quantity>174</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5521,7 +5521,7 @@
 		<MPN>0629</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως από ανοξείδωτο ατσάλι, μονής λεπίδας, με επικάλυψη πολυμερούς και χρωμίου. Προσαρμοσμένο για ευαίσθητες επιδερμίδες. Με λευκή πολυεστερική σταθερή κεφαλή.</Description>
 		<EAN>5201313008652</EAN>
-		<Quantity>361</Quantity>
+		<Quantity>349</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5731,7 +5731,7 @@
 		<MPN>1058</MPN>
 		<Description>Αποσμητικό χωρίς οινόπνευμα με απαλό άρωμα λουλουδιών και σύνθεση κατά των λευκών σημαδιών που προσφέρει 48 ώρες προστασία.</Description>
 		<EAN>5201314066344</EAN>
-		<Quantity>170</Quantity>
+		<Quantity>169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6921,7 +6921,7 @@
 		<MPN>1394</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<EAN>5201395648012</EAN>
-		<Quantity>89</Quantity>
+		<Quantity>87</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7453,7 +7453,7 @@
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467746</EAN>
-		<Quantity>33</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7708,7 +7708,7 @@
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<EAN>5203650710286</EAN>
-		<Quantity>1748</Quantity>
+		<Quantity>1747</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7750,7 +7750,7 @@
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<EAN>5203650102703</EAN>
-		<Quantity>1004</Quantity>
+		<Quantity>974</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7867,7 +7867,7 @@
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<EAN>5202995004628</EAN>
-		<Quantity>717</Quantity>
+		<Quantity>716</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8563,7 +8563,7 @@
 		<MPN>1100</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
 		<EAN>4084500719200</EAN>
-		<Quantity>928</Quantity>
+		<Quantity>908</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8825,7 +8825,7 @@
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<EAN>5000186735012</EAN>
-		<Quantity>609</Quantity>
+		<Quantity>608</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9161,7 +9161,7 @@
 		<MPN>0372</MPN>
 		<Description>Το Υγρό γενικού καθαρισμού REX Gold Ανθή Γιασεμιού με ελεγχόμενο αφρό &amp; συστατικά που δεσμεύουν τα άλατα.δημιουργεί προστατευτικό φιλμ και προσφέρει επιπλέον γυαλάδα.Με τα ειδικά συστατικά που περιέχει διευκολύνει το σφουγγάρισμα. Με πολύ δυνατό άρωμα που διαρκεί.</Description>
 		<EAN>5200250703323</EAN>
-		<Quantity>59</Quantity>
+		<Quantity>57</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9413,7 +9413,7 @@
 		<MPN>0202</MPN>
 		<Description>Κατασκευασμένη από υλικό μικροΐνων, το οποίο παρέχει υψηλή απορροφητικότητα και αποτελεσματικότητα στον καθαρισμό. Είναι ιδανική για τον καθαρισμό και τη σκούπα των επιφανειών στο σπίτι ή στο αυτοκίνητο, αφήνοντάς τις χωρίς ίχνη και σκόνη. Η υψηλή ποιότητά της εξασφαλίζει μακρά διάρκεια και ανθεκτικότητα.</Description>
 		<EAN>5200128640941</EAN>
-		<Quantity>177</Quantity>
+		<Quantity>176</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9497,7 +9497,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>311</Quantity>
+		<Quantity>307</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9511,7 +9511,7 @@
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>672</Quantity>
+		<Quantity>664</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10428,7 +10428,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Εξαίρετο κάρβουνο από σκληρό ξύλο με μεγάλη διάρκεια. Είναι η ιδανική επιλογή για όσους εκτιμούν την παράδοση και επιθυμούν να προσθέσουν έναν παραδοσιακό χαρακτήρα στο ψήσιμό τους. Με τα παραδοσιακά ξυλοκάρβουνα, μπορείτε να δημιουργήσετε την τέλεια φλόγα και την ιδανική θερμοκρασία για να αναδείξετε τη γεύση των ψητών σας εδεσμάτων.</Description>
 		<EAN>5200116050097</EAN>
-		<Quantity>338</Quantity>
+		<Quantity>333</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12619,7 +12619,7 @@
 		<MPN>0147</MPN>
 		<Description>• Σκεύος Pet με ενσωματωμένο καπάκι, παραλληλόγραμμο.• Χωρητικότητα: 500cc• Διαστάσεις: 13x12cm• Ύψος: 5cm• Συσκευασία: 100 τεμάχια</Description>
 		<EAN>promitheas-15202054466449</EAN>
-		<Quantity>61</Quantity>
+		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12633,7 +12633,7 @@
 		<MPN>0587</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 750ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία κρύων φαγητών. Η συσκευασία περιλαμβάνει 100 τεμάχια.</Description>
 		<EAN>15202054466456</EAN>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12647,7 +12647,7 @@
 		<MPN>0687</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 1000ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία κρύων φαγητών. Η συσκευασία περιλαμβάνει 100 τεμάχια.</Description>
 		<EAN>promitheas-15202054466463</EAN>
-		<Quantity>100</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15009,7 +15009,7 @@
 		<MPN>1653</MPN>
 		<Description>Μαύρη τοστιέρα 2 θέσεων από ανοξείδωτο ατσάλι και πλαστικό. Διαθέτει αντικολλητικές πλάκες, ένδειξη λειτουργίας - ετοιμότητας του τοστ, λαβή κλειδώματος. Οι αντικολλητικές πλάκες γκριλ, προσφέρουν γρήγορο και ομοιόμορφο ψησιμό σε έως 2 λεπτά.</Description>
 		<EAN>5207227142536</EAN>
-		<Quantity>27</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17700,7 +17700,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>0.4 kg</Weight>
 		<Description>Τα μανιτάρια Frescon είναι συντηρημένα με τις πιο προηγμένες μεθόδους κονσερβοποίησης, ώστε να διατηρηθεί η ποιότητα και η γεύση της πρώτης ύλης, όσο πιο φρέσκια γίνεται και για όσο περισσότερο καιρό γίνεται.</Description>
 		<EAN>5200128642068</EAN>
-		<Quantity>2183</Quantity>
+		<Quantity>2171</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18028,7 +18028,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<MPN>1630</MPN>
 		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι.</Description>
 		<EAN>5201219046055</EAN>
-		<Quantity>222</Quantity>
+		<Quantity>202</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18176,7 +18176,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>399</Quantity>
+		<Quantity>397</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
