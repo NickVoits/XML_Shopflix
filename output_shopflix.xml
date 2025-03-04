@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-03-04 10:05</created_at>
+	<created_at>2025-03-04 11:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -118,7 +118,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<EAN>5201309103910</EAN>
-		<Quantity>118</Quantity>
+		<Quantity>116</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -253,7 +253,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>1228</Quantity>
+		<Quantity>1212</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -268,7 +268,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<EAN>75041670</EAN>
-		<Quantity>1916</Quantity>
+		<Quantity>1892</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -328,7 +328,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>1035</Quantity>
+		<Quantity>1030</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -358,7 +358,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>1022</Quantity>
+		<Quantity>1017</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -388,7 +388,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
-		<Quantity>731</Quantity>
+		<Quantity>730</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -703,7 +703,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>1409</Quantity>
+		<Quantity>1407</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -718,7 +718,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>1016</Quantity>
+		<Quantity>1014</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -763,7 +763,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000214775</EAN>
-		<Quantity>283</Quantity>
+		<Quantity>282</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1453,7 +1453,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908000020</EAN>
-		<Quantity>2172</Quantity>
+		<Quantity>2170</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1528,7 +1528,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000051</EAN>
-		<Quantity>765</Quantity>
+		<Quantity>763</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1603,7 +1603,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908001003</EAN>
-		<Quantity>1287</Quantity>
+		<Quantity>1286</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1753,7 +1753,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός cranberry από συμπυκνωμένο φυσικό χυμό.</Description>
 		<EAN>5202908000228</EAN>
-		<Quantity>70</Quantity>
+		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1933,7 +1933,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<EAN>5201946010015</EAN>
-		<Quantity>7724</Quantity>
+		<Quantity>7684</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1948,7 +1948,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>6912</Quantity>
+		<Quantity>6888</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1985,7 +1985,7 @@
 Στερεό Υπόλειμμα (180°): 1,25 g/L
 </Description>
 		<EAN>5206167001002</EAN>
-		<Quantity>342</Quantity>
+		<Quantity>318</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2097,7 +2097,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα μοναδικό κρασί με απόλυτα Ελληνική ταυτότητα, με απαλό άρωμα και γεύση ρητίνης που αφήνουν να αναδυθούν και τα αρώματα των ποικιλιών.</Description>
 		<EAN>5201625000016</EAN>
-		<Quantity>1411</Quantity>
+		<Quantity>1407</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2247,7 +2247,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>1960</Quantity>
+		<Quantity>1954</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2672,7 +2672,7 @@
 		<MPN>1316</MPN>
 		<Description>To λευκό του Κτήματος Βιβλία Χώρα αποτελεί ένα αρωματικό και φρέσκο κρασί, φτιαγμένο για όλες τις στιγμές. Παράγεται από το πάντρεµα της αρωματικής ποικιλίας Sauvignon Blanc και του πληθωρικού Ασύρτικου. Το χρώμα του, είναι απαλό πρασινοκίτρινο, µε έντονη διαύγεια. Έντονα αρώματα τροπικών φρούτων, γκρέιπφρουτ, εναλλάσσονται µε νότες εσπεριδοειδών &amp;  λεμονιού. Σερβίρεται στους 10οC και προτείνεται να καταναλωθεί σε 2 χρόνια. Πίνεται σκέτο ως απεριτίφ, ενώ μπορεί να συνοδεύσει εξαιρετικά πλατό τυριών, ριζοτο και θαλασσινά,.</Description>
 		<EAN>5200101710012</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2933,7 +2933,7 @@
 		<MPN>1325</MPN>
 		<Description>Λευκό κρασί ποικιλίας Sauvignon Blanc 100% με κρυστάλλινο, λαμπερό με υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες. Μύτη έντονη και πλούσια, με αρώματα εσπεριδοειδών, φρούτων του πάθους και με γλυκιά χροιά πεπονιού στο τέλος. Στο στόμα είναι ιδιαίτερα γεμάτο, ηδύ, λιπαρό, με ισορροπία και δροσιά.</Description>
 		<EAN>5205243322000</EAN>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3688,7 +3688,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202037130063</EAN>
-		<Quantity>439</Quantity>
+		<Quantity>436</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3909,7 +3909,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<EAN>5010314700003</EAN>
-		<Quantity>230</Quantity>
+		<Quantity>228</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3923,7 +3923,7 @@
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<EAN>5000281002538</EAN>
-		<Quantity>384</Quantity>
+		<Quantity>382</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3937,7 +3937,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
-		<Quantity>367</Quantity>
+		<Quantity>364</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3951,7 +3951,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<EAN>promitheas-080432402931</EAN>
-		<Quantity>348</Quantity>
+		<Quantity>345</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3965,7 +3965,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<EAN>5000267024202</EAN>
-		<Quantity>397</Quantity>
+		<Quantity>394</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3995,7 +3995,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Jack Daniel's παράγεται με τον ίδιο παραδοσιακό τρόπο εδώ και 140 χρόνια. Έχει πλούσιο κεχριμπαρένιο χρώμα και ισορροπημένη γεύση με στοιχεία καπνισμένου ξύλου, καραμέλας και βανίλιας.</Description>
 		<EAN>5099873045961</EAN>
-		<Quantity>51</Quantity>
+		<Quantity>50</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4069,7 +4069,7 @@
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
 		<EAN>5000289925440</EAN>
-		<Quantity>224</Quantity>
+		<Quantity>223</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4098,7 +4098,7 @@
 		<MPN>1498</MPN>
 		<Description>Το Tanqueray δημιουργήθηκε το 1830 από τον Charles Tanqueray στο Tingrith του Bedfordshire.</Description>
 		<EAN>5000281015248</EAN>
-		<Quantity>155</Quantity>
+		<Quantity>154</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4244,7 +4244,7 @@
 		<MPN>1529</MPN>
 		<Description>Παρασκευασμένο για πρώτη φορά το 1862, το ρούμι Bacardi είναι το αυθεντικό, εύκολο στην ανάμειξη, ελαφρύ ρούμι που παλαιώνει για ένα με δύο χρόνια σε επιλεγμένα δρύινα βαρέλια.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5010677012782</EAN>
-		<Quantity>360</Quantity>
+		<Quantity>359</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4887,7 +4887,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
 		<EAN>8052190350061</EAN>
-		<Quantity>27</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5056,7 +5056,7 @@
 		<MPN>1282</MPN>
 		<Description>Βελτιωμένες κεφαλές της σειράς Cross Action με τεχνολογία CleanMaximiser που προσφέρει έως και 100% περισσότερη αφαίρεση πλάκας και πιο υγιή ούλα σε σύγκριση με μια κανονική χειροκίνητη οδοντόβουρτσα.</Description>
 		<EAN>4210201353409</EAN>
-		<Quantity>79</Quantity>
+		<Quantity>77</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5154,7 +5154,7 @@
 		<MPN>1038</MPN>
 		<Description>Σερβιέτες με φτερά Sensitive with Cotton Normal από την εταιρεία Every Day, κατασκευασμένες από απορροφητικό υλικό ώστε να προσφέρουν ασφάλεια κατά τις δύσκολες μέρες της περιόδου. Χάρη στα φτερά που διαθέτουν, αποτρέπουν τη μετακίνηση της σερβιέτας και προστατεύουν από τυχόν διαρροές. Κατάλληλες για γυναικές με μέτρια ροή, για να προσφέρουν μεγαλύτερη άνεση και προστασία.</Description>
 		<EAN>5201263018060</EAN>
-		<Quantity>133</Quantity>
+		<Quantity>135</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5168,7 +5168,7 @@
 		<MPN>1010</MPN>
 		<Description>Σερβιέτες με φτερά Sensitive with Cotton Normal από την εταιρεία Every Day, κατασκευασμένες από απορροφητικό υλικό ώστε να προσφέρουν ασφάλεια κατά τις δύσκολες μέρες της περιόδου. Χάρη στα φτερά που διαθέτουν, αποτρέπουν τη μετακίνηση της σερβιέτας και προστατεύουν από τυχόν διαρροές. Κατάλληλες για γυναικές με μέτρια ροή, για να προσφέρουν μεγαλύτερη άνεση και προστασία.</Description>
 		<EAN>5201263006340</EAN>
-		<Quantity>1088</Quantity>
+		<Quantity>1086</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5507,7 +5507,7 @@
 		<MPN>1535</MPN>
 		<Description>Βασικά χαρακτηριστικά:   • Ανταλλακτικές Κεφαλές   • Με 5 Λεπίδες   • Συμβατές με τις Μηχανές Fusion   • Με Λεπίδα Ακριβείας Στο Πίσω Μέρος   • Με Τζελ Για Άνετο Ξύρισμα</Description>
 		<EAN>7702018866984</EAN>
-		<Quantity>191</Quantity>
+		<Quantity>188</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6053,7 +6053,7 @@
 		<MPN>0942</MPN>
 		<Description>Μια δυνατή αντισηπτική λύση που χρησιμοποιείται για τον καθαρισμό και την απολύμανση των χεριών και των επιφανειών. Η υψηλή περιεκτικότητα αλκοόλης την καθιστά αποτελεσματική στην εξάλειψη μικροβίων και ιών. Είναι ιδανική για χρήση σε κλινικές, νοσοκομεία, εργαστήρια, καθώς και σε οποιοδήποτε περιβάλλον όπου απαιτείται υψηλό επίπεδο υγιεινής και απολύμανσης. Πριν από τη χρήση, βεβαιωθείτε ότι η λοσιόν απλώνεται ομοιόμορφα και αφήνετε να στεγνώσει εντελώς.</Description>
 		<EAN>5200341702662</EAN>
-		<Quantity>155</Quantity>
+		<Quantity>147</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7652,7 +7652,7 @@
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102840</EAN>
-		<Quantity>541</Quantity>
+		<Quantity>540</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7806,7 +7806,7 @@
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<EAN>5202995010537</EAN>
-		<Quantity>66</Quantity>
+		<Quantity>62</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7881,7 +7881,7 @@
 		<MPN>1532</MPN>
 		<Description>Απαλά Χαρτομάντηλα σε κραφτ χάρτινο κουτί. 2 φύλλων απαλά απορροφητικά σε πρακτική συσκευασία ιδανικά για χρήση στο σπίτι, το γραφείο, το αυτοκίνητο, κ.α.</Description>
 		<EAN>5202995008299</EAN>
-		<Quantity>1278</Quantity>
+		<Quantity>1274</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8155,7 +8155,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η δυναμική και απόλυτα ισορροπημένη σύνθεσή του ROL Classic λευκαίνει και καθαρίζει τα ρούχα σε βάθος εξαφανίζοντας όλους τους λεκέδες, ακόμα και αυτούς που άλλα απορρυπαντικά δεν μπορούν να αντιμετωπίσουν, χωρίς να καταπονεί και να φθείρει τις ίνες των ρούχων. Το ROL Classic χαρίζει αξεπέραστη καθαριότητα και κάνει τα ρούχα αστραφτερά, όλο φρεσκάδα.</Description>
 		<EAN>5201321034438</EAN>
-		<Quantity>2957</Quantity>
+		<Quantity>2931</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8909,7 +8909,7 @@
 		<MPN>1113</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
 		<EAN>8410436151061</EAN>
-		<Quantity>639</Quantity>
+		<Quantity>637</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9455,7 +9455,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>288</Quantity>
+		<Quantity>289</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10046,7 +10046,7 @@
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<EAN>4012425171216</EAN>
-		<Quantity>753</Quantity>
+		<Quantity>715</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10118,7 +10118,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
 		<EAN>5205376018993</EAN>
-		<Quantity>1440</Quantity>
+		<Quantity>1435</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10202,7 +10202,7 @@
 		<MPN>Ε-1735</MPN>
 		<Description>Κερί μνήμης διάρκειας 6 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
 		<EAN>5203642117357</EAN>
-		<Quantity>149</Quantity>
+		<Quantity>140</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10272,7 +10272,7 @@
 		<MPN>Ε-0922</MPN>
 		<Description>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών με Μπαταρία και Διάσταση 6x9x15 εκ.</Description>
 		<EAN>5203642109222</EAN>
-		<Quantity>72</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11841,7 +11841,7 @@
 		<MPN> E-0529</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους. </Description>
 		<EAN>5203642105293</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15001,7 +15001,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.7 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<EAN>5901299949849</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15384,7 +15384,7 @@
 
 Καλώδιο για μεταφορά δεδομένων και φόρτιση συσκευών με θύρα Type-C.</Description>
 		<EAN>6957303861262</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16698,7 +16698,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>1 kg</Weight>
 		<Description>Η λευκή ζάχαρη της εταιρείας Royal Sugar σε κρυσταλλική μορφή, είναι το γλυκό προϊόν που προκύπτει μετά απο επεξεργασία, προκειμένου να αφαιρεθεί εντελώς η μελάσα και να μείνουν μόνο οι λευκοί καθαροί κρύσταλλοι. Ένα κουταλάκι του γλυκού (5 γραμμάρια) αποδίδει 16 θερμίδες.</Description>
 		<EAN>5200120912039</EAN>
-		<Quantity>9629</Quantity>
+		<Quantity>9609</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17028,7 +17028,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Weight>0.4 kg</Weight>
 		<Description>Ξίδι της εταιρείας ΤΖΩΝ ΤΟΠ, το οποίο παράγεται από κόκκινο κρασί και είναι ιδανικό για σαλάτες, όσπρια ή χοιρινό κρέας. Το οξικό οξύ που περιέχει το ξίδι επιβραδύνει την πέψη των υδατανθράκων και αυξάνει την απορρόφηση της γλυκόζης. Η διαδικασία έχει ως αποτέλεσμα μικρότερες ποσότητες γλυκόζης στο αίμα και διατήρηση υγιών επιπέδων σακχάρου. Είναι πλούσιο σε αντιοξειδωτικά που προστατεύουν το σώμα από βλάβες του δέρματος και μολύνσεις. Επίσης ωφελεί την υγεία της καρδιάς και μειώνει τα επίπεδα χοληστερόλης, προλαμβάνει τη φλεγμονή και τη δημιουργία θρόμβων και ρυθμίζει την αρτηριακή πίεση.</Description>
 		<EAN>5202737200332</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
