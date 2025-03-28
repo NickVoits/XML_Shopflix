@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-03-28 14:05</created_at>
+	<created_at>2025-03-28 14:07</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2501,7 +2501,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>278</Quantity>
+		<Quantity>277</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2516,7 +2516,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>272</Quantity>
+		<Quantity>271</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2531,7 +2531,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
 		<EAN>5201214100271</EAN>
-		<Quantity>65</Quantity>
+		<Quantity>64</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15367,6 +15367,23 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7971005</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί E27 6500K 175-250V Ψυχρό Λευκό 1521lm (147-77004)</Name>
+		<URL>https://www.skroutz.gr/s/26550585/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-PSychro-Leyko-1521lm-147-77004.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/026550/26550585/xlarge_20231229100615_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_a60_psychro_leyko_1521lm_147_77004.jpeg</Image>
+		<Price>1.62</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77004</MPN>
+		<Description>Λάμπα LED με απόδοση φωτεινότητας 1521 lumen και διάμετρο 60mm, για τοποθέτηση σε φωτιστικά με εφαρμογή E27.
+Χαρακτηριστικά
+
+Είναι κατασκευασμένη από πλαστικό με ψύκτρα αλουμινίου και μέσο χρόνο ζωής 25.000 ώρες. Κατά την λειτουργία της θα προσθέτει στο χώρο ψυχρό λευκό φως (6500K).</Description>
+		<EAN>5207227112683</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7971011</SKU>
 		<Name>Eurolamp Κοινή Λάμπα LED 4,9W για Ντουί E27 4000K 175-250V Φυσικό Λευκό 480lm (147-77010)</Name>
 		<URL>https://revoltsa.gr/index.php?route=product/product&amp;search=5207227112867&amp;product_id=15827&amp;search=5207227112867</URL>
@@ -15420,6 +15437,27 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Το χρώμα της λάμπας προσομοιώνει εκείνο του φωτός της ημέρας κάνοντάς την ιδανική επιλογή για γραφεία αφού δεν κουράζει, αλλά και σε σημεία που δεν θέλετε να αλλοιώνονται τα χρώματα των αντικειμένων.</Description>
 		<EAN>5207227113161</EAN>
 		<Quantity>151</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971015</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί E27 4000K 175-250V Φυσικό Λευκό 1521lm (147-77014)</Name>
+		<URL>https://www.skroutz.gr/s/26550506/Eurolamp-Lampa-LED-15W-gia-Ntoui-E27-kai-Schima-A60-Fysiko-Leyko-1521lm-147-77014.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/026550/26550506/xlarge_20230102154720_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_a60_fysiko_leyko_1521lm_147_77014.jpeg</Image>
+		<Price>1.62</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77014</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Φωτεινότητα: 1521 lumen
+    Γωνία Δέσμης: 300 °
+    Υλικό: Πλαστικό
+    Διάμετρος: 60mm
+
+Λάμπα LED τεχνολογίας για τοποθέτηση σε φωτιστικά με ντουί E27.​</Description>
+		<EAN>5207227112980</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15479,6 +15517,180 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7971025</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί E27 2700K 175-250V Θερμό Λευκό 1521lm (147-77034)</Name>
+		<URL>https://www.skroutz.gr/s/27132401/Eurolamp-Lampa-LED-15W-gia-Ntoui-E27-kai-Schima-A60-THermo-Leyko-1521lm-147-77034.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/027132/27132401/xlarge_20220216094232_eurolamp_lampa_led_gia_ntoui_e27_thermo_leyko_1521lm_147_77034.jpeg</Image>
+		<Price>1.623392997984</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77034</MPN>
+		<Description>
+
+Λάμπα SMD - νήματος LED της εταιρείας Eurolamp.
+
+    Ισχύς εισόδου: 220-240V
+    Τύπος ντουί: E27
+    Ισχύς: 15 Watt
+    Θερμοκρασία χρώματος: 2700K/Θερμό Λευκό
+    Φωτεινότητα: 1521Lm
+    Δέσμη φωτισμού: 300 μοίρες
+    Διάρκεια ζωής: 25.000 ώρες
+</Description>
+		<EAN>5207227112836</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971053</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 8,8W για Ντουί Β22 6500K 175-250V Φυσικό Λευκό 810lm (147-77042)</Name>
+		<URL>https://www.skroutz.gr/s/27132028/Eurolamp-Lampa-LED-gia-Ntoui-B22-PSychro-Leyko-810lm-147-77042.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/027132/27132028/xlarge_20210615122351_eurolamp_lampa_led_gia_ntoui_b22_psychro_leyko_810lm_147_77042.jpeg</Image>
+		<Price>1.15381608408</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77042</MPN>
+		<Description>
+
+Λάμπα LED Κοινή 8,8W
+
+    Τάση Τροφοδοσίας: 175-250V
+    Ονομαστική Ισχύς: 8,8W
+    Θερμοκρασία Χρώματος: 6500K
+    Συχνότητα Λειτουργίας: 50/60Hz
+    Ένταση Ρεύματος: 72mA
+    Απόδοση σε Lumen: 810lm
+    Βαθμός Στεγανότητας: IP20
+    Συντελεστής Άεργου Ισχύος: &gt;0,65
+    Χρωματική Απόδοση CRI: &gt;80
+    Διάρκεια Ζωής: 25000h
+    Θερμοκρασία Λειτουργίας: -30°C - +45°C
+    Ενεργειακή κλάση: F
+    Ντουί Λαμπτήρα: B22
+    Τύπος: Led SMD2835
+    Σχήμα Λαμπτήρα: A60
+    Κύκλοι Μεταγωγής: 25000
+    Ρύθμιση Έντασης: Όχι
+    Χρόνος Έναυσης: 0,5 sec
+    Υδράργυρος: 0,00%
+    Γωνία Δέσμης: 300°
+    Διάμετρος: 60mm
+    Ύψος: 107mm
+    Μεικτό Βάρος: 0,039 Kg
+    Υλικό Προϊόντος: Πλαστικό με Ψύκτρα Αλουμινίου
+    Χρώμα Καλύμματος: Frost
+    Τεμάχια ανά συσκευασία: 1
+    Συσκευασία: Paper Window B.Pack
+    Κιβωτοποίηση (τεμ): 1\10\50
+    Πιστοποιητικά: Ναι
+    Ένδειξη CE: Ναι
+    Αριθμός Καταχώρησης EPREL: 761867
+
+</Description>
+		<EAN>5207227113017</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971054</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί Β22 6500K 175-250V Φυσικό Λευκό 1055lm (147-77043)</Name>
+		<URL>https://www.skroutz.gr/s/27390785/Eurolamp-Lampa-LED-12W-gia-Ntoui-B22-kai-Schima-A60-PSychro-Leyko-1055lm-147-77043.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/027390/27390785/xlarge_20210512172745_eurolamp_lampa_led_gia_ntoui_b22_kai_schima_a60_psychro_leyko_1055lm_147_77043.jpeg</Image>
+		<Price>1.3282303663872</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77043</MPN>
+		<Description>
+
+Λάμπα LED Κοινή με χαρακτηριστικά:
+
+    Τάση Τροφοδοσίας: 175-250V
+    Ονομαστική Ισχύς: 11,1W
+    Θερμοκρασία Χρώματος: 6500K
+    Ένταση Ρεύματος: 75mA
+    Απόδοση σε Lumen: 1055lm
+    Βαθμός Στεγανότητας: IP20
+    Χρωματική Απόδοση CRI: &gt;80
+    Διάρκεια Ζωής: 25000h
+    Θερμοκρασία Λειτουργίας: -30°C - +45°C
+    Ενεργειακή Κλάση: F
+    Ντουί Λαμπτήρα: B22
+    Τύπος: Led SMD2835
+    Σχήμα Λαμπτήρα: A60
+    Κύκλοι Μεταγωγής: 25000
+    Ρύθμιση Έντασης: Όχι
+    Χρόνος Έναυσης: 0,5 sec
+    Υδράργυρος: 0,00%
+    Γωνία Δέσμης: 300°
+    Διάμετρος: 60mm
+    Ύψος: 110mm
+    Μεικτό Βάρος Προϊόντος: 0,045Kg
+    Υλικό: Πλαστικό με Ψύκτρα Αλουμινίου
+    Χρώμα Καλύμματος: Frost
+    Τεμάχια ανά Συσκευασία: 1
+    Συσκευασία: Paper Window B.Pack
+    Κιβωτοποίηση: 1/10/50
+    Πιστοποιητικά: Ναι
+    Ένδειξη CE: Ναι
+    Αριθμός Καταχώρησης EPREL: 761868
+
+</Description>
+		<EAN>5207227113222</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971055</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί Β22 6500K 175-250V Φυσικό Λευκό 1521lm (147-77044)</Name>
+		<URL>https://www.skroutz.gr/s/27132093/Eurolamp-Lampa-LED-gia-Ntoui-B22-PSychro-Leyko-1521lm-147-77044.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/027132/27132093/xlarge_20210920170301_eurolamp_lampa_led_gia_ntoui_b22_psychro_leyko_1521lm_147_77044.jpeg</Image>
+		<Price>1.623392997984</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77044</MPN>
+		<Description>
+
+Λάμπα LED Κοινή 15W B22 6500K
+
+    Τάση Τροφοδοσίας: 220-240V
+    Ονομαστική Ισχύς: 15W
+    Θερμοκρασία Χρώματος: 6500K
+    Συχνότητα Λειτουργίας: 50/60Hz
+    Ένταση Ρεύματος: 98mA
+    Απόδοση σε Lumen: 1521lm
+    Ισοδυναμία Ισχύος: 105W
+    Βαθμός Στεγανότητας: IP20
+    Συντελεστής Άεργου Ισχύος: &gt;0,65
+    Χρωματική Απόδοση CRI: &gt;80
+    Διάρκεια Ζωής: 25000h
+    Θερμοκρασία Λειτουργίας: -30°C - +45°C
+    Ενεργειακή κλάση: F
+    Ντουί Λαμπτήρα: B22
+    Τύπος: Led SMD2835
+    Σχήμα Λαμπτήρα: A65
+    Κύκλοι Μεταγωγής: 25000
+    Ρύθμιση Έντασης: Όχι
+    Χρόνος Έναυσης: 0,5 sec
+    Υδράργυρος: 0,00%
+    Γωνία Δέσμης: 300°
+    Διάμετρος: 65mm
+    Ύψος: 128mm
+    Μεικτό Βάρος Προϊόντος: 0,075 Kg
+    Υλικό Προϊόντος: Πλαστικό με Ψύκτρα Αλουμινίου
+    Χρώμα Καλύμματος: Frost
+    Τεμάχια ανά συσκευασία: 1
+    Συσκευασία: Paper Window B.Pack
+    Κιβωτοποίηση: 1\10\50
+    Πιστοποιητικά: Ναι
+    Ένδειξη CE: Ναι
+    Αριθμός Καταχώρησης EPREL: 761869
+
+</Description>
+		<EAN>5207227113253</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7971062</SKU>
 		<Name>Eurolamp Κοινή  Λάμπα LED 8W για Ντουί Β22 4000K 175-250V Φυσικό Λευκό 650lm (147-77051)</Name>
 		<URL>https://www.skroutz.gr/s/27132137/Eurolamp-Lampa-LED-gia-Ntoui-B22-Fysiko-Leyko-650lm-147-77051.html</URL>
@@ -15507,6 +15719,54 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7971065</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί Β22 4000K 175-250V Φυσικό Λευκό 1521lm (147-77054)</Name>
+		<URL>https://www.skroutz.gr/s/27390967/Eurolamp-Lampa-LED-15W-gia-Ntoui-B22-kai-Schima-A65-Fysiko-Leyko-1521lm-147-77054.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/027390/27390967/xlarge_20210920170301_eurolamp_lampa_led_gia_ntoui_b22_kai_schima_a60_fysiko_leyko_1521lm_147_77054.jpeg</Image>
+		<Price>1.623392997984</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77054</MPN>
+		<Description>Λάμπα LED Κοινή 15W B22 4000K
+
+    Τάση Τροφοδοσίας: 220-240V
+    Ονομαστική Ισχύς: 15W
+    Θερμοκρασία Χρώματος: 4000K
+    Συχνότητα Λειτουργίας: 50/60Hz
+    Ένταση Ρεύματος: 98mA
+    Απόδοση σε Lumen: 1521lm
+    Ισοδυναμία Ισχύος: 105W
+    Βαθμός Στεγανότητας: IP20
+    Συντελεστής Άεργου Ισχύος: &gt;0,65
+    Χρωματική Απόδοση CRI: &gt;80
+    Διάρκεια Ζωής: 25000h
+    Θερμοκρασία Λειτουργίας: -30°C - +45°C
+    Ενεργειακή κλάση: F
+    Ντουί Λαμπτήρα: B22
+    Τύπος: Led SMD2835
+    Σχήμα Λαμπτήρα: A65
+    Κύκλοι Μεταγωγής (ON/OFF): 25000
+    Ρύθμιση Έντασης: Όχι
+    Χρόνος Έναυσης: 0,5 sec
+    Υδράργυρος: 0,00%
+    Γωνία Δέσμης: 300°
+    Διάμετρος: 65mm
+    Ύψος: 128mm
+    Μεικτό Βάρος Προϊόντος: 0,075 Kg
+    Υλικό Προϊόντος: Πλαστικό με Ψύκτρα Αλουμινίου
+    Χρώμα Καλύμματος: Frost
+    Τεμάχια ανά συσκευασία: 1
+    Συσκευασία: Paper Window B.Pack
+    Κιβωτοποίηση (τεμ): 1/10/50
+    Πιστοποιητικά: Ναι
+    Ένδειξη CE: Ναι
+    Αριθμός Καταχώρησης EPREL: 761874
+</Description>
+		<EAN>5207227113192</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7971072</SKU>
 		<Name>Eurolamp Κοινή  Λάμπα LED 8W για Ντουί Β22  2700K 175-250V Θερμό Λευκό 650lm (147-77071)</Name>
 		<URL>https://revoltsa.gr/index.php?route=product/product&amp;search=5207227113048&amp;product_id=15849&amp;search=5207227113048</URL>
@@ -15532,6 +15792,56 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Το θερμό χρώμα που διαθέτει η λάμπα είναι πιο κοντά σε αυτό της φωτιάς το οποίο θα προσδώσει μια ζεστή αίσθηση στο χώρο που θα σας βοηθήσει να χαλαρώσετε. Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 10 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 83 μέχρι 90 watt ή μια αλογόνου από 50 μέχρι 54 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.    Ισχύς: 12W    Τάση: 220V    Lumen: 1055lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: B22    Σχήμα: A60</Description>
 		<EAN>promitheas-5207227113284</EAN>
 		<Quantity>69</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971075</SKU>
+		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί Β22 2700K 175-250V Φυσικό Λευκό 1521lm (147-77074)</Name>
+		<URL>https://www.skroutz.gr/s/27132276/Eurolamp-Lampa-LED-gia-Ntoui-B22-THermo-Leyko-1521lm-147-77074.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/027132/27132276/xlarge_20210920170301_eurolamp_lampa_led_gia_ntoui_b22_thermo_leyko_1521lm_147_77074.jpeg</Image>
+		<Price>1.623392997984</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77074</MPN>
+		<Description>
+
+Λάμπα LED Κοινή 15W B22 2700K
+
+    Τάση Τροφοδοσίας: 220-240V
+    Ονομαστική Ισχύς: 15W
+    Θερμοκρασία Χρώματος: 2700K
+    Συχνότητα Λειτουργίας: 50/60Hz
+    Ένταση Ρεύματος: 110mA
+    Απόδοση σε Lumen: 1521lm
+    Ισοδυναμία Ισχύος: 105W
+    Βαθμός Στεγανότητας: IP20
+    Συντελεστής Άεργου Ισχύος: &gt;0,65
+    Χρωματική Απόδοση CRI: &gt;80
+    Διάρκεια Ζωής: 25000h
+    Θερμοκρασία Λειτουργίας: -30°C - +45°C
+    Ενεργειακή κλάση: F
+    Ντουί Λαμπτήρα: B22
+    Τύπος: Led SMD2835
+    Σχήμα Λαμπτήρα: A65
+    Κύκλοι Μεταγωγής: 25000
+    Ρύθμιση Έντασης: Όχι
+    Χρόνος Έναυσης: 0,5 sec
+    Γωνία Δέσμης: 300°
+    Διάμετρος: 65mm
+    Ύψος: 128mm
+    Μεικτό Βάρος Προϊόντος: 0,075 Kg
+    Υλικό Προϊόντος: Πλαστικό με Ψύκτρα Αλουμινίου
+    Χρώμα Καλύμματος: Frost
+    Τεμάχια ανά συσκευασία: 1
+    Συσκευασία: Paper Window B.Pack
+    Κιβωτοποίηση: 1/10/50
+    Πιστοποιητικά: Ναι
+    Ένδειξη CE: Ναι
+    Αριθμός Καταχώρησης EPREL: 761878
+
+</Description>
+		<EAN>5207227113314</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15700,6 +16010,108 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Το θερμό χρώμα που διαθέτει η λάμπα είναι πιο κοντά σε αυτό της φωτιάς το οποίο θα προσδώσει μια ζεστή αίσθηση στο χώρο που θα σας βοηθήσει να χαλαρώσετε.    Ισχύς: 7W    Τάση: 220V    Lumen: 630lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: E27    Σχήμα: G45</Description>
 		<EAN>5207227113703</EAN>
 		<Quantity>100</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971501</SKU>
+		<Name>Eurolamp Γλόμπος Φ120 Λάμπα LED 13,8W για Ντουί Ε27 6500K 175-250V Ψυχρό Λευκό 1500lm (147-77406)</Name>
+		<URL>https://www.skroutz.gr/s/27391225/Eurolamp-Lampa-LED-18W-gia-Ntoui-E27-kai-Schima-G120-PSychro-Leyko-1500lm-147-77406.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/027391/27391225/xlarge_20211221100443_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_g120_psychro_leyko_1500lm_147_77406.jpeg</Image>
+		<Price>5.07</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77406</MPN>
+		<Description>Λάμπα SMD - νήματος LED της εταιρείας Eurolamp.
+
+    Ισχύς εισόδου: 220-240V
+    Τύπος ντουί: E27
+    Ισχύς: 18 Watt
+    Θερμοκρασία χρώματος: 6500K/Ψυχρό Λευκό
+    Φωτεινότητα: 1500Lm
+    Δέσμη φωτισμού: 270 μοίρες
+    Διάρκεια ζωής: 25.000 ώρες
+</Description>
+		<EAN>5207227113949</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971502</SKU>
+		<Name>Eurolamp Γλόμπος Φ120 Λάμπα LED 248W για Ντουί Ε27 6500K 175-250V Ψυχρό Λευκό 2400lm (147-77412)</Name>
+		<URL>https://www.skroutz.gr/s/27442732/Eurolamp-Lampa-LED-25W-gia-Ntoui-E27-kai-Schima-G120-PSychro-Leyko-2400lm-147-77412.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/027391/27391225/xlarge_20211221100443_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_g120_psychro_leyko_1500lm_147_77406.jpeg</Image>
+		<Price>7.59</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77412</MPN>
+		<Description>Το ψυχρό λευκό χρώμα που διαθέτει η λάμπα θα προσδώσει μια "καθαρή" αίσθηση στο χώρο σας κάνοντας την ιδανική επιλογή για κουζίνες, μπάνια και εξωτερικούς χώρους. Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μεγάλο χώρο από 20 τ.μ. και πάνω. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 166 watt και πάνω ή μια αλογόνου από 100 watt και πάνω, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.
+
+    Ισχύς: 25W
+    Τάση: 220V
+    Lumen: 2400lm
+    Χρώμα: Ψυχρό Λευκό
+    Εφαρμογή: E27
+    Σχήμα: G120</Description>
+		<EAN>5207227115752</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971511</SKU>
+		<Name>Eurolamp Γλόμπος Φ120 Λάμπα LED 13,8W για Ντουί Ε27 4000K 175-250V Ψυχρό Λευκό 1500lm (147-77407)</Name>
+		<URL>https://www.skroutz.gr/s/23582061/Eurolamp-Lampa-LED-13-8W-gia-Ntoui-E27-kai-Schima-G120-Fysiko-Leyko-1521lm-147-77407.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/027391/27391225/xlarge_20211221100443_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_g120_psychro_leyko_1500lm_147_77406.jpeg</Image>
+		<Price>5.07</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77407</MPN>
+		<Description>    Σειρά Προϊόντων:PLUS
+    Τάση Τροφοδοσίας (V):175-250V
+    Ονομαστική Ισχύς (W):13,8W
+    Θερμοκρασία Χρώματος (K):4000K
+    Συχνότητα Λειτουργίας (Hz):50/60Hz
+    Ένταση Ρεύματος (Α):118mA
+    Απόδοση σε Lumen (lm):1521lm
+    Ισοδυναμία Ισχύος (W):100W
+    Βαθμός Στεγανότητας (IP):IP20
+    Συντελεστής Άεργου Ισχύος (PF):&gt;0,65
+    Χρωματική Απόδοση CRI (Ra):&gt;80
+    Διάρκεια Ζωής (h):25000h
+    Θερμοκρασία Λειτουργίας °C:-30°C - +45°C
+    Ενεργειακή κλάση (από Σεπτ. 2021):E
+    Ντουί Λαμπτήρα:E27
+    Τύπος Led:SMD2835
+    Σχήμα Λαμπτήρα:G120
+    Κύκλοι Μεταγωγής (ON/ OFF):25000
+    Ρύθμιση Έντασης:Όχι/ No
+    Χρόνος Έναυσης (sec):0,5 sec
+    Υδράργυρος (Hg):0,00%
+    Γωνία Δέσμης:270°
+    Διάμετρος (mm):120mm
+    Ύψος (mm):165mm
+    Υλικό Προϊόντος:Πλαστικό με Ψύκτρα Αλουμινίου/ Plastic with Aluminium Heatsink
+    Χρώμα Καλύμματος:Frost</Description>
+		<EAN>5207227064357</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7971512</SKU>
+		<Name>Eurolamp Γλόμπος Φ120 Λάμπα LED 248W για Ντουί Ε27 4000K 175-250V Ψυχρό Λευκό 2400lm (147-77413)</Name>
+		<URL>https://www.skroutz.gr/s/23502450/Eurolamp-Lampa-LED-25W-gia-Ntoui-E27-kai-Schima-G120-Fysiko-Leyko-2400lm-147-77413.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/027391/27391225/xlarge_20211221100443_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_g120_psychro_leyko_1500lm_147_77406.jpeg</Image>
+		<Price>7.59</Price>
+		<Category>Λάμπες LED</Category>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>147-77413</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Lumen: 2400
+    Γωνία Δέσμης: 270°
+    Διάρκεια Ζωής: 25000h
+    Σχήμα: G120</Description>
+		<EAN>5207227064388</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16122,6 +16534,49 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Αλκαλικές μπαταρίες ΑΑ της Maxell κατάλληλες για φακούς, παιχνίδια, τηλεχειριστήρια, αριθμομηχανές κι άλλες μικροσυσκευές.</Description>
 		<EAN>4902580163761</EAN>
 		<Quantity>1189</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>797510201</SKU>
+		<Name>Entac Επαναφορτιζόμενος Φακός LED Αδιάβροχος IP44 Διπλής Λειτουργίας με Φωτεινότητα 400lm Flashlight 5W 15.007.0057</Name>
+		<URL>https://www.skroutz.gr/s/28679075/Entac-Epanafortizomenos-Fakos-LED-Adiavrochos-IP44-Diplis-Leitourgias-me-Megisti-Foteinotita-400lm-Flashlight-5W-EFL-CAMP.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/028679/28679075/xlarge_20210505131402_entac_fakos_epanafortizomenos_400lm_flashlight_5w_15_007_0057.jpeg</Image>
+		<Price>11.27</Price>
+		<Category>Φακοί Φωτισμού</Category>
+		<Manufacturer>Entac</Manufacturer>
+		<MPN>15.007.0057</MPN>
+		<Description>Μάρκα: Entac
+
+Χρώμα: Πράσινο
+
+Υλικό: ABS
+
+Πηγή τροφοδοσίας: Beepitett 18650, 2000mAh
+
+Ικανότητα φωτισμού:
+
+    Εξόδος Lumen: 400 lm
+
+Λειτουργικότητα:
+
+    Μέγιστος χρόνος λειτουργίας: 10 ώρες
+    Ενσωματωμένη μπαταρία: Ναι
+
+Λογιστικά στοιχεία:
+
+    Διαστάσεις συσκευασίας: 190mm x 105mm x 145mm
+    Βάρος: 358 γραμμάρια
+    Ακαθάριστος όγκος: 2 358.14 cm³
+    Τεμάχια ανά κουτί: 24
+
+Τεχνικά στοιχεία:
+
+    Ικανότητα: 5 W
+    Τάξη IP: IP44
+
+Μέγεθος: 138x96x178</Description>
+		<EAN>5999097983646</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16553,6 +17008,24 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799500203</SKU>
+		<Name>XO Φορτιστής GaN 75W με 3 Θύρες USB-A και 3 Θύρες USB-C σε Λευκό χρώμα (L133) 16.006.0259</Name>
+		<URL>https://www.skroutz.gr/s/51283607/XO-Vasi-Fortisis-GaN-me-3-THyres-USB-A-kai-3-THyres-USB-C-75W-se-Leyko-chroma-L133.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/051283/51283607/xlarge_20240902164021_xo_vasi_fortisis_gan_me_3_thyres_usb_a_kai_3_thyres_usb_c_75w_se_leyko_chroma_l133.jpeg</Image>
+		<Price>16.71</Price>
+		<Category>Φορτιστές Κινητών</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.006.0259</MPN>
+		<Description>Η βάση φόρτισης της εταιρείας XO επιτρέπει την ταυτόχρονη φόρτιση συσκευών χάρη στις θύρες που διαθέτει. Αφού η βάση συνδεθεί στο ρεύμα, μπορούμε να συνδέσουμε το καλώδιο φόρτισης του κινητού μας στη βάση για να φορτίσουμε το κινητό. Υποστηρίζει γρήγορη φόρτιση, η οποία θα πρέπει να είναι συμβατή με το κινητό σας. Σε αντίθετη περίπτωση, το κινητό σας θα φορτίσει αργά, όπως με ένα συμβατικό φορτιστή.
+Υποστήριξη πρωτοκόλλου
+
+    Πρωτόκολλα υποστήριξης USB-1/2/3: QC3.0/QC2.0/AFC/FCP/SCP/BC1.2/Apple2.4A/PD/PPS
+    Πρωτόκολλο υποστήριξης USB-A1: QC3.0/QC2.0/AFC/FCP/SCP/BC1.2 /Apple2.4A</Description>
+		<EAN>6920680856152</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7995101</SKU>
 		<Name>Lime Φορτιστής Χωρίς Καλώδιο με Θύρα USB-A 21W Quick Charge 3.0 Λευκός (LTU25)</Name>
 		<URL>https://www.skroutz.gr/s/55394452/Lime-Fortistis-CHoris-Kalodio-me-THyra-USB-A-21W-Quick-Charge-3-0-Leykos-LTU25.html</URL>
@@ -16627,128 +17100,107 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799510401</SKU>
-		<Name>WK Φορτιστής Χωρίς Καλώδιο GaN με Θύρες USB-A και USB-C 35W PD+QC3.0 Λευκός (WP-U25) 250793</Name>
-		<URL>https://www.skroutz.gr/s/50920670/WK-Fortistis-CHoris-Kalodio-GaN-me-THyra-USB-A-kai-THyra-USB-C-35W-Power-Delivery-Leykos-WP-U25.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/050920/50920670/xlarge_20250207170006_wk_fortistis_choris_kalodio_gan_me_thyra_usb_a_kai_thyra_usb_c_35w_power_delivery_leykos_wp_u25.jpeg</Image>
-		<Price>13.29</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250793</MPN>
-		<Description>Ο αντάπτορας φόρτισης της εταιρείας WK μπορεί να αντικαταστήσει τον παλιό σας ή να βελτιώσει τη φόρτιση του κινητού σας. Η συσκευασία δεν περιέχει καλώδιο, οπότε θα πρέπει να χρησιμοποιήσετε αυτό του κινητού. Υποστηρίζει γρήγορη φόρτιση Power Delivery, η οποία θα πρέπει να είναι συμβατή με το κινητό σας.
-
-    Θύρες Εξόδου USB-A: 1
-    Θύρες Εξόδου USB-C: 1
-    Ισχύς Φόρτισης: 35W
-</Description>
-		<EAN>6941027647622</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799510501</SKU>
-		<Name>WK Φορτιστής με Καλώδιο i6 και Θύρα USB-A 10W Λευκός (WP-U118) 250663</Name>
-		<URL>https://www.skroutz.gr/s/40635750/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-Lightning-10W-Leykos-WP-U118-Combo.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/040635/40635750/xlarge_20230210140111_wk_fortistis_choris_kalodio_me_thyra_usb_a_kai_kalodio_lightning_10w_leykos_wp_u118_combo.jpeg</Image>
-		<Price>3.45</Price>
+		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο USB-C Λευκός (L65EU) 16.006.0012</Name>
+		<URL>https://www.skroutz.gr/s/40965262/XO-Fortistis-me-2-THyres-USB-A-kai-Kalodio-USB-C-Leykos-L65EU.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/040965/40965262/xlarge_20230324131212_xo_fortistis_me_ensomatomeno_kalodio_me_2_thyres_usb_a_leykos_l65eu.jpeg</Image>
+		<Price>2.14</Price>
 		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250663</MPN>
-		<Description>Φορτιστής WK 10W USB-A White WP-U118
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.006.0012</MPN>
+		<Description>Βασικά χαρακτηριστικά:
 
-Συμπεριλαμβάνει καλώδιο Lightning για απρόσκοπτη φόρτιση του iPhone και του iPad.</Description>
-		<EAN>6941027619582</EAN>
+    Έξοδος 2.4A
+
+Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε USB-C με μήκος 1 μέτρο.</Description>
+		<EAN>6920680871322</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>799510502</SKU>
-		<Name>WK Φορτιστής με Καλώδιο USB-C και Θύρα USB-A 10W Λευκός (WP-U118) 250664</Name>
-		<URL>https://www.skroutz.gr/s/40472970/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-USB-C-10W-Leykos-WP-U118.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/040472/40472970/xlarge_20230317145227_wk_fortistis_me_thyra_usb_a_kai_kalodio_usb_c_10w_leykos_wp_u118.jpeg</Image>
-		<Price>3.45</Price>
+		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο Lightning  Λευκός (L65EU) 16.006.0011</Name>
+		<URL>https://www.skroutz.gr/s/27390515/XO-Fortistis-me-2-THyres-USB-A-kai-Kalodio-Lightning-Leykos-L65.html</URL>
+		<Image>https://c.scdn.gr/images/sku_images/043796/43796330/xlarge_20210413230925_9086c54e.jpeg</Image>
+		<Price>2.28</Price>
 		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250664</MPN>
-		<Description>Φορτιστής WK 10W USB-A White WP-U118
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.006.0011</MPN>
+		<Description>Βασικά χαρακτηριστικά:
 
-Συνοδευόμενο από Καλώδιο Type-C, μπορεί να αντικαταστήσει τον παλιό σας φορτιστή ή να βελτιώσει τη φόρτιση του κινητού σας αν ο παλιός δεν είναι τόσο γρήγορος.</Description>
-		<EAN>6941027619599</EAN>
+    Έξοδος 2.4A
+
+Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε Lightning με μήκος 1 μέτρο.</Description>
+		<EAN>6920680871346</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>799510511</SKU>
-		<Name>WK Φορτιστής με Καλώδιο Ι6 με 2 Θύρες USB-A 2A Fast Charge Λευκός (WP-U56) 250559</Name>
-		<URL>https://www.skroutz.gr/s/26389872/WK-Fortistis-me-2-THyres-USB-A-kai-Kalodio-Lightning-Leykos-WP-U56.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/026389/26389872/xlarge_20211104143801_wk_lightning_cable_2x_usb_a_wall_adapter_leyko_wp_u56.jpeg</Image>
-		<Price>4.25</Price>
+		<Name>XO Φορτιστής 18W με Θύρα USB-A και Καλώδιο USB-C Λευκός (L127) 16.006.0290</Name>
+		<URL>https://www.skroutz.gr/s/56686306/XO-Fortistis-GaN-me-THyra-USB-A-kai-Kalodio-USB-C-18W-Leykos-L127.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/056686/56686306/xlarge_20241007134654_xo_fortistis_gan_me_thyra_usb_a_kai_kalodio_usb_c_18w_leykos_l127.jpeg</Image>
+		<Price>3.23</Price>
 		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250559</MPN>
-		<Description>Βασικά χαρακτηριστικά:
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.006.0290</MPN>
+		<Description>Ο XO φορτιστής L127 είναι ιδανικός για τη βελτίωση της φόρτισης του τηλεφώνου σας. Υποστηρίζει γρήγορη φόρτιση, συμβατή με το τηλέφωνό σας.
 
-    Με 2 θύρες USB-A
-    Περιλαμβάνει καλώδιο lightning
-
-Έξοδος: 5V/2A.</Description>
-		<EAN>6941027611890</EAN>
+    Τύπος: Προσαρμογέας τοίχου
+    Σύνδεση: USB-A
+    Ισχύς φόρτισης: 18 W
+    GaN: Όχι
+    Χρώμα: Λευκό
+    Θύρες εξόδου USB-A: 1
+    Καλώδιο: Type-C
+</Description>
+		<EAN>6920680846931</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>799510512</SKU>
-		<Name>WK Φορτιστής με Καλώδιο USB-C με 2 Θύρες USB-A 2A Fast Charge Λευκός (WP-U56) 250560</Name>
-		<URL>https://www.skroutz.gr/s/26390057/WK-Fortistis-me-2-THyres-USB-A-kai-Kalodio-USB-C-Leykos-WP-U56.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/026390/26390057/xlarge_20201224164019_wk_usb_c_cable_2x_usb_a_wall_adapter_leyko_design.jpeg</Image>
-		<Price>4.25</Price>
+		<Name>XO Φορτιστής 18W με Θύρα USB-A και Καλώδιο Lightning Λευκός (L127) 16.006.0288</Name>
+		<URL>https://www.skroutz.gr/s/56686303/XO-Fortistis-GaN-me-THyra-USB-A-kai-Kalodio-Lightning-18W-Leykos-L127.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/056686/56686303/xlarge_20241007134636_xo_fortistis_gan_me_thyra_usb_a_kai_kalodio_lightning_18w_leykos_l127.jpeg</Image>
+		<Price>3.23</Price>
 		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250560</MPN>
-		<Description>Βασικά χαρακτηριστικά:
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.006.0288</MPN>
+		<Description>Τύπος: Προσαρμογέας τοίχου
 
-    Με 2 θύρες USB-A
-    Περιλαμβάνει καλώδιο lightning
+Σύνδεση: USB-A
 
-Έξοδος: 5V/2A.</Description>
-		<EAN>6941027611906</EAN>
+Ισχύς φόρτισης: 18 W
+
+Χρώμα: Λευκό
+
+    Θύρες εξόδου USB-A: 1
+    Καλώδιο: Lightning
+    Υποστηρίζει γρήγορη φόρτιση, συμβατή με το τηλέφωνό σας.
+</Description>
+		<EAN>6920680846955</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799510521</SKU>
-		<Name>WK Φορτιστής με Καλώδιο i6 και Θύρα USB-A 18W QC3.0 Λευκός (WP-U57) 250556</Name>
-		<URL>https://www.skroutz.gr/s/26520187/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-Lightning-18W-Quick-Charge-3-0-Leykos-WP-U57.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/026520/26520187/xlarge_20210210170101_wk_lightning_cable_usb_wall_adapter_leyko_wp_u57.jpeg</Image>
-		<Price>5.84</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250556</MPN>
-		<Description>Φορτιστής με τεχνολογία γρήγορης φόρτισης QC3.0 ισχύος 18W
-Έξοδος: DC 5V-2.4A / 9V-2A / 12V-1.5A
-Είσοδος: AC 110-240V 50hz-60hz
-Περιλαμβάνει καλώδιο Light</Description>
-		<EAN>6941027613641</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799510522</SKU>
-		<Name>WK Φορτιστής με Καλώδιο USB-C και Θύρα USB-A 18W Λευκός (WP-U57) 250557</Name>
-		<URL>https://www.skroutz.gr/s/26592473/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-USB-C-18W-Quick-Charge-3-0-Leykos-WP-U57.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/026592/26592473/xlarge_20210114125244_wk_usb_c_cable_usb_a_wall_adapter_leyko_wp_u57.jpeg</Image>
-		<Price>5.84</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250557</MPN>
-		<Description>Βασικά χαρακτηριστικά:
+		<SKU>799510901</SKU>
+		<Name>XO WL09 Πολύπριζο EU Smart Τοίχου με Βάση Κινητού και Νυχτερινό Φώς (2AC+2USB 2.4A) Άσπρο 16.006.0159</Name>
+		<URL>https://www.skroutz.gr/s/36336918/XO-WL09-EU-Taf-2-THeseon-me-2-USB-A-16-006-0159.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/060690/60690438/xlarge_20220601101422_b3fb867f.jpeg</Image>
+		<Price>12.7</Price>
+		<Category>Πολύπριζα &amp; Ταφ</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.006.0159</MPN>
+		<Description>Χαρακτηριστικά:
 
-    Με θύρα USB-A
-    Περιλαμβάνει καλώδιο USB-C
-    Υποστηρίζει QC3.0
-
-Έξοδος: 5V/2.4A, 9V/2A, 12V/1.5A. Ισχύς φόρτισης: 18W.</Description>
-		<EAN>6941027613665</EAN>
+    Ευρωπαϊκό πολύμπριζο 2AC+2USB
+    Με φως
+    Με ράφι στήριξης κινητού
+    Βάρος: 265g
+    Μέγεθος ραφιού: 179,9 x 90,8mm
+    Διαστάσεις: 91x77.5x97.6mm</Description>
+		<EAN>6920680826049</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -16875,7 +17327,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Ο φορτιστής αυτός με το διαφανές περίβλημα διαθέτει θύρες USB Type C PD και USB (QC 3.0) για γρήγορη ανανέωση της ενέργειας των κινητών συσκευών σας. Η έξυπνη διαχείριση προσαρμόζει την κατάλληλη τάση ανάλογα με το επίπεδο φόρτισης της συσκευής, προστατεύοντας την από υπερφόρτιση. Με βελτιωμένα αντιολισθητικά κλιπ, ακριβή και ασφαλή, σταθερό ακόμα και σε ανώμαλους δρόμους.</Description>
 		<EAN>6941027651551</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17014,7 +17465,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Black 1.2m (WDC-50) 250847</Name>
 		<URL>https://www.skroutz.gr/s/58249391/WK-Braided-USB-A-to-Lightning-Cable-240W-Mayro-1-2m.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/058249/58249391/20250113123843_wk_braided_usb_a_to_lightning_cable_240w_mayro_1_2m.jpeg</Image>
-		<Price>6.96</Price>
+		<Price>7.2</Price>
 		<Category>Καλώδια Lightning</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1710</MPN>
@@ -17037,7 +17488,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Grey 1m Μαγνητικής τύλιξης (WDC-48) 250846</Name>
 		<URL>https://www.skroutz.gr/s/58281901/WK-Braided-USB-C-to-Lightning-Cable-240W-Gri-1m.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/058281/58281901/20250115114716_wk_braided_usb_c_to_lightning_cable_240w_gri_1m.jpeg</Image>
-		<Price>8.35</Price>
+		<Price>8.64</Price>
 		<Category>Καλώδια Lightning</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1711</MPN>
@@ -17066,7 +17517,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Name>WK Braided Charging/Data Cable 65W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Black/Yellow 1.2m (WDC-25) 250821</Name>
 		<URL>https://www.skroutz.gr/s/56677258/WK-Wdc-25-Braided-USB-A-to-Lightning-Cable-65W-Kitrino-1-2m.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/103018/103018775/xlarge_20241007122314_fc6833e4.jpeg</Image>
-		<Price>4.18</Price>
+		<Price>4.32</Price>
 		<Category>Καλώδια Lightning</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>250821</MPN>
@@ -17102,7 +17553,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Name>WK Charging-Data Cable USB to Lightning 2.4A Μαύρο 1m (WDC-092) 250607</Name>
 		<URL>https://www.skroutz.gr/s/33360035/WK-WDC-092-USB-to-Lightning-Cable-Mayro-1m.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/033360/33360035/20220221154535_wk_wdc_092_usb_to_lightning_cable_mayro_1m.jpeg</Image>
-		<Price>1.67</Price>
+		<Price>1.73</Price>
 		<Category>Καλώδια Lightning</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1712</MPN>
@@ -17122,7 +17573,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Name>WK Charging-Data Cable USB to Lightning 2.4A Λευκό 1m (WDC-092) 250608</Name>
 		<URL>https://www.skroutz.gr/s/33360048/WK-WDC-092-USB-to-Lightning-Cable-Leyko-1m.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/033360/33360048/20220510163943_wk_wdc_092_usb_to_lightning_cable_leyko_1m.jpeg</Image>
-		<Price>1.67</Price>
+		<Price>1.73</Price>
 		<Category>Καλώδια Lightning</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1713</MPN>
@@ -17145,7 +17596,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Name>WK Charging-Data Cable USB to USB-C 2.4A Μαύρο 1m (WDC-092) 250613</Name>
 		<URL>https://www.skroutz.gr/s/33358405/WK-WDC-092-USB-2-0-Cable-USB-C-male-USB-A-male-Mayro-1m.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/033358/33358405/20230530093253_wk_wdc_092_usb_2_0_cable_usb_c_male_usb_a_male_mayro_1m.jpeg</Image>
-		<Price>1.67</Price>
+		<Price>1.73</Price>
 		<Category>Καλώδια USB Type-C</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1714</MPN>
@@ -17167,7 +17618,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Name>WK Charging-Data Cable USB to USB-C 2.4A Λευκό 1m (WDC-092) 250614</Name>
 		<URL>https://www.skroutz.gr/s/33358430/WK-WDC-092-USB-2-0-Cable-USB-C-male-USB-A-male-Leyko-1m.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/033358/33358430/20220817152229_wk_wdc_092_usb_2_0_cable_usb_c_male_usb_a_male_leyko_1m.jpeg</Image>
-		<Price>1.67</Price>
+		<Price>1.73</Price>
 		<Category>Καλώδια USB Type-C</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1715</MPN>
@@ -17187,7 +17638,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Μαύρο 1m (WDC-092) 250601</Name>
 		<URL>https://www.skroutz.gr/s/33363434/WK-WDC-092-Regular-USB-2-0-to-micro-USB-Cable-Mayro-1m.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/033363/33363434/20220110155938_wk_wdc_092_regular_usb_2_0_to_micro_usb_cable_mayro_1m.jpeg</Image>
-		<Price>1.26</Price>
+		<Price>1.3</Price>
 		<Category>Καλώδια micro USB</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1716</MPN>
@@ -17210,7 +17661,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Λευκό 1m (WDC-092) 250602</Name>
 		<URL>https://www.skroutz.gr/s/33363479/WK-WDC-092-Regular-USB-2-0-to-micro-USB-Cable-Leyko-1m.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/033363/33363479/20240710154148_wk_wdc_092_regular_usb_2_0_to_micro_usb_cable_leyko_1m.jpeg</Image>
-		<Price>1.26</Price>
+		<Price>1.3</Price>
 		<Category>Καλώδια micro USB</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>1717</MPN>
@@ -17219,6 +17670,244 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικό και είναι αποτελεσματικό για τη χρήση που του κάνεις.</Description>
 		<EAN>6941027606773</EAN>
 		<Quantity>5</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115201</SKU>
+		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Μαύρο 16.005.0347</Name>
+		<URL>https://www.skroutz.gr/s/57567264/XO-Nb280-USB-2-0-Cable-USB-C-male-USB-A-Mayro-1m-16-005-0347.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/057567/57567264/xlarge_20241120122339_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_mayro_1m_16_005_0347.jpeg</Image>
+		<Price>0.62</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0347</MPN>
+		<Description>Μοντέλο: XO NB280
+
+Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C
+
+Μήκος: 1M
+
+Ρεύμα: 3A
+
+Χρώμα: Μαύρο</Description>
+		<EAN>6920680858736</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115202</SKU>
+		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Λευκό 16.005.0348</Name>
+		<URL>https://www.skroutz.gr/s/57567267/XO-Nb280-USB-2-0-Cable-USB-C-male-USB-A-Leyko-1m-16-005-0348.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/057567/57567267/xlarge_20241120122340_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_leyko_1m_16_005_0348.jpeg</Image>
+		<Price>0.62</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0348</MPN>
+		<Description>Μοντέλο: XO NB280
+
+Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C
+
+Μήκος: 1M
+
+Ρεύμα: 3A
+
+Χρώμα: Λευκό</Description>
+		<EAN>6920680858729</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115211</SKU>
+		<Name>XO NB-Q265B PD 60W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων (Μαύρο) 16.005.0307</Name>
+		<URL>https://www.skroutz.gr/s/54329175/XO-Nb-q265b-USB-2-0-Cable-USB-C-male-USB-C-60W-Mayro-1m.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/054329/54329175/xlarge_20240612124927_xo_nb_q265b_usb_2_0_cable_usb_c_male_usb_c_60w_mayro_1m.jpeg</Image>
+		<Price>1.18</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0307</MPN>
+		<Description>Καλώδιο XO NB-Q265B PD με συνδέσεις USB-C και USB-C. Το καλώδιο έχει σχεδιαστεί για μέγιστη άνεση κατά τη διάρκεια της καθημερινής χρήσης. Επιτρέπει την πλήρη εκμετάλλευση της μέγιστης ισχύος φόρτισης των συμβατών συσκευών. Είναι κατασκευασμένο από ελαστικό σιλικόν, εξασφαλίζοντας μακρύτερη διάρκεια χρήσης.</Description>
+		<EAN>6920680855049</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115212</SKU>
+		<Name>XO NB-Q265B PD 60W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων (Λευκό) 16.005.0308</Name>
+		<URL>https://www.skroutz.gr/s/54329176/XO-Nb-q265b-USB-2-0-Cable-USB-C-male-USB-C-60W-Leyko-1m.html#reviews</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/054329/54329176/xlarge_20240612124930_xo_nb_q265b_usb_2_0_cable_usb_c_male_usb_c_60w_leyko_1m.jpeg</Image>
+		<Price>1.18</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0308</MPN>
+		<Description>Καλώδιο XO NB-Q265B PD με συνδέσεις USB-C και USB-C. Το καλώδιο έχει σχεδιαστεί για μέγιστη άνεση κατά τη διάρκεια της καθημερινής χρήσης. Επιτρέπει την πλήρη εκμετάλλευση της μέγιστης ισχύος φόρτισης των συμβατών συσκευών. Είναι κατασκευασμένο από ελαστικό σιλικόν, εξασφαλίζοντας μακρύτερη διάρκεια χρήσης.</Description>
+		<EAN>6920680855056</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115251</SKU>
+		<Name>XO NB-Q264A PD 240W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων (Μαύρο) 16.005.0314</Name>
+		<URL>https://www.skroutz.gr/s/55165190/XO-USB-2-0-Cable-USB-C-male-USB-C-240W-Leyko-1m-XO-NBQ264ATT.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/055165/55165190/xlarge_20240729114706_xo_usb_2_0_cable_usb_c_male_usb_c_240w_1m_xo_nbq264att.jpeg</Image>
+		<Price>3.89</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0314</MPN>
+		<Description>Μοντέλο: XO-NB-Q264B
+
+Μήκος: 1M
+
+Διεπαφή: TYPE-C-TYPE-C
+
+Εξωτερικό υλικό: Κέλυφος αλουμινίου + TPE80A
+
+Υλικό αρμού: Εσωτερικό καλούπι PP
+
+Λειτουργία: Υποστηρίζει φόρτιση και μετάδοση δεδομένων
+
+Χρώμα: Μαύρο
+
+Ισχύς: 48V5A, PD (240W)
+
+    Καλώδιο δεδομένων υψηλής ισχύος TypeC σε TypeC 240W
+</Description>
+		<EAN>6920680855995</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115301</SKU>
+		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Μαύρο 16.005.0341</Name>
+		<URL>https://www.skroutz.gr/s/57566704/XO-USB-A-to-Lightning-Cable-Mayro-1m-16-005-0341.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/057566/57566704/xlarge_20241120121547_xo_usb_a_to_lightning_cable_mayro_1m_16_005_0341.jpeg</Image>
+		<Price>0.69</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0341</MPN>
+		<Description>Μοντέλο: XO NB280
+
+Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Lightning
+
+Μήκος: 1M
+
+Ρεύμα: 3A
+
+Χρώμα: Μαύρο</Description>
+		<EAN>6920680858675</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115302</SKU>
+		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Λευκό 16.005.0342</Name>
+		<URL>https://www.skroutz.gr/s/57566706/XO-USB-A-to-Lightning-Cable-Leyko-1m-16-005-0342.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/057566/57566706/xlarge_20241120121547_xo_usb_a_to_lightning_cable_leyko_1m_16_005_0342.jpeg</Image>
+		<Price>0.69</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0342</MPN>
+		<Description>Μοντέλο: XO NB280
+
+Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Lightning
+
+Μήκος: 1M
+
+Ρεύμα: 3A
+
+Χρώμα: Λευκό</Description>
+		<EAN>6920680858668</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115321</SKU>
+		<Name>XO NB-Q265A PD 27W Type-C σε Lightning Καλώδιο Φόρτισης/Δεδομένων (Μαύρο) 16.005.0304</Name>
+		<URL>https://www.skroutz.gr/s/54328062/XO-Nb-q265a-USB-C-to-Lightning-Cable-27W-Mayro-1m.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/054328/54328062/xlarge_20240612122648_xo_nb_q265a_usb_c_to_lightning_cable_27w_mayro_1m.jpeg</Image>
+		<Price>1.78</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0304</MPN>
+		<Description>Όνομα προϊόντος: JANUS SERIES DATA CABLES
+
+Μοντέλο: XO-NB-Q265A
+
+Υλικό: PVC
+
+Λειτουργία: Φόρτιση + μετάδοση δεδομένων
+
+Μήκος γραμμής: 1000mm
+
+Χρώμα: Μαύρο
+
+    Διεπαφή καλωδίου δεδομένων: Type-C σε iP (Q265A)
+    Ισχύς: 27W (Q265A) / 60W (Q265B)
+
+Μέγεθος συσκευασίας: 80*160*25mm
+
+Πυρήνας σύρματος: (55/0,08BS+250D)*2C+, (16/0,08BS+250D)*3C
+
+</Description>
+		<EAN>6920680855001</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115322</SKU>
+		<Name>XO NB-Q265A PD 27W Type-C σε Lightning Καλώδιο Φόρτισης/Δεδομένων (Λευκό) 16.005.0305</Name>
+		<URL>https://www.skroutz.gr/s/54328060/XO-Nb-q265a-USB-C-to-Lightning-Cable-27W-Leyko-1m.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/054328/54328060/xlarge_20240612122648_xo_nb_q265a_usb_c_to_lightning_cable_27w_leyko_1m.jpeg</Image>
+		<Price>1.78</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0305</MPN>
+		<Description>Καλώδιο XO NB-Q265A PD με υποδοχές USB-C και Lightning. Το καλώδιο έχει σχεδιαστεί για να εξασφαλίσει μέγιστη άνεση κατά τη διάρκεια της καθημερινής χρήσης. Επιτρέπει τη μέγιστη δυνατή φόρτιση για συμβατές συσκευές. Κατασκευασμένο από ελαστική σιλικόνη για μεγαλύτερη αντοχή στην καθημερινή χρήση.</Description>
+		<EAN>6920680855018</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115401</SKU>
+		<Name>XO Nb280 Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Μαύρο 1m 16.005.0344</Name>
+		<URL>https://www.skroutz.gr/s/57567270/XO-Nb280-Regular-USB-2-0-to-micro-USB-Cable-Mayro-1m-16-005-0344-1tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/057567/57567270/xlarge_20241120122340_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_mayro_1m_16_005_0344.jpeg</Image>
+		<Price>0.49</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0344</MPN>
+		<Description>Μοντέλο: XO NB280
+
+Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C
+
+Μήκος: 1M
+
+Ρεύμα: 3A
+
+Χρώμα: Μαύρο</Description>
+		<EAN>6920680858705</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995115402</SKU>
+		<Name>XO Nb280 Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Λευκό 1m 16.005.0345</Name>
+		<URL>https://www.skroutz.gr/s/57567263/XO-Nb280-Regular-USB-2-0-to-micro-USB-Cable-Leyko-1m-16-005-0345-1tmch.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/057567/57567263/xlarge_20241120122339_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_leyko_1m_16_005_0345.jpeg</Image>
+		<Price>0.49</Price>
+		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.005.0345</MPN>
+		<Description>Μοντέλο: XO NB280
+
+Τύπος Καλωδίου: Καλώδιο Δεδομένων Type-C
+
+Μήκος: 1M
+
+Ρεύμα: 3A
+
+Χρώμα: Λευκό</Description>
+		<EAN>6920680858699</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17434,7 +18123,6 @@ XO-EP57
 Τα ακουστικά Bluetooth XO Q4 έχουν μεγάλο χρόνο εργασίας - έως και 4,5 ώρες συνεχούς αναπαραγωγής μουσικής ή κλήσεων. Αυτό τα καθιστά εξαιρετική επιλογή για όσους τους αρέσει να ακούν μουσική εν κινήσει ή έξω και τριγύρω. Η υψηλή ποιότητα ήχου και η άνετη χρήση καθιστούν τα ακουστικά Bluetooth ιδανική επιλογή για όσους θέλουν να απολαύσουν τον ποιοτικό ήχο και την άνεση των ασύρματων ακουστικών.</Description>
 		<EAN>6920680842995</EAN>
 		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>7995141</SKU>
@@ -17452,7 +18140,7 @@ XO-EP57
 	</product>
 	<product>
 		<SKU>799514101</SKU>
-		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Μαύρο (Ua26)</Name>
+		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Μαύρο (Ua26) 310044</Name>
 		<URL>https://www.skroutz.gr/s/45362710/iXchange-Ua26-In-ear-Bluetooth-Handsfree-Akoustiko-Petou-Mayro.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/045362/45362710/20230901111224_ixchange_ua26_in_ear_bluetooth_handsfree_akoustiko_petou_mayro.jpeg</Image>
 		<Price>15.7760168204</Price>
@@ -17471,7 +18159,7 @@ XO-EP57
 	</product>
 	<product>
 		<SKU>799514102</SKU>
-		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Χρυσό (Ua26)</Name>
+		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Χρυσό (Ua26) 310045</Name>
 		<URL>https://www.skroutz.gr/s/45362709/iXchange-Ua26-In-ear-Bluetooth-Handsfree-Akoustiko-Petou-CHryso.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/045362/45362709/20230901111223_ixchange_ua26_in_ear_bluetooth_handsfree_akoustiko_petou_chryso.jpeg</Image>
 		<Price>15.7760168204</Price>
@@ -17490,7 +18178,7 @@ XO-EP57
 	</product>
 	<product>
 		<SKU>799514111</SKU>
-		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Μαύρο (Ua27)</Name>
+		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Μαύρο (Ua27) 310050</Name>
 		<URL>https://www.skroutz.gr/s/49106748/iXchange-UA27-In-ear-Bluetooth-Handsfree-Akoustiko-Petou-Mayro.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/049106/49106748/20240704133325_ixchange_ua27_in_ear_bluetooth_handsfree_akoustiko_petou_mayro.jpeg</Image>
 		<Price>21.5157238604</Price>
@@ -17511,7 +18199,7 @@ XO-EP57
 	</product>
 	<product>
 		<SKU>799514121</SKU>
-		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Μαύρο (Ua31)</Name>
+		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth Μαύρο (Ua31) 310052</Name>
 		<URL>https://www.skroutz.gr/s/49106671/iXchange-UA-31-In-ear-Bluetooth-Handsfree-Akoustiko-Petou-Mayro.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/049106/49106671/20240704133325_ixchange_ua_31_in_ear_bluetooth_handsfree_akoustiko_petou_mayro.jpeg</Image>
 		<Price>27.2554309004</Price>
@@ -17530,7 +18218,7 @@ XO-EP57
 	</product>
 	<product>
 		<SKU>799514131</SKU>
-		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth LCD display Μαύρο (Ua51)</Name>
+		<Name>iXchange Ακουστικό Πέτου In-ear Handsfree Bluetooth LCD display Μαύρο (Ua51) 310037</Name>
 		<URL>https://www.skroutz.gr/s/29262416/iXchange-UA51-Pro-In-ear-Bluetooth-Handsfree-Akoustiko-Petou-Mayro.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/029262/29262416/20211126163804_ixchange_ua51_pro_in_ear_bluetooth_handsfree_mayro.jpeg</Image>
 		<Price>38.7348449804</Price>
@@ -17642,6 +18330,30 @@ XO-EP57
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799515111</SKU>
+		<Name>XO FM Transmitter Φορτιστής Αυτοκινήτου Bluetooth Led Type-A/Type-C (BCC08) 16.006.0187</Name>
+		<URL>https://www.skroutz.gr/s/40608298/XO-FM-Transmitter-Aytokinitou-BCC08-me-Bluetooth-Type-C-USB-16-006-0187.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/040608/40608298/xlarge_20230208134544_xo_fm_transmitter_aytokinitou_bcc08_me_bluetooth_16_006_0187.jpeg</Image>
+		<Price>5.99</Price>
+		<Category>FM Transmitters Αυτοκινήτου</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>20.001.0187</MPN>
+		<Description>Συσκευή FM Transmitter BCC08 της εταιρείας XO για εύκολη και γρήγορη αναπαραγωγή μουσικής σε οποιοδήποτε στερεοφωνικό αυτοκινήτου που διαθέτει ραδιόφωνο, χωρίς επιπρόσθετες ενέργειες. Επιλέξτε μια κενή συχνότητα που δεν εκπέμπει κάποιος ενεργός ραδιοφωνικός σταθμός και συγχρονίστε τη συσκευή FM Transmitter και το στερεοφωνικό σας στην ίδια συχνότητα, για να ακούτε μουσική από τα ηχεία του αυτοκινήτου. Υποστηρίζει αναπαραγωγή μουσικής κατευθείαν από το κινητό μέσω της λειτουργίας Bluetooth, ενώ παράλληλα διαθέτει θύρα USB για φόρτιση του smartphone σας. Τέλος, τροφοδοτείται με ρεύμα από τον αναπτήρα του αυτοκινήτου.
+
+Χαρακτηριστικά:
+
+    Απόσταση μετάδοσης: 5 έως 10 μέτρα
+    Συχνότητα FM: 87.5-108 MHZ
+    USB Type C: 5V/3.1A
+    USB 2: 5V/1A
+
+
+</Description>
+		<EAN>6920680835485</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>799515201</SKU>
 		<Name>Ugreen USB Bluetooth 5.0 Adapter με Εμβέλεια 20m CM390 (80889)</Name>
 		<URL>https://www.skroutz.gr/s/31198539/Ugreen-CM390-USB-Bluetooth-5-0-Adapter-me-Emveleia-20m.html</URL>
@@ -17706,29 +18418,46 @@ XO-EP57
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799515801</SKU>
-		<Name>WK Smart Bluetooth Finder Apple Find My Λευκό (WT-D02) 250864</Name>
-		<URL>https://www.dot-media.gr/aspProductDetail.aspx?ProID=250864&amp;vNet=0</URL>
-		<Image>https://www.wekome.hk/uploads/20241107/467bed06bfa4cc2e0cc6ea33c3ae02d5.jpg</Image>
-		<Additional_Image>https://www.wekome.hk/uploads/20241107/056bddd54a7c674f1df0fa07ccc51bc6.jpg, https://www.wekome.hk/uploads/20241107/1ee75f8f0c618aef3c5d714bcecd97c2.jpg, https://www.wekome.hk/uploads/20241107/d4515ea79e8360a43ec5d7ccc7af3a90.jpg</Additional_Image>
-		<Price>9.43</Price>
-		<Category>Bluetooth Trackers</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250864</MPN>
-		<Description>Το Smart Bluetooth Finder της Wekome είναι μια συσκευή εντοπισμού που λειτουργεί αποκλειστικά με την εφαρμογή "Find My" της Apple. Απλώς κρεμάστε το WK Smart Bluetooth Finder σε οποιοδήποτε αντικείμενό σας επιθυμείτε να παρακολουθείτε και εντοπίστε το παγκόσμια μέσω της εφαρμογής "Find My" στο iPhone, το iPad ή το MacBook σας.  Δεν απαιτείται λήψη εφαρμογής, έτοιμη για χρήση (ασύρματη σύνδεση της εφαρμογής μου Apple). Παραπεταμένες τσάντες, κλειδιά και άλλα πολύτιμα αντικείμενα, ανήκουν στο παρελθόν με τη συσκευή εντοπισμού Bluetooth Finder της Wekome. Στη λειτουργία "Lost Mode" της εφαρμογής "Find My" της Apple, μπορείτε να εισαγάγετε τα στοιχεία επικοινωνίας σας σε περίπτωση που το αντικείμενό σας εντοπιστεί από κάποιον άλλο στο χρήστη της εφαρμογής "Find My". Χρησιμοποιώντας το οικοσύστημα Apple Find My, μπορείτε εύκολα να εντοπίσετε την τοποθεσία του αντικειμένου σας. Εάν βρίσκεστε σε κοντινή απόσταση, επιλέξτε την «Αναπαραγωγή ήχου» στην εφαρμογή και ακολουθήστε το ηχητικό σήμα για να βρείτε το χαμένο σας αντικείμενο. Εναλλακτικά, επιλέξτε το στοιχείο που αναζητάτε στην εφαρμογή και εντοπίστε το στον χάρτη. Η όλη διαδικασία είναι ανώνυμη και κρυπτογραφημένη για την προστασία του απορρήτου σας., Η συσκευή είνα περιέχει μπαταρία λιθίου με διάρκεια ζωής δώδεκα (12) μήνες, ώστε να μην χρειάζονται συχνές αλλαγές μπαταρίας. Επίσης, το WK Smart Bluetooth Finder έχει προστασία lPX5 που το καθιστά ανθεκτικό στο νερό και τη σκόνη.</Description>
-		<EAN>6941027652756</EAN>
+		<SKU>7995191011</SKU>
+		<Name>XO PR251 Lighted Power Bank 10000mAh με 2 Θύρες USB-A Μαύρο 16.001.0178</Name>
+		<URL>https://www.skroutz.gr/s/57571244/XO-PR251-Lighted-Power-Bank-10000mAh-me-2-THyres-USB-A-Mayro.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/057571/57571244/xlarge_20241120144442_xo_pr251_lighted_power_bank_10000mah_me_2_thyres_usb_a_mayro.jpeg</Image>
+		<Price>7.42</Price>
+		<Category>Power Banks</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.001.0178</MPN>
+		<Description>Μοντέλο: XO-PR251
+
+Όνομα προϊόντος: Τράπεζα τροφοδοσίας διπλής εισόδου/εξόδου
+
+Υλικό προϊόντος: ABS+PC
+
+Οθόνη: Οθόνη φωτός LED
+
+    Είσοδος USB-C / Micro: 5V/2A
+    Έξοδος USB1/ USB2: 5V/2.1A
+    Έξοδος USB1+USB2: 5V/2.1A (MAX)
+    Χωρητικότητα: 10000 mAh
+    Ονομαστική χωρητικότητα: 5500mAh (5V-2,1A)
+    Χρώμα προϊόντος: Μαύρο, λευκό
+    Βάρος προϊόντος: 240+15g
+    Μέγεθος προϊόντος: 143,7*68,2*16,3mm
+    Μέγεθος συσκευασίας: 93*175*25mm
+    Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0
+</Description>
+		<EAN>6920680860487</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799519111</SKU>
-		<Name>WK Power Bank 10000mAh 12W 2xUSB-A Μαύρο (WP-101) 250856</Name>
-		<URL>https://www.skroutz.gr/s/58187155/WK-WP-17-MagSafe-Power-Bank-10000mAh-20W-me-2-THyres-USB-C-Power-Delivery-Mayro.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/058187/58187155/20250107111009_wk_wp_17_magsafe_power_bank_10000mah_20w_me_2_thyres_usb_c_power_delivery_mayro.jpeg</Image>
-		<Price>26.66</Price>
+		<SKU>7995191019</SKU>
+		<Name>XO PR231 MagSafe Power Bank 10000mAh 20W Quick Charge 2.0 Λευκό 16.010.0056</Name>
+		<URL>https://www.skroutz.gr/s/48544633/XO-PR231-MagSafe-Power-Bank-10000mAh-15W-Quick-Charge-2-0-Leyko.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/098512/98512875/xlarge_20240628162722_8c2f7e49.jpeg</Image>
+		<Price>22.94</Price>
 		<Category>Power Banks</Category>
 		<Manufacturer>WK</Manufacturer>
-		<MPN>1728</MPN>
+		<MPN>250809</MPN>
 		<Description>Power Bank Magnetic Wireless WK 10000mAh 20W PDx1 σε Γκρι χρώμα.
 
     Ικανότητα: 10000mAh
@@ -17737,8 +18466,17 @@ XO-EP57
     Συμβατότητα με ασύρματη φόρτιση
 </Description>
 		<EAN>6941027649466</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799519111</SKU>
+		<Name>WK MagSafe Power Bank 10000mAh 20W USB-C PDx1 Grey (WP-17) 250809</Name>
+		<URL>https://www.skroutz.gr/s/58187155/WK-WP-17-MagSafe-Power-Bank-10000mAh-20W-me-2-THyres-USB-C-Power-Delivery-Mayro.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/058187/58187155/20250107111009_wk_wp_17_magsafe_power_bank_10000mah_20w_me_2_thyres_usb_c_power_delivery_mayro.jpeg</Image>
+		<Price>26.66</Price>
+		<Category>Power Banks</Category>
+		<Quantity>4</Quantity>
 	</product>
 	<product>
 		<SKU>799519121</SKU>
@@ -17759,140 +18497,19 @@ XO-EP57
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7995191511</SKU>
-		<Name>WK Power Bank 10000mAh 12W 2xUSB-A Μαύρο (WP-101) 250856</Name>
-		<URL>https://www.skroutz.gr/s/59186302/WK-WP-101-Power-Bank-10000mAh-12W-me-2-THyres-USB-A-Mayro.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/059186/59186302/xlarge_20250313144855_wk_wp_101_power_bank_10000mah_12w_me_2_thyres_usb_a_mayro.jpeg</Image>
-		<Price>9.37</Price>
+		<SKU>7995191021</SKU>
+		<Name>XO PR252 Power Bank 20000mAh με 2 Θύρες PD2.0 και QC2.0 Μαύρο 16.001.0179</Name>
+		<URL>https://www.skroutz.gr/s/57571494/XO-PR252-Power-Bank-20000mAh-Mayro.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/057571/57571494/xlarge_20241120145647_xo_power_bank_20000mah_mayro.jpeg</Image>
+		<Price>11.45</Price>
 		<Category>Power Banks</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250856</MPN>
-		<Description>Ικανότητα: 10000mAh
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.001.0179</MPN>
+		<Description>Το XO-PR252 είναι ένα power bank υψηλής χωρητικότητας 20.000mAh, σχεδιασμένο για γρήγορη και αποδοτική φόρτιση όπου κι αν βρίσκεστε. Κατασκευασμένο από ανθεκτικά υλικά ABS+PC, διαθέτει LED οθόνη φωτισμού για παρακολούθηση της κατάστασης της μπαταρίας. Με διπλές εισόδους (USB-C &amp; Micro) και διπλές εξόδους USB (5V/2.1A), επιτρέπει τη φόρτιση πολλαπλών συσκευών ταυτόχρονα.
 
-Θύρες εξόδου: 2
-
-Θύρα εισόδου: 1
-
-Ανατομικός καμπύλος σχεδιασμός για άνετη λαβή
-
-Φωτεινός πολυτελής επαγγελματικός στυλ, εντυπωσιακή εμφάνιση
-
-Ενσωματωμένο έξυπνο τσιπ για ασφαλή φόρτιση
-
-LED οθόνη για σαφή κατάσταση μπαταρίας
-
-Ικανότητα εξόδου: 12W
-
-    Μοντέλο: WP-101
-    Υλικό: ABS+PC
-    Τύπος Μπαταρίας: Λιθίου πολυμερή
-    Ικανότητα Μπαταρίας: 9000mAh
-    Απόδοση ενέργειας: &gt;70%
-    Θύρα Εισόδου: Type-C x1
-    Είσοδος: Type-C: 5V-2.4A
-    Θύρες Εξόδου: USB x2
-    Έξοδος: USB1/2: 5V-2.4A
-    Προβολή Ικανότητας: Ενδεικτικός φωτισμός
-    Χρώμα: Μαύρο
+Υποστηρίζοντας τα πρωτόκολλα PD2.0 και QC2.0, εξασφαλίζει ασφαλή και γρήγορη φόρτιση για διάφορες συσκευές. Διαθέσιμο σε μαύρο και λευκό, το XO-PR252 αποτελεί μια αξιόπιστη και φορητή λύση ενέργειας για καθημερινή χρήση.
 </Description>
-		<EAN>6941027652732</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799519152</SKU>
-		<Name>WK Power Bank 5000mAh 22.5W με 2 Θύρες USB-C Μαύρο (WP-19) 250802</Name>
-		<URL>https://www.skroutz.gr/s/57092923/WK-WP-19-Power-Bank-5000mAh-22-5W-me-2-THyres-USB-C-Mayro.html</URL>
-		<Image>https://b.scdn.gr/images/sku_images/107356/107356879/xlarge_20250225164532_093ae0ce.jpeg</Image>
-		<Price>12.03</Price>
-		<Category>Power Banks</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250802</MPN>
-		<Description>Το power bank της WK έχει χωρητικότητα 5000mAh που μπορεί να προσφέρει περίπου 1 φόρτιση σε ένα συνηθισμένο κινητό τηλέφωνο.
-
-    Χωρητικότητα: 5000mAh
-    Ένταση Ρεύματος Κύριας Θύρας: 3A
-    Διαθέτει 2 θύρες USB-C
-</Description>
-		<EAN>6941027649459</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799519153</SKU>
-		<Name>WK Power Bank 10000mAh 22.5W με Θύρα USB-A και Θύρα USB-C Power Delivery Μαύρο (WP-63) 250796</Name>
-		<URL>https://www.skroutz.gr/s/58186523/WK-WP-63-Power-Bank-10000mAh-22-5W-me-THyra-USB-A-kai-THyra-USB-C-Power-Delivery-Mayro.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/058186/58186523/xlarge_20250225164946_wk_wp_63_power_bank_10000mah_22_5w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_mayro.jpeg</Image>
-		<Price>16.02</Price>
-		<Category>Power Banks</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250796</MPN>
-		<Description>Σχεδιασμένη με κομψότητα και μινιμαλισμό, αντανακλά τη μοναδική σας γεύση. Με χωρητικότητα 10000mAh, καλύπτει τις πολλαπλές ανάγκες φόρτισης σας.
-
-Περιλαμβάνει τέσσερις γρήγορες εξόδους και διπλές εισόδους για πιο βολική χρήση. Η υψηλή απόδοση ισχύος 22.5W (Max) εξασφαλίζει αποτελεσματικότητα και εξοικονόμηση χρόνου.
-
-Η μπαταρία είναι πιστοποιημένη με 3C και διαθέτει αληθινές κυψέλες χωρητικότητας.
-
-    Υλικό: ABS+PC
-    Τύπος Μπαταρίας: Λιθίου Πολυμερούς
-    Χωρητικότητα Μπαταρίας: 10000mAh
-    Απόδοση Ενεργειακής Μετατροπής: 60%
-    Ονομαστική Χωρητικότητα: 5200mAh
-    Είσοδος:
-        Type-C: 5V-2.8A, 9V-2A, 12V-1.5A
-        iPh: 5V-2A, 9V-2A, 12V-1.5A
-    Θύρες Έξοδου:
-        USB*1, Type-C*1, iPh*1
-    Έξοδος USB: 10V-2.25A/5V-3A, 9V-2A/12V-1.5A
-    Έξοδος Type-C: 10V-2.25A/5V-3A, 9V-2A/12V-1.5A
-    Έξοδος iPh: 5V-2.4A
-
-Διαθέτει LED εμφανιζόμενο δείκτη ισχύος. Το καθαρό βάρος προϊόντος είναι 235g, με διαστάσεις 69*147*20mm και βάρος 286g.</Description>
-		<EAN>6941027649596</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799519154</SKU>
-		<Name>WK Power Bank 20000mAh 22.5W με Θύρα USB-A και Θύρα USB-C Power Delivery Μαύρο (WP-64) 250798</Name>
-		<URL>https://www.skroutz.gr/s/58186682/WK-WP-64-Power-Bank-20000mAh-22-5W-me-THyra-USB-A-kai-THyra-USB-C-Power-Delivery-Mayro.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/058186/58186682/xlarge_20250225164946_wk_wp_64_power_bank_20000mah_22_5w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_mayro.jpeg</Image>
-		<Price>24</Price>
-		<Category>Power Banks</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250798</MPN>
-		<Description>22.5W ΥΠΕΡ ΓΡΗΓΟΡΗ ΦΟΡΤΙΣΗ ΜΕ ΔΥΟ ΕΝΣΩΜΑΤΩΜΕΝΑ ΚΑΛΩΔΙΑ ΓΡΗΓΟΡΗΣ ΦΟΡΤΙΣΗΣ
-
-    Καλώδιο Type-C με 22.5W Υπερ Γρήγορη Φόρτιση
-    Καλώδιο iPh με PD 20W Υπερ Γρήγορη Φόρτιση
-    Στυλάτη και μινιμαλιστική σχεδίαση που αναδεικνύει την μοναδική σας γεύση
-    Μεγάλη χωρητικότητα 20000mAh, καλύπτει τις πολλαπλές σας ανάγκες φόρτισης
-    Τέσσερις γρήγορες εξόδους, διπλές γρήγορες εισόδους, πιο άνετη χρήση
-    Υψηλή ισχύς εξόδου 22.5W (Μέγιστο), αποδοτική και ταχείες διαδικασίες
-    Αληθινά κυψέλες μπαταρίας με πιστοποίηση 3C
-    Υλικό: ABS+PC
-    Τύπος μπαταρίας: Λιθίου πολυμερούς
-    Χωρητικότητα μπαταρίας: 20000mAh
-    Αποδοτικότητα μετατροπής ενέργειας: 60%
-    Ονομαστική χωρητικότητα: 10400mAh
-    Είσοδος:
-        Type-C: 5V-2.8A 9V-2A 12V-1.5A
-        iPh: 5V-2A 9V-2A 12V-1.5A
-    Θύρες εξόδου:
-        USB*1, Type-C*1, Type-C*1, iPh*1
-    Έξοδος:
-        USB: 10V-2.25A/5V-3A 9V-2A/12V-1.5A
-        Type-C: 10V-2.25A/5V-3A 9V-2A/12V-1.5A
-        Type-C: 5V-3A/9V-2.22A/12V-1.67A
-        iPh: 5V-2.4A
-    Οθόνη Ικανότητας Ενέργειας: LED Διαιρεμένη Οθόνη
-    Καθαρό βάρος προϊόντος: 408g
-    Μέγεθος προϊόντος: 69*147*26mm
-    Μέγεθος συσκευασίας: 90*168.5*37mm
-    Βάρος προϊόντος: 276g
-    Εγχειρίδιο: PDF
-</Description>
-		<EAN>6941027649619</EAN>
+		<EAN>6920680860494</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -18114,45 +18731,58 @@ LED οθόνη για σαφή κατάσταση μπαταρίας
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799551131</SKU>
-		<Name>WK Βάση Γραφείου για Κινητό σε Λευκό χρώμα (WA-S46) 250573</Name>
-		<URL>https://www.skroutz.gr/s/30965996/WK-WA-S46-Vasi-Grafeiou-gia-Kinito-se-Leyko-chroma.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/030965/30965996/xlarge_20220511111240_wk_wa_s46_vasi_grafeiou_gia_kinito_se_leyko_chroma.jpeg</Image>
-		<Price>3.41</Price>
-		<Category>Κινητών Βάσεις Στήριξης Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250573</MPN>
-		<Description>Βασικά χαρακτηριστικά:
+		<SKU>799551151</SKU>
+		<Name>XO C151 Μεταλλική 360° Περιστρεφόμενη Επιτραπέζια Βάση Κινητού Μαύρη 16.006.0287</Name>
+		<URL>https://www.skroutz.gr/s/55660347/Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma-C151.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/055660/55660347/xlarge_20240830100819_vasi_grafeiou_gia_kinito_se_mayro_chroma_c151.jpeg</Image>
+		<Price>1.69</Price>
+		<Category>Βάσεις Στήριξης Κινητών</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.006.0287</MPN>
+		<Description>Τύπος: Επιτραπέζια βάση
 
-    Βάση για κινητά &amp; tablet
-    Αναδιπλούμενη για εύκολη μεταφορά
-    Ρυθμιζόμενο ύψος και γωνία στήριξης
-    Για οριζόντια &amp; κάθετη στήριξη
+Χρώμα: Μαύρο
 
-Με μεταβλητή γωνία βραχίονα, για να βρείτε την ιδανική θέση στήριξης και θέασης. Διπλώνει σε μικρό μέγεθος ώστε να χωράει σε κάθε τσάντα και σακίδιο. Διαθέτει αντιολισθητική βάση.</Description>
-		<EAN>6941027619315</EAN>
+Βάση επιφάνειας εργασίας που παρέχει υποστήριξη και σταθερότητα στη συσκευή σας, ώστε να μπορείτε να παρακολουθείτε ένα βίντεο, να διαβάζετε ένα κείμενο ή να πραγματοποιείτε μια βιντεοκλήση με ευκολία, χωρίς να χρειάζεται να κρατάτε τη συσκευή σας.
+
+</Description>
+		<EAN>6920680859177</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799551133</SKU>
-		<Name>WK Βάση Κινητού Αυτοκινήτου με Ρυθμιζόμενα Άγκιστρα Μαύρη (WA-S59) 250822</Name>
-		<URL>https://www.skroutz.gr/s/57103805/WK-Vasi-Kinitou-Aytokinitou-Wa-s59-me-Rythmizomena-Agistra-Mayri-250822.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/057103/57103805/xlarge_20241024091604_wk_vasi_kinitou_aytokinitou_wa_s59_me_rythmizomena_agistra_mayri_250822.jpeg</Image>
-		<Price>820</Price>
-		<Category>Κινητών Βάσεις Στήριξης Κινητών</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>250822</MPN>
-		<Description>Βάση κινητού αυτοκινήτου της εταιρείας WK.
+		<SKU>799551152</SKU>
+		<Name>XO C143 Πτυσσόμενη  Βάση Γραφείου για Κινητό Λευκή 16.006.0257</Name>
+		<URL>https://www.skroutz.gr/s/54342349/XO-C143-Vasi-Grafeiou-gia-Kinito.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/054342/54342349/xlarge_20240612155256_xo_c143_vasi_grafeiou_gia_kinito.jpeg</Image>
+		<Price>1.52</Price>
+		<Category>Βάσεις Στήριξης Κινητών</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.006.0257</MPN>
+		<Description>Πτυσσόμενη εύκολη αποθήκευση
 
-Η βάση στηρίζεται με βεντούζα και μπορεί να τοποθετηθεί:
+Ρυθμιζόμενη πολλαπλή γωνία
 
-    στο ταμπλό του αυτοκινήτου
-    στο παρμπρίζ του αυτοκινήτου
-    στον αεραγωγό του κλιματισμού ή του καλοριφέρ
+Αναδιπλούμενη και ρυθμιζόμενη επιτραπέζια βάση τηλεφώνου από την XO</Description>
+		<EAN>6920680857494</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799551159</SKU>
+		<Name>XO C60 Βάση Κινητού Αυτοκινήτου με Βεντούζα ή Αεραγωγού με Ρυθμιζόμενα Άγκιστρα 4" - 6" Μαύρη 16.006.0047</Name>
+		<URL>https://www.skroutz.gr/s/27255082/XO-C60-Vasi-Kinitou-Aytokinitou-4-6-me-Rythmizomena-Agistra-Mayri-16-006-0047.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/027255/27255082/xlarge_20210428173006_xo_vasi_stirixis_kinitou_aytokinitou_c60_car_holder_gravity_universal_black_ori_026_17_011.jpeg</Image>
+		<Price>4</Price>
+		<Category>Βάσεις Στήριξης Κινητών</Category>
+		<Manufacturer>XO</Manufacturer>
+		<MPN> 16.006.0047</MPN>
+		<Description>Βάση κινητού αυτοκινήτου C60 της εταιρείας XO. Η βάση στηρίζεται με βεντούζα άρα μπορεί να τοποθετηθεί στο ταμπλό ή το παρμπρίζ του αυτοκινήτου. Η στήριξη της συσκεύης στη βάση γίνεται με ρυθμιζόμενα άγκιστρα.
 
-Η στήριξη της συσκευής στη βάση γίνεται με ρυθμιζόμενα άγκιστρα.</Description>
-		<EAN>6941027649213</EAN>
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτησή της στο αυτοκίνητο και είναι ποιοτική κατασκευή.
+
+</Description>
+		<EAN>6920680872596</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
