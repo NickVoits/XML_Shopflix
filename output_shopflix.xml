@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-02 14:38</created_at>
+	<created_at>2025-04-02 14:41</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -6599,7 +6599,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Gillette Blue II Slalom Plus Ξυραφάκια μιας Χρήσης με 2 Λεπίδες και Λιπαντική Ταινία 5τμχ</Name>
 		<URL>https://www.skroutz.gr/s/32345694/Gillette-Blue-II-Slalom-Plus-Xyrafakia-mias-CHrisis-me-2-Lepides-kai-Lipantiki-Tainia-5tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/032345/32345694/20220225115648_gillette_blue_ii_slalom_plus_xyrafakia_mias_chrisis_5tmch.jpeg</Image>
-		<Price>2.19</Price>
+		<Price>2.17</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0979</MPN>
@@ -6648,6 +6648,26 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Βασικά χαρακτηριστικά:   • Ανταλλακτικές Κεφαλές   • Με 5 Λεπίδες   • Συμβατές με τις Μηχανές Fusion   • Με Λεπίδα Ακριβείας Στο Πίσω Μέρος   • Με Τζελ Για Άνετο Ξύρισμα</Description>
 		<EAN>7702018866984</EAN>
 		<Quantity>64</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>6202411</SKU>
+		<Name>Gillette Fusion 5 Ανταλλακτικές Κεφαλές με 5 Λεπίδες &amp; Λιπαντική Ταινία 8τμχ </Name>
+		<URL>https://www.skroutz.gr/s/46916422/Gillette-Fusion-5-Antallaktikes-Kefales-me-5-Lepides-Lipantiki-Tainia-8tmch-8700216331579.html#reviews</URL>
+		<Image>https://c.scdn.gr/images/sku_images/083803/83803297/xlarge_20231020121244_f474ce0d.jpeg</Image>
+		<Price>21.62</Price>
+		<Category>Ξυραφάκια</Category>
+		<Manufacturer>GILLETTE</Manufacturer>
+		<MPN>1535001</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Ανταλλακτικές Κεφαλές
+    Με 5 Λεπίδες
+    Με Λεπίδα Ακριβείας στο Πίσω Μέρος
+    Με Λιπαντική Ταινία που Ξεθωριάζει
+    Για Απαλό Ξύρισμα</Description>
+		<EAN>8700216331579</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8422,6 +8442,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Επιπλέον, είναι VEGAN και 97% NATURAL.</Description>
 		<EAN>5208005143103</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
