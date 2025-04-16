@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-16 11:05</created_at>
+	<created_at>2025-04-16 11:09</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -102,6 +102,7 @@
 		<MPN>1195001</MPN>
 		<Description>Murphy's Irish Stout: Η Murphys Irish Stout είναι μια κλασική ιρλανδική μπύρα stout με πλούσια γεύση και άρωμα. Πρόκειται για μια σκούρα μπύρα που βελτιώνει την εμπειρία της γευστικής απόλαυσης με χαρακτηριστική κρεμώδη υφή και πλούσιο σώμα.</Description>
 		<EAN>5035766060253</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -596,7 +597,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>179</Quantity>
+		<Quantity>177</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -611,7 +612,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<EAN>5201171331220</EAN>
-		<Quantity>126</Quantity>
+		<Quantity>124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -626,7 +627,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>199</Quantity>
+		<Quantity>197</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -641,7 +642,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<EAN>5201171331244</EAN>
-		<Quantity>117</Quantity>
+		<Quantity>115</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1421,7 +1422,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<EAN>90415708</EAN>
-		<Quantity>7751</Quantity>
+		<Quantity>7703</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1436,7 +1437,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>•32 mg/100 ml καφεΐνη•Βιταμίνες Β2, Β3, Β5, Β6, Β12•Δεν περιέχει συντηρητικά•Φιλική για το περιβάλλον συσκευασία</Description>
 		<EAN>5999884034469</EAN>
-		<Quantity>17754</Quantity>
+		<Quantity>17706</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1825,7 +1826,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<EAN>5201156030261</EAN>
-		<Quantity>475</Quantity>
+		<Quantity>474</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1840,7 +1841,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<EAN>5201156030308</EAN>
-		<Quantity>588</Quantity>
+		<Quantity>587</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1990,7 +1991,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<EAN>5201946010015</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>2675</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
