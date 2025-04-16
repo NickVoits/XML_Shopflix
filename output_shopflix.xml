@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-15 16:11</created_at>
+	<created_at>2025-04-16 11:01</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -13,7 +13,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<EAN>5201261231843</EAN>
-		<Quantity>250</Quantity>
+		<Quantity>237</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -89,6 +89,19 @@
 		<Description>Η Mc Farland είναι μια Ιρλανδική red ale με υπέροχο κόκκινο χρώμα. Αρώματα και γεύσεις κόκκινων φρούτων, καραμέλας, βύνης και γαρίφαλου εναλλάσσονται και ξεσηκώνουν. Το στόμα είναι γεμάτο και συγχρόνως ελαφρύ με ένα γλυκόπικρο τελείωμα πλούσιο σε toffee.</Description>
 		<EAN>8006890623246</EAN>
 		<Quantity>24</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>31087</SKU>
+		<Name>Murphy’s Irish Stout 500ml</Name>
+		<URL>https://www.skroutz.gr/s/6831135/Murphys-Brewery-Ireland-Ltd-Murphy-s-Irish-Stout-500ml-koutaki.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/006831/6831135/xlarge_20150521170927_murphy_s_irish_stout_500ml_koutaki.jpeg</Image>
+		<Price>2.83</Price>
+		<Category>Μπύρες</Category>
+		<Manufacturer>Murphy’s</Manufacturer>
+		<MPN>1195001</MPN>
+		<Description>Murphy's Irish Stout: Η Murphys Irish Stout είναι μια κλασική ιρλανδική μπύρα stout με πλούσια γεύση και άρωμα. Πρόκειται για μια σκούρα μπύρα που βελτιώνει την εμπειρία της γευστικής απόλαυσης με χαρακτηριστική κρεμώδη υφή και πλούσιο σώμα.</Description>
+		<EAN>5035766060253</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -253,7 +266,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>531</Quantity>
+		<Quantity>520</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -268,7 +281,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<EAN>75041670</EAN>
-		<Quantity>365</Quantity>
+		<Quantity>355</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -283,7 +296,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>2587</Quantity>
+		<Quantity>2533</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -313,7 +326,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>1218</Quantity>
+		<Quantity>1176</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -328,7 +341,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>522</Quantity>
+		<Quantity>500</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -358,7 +371,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>255</Quantity>
+		<Quantity>232</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -373,7 +386,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<EAN>5201275610672</EAN>
-		<Quantity>222</Quantity>
+		<Quantity>205</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -388,7 +401,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
-		<Quantity>204</Quantity>
+		<Quantity>198</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -418,7 +431,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171150265</EAN>
-		<Quantity>259</Quantity>
+		<Quantity>169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -598,7 +611,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<EAN>5201171331220</EAN>
-		<Quantity>152</Quantity>
+		<Quantity>126</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -613,7 +626,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>229</Quantity>
+		<Quantity>199</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -673,7 +686,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>2078</Quantity>
+		<Quantity>1880</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -688,7 +701,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000133335</EAN>
-		<Quantity>1000</Quantity>
+		<Quantity>946</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -703,7 +716,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>27</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -718,7 +731,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>335</Quantity>
+		<Quantity>331</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -763,7 +776,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000214775</EAN>
-		<Quantity>40</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -823,7 +836,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<EAN>5449000214805</EAN>
-		<Quantity>30</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -853,7 +866,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>54491472</EAN>
-		<Quantity>125</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -868,7 +881,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000131836</EAN>
-		<Quantity>126</Quantity>
+		<Quantity>120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -958,7 +971,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005179370</EAN>
-		<Quantity>1198</Quantity>
+		<Quantity>1150</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -973,7 +986,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση βύσσινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005001473</EAN>
-		<Quantity>34</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1078,7 +1091,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946900521</EAN>
-		<Quantity>236</Quantity>
+		<Quantity>233</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1123,7 +1136,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>7421</Quantity>
+		<Quantity>7396</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1138,7 +1151,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
 		<EAN>5201946911268</EAN>
-		<Quantity>334</Quantity>
+		<Quantity>322</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1153,7 +1166,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
 		<EAN>5201946911060</EAN>
-		<Quantity>142</Quantity>
+		<Quantity>124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1168,7 +1181,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<EAN>5201946910315</EAN>
-		<Quantity>402</Quantity>
+		<Quantity>396</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1183,7 +1196,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<EAN>5201946911213</EAN>
-		<Quantity>1397</Quantity>
+		<Quantity>1385</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1198,7 +1211,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<EAN>5201946910247</EAN>
-		<Quantity>2509</Quantity>
+		<Quantity>2473</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1213,7 +1226,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<EAN>5201946910261</EAN>
-		<Quantity>135</Quantity>
+		<Quantity>125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1228,7 +1241,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικά με κύριο συστατικό το Φυσικό Μεταλλικό Νερό, από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ, αλλά και χυμούς από ελληνικά φρούτα, που δημιουργούν τα πιο ξεχωριστές γεύσεις του καλοκαιριού μας και υπόσχονται πραγματική απόλαυση χάρη στη μοναδική τους γεύση.</Description>
 		<EAN>5201946911046</EAN>
-		<Quantity>80</Quantity>
+		<Quantity>71</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1243,7 +1256,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>1896</Quantity>
+		<Quantity>1878</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1273,7 +1286,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<EAN>5201946910445</EAN>
-		<Quantity>405</Quantity>
+		<Quantity>402</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1288,7 +1301,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<EAN>5201946911404</EAN>
-		<Quantity>148</Quantity>
+		<Quantity>131</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1303,7 +1316,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε το Βίκος Tonic με τη δροσιστική φρεσκάδα του φυσικού μεταλλικού νερού και την προσθήκη φυσικού διοξειδίου πηγής. Το πλούσιο άρωμα κινίνης και η διακριτική, ισορροπημένη του γλυκύτητα απογειώνουν τη γεύση, ώστε να το απολαμβάνεις στο αγαπημένο σου ποτό ή και σκέτο.</Description>
 		<EAN>5201946910483</EAN>
-		<Quantity>82</Quantity>
+		<Quantity>79</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1497,7 +1510,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908000020</EAN>
-		<Quantity>4533</Quantity>
+		<Quantity>4506</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1512,7 +1525,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000044</EAN>
-		<Quantity>86</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1527,7 +1540,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000068</EAN>
-		<Quantity>5012</Quantity>
+		<Quantity>4985</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1572,7 +1585,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000051</EAN>
-		<Quantity>1058</Quantity>
+		<Quantity>1004</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1602,7 +1615,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000174</EAN>
-		<Quantity>563</Quantity>
+		<Quantity>507</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1617,7 +1630,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908110019</EAN>
-		<Quantity>2749</Quantity>
+		<Quantity>2665</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1632,7 +1645,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908110002</EAN>
-		<Quantity>215</Quantity>
+		<Quantity>131</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1647,7 +1660,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908001003</EAN>
-		<Quantity>584</Quantity>
+		<Quantity>583</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1662,7 +1675,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<EAN>5202908000112</EAN>
-		<Quantity>501</Quantity>
+		<Quantity>459</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1692,7 +1705,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908101000</EAN>
-		<Quantity>59</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1707,7 +1720,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<EAN>5202908001072</EAN>
-		<Quantity>211</Quantity>
+		<Quantity>193</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1722,7 +1735,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000167</EAN>
-		<Quantity>672</Quantity>
+		<Quantity>564</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1752,7 +1765,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Ένας φυσικός χυμός από την Agros με γεύση ανανά από συμπυκνωμένο χυμό.</Description>
 		<EAN>5202908100003</EAN>
-		<Quantity>142</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1767,7 +1780,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρεσκάδα και αυθεντική γεύση λεμονιού σε κάθε γουλιά. Με φυσική γεύση και απαλό άρωμα, είναι ιδανικός για αναζωογόνηση και απόλαυση σε κάθε περίσταση.</Description>
 		<EAN>5202908000099</EAN>
-		<Quantity>78</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1782,7 +1795,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000273</EAN>
-		<Quantity>323</Quantity>
+		<Quantity>311</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1797,7 +1810,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός cranberry από συμπυκνωμένο φυσικό χυμό.</Description>
 		<EAN>5202908000228</EAN>
-		<Quantity>54</Quantity>
+		<Quantity>42</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1812,7 +1825,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<EAN>5201156030261</EAN>
-		<Quantity>480</Quantity>
+		<Quantity>475</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1827,7 +1840,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<EAN>5201156030308</EAN>
-		<Quantity>596</Quantity>
+		<Quantity>588</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1992,7 +2005,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>1009</Quantity>
+		<Quantity>922</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2007,7 +2020,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345092</EAN>
-		<Quantity>740</Quantity>
+		<Quantity>718</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2214,7 +2227,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ξηρή γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<EAN>15202548505111</EAN>
-		<Quantity>226</Quantity>
+		<Quantity>224</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2319,7 +2332,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>1685</Quantity>
+		<Quantity>1679</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2379,7 +2392,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<EAN>5202037115015</EAN>
-		<Quantity>646</Quantity>
+		<Quantity>604</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2409,7 +2422,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Μοσχάτο κοκκινέλι είναι ερυθρός ξηρός οίνος που παράγεται από Μοσχάτο. Είναι κρασί με φωτεινό κόκκινο χρώμα που συνοδεύει απολαυστικά μεγάλη ποικιλία φαγητών. Πίνεται σε θερμοκρασία 12-14°C.</Description>
 		<EAN>5202037115039</EAN>
-		<Quantity>180</Quantity>
+		<Quantity>172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2424,7 +2437,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<EAN>5202037115053</EAN>
-		<Quantity>338</Quantity>
+		<Quantity>326</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2499,7 +2512,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Στον Ημίγλυκο αυτό ποικιλιακό οίνο του Μοσχάτου Μαύρου Τυρνάβου τα αζύμωτα σάκχαρα του σταφυλιού που περιέχονται αναδεικνύουν τα πληθωρικά αρώματα τριαντάφυλλου και τη φρουτώδη επίγευση.</Description>
 		<EAN>5202037114117</EAN>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2907,7 +2920,7 @@
 		<MPN>1316</MPN>
 		<Description>To λευκό του Κτήματος Βιβλία Χώρα αποτελεί ένα αρωματικό και φρέσκο κρασί, φτιαγμένο για όλες τις στιγμές. Παράγεται από το πάντρεµα της αρωματικής ποικιλίας Sauvignon Blanc και του πληθωρικού Ασύρτικου. Το χρώμα του, είναι απαλό πρασινοκίτρινο, µε έντονη διαύγεια. Έντονα αρώματα τροπικών φρούτων, γκρέιπφρουτ, εναλλάσσονται µε νότες εσπεριδοειδών &amp;  λεμονιού. Σερβίρεται στους 10οC και προτείνεται να καταναλωθεί σε 2 χρόνια. Πίνεται σκέτο ως απεριτίφ, ενώ μπορεί να συνοδεύσει εξαιρετικά πλατό τυριών, ριζοτο και θαλασσινά,.</Description>
 		<EAN>5200101710012</EAN>
-		<Quantity>67</Quantity>
+		<Quantity>63</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2989,7 +3002,7 @@
 		<MPN>1318</MPN>
 		<Description>Λευκός Οίνος από τον συνδυασμό δύο ελληνικών ποικιλιών, της Μαλαγουζιάς και του Ασύρτικου.Μετά την προζυμωτική κρυοεκχύλιση, η οινοποίηση εκτυλίσσεται σε ανοξείδωτες ψυχόμενες δεξαμενές σε θερμοκρασία γύρω στους 18°C. Το κρασί έχει λαμπερό αχνόξανθο χρώμα με πρασινωπές ανταύγειες. Η «μύτη» του είναι εκφραστική με εναλλασσόμενες εντυπώσεις, καθώς δίπλα στα εξωτικά φρούτα περνούν νότες πιπεριάς, γιασεμιού, πορτοκαλιού, πεπονιού, βοτάνων και λεμονιού.Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.Σερβίρεται στους 8-10°C.</Description>
 		<EAN>5204222575017</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3294,7 +3307,7 @@
 		<MPN>1322</MPN>
 		<Description>Αφρός, η πρώτη pet-nat ρετσίνα, που εμφιαλώνεται θολή, για να φυλακίσει τον σπινθήρα και τα αρώματα του κρασιού που ζυμώνει. Ένα προϊόν ταυτόχρονα βαθιά παραδοσιακό και απόλυτα σύγχρονο.</Description>
 		<EAN>5200101940587</EAN>
-		<Quantity>26</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3392,7 +3405,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888160100</EAN>
-		<Quantity>1521</Quantity>
+		<Quantity>1519</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3521,7 +3534,7 @@
 		<MPN>1334002</MPN>
 		<Description>Η Ραμνίστα του Κυρ Γιάννη με αρώματα από φράουλα, κεράσι και τριαντάφυλλο, σε συνδυασμό με φινετσάτες νότες βανίλιας από το βαρέλι. Παρά τη νεότητά του, η αρωματική δύναμη και η δομή των τανινών, φανερώνουν ένα κρασί με χαρακτήρα και μεγάλο δυναμικό παλαίωσης, προϊόν μιας μεγάλης χρονιάς.</Description>
 		<EAN>5203888184021</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3644,7 +3657,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 
 Αλκοολική ζύμωση σε χαμηλές θερμοκρασίες με σκοπό την ενίσχυση των πρωτογενών αρωμάτων. Σύντομη επαφή με τις φίνες οινολάσπες.</Description>
 		<EAN>5203708110087</EAN>
-		<Quantity>24</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3875,7 +3888,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1633</MPN>
 		<Description>Ένα ημίξηρο λευκό κρασί με απαλό αλκοόλ με δυνατά αρώματα, όπως λουκούμι, τριαντάφυλλο και εξωτικά φρούτα. Στο στόμα αφήνει μια γλύκα και επίγευση από φρουτώδη αρώματα. Συνοδεύει φρουτοσαλάτες, ξηρούς καρπούς, πάπια και απαλά σε γεύση τυριά.</Description>
 		<EAN>5206283100009</EAN>
-		<Quantity>38</Quantity>
+		<Quantity>68</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3889,7 +3902,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1634</MPN>
 		<Description>Το Variere Ροζέ, από τους Ορεινούς Αμπελώνες Λαλίκου, είναι ένα άμεσο, χαρούμενο, καθόλου ελιτίστικο και πάνω από όλα απολαυστικό ροζέ κρασί.</Description>
 		<EAN>5206283001009</EAN>
-		<Quantity>125</Quantity>
+		<Quantity>191</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3903,7 +3916,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>1362</Quantity>
+		<Quantity>1356</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4166,7 +4179,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Λευκό κρασί με απαλές πράσινες ανταύγειες και σύνθετη μύτη με φρέσκους ανθικούς χαρακτήρες να υπερισχύουν. Ακολουθούν νότες φλούδας λεμονιού και αρώματα τροπικών φρούτων όπως αβοκάντο.</Description>
 		<EAN>5203773000184</EAN>
-		<Quantity>32</Quantity>
+		<Quantity>104</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4226,7 +4239,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Peplo Ροζέ από Syrah, Αγιωργίτικο, Μαυροφίλερο με την κάθε ποικιλία να συμμετέχει κατά 1/3 στο κρασί. Το Αγιωργίτικο σε βαρέλια ακακίας, το Syrah ωριμάζει στις οινολάσπες του σε ανοξείδωτη δεξαμενή και το Μαυροφίλερο σε πήλινους αμφορείς μαζί με τη φλούδα του για 4 μήνες.</Description>
 		<EAN>5203773000634</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4241,7 +4254,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Η ετικέτα Fleva του κτήματος Σκούρα, είναι ένα ερυθρό κρασί από την ποικιλία syrah.</Description>
 		<EAN>5203773000450</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4277,7 +4290,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Η αμπελουργική ΠΟΠ ζώνη της Μαντινείας, που θεσπίστηκε το 1971, έχει κύρια ποικιλία το ερυθρωπό Μοσχοφίλερο. Αναπτύσσεται γύρω από την Τρίπολη σε οροπέδιο που περιβάλλεται από βουνά στα 650 μέτρα. Αποτελεί μία από τις ψυχρότερες περιοχές στην Ελλάδα, με χαμηλές θερμοκρασίες που οδηγούν σε όψιμο τρύγο έως τα τέλη Οκτωβρίου. Αυτό ευνοεί την ανάπτυξη αρωμάτων με ανθικό χαρακτήρα και έντονες οξύτητες.</Description>
 		<EAN>5203773000764  </EAN>
-		<Quantity>6</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4363,7 +4376,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1791</MPN>
 		<Description>Το 2018 το Κτήμα Βιβλία Χώρα, του Βαγγέλη Γεροβασιλείου και του Βασίλη Τσακτσαρλή ‘φτάνει’ στην Γουμένισσα και αξιοποιεί το Κτήμα Ευτυχίδη με σκοπό την παραγωγή εξαιρετικών κρασιών ΠΟΠ Γουμένισσα. Το πρώτο κρασί του οινοποιείου είναι μία υπέροχη έκφραση του Ξινόμαυρου και της Νεγκόσκας με βάθος φρούτου, φινέτσα και πολύ όμορφα δουλεμένες τανίνες.</Description>
 		<EAN>5200101710708</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4481,7 +4494,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Χατζηδάκη Βιολογικό Κρασί Familia Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18236882/CHatzidaki-Viologiko-Krasi-Familia-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/018236/18236882/xlarge_20190418101938_chatzidaki_familia_leyko_750ml.jpeg</Image>
-		<Price>29.49</Price>
+		<Price>38.2</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κρασιά Χατζηδάκη</Manufacturer>
 		<MPN>1792001</MPN>
@@ -4589,7 +4602,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000233</EAN>
-		<Quantity>2051</Quantity>
+		<Quantity>2003</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4649,7 +4662,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>2177</Quantity>
+		<Quantity>2081</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4784,7 +4797,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Το Αγιονέρι είναι τσίπουρο μικρής παραγωγής που αποστάζεται στην αμπελουργική ζώνη των Μετεωρών. Η παλαίωση του σε δρύινα βαρέλια του χάρισε πολυπλοκότητα και βάθος με ενδιαφέρον αρώματα πικάντικων μπαχαρικών και αποξηραμένων φρούτων. Ένα βελούδινο και κομψό παλαιωμένο τσίπουρο με φρουτώδη χαρακτήρα, ιδανικό να συνοδεύσει αρμονικά ορεκτικά και ελληνικούς μεζέδες.</Description>
 		<EAN>5202548102047</EAN>
-		<Quantity>146</Quantity>
+		<Quantity>122</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4821,7 +4834,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<EAN>promitheas-520237120064</EAN>
-		<Quantity>769</Quantity>
+		<Quantity>745</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4836,7 +4849,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202037130063</EAN>
-		<Quantity>1081</Quantity>
+		<Quantity>1033</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4971,7 +4984,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207612016</EAN>
-		<Quantity>812</Quantity>
+		<Quantity>776</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5001,7 +5014,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.02 kg</Weight>
 		<Description>Προϊόν Διπλής Απόσταξης Στεμφύλων (φλούδες) Σταφυλιών. Η πολυσυλλεκτικότητα των ποικιλιών, η τέχνη της απόσταξης και η συμμετοχή αρωματικών βοτάνων και φρούτων κατά τη δεύτερη απόσταξη έχουν σαν αποτέλεσμα τη δημιουργία ενός ποτού υψηλής ποιότητας. Παράγεται αποκλειστικά από σταφύλια που καλλιεργούνται στην ελληνική γη. Η προσθήκη άγριων βοτάνων κατά τη δεύτερη απόσταξή του προσδίδει έναν ιδιαίτερο αρωματικό πλούτο. Χωρίς γλυκάνισο.</Description>
 		<EAN>5201302200487</EAN>
-		<Quantity>306</Quantity>
+		<Quantity>300</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5071,7 +5084,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<EAN>5000281002538</EAN>
-		<Quantity>299</Quantity>
+		<Quantity>298</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5085,7 +5098,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
-		<Quantity>225</Quantity>
+		<Quantity>223</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6092,7 +6105,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0241</MPN>
 		<Description>Η οδοντόκρεμα Colgate Triple Action ενδείκνυται για καθημερινή χρήση με τριπλή δράση και μέντα.</Description>
 		<EAN>6920354812521</EAN>
-		<Quantity>1657</Quantity>
+		<Quantity>1656</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6162,7 +6175,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0848</MPN>
 		<Description>Οδοντόβουρτσα με μέτρια σκληρότητα της εταιρείας Colgate σε μπλε χρώμα, η οποία καθαρίζει αποτελεσματικά τα δόντια και τα ούλα από υπολείμματα τροφίμων, βακτήρια και πλάκα, ενώ μπορεί να χρησιμοποιηθεί και από άτομα που συγκεντρώνουν σε μικρό χρονικό διάστημα μετά τον καθαρισμό οδοντική πέτρα.</Description>
 		<EAN>6001067022558</EAN>
-		<Quantity>1300</Quantity>
+		<Quantity>1299</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6232,7 +6245,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1282</MPN>
 		<Description>Βελτιωμένες κεφαλές της σειράς Cross Action με τεχνολογία CleanMaximiser που προσφέρει έως και 100% περισσότερη αφαίρεση πλάκας και πιο υγιή ούλα σε σύγκριση με μια κανονική χειροκίνητη οδοντόβουρτσα.</Description>
 		<EAN>4210201353409</EAN>
-		<Quantity>56</Quantity>
+		<Quantity>55</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6703,7 +6716,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Με Λιπαντική Ταινία που Ξεθωριάζει
     Για Απαλό Ξύρισμα</Description>
 		<EAN>8700216331579</EAN>
-		<Quantity>72</Quantity>
+		<Quantity>71</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6731,7 +6744,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0575</MPN>
 		<Description>Ξυραφάκια υψηλής ποιότητας από ανοξείδωτο ατσάλι μονής λεπίδας με επικάλυψη πολυμερούς και χρωμίου. Στενή και σταθερή κεφαλή που φτάνει με ακρίβεια στις ευαίσθητες περιοχές τις επιδερμίδας. Περιέχει προστατευτική μπάρα από ανοξείδωτο ατσάλι και μαύρη πολυεστερική λαβή, μεγαλύτερη για καλύτερο έλεγχο στο ξύρισμα.</Description>
 		<EAN>3086125705416</EAN>
-		<Quantity>556</Quantity>
+		<Quantity>545</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6899,7 +6912,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1057</MPN>
 		<Description>Αποσμητικό με διακριτικό άρωμα ειδικά σχεδιασμένο για να προσφέρει 48ωρη προστασία από την κακοσμία και τον ιδρώτα, ακόμα και σε περιπτώσεις έντονης εφίδρωσης.</Description>
 		<EAN>4005900388711</EAN>
-		<Quantity>13</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7025,7 +7038,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1247</MPN>
 		<Description>Ανατολιτικο γυναικείο άρωμα.•Νότες κορυφής: Πορτοκάλι, περγαμόντο και παιώνια. •Μεσαίες νότες: Μύρο, κεχριμπάρι, βενζόη και οποπόναξ.•Νότες βάσης: Βανίλια, σανδαλόξυλο, μόσχος και κέδρος.</Description>
 		<EAN>8008970000220</EAN>
-		<Quantity>35</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7445,7 +7458,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0037</MPN>
 		<Description>Το TEO Soap Luscious Vanilla είναι ένα σαπούνι που περιέχει εκλεπτυσμένο άρωμα βανίλιας. Με την απαλή του σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Η αρωματική νότα της βανίλιας δημιουργεί μια ευχάριστη αίσθηση φρεσκάδας και ευεξίας κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<EAN>3800024014369</EAN>
-		<Quantity>4842</Quantity>
+		<Quantity>4839</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7473,7 +7486,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0999</MPN>
 		<Description>Το TEO Soap Midnight Jasmine είναι ένα σαπούνι με το αρωματικό άρωμα του γιασεμιού. Με μια απαλή σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Το άρωμα του Midnight Jasmine δημιουργεί μια αίσθηση ευεξίας και χαλάρωσης κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<EAN>3800024014376</EAN>
-		<Quantity>4045</Quantity>
+		<Quantity>4043</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7571,7 +7584,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1487</MPN>
 		<Description>Μπάρα σαπουνιού με άρωμα λουλουδια. Αναζωογονεί το δέρμα με μεταλλικά άλατα και φύκια.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>8999999527709</EAN>
-		<Quantity>175</Quantity>
+		<Quantity>180</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8299,7 +8312,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1254</MPN>
 		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>8008970011158</EAN>
-		<Quantity>78</Quantity>
+		<Quantity>77</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8383,7 +8396,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1005</MPN>
 		<Description>Ενυδατική βουτυρώδης κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει μέλι και γιαούρτι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας.</Description>
 		<EAN>5208005110020</EAN>
-		<Quantity>61</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8425,7 +8438,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1261</MPN>
 		<Description>Γαλάκτωμα Σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής.Θρέφει, ενεργοποιεί, καταπραΰνει τους ερεθισμούς, επιταχύνει την επούλωση των πληγών. Έχει ευεργετική επίδραση διατηρώντας το κατάλληλο επίπεδο ενυδάτωσης του δέρματος και ενισχύει την ελαστικότητά του. . Η φόρμουλά του εμπεριέχει μέλι βέρα και γιαούρτι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας.</Description>
 		<EAN>5208005110051</EAN>
-		<Quantity>58</Quantity>
+		<Quantity>56</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8632,7 +8645,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>5202054454852</EAN>
-		<Quantity>267</Quantity>
+		<Quantity>261</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8646,7 +8659,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1076</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>5202054454821</EAN>
-		<Quantity>130</Quantity>
+		<Quantity>128</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8786,7 +8799,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1086</MPN>
 		<Description>Γάντια καθαριότητας της εταιρίας Θαλασσινός, σε μέγεθος medium, χρήσιμα για την προστασία των χεριών σας, καθώς τα προστατεύουν κατά τη διάρκεια των καθαριστικών εργασιών. Είναι κατασκευασμένα από πλαστικό, ιδανικό για τις καθημερινές δουλειές του σπιτιού και της κουζίνας.</Description>
 		<EAN>5202054469535</EAN>
-		<Quantity>441</Quantity>
+		<Quantity>440</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8936,7 +8949,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102833</EAN>
-		<Quantity>2423</Quantity>
+		<Quantity>2384</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8979,7 +8992,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<EAN>5200100281643</EAN>
-		<Quantity>3119</Quantity>
+		<Quantity>3097</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8993,7 +9006,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>PS.RK.T3.450G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<EAN>5203650710285</EAN>
-		<Quantity>1079</Quantity>
+		<Quantity>1067</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9063,7 +9076,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1530</MPN>
 		<Description>Χαρτοπετσέτες της εταιρίας Endless, 2 φύλλων, πολλαπλών χρήσεων. Είναι ανθεκτικές και απορροφητικές, ιδανικές για καθημερινή χρήση.    Συνολικός Αριθμός Χαρτοπετσετών: 100</Description>
 		<EAN>5202995003942</EAN>
-		<Quantity>101</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9091,7 +9104,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1340</MPN>
 		<Description>Ιδανικές για επαγγελματική και οικιακή χρήση, προσφέροντας απορροφητικότητα και ανθεκτικότητα. Κατασκευασμένες από 1 φύλλο λευκού χαρτιού υψηλής ποιότητας, σε διαστάσεις 21x25cm, είναι κατάλληλες για καθημερινή υγιεινή και καθαριότητα. Η συσκευασία των 200 τεμαχίων προσφέρει μεγάλη διάρκεια και πρακτική χρήση, ιδανική για χώρους με αυξημένες ανάγκες καθαριότητας.</Description>
 		<EAN>5202995010544</EAN>
-		<Quantity>872</Quantity>
+		<Quantity>852</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9105,7 +9118,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<EAN>5202995010537</EAN>
-		<Quantity>1176</Quantity>
+		<Quantity>1171</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9166,7 +9179,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<EAN>5202995004628</EAN>
-		<Quantity>434</Quantity>
+		<Quantity>433</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9194,7 +9207,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<EAN>5201410964127</EAN>
-		<Quantity>1276</Quantity>
+		<Quantity>1277</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9349,7 +9362,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>3154</Quantity>
+		<Quantity>3152</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9364,7 +9377,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055237</EAN>
-		<Quantity>1079</Quantity>
+		<Quantity>1077</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9394,7 +9407,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055244</EAN>
-		<Quantity>1352</Quantity>
+		<Quantity>1335</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9424,7 +9437,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα.</Description>
 		<EAN>8008970055268</EAN>
-		<Quantity>645</Quantity>
+		<Quantity>643</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9588,7 +9601,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1268</MPN>
 		<Description>Το ARIEL LOROR 2x75μεζ. (2x3,75 lit) είναι ένα υγρό απορρυπαντικό πλυντηρίου, ιδανικό για την αφαίρεση δύσκολων λεκέδων, προσφέροντας αποτελεσματικό καθαρισμό σε βάθος. Κατάλληλο για χρήση σε χαμηλές θερμοκρασίες, διατηρεί τα ρούχα φρέσκα και προστατεύει τα υφάσματα. Συσκευασία 2 τεμαχίων, συνολικής ποσότητας 7.5 λίτρων, που αρκεί για περίπου 150 πλύσεις.</Description>
 		<EAN>8700216211451</EAN>
-		<Quantity>58</Quantity>
+		<Quantity>56</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9921,34 +9934,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>72055</SKU>
-		<Name>REX PLUS ΥΓΡΟ ΠΙΑΤΩΝ ΥΠΕΡΣΥΜΠΥΚΝΩΜΕΝΟ 4 Lit ΛΕΜΟΝΙ (20 ΕΝΕΡΓΑ)</Name>
-		<URL>https://www.skroutz.gr/s/55528000/Rex-Hellas-Ygro-Piaton-4lt-0889.html</URL>
-		<Image>https://thessclean.gr/wp-content/uploads/2018/10/DSC06080-s.jpg</Image>
-		<Price>6.33</Price>
-		<Category>Υγρά Πιάτων</Category>
-		<Manufacturer>REX</Manufacturer>
-		<MPN>0889</MPN>
-		<Description>Με την σειρά REX PLUS το πλύσιμο των πιάτων είναι μια εύκολη υπόθεση .Με την ενισχυμένη σύνθεση του REX PLUS ,με λίγες μόνο σταγόνες καθαρίζει γρήγορα καιαποτελεσματικά τα καμένα λίπη και τις μυρωδιές από τα πιάτα , τα ποτήρια σας και τα μαγειρικά σας σκεύη. Με 17% ενεργά.</Description>
-		<EAN>5200250702104</EAN>
-		<Quantity>59</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>72056</SKU>
-		<Name>KLOREX  ΥΓΡΟ ΠΙΑΤΩΝ 4 Lit ΛΕΜΟΝΙ</Name>
-		<URL>https://www.skroutz.gr/s/56231393/Klorex-Ygro-Piaton-me-Aroma-Lemoni-4lt-0594.html</URL>
-		<Image>https://thessclean.gr/wp-content/uploads/2018/11/DSC06842-s.jpg</Image>
-		<Price>3.32</Price>
-		<Category>Υγρά Πιάτων</Category>
-		<Manufacturer>KLOREX</Manufacturer>
-		<MPN>0594</MPN>
-		<Description>Η  σειρά υγρού πιάτων KLOREX είναι σίγουρα η πιο οικονομική λύση για το πλύσιμο τωνπιάτων! Με άρωμα φρέσκου λεμονιού.</Description>
-		<EAN>5200250702005</EAN>
-		<Quantity>55</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>72062</SKU>
 		<Name>REX ΙΣΧΥΡΟΣ ΛΙΠΟΔΙΑΛΥΤΗΣ 750ml</Name>
 		<URL>https://www.skroutz.gr/s/22960214/Rex-Hellas-Katharistiko-gia-Lipi-Spray-750ml.html</URL>
@@ -10249,7 +10234,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1750</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Oceanic 40gr είναι ένας αποδοτικός καθαριστικός δίσκος που προσφέρει ισχυρή προστασία κατά των αλάτων και των ακαθαρσιών, ενώ διατηρεί τη λεκάνη της τουαλέτας φρέσκια και καθαρή. Το άρωμα Oceanic δημιουργεί μια αίσθηση δροσιάς και καθαριότητας, ενώ η μακράς διάρκειας δράση του εξασφαλίζει καθαριότητα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση.</Description>
 		<EAN>5901815005790</EAN>
-		<Quantity>323</Quantity>
+		<Quantity>326</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10333,7 +10318,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1115</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
 		<EAN>8718951048553</EAN>
-		<Quantity>242</Quantity>
+		<Quantity>241</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10403,7 +10388,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0214</MPN>
 		<Description>Άρωμα: Αιθέρια Έλαια Άνθη ΠασχαλιάςΠοσότητα: 1ltΤεμάχια: 1</Description>
 		<EAN>8718951337718</EAN>
-		<Quantity>598</Quantity>
+		<Quantity>597</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10753,7 +10738,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>510</Quantity>
+		<Quantity>505</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10767,7 +10752,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>03301791</MPN>
 		<Description>Φαράσι σε πράσινο χρώμα της εταιρείας Cyclops, κατάλληλο για την περισυλλογή των απορριμμάτων κατά το σκούπισμα. Είναι κατασκευασμένο από πλαστικό, ένα υλικό ιδιαίτερα ανθεκτικό και οικονομικό. Διαθέτει λάστιχο για να διευκολύνει τη συλλογή της σκόνης και των μικρών ρύπων καθώς και τη συγκράτησή τους μέσα σε αυτό.</Description>
 		<EAN>5202707004878</EAN>
-		<Quantity>132</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10851,7 +10836,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
 		<EAN>5204170300570</EAN>
-		<Quantity>375</Quantity>
+		<Quantity>374</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10966,7 +10951,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>E-1655</MPN>
 		<Description>Συρματάκι ιδανικό για την κουζίνα αλλά και για λείανση επιφανειών.</Description>
 		<EAN>5203642116558</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11023,7 +11008,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.05 kg</Weight>
 		<Description>Η λούφα σιλικόνης είναι ιδανική για τον καθαρισμό και τον απολέπιση του δέρματος. Εξαιρετικά μαλακή στην επαφή με το δέρμα, βοηθά στην απομάκρυνση νεκρών κυττάρων και την προώθηση της κυκλοφορίας του αίματος. Το στρογγυλό σχήμα της διευκολύνει την πρόσβαση σε διάφορες περιοχές του σώματος.</Description>
 		<EAN>5202707988321</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11344,7 +11329,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1620</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλουν στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστοι. Σημαντικό πλεονέκτημα τους είναι το γεγονός πως δεν αφήνουν οσμή, ενώ διακρίνονται για την ασφαλή τους χρήση.    Τεμάχια: 48τμχ</Description>
 		<EAN>5207043000614</EAN>
-		<Quantity>2350</Quantity>
+		<Quantity>2335</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11402,7 +11387,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
 		<EAN>5205376018993</EAN>
-		<Quantity>2586</Quantity>
+		<Quantity>2578</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11486,7 +11471,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>Ε-1735</MPN>
 		<Description>Κερί μνήμης διάρκειας 6 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
 		<EAN>5203642117357</EAN>
-		<Quantity>185</Quantity>
+		<Quantity>173</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11500,7 +11485,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0850</MPN>
 		<Description>Το κερί αφιέρωσης από πλαστικό της εταιρείας Bispol είναι βραδύκαυστο και μεγάλης διάρκειας. Η παραφίνη δίνει σταθερή διάρκεια καύσης και έτσι παραμένει αναμμένο για μεγάλο χρονικό διάστημα.</Description>
 		<EAN>5906927007656</EAN>
-		<Quantity>705</Quantity>
+		<Quantity>675</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11514,7 +11499,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0244</MPN>
 		<Description>Το κερί αφιέρωσης από πλαστικό της εταιρείας Bispol είναι βραδύκαυστο και μεγάλης διάρκειας. Η παραφίνη δίνει σταθερή διάρκεια καύσης και έτσι παραμένει αναμμένο για μεγάλο χρονικό διάστημα. Η διάρκεια ζωής του φτάνει περίπου τις 3,5 ημέρες.</Description>
 		<EAN>5906927004068</EAN>
-		<Quantity>636</Quantity>
+		<Quantity>630</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11883,7 +11868,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0162</MPN>
 		<Description>Με αρωματικό Lime προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Το αρωματικό Lime προσθέτει ένα δροσερό και φρουτώδες άρωμα, δημιουργώντας ένα ευχάριστο περιβάλλον. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<EAN>5207043001536</EAN>
-		<Quantity>585</Quantity>
+		<Quantity>579</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12300,7 +12285,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN> E-30461</MPN>
 		<Description>Το ψαλίδι κουζίνας της εταιρείας Sidirela με μήκος 21cm, είναι κατάλληλο για καθημερινή χρήση, σε όλες τις βασικές εργασίες προετοιμασίας φαγητού. Ιδανικό να τεμαχίσει φρούτα, λαχανικά, κρέας και άλλα, άμεσα και γρήγορα.</Description>
 		<EAN>5203642130462</EAN>
-		<Quantity>63</Quantity>
+		<Quantity>64</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12454,7 +12439,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1433</MPN>
 		<Description>Το Cyclops Fresco Δοχείο Φαγητού είναι ένα πρακτικό σετ 3 τεμαχίων σε βεραμάν χρώμα, ιδανικό για καθημερινή χρήση. Είναι κατασκευασμένο από ανθεκτικό πλαστικό, κατάλληλο για φούρνο μικροκυμάτων, προσφέροντας ευκολία στη θέρμανση και αποθήκευση φαγητού. Με μοντέρνο σχεδιασμό και εύκολη καθαριότητα, αποτελεί μια εξαιρετική επιλογή για το σπίτι ή το γραφείο.</Description>
 		<EAN>5202707007244</EAN>
-		<Quantity>24</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13006,7 +12991,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0400</MPN>
 		<Description>Οι οδοντογλυφίδες με σελοφάν προσφέρουν αποτελεσματικό και βολικό τρόπο για τον καθαρισμό των δοντιών σας. Με το σελοφάν που καλύπτει κάθε οδοντογλυφίδα, μπορείτε να διατηρείτε την υγιεινή στο στόμα σας ακόμα και όταν βρίσκεστε καθοδόν. Το πακέτο με 1000 τεμάχια εξασφαλίζει μακράς διαρκείας προμήθεια για τις καθημερινές σας ανάγκες υγιεινής του στόματος.</Description>
 		<EAN>5202054212858</EAN>
-		<Quantity>142</Quantity>
+		<Quantity>141</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13112,7 +13097,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1125</MPN>
 		<Description>Η πετσέτα κουζίνας της εταιρείας Flamingo είναι κατάλληλη για να σκουπίζετε τα πιάτα, απορροφά την υγρασία, καθαρίζει επιφάνειες, στεγνώνει βότανα και λαχανικά και σας βοηθάει να κρατάτε με ασφάλεια ζεστά πιάτα και μαγειρικά σκεύη.Φροντίδα: Συνιστάται πλύσιμο με ζεστό νερό για την εξάλειψη των βακτηρίων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Αποφύγετε τη χρήση μαλακτικού, καθώς το μαλακτικό δημιουργεί ένα στρώμα στις ίνες του υφάσματος, καθιστώντας έτσι πιο δύσκολη την απορρόφηση της υγρασίας. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
 		<EAN>5206952011223</EAN>
-		<Quantity>372</Quantity>
+		<Quantity>371</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13382,7 +13367,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 </Description>
 		<EAN>5203642112291</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13771,7 +13756,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 250ml.</Description>
 		<EAN>5203124503005</EAN>
-		<Quantity>2744</Quantity>
+		<Quantity>2743</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14020,7 +14005,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0147</MPN>
 		<Description>• Σκεύος Pet με ενσωματωμένο καπάκι, παραλληλόγραμμο.• Χωρητικότητα: 500cc• Διαστάσεις: 13x12cm• Ύψος: 5cm• Συσκευασία: 100 τεμάχια</Description>
 		<EAN>promitheas-15202054466449</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14426,7 +14411,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<EAN>5202054036188</EAN>
-		<Quantity>520</Quantity>
+		<Quantity>519</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14501,7 +14486,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1569</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας HOMie, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 38εκ.    Μήκος(εκατοστά): 42εκ.    Τεμάχια: 18τμχ</Description>
 		<EAN>5202887031831</EAN>
-		<Quantity>1238</Quantity>
+		<Quantity>1237</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14613,7 +14598,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<EAN>5207243085343</EAN>
-		<Quantity>1133</Quantity>
+		<Quantity>1193</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14821,7 +14806,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Typotrust Σπιράλ Τετράδιο Ριγέ Α4 90 Φύλλων 3 Θεμάτων Academy (Διάφορα Σχέδια/Χρώματα)</Name>
 		<URL>https://www.skroutz.gr/s/19939325/Typotrust-Spiral-Tetradio-Rige-A4-90-Fyllon-3-THematon-Academy-Diafora-Schedia-CHromata-4543-11.html?product_id=204994030</URL>
 		<Image>https://typotrust.gr/wp-content/uploads/2014/10/4553-11-ACADEMY.jpg</Image>
-		<Price>3.02</Price>
+		<Price>2.82</Price>
 		<Category>Σχολικά Τετράδια</Category>
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>4543-11</MPN>
@@ -15252,7 +15237,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1416</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Ετικέτα: Διπλής όψης    Χαρτόνι &amp; PP 2mm    Ράχη: 4cm    Μεταλλικές γωνίες    Διαστάσεις: 32x29.5cm</Description>
 		<EAN>5203358035174</EAN>
-		<Quantity>30</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15322,7 +15307,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<EAN>5203358500344</EAN>
-		<Quantity>6471</Quantity>
+		<Quantity>6459</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15999,7 +15984,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 </Description>
 		<EAN>5207227113253</EAN>
-		<Quantity>200</Quantity>
+		<Quantity>199</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16619,7 +16604,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1624</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Διατομή Καλωδίου: 3x1.5mm²    Μήκος: 25m    Τάση: 250V    Βαθμός στεγανότητας: IP20</Description>
 		<EAN>5205308280160</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16661,7 +16646,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1660</MPN>
 		<Description>Αλκαλικές μπαταρίες μεγέθους AAA, ιδανικές για τηλεχειριστήρια, φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
 		<EAN>5207227115493</EAN>
-		<Quantity>398</Quantity>
+		<Quantity>396</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16747,7 +16732,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1612</MPN>
 		<Description>Η μπαταρία λιθίου της Eurolamp, είναι κατάλληλη για την τροφοδοσία μικρών φορητών ηλεκτρονικών συσκευών, όπως ρολόγια χειρός, κλειδιά αυτοκινήτων και άλλα πολλά. Οι μπαταρίες λιθίου μπορούν να χρησιμοποιηθούν στη θέση των συνηθισμένων αλκαλικών μπαταριών σε πολλές συσκευές, όπως ρολόγια και κάμερες. Αν και είναι πιο δαπανηρές, οι κυψέλες λιθίου παρέχουν μεγαλύτερη διάρκεια ζωής, ελαχιστοποιώντας έτσι την αντικατάσταση της μπαταρίας. Ωστόσο, πρέπει να δοθεί προσοχή στην υψηλότερη τάση που αναπτύσσεται από τις μπαταρίες λιθίου πριν χρησιμοποιηθούν ως ανταλλακτικά σε συσκευές που συνήθως χρησιμοποιούν συνηθισμένες μπαταρίες ψευδαργύρου.Οι ουσίες που περιέχει μία μικρή μπαταρία είναι ικανές να ρυπάνουν 1 κυβικό μέτρο χώμα ή 400 κυβικά μέτρα νερό. Η μπαταρία μπορεί να έχει αδειάσει, έχει ακόμη όμως σημαντικά συστατικά. Γι' αυτό το λόγο πρέπει να βρίσκουμε ειδικούς κάδους συλλογής και να την ανακυκλώνουμε, ώστε ο "κύκλος ζωής" της μπαταρίας να συνεχιστεί. Με αυτό τον τρόπο, τα βασικά στοιχεία της ανακυκλώνονται και παράγονται νέες μπαταρίες ή άλλα προϊόντα.    Μέγεθος: CR2032    Voltage: 3V    Συσκευασία: 1τμχ</Description>
 		<EAN>5207227267628</EAN>
-		<Quantity>287</Quantity>
+		<Quantity>285</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16859,7 +16844,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1776</MPN>
 		<Description>Αλκαλικές μπαταρίες ΑΑ της Maxell κατάλληλες για φακούς, παιχνίδια, τηλεχειριστήρια, αριθμομηχανές κι άλλες μικροσυσκευές.</Description>
 		<EAN>4902580163761</EAN>
-		<Quantity>1166</Quantity>
+		<Quantity>1165</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17187,7 +17172,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Ένδειξη υπερφόρτωσης 
     Ένδειξη χαμηλής μπαταρίας</Description>
 		<EAN>5901299914151</EAN>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17313,7 +17298,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.7 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<EAN>5901299949849</EAN>
-		<Quantity>66</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17417,7 +17402,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1628</MPN>
 		<Description>Θερμάστρα υγραερίου μανιτάρι 14kW με κάλυψη χώρου έως 20m².</Description>
 		<EAN>5207227003257</EAN>
-		<Quantity>8</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17513,7 +17498,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Θερμοκρασία εργασίας: 0° C - 40° C
     Διαστάσεις: 54.5x32x3cm</Description>
 		<EAN>5901299954935</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18346,7 +18331,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
     Καλώδιο δεδομένων υψηλής ισχύος TypeC σε TypeC 240W
 </Description>
 		<EAN>6920680855995</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18509,7 +18494,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 		<MPN>CA1T4-B01</MPN>
 		<Description>Καλώδιο φόρτισης κινητών και τάμπλετ με 4 βύσματα, 1 Micro USB, 1 Lighting και 2 Type-C.</Description>
 		<EAN> 6953156278493</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18696,7 +18681,7 @@ XO-EP57
 
 Τα ακουστικά Bluetooth XO Q4 έχουν μεγάλο χρόνο εργασίας - έως και 4,5 ώρες συνεχούς αναπαραγωγής μουσικής ή κλήσεων. Αυτό τα καθιστά εξαιρετική επιλογή για όσους τους αρέσει να ακούν μουσική εν κινήσει ή έξω και τριγύρω. Η υψηλή ποιότητα ήχου και η άνετη χρήση καθιστούν τα ακουστικά Bluetooth ιδανική επιλογή για όσους θέλουν να απολαύσουν τον ποιοτικό ήχο και την άνεση των ασύρματων ακουστικών.</Description>
 		<EAN>6920680842995</EAN>
-		<Quantity>40</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19497,7 +19482,7 @@ XO-EP57
 
 </Description>
 		<EAN>6920680872596</EAN>
-		<Quantity>123</Quantity>
+		<Quantity>122</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19903,7 +19888,7 @@ Silicon Power - USB Stick Silicon Power</Description>
 		<MPN>WA860RE</MPN>
 		<Description>Μια εύχρηστη και βολική συσκευή που θα σας επιτρέπει να επεκτείνετε το δίκτυό σας. Κατάλληλο για οικιακούς και επαγγελματικούς χώρους, είναι σε θέση να ενισχύσει το σήμα του ασύρματου δικτύου σας και να καλύψει τις νεκρές ζώνες που μέχρι πρότινος ήταν εκτός εμβέλειας.</Description>
 		<EAN>6935364071158</EAN>
-		<Quantity>48</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20507,7 +20492,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>1 kg</Weight>
 		<Description>Η λευκή ζάχαρη της εταιρείας Royal Sugar σε κρυσταλλική μορφή, είναι το γλυκό προϊόν που προκύπτει μετά απο επεξεργασία, προκειμένου να αφαιρεθεί εντελώς η μελάσα και να μείνουν μόνο οι λευκοί καθαροί κρύσταλλοι. Ένα κουταλάκι του γλυκού (5 γραμμάρια) αποδίδει 16 θερμίδες.</Description>
 		<EAN>5200120912039</EAN>
-		<Quantity>9495</Quantity>
+		<Quantity>9475</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20567,7 +20552,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.5 kg</Weight>
 		<Description>Μεσόσπερμο ρύζι με μεγάλους λευκούς κόκκους και έντονο γαλακτερό χρώμαστο κέντρο του. Η βασική ιδιότητα του ρυζιού αυτού είναι η μεγάλη ικανότητα του να απορροφά τα λίπη απελευθερώνοντας παράλληλα το άμυλο του κάνοντας το κατάλληλο για φαγητά φούρνου αλλά και ριζότο.</Description>
 		<EAN>5212006201007</EAN>
-		<Quantity>645</Quantity>
+		<Quantity>633</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20822,7 +20807,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.4 kg</Weight>
 		<Description>Ξίδι της εταιρείας ΤΖΩΝ ΤΟΠ, το οποίο παράγεται από κόκκινο κρασί και είναι ιδανικό για σαλάτες, όσπρια ή χοιρινό κρέας. Το οξικό οξύ που περιέχει το ξίδι επιβραδύνει την πέψη των υδατανθράκων και αυξάνει την απορρόφηση της γλυκόζης. Η διαδικασία έχει ως αποτέλεσμα μικρότερες ποσότητες γλυκόζης στο αίμα και διατήρηση υγιών επιπέδων σακχάρου. Είναι πλούσιο σε αντιοξειδωτικά που προστατεύουν το σώμα από βλάβες του δέρματος και μολύνσεις. Επίσης ωφελεί την υγεία της καρδιάς και μειώνει τα επίπεδα χοληστερόλης, προλαμβάνει τη φλεγμονή και τη δημιουργία θρόμβων και ρυθμίζει την αρτηριακή πίεση.</Description>
 		<EAN>5202737200332</EAN>
-		<Quantity>336</Quantity>
+		<Quantity>312</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20882,7 +20867,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.2 kg</Weight>
 		<Description>Οι κύβοι χρησιμοποιούνται κυρίως για να ενισχύσουν τη γεύση του φαγητού σας και να αναδείξουν τα αρώματά του.Συσκευασία των 120 γραμμαρίων.</Description>
 		<EAN>8711200468782</EAN>
-		<Quantity>43</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21077,7 +21062,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>12 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 12 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270030080</EAN>
-		<Quantity>14</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22009,7 +21994,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
 		<EAN>8007520011549</EAN>
-		<Quantity>907</Quantity>
+		<Quantity>895</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
