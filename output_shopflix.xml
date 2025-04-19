@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-19 11:31</created_at>
+	<created_at>2025-04-19 11:33</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1966,7 +1966,7 @@
 	</product>
 	<product>
 		<SKU>20201-Τ</SKU>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 0.5lt</Name>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
 		<URL>https://www.skroutz.gr/s/29351601/Vikos-Fysiko-Metalliko-Nero-0-5lt.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/029351/29351601/20210608120227_vikos_metalliko_nero_0_5lt_1tmch.jpeg</Image>
 		<Price>0.16</Price>
@@ -1981,7 +1981,7 @@
 	</product>
 	<product>
 		<SKU>20203-Τ</SKU>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 1.5lt</Name>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
 		<URL>https://www.skroutz.gr/s/33524215/Vikos-Fysiko-Metalliko-Nero-1-5lt.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/033524/33524215/20220120104552_vikos_fysiko_metalliko_nero_fysiko_1_5lt.jpeg</Image>
 		<Price>0.32</Price>
@@ -1996,7 +1996,7 @@
 	</product>
 	<product>
 		<SKU>20401-Τ</SKU>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 0.5lt</Name>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
 		<URL>https://www.skroutz.gr/s/56543006/Ioli-Fysiko-Metalliko-Nero-0-5lt.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/045569/45569537/20230906100530_ioli_fysiko_metalliko_nero_0_5lt.jpeg</Image>
 		<Price>0.16</Price>
@@ -2011,7 +2011,7 @@
 	</product>
 	<product>
 		<SKU>20403-Τ</SKU>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 1.5lt</Name>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
 		<URL>https://www.skroutz.gr/s/56543005/Ioli-Fysiko-Metalliko-Nero-1-5lt.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/040395/40395559/20230117165555_ioli_fysiko_metalliko_nero_1_5lt.jpeg</Image>
 		<Price>0.32</Price>
@@ -2026,7 +2026,7 @@
 	</product>
 	<product>
 		<SKU>20601-Τ</SKU>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt</Name>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
 		<URL>https://www.skroutz.gr/s/34680568/Zagori-Fysiko-Metalliko-Nero-0-5lt.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/034680/34680568/xlarge_20220318114308_zagori_fysiko_metalliko_nero_0_5lt.jpeg</Image>
 		<Price>0.16</Price>
@@ -2040,7 +2040,7 @@
 	</product>
 	<product>
 		<SKU>20603-Τ</SKU>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt</Name>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
 		<URL>https://www.skroutz.gr/s/26743304/Zagori-Fysiko-Metalliko-Nero-1-5lt.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/026743/26743304/xlarge_20210122155227_zagori_fysiko_metalliko_nero_1_5lt_1tmch.jpeg</Image>
 		<Price>0.32</Price>
@@ -3131,21 +3131,6 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>46353</SKU>
-		<Name>Vaios Ganis Organic Wines Βιολογικό Κρασί Arx Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/56287329/Vaios-Ganis-Organic-Wines-Viologiko-Krasi-Erythro-Xiro-750ml-5200115630139.html</URL>
-		<Image>https://www.oiniko.gr/image/cache/catalog/products/arx-erithro-ksiro-ganis-960x1440.webp</Image>
-		<Price>6.02</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>GANIS</Manufacturer>
-		<MPN>1240</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Ερυθρός Ξηρός Βιολογικός &amp;Vegan Οίνο,Προστατευόμενη Γεωγραφική Ενδειξη Φθιώτιδα</Description>
-		<EAN>5200115630139</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>46356</SKU>
 		<Name>Vaios Ganis Organic Wines Βιολογικό Κρασί Μυθικό Βασίλειο Ροδίτης Αλεπού Λευκό Ξηρό Orange 750ml</Name>
 		<URL>https://www.skroutz.gr/s/25328661/Vaios-Ganis-Organic-Wines-Viologiko-Krasi-Mythiko-Vasileio-Roditis-Alepou-Leyko-Xiro-Orange-750ml.html</URL>
@@ -4140,7 +4125,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 Η δροσιστική γεύση του ισορροπεί με την ενσωματωμένη οξύτητα, χαρακτηριστική της ποικιλίας και με την λιπαρή και βουτυρένια αίσθηση που προέρχεται από την παραμονή του σε δρύινα βαρέλια. 
 
 Η μακριά του επίγευση διαθέτει έντονη την αίσθηση της αλμύρας και της ορυκτότητας που προσδίδουν τα ηφαιστειογενή εδάφη της Σαντορίνης. </Description>
-		<EAN>5203133121214</EAN>
+		<EAN>5203133222225</EAN>
 		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -5980,7 +5965,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Bianconero Λευκό Ξηρό 187ml</Name>
 		<URL>https://www.skroutz.gr/s/4774796/Tsililis-Krasi-Bianconero-Leyko-Xiro-200ml.html</URL>
 		<Image>https://wineoutlet.gr/wp-content/uploads/2023/03/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF-%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AF%CF%84%CE%BB%CE%BF-80.webp</Image>
-		<Price>2.06</Price>
+		<Price>2.08</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0002</MPN>
@@ -5995,7 +5980,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Bianconero Ροζέ Ξηρό 187ml</Name>
 		<URL>https://www.skroutz.gr/s/24047791/Tsililis-Krasi-Bianconero-Roze-Xiro-Imiafrodes-187ml.html</URL>
 		<Image>https://cavamikrohorio.com/wp-content/uploads/2021/10/tsililis-bianconero-rosedry-1.jpg</Image>
-		<Price>2.06</Price>
+		<Price>2.08</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0003</MPN>
@@ -6010,7 +5995,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Bianconero Ερυθρό Ξηρό 187ml</Name>
 		<URL>https://www.skroutz.gr/s/24420378/Tsililis-Krasi-Bianconero-Erythro-Xiro-187ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024420/24420378/20200818104108_tsililis_bianconero_erythro_187ml.jpeg</Image>
-		<Price>2.06</Price>
+		<Price>2.08</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0004</MPN>
@@ -6025,7 +6010,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Bianconero Μοσχάτο Αμβούργου Λευκό Ημίξηρο Αφρώδες 200ml</Name>
 		<URL>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</URL>
 		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4355-1200x1200.jpg</Image>
-		<Price>2.85</Price>
+		<Price>2.91</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0005</MPN>
@@ -6040,7 +6025,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Μοσχάτο Αμβούργου Ροζέ Ημίξηρο Αφρώδες 200ml</Name>
 		<URL>https://www.skroutz.gr/s/52650429/Tsililis-Krasi-Moschato-Amvourgou-Roze-Imixiro-Afrodes-200ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/049450/49450007/20240125020937_bianconero_afrodis_oinos_roze_200ml.jpeg</Image>
-		<Price>2.85</Price>
+		<Price>2.91</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0006</MPN>
@@ -10743,6 +10728,28 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>740550101</SKU>
+		<Name>Λεκάνη Σιλικόνης Πτυσσόμενη 55x25x22εκ. Χωρητικότητας 30lt Γκρι/Λευκή E-0349 </Name>
+		<URL>https://www.sidirela.gr/nea-proionta/kalathi-plyntirioy-ptyssomeno/?attribute_pa_kivotologio=6tmch-kiv-2</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/059759/59759172/fixedratio_20250409160146_sidirela_e_0349_kalathi_aplyton_ptyssomeno_55x25x22cm.jpeg</Image>
+		<Price>8.93</Price>
+		<Category>Λεκάνες Πλυσίματος</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0349 </MPN>
+		<Description>Λεκάνη σιλικόνης, κατάλληλη για την μπουγάδα σας αλλά και για κάθε άλλη χρήση. 
+Είναι πτυσσόμενη με πολύ μικρό ύψος όταν είναι κλειστή, διευκολύνοντας την αποθήκευση της. 
+Διαθέτει λαβές για εύκολη μεταφορά.
+Μπορείτε να την τοποθετήσετε στο μπάνιο σας, κοντά στο πλυντήριο ή οπουδήποτε σας βολεύει ώστε να έχετε εύκολη πρόσβαση. 
+Είναι πολύ ανθεκτική στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.
+
+    Μήκος: 55cm
+    Πλάτος: 25cm
+    Ύψος: 22cm</Description>
+		<EAN>5203642103497</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>74111</SKU>
 		<Name>ΚΥΚΛΩΨ ΦΑΡΑΣΙ ΚΟΥΜΠΩΤΟ ΜΕ ΛΑΣΤΙΧΟ</Name>
 		<URL>https://www.skroutz.gr/s/55501348/Cyclops-Farasi-Plastiko-me-Lasticho-Prasino-03301791.html?product_id=215299746</URL>
@@ -12290,6 +12297,61 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>762206002</SKU>
+		<Name>Sidirela Χάλκινο Παραδοσιακό Μπρίκι με Ξύλινη Λαβή 200ml Ε-3711</Name>
+		<URL>https://www.skroutz.gr/s/32895407/Sidirela-No2-Mpriki-CHalkino-200ml-E-3711.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/032895/32895407/xlarge_20220322113051_sidi_home_no2_mpriki_chalkino_200ml_e_3711.jpeg</Image>
+		<Price>5.31</Price>
+		<Category>Μπρίκια</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3711</MPN>
+		<Description>Το μπρίκι για χόβολη χρησιμοποιείται κυρίως για την παρασκευή ελληνικού καφέ. Τοποθετείται πάνω σε στάχτη από κάρβουνα και άμμο, διατηρώντας την φωτιά αναμμένη, και έτσι ο καφές αργοψήνεται.
+
+Είναι κατασκευασμένο από χαλκό, ένα υλικό με υψηλή θερμική αγωγιμότητα, που παρέχει ένα εύκολο και γρήγορο ψήσιμο. Έχει την ιδιότητα να θερμαίνεται ομοιόμορφα και βαθμιαία.
+
+Είναι ανθεκτικό και μπορεί να χρησιμοποιηθεί απευθείας πάνω σε ανοιχτή φωτιά, σε τζάκι, σε εστίες υγραερίου, αλλά και ηλεκτρικές εστίες.</Description>
+		<EAN>5203642137119</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762206003</SKU>
+		<Name>Sidirela Χάλκινο Παραδοσιακό Μπρίκι με Ξύλινη Λαβή 250ml  Ε-3712</Name>
+		<URL>https://www.skroutz.gr/s/32895371/Sidirela-No3-Mpriki-CHalkino-250ml-E-3712.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/032895/32895371/xlarge_20220322113051_sidi_home_no3_mpriki_chalkino_250ml_e_3712.jpeg</Image>
+		<Price>5.81</Price>
+		<Category>Μπρίκια</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3712</MPN>
+		<Description>ο μπρίκι της εταιρείας Sidirela είναι κατασκευασμένο από χαλκό, ένα υλικό με υψηλή θερμική αγωγιμότητα, που παρέχει ένα εύκολο και γρήγορο ψήσιμο. Έχει την ιδιότητα να θερμαίνεται ομοιόμορφα και βαθμιαία. Είναι ανθεκτικό και μπορεί να χρησιμοποιηθεί:
+
+    Απευθείας πάνω σε ανοιχτή φωτιά
+    Σε τζάκι
+    Σε εστίες υγραερίου
+    Σε ηλεκτρικές εστίες
+
+Χωρητικότητα: 250ml</Description>
+		<EAN>5203642137126</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762206005</SKU>
+		<Name>Sidirela Χάλκινο Παραδοσιακό Μπρίκι με Ξύλινη Λαβή 350ml Ε-3714</Name>
+		<URL>https://www.skroutz.gr/s/31551750/Sidirela-Mpriki-CHovolis-CHalkino-350ml-E-3714.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/031551/31551750/xlarge_20211007144333_sidi_home_mpriki_chalkino_e_3714_350ml.jpeg</Image>
+		<Price>7.31</Price>
+		<Category>Μπρίκια</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3714</MPN>
+		<Description>Το μπρίκι της εταιρείας Sidirela είναι κατασκευασμένο από χαλκό, ένα υλικό με υψηλή θερμική αγωγιμότητα, που παρέχει ένα εύκολο και γρήγορο ψήσιμο. Έχει την ιδιότητα να θερμαίνεται ομοιόμορφα και βαθμιαία. Είναι ανθεκτικό και μπορεί να χρησιμοποιηθεί απευθείας πάνω σε ανοιχτή φωτιά, σε τζάκι, σε εστίες υγραερίου, αλλά και ηλεκτρικές εστίες.
+
+Χωρητικότητα: 350ml</Description>
+		<EAN>5203642137140</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>76231</SKU>
 		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Ορθογώνιο Κοραλί Κατάλληλο για Φούρνο Μικροκυμάτων 1200ml</Name>
 		<URL>https://www.skroutz.gr/s/20252502/Cyclops-Fresco-Docheio-Fagitou-Plastiko-Roz-Katallilo-gia-Fourno-Mikrokymaton-1200ml-003301862.html</URL>
@@ -12472,20 +12534,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>763011</SKU>
-		<Name>Cyclops Μπολ Στρογγυλό Πλαστικό 10Ø×5cm 250ml Ροζ</Name>
-		<URL>https://www.skroutz.gr/s/56505651/Cyclops-Mpol-Servirismatos-Strogylo-Plastiko-Roz-1436-5202707009248.html</URL>
-		<Image>https://i.imgur.com/3wjgzJl.jpeg</Image>
-		<Price>0.325770816</Price>
-		<Category>Μπωλ Σερβιρίσματος</Category>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1436</MPN>
-		<Description>Διάσταση τεμ. (cm): 10,00 Ø x 5,00 - 0,25 lt</Description>
-		<EAN>promitheas-5202707009248</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>763012</SKU>
 		<Name>Cyclops Μπολ Στρογγυλό Πλαστικό 10Ø×5cm 250ml Βεραμάν</Name>
 		<URL>https://www.skroutz.gr/s/55284392/Cyclops-Mpol-Servirismatos-Strogylo-Plastiko-Gri-003302071-5202707009248.html</URL>
@@ -12496,20 +12544,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1437</MPN>
 		<Description>Διάσταση τεμ. (cm): 10,00 Ø x 5,00 - 0,25 lt</Description>
 		<EAN>promitheas1-5202707009248</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>76302</SKU>
-		<Name>Cyclops Μπωλ Σερβιρίσματος Πλαστικό Μπλε Με Διάμετρο 13cm 500ml</Name>
-		<URL>https://www.skroutz.gr/s/55053079/Cyclops-Mpol-Servirismatos-Strogylo-Plastiko-Mple-500ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/055053/55053079/fixedratio_20240724104157_cyclops_mpol_servirismatos_strogylo_plastiko_mple_5202707995756.jpeg</Image>
-		<Price>0.4343610880000001</Price>
-		<Category>Μπωλ Σερβιρίσματος</Category>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1438</MPN>
-		<Description>Μπωλ σερβιρίσματος σε στρογγυλό σχήμα της εταιρείας Cyclops, κατάλληλο για να σερβίρετε ορεκτικά, σνάκ, φρούτα και γλυκά. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.</Description>
-		<EAN>5202707995756</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -12525,20 +12559,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Μπωλ σερβιρίσματος σε στρογγυλό σχήμα της εταιρείας Cyclops, κατάλληλο για να σερβίρετε ορεκτικά, σνάκ, φρούτα και γλυκά. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.</Description>
 		<EAN>promitheas-5202707995756</EAN>
 		<Quantity>1</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>763022</SKU>
-		<Name>Cyclops Μπωλ Σερβιρίσματος Πλαστικό Βεραμάν Με Διάμετρο 13cm 500ml</Name>
-		<URL>https://www.skroutz.gr/s/55053078/Cyclops-Mpol-Servirismatos-Strogylo-Plastiko-Prasino-500ml.html</URL>
-		<Image>https://s3.praktiker.gr/myPraktiker.Images/Products/136990/gallery/27664/PS_609079_01_L.jpg</Image>
-		<Price>0.4343610880000001</Price>
-		<Category>Μπωλ Σερβιρίσματος</Category>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1440</MPN>
-		<Description>Μπωλ σερβιρίσματος σε στρογγυλό σχήμα της εταιρείας Cyclops, κατάλληλο για να σερβίρετε ορεκτικά, σνάκ, φρούτα και γλυκά. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.</Description>
-		<EAN>promitheas1-5202707995756</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12654,20 +12674,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>763061</SKU>
-		<Name>Cyclops Σαλατιέρα Πλαστική Ροζ 27.5x27.5x13.1cm 5Lt</Name>
-		<URL>https://www.skroutz.gr/s/31009081/Cyclops-Salatiera-Plastiki-Roz-27-5x27-5x13-1cm.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/031009/31009081/fixedratio_20220512141826_cyclops_salatiera_plastiki_roz_27_5x27_5x13_1cm.jpeg</Image>
-		<Price>1.6071360256</Price>
-		<Category>Σαλατιέρες</Category>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1449</MPN>
-		<Description>Σαλατιέρα της εταιρείας Cyclops σε μπλε χρώμα, ιδανική λύση για το καθημερινό σας τραπέζι χάρη στο ελαφρύ και ανθεκτικό υλικό της. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Μήκος: 27.5cmΠλάτος: 27.5cmΎψος: 13.1cm</Description>
-		<EAN>promitheas-5202707060232</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>763062</SKU>
 		<Name>Cyclops Σαλατιέρα Πλαστική Βεραμάν 27.5x27.5x13.1cm 5Lt</Name>
 		<URL>https://www.skroutz.gr/s/56515047/Cyclops-Salatiera-Plastiki-Veraman-27-5x27-5x13-1cm-1450.html</URL>
@@ -12679,20 +12685,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Σαλατιέρα της εταιρείας Cyclops σε μπλε χρώμα, ιδανική λύση για το καθημερινό σας τραπέζι χάρη στο ελαφρύ και ανθεκτικό υλικό της. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Μήκος: 27.5cmΠλάτος: 27.5cmΎψος: 13.1cm</Description>
 		<EAN>promitheas1-5202707060232</EAN>
 		<Quantity>19</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>763121</SKU>
-		<Name>Cyclops Πιάτο Ρηχό Πλαστικό Ροζ με Διάμετρο 23cm</Name>
-		<URL>https://www.skroutz.gr/s/53883474/Cyclops-Piato-Richo-Plastiko-Roz-me-Diametro-23cm-003301740-5202707003499.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/053883/53883474/fixedratio_20240527173324_cyclops_piato_richo_plastiko_roz_me_diametro_23cm_003301740_5202707003499.jpeg</Image>
-		<Price>0.7601319039999999</Price>
-		<Category>Πιάτα Σερβιρίσματος</Category>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1451</MPN>
-		<Description>Πιάτο ρηχό της εταιρείας Cyclops, το οποίο αποτελεί το πιο βασικό είδος πιάτου αφού το χρησιμοποιούμε συνηθέστερα μέσα στη μέρα μας. Μπορείτε να σερβίρετε οποιοδήποτε είδος φαγητού, και έχει το κατάλληλο μέγεθος για να χωρέσει κάθε κυρίως γεύμα με την αντίστοιχη γαρνιτούρα. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χρώμα: Ροζ</Description>
-		<EAN>5202707003499</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12749,20 +12741,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Πιάτο ρηχό της εταιρείας Cyclops, το οποίο αποτελεί το πιο βασικό είδος πιάτου αφού το χρησιμοποιούμε συνηθέστερα μέσα στη μέρα μας. Μπορείτε να σερβίρετε οποιοδήποτε είδος φαγητού, και έχει το κατάλληλο μέγεθος για να χωρέσει κάθε κυρίως γεύμα με την αντίστοιχη γαρνιτούρα. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χρώμα: Πράσινο</Description>
 		<EAN>5202707003918</EAN>
 		<Quantity>15</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>76321</SKU>
-		<Name>Cyclops Ποτήρι από Πλαστικό σε Μπλε Χρώμα 380ml</Name>
-		<URL>https://www.skroutz.gr/s/48323376/Cyclops-Potiri-apo-Plastiko-se-Mple-CHroma-380ml-003301832.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/048323/48323376/fixedratio_20240517155926_cyclops_potiri_apo_plastiko_se_mple_chroma_380ml_003301832.jpeg</Image>
-		<Price>0.7058367680000001</Price>
-		<Category>Ποτήρια</Category>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1456</MPN>
-		<Description>Ποτήρι νερού της εταιρείας Cyclops, κατάλληλο για νερό, χυμούς, γάλα και οποιοδήποτε άλλο ρόφημα. Μπορεί επίσης να χρησιμοποιηθεί στην καθημερινότητα σαν μονάδα μέτρησης υγρών που προσθέτουμε στις μαγειρικές δημιουργίες.• Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χωρητικότητα: 380mlΧρώμα: Μπλε</Description>
-		<EAN>5202707004663</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13047,6 +13025,105 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
     Διαστάσεις: 30cm x 30cm</Description>
 		<EAN>5203642113557</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001201</SKU>
+		<Name>Μεταλλική Παπουτσοθήκη με 3 Ράφια Μαύρο / Φυσικό 63x30x63cm E-3294</Name>
+		<URL>https://www.skroutz.gr/s/21477441/Metalliki-Papoutsothiki-me-3-Rafia-Mayro-Fysiko-E-3294-63x30x63cm.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/058389/58389258/fixedratio_20220401130309_ca234a89.jpeg</Image>
+		<Price>19.82</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3294</MPN>
+		<Description>Παπουτσοθήκη-μικροέπιπλο δαπέδου με μεταλλική βάση και ξύλινη επιφάνεια.</Description>
+		<EAN>5203642132947</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>770012111</SKU>
+		<Name>Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Γκρι Χρώμα E-02061</Name>
+		<URL>https://www.skroutz.gr/s/40607787/Xylini-Papoutsothiki-E-0206-me-2-Rafia-Gri-60x24x80cm.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/040607/40607787/fixedratio_20230208131834_xylini_papoutsothiki_e_0206_me_2_rafia_gri_60x24x80cm.jpeg</Image>
+		<Price>33.69</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-02061</MPN>
+		<Description>Η παπουτσοθήκη της εταιρείας Sidirela διαθέτει 4 ράφια για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι κατασκευασμένη από MDF (ινοσανίδα), ένα παράγωγο ξύλου από κομμάτια, ίνες και υπολείμματα ξύλου. Τέλος, το προϊόν παραδίδεται αμοντάριστο, σε εργοστασιακή συσκευασία και με αναλυτικό οδηγό συναρμολόγησης.
+Συντήρηση
+
+Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
+		<EAN>5203642102063</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>770012112</SKU>
+		<Name>Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Καφέ Χρώμα E-02062</Name>
+		<URL>https://www.skroutz.gr/s/58625759/Xylini-Papoutsothiki-60x25x80cm-E-0206.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/058625/58625759/fixedratio_20250205144413_xylini_papoutsothiki_60x25x80cm_e_0206.jpeg</Image>
+		<Price>33.69</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-02062</MPN>
+		<Description>Η παπουτσοθήκη της εταιρείας Sidirela διαθέτει 4 ράφια για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι κατασκευασμένη από MDF (ινοσανίδα), ένα παράγωγο ξύλου από κομμάτια, ίνες και υπολείμματα ξύλου. Τέλος, το προϊόν παραδίδεται αμοντάριστο, σε εργοστασιακή συσκευασία και με αναλυτικό οδηγό συναρμολόγησης.
+Συντήρηση
+
+Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
+		<EAN>5203642102063</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>770012151</SKU>
+		<Name>Ντουλάπι Μπάνιου Ξύλινο Βamboo Μ55xΒ20xΥ83cm σε Φυσικό Χρώμα Ξύλου E-4243</Name>
+		<URL>https://www.skroutz.gr/s/57608062/Sidirela-E-4243-Ntoulapi-Mpaniou-M55xV20xY83cm-Fysiko-Xylo.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/057608/57608062/xlarge_20241122145223_sidirela_e_4243_ntoulapi_mpaniou_m55xv20xy83cm_fysiko_xylo.jpeg</Image>
+		<Price>39.64</Price>
+		<Category>Ντουλάπια Μπάνιου</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-4243</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    με 2 ράφια μοντέρνας αισθητικής
+    3 επίπεδα αποθήκευσης
+    2 πόρτες
+    Διαστάσεις: 56 x 20 x 81 cm</Description>
+		<EAN>5203642142434</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>770012201</SKU>
+		<Name>Συρταριέρα-Κομοδίνο από Ξύλο, Μέταλλο &amp; Ύφασμα με 3 Συρτάρια Μ45xΠ29xΥ70εκ. E-3919</Name>
+		<URL>https://www.skroutz.gr/s/33080457/Syrtariera-Apothikeysis-apo-Xylo-Metallo-Yfasma-me-3-Syrtaria-E-3919-M45xP29xY70ek.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/073670/73670678/fixedratio_20230330113756_d511dd6e.jpeg</Image>
+		<Price>28.74</Price>
+		<Category>Συρταριέρες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3919</MPN>
+		<Description>    Με μεταλλικό σκελετό
+    Ξύλινη επιφάνεια mdf
+    3 Συρτάρια κλειστής αποθήκευσης</Description>
+		<EAN>5203642139199</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>770012251</SKU>
+		<Name>Ανοξείδωτη Μεταλλική βάση για βαλίτσες Υ70xΠ55xΒ46cm E-3197</Name>
+		<URL>https://www.skroutz.gr/s/27549450/Sidirela-Mpagaziera-Metalliki-E-3197-Y70xP55xV46cm.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/027549/27549450/xlarge_20210310084846_sidi_home_mpagaziera_metalliki_e_3197.jpeg</Image>
+		<Price>27.25</Price>
+		<Category>Μπαγκαζιέρες Ξενοδοχείου</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN> E-3197</MPN>
+		<Description>    Βάση για βαλίτσα μεταλλική Sidirela
+    Πτυσσόμενη
+    Διαστάσεις ανοιχτή: 56x48x72εκ.
+    Διαστάσεις κλειστή: 56x13x88εκ.</Description>
+		<EAN>5203642131971</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -15285,7 +15362,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>7949901</SKU>
-		<Name>Θερμική Χαρτοταινία Ταμειακής Π57xΔ40mm με Μήκος 15m</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π57xΔ40mm με Μήκος 15m (Η συσκευασία περιέχει 14 τεμάχια και το κιβώτιο 8 συσκευασίες)</Name>
 		<URL>https://www.skroutz.gr/s/50350885/Typotrust-THermiki-CHartotainia-Tameiakis-P57xD40mm-me-Mikos-15m-48gr-m2-5005740.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/050350/50350885/20240516091744_typotrust_thermiki_chartotainia_tameiakis_p57xd40mm_me_mikos_25m_48gr_m_5005740.jpeg</Image>
 		<Price>0.183489755904</Price>
@@ -15299,7 +15376,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>7949902</SKU>
-		<Name>Θερμική Χαρτοταινία Ταμειακής Π57xΔ50mm με Μήκος 25m</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π57xΔ50mm με Μήκος 25m (Η συσκευασία περιέχει 12 τεμάχια και το κιβώτιο 6 συσκευασίες)</Name>
 		<URL>https://www.skroutz.gr/s/56739276/Various-THermiki-CHartotainia-Tameiakis-P57xD50mm-me-Mikos-25m-48gr-m2-5005750.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/056739/56739276/20241009092923_various_thermiki_chartotainia_tameiakis_p57xd50mm_me_mikos_25m_48gr_m_5005750.jpeg</Image>
 		<Price>0.27836746223104</Price>
@@ -15313,7 +15390,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>7949903</SKU>
-		<Name>Θερμική Χαρτοταινία Ταμειακής Π80xΔ80mm με Μήκος 65m</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π80xΔ80mm με Μήκος 65m (Η συσκευασία περιέχει 6 τεμάχια και το κιβώτιο 6 συσκευασίες)</Name>
 		<URL>https://www.skroutz.gr/s/56739213/Various-THermiki-CHartotainia-Tameiakis-P80xD80mm-me-Mikos-65m-48gr-m2-5008080.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/056739/56739213/20241009092715_various_thermiki_chartotainia_tameiakis_p80xd80mm_me_mikos_65m_48gr_m_5008080.jpeg</Image>
 		<Price>1.0172203548416</Price>
@@ -16996,6 +17073,56 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 Μέγεθος: 138x96x178</Description>
 		<EAN>5999097983646</EAN>
 		<Quantity>20</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>797511101</SKU>
+		<Name>Επιτραπέζιο επαναφορτιζόμενο Διακοσμητικό Φωτιστικό LED Μπαταρίας Μαύρο E-45371</Name>
+		<URL>https://www.skroutz.gr/s/56436293/Sidirela-Epitrapezio-Diakosmitiko-Fotistiko-LED-Mpatarias-Mayro-E-4537.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/056436/56436293/fixedratio_20240924131634_sidirela_epitrapezio_diakosmitiko_fotistiko_led_mpatarias_mayro_e_4537.jpeg</Image>
+		<Price>6.79</Price>
+		<Category>Διακοσμητικά Φωτιστικά</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-45371</MPN>
+		<Description>ΠΕΡΙΓΡΑΦΗ
+
+    Μέγεθος: 11Χ11Χ32cm
+    Υλικό: ABS αλουμίνιο και PS
+    Μπαταρία: Επαναφορτιζόμενη Li-ion 18650, 1200mAh
+    Τάση: 3.7V
+    LEDs: 5+12
+    Καλώδιο: 50cm micro USB
+    Λειτουργία φόρτισης: μέσω καλωδίου USB
+    Κουμπί εναλλαγής: στο επάνω μέρος της λάμπας
+    Αδιάβροχο: Όχι
+</Description>
+		<EAN>5203642145374</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>797511102</SKU>
+		<Name>Επιτραπέζιο επαναφορτιζόμενο Διακοσμητικό Φωτιστικό LED Μπαταρίας Λευκό E-45372</Name>
+		<URL>https://www.skroutz.gr/s/55754954/Sidirela-Epitrapezio-Diakosmitiko-Fotistiko-LED-Mpatarias-Leyko-E-4537.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/055754/55754954/fixedratio_20240905090811_sidirela_epitrapezio_diakosmitiko_fotistiko_led_mpatarias_leyko_e_4537.jpeg</Image>
+		<Price>6.79</Price>
+		<Category>Διακοσμητικά Φωτιστικά</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-45372</MPN>
+		<Description>ΠΕΡΙΓΡΑΦΗ
+
+    Μέγεθος: 11Χ11Χ32cm
+    Υλικό: ABS αλουμίνιο και PS
+    Μπαταρία: Επαναφορτιζόμενη Li-ion 18650, 1200mAh
+    Τάση: 3.7V
+    LEDs: 5+12
+    Καλώδιο: 50cm micro USB
+    Λειτουργία φόρτισης: μέσω καλωδίου USB
+    Κουμπί εναλλαγής: στο επάνω μέρος της λάμπας
+    Αδιάβροχο: Όχι
+</Description>
+		<EAN>5203642145374</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
