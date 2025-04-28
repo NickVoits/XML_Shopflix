@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-28 16:05</created_at>
+	<created_at>2025-04-28 16:47</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -88,7 +88,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Mc Farland είναι μια Ιρλανδική red ale με υπέροχο κόκκινο χρώμα. Αρώματα και γεύσεις κόκκινων φρούτων, καραμέλας, βύνης και γαρίφαλου εναλλάσσονται και ξεσηκώνουν. Το στόμα είναι γεμάτο και συγχρόνως ελαφρύ με ένα γλυκόπικρο τελείωμα πλούσιο σε toffee.</Description>
 		<EAN>8006890623246</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -677,7 +677,7 @@
 	</product>
 	<product>
 		<SKU>12011</SKU>
-		<Name>COCA COLA 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Coca Cola Classic με Ανθρακικό Φιάλη 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/45739164/Coca-Cola-Anapsyktiko-me-Anthrakiko-Mpoukali-1500ml.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/2/125780_1_2_1.jpg</Image>
 		<Price>1.79</Price>
@@ -692,7 +692,7 @@
 	</product>
 	<product>
 		<SKU>120118</SKU>
-		<Name>COCA COLA ZERO 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Coca Cola Zero με Ανθρακικό Χωρίς Ζάχαρη Φιάλη 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24252948/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Mpoukali-1500ml.html?product_id=204993870</URL>
 		<Image>https://ngt.gr/wp-content/uploads/2023/09/Coca-Cola-Zero-1500ml.jpg</Image>
 		<Price>1.82</Price>
@@ -703,6 +703,60 @@
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000133335</EAN>
 		<Quantity>380</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>12012</SKU>
+		<Name>Sprite Γκαζόζα με Ανθρακικό σε Μπουκάλι 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<URL>https://www.skroutz.gr/s/45661617/Sprite-Gazoza-me-Anthrakiko-se-Mpoukali-1500ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/045661/45661617/xlarge_20230908223946_sprite_sprite_1_5_lt_0_30.jpeg</Image>
+		<Price>1.78</Price>
+		<Category>Αναψυκτικά</Category>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>272001</MPN>
+		<Description>H Sprite είναι το πιο δροσιστικό αναψυκτικό της The Coca-Cola Company. Η καθαρότητα, η αυθεντικότητα και ο δυναμικός χαρακτήρας της Sprite ενθαρρύνει τους νέους να εκφράζονται όπως πραγματικά νιώθουν και να ενεργούν ανάλογα. Μια παγωμένη Sprite απολαμβάνεται καλύτερα στον ελεύθερο χρόνο των νέων και γίνεται ο καλύτερος σύντροφος την ώρα του video gaming. Η Sprite είναι η τέλεια πρόταση για τους καταναλωτές που θέλουν να ξεδιψάσουν με την αυθεντική και δροσιστική γεύση Lemon-Lime της Sprite.</Description>
+		<EAN>5449000012203</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>12014</SKU>
+		<Name>Fanta Πορτοκαλάδα με Ανθρακικό 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<URL>https://www.skroutz.gr/s/58910165/Fanta-Portokalada-18541-1500ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/058910/58910165/xlarge_20250224164642_fanta_portokalada_18541_1500ml.jpeg</Image>
+		<Price>1.78</Price>
+		<Category>Αναψυκτικά</Category>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>272002</MPN>
+		<Description>COCA COLA 1,5L ΑΝΑΨΥΚΤΙΚΌ
+
+Συστατικά:
+
+    Nερό
+    Διοξείδιο ’νθρακα
+    Χρωστική: E150d
+    Γλυκαντικά: Κυκλαμικό Νάτριο, Ακεσουλφάμη Κ και Ασπαρτάμη
+    Μέσο Οξίνισης: Φωσφορικό Οξύ
+    Φυσικές Aρωματικές Ύλες (περιέχουν καφεΐνη)
+    Ρυθμιστής Οξύτητας: Κιτρικό Νάτριο
+
+Περιέχει πηγή Φαινυλαλανίνης.</Description>
+		<EAN>5449000052926</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>12015</SKU>
+		<Name>Fanta Λεμονάδα με Ανθρακικό 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<URL>https://www.skroutz.gr/s/24679486/Fanta-Lemonada-me-Anthrakiko-se-Mpoukali-1500ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/024679/24679486/xlarge_20220217095529_fanta_lemonada_me_anthrakiko_1500ml.jpeg</Image>
+		<Price>1.78</Price>
+		<Category>Αναψυκτικά</Category>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>272003</MPN>
+		<Description>Η Fanta Λεμονάδα περιέχει 7% χυμό λεμονιού, αρώματα φυσικού λεμονιού και ανθρακικό.
+Συστατικά
+
+Νερό, Φυσικές Ζαχαρούχες Γλυκαντικές Ύλες: Ζάχαρη/Ισογλυκόζη, Χυμός Λεμονιού (7%) από συμπυκνωμένο χυμό, Διοξείδιο Άνθρακα, Μέσο Οξίνισης: Κιτρικό Οξύ, Ρυθμιστής Οξύτητας: Κιτρικό Νάτριο, Συντηρητικά: Σορβικό Κάλιο, Αντιοξειδωτικά: Ασκορβικό Οξύ, Φυσικές Αρωματικές Ύλες Λεμονιού</Description>
+		<EAN>5449000052599</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -732,7 +786,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>573</Quantity>
+		<Quantity>571</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -767,7 +821,7 @@
 	</product>
 	<product>
 		<SKU>12022-Τ</SKU>
-		<Name>Sprite Κουτί Γκαζόζα με Ανθρακικό 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Sprite Γκαζόζα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24519788/Sprite-Kouti-Gazoza-me-Anthrakiko-330ml.html</URL>
 		<Image>https://www.marnellos.gr/image/cache/catalog/sprite-1200x1200.jpg</Image>
 		<Price>0.71</Price>
@@ -782,7 +836,7 @@
 	</product>
 	<product>
 		<SKU>12023-Τ</SKU>
-		<Name>Schweppes Κουτί Σόδα με Ανθρακικό 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Schweppes Σόδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24772553/Schweppes-Kouti-Soda-me-Anthrakiko-330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024772/24772553/20220217095529_schweppes_soda_330ml.jpeg</Image>
 		<Price>0.45</Price>
@@ -797,7 +851,7 @@
 	</product>
 	<product>
 		<SKU>120232-Τ</SKU>
-		<Name>Schweppes Κουτί Σόδα Pink Grapefruit με Ανθρακικό 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Schweppes Σόδα Pink Grapefruit με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24519960/Schweppes-Kouti-Soda-Pink-Grapefruit-me-Anthrakiko-330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024519/24519960/20220217094919_schweppes_soda_pink_grapefruit_330ml.jpeg</Image>
 		<Price>0.75</Price>
@@ -812,7 +866,7 @@
 	</product>
 	<product>
 		<SKU>120233-Τ</SKU>
-		<Name>Schweppes Κουτί Σόδα Ρόδι με Ανθρακικό 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Schweppes Σόδα Ρόδι με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/36060112/Schweppes-Kouti-Soda-Rodi-me-Anthrakiko-330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/036060/36060112/20220518110240_schweppes_soda_rodi_330ml.jpeg</Image>
 		<Price>0.75</Price>
@@ -827,7 +881,7 @@
 	</product>
 	<product>
 		<SKU>12024-Τ</SKU>
-		<Name>Fanta Κουτί Πορτοκαλάδα με Ανθρακικό 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Fanta Πορτοκαλάδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24519939/Fanta-Kouti-Portokalada-me-Anthrakiko-330ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024519/24519939/20200827115333_fanta_portokalada_me_anthrakiko_330ml.jpeg</Image>
 		<Price>0.71</Price>
@@ -842,7 +896,7 @@
 	</product>
 	<product>
 		<SKU>12025-Τ</SKU>
-		<Name>Fanta Κουτί Λεμονάδα με Ανθρακικό 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
+		<Name>Fanta Λεμονάδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24773232/Fanta-Kouti-Lemonada-me-Anthrakiko-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024773/24773232/20210319160717_fanta_lemonada_330ml.jpeg</Image>
 		<Price>0.65</Price>
@@ -1137,7 +1191,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>4363</Quantity>
+		<Quantity>4357</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1466,7 +1520,7 @@
 		<MPN>1782</MPN>
 		<Description>Ενεργειακό ποτό με ελαφριά γεύση και ισορροπημένη γλυκύτητα, το οποίο δεν περιέχει ζάχαρη ή θερμίδες. </Description>
 		<EAN>5060337501125</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1511,7 +1565,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908000020</EAN>
-		<Quantity>4075</Quantity>
+		<Quantity>4073</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1541,7 +1595,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000068</EAN>
-		<Quantity>3960</Quantity>
+		<Quantity>3958</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1556,7 +1610,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<EAN>5202908000037</EAN>
-		<Quantity>1654</Quantity>
+		<Quantity>1652</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1616,7 +1670,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000174</EAN>
-		<Quantity>386</Quantity>
+		<Quantity>384</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2517,7 +2571,7 @@
 	</product>
 	<product>
 		<SKU>40203</SKU>
-		<Name>ΑΣΚΟΣ ΤΥΡΝΑΒΟΥ ΗΜΙΓΛΥΚΟΣ 10000ml (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Τυρνάβου Κρασί Ερυθρό Ημίγλυκο σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/54211036/Tyrnavou-Krasi-Erythro-Imiglyko-10000ml-5202037114117.html</URL>
 		<Image>https://www.oinognosia.wine/wp-content/uploads/2018/10/44735405_483472058806749_4527573812694220800_n.jpg</Image>
 		<Price>26.1</Price>
@@ -2532,7 +2586,7 @@
 	</product>
 	<product>
 		<SKU>40204</SKU>
-		<Name>ΑΣΚΟΣ ΜΟΣΧΑΤΟ ΜΑΥΡΟ ΤΥΡΝΑΒΟΥ ΛΕΥΚΟ 10000ml (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Τυρνάβου Κρασί Λευκό σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/54216891/Tyrnavou-Krasi-Leyko-Xiro-10000ml.html</URL>
 		<Image>https://www.kavakonstantakopoulos.gr/images/thumbs/0004045.jpeg</Image>
 		<Price>23.06</Price>
@@ -4412,7 +4466,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κτήμα Θεόπετρα Λευκός Οίνος 750ml</Name>
 		<URL>https://www.skroutz.gr/s/49712052/Tsililis-Ktima-THeopetra-Leykos-Oinos-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/049712/49712052/20240129150351_tsililis_ktima_theopetra_leykos_oinos_750ml.jpeg</Image>
-		<Price>10.59</Price>
+		<Price>9.63</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1338</MPN>
@@ -4426,13 +4480,37 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Λημνιώνα Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774738/Tsililis-Viologiko-Krasi-Theopetra-Estate-Limniona-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774738/20200314141120_tsililis_ktima_theopetra_limniona_erythro_750ml.jpeg</Image>
-		<Price>17.04</Price>
+		<Price>15.49</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339</MPN>
 		<Description>Το Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Λημνιώνα Ερυθρό Ξηρό 750ml είναι ένα βιολογικό ερυθρό κρασί υψηλής ποιότητας, φτιαγμένο από την ελληνική ποικιλία Λημνιώνα. Παράγεται στο Κτήμα Θεόπετρα με βιολογικές καλλιέργειες, προσφέροντας πλούσιο άρωμα κόκκινων φρούτων, μπαχαρικών και γήινων τόνων. Με ισορροπημένη οξύτητα και βελούδινη υφή, αυτό το κρασί είναι ιδανικό για συνοδεία ψητών κρεάτων, πλούσιων σαλτσών και ώριμων τυριών. Αποτελεί μια εξαιρετική επιλογή για τους λάτρεις των βιολογικών και αυθεντικών ελληνικών κρασιών.</Description>
 		<EAN>5202548507279</EAN>
 		<Quantity>24</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47889202</SKU>
+		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Ξινόμαυρο Ροζέ Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/18928621/Tsililis-Viologiko-Krasi-Theopetra-Estate-Xinomayro-Roze-Xiro-750ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/018928/18928621/xlarge_20200804102238_tsililis_theopetra_xinomayro_roze_750ml.jpeg</Image>
+		<Price>12.56</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<MPN>1339001</MPN>
+		<Description>Ανακαλύψτε την εξαιρετική ποιότητα του βιολογικού κρασιού Τσιλιλής από την περιοχή του Theopetra, το οποίο προσφέρει μια μοναδική γεύση και απόλαυση. Το ροζέ κρασί, σε μορφή ξηρού, φέρνει μαζί του τη φρεσκάδα και την κομψότητα που χαρακτηρίζει την ποικιλία Ξινόμαυρο.
+
+    Το Χρώμα του κρασιού είναι ροζέ, προσφέροντας μία ελκυστική και φωτεινή απόχρωση στο ποτήρι.
+    Η ποικιλία Ξινόμαυρο είναι γνωστή για τον πλούσιο χαρακτήρα και τα αρώματα που εκφράζουν την ελληνική γη.
+    Με Ξηρότητα χαρακτηριστική του τύπου του, αυτό το κρασί περιέχει ελάχιστα σάκχαρα, προσφέροντας μια έντονη οξύτητα και γεμάτο σώμα που συνοδεύει τέλεια κρέατα, ζυμαρικά και τυριά.
+    Η Κατάσταση του είναι ήπια, που σημαίνει ότι δεν έχει ανθρακικό και προσφέρει μια απαλή υφή και ισορροπημένη γεύση, κατάλληλο για κάθε περίσταση.
+    Η Ποσότητα περιέχει 750 ml, ιδανικά για συντροφιά ή για να μοιραστείτε με φίλους και οικογένεια.
+    Προέρχεται από Ελλάδα, συνδυάζοντας την παράδοση και τον εκσυγχρονισμό της ελληνικής αμπελουργίας.
+    Επίσης, είναι Βιολογικό προϊόν, γεγονός που εξασφαλίζει ότι παράγεται με φυσικές μεθόδους, ενισχύοντας τη γεύση και την ποιότητά του.
+
+Το βιολογικό κρασί Τσιλιλής είναι η τέλεια επιλογή για τους λάτρεις του καλού κρασιού και για κάθε γιορτινή ή καθημερινή στιγμή. Αφήστε τον εαυτό σας να απολαύσει τις μοναδικές γεύσεις του!</Description>
+		<EAN>5202548507118</EAN>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4535,7 +4613,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>51301</SKU>
-		<Name>Ισίδωρου Αρβανίτη Ούζο Πλωμαρίου 200ml</Name>
+		<Name>Ούζο Πλωμαρίου Ισίδωρου Αρβανίτη 200ml</Name>
 		<URL>https://www.skroutz.gr/s/4912589/Isidorou-Arvaniti-Ouzo-Plomariou-200ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004912/4912589/20180817110405_isidorou_arvaniti_ouzo_plomariou_200ml.jpeg</Image>
 		<Price>3.83</Price>
@@ -4549,7 +4627,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>51303</SKU>
-		<Name>Ισίδωρου Αρβανίτη Ούζο Πλωμαρίου 700ml</Name>
+		<Name>Ούζο Πλωμαρίου Ισίδωρου Αρβανίτη 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4912585/Isidorou-Arvaniti-Ouzo-Plomariou-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004912/4912585/20211014132330_isidorou_arvaniti_ouzo_plomariou_700ml.jpeg</Image>
 		<Price>12.19</Price>
@@ -4562,8 +4640,38 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>51401</SKU>
+		<Name>Ούζο MINI Μυτιλήνης 40% 200ml</Name>
+		<URL>https://www.skroutz.gr/s/5265197/EPOM-Ouzo-MINI-Mytilinis-40-200ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/005265/5265197/xlarge_20210210125058_epom_ouzo_mini_mytilinis_200ml.jpeg</Image>
+		<Price>3.27</Price>
+		<Category>ΟΥΖΑ</Category>
+		<Manufacturer>ΕΠΟΜ</Manufacturer>
+		<MPN>1421101</MPN>
+		<Description>Το ούζο ΜΙΝΙ παράγεται στη Μυτιλήνη με επιλεγμένο γλυκάνισο αποκλειστικά από το Λισβόρι που φημίζεται ότι είναι ο καλύτερος γλυκάνισος στον κόσμο. Τα αρωματικά φυτά, το κρυστάλλινο νερό του νησιού, η αγάπη και το μεράκι των ανθρώπων που το παράγουν, κάνουν το ούζο ΜΙΝΙ Μυτιλήνης εξαιρετικά μαλακό και γλυκόπιοτο.</Description>
+		<EAN>5201304120011</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>51403</SKU>
+		<Name>Ούζο MINI Μυτιλήνης 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5265196/EPOM-Ouzo-MINI-Mytilinis-40-700ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/005265/5265196/xlarge_102-60003.jpg</Image>
+		<Price>10.72</Price>
+		<Category>ΟΥΖΑ</Category>
+		<Manufacturer>ΕΠΟΜ</Manufacturer>
+		<MPN>1421102</MPN>
+		<Description>Στα στενά σοκάκια της Μυτιλήνης όπου ο αέρας μοσχοβολούσε από αρωματικά βότανα, γεννήθηκε το Ούζο ΜΙΝΙ Μυτιλήνης.
+
+17 μυστικές συνταγές συνδυάστηκαν σε μία, που κρύβει μέσα της την απέραντη γνώση και εμπειρία των δημιουργών της.
+
+Με ρίζες βαθιά στη γη της Μυτιλήνης, το Ούζο ΜΙΝΙ Μυτιλήνης ταξιδεύει σε κάθε γωνιά της Ελλάδας, σε κάθε τόπο όπου υπάρχει Έλληνας, σε στεριά και θάλασσα...</Description>
+		<EAN>5201304100013</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>51801</SKU>
-		<Name>Πιτσιλαδή Ούζο 200ml</Name>
+		<Name>Ούζο Πιτσιλαδή 42% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5265126/Pitsiladi-Ouzo-200ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005265/5265126/20200622151629_pitsiladi_ouzo_plomariou_200ml.jpeg</Image>
 		<Price>6.06</Price>
@@ -5060,6 +5168,34 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>55001</SKU>
+		<Name>Johnnie Walker Ουίσκι Σκωτίας Blended Red Label 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/4782331/Johnnie-Walker-Oyiski-Skotias-Blended-Red-Label-40-700ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004782/4782331/xlarge_Jhonnie_20Walker_20Red_20Label_20070_40g.jpg</Image>
+		<Price>19.27</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Johnnie Walker</Manufacturer>
+		<MPN>167101</MPN>
+		<Description>Το ουίσκι Johnnie Walker Red Label αναδεικνύει τη σπιρτάδα των μπαχαρικών και προσφέρει δυναμικά αρώματα καπνού. Αποτελεί ένα blended malt που συνδυάζει τα ελαφριά ουίσκι των ανατολικών ακτών της Σκωτίας με τα πιο τυρφώδη των δυτικών ακτών, δημιουργώντας μια βαθιά γεύση.
+
+Έχει αρωματικά καρυκεύματα κανέλας και πιπεριού, με μια υποψία φρουτένιας γλυκιάς γεύσης, όπως του πράσινου μήλου και του αχλαδιού και μια ελαφριά στρώση βανίλιας.</Description>
+		<EAN>5000267014203</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55002</SKU>
+		<Name>Cutty Sark Ουίσκι Blended Blend 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/4929369/Cutty-Sark-Oyiski-Elladas-Blended-Blend-40-700ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/004929/4929369/xlarge_20181005164444_cutty_sark_blend_oyiski_700ml.jpeg</Image>
+		<Price>18.24</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Cutty Sark</Manufacturer>
+		<MPN>167102</MPN>
+		<Description>Δημιουργήθηκε το 1923, φέρνοντας μια επανάσταση στην παράδοση των ουίσκι αφού είναι το πρώτο που φτιάχτηκε για να αναμειγνύεται, οδηγώντας τους barmen σε μια περιπέτεια ανακάλυψης νέων cocktails. Απλό και ισορροπημένο, το Cutty Sark είναι το τέλειο blended whisky για πριν το φαγητό. Ζωηρό με αρώματα βοτάνων και ξηρών φρούτων και καρπών. Ελαφρύ και δροσερό με νότες καραμέλας στην επίγευση.</Description>
+		<EAN>5010504100095</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>55003</SKU>
 		<Name>Famous Grouse Ουίσκι Blended 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4902132/Famous-Grouse-Oyiski-Blended-40-700ml.html</URL>
@@ -5071,6 +5207,50 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<EAN>5010314700003</EAN>
 		<Quantity>164</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55004</SKU>
+		<Name>Grant's Ουίσκι Σκωτίας Blended 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/23363199/Grant-s-Oyiski-Skotias-Blended-40-700ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/023363/23363199/xlarge_20211101164516_grant_s_oyiski_700ml.jpeg</Image>
+		<Price>17.27</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Grant's</Manufacturer>
+		<MPN>1492001</MPN>
+		<Description>Το Grant’s δημιουργήθηκε το 1898 από τον William Grant. Δημιουργείται από περίπου 25 από τα καλύτερα σκωτσέζικα malt και grain ουίσκι με αρώματα που θυμίζουν μέλι, λεμόνι και ελαφριά αίσθηση καπνού. Στο στόμα κυριαρχούν γεύσεις που θυμίζουν βανίλια και δημητριακά. Η επίγευση του είναι ευχάριστη, ομαλή και με απαλό χαρακτήρα.
+
+    Παραγωγός: Grants Distillery
+    Περιεχόμενο: 700ml 
+    Χώρα προέλευσης: Σκωτία 
+    Αλκοόλ: 40%</Description>
+		<EAN>5010327000404</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55005</SKU>
+		<Name>Ballantine's Ουίσκι Σκωτίας Blended Finest 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/53456595/Ballantine-s-Oyiski-Skotias-Blended-Finest-40-700ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/053456/53456595/xlarge_20240515002712_ballantine_s_oyiski_ballantine_s_finest_700_ml.jpeg</Image>
+		<Price>17.52</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Ballantine's</Manufacturer>
+		<MPN>1492002</MPN>
+		<Description>Η ιστορία του Ballantine’s ξεκινά το 1827, όταν ο George Ballantine άρχισε να διαθέτει επιλεγμένα ουίσκι από το κατάστημά του στο Εδιμβούργο της Σκοτίας. Συνέχισε δημιουργώντας τη δική του παραγωγή, ένα ουίσκι που τελειοποιήθηκε με το πέρασμα του χρόνου με αποτέλεσμα, το 1895, η Βασίλισσα Βικτωρία να του απονείμει την ανώτατη διάκριση ποιότητας. Με έντονο χρυσό χρώμα, άρωμα βανίλιας και δρύινων βαρελιών, με κρεμμώδη υφή, το Ballantines εκφράζει την ιδανική ισορροπία γεύσεων μεταξύ της βανίλιας, του ξύλου και της γεύσης από το μέλι, έχοντας ένα αναζωογονητικό τελείωμα που αφήνει μία αρμυρή επίγευση.</Description>
+		<EAN>5010106113127</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55006</SKU>
+		<Name>Dewar's Ουίσκι Σκωτίας Blended White Label 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/4901695/Dewar-s-Oyiski-Skotias-Blended-White-Label-40-700ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004901/4901695/xlarge_20211101164517_dewar_s_white_label_oyiski_700ml.jpeg</Image>
+		<Price>19.34</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Dewar's</Manufacturer>
+		<MPN>1492003</MPN>
+		<Description>ο Dewar’s White Label δημιουργήθηκε το 1889 από τον Master Blender του Dewar’s, AJ Cameron. Ένα μοναδικό blend με πάνω από 40 εξαιρετικά malt και grain ουίσκι που δημιουργούν ένα από τα πιο εκλεκτά ουίσκι στον κόσμο.</Description>
+		<EAN>5000277000906</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5099,6 +5279,47 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
 		<Quantity>164</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55009</SKU>
+		<Name>Teacher's Ουίσκι Σκωτίας Blended 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/48830105/Teacher-s-Oyiski-Skotias-Blended-40-700ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/048830/48830105/xlarge_20231215140651_teacher_s_oyiski_skotias_blended_40_700ml.jpeg</Image>
+		<Price>18.11</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Teacher's</Manufacturer>
+		<MPN>1494001</MPN>
+		<Description> Το Teacher`s αποτελείται από τριάντα έξι  διαφορετικά malt, με βάση το Ardmore &amp; το Glendronach malt, σε ανάμειξη με εκλεκτά grain ουίσκι, χαρίζοντας  του έντονο άρωμα, μεστή, μεταξένια γεύση  και καθαρή επίγευση. Η ισορροπία και η αρμονία, σε αυτό το ουίσκι, διασφαλίζονται εδώ και πάνω από 175 χρόνια.</Description>
+		<EAN>5010093259006</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55012</SKU>
+		<Name>Bushmills Ουίσκι Ιρλανδίας Blended Original 5 Ετών 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/4957073/Bushmills-Oyiski-Irlandias-Blended-Original-5-Eton-40-700ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/004957/4957073/xlarge_20200215210257_bushmills_original_oyiski_700ml.jpeg</Image>
+		<Price>20.42</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Bushmills</Manufacturer>
+		<MPN>1494002</MPN>
+		<Description>Το Bushmills Original παράγεται στο παλαιότερο αποστακτήριο της Ιρλανδίας και είναι ένα malt ουίσκι τριπλής απόσταξης με ελαφρύ, Ιρλανδέζικο, Grain ουίσκι. Έχει απαλό, φρουτώδες άρωμα με γλυκά μπαχαρικά και η γεύση του χαρακτηρίζεται από φρέσκα φρούτα και βανίλια.</Description>
+		<EAN>5055966800022</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55013</SKU>
+		<Name>Tullamore Dew Ουίσκι Ιρλανδίας Blended 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/4957069/Tullamore-Dew-Oyiski-Irlandias-Blended-40-700ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/004957/4957069/xlarge_20211101164519_tullamore_dew_oyiski_700ml.jpeg</Image>
+		<Price>21.31</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Tullamore</Manufacturer>
+		<MPN>1494003</MPN>
+		<Description>Το Tullamore D.E.W, είναι ένα ιρλανδέζικο blended ουίσκι, γνωστό για τον απαλό και "ευγενικό" του χαρακτήρα, που ωριμάζει σε βαρέλια bourbon και sherry. 
+
+Τα πιο χαρακτηριστικά του αρώματα είναι αυτά της βανίλιας, των εσπεριδοειδών και των ξηρών καρπών.  Στο στόμα είναι απαλό και πικάντικο. Απολαύστε το με πάγο.</Description>
+		<EAN>5011026108033</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5160,8 +5381,40 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>55101</SKU>
+		<Name>Absolut Βότκα Vodka 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/4848385/Absolut-Votka-Vodka-40-700ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/004848/4848385/xlarge_20211014133013_absolut_votka_700ml.jpeg</Image>
+		<Price>17.79</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Absolut</Manufacturer>
+		<MPN>1169001</MPN>
+		<Description>Η Absolut είναι ένα αγνό απόσταγμα βότκας με πλούσια γεύση και ευδιάκριτο τον χαρακτήρα του σιταριού, ακολουθούμενο από μια υποψία αποξηραμένων φρούτων. 
+
+Παρασκευάζεται στη Σουηδία, αποκλειστικά από φυσικά συστατικά και δεν περιέχει προσθήκη ζάχαρης.
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<EAN>7312040017683</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55102</SKU>
+		<Name>Stolichnaya Βότκα 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5354117/Stolichnaya-Votka-700ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/005354/5354117/xlarge_20211212235708_stolichnaya_votka_700ml.jpeg</Image>
+		<Price>17.83</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Stolichnaya</Manufacturer>
+		<MPN>1169002</MPN>
+		<Description>Η αυθεντική ρωσική βότκα Stolichnaya είναι διπλής απόσταξης και φιλτράρεται τέσσερις φορές σύμφωνα με την παραδοσιακή ρωσική μέθοδο. Έχει ισορροπημένη, μεταξένια γεύση και παράγεται από επιλεγμένα σιτηρά ανώτερης ποιότητας.
+
+Ο σίτος και το νερό διυλίζονται τριπλά με χρήση φιλτραρίσματος χαλαζία και ενεργού άνθρακα ώστε να δημιουργηθεί το τελικό απόσταγμα της Stolichnaya.</Description>
+		<EAN>4750021001376</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>55108</SKU>
-		<Name>FILANDIA VODKA 700ml</Name>
+		<Name>Finlandia Βότκα 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5438655/Finlandia-Votka-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005438/5438655/20211102201527_finlandia_votka_700ml.jpeg</Image>
 		<Price>17.03</Price>
@@ -5914,6 +6167,21 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Ανακαλύψτε τη Real Sangria, το απόλυτο καλοκαιρινό ποτό που σερβίρεται παγωμένο για να σας δροσίσει με κάθε γουλιά. Με ζωηρές και αρωματικές γεύσεις φρούτων, αυτό το ημίγλυκο λευκό κρασί προσφέρει μια γευστική εμπειρία που θα σας μαγέψει.Η Real Sangria είναι ιδανική για κάθε περίσταση και μπορεί να απογειωθεί με την προσθήκη φρέσκων φρούτων όπως πορτοκάλια, μήλα και ανανά. Αν θέλετε να πειραματιστείτε, προσθέστε λίγη λεμονάδα ή τζίντζερ για επιπλέον δροσιά και ζωντάνια.Απολαύστε τη Real Sangria με τα αγαπημένα σας μεξικάνικα πιάτα, όπως τάκος και νάτσος, και δείτε τις γεύσεις να αναδεικνύονται μοναδικά. Είναι επίσης ιδανική για να συνοδεύσει tapas, ξηρούς καρπούς, φρουτοσαλάτες και τάρτες φρούτων, ενώ αποτελεί εξαιρετική επιλογή για απεριτίφ.Γεμάτη γεύση, απαλή και ισορροπημένη, με μια γλυκιά επίγευση που θα σας κερδίσει, η Real Sangria είναι η τέλεια επιλογή για κάθε καλοκαιρινή στιγμή. Δοκιμάστε την και αφήστε τις αρωματικές γεύσεις φρούτων να σας παρασύρουν σε μια γευστική περιπέτεια.</Description>
 		<EAN>8410015700307</EAN>
 		<Quantity>89</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55953</SKU>
+		<Name>Sandeman Κρασί Fine Ruby Porto Ερυθρό Ημίξηρο 750ml</Name>
+		<URL>https://www.skroutz.gr/s/31730377/Sandeman-Krasi-Fine-Ruby-Porto-Erythro-Imixiro-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/031730/31730377/xlarge_20211018140331_sandeman_krasi_fine_ruby_porto_erythro_imixiro_750ml.jpeg</Image>
+		<Price>9.72</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Sandeman </Manufacturer>
+		<MPN>1161001</MPN>
+		<Description>Το Sandeman αποτελεί ένα κόκκινο κρασί το οποίο παράγεται με την παραδοσιακή μέθοδο των κρασιών Porto, καθώς ο τρύγος γίνεται με χειρονακτικό τρόπο. Τα κρασιά που επιλέγονται είναι μεταξύ 2-5 ετών, κάτι τέτοιο τους επιτρέπει η μέση ηλικία να είναι περίπου τα 3 χρόνια και παράλληλα να διατηρεί τη φρεσκάδα και τη νεότητα του. 
+
+Έχει ρουμπινί χρώμα με καθαρά αρώματα κόκκινων φρούτων, φράουλας, δαμάσκηνου. Στο στόμα κυριαρχεί και εκεί το πρωτογενές κόκκινο φρούτο, με ισορροπία στη γεύση. Ταιριάζει ιδανικά με κρεμώδη τυριά, σοκολάτα, ξηρούς καρπούς, τάρτες φρούτων και κόκκινα κρέατα.</Description>
+		<EAN>5601083001585</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8934,7 +9202,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<EAN>5200100281629</EAN>
-		<Quantity>6659</Quantity>
+		<Quantity>6658</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8978,7 +9246,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>RK.T2.2X330G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point διαθέτει δύο φύλλα και μικρό περφορέ. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού και στον καθημερινό σας βίο.</Description>
 		<EAN>5200100280394</EAN>
-		<Quantity>1758</Quantity>
+		<Quantity>1757</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9207,7 +9475,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<EAN>5201410964127</EAN>
-		<Quantity>1202</Quantity>
+		<Quantity>1200</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10262,7 +10530,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1752</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Bouquet 40gr προσφέρει άμεση και διαρκή καθαριότητα στη λεκάνη της τουαλέτας, ενώ το άρωμα bouquet γεμίζει το μπάνιο με ευχάριστες και λουλουδένιες νότες. Προστατεύει από τα άλατα και τις ακαθαρσίες, ενώ εξασφαλίζει φρεσκάδα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση, χαρίζοντας μακροχρόνια καθαριότητα και αρωματισμένο περιβάλλον.</Description>
 		<EAN>5908241708011</EAN>
-		<Quantity>307</Quantity>
+		<Quantity>306</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11128,7 +11396,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0535</MPN>
 		<Description>Είναι σχεδιασμένες για να προσφέρουν αποτελεσματική προστασία από τα κουνούπια. Με τη μοναδική τους σύνθεση, δημιουργούν ένα περιβάλλον όπου τα κουνούπια δεν επιθυμούν να πλησιάσουν. Κάθε συσκευασία περιέχει 30 ταμπλέτες, οι οποίες είναι εύκολες στη χρήση και διαρκούν για πολλές ώρες, προσφέροντας ανέσεις σε εξοχικές διακοπές, κάμπινγκ, ή απλά στο σπίτι.</Description>
 		<EAN>5201062008774</EAN>
-		<Quantity>243</Quantity>
+		<Quantity>242</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11796,6 +12064,24 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>758200101</SKU>
+		<Name>Sidirela Σακούλα Αποθήκευσης Χαλιών 42cmX2,5m 2τμχ E-0376</Name>
+		<URL>https://www.skroutz.gr/s/54924434/Sidirela-Sakoula-CHalion-42cm-E-0376-2tmch.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/057358/57358800/xlarge_20241107165234_sakoules_fylaxi_chalion_42cm_x250cm_2tem_1_6676.jpeg</Image>
+		<Price>0.25</Price>
+		<Category>Διάφορα Οικιακά Είδη</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0376</MPN>
+		<Description>Σακούλες φύλαξης χαλιών (2τμχ) 42cm x 250cm
+
+    Συσκευασία 2 τεμαχίων ανά πακέτο
+    Από υλικό HDPE μεγάλης αντοχής
+</Description>
+		<EAN>5203642103763</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>75821</SKU>
 		<Name>Servin Πλαστική Σακούλα Αποθήκευσης Ρούχων 50x35cm 10τμχ</Name>
 		<URL>https://www.skroutz.gr/s/36230576/Servin-Plastiki-Sakoula-Apothikeysis-Rouchon-50x35cm.html</URL>
@@ -11835,20 +12121,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Σακούλα προστασίας και αποθήκευσης παλτών.</Description>
 		<EAN>5214001231034</EAN>
 		<Quantity>59</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>75831</SKU>
-		<Name>Servin Πλαστική Σακούλα Αποθήκευσης Χαλιών (0,45 Χ 4,5m) 1τμχ</Name>
-		<URL>https://www.skroutz.gr/s/56286021/Servin-Sakoula-CHalion-450x45cm-0706.html</URL>
-		<Image>https://www.kalestimes.gr/images/thumbs/0803089_SERVIN-SAK-FYLAKSHS-XALIVN-0-45-X-4-5M-1-TEM-1.jpeg</Image>
-		<Price>0.3583478976</Price>
-		<Category>Διάφορα Οικιακά Είδη</Category>
-		<Manufacturer>SERVIN</Manufacturer>
-		<MPN>0706</MPN>
-		<Description>Στις καθημερινές δουλειές του σπιτιού η χρήση των HOMEBAGS σας λύνει τα χέρια. Τα ρολάκια HOMEBAGS είναι πολύ ανθεκτικά για την μεταφορά απορριμμάτων και για την φύλαξη των χαλιών σας.</Description>
-		<EAN>5214001231102</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14691,7 +14963,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<EAN>5207243085343</EAN>
-		<Quantity>1025</Quantity>
+		<Quantity>1020</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17388,7 +17660,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
     Πλάτος / Διάμετρος Καπέλου: 9cm
     Ύψος: 21cm</Description>
-		<EAN>5203642145381</EAN>
+		<EAN>5203642146432</EAN>
 		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -21253,7 +21525,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.4 kg</Weight>
 		<Description>Ξίδι της εταιρείας ΤΖΩΝ ΤΟΠ, το οποίο παράγεται από κόκκινο κρασί και είναι ιδανικό για σαλάτες, όσπρια ή χοιρινό κρέας. Το οξικό οξύ που περιέχει το ξίδι επιβραδύνει την πέψη των υδατανθράκων και αυξάνει την απορρόφηση της γλυκόζης. Η διαδικασία έχει ως αποτέλεσμα μικρότερες ποσότητες γλυκόζης στο αίμα και διατήρηση υγιών επιπέδων σακχάρου. Είναι πλούσιο σε αντιοξειδωτικά που προστατεύουν το σώμα από βλάβες του δέρματος και μολύνσεις. Επίσης ωφελεί την υγεία της καρδιάς και μειώνει τα επίπεδα χοληστερόλης, προλαμβάνει τη φλεγμονή και τη δημιουργία θρόμβων και ρυθμίζει την αρτηριακή πίεση.</Description>
 		<EAN>5202737200332</EAN>
-		<Quantity>251</Quantity>
+		<Quantity>250</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21298,7 +21570,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<EAN>5202737900218</EAN>
-		<Quantity>1166</Quantity>
+		<Quantity>1165</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21853,7 +22125,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.5 kg</Weight>
 		<Description>Ο τοματοχυμός πασσάτα απο την εταιρία Ρέα ελαφριάς συμπύκνωσης . Δεν περιέχει γλουτένη και άλλα αλλεργιογόνα ,έχει πολύ χαμηλή περιεκτικότητα σε αλάτι και είναι ιδανική για όλες τις γαστρονομικές δημιουργίες σας.</Description>
 		<EAN>5202908500018</EAN>
-		<Quantity>2542</Quantity>
+		<Quantity>2541</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21913,7 +22185,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.3 kg</Weight>
 		<Description>Τόνος της εταιρίας Campos, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Σημαντική πηγή πρωτεΐνης και ωμέγα 3 λιπαρών, ο τόνος ενισχύει τέλεια τις σαλάτες, φαγητά όπως τα ζυμαρικά ή και σάντουιτς.</Description>
 		<EAN>8410673001211</EAN>
-		<Quantity>130</Quantity>
+		<Quantity>129</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21973,7 +22245,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<EAN>6111260550359</EAN>
-		<Quantity>4751</Quantity>
+		<Quantity>4749</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
