@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-08 11:05</created_at>
+	<created_at>2025-05-08 12:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -774,7 +774,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>602</Quantity>
+		<Quantity>601</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -789,7 +789,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>365</Quantity>
+		<Quantity>364</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -894,7 +894,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<EAN>5449000214805</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -909,7 +909,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Λεμονάδα περιέχει 7% χυμό λεμονιού, αρώματα φυσικού λεμονιού και ανθρακικό.</Description>
 		<EAN>5449000214829</EAN>
-		<Quantity>26</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1389,7 +1389,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<EAN>5201309703172</EAN>
-		<Quantity>163</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1853,7 +1853,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000273</EAN>
-		<Quantity>469</Quantity>
+		<Quantity>467</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2092,7 +2092,7 @@
 		<MPN>130801</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080027</EAN>
-		<Quantity>15218</Quantity>
+		<Quantity>15212</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2329,7 +2329,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ημίγλυκη γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<EAN>15202548505319</EAN>
-		<Quantity>233</Quantity>
+		<Quantity>221</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2419,7 +2419,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413040181</EAN>
-		<Quantity>319</Quantity>
+		<Quantity>313</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2509,7 +2509,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<EAN>5202037115053</EAN>
-		<Quantity>269</Quantity>
+		<Quantity>268</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2800,7 +2800,7 @@
 		<MPN>1616</MPN>
 		<Description>Λευκός οίνος ποικιλίας Viognier με απαλό λεμονί χρώμα και χρυσές ανταύγειες. Στην μύτη έχει αρώματα ώριμου βερίκοκου και λευκόσαρκου ροδάκινου, πλαισιωμένο από κομψά αρώματα δρυός. Το στόμα είναι ξηρό και πλούσιο από φρέσκα εσπεριδοειδή φρούτα, όπως λεμόνι και μοσχολέμονο.</Description>
 		<EAN>5200101770559</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3518,7 +3518,7 @@
 		<MPN>1332</MPN>
 		<Description>Ένα λευκό, ξηρό κρασί με πλούσιο σώμα και δροσερό αρωματικό χαρακτήρα. Συνδυασμός των 2 ποικιλιών Chardonnay και Gewürztraminer, με ιδιαίτερη τυπικότητα χάρη στην ορεινή προέλευση. Νότες τριαντάφυλλου, ώριμου ροδάκινου, βερίκοκου και μια πινελιά από λίτσι. Το στόμα ακολουθεί πιστά τον παραπάνω χαρακτήρα, ενώ αρωματική παρουσία έχει η βανίλια και ο καπνός.</Description>
 		<EAN>5203888110013</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3577,7 +3577,7 @@
 
 Το στόμα ακολουθεί αρωματικά, με φρούτα, διακριτική οξύτητα και στρόγγυλές τανίνες,σε αρμονία των τριών ποικιλιών, που το καθιστούν ως ένα ευκολόπιοτο και αρωματικό κρασί.</Description>
 		<EAN>5203888220552</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3591,7 +3591,7 @@
 		<MPN>1334002</MPN>
 		<Description>Η Ραμνίστα του Κυρ Γιάννη με αρώματα από φράουλα, κεράσι και τριαντάφυλλο, σε συνδυασμό με φινετσάτες νότες βανίλιας από το βαρέλι. Παρά τη νεότητά του, η αρωματική δύναμη και η δομή των τανινών, φανερώνουν ένα κρασί με χαρακτήρα και μεγάλο δυναμικό παλαίωσης, προϊόν μιας μεγάλης χρονιάς.</Description>
 		<EAN>5203888184021</EAN>
-		<Quantity>2</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4542,7 +4542,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
 		<EAN>5202037000045</EAN>
-		<Quantity>27</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8929,7 +8929,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>5202054454852</EAN>
-		<Quantity>223</Quantity>
+		<Quantity>213</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8943,7 +8943,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1076</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>5202054454821</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8957,7 +8957,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1077</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>4250016484332</EAN>
-		<Quantity>108</Quantity>
+		<Quantity>98</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9402,7 +9402,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<EAN>5202995010537</EAN>
-		<Quantity>1128</Quantity>
+		<Quantity>1126</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10267,7 +10267,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1104</MPN>
 		<Description>Οι ταμπλέτες Finish Powerball Calgonit προσφέρουν ισχυρή καθαριστική δράση ακόμη και στις πιο δύσκολες συνθήκες. Η  δράση μουλιάσματος του Powerball, αφαιρεί ακόμα και τους πιο επίμονους λεκέδες.</Description>
 		<EAN>5059001015723</EAN>
-		<Quantity>32</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10295,7 +10295,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1105</MPN>
 		<Description>Οι κάψουλες All in One από την Fairy για το πλυντήριο πιάτων συνδυάζουν τις εξής δράσεις, χαρίζοντας εξαιρετική καθαριότητα για τα πιάτα σας:•Iσχυρή καθαριστική δράση ακόμα και στο σύντομο πρόγραμμα διαλύει τα λίπη και αφαιρεί τους δύσκολους λεκέδες•Εξαιρετική λάμψη•Προστασία υαλικών &amp; ασημικών•Πρόληψη σχηματισμού αλάτων - δράση αλατιού - δράση εκθαμβωτικού</Description>
 		<EAN>8006540910764</EAN>
-		<Quantity>941</Quantity>
+		<Quantity>939</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10487,7 +10487,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1113</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
 		<EAN>8410436151061</EAN>
-		<Quantity>582</Quantity>
+		<Quantity>581</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10501,7 +10501,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1272</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
 		<EAN>8015100563050</EAN>
-		<Quantity>536</Quantity>
+		<Quantity>535</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18693,7 +18693,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε USB-C με μήκος 1 μέτρο.</Description>
 		<EAN>6920680871322</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18711,7 +18711,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε Lightning με μήκος 1 μέτρο.</Description>
 		<EAN>6920680871346</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19392,7 +19392,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 
 Χρώματα διαθέσιμα: θαλασσί / ροζ / απαλό πράσινο / μαύρο / λευκό</Description>
 		<EAN>6920680827848</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>68</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19632,7 +19632,7 @@ XO-EP57
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχουν καλό ήχο όταν συνομιλείς και σε ακούει καλά ο συνομιλητής σου.</Description>
 		<EAN>6920680877942</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>90</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19807,7 +19807,7 @@ XO-EP57
 
 </Description>
 		<EAN>6920680851836</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19944,7 +19944,7 @@ XO-EP57
 
 </Description>
 		<EAN>6975837581562</EAN>
-		<Quantity>8</Quantity>
+		<Quantity>28</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20753,7 +20753,7 @@ XO-EP57
 
 </Description>
 		<EAN>6920680872596</EAN>
-		<Quantity>110</Quantity>
+		<Quantity>224</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21321,7 +21321,7 @@ Aluminum Case Better for heat dissipation </Description>
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί η κατασκευή της είναι ποιοτική και προστατεύει ικανοποιητικά το laptop.</Description>
 		<EAN>6920680846412</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21350,7 +21350,7 @@ Aluminum Case Better for heat dissipation </Description>
 Πλάτος: 14 cm
 Ύψος: 46cm</Description>
 		<EAN>6920680857210</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21538,7 +21538,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Manufacturer>ATC</Manufacturer>
 		<MPN> 03.005.0164</MPN>
 		<Description>Τηλεχειριστήριο Universal για Samsung Smart IR-1312.</Description>
-		<Quantity>60</Quantity>
+		<Quantity>140</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22135,7 +22135,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.4 kg</Weight>
 		<Description>Το αναπλήρωμα ξύδιου John Top σε συσκευασία 400ml είναι ιδανικό για χρήση στη μαγειρική και στην παρασκευή σάλτσων, μαριναδών, σαλατών και dressings. Με το χαρακτηριστικό άρωμα και την έντονη γεύση του, προσδίδει ξεχωριστή γεύση στα φαγητά σας. Είναι ιδανικό για να δώσει μια ευχάριστη οξύτητα και αναδεικνύει τα αρώματα των υλικών που χρησιμοποιείτε.</Description>
 		<EAN>5202737200547</EAN>
-		<Quantity>311</Quantity>
+		<Quantity>306</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22165,7 +22165,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<EAN>5202737900218</EAN>
-		<Quantity>1080</Quantity>
+		<Quantity>1075</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
