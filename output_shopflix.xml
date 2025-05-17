@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-17 14:42</created_at>
+	<created_at>2025-05-17 16:50</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -267,7 +267,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>60</Quantity>
+		<Quantity>56</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -282,7 +282,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<EAN>75041670</EAN>
-		<Quantity>868</Quantity>
+		<Quantity>856</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -342,7 +342,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>376</Quantity>
+		<Quantity>375</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -372,7 +372,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>263</Quantity>
+		<Quantity>262</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -402,7 +402,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
-		<Quantity>128</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -716,7 +716,7 @@
 		<MPN>272001</MPN>
 		<Description>H Sprite είναι το πιο δροσιστικό αναψυκτικό της The Coca-Cola Company. Η καθαρότητα, η αυθεντικότητα και ο δυναμικός χαρακτήρας της Sprite ενθαρρύνει τους νέους να εκφράζονται όπως πραγματικά νιώθουν και να ενεργούν ανάλογα. Μια παγωμένη Sprite απολαμβάνεται καλύτερα στον ελεύθερο χρόνο των νέων και γίνεται ο καλύτερος σύντροφος την ώρα του video gaming. Η Sprite είναι η τέλεια πρόταση για τους καταναλωτές που θέλουν να ξεδιψάσουν με την αυθεντική και δροσιστική γεύση Lemon-Lime της Sprite.</Description>
 		<EAN>5449000012203</EAN>
-		<Quantity>68</Quantity>
+		<Quantity>62</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1568,7 +1568,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908000020</EAN>
-		<Quantity>3687</Quantity>
+		<Quantity>3660</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1628,7 +1628,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<EAN>5202908004011</EAN>
-		<Quantity>737</Quantity>
+		<Quantity>710</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1688,7 +1688,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908110019</EAN>
-		<Quantity>1969</Quantity>
+		<Quantity>1921</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1718,7 +1718,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908001003</EAN>
-		<Quantity>986</Quantity>
+		<Quantity>974</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1778,7 +1778,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<EAN>5202908001072</EAN>
-		<Quantity>454</Quantity>
+		<Quantity>442</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1793,7 +1793,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000167</EAN>
-		<Quantity>1045</Quantity>
+		<Quantity>1033</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1853,7 +1853,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000273</EAN>
-		<Quantity>425</Quantity>
+		<Quantity>413</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1906,7 +1906,7 @@
 		<Name>Life Earl Grey Ice Tea Λεμόνι Χωρίς Ανθρακικό Χωρίς Ζάχαρη 500ml</Name>
 		<URL>https://www.skroutz.gr/s/33490266/Life-Earl-Grey-Ice-Tea-Lemoni-CHoris-Anthrakiko-CHoris-Zachari-500ml.html?product_id=204993929</URL>
 		<Image>https://www.market-in.gr/Images/Products/89046754_1.jpg</Image>
-		<Price>1.18</Price>
+		<Price>1.3</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>LIFE</Manufacturer>
 		<MPN>0236</MPN>
@@ -1921,7 +1921,7 @@
 		<Name>Life Ceylon Μπουκάλι Ice Tea Ροδάκινο Χωρίς Ανθρακικό Χωρίς Ζάχαρη 500ml</Name>
 		<URL>https://www.skroutz.gr/s/33490149/Life-Ceylon-Mpoukali-Ice-Tea-Rodakino-CHoris-Anthrakiko-CHoris-Zachari-500ml.html</URL>
 		<Image>https://cdn.mymarket.gr/images/styles/original/21_06_21/9857c9cd-2956-4d5a-9679-28f05478ac27_E1.jpg</Image>
-		<Price>1.18</Price>
+		<Price>1.3</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>LIFE</Manufacturer>
 		<MPN>0829</MPN>
@@ -1936,7 +1936,7 @@
 		<Name>Life Μπουκάλι Ice Tea Matcha με Πράσινο Μήλο &amp; Δυόσμος Χωρίς Ανθρακικό Χωρίς Ζάχαρη 500ml</Name>
 		<URL>https://www.skroutz.gr/s/29493977/Life-Mpoukali-Ice-Tea-Matcha-me-Prasino-Milo-Dyosmos-CHoris-Anthrakiko-CHoris-Zachari-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/043961/43961066/20230710155401_life_tsai_matcha_dyosmos_0_500ml.jpeg</Image>
-		<Price>1.18</Price>
+		<Price>1.3</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>LIFE</Manufacturer>
 		<MPN>0809</MPN>
@@ -2106,7 +2106,7 @@
 		<MPN>10 160</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας. </Description>
 		<EAN>5201627019900</EAN>
-		<Quantity>182</Quantity>
+		<Quantity>166</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2194,7 +2194,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Είναι  ένα ανθρακούχο ποτό με με χυμό λεμονιού και αρώματα μαστίχας, λεμονιού και ginger, που περικλείει όλα τα αρώματα των χαρακτηριστικών αυτών  προϊόντων της Χίου. Με τn νέα γεύση λεμόνι και τζίντζερ, η απόλαυση γίνεται ακόμη πιο δελεαστική.  Το απολαυστικό μαστιχόνερο MastiH2O λεμόνι και τζίντζερ Στουπάκης μπορεί να σε  συνοδεύσει οποιαδήποτε στιγμή της ημέρας. Χρησιμοποιήστε την φαντασία  σας και δημιουργήστε τους ξεχωριστούς &amp; υγιεινούς συνδυασμούς που  σας αρέσουν.</Description>
 		<EAN>5200101983447</EAN>
-		<Quantity>48</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2319,7 +2319,7 @@
 	</product>
 	<product>
 		<SKU>40061</SKU>
-		<Name>Οινοποιεία Στέλιου Κεχρή Κρασί Κεχριμπάρι Λευκό Ξηρό 500ml</Name>
+		<Name>Οινοποιεία Στέλιου Κεχρή Ρετσίνα Κεχριμπάρι 500ml Ροδίτης/ Σαββατιανό</Name>
 		<URL>https://www.skroutz.gr/s/4773729/Oinopoieia-Steliou-Kechri-Krasi-Kechrimpari-Leyko-Xiro-500ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004773/4773729/20200314140240_oinopoieia_steliou_kechri_kechrimpari_retsina_leyko_500ml.jpeg</Image>
 		<Price>2.99</Price>
@@ -2790,7 +2790,7 @@
 	</product>
 	<product>
 		<SKU>460051</SKU>
-		<Name>Κτήμα Αβαντίς Κρασί Άγιος Χρόνος Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κτήμα Αβαντίς Κρασί Άγιος Χρόνος Syrah/Viognier, Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720055/Ktima-Avantis-Krasi-Agios-CHronos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004720/4720055/xlarge_20211019153947_ktima_avantis_krasi_erythro_xiro_agios_chronos_750ml.jpeg</Image>
 		<Price>23.78</Price>
@@ -2865,7 +2865,7 @@
 	</product>
 	<product>
 		<SKU>46101</SKU>
-		<Name>Κατώγι Αβέρωφ Κρασί Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κατώγι Αβέρωφ Κρασί Cabernet Sauvignon/Merlot/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4718195/Katogi-Averof-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004718/4718195/20200313165141_katogi_averof_erythro_750ml.jpeg</Image>
 		<Price>7.73</Price>
@@ -2879,7 +2879,7 @@
 	</product>
 	<product>
 		<SKU>46102</SKU>
-		<Name>Κατώγι Αβέρωφ Κρασί Λευκό Ξηρό 750ml</Name>
+		<Name>Κατώγι Αβέρωφ Κρασί Chardonnay/Ροδίτης/Μοσχάτο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4713730/Katogi-Averof-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004713/4713730/xlarge_20211019154916_katogi_averof_leyko_750ml.jpeg</Image>
 		<Price>8.18</Price>
@@ -2924,7 +2924,7 @@
 	</product>
 	<product>
 		<SKU>46110121</SKU>
-		<Name>Anatolikos Vineyards Βιολογικό Κρασί MV Ερυθρό Ξηρό 750ml</Name>
+		<Name>Anatolikos Vineyards Βιολογικό Κρασί MV Cabernet Sauvignon/Merlot/Μαυρούδι Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/10015264/Anatolikos-Vineyards-Viologiko-Krasi-MV-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/010015/10015264/xlarge_20211019160013_anatolikos_vineyards_mv_mayroudi_thrakis_erythro_750ml.jpeg</Image>
 		<Price>16.85</Price>
@@ -2968,7 +2968,7 @@
 	</product>
 	<product>
 		<SKU>46271</SKU>
-		<Name>Κτήμα Βιβλία Χώρα Κρασί Λευκό Ξηρό 750ml</Name>
+		<Name>Κτήμα Βιβλία Χώρα Κρασί Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705635/Ktima-Vivlia-CHora-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004705/4705635/20200313164937_ktima_vivlia_chora_leykos_750ml.jpeg</Image>
 		<Price>13.26</Price>
@@ -2982,7 +2982,7 @@
 	</product>
 	<product>
 		<SKU>46272</SKU>
-		<Name>Κτήμα Βιβλία Χώρα Κρασί Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κτήμα Βιβλία Χώρα Κρασί Cabernet Sauvignon/Merlot/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/48913984/Ktima-Vivlia-CHora-Krasi-Erythro-Xiro-750ml-5200101710036.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/048913/48913984/20231221091554_ktima_vivlia_chora_ktima_vivlia_chora_viologikos_erythros_oinos_750ml.jpeg</Image>
 		<Price>16.07</Price>
@@ -2996,7 +2996,7 @@
 	</product>
 	<product>
 		<SKU>46273</SKU>
-		<Name>Κτήμα Βιβλία Χώρα Κρασί Ροζέ Ξηρό 750ml</Name>
+		<Name>Κτήμα Βιβλία Χώρα Κρασί Syrah Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705699/Ktima-Vivlia-CHora-Viologiko-Krasi-Syrah-Roze-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004705/4705699/xlarge_20210324112153_ktima_vivlia_chora_krasi_roze_xiro_750ml.jpeg</Image>
 		<Price>13.26</Price>
@@ -3014,7 +3014,7 @@
 	</product>
 	<product>
 		<SKU>46274</SKU>
-		<Name>Κτήμα Βιβλία Χώρα Κρασί Όβηλος Λευκό Ξηρό 750ml</Name>
+		<Name>Κτήμα Βιβλία Χώρα Κρασί Όβηλος Semillon/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4703864/Ktima-Vivlia-CHora-Krasi-Ovilos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004703/4703864/xlarge_20220421152726_ktima_vivlia_chora_krasi_ovilos_leyko_xiro_750ml.jpeg</Image>
 		<Price>28.03</Price>
@@ -3050,7 +3050,7 @@
 	</product>
 	<product>
 		<SKU>46301</SKU>
-		<Name>Κτήμα Γεροβασιλείου Κρασί Λευκό Ξηρό 750ml</Name>
+		<Name>Κτήμα Γεροβασιλείου Κρασί Ασύρτικο/Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4704000/Ktima-Gerovasileiou-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004704/4704000/20200313165140_ktima_gerovasileiou_leykos_750ml.jpeg</Image>
 		<Price>13.23</Price>
@@ -3064,7 +3064,7 @@
 	</product>
 	<product>
 		<SKU>46302</SKU>
-		<Name>Κτήμα Γεροβασιλείου Κρασί Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κτήμα Γεροβασιλείου Κρασί Syrah/Merlot/Λημνιό Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7063854/Ktima-Gerovasileiou-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/007063/7063854/20211018141721_ktima_gerovasileiou_krasi_syrah_merlot_limnio_erythro_xiro_750ml.jpeg</Image>
 		<Price>16.07</Price>
@@ -3172,7 +3172,7 @@
 	</product>
 	<product>
 		<SKU>46350101</SKU>
-		<Name>Κτήμα Δύο Ύψη Κρασί Dialogos Λευκό Ξηρό 750ml</Name>
+		<Name>Κτήμα Δύο Ύψη Κρασί Dialogos Ασύρτικο/Κυδωνίτσα Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18220487/Ktima-Dyo-Ypsi-Krasi-Dialogos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/018220/18220487/xlarge_20190417105448_ktima_dyo_ypsi_dialogos_leyko_750ml.jpeg</Image>
 		<Price>12.83</Price>
@@ -3184,21 +3184,6 @@
 Έχει ισορροπία μεταξύ φρούτου και οξύτητας, με αρώματα και είναι ιδανικό ως καλοκαιρινό απεριτίφ ή για να συνοδεύσει ορεκτικά. Παλαιώνει 3-5 χρόνια από τον τρύγο.</Description>
 		<EAN>5200107840072</EAN>
 		<Quantity>18</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>46356</SKU>
-		<Name>Vaios Ganis Organic Wines Βιολογικό Κρασί Μυθικό Βασίλειο Ροδίτης Αλεπού Λευκό Ξηρό Orange 750ml</Name>
-		<URL>https://www.skroutz.gr/s/25328661/Vaios-Ganis-Organic-Wines-Viologiko-Krasi-Mythiko-Vasileio-Roditis-Alepou-Leyko-Xiro-Orange-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/025328/25328661/20201021114111_ampelones_gani_mythiko_vasileio_orange_leyko_750ml.jpeg</Image>
-		<Price>11.15</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>GANIS</Manufacturer>
-		<MPN>1242</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Λευκός Ξηρός Βιολογικός &amp; Vegan Οίνος,Προστατευόμενη Γεωγραφική Ενδειξη Φθιώτιδα</Description>
-		<EAN>5200115630085</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3248,7 +3233,7 @@
 		<Name>Κτήμα Θυμιόπουλου Κρασί Γη Και Ουρανός Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7111581/Ktima-THymiopoulou-Krasi-Gi-Kai-Oyranos-Xinomayro-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/007111/7111581/xlarge_20211019155358_ktima_thymiopoulou_krasi_erythro_xiro_gi_kai_oyranos_750ml.jpeg</Image>
-		<Price>16.06</Price>
+		<Price>15.89</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Θυμιόπουλου</Manufacturer>
 		<MPN>1784</MPN>
@@ -3261,7 +3246,7 @@
 	</product>
 	<product>
 		<SKU>47011</SKU>
-		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Καριπίδης Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
+		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/55483259/Ktima-Karipidi-Viologiko-Krasi-Sauvignon-Blanc-Leyko-Xiro-750ml-15200372900997.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/041628/41628887/20230418114806_ktima_karipidi_viologiko_krasi_karipidis_sauvignon_blanc_leyko_xiro_1500ml.jpeg</Image>
 		<Price>9.82</Price>
@@ -3339,6 +3324,57 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>470250201</SKU>
+		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Chardonnay Λευκό Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4809202/Ktima-Katsarou-Viologiko-Krasi-Chardonnay-Leyko-Xiro-750ml.html#description</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809202/xlarge_20211018160312_ktima_katsarou_chardonnay_leyko_750ml.jpeg</Image>
+		<Price>19.19</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
+		<MPN>1785001</MPN>
+		<Description>ΠΓΕ Κρανιάς, Θεσσαλία
+
+Chardonnay βιολογικής αμπελλοκαλιέργειας
+
+Ζύμωση σε μικρά δρύινα Γαλλικά βαρέλια και παραμονή με τις οινολάσπες για ένα διάστημα 5 με 6 μηνών.
+
+Kιτρινόξανθο λαμπερό με ελαφρές πράσινες ανταύγειες. Έντονο και σύνθετο άρωμα κίτρινων φρούτων, εσπεριδοειδών, κεριού και με ευγενείς νότες καπνού και βανίλιας. Στόμα δροσερό με καλή οξύτητα και όγκο. Μεγάλη επίγευση και διάρκεια.
+
+Η ετικέτα παραπέμπει στο Viola Odorata(μενεξές), φυτό με βραχύ ρίζωμα, επίγειος βλαστός και με φύλλα που σχηματίζουν ρόδακα. Στην Ελλάδα φύεται σε λιβάδια και στις παρυφές του Ολύμπου σε υψόμετρο 700-900 μέτρα. Ανθίζει Απρίλιο με Μάιο και τα άνθη του είναι βαθύχρωμα ιώδη.
+
+Γεύστικοι συνδυασμοί:
+
+    Ψάρια με λιπαρή σάρκα
+    Καπνιστά ψάρια ή ψάρια με λευκή σάλτσα
+    Μαλάκια και οστρακοειδή
+    Συνθέσεις από χαβιάρι
+</Description>
+		<EAN>870869000035</EAN>
+		<Quantity>18</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>470250201</SKU>
+		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Cabernet Sauvignon/Merlot Ερυθρό Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4809195/Ktima-Katsarou-Viologiko-Krasi-Erythro-Xiro-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809195/xlarge_20200313165051_ktima_katsarou_erythros_750ml.jpeg</Image>
+		<Price>21.03</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
+		<MPN>1785002</MPN>
+		<Description>Πληθωρική και έντονη μύτη φραγκοστάφυλου, βύσσινου, μαύρου κερασιού με νότες μελανιού και βουτύρου. Στόμα παχύ και βελούδινο με άψογη δομή και τανίνες που υπόσχονται αντοχή στον χρόνο. Μακρά επίγευση και μεγάλη διάρκεια.
+Οινοποίηση
+
+Ζύμωση και μακρά εκχύλιση (18 -23 μέρες) σε ανοξείδωτες δεξαμενές ελεγχόμενης θερμοκρασίας. Ωρίμανση σε μικρά (228 L.) δρύινα Γαλλικά βαρέλια για 12 με 18 μήνες. Εμφιάλωση χωρίς φιλτράρισμα.
+
+Μετά την εμφιάλωση παραμένει στην κάβα του κτήματος (συνθήκες ελεγχόμενης θερμοκρασίας και υγρασίας) για τουλάχιστον ενάμιση χρόνο πριν βγεί στο εμπόριο.
+
+Προτείνεται η κατανάλωση του στους 16 -18°C και έχει διάρκεια ζωής 15 με 20 έτη.</Description>
+		<EAN>870869000011</EAN>
+		<Quantity>18</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>47031</SKU>
 		<Name>Κεχρή Κρασί Αφρός Ροδίτης Λευκό Ξηρό Ρετσίνα 750ml</Name>
 		<URL>https://www.skroutz.gr/s/13442566/Oinopoieia-Steliou-Kechri-Krasi-Afros-Roditis-Leyko-Xiro-Retsina-750ml.html</URL>
@@ -3396,7 +3432,7 @@
 	</product>
 	<product>
 		<SKU>47082</SKU>
-		<Name>Κτήμα ΑΛΦΑ Κρασί Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κτήμα ΑΛΦΑ Κρασί Merlot/Syrah/Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/41645223/Ktima-ALFA-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/041645/41645223/20230419090801_ktima_alfa_krasi_erythro_xiro_750ml.jpeg</Image>
 		<Price>23.41</Price>
@@ -3424,7 +3460,7 @@
 	</product>
 	<product>
 		<SKU>47083101</SKU>
-		<Name>Κτήμα ΑΛΦΑ Κρασί Σκαντζόχοιρος Ροζέ Ξηρό Αμυνταίου 750ml</Name>
+		<Name>Κτήμα ΑΛΦΑ Κρασί Σκαντζόχοιρος Ξινόμαυρο/Syrah Ροζέ Ξηρό Αμυνταίου 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707587/Ktima-ALFA-Krasi-Roze-Xiro-Amyntaiou-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707587/xlarge_20211018141721_ktima_alfa_krasi_roze_xiro_750ml.jpeg</Image>
 		<Price>18.01</Price>
@@ -3452,7 +3488,7 @@
 	</product>
 	<product>
 		<SKU>47093</SKU>
-		<Name>Κυρ Γιάννη Κυρ Γιάννη Παράγκα Ερυθρός 750ml</Name>
+		<Name>Κυρ Γιάννη Κυρ Γιάννη Παράγκα Merlot/Syrah/Ξινόμαυρο Ερυθρός Ξηρός 750ml</Name>
 		<URL>https://www.skroutz.gr/s/48331064/Kyr-Gianni-Kyr-Gianni-Paraga-Erythros-Oinos-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/048331/48331064/20231123091149_kyr_gianni_kyr_gianni_paraga_erythros_oinos_750ml.jpeg</Image>
 		<Price>7.67</Price>
@@ -3466,7 +3502,7 @@
 	</product>
 	<product>
 		<SKU>470935</SKU>
-		<Name>Κυρ Γιάννη Κρασί Παράγκα Flowers Ροζέ Ημίξηρο 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί Παράγκα Flowers Merlot/Ξινόμαυρο/Syrah Ροζέ Ημίξηρο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/10578695/Kyr-Gianni-Krasi-Paraga-Flowers-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/010578/10578695/20200204125124_kyr_gianni_paraga_flowers_roze_750ml.jpeg</Image>
 		<Price>6.83</Price>
@@ -3480,7 +3516,7 @@
 	</product>
 	<product>
 		<SKU>47094</SKU>
-		<Name>Κυρ Γιάννη Κρασί Σαμαρόπετρα Λευκό Ξηρό 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί Σαμαρόπετρα Sauvignon Blanc/Ροδίτης Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4706082/Kyr-Gianni-Krasi-Samaropetra-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004706/4706082/20211018135914_kyr_gianni_krasi_leyko_xiro_samaropetra_750ml.jpeg</Image>
 		<Price>10.55</Price>
@@ -3494,7 +3530,7 @@
 	</product>
 	<product>
 		<SKU>47096</SKU>
-		<Name>Κυρ Γιάννη Κρασί Τέσσερις Λίμνες Λευκό Ξηρό 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί Τέσσερις Λίμνες Chardonnay/Gewürztraminer Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707550/Kyr-Gianni-Krasi-Tesseris-Limnes-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707550/20211018163628_kyr_gianni_krasi_leyko_xiro_tesseris_limnes_750ml.jpeg</Image>
 		<Price>13.56</Price>
@@ -3522,7 +3558,7 @@
 	</product>
 	<product>
 		<SKU>4709903</SKU>
-		<Name>Κυρ Γιάννη Κρασί Μπλε Τρακτέρ Λευκό Ξηρό 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί Μπλε Τρακτέρ Chardonnay/Viognier/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/17487984/Kyr-Gianni-Krasi-Mple-Trakter-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/017487/17487984/20211019155358_kyr_gianni_krasi_leyko_xiro_mple_trakter_750ml.jpeg</Image>
 		<Price>8.4</Price>
@@ -3551,7 +3587,7 @@
 	</product>
 	<product>
 		<SKU>4709905</SKU>
-		<Name>Κυρ Γιάννη Κρασί The Fallen Oak Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί The Fallen Oak Merlot/Syrah/Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/21375718/Kyr-Gianni-Krasi-The-Fallen-Oak-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/021375/21375718/xlarge_20211018112529_kyr_gianni_krasi_erythro_xiro_the_fallen_oak_750ml.jpeg</Image>
 		<Price>11.18</Price>
@@ -3567,7 +3603,7 @@
 	</product>
 	<product>
 		<SKU>4709906</SKU>
-		<Name>Κυρ Γιάννη Κρασί Ράμνιστα Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί Ράμνιστα Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705911/Kyr-Gianni-Krasi-Ramnista-Xinomayro-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004705/4705911/xlarge_20211018160808_kyr_gianni_krasi_erythro_xiro_ramnista_750ml.jpeg</Image>
 		<Price>17.28</Price>
@@ -3581,7 +3617,7 @@
 	</product>
 	<product>
 		<SKU>4709907</SKU>
-		<Name>Κυρ Γιάννη Κρασί Δύο Ελιές Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί Δύο Ελιές Merlot/Syrah/Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4706255/Kyr-Gianni-Krasi-Dyo-Elies-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004706/4706255/xlarge_20211018141721_kyr_gianni_krasi_erythro_xiro_dyo_elies_750ml.jpeg</Image>
 		<Price>15.25</Price>
@@ -3597,7 +3633,7 @@
 	</product>
 	<product>
 		<SKU>4709908</SKU>
-		<Name>Κυρ Γιάννη Κρασί Διάπορος Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κυρ Γιάννη Κρασί Διάπορος Ξινόμαυρο/Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707557/Kyr-Gianni-Krasi-Diaporos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707557/xlarge_20211019154243_kyr_gianni_krasi_erythro_xiro_diaporos_750ml.jpeg</Image>
 		<Price>36.59</Price>
@@ -3613,7 +3649,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 	</product>
 	<product>
 		<SKU>47101</SKU>
-		<Name>La Tour Melas Idylle D' Achinos Ροζέ Ξηρό 750ml</Name>
+		<Name>La Tour Melas Idylle D' Achinos Syrah/Αγιωργίτικο/Grenache Rouge Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/14280219/La-Tour-Melas-Krasi-Idylle-D-Achinos-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/014280/14280219/20180313102230_la_tour_melas_idylle_d_achinos_leyko_3000ml.jpeg</Image>
 		<Price>13.32</Price>
@@ -3627,7 +3663,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 	</product>
 	<product>
 		<SKU>47106101</SKU>
-		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Sauvignon Blanc Λευκό Ξηρό 750ml Εσοδείας 2023</Name>
+		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707555/Nico-Lazaridi-Krasi-Magiko-Vouno-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/053664/53664020/xlarge_20240521163835_nico_lazaridi_krasi_magiko_vouno_sauvignon_blanc_leyko_xiro_750ml_5203708400379.jpeg</Image>
 		<Price>15.18946648230289</Price>
@@ -3663,7 +3699,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 	</product>
 	<product>
 		<SKU>47106102</SKU>
-		<Name>Nico Lazaridi Κρασί Το Μαύρο Πρόβατο Λευκό Ξηρό 750ml</Name>
+		<Name>Nico Lazaridi Κρασί Το Μαύρο Πρόβατο Sauvignon Blanc/Semillon Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712443/Nico-Lazaridi-Krasi-To-Mayro-Provato-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004712/4712443/xlarge_20231212120544_nico_lazaridi_krasi_to_mayro_provato_leyko_xiro_750ml.jpeg</Image>
 		<Price>9.063685223656845</Price>
@@ -3704,7 +3740,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 	</product>
 	<product>
 		<SKU>47106103</SKU>
-		<Name>Nico Lazaridi Κρασί Ντάμα Κούπα Λευκό Ξηρό 750ml</Name>
+		<Name>Nico Lazaridi Κρασί Ντάμα Κούπα Ασύρτικο/Μοσχάτο Αλεξάνδρειας/Chardonnay/Ροδίτης Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712284/Nico-Lazaridi-Krasi-Ntama-Koupa-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004712/4712284/xlarge_20200313165007_nico_lazaridi_ntama_koupa_leyko_750ml.jpeg</Image>
 		<Price>5.006050564734716</Price>
@@ -3745,7 +3781,7 @@ pH: 3.45
 	</product>
 	<product>
 		<SKU>47106113</SKU>
-		<Name>Nico Lazaridi Κρασί Βαλές Κούπα Ροζέ Ημίξηρο 750ml</Name>
+		<Name>Nico Lazaridi Κρασί Βαλές Κούπα Αγιωργίτικο/Grenache Rouge Ροζέ Ημίξηρο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/59293610/Lazaridi-Nico-Vales-Koupa-Roze-750ml.html</URL>
 		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2025/02/jack-hearts-e1741247517779.png</Image>
 		<Price>4.821599052035136</Price>
@@ -3791,7 +3827,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47106121</SKU>
-		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Ερυθρό Ξηρό 750ml</Name>
+		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Cabernet Franc/Cabernet Sauvignon Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/36389778/Nico-Lazaridi-Krasi-Magiko-Vouno-Erythro-Xiro-750ml.html</URL>
 		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2020/04/imageedit_1_3380510849.png</Image>
 		<Price>26.5717931039856</Price>
@@ -3879,7 +3915,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47106123</SKU>
-		<Name>Nico Lazaridi Κρασί Ρήγας Κούπα Ερυθρό Ξηρό 750ml</Name>
+		<Name>Nico Lazaridi Κρασί Ρήγας Κούπα Ερυθρό Syrah/Merlot Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712426/Nico-Lazaridi-Krasi-Rigas-Koupa-Erythro-Xiro-750ml.html</URL>
 		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2020/04/king-of-hearts-24.png</Image>
 		<Price>5.006050564734716</Price>
@@ -3949,7 +3985,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47251</SKU>
-		<Name>Κτήμα Μπαραφάκα Κρασί Τρείς Μάγισσες Ροζέ Ημίγλυκο Νεμέας Ημιαφρώδες 750m</Name>
+		<Name>Κτήμα Μπαραφάκα Κρασί Τρείς Μάγισσες Αγιωργίτικο/Μοσχοφίλερο/Syrah Ροζέ Ημίξηρο 750m</Name>
 		<URL>https://www.skroutz.gr/s/8917655/Ktima-Mparafaka-Krasi-Treis-Magisses-Roze-Imiglyko-Nemeas-Imiafrodes-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/008917/8917655/20211019155357_ktima_mparafaka_krasi_roze_imiglyko_treis_magisses_750ml.jpeg</Image>
 		<Price>9.15</Price>
@@ -4037,7 +4073,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47332</SKU>
-		<Name>Οινοποιείο Ντούγκος Βιολογικό Κρασί Ραψάνη Old Vines Ερυθρό Ξηρό Ραψάνης 750ml</Name>
+		<Name>Οινοποιείο Ντούγκος Βιολογικό Κρασί Ραψάνη Old Vines Ξινόμαυρο /Κρασάτο/Σταυρωτό Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/10015192/Oinopoieio-Ntougos-Viologiko-Krasi-Rapsani-Old-Vines-Erythro-Xiro-Rapsanis-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/010015/10015192/xlarge_20211018155949_oinopoieio_ntougos_rapsani_old_vines_erythro_750ml.jpeg</Image>
 		<Price>19.1</Price>
@@ -4079,7 +4115,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47502</SKU>
-		<Name>Κτήμα Παυλίδη Κρασί Thema Λευκό Ξηρό 750ml</Name>
+		<Name>Κτήμα Παυλίδη Κρασί Thema Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712536/Ktima-Paylidi-Krasi-Thema-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004712/4712536/20211018112527_ktima_paylidi_thema_leyko_750ml.jpeg</Image>
 		<Price>12.11</Price>
@@ -4093,7 +4129,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47503</SKU>
-		<Name>Κτήμα Παυλίδη Κρασί Alma Ροζέ Ξηρό 750ml</Name>
+		<Name>Κτήμα Παυλίδη Κρασί Alma Syrah/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/35762870/Ktima-Paylidi-Krasi-Alma-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/035801/35801928/20220505151747_ktima_paylidi_krasi_alma_roze_xiro_750ml.jpeg</Image>
 		<Price>14.01</Price>
@@ -4108,7 +4144,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47504</SKU>
-		<Name>Κτήμα Παυλίδη Thema Ερυθρός Οίνος 750ml</Name>
+		<Name>Κτήμα Παυλίδη Thema Syrah/Αγιωργίτικο Ερυθρός Οίνος 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712527/Ktima-Paylidi-Viologiko-Krasi-Thema-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004712/4712527/xlarge_20211018141721_ktima_paylidi_thema_erythro_750ml.jpeg</Image>
 		<Price>15.01</Price>
@@ -4123,22 +4159,8 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>47705</SKU>
-		<Name>Σάμου (ΕΟΣ) Golden Samena Μοσχάτο Σάμου Λευκό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4775724/Samou-EOS-Krasi-Golden-Samena-Moschato-Samou-Leyko-Xiro-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004775/4775724/20200314141219_samou_eos_golden_samena_leyko_750ml.jpeg</Image>
-		<Price>6.2</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΕΟΣ ΣΑΜΟΥ</Manufacturer>
-		<MPN>1635</MPN>
-		<Description>Το Samena Golden, προερχόμενο από πεδινούς αμπελώνες, είναι ένα κρασί με ανοιχτόχρωμο κίτρινο λαμπερό χρώμα και διακριτικά ανθώδη αρώματα, τα οποία συνυπάρχουν αρμονικά με τα αρώματα του σταφυλιού. Στο στόμα, είναι ένα κλασικά μεσογειακό κρασί, με ισορροπημένη, μαλακή βελούδινη γεύση και ήπιο χαρακτήρα. Έχει επίγευση με μεγάλη διάρκεια.Ο ισχυρός γευστικός του χαρακτήρας το καθιστά καλό συνοδό για μεζέδες, τηγανητά ψάρια,  διάφορα μαγειρευτά αλλά και φαγητά φούρνου (π.χ. παστίτσιο, γιουβαρλάκια με αυγολέμονο, χορτόπιτες κ.ά.), από το παραδοσιακό ρεπερτόριο της Ελληνικής κουζίνας.</Description>
-		<EAN>5201273310208</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>47711</SKU>
-		<Name>Santo Wines Κρασί Vinsanto Λευκό Γλυκό Σαντορίνης 500ml</Name>
+		<Name>Santo Wines Κρασί Vinsanto Σαντορίνης Αηδάνι/Ασύρτικο Λευκό Γλυκό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/18536922/Santo-Wines-Krasi-Vinsanto-Leyko-Glyko-Santorinis-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018536/18536922/20211018175417_santo_wines_krasi_leyko_glyko_vinsanto_500ml.jpeg</Image>
 		<Price>24.44</Price>
@@ -4211,10 +4233,10 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47751</SKU>
-		<Name>Σκούρας Κρασί Άκρες Λευκό Ξηρό Νεμέας 750ml</Name>
+		<Name>Σκούρας Κρασί Άκρες Μοσχοφίλερο/Ροδίτης Λευκό Ξηρό Νεμέας 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4719082/Skouras-Krasi-Akres-Leyko-Xiro-Nemeas-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004719/4719082/20210310225201_skouras_akres_leykos_750ml.jpeg</Image>
-		<Price>6.75</Price>
+		<Price>6.18</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1243</MPN>
@@ -4226,7 +4248,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47752</SKU>
-		<Name>Σκούρας Κρασί Άκρες Ροζέ Ξηρό 750ml</Name>
+		<Name>Σκούρας Κρασί Άκρες Μοσχοφίλερο/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4719195/Skouras-Krasi-Akres-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004719/4719195/20210310225018_skouras_akres_roze_750ml.jpeg</Image>
 		<Price>6.85</Price>
@@ -4241,7 +4263,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47753</SKU>
-		<Name>Σκούρας Κρασί Μέγας Οίνος Ερυθρό Ξηρό Νεμέας 750ml</Name>
+		<Name>Σκούρας Κρασί Μέγας Οίνος Cabernet Sauvignon/Αγιωργίτικο Ερυθρό Ξηρό Νεμέας 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720112/Skouras-Krasi-Megas-Oinos-Erythro-Xiro-Nemeas-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004720/4720112/20211102192508_skouras_megas_oinos_erythros_750ml.jpeg</Image>
 		<Price>20.43</Price>
@@ -4256,7 +4278,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47754</SKU>
-		<Name>Σκούρας Κρασί Αρμύρα Chardonnay-Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
+		<Name>Σκούρας Κρασί Αρμύρα Chardonnay/Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720108/Skouras-Krasi-Armyra-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004720/4720108/20210310225630_skouras_armyra_leykos_750ml.jpeg</Image>
 		<Price>11.25</Price>
@@ -4271,7 +4293,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47755</SKU>
-		<Name>Σκούρας Κρασί Πέπλο Ροζέ Ξηρό 750ml</Name>
+		<Name>Σκούρας Κρασί Πέπλο Syrah/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/14694465/Skouras-Krasi-Peplo-Roze-Xiro-Nemeas-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/014694/14694465/20210310230921_skouras_peplo_roze_750ml.jpeg</Image>
 		<Price>14.31</Price>
@@ -4359,7 +4381,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47761101</SKU>
-		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Λευκό Ξηρό 750ml</Name>
+		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4765583/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004765/4765583/xlarge_20211018140331_ktima_techni_oinou_techni_alypias_leyko_750ml.jpeg</Image>
 		<Price>11.18</Price>
@@ -4375,7 +4397,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47761102</SKU>
-		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Ροζέ Ξηρό 750ml</Name>
+		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Cabernet Sauvignon/Merlot/Nebbiolo/Sangiovese/Syrah Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/27080615/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027080/27080615/xlarge_20210311132254_ktima_techni_oinou_krasi_roze_xiro_techni_alypias_750ml.jpeg</Image>
 		<Price>12.04</Price>
@@ -4391,7 +4413,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47761103</SKU>
-		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Ερυθρό Ξηρό 750ml</Name>
+		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Cabernet Sauvignon/Merlot/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4765594/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004765/4765594/xlarge_20210311132413_ktima_techni_oinou_techni_alypias_erythro_750ml.jpeg</Image>
 		<Price>14.62</Price>
@@ -4409,7 +4431,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47762121</SKU>
-		<Name>Μικρό Κτήμα Τίτου Κρασί Γουμένισσα Ερυθρό Ξηρό 750ml</Name>
+		<Name>Μικρό Κτήμα Τίτου Κρασί Γουμένισσα Ξινόμαυρο/Νεγκόσκα Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/31773118/Ktima-Vivlia-CHora-Krasi-Goumenissa-Mikro-Ktima-Titou-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/031773/31773118/xlarge_20211018161819_ktima_vivlia_chora_krasi_goumenissa_mikro_ktima_titou_erythro_xiro_750ml.jpeg</Image>
 		<Price>13.09</Price>
@@ -4423,7 +4445,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47881</SKU>
-		<Name>Τσιλιλής Κρασί Ασκητικός Λευκό Ξηρό 750ml</Name>
+		<Name>Τσιλιλής Κρασί Ασκητικός Chardonnay/Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774782/Tsililis-Krasi-Askitikos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774782/20200316163151_tsililis_askitikos_leyko_750ml.jpeg</Image>
 		<Price>6.26</Price>
@@ -4437,7 +4459,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47882</SKU>
-		<Name>Τσιλιλής Κρασί Ασκητικός Ερυθρό Ξηρό 750ml</Name>
+		<Name>Τσιλιλής Κρασί Ασκητικός Cabernet Sauvignon/Merlot/Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774788/Tsililis-Krasi-Askitikos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004774/4774788/20200314141442_tsililis_askitikos_erythro_750ml.jpeg</Image>
 		<Price>6.91</Price>
@@ -4451,7 +4473,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47886</SKU>
-		<Name>Τσιλιλής Κτήμα Θεόπετρα Λευκός Οίνος 750ml</Name>
+		<Name>Τσιλιλής Κτήμα Θεόπετρα Ασύρτικο/Μαλαγουζιά Λευκός Οίνος 750ml</Name>
 		<URL>https://www.skroutz.gr/s/49712052/Tsililis-Ktima-THeopetra-Leykos-Oinos-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/049712/49712052/20240129150351_tsililis_ktima_theopetra_leykos_oinos_750ml.jpeg</Image>
 		<Price>9.63</Price>
@@ -4475,6 +4497,20 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Το Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Λημνιώνα Ερυθρό Ξηρό 750ml είναι ένα βιολογικό ερυθρό κρασί υψηλής ποιότητας, φτιαγμένο από την ελληνική ποικιλία Λημνιώνα. Παράγεται στο Κτήμα Θεόπετρα με βιολογικές καλλιέργειες, προσφέροντας πλούσιο άρωμα κόκκινων φρούτων, μπαχαρικών και γήινων τόνων. Με ισορροπημένη οξύτητα και βελούδινη υφή, αυτό το κρασί είναι ιδανικό για συνοδεία ψητών κρεάτων, πλούσιων σαλτσών και ώριμων τυριών. Αποτελεί μια εξαιρετική επιλογή για τους λάτρεις των βιολογικών και αυθεντικών ελληνικών κρασιών.</Description>
 		<EAN>5202548507279</EAN>
 		<Quantity>18</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47889201</SKU>
+		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Syrah/Λημνιώνα Ροζέ Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4774768/Tsililis-Viologiko-Krasi-Theopetra-Estate-Roze-Xiro-750ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774768/xlarge_20200314141219_tsililis_ktima_theopetra_750ml.jpeg</Image>
+		<Price>10.7</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<MPN>1339002</MPN>
+		<Description>Ένα από τα καλύτερα ροζέ κρασιά που δοκιμάσαμε φέτος. Το κτήμα Θεόπετρα συνδυάζει Λημνιώνα και Syrah, προσφέροντας αρώματα κερασιού και φράουλας με καραμελένιες αποχρώσεις. Έχει υπέροχο γευστικό στόμα, με τραγανή οξύτητα και γλυκιά επίγευση.</Description>
+		<EAN>5202548507101</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4585,7 +4621,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>47990121</SKU>
-		<Name>Ιερά Μονή Χιλανδαρίου Κρασί Πεδίον Αγίου Σάββα Ερυθρό Ξηρό Αμυνταίου 750ml</Name>
+		<Name>Ιερά Μονή Χιλανδαρίου Κρασί Πεδίον Αγίου Σάββα Cabernet Franc/Cabernet Sauvignon/Merlot Ερυθρό Ξηρό Αμυνταίου 750ml</Name>
 		<URL>https://www.skroutz.gr/s/25256495/Iera-Moni-CHilandariou-Krasi-Pedion-Agiou-Savva-Erythro-Xiro-Amyntaiou-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/025256/25256495/xlarge_20201015152324_iera_moni_chilandariou_pedion_agiou_savva_erythro_750ml.jpeg</Image>
 		<Price>18.1</Price>
@@ -4597,6 +4633,39 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 Το Πεδίον Αγίου Σάββα παραμένει 12 μήνες σε γαλλικά δρύινα πεντάτονα βαρέλια, 12 μήνες σε δρύινα βαρέλια 225Lt. και 12 μήνες στην φιάλη.</Description>
 		<EAN>5206949000520</EAN>
 		<Quantity>12</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>499001124</SKU>
+		<Name>Songmics Επιδαπέδια Κάβα Ποτών Ξύλινη για 24 Μπουκάλια με 2 Ράφια και 5 Ποτηροθήκες σε Μαύρο-Καφέ 66x30x100cm KWR028B01</Name>
+		<URL>https://www.skroutz.gr/s/37931787/Songmics-Epidapedia-Kava-Poton-Xylini-gia-24-Mpoukalia-Mayro-Kafe-66x30x100ek.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/037931/37931787/fixedratio_20220906122441_songmics_xylini_epitoichia_kava_poton_gia_24_mpoukalia_66x30x100cm.jpeg</Image>
+		<Price>69.29</Price>
+		<Category> Κάβες Ποτών</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>KWR028B01</MPN>
+		<Description>Η κάβα από την εταιρία Songmics είναι κατασκευασμένη από υψηλής ποιότητας μπαμπού και ανθεκτικές σανίδες MDF. Ο συνδυασμός μαύρου πλαισίου από μπαμπού και καφέ φινιρίσματος δίνει στην κάβα ένα μοναδικό στυλ.
+
+Διαθέτει:
+
+    24 θήκες για μπουκάλια κρασιού
+    5 μεταλλικές σειρές για 10 ποτήρια κρασιού
+    2 ράφια
+
+Σημείωση: Αποφύγετε την παρατεταμένη έκθεση στην υγρασία. Μην αγγίζετε ποτέ με αιχμηρά αντικείμενα, τα οποία μπορεί να καταστρέψουν την επιφάνεια του αντικειμένου. Τα παιδιά δεν επιτρέπεται να σκαρφαλώνουν ή να παίζουν με το προϊόν. Προσαρμόστε το προϊόν στον τοίχο με το παρεχόμενο κιτ προστασίας από ανατροπή για ασφάλεια.
+
+Χαρακτηριστικά:
+
+    Πλαίσιο από μπαμπού
+    24 θήκες για μπουκάλια
+    5 μεταλλικές σειρές για 10 ποτήρια κρασιού
+    2 ράφια από μοριοσανίδες
+    Μέγιστο βάρος / ράφι: 15 Kg
+    Βάρος: 9 Kg
+    Διαστάσεις: 66 x 30 x 100 cm
+</Description>
+		<EAN>0194343025803</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4700,7 +4769,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000233</EAN>
-		<Quantity>1255</Quantity>
+		<Quantity>1231</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4760,7 +4829,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>3808</Quantity>
+		<Quantity>3760</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5052,7 +5121,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<EAN>5202207622015</EAN>
-		<Quantity>61</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7279,7 +7348,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1062</MPN>
 		<Description>Με υπέροχο διακριτικό άρωμα λεμόνι.</Description>
 		<EAN>5206991201517</EAN>
-		<Quantity>548</Quantity>
+		<Quantity>547</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7951,7 +8020,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1368</MPN>
 		<Description>Σαμπουάν για αδύναμα και ταλαιπωρημένα μαλλιά.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>3600523586400</EAN>
-		<Quantity>107</Quantity>
+		<Quantity>101</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8628,7 +8697,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67091</SKU>
-		<Name>Aroma Μέλι &amp; Γιαούρτι Αφρόλουτρο 750ml</Name>
+		<Name>Aroma Μέλι &amp; Γιαούρτι Αφρόλουτρο 750ml 11011</Name>
 		<URL>https://www.skroutz.gr/s/28369490/Aroma-Meli-Giaourti-Afroloutro-750ml.html</URL>
 		<Image>https://www.3a.gr/mediastream/w800/files/products/9f4a6bec0f874cc0090fca12abc1b57c.png.webp</Image>
 		<Price>1.9985505</Price>
@@ -8637,12 +8706,12 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1258</MPN>
 		<Description>Αφρόλουτρο με αντιοξειδωτική δράση για λάμψη στο δέρμα. Προσφέρει απαλότητα, βαθιά ενυδάτωση και εξαιρετικής ποιότητας φροντίδα του δέρματος.</Description>
 		<EAN>5208005110112</EAN>
-		<Quantity>184</Quantity>
+		<Quantity>183</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>67092</SKU>
-		<Name>Aroma Avocado Coconut Jojoba Κρεμώδες Αφρόλουτρο Καρύδα 750ml</Name>
+		<Name>Aroma Avocado Coconut Jojoba Κρεμώδες Αφρόλουτρο Καρύδα 750ml 14503</Name>
 		<URL>https://www.skroutz.gr/s/45058094/Aroma-Avocado-Coconut-Jojoba-Kremodes-Afroloutro-Karyda-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/045058/45058094/20230807112151_aroma_avocado_coconut_jojoba_kremodes_afroloutro_karyda_750ml.jpeg</Image>
 		<Price>1.9985505</Price>
@@ -8656,7 +8725,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67101</SKU>
-		<Name>Aroma Bio Honey &amp; Yoghurt Body Butter 200ml</Name>
+		<Name>Aroma Bio Honey &amp; Yoghurt Body Butter 200ml 11002</Name>
 		<URL>https://www.skroutz.gr/s/27993411/Aroma-Bio-Honey-Yoghurt-Body-Butter-200ml.html</URL>
 		<Image>https://efrago.gr/wp-content/uploads/2023/09/Aroma-Bio-Honey-Yoghurt-Body-Butter-200ml.jpg</Image>
 		<Price>2.370012</Price>
@@ -8670,7 +8739,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67102</SKU>
-		<Name>Aroma Body Butter Βιολογικό Ελαιόλαδο και Βάλσαμο Aroma (200 ml)</Name>
+		<Name>Aroma Body Butter Βιολογικό Ελαιόλαδο και Βάλσαμο Aroma 200 ml 11003</Name>
 		<URL>https://www.skroutz.gr/s/47944466/Aroma-Body-Butter-Viologiko-Elaiolado-kai-Valsamo-Aroma-200-ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/047944/47944466/20231110161820_aroma_body_butter_viologiko_elaiolado_kai_valsamo_aroma_200_ml.jpeg</Image>
 		<Price>2.370012</Price>
@@ -8679,12 +8748,12 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1006</MPN>
 		<Description>Κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει ελαιόλαδο και βάλσαμο, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Είναι δερματολογικά ελεγμένη και κατάλληλη για όλες τις ηλικίες και τους τύπους δέρματος.</Description>
 		<EAN>5208005110037</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>67103</SKU>
-		<Name>Aroma Bio Αλόη &amp; Ρόδι Body Butter 200ml</Name>
+		<Name>Aroma Bio Αλόη &amp; Ρόδι Body Butter 200ml 10044</Name>
 		<URL>https://www.skroutz.gr/s/25198751/Aroma-Bio-Aloi-Rodi-Body-Butter-200ml.html</URL>
 		<Image>https://www.kalestimes.gr/images/thumbs/0866723_AROMA-KREMA-SVMATOS-BIO-200ML-ALOH-RODI-2.jpeg</Image>
 		<Price>2.370012</Price>
@@ -8698,7 +8767,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67111</SKU>
-		<Name>Aroma Body Milk Ενυδατική Lotion 300ml</Name>
+		<Name>Aroma Body Milk Ενυδατική Lotion 300ml 11005</Name>
 		<URL>https://www.skroutz.gr/s/17350521/Aroma-Body-Milk-Enydatiki-Lotion-300ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/017350/17350521/20240806140740_aroma_body_milk_enydatiki_lotion_300ml.jpeg</Image>
 		<Price>2.370012</Price>
@@ -8712,7 +8781,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67112</SKU>
-		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml</Name>
+		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml 11006</Name>
 		<URL>https://www.skroutz.gr/s/17253517/Aroma-Body-Milk-Bio-Olive-Oil-Balsam-Enydatiki-Lotion-Somatos-300ml.html</URL>
 		<Image>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/430/4/4300004644/body-milj-olive.jpg?id=1679489433</Image>
 		<Price>2.370012</Price>
@@ -8726,7 +8795,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67113</SKU>
-		<Name>Aroma Bio Aloe &amp; Pomerganate Lotion Ανάπλασης με Aloe Vera 300ml</Name>
+		<Name>Aroma Bio Aloe &amp; Pomerganate Lotion Ανάπλασης με Aloe Vera 300ml 10043</Name>
 		<URL>https://www.skroutz.gr/s/25198763/Aroma-Bio-Aloe-Pomerganate-Lotion-Anaplasis-me-Aloe-Vera-300ml.html</URL>
 		<Image>https://mastmarket.gr/wp-content/uploads/2023/10/4f0477450c34f6813a685de08c12beb4.png-600x600.webp</Image>
 		<Price>2.370012</Price>
@@ -8740,7 +8809,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67121</SKU>
-		<Name>Aroma After Sun Gel με Αλόη Βέρα 300ml</Name>
+		<Name>Aroma After Sun Gel με Αλόη Βέρα 300ml 14310</Name>
 		<URL>https://www.skroutz.gr/s/55787178/Aroma-After-Sun-Gel-me-Aloi-Vera-300ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/055787/55787178/xlarge_20240906142549_aroma_after_sun_gel_me_aloi_vera_300ml.jpeg</Image>
 		<Price>3.95</Price>
@@ -8765,7 +8834,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67151</SKU>
-		<Name>Aroma Scrub για το Πρόσωπο &amp; το Σώμα Βιολογικό Ελαιόλαδο &amp; Βάλσαμο 200ml</Name>
+		<Name>Aroma Scrub για το Πρόσωπο &amp; το Σώμα Βιολογικό Ελαιόλαδο &amp; Βάλσαμο 200ml 11023</Name>
 		<URL>https://www.skroutz.gr/s/28673026/Aroma-Scrub-gia-to-Prosopo-to-Soma-Viologiko-Elaiolado-Valsamo-200ml.html</URL>
 		<Image>https://unitup.gr/wp-content/uploads/2023/07/26596-e1688632701886.jpg</Image>
 		<Price>2.370012</Price>
@@ -8779,7 +8848,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67201</SKU>
-		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml</Name>
+		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml 11008</Name>
 		<URL>https://www.skroutz.gr/s/17339634/Aroma-Bio-Enydatiki-Krema-CHerion-Honey-Yogurt-200ml.html</URL>
 		<Image>https://www.kalestimes.gr/images/thumbs/0866713_AROMA-KREMA-XERIVN-BIO-200ML-MELI-GIAOYRTI-1_510.jpeg</Image>
 		<Price>2.2120112</Price>
@@ -8793,7 +8862,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67203</SKU>
-		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Aloe &amp; Pomergranate 200ml</Name>
+		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Aloe &amp; Pomergranate 200ml 10042</Name>
 		<URL>https://www.skroutz.gr/s/27945635/Aroma-Bio-Enydatiki-Krema-CHerion-Aloe-Pomergranate-200ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027945/27945635/20230310113205_aroma_bio_enydatiki_krema_cherion_aloe_pomergranate_200ml.jpeg</Image>
 		<Price>2.2120112</Price>
@@ -8802,12 +8871,12 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1265</MPN>
 		<Description>Η κρέμα χεριών Bio, της εταιρείας Aroma, χάρη στην ενυδατική της δράση, καταπραΰνει και προστατεύει τα ξηρά, σκασμένα και ταλαιπωρημένα χέρια από οικιακές και επαγγελματικές δραστηριότητες ή το κρύο, προσφέροντας απαλή αίσθηση και ενυδάτωση στα χέρια. Ακόμα, στη σύνθεσή της περιέχει Aloe Vera, ένα συστατικό που ενυδατώνει σε βάθος και θρέφει την επιδερμίδα. Προστατεύει από τη ξηρότητα και χαρίζει ελαστικότητα.Τα χέρια επανορθώνονται και ανακτούν την απαλότητά τους ενώ ταυτόχρονα η επιδερμίδα προστατεύεται καλύτερα από τις μελλοντικές εξωτερικές επιθέσεις.•Δράση: Ενυδάτωση•Συστατικό: Aloe VeraΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και απορροφάται εύκολα.</Description>
 		<EAN>5208005100427</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>67211</SKU>
-		<Name>Aroma Bio Hand &amp; Nail Αναπλαστική και Ενυδατική Κρέμα Χεριών και Νυχιών με Μέλι, Πανθενόλη, Κερατίνη &amp; Βιοτίνη 75ml</Name>
+		<Name>Aroma Bio Hand &amp; Nail Αναπλαστική και Ενυδατική Κρέμα Χεριών και Νυχιών με Μέλι, Πανθενόλη, Κερατίνη &amp; Βιοτίνη 75ml 11017</Name>
 		<URL>https://www.skroutz.gr/s/28673737/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-me-Meli-Panthenoli-Keratini-Viotini-75ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/028673/28673737/20220525121521_aroma_bio_honey_panthenol_hand_nail_therapy_75ml.jpeg</Image>
 		<Price>1.7380088</Price>
@@ -8821,7 +8890,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67212</SKU>
-		<Name>Aroma Bio Hand &amp; Foot Therapy Κρέμα Ανάπλασης για Αγκώνες &amp; Φτέρνες 75ml Beewax &amp; Urea 75ml</Name>
+		<Name>Aroma Bio Hand &amp; Foot Therapy Κρέμα Ανάπλασης για Αγκώνες &amp; Φτέρνες 75ml Beewax &amp; Urea 75ml 11018</Name>
 		<URL>https://www.skroutz.gr/s/29845665/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-Beewax-Urea-75ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/029845/29845665/20210702161704_d812b6d5.jpeg</Image>
 		<Price>1.7380088</Price>
@@ -8835,7 +8904,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67213</SKU>
-		<Name>Aroma Bio Anti-spot Therapy Για Πρόληψη Και Καταπολέμηση Δυσχρωμιών Και Κηλίδων με Πρόπολη, Γκρέιπφρουτ, Βιταμίνη C &amp; E 75ml</Name>
+		<Name>Aroma Bio Anti-spot Therapy Για Πρόληψη Και Καταπολέμηση Δυσχρωμιών Και Κηλίδων με Πρόπολη, Γκρέιπφρουτ, Βιταμίνη C &amp; E 75ml 11019</Name>
 		<URL>https://www.skroutz.gr/s/28674242/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-me-Propoli-Greipfrout-Vitamini-C-E-75ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/028674/28674242/20230424123142_aroma_bio_hand_nail_anaplastiki_kai_enydatiki_krema_cherion_kai_nychion_me_propoli_greipfrout_vitamini_c_e_75ml.jpeg</Image>
 		<Price>1.7380088</Price>
@@ -8849,7 +8918,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67214</SKU>
-		<Name>Aroma Bio Arnica leg therapy κρέμα με Arnica, ανακουφίζει κουρασμένα πόδια, επουλώνει μελανιές και μώλωπες 75ml</Name>
+		<Name>Aroma Bio Arnica leg therapy κρέμα με Arnica, ανακουφίζει κουρασμένα πόδια, επουλώνει μελανιές και μώλωπες 75ml 11120</Name>
 		<URL>https://www.sklavenitis.gr/kallyntika-eidi-prosopikis-ygieinis/frontida-somatos/kremes-cherion-vazelini/aroma-arnica-leg-therapy-krema-gia-podia-gabes-75ml/</URL>
 		<Image>https://s1.sklavenitis.gr/images/1600x1600/files/ProductMedia/Products/1568217/2.jpg</Image>
 		<Price>1.74</Price>
@@ -8863,7 +8932,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67231</SKU>
-		<Name>AROMA Bio ΚΡΕΜΑ ΣΩΜΑΤΟΣ ΓΙΑ ΣΥΣΦΙΞΗ &amp; ΑΝΑΠΛΑΣΗ 200ML</Name>
+		<Name>Aroma Body Therapy Κρέμα για Σύσφιξη Σώματος Bio Aloe &amp; Jojoba 200ml 10048</Name>
 		<URL>https://www.skroutz.gr/s/28672699/Aroma-Body-Therapy-Krema-gia-Sysfixi-Somatos-Bio-Aloe-Jojoba-200ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/028672/28672699/20221021101607_aroma_body_therapy_krema_gia_sysfixi_somatos_bio_aloe_jojoba_200ml.jpeg</Image>
 		<Price>3.95002</Price>
@@ -8877,7 +8946,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>67232</SKU>
-		<Name>Aroma Κρέμα Σώματος κατά της κυτταρίτιδας με Υαλουρονικό και Μελισοκέρι Aroma (200 ml)</Name>
+		<Name>Aroma Κρέμα Σώματος κατά της κυτταρίτιδας με Υαλουρονικό και Μελισοκέρι Aroma (200 ml) 10049</Name>
 		<URL>https://www.skroutz.gr/s/49388368/Aroma-Krema-Somatos-kata-tis-kyttaritidas-me-Yalouroniko-kai-Melisokeri-Aroma-200-ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/049388/49388368/20240121215841_aroma_krema_somatos_kata_tis_kyttaritidas_me_yalouroniko_kai_melisokeri_aroma_200_ml.jpeg</Image>
 		<Price>3.95002</Price>
@@ -8928,7 +8997,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1076</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<EAN>5202054454821</EAN>
-		<Quantity>300</Quantity>
+		<Quantity>298</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9448,7 +9517,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<EAN>5202995004628</EAN>
-		<Quantity>345</Quantity>
+		<Quantity>305</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9900,6 +9969,37 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>712320101</SKU>
+		<Name>Skip Professional Formula Active Clean Επαγγελματκό Υγρό Απορρυπαντικό Ρούχων 5Lt</Name>
+		<URL>https://eshop.diversey.com.gr/product/skip-pro-formula-active-clean-2x5l-101105086</URL>
+		<Image>https://www.tikitea.pf/upload/produits/photo/LESSIVE-LIQUIDE-SKIP-ACTIVE-CLEAN-5L-DVLLSKIP.jpg</Image>
+		<Additional_Image>https://www.ruralmaster.fr/cohade/65352-pdt_540/lessive-liquide-pro-active-clean-71-lavages-5l-skip.jpg https://www.ruralmaster.fr/cohade/65353-pdt_540/lessive-liquide-pro-active-clean-71-lavages-5l-skip.jpg</Additional_Image>
+		<Price>10.99</Price>
+		<Category>Απορρυπαντικά Ρούχων</Category>
+		<Manufacturer>SKIP</Manufacturer>
+		<MPN>101105086</MPN>
+		<Description>Περιγραφή 
+
+Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες ακόμη και σε χαμηλές θερμοκρασίες χάρη στα ένζυμα και στη δράση των οπτικών λαπριντικών που υπάρχουν στη σύνθεση του προϊόντος τα υφάσματα είναι πιο καθαρά και φωτεινά. Είναι ιδανικό για την απομάκρυνση ενζυμικών και σωματιδιακών λεκέδων.
+Πλεονεκτήματα 
+
+    Αφαιρεί σκληρούς λεκέδες ακόμη και σε χαμηλές θερμοκρασίες και σύντομο κύκλο πλύσης
+    Βιολογική δράση: περιέχει ένζυμα που είναι ιδιαίτερα αποτελεσματικά συστατικά στην αφαίρεση λεκέδων
+
+Οδηγίες χρήσης 
+
+    Μην υπερφορτώνετε το πλυντήριο ρούχων σας.
+    Ελέγχετε πάντα την ετικέτα φροντίδας του υφάσματος και ακολουθήστε τις οδηγίες πλύσης.
+    Ξεχωρίστε τον ιματισμό σας σε λευκό, ανοιχτόχρωμο και έγχρωμο.
+    Για μάλλινα και μεταξωτά ρούχα που πλένονται στο πλυντήριο, συνιστούμε να χρησιμοποιείτε ένα ειδικό προϊόν.
+    Ελέγχετε πάντα τη σταθερότητα του χρώματος πριν από την προεπεξεργασία των λεκέδων με καθαρό υγρό.
+    Μην το χρησιμοποιείτε σε μετάξι και μαλλί.
+    Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία. </Description>
+		<EAN>7615400818112</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>712321</SKU>
 		<Name>Skip Core Clean Υγρό Απορρυπαντικό Ρούχων 85 Μεζούρες</Name>
 		<URL>https://www.skroutz.gr/s/34346801/Skip-Core-Clean-Ygro-Aporrypantiko-Rouchon-2x85-Mezoures.html</URL>
@@ -9910,7 +10010,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<EAN>8720181012570</EAN>
-		<Quantity>1130</Quantity>
+		<Quantity>1127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9926,7 +10026,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας.
 Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<EAN>8720181413285</EAN>
-		<Quantity>1130</Quantity>
+		<Quantity>1127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10071,7 +10171,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>E-2683</MPN>
 		<Description>Χρωμοπροστασία η οποία προσφέρει εξαιρετική βοήθεια σε κάθε σας πλύση. Το πακέτο περιέχει 12 φύλλα. </Description>
 		<EAN>5203642126830</EAN>
-		<Quantity>270</Quantity>
+		<Quantity>269</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10169,7 +10269,26 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
 		<EAN>4084500183087</EAN>
-		<Quantity>752</Quantity>
+		<Quantity>751</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>720100201</SKU>
+		<Name>CIF Professional Υγρό Πιάτων με Άρωμα Λεμόνι 2lt</Name>
+		<URL>https://www.skroutz.gr/s/32316006/Cif-Ygro-Piaton-me-Aroma-Lemoni-2lt-101104894-2LT.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/032316/32316006/xlarge_20211112110735_cif_ygro_piaton_cif_101104894_2lt_2lt.jpeg</Image>
+		<Price>3.04</Price>
+		<Category>Υγρά Πιάτων</Category>
+		<Manufacturer>CIF</Manufacturer>
+		<MPN>1101001</MPN>
+		<Description>Το Cif Pro Formula Hand Dishwash είναι ένα υγρό απορρυπαντικό για πλύσιμο στο χέρι πιάτων, μαχαιροπήρουνων, ποτηριών, κατσαρόλες, τηγάνια και όλα τα σκεύη κουζίνας που πλένονται. Η φόρμουλα έχει αναπτυχθεί ειδικά για να αφαιρεί το επίμονο λίπος και τα αποξηραμένα τρόφιμα, ακόμη και σε κρύο νερό, αφήνοντας τα πιάτα σας αφρώδη και χωρίς ραβδώσεις.
+
+Χάρη στο ουδέτερο pH του δέρματος, είναι απαλό στα χέρια. Αφήνει ευχάριστο άρωμα λεμονιού.
+
+    Σύνθεση: 5-15% ανιονικά επιφανειοδραστικά.
+</Description>
+		<EAN>7615400813728</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10295,7 +10414,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0628</MPN>
 		<Description>Το Tuboflo ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις μόνο με την προσθήκη κρύου νερού.</Description>
 		<EAN>55201314051652</EAN>
-		<Quantity>3369</Quantity>
+		<Quantity>3367</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10309,7 +10428,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
 		<EAN>55201314051676</EAN>
-		<Quantity>6589</Quantity>
+		<Quantity>6559</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10389,7 +10508,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<EAN>5000186735012</EAN>
-		<Quantity>513</Quantity>
+		<Quantity>511</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11033,7 +11152,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>428</Quantity>
+		<Quantity>427</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11056,91 +11175,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Ύψος: 22cm</Description>
 		<EAN>5203642103497</EAN>
 		<Quantity>29</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>740555101</SKU>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Λευκό E-1810wh</Name>
-		<URL>https://www.skroutz.gr/s/52554708/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Leyko.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/052554/52554708/fixedratio_20250305164226_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou.jpeg</Image>
-		<Price>20.33</Price>
-		<Category>Πιγκάλ</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN> E-1810wh</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα.
-Πιγκάλ
-
-Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<EAN>5203642118101</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>740555102</SKU>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Γκρι E-1810gr</Name>
-		<URL>https://www.skroutz.gr/s/44876571/Sidirela-E-1810-2-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Gri.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/044876/44876571/fixedratio_20230801183758_sidirela_e_1810_2_plastiko_set_pigal_kai_kalathaki_mpaniou_soft_close_7lt_gri.jpeg</Image>
-		<Price>20.33</Price>
-		<Category>Πιγκάλ</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810gr</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα.
-Πιγκάλ
-
-Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<EAN>5203642118101</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>740555103</SKU>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Μαύρο E-1810bl</Name>
-		<URL>https://www.skroutz.gr/s/52554701/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Mayro.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/052554/52554701/fixedratio_20240418183343_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou_mayro.jpeg</Image>
-		<Price>20.33</Price>
-		<Category>Πιγκάλ</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810bl</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα.
-Πιγκάλ
-
-Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<EAN>5203642118101</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>740555206</SKU>
-		<Name>Sidirela Πλαστικός Κάδος Μπάνιου 6lt Silver-Black E-1941</Name>
-		<URL>https://www.skroutz.gr/s/15886990/E-1941-Plastiko-Kalathaki-Mpaniou-5lt-Black-Silver.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/015886/15886990/fixedratio_20220809174026_e_1941_plastiko_kalathaki_mpaniou_5lt_black_silver.jpeg</Image>
-		<Price>8.34</Price>
-		<Category>Πιγκάλ</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN> E-1941</MPN>
-		<Description>Το καλαθάκι μπάνιου της Sidirela είναι η ιδανική λύση για τον οργανωμένο χώρο σας. Με την κομψή και μοντέρνα εμφάνιση του σε μαύρο και ασημί χρώμα, προσφέρει μια διακριτική αλλά κομψή πινελιά στη διακόσμηση του μπάνιου σας.
-
-    Αυτό το καλάθι είναι κατασκευασμένο από ανθεκτικό πλαστικό, εξασφαλίζοντας μακροχρόνια χρήση και ευκολία στην καθαριότητα.
-    Είναι επιδαπέδιο, πράγμα που το καθιστά ιδανικό για οποιοδήποτε μπάνιο και βοηθά στη διατήρηση της τάξης.
-    Έχει χωρητικότητα 5 lt, παρέχοντας αρκετό χώρο για τα απορρίμματα ή τα αξεσουάρ μπάνιου σας.
-
-Με την απλή και πρακτική σχεδίαση, το καλαθάκι αυτό θα γίνει απαραίτητο στη ρουτίνα σας, κάνοντάς την πιο οργανωμένη και κομψή.</Description>
-		<EAN>5203642119412</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>740555291</SKU>
-		<Name>Sidirela Πλαστικό Πιγκάλ Μπάνιου Silver-Black E-1942</Name>
-		<URL>https://www.skroutz.gr/s/14829720/E-1942-Plastiko-Pigal-Mpaniou-Black-Silver.html</URL>
-		<Image>https://a.scdn.gr/images/sku_images/051273/51273780/fixedratio_20220809174024_59ca5c61.jpeg</Image>
-		<Price>3.75</Price>
-		<Category>Πιγκάλ</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN> E-1942</MPN>
-		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
-		<EAN>5203642119429</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11168,7 +11202,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1116</MPN>
 		<Description>Απορροφητική σπογγοπετσέτα Wettex. Απορροφάει έως και 15 φορές το βάρος του Σε 4 διαφορετικά σχέδια και χρώματα.</Description>
 		<EAN>8001940004846</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11334,7 +11368,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Καθαρίζει τους Δύσκολους Λεκέδες
     Βάρος 20gr</Description>
 		<EAN>5213014890337</EAN>
-		<Quantity>328</Quantity>
+		<Quantity>326</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12240,7 +12274,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0331</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 24x17cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<EAN>5200369500110</EAN>
-		<Quantity>960</Quantity>
+		<Quantity>959</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12268,7 +12302,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0409</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεγάλου μεγέθους της εταιρείας Elef σε διάσταση 28x43cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<EAN>5200369500134</EAN>
-		<Quantity>2647</Quantity>
+		<Quantity>2645</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12332,7 +12366,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76001</SKU>
+		<SKU>760100101</SKU>
 		<Name>Softline Fresher Σακούλες Απορριμάτων με Κορδόνι 52x75cm 10τμχ Μαύρες</Name>
 		<URL>https://www.skroutz.gr/s/22822634/Softline-Fresher-Sakoules-Aporrimaton-me-Kordoni-52x75cm-C39368-10tmch-Mayres.html?product_id=215299785</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022822/22822634/20220302113550_softline_fresher_sakoules_aporrimaton_me_kordoni_se_mayro_chroma_52x75cm_10tmch.jpeg</Image>
@@ -12342,11 +12376,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
 		<EAN>5200128643089</EAN>
-		<Quantity>1540</Quantity>
+		<Quantity>1529</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76003</SKU>
+		<SKU>760100103</SKU>
 		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55423207/Aromatikes-Sakoules-Aporrimaton-gia-ton-Kipo-me-Kordoni-52x75cm-0966-10tmch.html</URL>
 		<Image>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B11-600x338.jpg</Image>
@@ -12356,11 +12390,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0966</MPN>
 		<Description>Με αρωματική λεβάντα προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Η αρωματική λεβάντα προσθέτει ένα ευχάριστο άρωμα και βοηθά στην εξουδετέρωση οσμών από τα απορρίμματα. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<EAN>5207043001369</EAN>
-		<Quantity>431</Quantity>
+		<Quantity>427</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76004</SKU>
+		<SKU>760100104</SKU>
 		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55423209/Lime-Aromatikes-Sakoules-Aporrimaton-gia-ton-Kipo-me-Kordoni-52x75cm-0162-10tmch-Prasines.html</URL>
 		<Image>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B12-600x338.jpg</Image>
@@ -12370,11 +12404,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0162</MPN>
 		<Description>Με αρωματικό Lime προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Το αρωματικό Lime προσθέτει ένα δροσερό και φρουτώδες άρωμα, δημιουργώντας ένα ευχάριστο περιβάλλον. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<EAN>5207043001536</EAN>
-		<Quantity>578</Quantity>
+		<Quantity>575</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76011</SKU>
+		<SKU>760100111</SKU>
 		<Name>Softline Fresher Σακούλες Απορριμάτων με Κορδόνι 70x95cm 10τμχ Μαύρες</Name>
 		<URL>https://www.skroutz.gr/s/22822603/Softline-Fresher-Sakoules-Aporrimaton-me-Kordoni-70x95cm-C39371-10tmch-Mayres.html?product_id=215299787</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022822/22822603/xlarge_20200504142539_softline_sakoules_aporrimmaton_gigas_me_kordoni_70by95_mayro_10tmch.jpeg</Image>
@@ -12384,11 +12418,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643119</EAN>
-		<Quantity>1313</Quantity>
+		<Quantity>1301</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76012</SKU>
+		<SKU>760100112</SKU>
 		<Name>Βανίλια Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55423208/Aromatikes-Sakoules-Aporrimaton-gia-ton-Kipo-me-Kordoni-70x90cm-0114-10tmch.html</URL>
 		<Image>https://petsalis.gr/wp-content/uploads/2023/12/VANILLA-600x600.jpg</Image>
@@ -12398,11 +12432,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0114</MPN>
 		<Description>Με αρωματική βανίλια προσφέρουν έναν εύκολο και ευχάριστο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και δυσάρεστες οσμές. Το αρωματικό βανίλια προσθέτει ένα ζεστό και γλυκό άρωμα, δημιουργώντας ένα ευχάριστο περιβάλλον. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<EAN>5207043001376</EAN>
-		<Quantity>111</Quantity>
+		<Quantity>109</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76013</SKU>
+		<SKU>760100113</SKU>
 		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55423210/Aromatikes-Sakoules-Aporrimaton-gia-ton-Kipo-me-Kordoni-70x90cm-0373-10tmch.html</URL>
 		<Image>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B13-600x338.jpg</Image>
@@ -12412,11 +12446,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0373</MPN>
 		<Description>Με αρωματική λεβάντα προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Η αρωματική λεβάντα προσθέτει ένα ευχάριστο άρωμα και βοηθά στην εξουδετέρωση οσμών από τα απορρίμματα. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<EAN>5207043001383</EAN>
-		<Quantity>510</Quantity>
+		<Quantity>507</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76014</SKU>
+		<SKU>760100114</SKU>
 		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55423206/Lime-Aromatikes-Sakoules-Aporrimaton-gia-ton-Kipo-me-Kordoni-70x90cm-0925-10tmch-Prasines.html</URL>
 		<Image>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B14-600x338.jpg</Image>
@@ -12426,11 +12460,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0925</MPN>
 		<Description>Με αρωματικό Lime προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Το αρωματικό Lime προσθέτει ένα δροσερό και φρουτώδες άρωμα, δημιουργώντας ένα ευχάριστο περιβάλλον. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<EAN>5207043001550</EAN>
-		<Quantity>394</Quantity>
+		<Quantity>393</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76021</SKU>
+		<SKU>760100121</SKU>
 		<Name>Softline Fresher Σακούλες Απορριμάτων για τον Κήπο Χωρητικότητας 140lt 80x110cm 10τμχ Μαύρες</Name>
 		<URL>https://www.skroutz.gr/s/22822575/Softline-Fresher-Sakoules-Aporrimaton-gia-ton-Kipo-CHoritikotitas-140lt-80x110cm-C39374-10tmch-Mayres.html?product_id=215299793</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/048773/48773920/xlarge_20231213130311_softline_aromatikes_sakoules_aporrimaton_me_kordoni_80x110cm_330427_10tmch_mayres.jpeg</Image>
@@ -12440,25 +12474,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643140</EAN>
-		<Quantity>976</Quantity>
+		<Quantity>949</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>76031</SKU>
-		<Name>Softline Fresher Αρωματικές Σακούλες Απορριμάτων 50x50cm 30τμχ Λευκές</Name>
-		<URL>https://www.skroutz.gr/s/55590370/Softline-Fresher-Aromatikes-Sakoules-Aporrimaton-50x50cm-30tmch-Leykes.html</URL>
-		<Image>https://beautyfree.gr/32902-large_default/softline-50x50-30.jpg</Image>
-		<Price>0.51835224</Price>
-		<Category>Σακούλες Απορριμμάτων</Category>
-		<Manufacturer>SOFTLINE</Manufacturer>
-		<MPN>0891</MPN>
-		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
-		<EAN>5200128640378</EAN>
-		<Quantity>680</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7603101</SKU>
+		<SKU>760100151</SKU>
 		<Name>Θαλασσινός Σακούλες Απορριμάτων WC - Γραφείου 45x55cm 20τμχ Διάφανες</Name>
 		<URL>https://www.skroutz.gr/s/35377459/THalassinos-Sakoules-Aporrimaton-45x55cm-103106-20tmch-Diafanes.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/035377/35377459/xlarge_20220412122147_thalassinos_sakoules_aporrimaton_se_diafano_chroma_45x55cm_103106_20tmch.jpeg</Image>
@@ -12470,7 +12490,71 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Εξαιρετικής αντοχής.</Description>
 		<EAN>5202054512316</EAN>
-		<Quantity>9927</Quantity>
+		<Quantity>9921</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>760100152</SKU>
+		<Name>Softline Fresher Αρωματικές Σακούλες Απορριμάτων 50x50cm 30τμχ Λευκές</Name>
+		<URL>https://www.skroutz.gr/s/55590370/Softline-Fresher-Aromatikes-Sakoules-Aporrimaton-50x50cm-30tmch-Leykes.html</URL>
+		<Image>https://beautyfree.gr/32902-large_default/softline-50x50-30.jpg</Image>
+		<Price>0.51835224</Price>
+		<Category>Σακούλες Απορριμμάτων</Category>
+		<Manufacturer>SOFTLINE</Manufacturer>
+		<MPN>0891</MPN>
+		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
+		<EAN>5200128640378</EAN>
+		<Quantity>568</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>760200101</SKU>
+		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι Γκρι με Πεντάλ 30lt LTB03GS</Name>
+		<URL>https://www.skroutz.gr/s/25562858/Songmics-Soft-Close-Kados-Aporrimmaton-apo-Anoxeidoto-Atsali-Gri-me-Pental-30lt-LTB03GS.html</URL>
+		<Image>https://d.scdn.gr/images/sku_images/035738/35738623/fixedratio_20201108144737_b3b48bf2.jpeg</Image>
+		<Price>73.13222400000001</Price>
+		<Category>Κάδοι Απορριμμάτων</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB03GS</MPN>
+		<Description>Ο κάδος απορριμμάτων, από την εταιρία Songmics, είναι κατασκευασμένος από ατσάλι και έχει χωρητικότητα 30 Lt. Διαθέτει εσωτερικό πλαστικό κάδο, στον οποίο μπορείτε να τοποθετήσετε σακούλα και έχει μηχανισμό με αντιολισθητικό πεντάλ, ώστε η απόρριψη των απορριμμάτων να πραγματοποιείται με απολύτως άνετο και υγιεινό τρόπο. Το καπάκι του κάδου χάρη στο ενσωματωμένο σύστημα soft-close, κλείνει αργά και αθόρυβα.
+Χαρακτηριστικά
+
+    Υλικό Κατασκευής: Ατσάλι
+    Πλαστικός εσωτερικός κάδος
+    Χωρητικότητα: 30 Lt
+    Ενσωματωμένο σύστημα soft-close
+    Φινίρισμα που δεν επιτρέπει τις δακτυλιές
+    Διαστάσεις: 35 x 23.8 x 63 cm
+    Διαστάσεις εσωτερικού κάδου: 35 x 23.5 x 57.5 cm
+    Συνολικό ύψος με ανοιχτό καπάκι: 85.5 cm
+    Βάρος: 3.8 Kg</Description>
+		<EAN>0194343035376</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>760200111</SKU>
+		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Μαύρος με Πεντάλ 60lt LTB60BK</Name>
+		<URL>https://www.skroutz.gr/s/25984963/Songmics-Kados-Aporrimmaton-apo-Anoxeidoto-Atsali-Mayros-me-Pental-60lt-LTB60BK.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/025984/25984963/fixedratio_20201202093304_songmics_inox_kados_aporrimmaton_me_pental_ltb60bk_60lt.jpeg</Image>
+		<Price>169.48392912</Price>
+		<Category>Κάδοι Απορριμμάτων</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB60BK</MPN>
+		<Description>Ο κάδος απορριμμάτων, από την εταιρία Songmics, είναι κατασκευασμένος από ανοξείδωτο ατσάλι με πλαστική βάση. Είναι εξοπλισμένος με 2 αφαιρούμενα πλαστικά διαμερίσματα συνολικής χωρητικότητας 60 Lt (2 x 30 Lt). Είναι εφοδιασμένα με μεταλλικές λαβές μεταφοράς, για να μπορείτε να τα αδειάζετε ξεχωριστά. Επιπρόσθετα, κάθε διαμέρισμα διαθέτει μηχανισμό με αντιολισθητικό πεντάλ, ώστε η απόρριψη των απορριμμάτων να πραγματοποιείται με απολύτως άνετο και υγιεινό τρόπο. Τα καπάκια του κάδου χάρη στο ενσωματωμένο σύστημα soft-close, κλείνουν αργά και αθόρυβα, ενώ η αεροστεγής σφραγίδα προστατεύει την οικογένειά σας από βακτηρίδια και κακές οσμές.</Description>
+		<EAN>0194343027425</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>760200112</SKU>
+		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Ασημί  με Πεντάλ 60lt LTB60NL</Name>
+		<URL>https://www.skroutz.gr/s/25562860/Songmics-Soft-Close-Kados-Anakyklosis-Metallikos-Asimi-me-Pental-60lt-LTB60NL.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/025562/25562860/fixedratio_20201108145201_songmics_metallikos_kados_aporrimmaton_me_systima_soft_close_me_pental_ltb60nl_60lt.jpeg</Image>
+		<Price>162.12084384</Price>
+		<Category>Κάδοι Απορριμμάτων</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB60NL</MPN>
+		<Description>Ο κάδος απορριμμάτων, από την εταιρία Songmics, είναι κατασκευασμένος από ανοξείδωτο ατσάλι με πλαστική βάση. Είναι εξοπλισμένος με 2 αφαιρούμενα πλαστικά διαμερίσματα συνολικής χωρητικότητας 60 Lt (2 x 30 Lt). Είναι εφοδιασμένα με μεταλλικές λαβές μεταφοράς, για να μπορείτε να τα αδειάζετε ξεχωριστά. Επιπρόσθετα, κάθε διαμέρισμα διαθέτει μηχανισμό με αντιολισθητικό πεντάλ, ώστε η απόρριψη των απορριμμάτων να πραγματοποιείται με απολύτως άνετο και υγιεινό τρόπο. Τα καπάκια του κάδου χάρη στο ενσωματωμένο σύστημα soft-close, κλείνουν αργά και αθόρυβα, ενώ η αεροστεγής σφραγίδα προστατεύει την οικογένειά σας από βακτηρίδια και κακές οσμές.</Description>
+		<EAN>0194343027395</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12597,6 +12681,128 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Η κρεμάστρα ρούχων της εταιρείας Cyclops σας βοηθάει να οργανώνετε την ντουλάπα σας και παράλληλα να εξοικονομείτε επιπλέον χώρο. Είναι κατασκευασμένη από πλαστικό, ένα υλικό ελαφρύ που συνήθως χρησιμοποιείται για μπλούζες, φορέματα, πουκάμισα και άλλα.</Description>
 		<EAN>5202707000634</EAN>
 		<Quantity>30</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762030101</SKU>
+		<Name>Songmics Αντιολισθητική Κρεμάστρα Ρούχων σε Γκρι Χρώμα Σετ 30τμχ CRP20G30</Name>
+		<URL>https://www.skroutz.gr/s/35216055/Songmics-Kremastra-Rouchon-se-Gri-CHroma-CRP20G30-30tmch.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/035216/35216055/xlarge_20220405113845_songmics_kremastra_rouchon_se_gri_chroma_crp20g30_30tmch.jpeg</Image>
+		<Price>16.932603</Price>
+		<Category>Κρεμάστρες Ντουλάπας</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>CRP20G30</MPN>
+		<Description>Η κρεμάστρα ρούχων της εταιρείας Songmics σας βοηθάει να οργανώνετε την ντουλάπα σας και παράλληλα να εξοικονομείτε επιπλέον χώρο. Είναι κατασκευασμένη από πλαστικό, ένα υλικό ελαφρύ που συνήθως χρησιμοποιείται για μπλούζες, φορέματα, πουκάμισα και άλλα.
+
+Φέρει μεταλλικά άγκιστρα, ανθεκτικά στη σκουριά και στη διάβρωση, τα οποία περιστρέφονται κατά 360°, για μεγαλύτερη ευκολία. Το πάχος της κάθε κρεμάστρας είναι μόνο 0.6 cm, δεν σπάει εύκολα και είναι ιδανικές όταν δεν υπάρχει αρκετός χώρος στην ντουλάπα.
+
+    Υλικά: ABS + καουτσούκ 
+    Αντιολισθητικά τμήματα από καουτσούκ 
+    Μεταλλικά περιστρεφόμενα άγκιστρα (360°) 
+    Εξαιρετικά ανθεκτικές και εύκαμπτες 
+    Εγκοπές για φούστες 
+    Μέγιστη χωρητικότητα κάθε κρεμάστρας: 5 Kg 
+    Πάχος: 0.6 cm 
+    Διαστάσεις: 42 x 21.5 x 0.6 cm</Description>
+		<EAN>0194343316291</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762030111</SKU>
+		<Name>Songmics Βελούδινη Κρεμάστρα Ρούχων σε Ροζ Χρώμα Σετ 50τμχ CRF21PK50</Name>
+		<URL>https://www.skroutz.gr/s/35216186/Songmics-Kremastra-Rouchon-se-Roz-CHroma-CRF21PK50-50tmch.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/035216/35216186/xlarge_20220405114014_songmics_kremastra_rouchon_se_roz_chroma_crf21pk50_50tmch.jpeg</Image>
+		<Price>26.905179</Price>
+		<Category>Κρεμάστρες Ντουλάπας</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>CRF21PK50</MPN>
+		<Description>Το σετ από την εταιρία Songmics, αποτελείται από 50 βελούδινες κρεμάστρες, ώστε να αποφεύγεται η ολίσθηση των ρούχων. Διαθέτουν μεταλλικά άγκιστρα, ανθεκτικά στη σκουριά και στη διάβρωση, τα οποία περιστρέφονται κατά 360°, για μεγαλύτερη ευκολία.Το πάχος της κάθε κρεμάστρας είναι μόνο 0.6 cm, δεν σπάει εύκολα και είναι ιδανικές όταν δεν υπάρχει αρκετός χώρος στην ντουλάπα.</Description>
+		<EAN>0194343155760</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762030121</SKU>
+		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Μαύρο Χρώμα Σετ 10τμχ CRW02B10</Name>
+		<URL>https://www.skroutz.gr/s/37955167/Songmics-Kremastra-Rouchon-se-Mayro-CHroma-CRW02B10-10tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/037955/37955167/xlarge_20220907131935_songmics_kremastra_rouchon_se_mayro_chroma_crw02b10_10tmch.jpeg</Image>
+		<Price>13.0716925</Price>
+		<Category>Κρεμάστρες Ντουλάπας</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>CRW02B10</MPN>
+		<Description>To σετ με 20 κρεμάστρες από ξύλο σφενδάμου της Songmics θα σας βοηθήσει να βάλετε σε τάξη την ντουλάπα σας! Με αυτές τις ξύλινες κρεμάστρες ρούχων αποθηκεύετε τα ρούχα σας με στυλ και ταυτόχρονα αναβαθμίζετε την γκαρνταρόμπα σας. Είναι κατάλληλες για μπουφάν, παλτό, μπλουζάκια, πουκάμισα, φούστες, παντελόνια και πολλά άλλα.
+
+Οι κρεμάστρες είναι κατασκευασμένες από μασίφ ξύλο και είναι στιβαρές, ανθεκτικές, έχουν καλή ικανότητα φόρτωσης (έως 5 κιλά ανά κρεμάστρα) και αντέχουν εύκολα τα βαριά χειμωνιάτικα μπουφάν και παλτό.
+Χαρακτηριστικά
+
+    Υλικά: ξύλο σφενδάμου, μεταλλικός γάντζος.
+    Διαστάσεις ανά κρεμάστρα: 44,5 x 1,2 x 23 cm (Μ x Π x Υ).
+    Βάρος και για τις 20 κρεμάστρες: 2,3 κιλά.
+    Μέγιστο στατικό φορτίο ανά κρεμάστρα: 5 kg.</Description>
+		<EAN>0194343278315</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762030122</SKU>
+		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Λευκό Χρώμα Σετ 20τμχ CRW03W-20</Name>
+		<URL>https://www.skroutz.gr/s/24803629/Songmics-Kremastra-Rouchon-se-Leyko-CHroma-CRW03W-20-20tmch.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/024803/24803629/xlarge_20200917110129_songmics_kremastra_ntoulapas_xylini_crw03w_20_20tmch.jpeg</Image>
+		<Price>26.0221905</Price>
+		<Category>Κρεμάστρες Ντουλάπας</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>CRW03W-20</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Υλικό: Ξύλο Σφενδάμου
+    Ανθεκτικότητα στη Χρήση
+    Εγκοπές για Φούστες
+    Μεταλλικά, Περιστρεφόμενα Άγκιστρα</Description>
+		<EAN>0194343029085</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762030123</SKU>
+		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Καφέ Ανοιχτό Χρώμα Σετ 20τμχ CRW001-20</Name>
+		<URL>https://www.skroutz.gr/s/50798095/Songmics-Kremastra-Ntoulapas-gia-Pantelonia-Xylini-Kafe-CRW001-20-20tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/050798/50798095/xlarge_20240227112820_songmics_kremastra_rouchon_kafe_crw001_20_20tmch.jpeg</Image>
+		<Price>20.5511245</Price>
+		<Category>Κρεμάστρες Ντουλάπας</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>CRW001-20</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Υλικό: Ξύλο Σφενδάμου
+    Ανθεκτικότητα στη Χρήση
+    Εγκοπές για Φούστες
+    Μεταλλικά, Περιστρεφόμενα Άγκιστρα</Description>
+		<EAN>0194343029092</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762030131</SKU>
+		<Name>Songmics Κρεμάστρα Ντουλάπας για Παντελόνια / Φούστες με Κλιπς Βαρέως Τύπου Inox Σετ 20τμχ CRI003-20</Name>
+		<URL>https://www.skroutz.gr/s/25687541/Songmics-Kremastra-Ntoulapas-gia-Pantelonia-Foustes-me-Klips-Vareos-Typou-CRI003-20-20tmch.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/025687/25687541/xlarge_20201117125021_songmics_kremastra_ntoulapas_gia_pantelonia_foustes_me_klips_vareos_typou_cri003_20_20tmch.jpeg</Image>
+		<Price>15.0800585</Price>
+		<Category>Κρεμάστρες Ντουλάπας</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>CRI003-20</MPN>
+		<Description>Το σετ, από την εταιρία Songmics, αποτελείται από 20 κρεμάστρες κατασκευασμένες από μέταλλο, υψηλής ποιότητας, με εξαιρετική ανθεκτικότητα και ελαστικότητα. Διαθέτουν κλιπς, με επίστρωση από PVC στο άνοιγμα, τα οποία είναι αντιολισθητικά και δεν αφήνουν σημάδια στα ρούχα. Τα άγκιστρα τους περιστρέφονται κατά 360°, για μεγαλύτερη ευκολία. Καταλαμβάνουν λίγο αποθηκευτικό χώρο και είναι κατάλληλες για φούστες, παντελόνια ακόμα και κάλτσες.
+Χαρακτηριστικά
+
+    Από μέταλλο υψηλής ποιότητας 
+    Εξαιρετική ανθεκτικότητα 
+    Μεταλλικά περιστρεφόμενα άγκιστρα (360°) 
+    Κλιπς, με επίστρωση από PVC στο άνοιγμα 
+    Κατάλληλες για φούστες / παντελόνια
+    Σετ 20 τμχ 
+    Διαστάσεις: 31 x 10.5 cm</Description>
+		<EAN>6955880325559</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12801,7 +13007,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN> E-30461</MPN>
 		<Description>Το ψαλίδι κουζίνας της εταιρείας Sidirela με μήκος 21cm, είναι κατάλληλο για καθημερινή χρήση, σε όλες τις βασικές εργασίες προετοιμασίας φαγητού. Ιδανικό να τεμαχίσει φρούτα, λαχανικά, κρέας και άλλα, άμεσα και γρήγορα.</Description>
 		<EAN>5203642130462</EAN>
-		<Quantity>59</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13602,6 +13808,20 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>77001102</SKU>
+		<Name>Vasagle Ορθογώνιο Βοηθητικό Τραπεζάκι Ξύλινο με Ρόδες Καρυδί Μ50xΠ35xΥ61cm LNT50X</Name>
+		<URL>https://www.skroutz.gr/s/24435905/Orthogonio-Voithitiko-Trapezaki-Xylino-me-Rodes-Kafe-LNT50X-M50xP35xY61ek.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/024435/24435905/fixedratio_20200819114733_voithitiko_trapezaki_orthogonio_lnt50x.jpeg</Image>
+		<Price>31.09</Price>
+		<Category>Έπιπλα Σαλονιού</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LNT50X</MPN>
+		<Description>Το βοηθητικό τραπεζάκι σαλονιού της εταιρείας Vasagle είναι ιδανικό για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. Είναι ορθογώνιο και αποτελείται από μέταλλο και μοριοσανίδα. Διαθέτει 4 τροχούς για εύκολη μετακίνηση και αντέχει βάρος έως 25 κιλά.</Description>
+		<EAN>6955880369669</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>77001111</SKU>
 		<Name>Γραφείο Ξύλινο με Μεταλλικά Πόδια Sonama - Λευκό 60x40x89cm E-3977</Name>
 		<URL>https://www.skroutz.gr/s/33676073/Grafeio-Xylino-me-Metallika-Podia-Sonama-Leyko-60x40x89ek-E-3977.html</URL>
@@ -13623,18 +13843,182 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>77001151</SKU>
-		<Name>Sidirela Μεταλλικό Φαρμακείο Πρώτων Βοηθειών Τοίχου με Κλειδαριά Ασημί 30x30cm Ε-1355</Name>
-		<URL>https://www.skroutz.gr/s/19381336/Sidirela-Metalliko-Farmakeio-Proton-Voitheion-Toichou-me-Kleidaria-Asimi-30x30cm.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/019381/19381336/xlarge_20200821092434_afoi_sidiropouloi_farmakeio_inox_30_x_30_x_13cm.jpeg</Image>
-		<Price>12.24</Price>
-		<Category>Κουτιά Πρώτων Βοηθειών</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN> Ε-1355</MPN>
-		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.
+		<SKU>770011111</SKU>
+		<Name>Vasagle Μεταλλικό Γραφείο με ρυθμιζόμενα πόδια σε Μαύρο/Καφέ 100x50x76cm LWD041K01</Name>
+		<URL>https://www.digitec.ch/en/s1/product/vasagle-claire-100-x-50-x-76-cm-desks-57573367</URL>
+		<Image>https://static02.galaxus.com/productimages/1/3/0/9/7/9/9/5/5/6/4/1/3/6/8/7/0/2/8bbc759d-67b8-4f96-991c-014943acc50e.jpg_480.avif</Image>
+		<Additional_Image>https://static02.galaxus.com/productimages/2/5/3/7/3/6/9/9/3/3/4/1/2/4/9/0/8/5/7/9b461b03-927d-44ce-8989-afec087ee2db.jpg_480.avif https://static02.galaxus.com/productimages/7/1/6/7/6/2/0/7/7/0/1/0/6/1/7/2/7/7/1/4ba5d76f-e321-4bcf-90c9-3ac1378afb20.jpg_480.avif https://static02.galaxus.com/productimages/3/1/8/9/1/8/1/1/1/4/9/1/4/9/5/0/1/5/7/1745d645-7ccb-46fb-be6c-a764f7de8226.jpg_480.avif https://static02.galaxus.com/productimages/8/7/2/1/1/2/8/3/8/5/5/5/6/8/5/4/3/2/6/49897dfa-653f-49c0-a430-c7c3d8d5c876.jpg_480.avif https://static02.galaxus.com/productimages/5/2/5/3/4/6/1/0/7/3/2/6/1/7/2/3/3/2/0/3fdfa3a4-268b-4f1e-a791-d6b687c8f3e8.jpg_480.avif</Additional_Image>
+		<Price>45.378606</Price>
+		<Category>Έπιπλα Γραφείου</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LWD041K01</MPN>
+		<Description>Το γραφείο της Vasagle αποτελεί μια κομψή και λειτουργική προσθήκη σε διάφορους χώρους διαβίωσης και εργασίας. 
+Με τις συμπαγείς διαστάσεις του 100 x 50 x 76 cm, προσφέρει άφθονο χώρο για υπολογιστές, εργασίες γραφής και άλλα είδη γραφείου 
+χωρίς να καταλαμβάνει πολύ χώρο. Ο συνδυασμός ενός στιβαρού ατσάλινου σκελετού και μιας σταθερής επιφάνειας μοριοσανίδας εξασφαλίζει 
+ανθεκτικότητα και σταθερότητα, ενώ ο ελκυστικός χρωματικός συνδυασμός σε καφέ και μαύρο αποπνέει μια μοντέρνα αισθητική. 
+Οι σαφείς οδηγίες και τα ετικέτες στα εξαρτήματα κάνουν τη συναρμολόγηση του γραφείου παιχνιδάκι.
+Αυτό το γραφείο είναι ιδανικό για γραφείο στο σπίτι, υπνοδωμάτιο ή σαλόνι και ταιριάζει αρμονικά σε διαφορετικά στυλ εσωτερικού χώρου. 
+Τα ρυθμιζόμενα πόδια διατηρούν την ισορροπία του γραφείου του υπολογιστή ακόμα και σε ελαφρώς ανώμαλα δάπεδα. 
+Προστατεύουν επίσης το δάπεδό σας από γρατζουνιές.
+Η παχιά επιφάνεια του τραπεζιού και το πλαίσιο από χάλυβα υψηλής ποιότητας εξασφαλίζουν μια σταθερή και στιβαρή κατασκευή, 
+δίνοντας σε αυτό το γραφείο μεγάλη διάρκεια ζωής και υψηλή χωρητικότητα φορτίου έως και 50 κιλά
+Με βάρος μόλις 9,3 kg, είναι επίσης εύκολο στη μετακίνηση, επιτρέποντας ευέλικτη χρήση. 
+Το γραφείο της Vasagle συνδυάζει λειτουργικότητα και σχεδιασμό, καθιστώντας το μια πρακτική λύση για όποιον θέλει να δημιουργήσει 
+έναν κομψό χώρο εργασίας.</Description>
+		<EAN>0194343299464</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>770011201</SKU>
+		<Name>Songmics Περιστρεφόμενη Καρέκλα Γραφείου με Ανάκλιση και Ρυθμιζόμενα Μπράτσα Μαύρη OBN37BKV2</Name>
+		<URL>https://www.skroutz.gr/s/58829891/Karekla-Grafeiou-me-Anaklisi-OBN37BKV1-Black-Songmics.html#description</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/058829/58829891/fixedratio_20250218110104_karekla_grafeiou_me_anaklisi_obn37bkv1_black_songmics.jpeg</Image>
+		<Additional_Image>https://www.e-dructer.com/mediastream/w640/files/products/48fd6e13a3e51e165d2dea1a0d893512.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/b416867ce4a1fa706d5b6900dac1fa16.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/634b039eac145e5d4ef95033c402f94f.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/7f03a52b064d50bb3580ddb8ebce1126.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/814ff42ccf46c27650b8ae491de856b5.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/eaa9b5ae66b4609bdfcfe69f446da035.jpg.webp </Additional_Image>
+		<Price>106.137645</Price>
+		<Category> Έπιπλα Εισόδου</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>OBN37BKV2</MPN>
+		<Description>Η καρέκλα γραφείου της εταιρείας Songmics είναι από ύφασμα mesh, ένα συνθετικό υλικό που επιτρέπει την κυκλοφορία του αέρα και αποτρέπει την εφίδρωση του σώματος, ενώ διαθέτει μηχανισμό ανάκλισης, που σας παρέχει τη δυνατότητα να αλλάξετε τη θέση της πλάτης και στήριγμα μέσης, με ειδικό σχήμα ώστε να προσαρμόζεται στο περίγραμμα της μέσης προκειμένου να βελτιώσει τη στάση του σώματος, επιτρέποντας στη σπονδυλική στήλη να ξεκουραστεί στη φυσική της θέση.
 
-    Διαστάσεις: 30cm x 30cm</Description>
-		<EAN>5203642113557</EAN>
+Τεχνικά χαρακτηριστικά:
+Χρώμα: Μαύρο
+Υλικό: Πλαστικό, αφρός, νάιλον, ατσάλι
+Μέγεθος:Ύψος μπράτσων (από το κάθισμα): 22 cm
+Ύψος και πλάτος πλάτης: 53 x 51 cm
+Διαστάσεις καθίσματος: 53 x 53 cm
+Ύψος καθίσματος (από το έδαφος): 46-54 cm
+Συνολικό μέγεθος: 66 x 60 x (99-107) cm (Μ x Π x Υ)
+Μέγιστο στατικό φορτίο: 120 kg</Description>
+		<EAN>0194343414553</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700120801</SKU>
+		<Name>Vasagle Έπιπλο Εισόδου με Καθρέπτη / Κρεμάστρα &amp; Παπουτσοθήκη Καφέ/μαύρο 98x36x185cm HSR050B01V1</Name>
+		<URL>https://www.skroutz.gr/s/57572672/Epiplo-Eisodou-me-Kathrepti-Kremastra-Papoutsothiki-Kafe-mayro-98x36x185ek-HSR050B01.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/057572/57572672/fixedratio_20241120160601_epiplo_eisodou_me_kathrepti_kremastra_papoutsothiki_kafe_mayro_98x36x185ek_hsr050b01.jpeg</Image>
+		<Price>90.42947999999998</Price>
+		<Category> Έπιπλα Εισόδου</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>HSR050B01V1</MPN>
+		<Description>
+
+Πολυλειτουργική Κρεμάστρα Εισόδου
+
+Αυτό το έπιπλο εισόδου συνδυάζει κρεμάστρες, πάγκο, ραφιέρα παπουτσιών και καθρέφτη, αξιοποιώντας στο έπακρο τον διάδρομό σας.
+
+    Με χώρο για μπότες: Η μεγάλη ραφιέρα παπουτσιών είναι ιδανική για την αποθήκευση μποτών και άλλων μεγαλύτερων αντικειμένων.
+    9 Αφαιρούμενες Κρεμάστρες: Προσφέρει 9 εύκολα μετακινούμενες κρεμάστρες για εύκολη πρόσβαση.
+    Σταθερή και ανθεκτική: Το ατσάλινο πλαίσιο και οι μοριοσανίδες υποστηρίζουν έως 100 κιλά στον πάγκο. Περιλαμβάνει 4 ρυθμιζόμενα πόδια και αξεσουάρ κατά της ανατροπής.
+    Συμπεριλαμβάνεται: Πολυλειτουργική κρεμάστρα με συνδυασμό χρωμάτων ρουστίκ καφέ και μαύρου, εύκολη στη συναρμολόγηση με σαφείς οδηγίες και αριθμημένα μέρη.
+
+</Description>
+		<EAN>0194343411460</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700120901</SKU>
+		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο/Καφέ 80x30x48cm LBS75X</Name>
+		<URL>https://www.skroutz.gr/s/23281399/Epiplo-Eisodou-me-Papoutsothiki-Pagaki-Mayro-Kafe-80x30x48ek-LBS75X.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/023281/23281399/fixedratio_20250314165410_epiplo_eisodou_me_papoutsothiki_pagaki_mayro_kafe_80x30x48ek_lbs75x.jpeg</Image>
+		<Price>62.436945</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBS75X</MPN>
+		<Description>Η παπουτσοθήκη, από την εταιρία VASAGLE σε vintage σχεδιασμό, θα σας βοηθήσει να έχετε πάντα τακτοποιημένα και καθαρά τα παπούτσια σας. Διαθέτει μεταλλικό, ανθεκτικό σκελετό για μακροχρόνια χρήση. Έχει 2 ράφια, με χωρητικότητα έως 5 Kg το καθένα και με βάση σε μορφή μεταλλικού πλέγματος για τον επαρκή αερισμό των παπουτσιών σας. Στο πάνω μέρος διαθέτει πάγκο, κατασκευασμένο από συμπαγές MDF, με αφαιρούμενο, άνετο, μαξιλάρι από τεχνητό δέρμα, ο οποίος μπορεί να χρησιμοποιηθεί για την τοποθέτηση αντικειμένων ή σαν κάθισμα για να φορέσετε τα παπούτσια σας. Εύκολη στη φροντίδα, απλά τη καθαρίζετε με ένα υγρό πανί.
+
+Επιπλέον η παπουτσοθήκη έχει 4 ρυθμιζόμενα πόδια, που προστατεύουν το δάπεδο σας από γρατσουνιές και εξασφαλίζουν την μέγιστη σταθερότητα. Είναι ελαφριά και εύκολη στη μεταφορά.
+
+Χαρακτηριστικά:
+
+    Υλικό: ανθεκτικό μέταλλο, MDF, τεχνητό δέρμα
+    Με αφαιρούμενο μαξιλάρι
+    Ελαφριά και εύκολη στη μεταφορά
+    Εύκολη συναρμολόγηση
+    2 μεταλλικά ράφια
+    1 ξύλινος πάγκος στο πάνω μέρος
+    4 ρυθμιζόμενα πόδια
+    Ανθεκτική στη διάβρωση και στη φθορά
+    Μπορεί να χρησιμοποιηθεί σαν κάθισμα
+    Μέγιστο βάρος: 90 Kg
+    Μέγιστη χωρητικότητα ραφιού: 5 Kg
+    Διαστάσεις: 80 x 30 x 48 cm</Description>
+		<EAN>6955880357499</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700120902</SKU>
+		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο 80x30x50cm LSB054B01</Name>
+		<URL>https://www.skroutz.gr/s/49146606/Metalliki-Papoutsothiki-me-2-Rafia-Mayri-M80xP30xY50cm-LSB054B01.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/049146/49146606/fixedratio_20240109094736_metalliki_papoutsothiki_80x30x50cm_lsb054b01.jpeg</Image>
+		<Price>57.51631500000001</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LSB054B01</MPN>
+		<Description>Η παπουτσοθήκη της εταιρείας Vasagle διαθέτει τον κατάλληλο χώρο για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι μεταλλικής κατασκευής, προσφέροντας ανθεκτικότητα και στιβαρότητα.
+
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στην φωτογραφία.
+Τεχνικά χαρακτηριστικά:
+
+    Στιβαρός ατσάλινος σκελετός.
+    Ρυθμιζόμενα πόδια.
+    Εξοπλισμένη με 2 ράφια για παπούτσια.
+    Κάθισμα από λείο τεχνητό δέρμα με σφουγγάρι 25D πάχους 8εκ.
+    Μέγιστο βάρος καθίσματος: 135kg.
+
+</Description>
+		<EAN>0194343319735</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700120903</SKU>
+		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο/Πράσινο 80x30x50cm LSB054C01</Name>
+		<URL>https://www.skroutz.gr/s/49146607/Metalliki-Papoutsothiki-me-2-Rafia-Prasini-M80xP30xY50cm-LSB054C01.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/049146/49146607/fixedratio_20240109094736_metalliki_papoutsothiki_80x30x50cm_lsb054c01.jpeg</Image>
+		<Price>57.51631500000001</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LSB054C01</MPN>
+		<Description>Η παπουτσοθήκη της εταιρείας Vasagle διαθέτει τον κατάλληλο χώρο για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι μεταλλικής κατασκευής, προσφέροντας ανθεκτικότητα και στιβαρότητα.
+
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στην φωτογραφία.
+Τεχνικά χαρακτηριστικά:
+
+    Στιβαρός ατσάλινος σκελετός.
+    Ρυθμιζόμενα πόδια.
+    Εξοπλισμένη με 2 ράφια για παπούτσια.
+    Κάθισμα από λείο τεχνητό δέρμα με σφουγγάρι 25D πάχους 8εκ.
+    Μέγιστο βάρος καθίσματος: 135kg.</Description>
+		<EAN>0194343193557</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700120951</SKU>
+		<Name>Songmics Μεταλλική Παπουτσοθήκη με 3 Ράφια Μαύρη 92x30.5x55cm LSA303B02</Name>
+		<URL>https://www.skroutz.gr/s/37926968/Metalliki-Papoutsothiki-me-3-Rafia-Mayri-M92xP30-5xY55cm-LSA303B02.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/037926/37926968/fixedratio_20220906102547_metalliki_papoutsothiki_me_3_rafia_mayri_92by30_5x55cm_lsa303b02.jpeg</Image>
+		<Price>12.66288</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LSA303B02</MPN>
+		<Description>Το stand, από την εταιρία Songmics, είναι κατασκευασμένο από μεταλλικούς σωλήνες βαρέως τύπου (διαμέτρου 13 mm και πάχους 0,28 mm) και ποιοτικούς πλαστικούς συνδέσμους PP. Έχει 3 ράφια, μπορείτε να αποθηκεύσετε έως και 15 ζευγάρια παπούτσια και έχει μέγιστο βάρος 15 Kg.
+
+Χαρακτηριστικά:
+
+    Μεταλλικοί σωλήνες βαρέως τύπου
+    Πλαστικοί σύνδεσμοι
+    3 ράφια
+    Εύκολη συναρμολόγηση
+    Βάρος: 1.6 Kg
+    Μέγιστο βάρος: 15 Kg
+    Διαστάσεις: 92 x 30.5 x 55 cm</Description>
+		<EAN>6955880387373</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -13687,25 +14071,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>770012151</SKU>
-		<Name>Ντουλάπι Μπάνιου Ξύλινο Βamboo Μ55xΒ20xΥ83cm σε Φυσικό Χρώμα Ξύλου E-4243</Name>
-		<URL>https://www.skroutz.gr/s/57608062/Sidirela-E-4243-Ntoulapi-Mpaniou-M55xV20xY83cm-Fysiko-Xylo.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/057608/57608062/xlarge_20241122145223_sidirela_e_4243_ntoulapi_mpaniou_m55xv20xy83cm_fysiko_xylo.jpeg</Image>
-		<Price>39.64</Price>
-		<Category>Ντουλάπια Μπάνιου</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-4243</MPN>
-		<Description>Βασικά χαρακτηριστικά:
-
-    με 2 ράφια μοντέρνας αισθητικής
-    3 επίπεδα αποθήκευσης
-    2 πόρτες
-    Διαστάσεις: 56 x 20 x 81 cm</Description>
-		<EAN>5203642142434</EAN>
-		<Quantity>11</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>770012201</SKU>
 		<Name>Συρταριέρα-Κομοδίνο από Ξύλο, Μέταλλο &amp; Ύφασμα με 3 Συρτάρια Μ45xΠ29xΥ70εκ. E-3919</Name>
 		<URL>https://www.skroutz.gr/s/33080457/Syrtariera-Apothikeysis-apo-Xylo-Metallo-Yfasma-me-3-Syrtaria-E-3919-M45xP29xY70ek.html</URL>
@@ -13735,7 +14100,147 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Διαστάσεις ανοιχτή: 56x48x72εκ.
     Διαστάσεις κλειστή: 56x13x88εκ.</Description>
 		<EAN>5203642131971</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700123101</SKU>
+		<Name>Songmics Καλόγερος Μεταλλικός με 12 Κρεμάστρες Μαύρος 44x182cm RCR19B</Name>
+		<URL>https://www.skroutz.gr/s/21465856/Kalogeros-Metallikos-Mayros-RCR19B-44x44x182cm.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/021465/21465856/fixedratio_20191227142733_rcr19b.jpeg</Image>
+		<Price>21.729915</Price>
+		<Category>Καλόγεροι</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>RCR19B</MPN>
+		<Description>Ο μεταλλικός καλόγερος από την εταιρεία Songmics είναι κατασκευασμένος από μέταλλο, ανθεκτικό στη σκουριά και το χρόνο. Διαθέτει 12 κρεμάστρες για να κρεμάτε τα ρούχα σας, μπουφάν, ζακέτες, πουκάμισα και διάφορα αξεσουάρ, όπως καπέλα, σκούφους κλπ.
+
+Έχει καπάκια από καουτσούκ σε κάθε κρεμάστρα για να προστατεύει τα ρούχα σας από φθορές και την ολίσθηση, αλλά και στη βάση για την προστασία του δαπέδου σας. Συναρμολογείται εύκολα και ταιριάζει απόλυτα στην είσοδο αλλά και σε κάθε χώρο του σπιτιού.
+
+Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί είναι σταθερή/στιβαρή κατασκευή.
+Χαρακτηριστικά
+
+    Μεταλλική κατασκευή
+    Διαθέτει 12 κρεμάστρες
+    Εξαιρετικά ανθεκτικός
+    Με μεγάλη σταθερότητα
+    Με προστατευτικά από καουτσούκ
+    Διαστάσεις: 44 x 182 cm</Description>
+		<EAN>6955880316991</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700130101</SKU>
+		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Ρυθμιζόμενο Φωτισμό 80x40x145cm RDT114W01</Name>
+		<URL>https://www.skroutz.gr/s/38621267/Toualeta-Krevatokamaras-Xylini-Leyki-me-Kathrepti-80x40x145ek-RDT114W01.html#reviews</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/038621/38621267/fixedratio_20221010163838_xylini_toualeta_krevatokamaras_leyki_me_kathrepti_80x40x145ek_rdt114w01.jpeg</Image>
+		<Price>128.72223</Price>
+		<Category> Τουαλέτες Κρεβατοκάμαρας</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>RDT114W01</MPN>
+		<Description>Τουαλέτα κρεβατοκάμαρας με καθρέπτη από την εταιρεία Vasagle, κατασκευασμένη από MDF ξύλο. Περιμετρικά στον καθρέπτη, υπάρχουν 9 ρυθμιζόμενοι λαμπτήρες, οι οποίοι δημιουργούν επαρκή φωτισμό για το μακιγιάζ σας. Περιλαμβάνει 3 ανοιχτές θήκες και 2 συρτάρια για την οργάνωση κοσμημάτων ή άλλων αντικειμένων.
+
+Ιδανική λύση για την τακτοποίηση προϊόντων ομορφιάς και καθημερινών χρήσεων.
+
+Το προϊόν έρχεται αμοντάριστο και συνοδεύεται από οδηγίες συναρμολόγησης.
+
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία.
+Χαρακτηριστικά:
+
+    Από MDF ξύλο
+    2 συρτάρια
+    3 ανοιχτές θήκες
+    Ορθογώνιος καθρέπτης
+    9 ρυθμιζόμενοι λαμπτήρες
+    Διαστάσεις: 80 x 40 x 145 cm</Description>
+		<EAN>0194343107776</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700130102</SKU>
+		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Φωτισμό 90x40x145cm RDT123T14V1</Name>
+		<URL>https://www.skroutz.gr/s/52594024/Toualeta-Krevatokamaras-Xylini-Mpountouar-me-Kathrepti-90x40x145ek-RDT123T14.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/094411/94411771/fixedratio_20240419135057_044f82b5.jpeg</Image>
+		<Price>159.984552</Price>
+		<Category> Τουαλέτες Κρεβατοκάμαρας</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>RDT123T14V1</MPN>
+		<Description>
+
+1 ράφι στην κορυφή για τα αρώματά σας, 7 ανοιχτά διαμερίσματα για τα καλλυντικά σας, 2 διαμερίσματα και γάντζοι πίσω από τον καθρέφτη, 1 επιφάνεια τραπεζιού, 2 συρτάρια και 1 ράφι στο κάτω μέρος, αυτό το τραπέζι μακιγιάζ σας παρέχει σημαντικό χώρο.
+
+Πατήστε το κουμπί αφής για να αλλάξετε τα χρώματα του φωτός, πατήστε το κουμπί για μερικά δευτερόλεπτα για να ρυθμίσετε τη φωτεινότητα, όλα είναι συνδυασμένα για να κάνετε το μακιγιάζ σας πολύ γρήγορα!
+
+Οι 2 σανίδες στα αριστερά και η μεσαία σανίδα στα δεξιά είναι ρυθμιζόμενες σε 3 ύψη, για να φιλοξενήσουν τα προϊόντα σας διαφορετικών μεγεθών, όπως κρέμες προσώπου, ορούς, βάσεις, καθαριστικά μακιγιάζ και άλλα.
+
+Κατασκευασμένο από ποιοτική μοριοσανίδα, αυτό το τραπέζι μακιγιάζ είναι σταθερό και ανθεκτικό με την πάροδο του χρόνου. Η επιφάνειά του είναι ανθεκτική στη φθορά και εύκολη στον καθαρισμό, θα σας συνοδεύει για χρόνια.
+
+Ο απλός σχεδιασμός, οι καθαρές γραμμές και το καθαρό λευκό φέρνουν αυτό το μοντέρνο τραπέζι μακιγιάζ στη ζωή που θα φέρει μια πινελιά κομψότητας στο δωμάτιό σας.
+
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία και είναι ικανοποιητική η χωρητικότητά της.</Description>
+		<EAN>0194343038032</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700130103</SKU>
+		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας από Ξύλο &amp; Μέταλλο Καφέ με Καθρέπτη και Μεταλλικό Σκαμπό 90x40x141cm RVT004B01V1</Name>
+		<URL>https://www.skroutz.gr/s/36477711/Toualeta-Krevatokamaras-apo-Xylo-Metallo-Kafe-me-Kathrepti-90x40x141ek-RVT004B01.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/036477/36477711/fixedratio_20220608102909_toualeta_krevatokamaras_apo_xylo_metallo_kafe_me_kathrepti_90x40x141ek_rvt004b01.jpeg</Image>
+		<Price>165.45165</Price>
+		<Category> Τουαλέτες Κρεβατοκάμαρας</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>RVT004B01V1</MPN>
+		<Description>Το μπουντουάρ, από την εταιρία VASAGLE, διαθέτει στιβαρό ατσάλινο σκελετό και επιφάνειες από υψηλής ποιότητας μοριοσανίδες. Έχει πτυσσόμενο καθρέπτη 3 τεμαχίων, ο οποίος σας επιτρέπει να ελέγχετε το μακιγιάζ σας από διαφορετικές γωνίες. Όταν ο καθρέπτης κλείνει, μπορείτε να τοποθετήσετε τα κολιέ σας στους γάντζους που βρίσκονται στην πίσω πλευρά του.
+
+Επιπρόσθετα, διαθέτει:
+
+    4 ανοιχτά διαμερίσματα κάτω από τον καθρέπτη
+    Θήκη για στεγνωτήρα μαλλιών στο πλάι
+    Θήκη για βούρτσες και πινέλα επίσης στο πλάι
+    3 ευρύχωρα συρτάρια
+
+Συνοδεύεται από μεταλλικό σκαμπό με επένδυση.
+
+Χαρακτηριστικά:
+
+    Μεταλλικός σκελετός από ατσάλι
+    Επιφάνειες από υψηλής ποιότητας μοριοσανίδες
+    Πτυσσόμενος καθρέπτης 3 τεμαχίων
+    Γάντζοι για κολιέ πίσω από τον καθρέπτη
+    4 ανοιχτά διαμερίσματα κάτω από τον καθρέπτη
+    Θήκη για στενωτήρα μαλλιών στο πλάι
+    Θήκη για βούρτσες και πινέλα στο πλάι
+    3 ευρύχωρα συρτάρια
+    Μεταλλικό σκαμπό με επένδυση
+    Μέγιστο βάρος (σκαμπό): 150 Kg
+    Διαστάσεις (σκαμπό): 42 x 28.6 x 42.5 cm
+    Διαστάσεις (μπουντουάρ): 90 x 40 x 141 cm
+    Βάρος: 29 Kg
+
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία και είναι ικανοποιητική η χωρητικότητά της.</Description>
+		<EAN>0194343013169</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700130501</SKU>
+		<Name>Songmics Μπιζουτιέρα Κουτί Ξύλινη με Συρτάρι &amp; Καθρέφτη 27x12.5x12.5cm JOW008K01</Name>
+		<URL>https://www.skroutz.gr/s/43748642/Songmics-Mpizoutiera-Kouti-Xylini-me-Syrtari-Kathrefti-27x12-5x12-5cm-JOW008K01.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/043748/43748642/fixedratio_20230630132602_songmics_mpizoutiera_kouti_xylini_me_syrtari_kathrefti_jow008k01.jpeg</Image>
+		<Price>23.401683</Price>
+		<Category>Μπιζουτιέρες</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>JOW008K01</MPN>
+		<Description>Θήκη ρολογιών από ξύλο με καπάκι και θέσεις για 8 ρολόγια.
+
+    Υλικό: Ξύλο Paulownia, Velvet Liner, Γυάλινο Καπάκι
+    Με συρτάρι για κοσμήματα
+    Μέγεθος προϊόντος: 27 x 20 x 13 cm (Μ x Π x Υ) 
+    Βάρος προϊόντος: 1,3 kg</Description>
+		<EAN>0194343005225</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13776,6 +14281,277 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>771500501</SKU>
+		<Name>Ντουλάπι Μπάνιου Ξύλινο Βamboo Μ55xΒ20xΥ83cm σε Φυσικό Χρώμα Ξύλου E-4243</Name>
+		<URL>https://www.skroutz.gr/s/57608062/Sidirela-E-4243-Ntoulapi-Mpaniou-M55xV20xY83cm-Fysiko-Xylo.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/057608/57608062/xlarge_20241122145223_sidirela_e_4243_ntoulapi_mpaniou_m55xv20xy83cm_fysiko_xylo.jpeg</Image>
+		<Price>39.64</Price>
+		<Category>Ντουλάπια Μπάνιου</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-4243</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    με 2 ράφια μοντέρνας αισθητικής
+    3 επίπεδα αποθήκευσης
+    2 πόρτες
+    Διαστάσεις: 56 x 20 x 81 cm</Description>
+		<EAN>5203642142434</EAN>
+		<Quantity>10</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>771500511</SKU>
+		<Name>Sidirela Μεταλλικό Φαρμακείο Πρώτων Βοηθειών Τοίχου με Κλειδαριά Ασημί 30x30cm Ε-1355</Name>
+		<URL>https://www.skroutz.gr/s/19381336/Sidirela-Metalliko-Farmakeio-Proton-Voitheion-Toichou-me-Kleidaria-Asimi-30x30cm.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/019381/19381336/xlarge_20200821092434_afoi_sidiropouloi_farmakeio_inox_30_x_30_x_13cm.jpeg</Image>
+		<Price>12.24</Price>
+		<Category>Κουτιά Πρώτων Βοηθειών</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN> Ε-1355</MPN>
+		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.
+
+    Διαστάσεις: 30cm x 30cm</Description>
+		<EAN>5203642113557</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006011</SKU>
+		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Υφασμάτινο Κάδο 50x33x72cm Μαύρο BLH101B01</Name>
+		<URL>https://www.skroutz.gr/s/46912789/Vasagle-BLH101B01-Kalathi-Aplyton-Metalliko-me-Kapaki-50x33x72cm-Mayro.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/046912/46912789/fixedratio_20231020103636_vasagle_blh101b01_kalathi_aplyton_metalliko_50x33x72cm_mayro.jpeg</Image>
+		<Price>38.78223999999999</Price>
+		<Category>Καλάθια Απλύτων</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>BLH101B01</MPN>
+		<Description>Το καλάθι απλύτων, από την εταιρία VASAGLE, είναι ιδανικό για την για την οργάνωση των άπλυτων ρούχων στο μπάνιο. Διαθέτει ατσάλινο πλαίσιο και 1 σάκο για τα ρούχα συνολικής χωρητικότητας 65 Lt. Στο πάνω μέρος έχει διάτρητο ράφι από MDF, παρέχοντας επιπλέον χώρο για την οργάνωση απορρυπαντικών ή προϊόντων περιποίησης.
+
+Ο σάκος για τα άπλυτα ρούχα, είναι κατασκευασμένος από υδατοαπωθητικό ύφασμα Oxford και είναι εξοπλισμένο με ένα πλαστικό πάνελ στο κάτω μέρος για την αποφυγή χαλάρωσης. Χάρη στο κούμπωμα με γάντζο και βρόχο, μπορείτε να τραβήξετε και να αφαιρέσετε τον σάκο για να τον μεταφέρετε εύκολα στο πλυντήριο.
+Η συσκευασία περιλαμβάνει:
+
+    Το καλάθι απλύτων
+    Το σύστημα στερέωσης στον τοίχο (x2)
+    Το κιτ με τα αξεσουάρ συναρμολόγησης
+    Τις οδηγίες χρήσεως
+
+
+Χαρακτηριστικά:
+
+    Πλαίσιο από ατσάλινο σωλήνα 2 cm
+    Διάτρητο ράφι από MDF στην κορυφή
+    Αφαιρούμενος σάκος από υδατοαπωθητικό ύφασμα Oxford
+    Ρυθμιζόμενα πόδια
+    Βάρος: 4.7 Kg
+    Μέγιστο βάρος ραφιού: 20 Kg
+    Μέγιστο βάρος σάκου: 10 Kg
+    Συνολικό μέγιστο βάρος: 30 Kg
+    Διαστάσεις σάκου: 42 x 30 x 51 cm
+    Συνολικές διαστάσεις: 50 x 33 x 72 cm
+
+
+</Description>
+		<EAN>0194343043487</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006012</SKU>
+		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Υφασμάτινο Κάδο 50x33x72cm Λευκό BLH101W01</Name>
+		<URL>https://www.skroutz.gr/s/46919073/Vasagle-BLH101W01-Kalathi-Aplyton-Metalliko-50x33x72cm-Leyko.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/046919/46919073/fixedratio_20231020130849_vasagle_blh101w01_kalathi_aplyton_metalliko_50x33x72cm_leyko.jpeg</Image>
+		<Price>38.78223999999999</Price>
+		<Category>Καλάθια Απλύτων</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>BLH101W01</MPN>
+		<Description>Το καλάθι απλύτων, από την εταιρία VASAGLE, είναι ιδανικό για την για την οργάνωση των άπλυτων ρούχων στο μπάνιο. Διαθέτει ατσάλινο πλαίσιο και 1 σάκο για τα ρούχα συνολικής χωρητικότητας 65 Lt. Στο πάνω μέρος έχει διάτρητο ράφι από MDF, παρέχοντας επιπλέον χώρο για την οργάνωση απορρυπαντικών ή προϊόντων περιποίησης.
+
+Ο σάκος για τα άπλυτα ρούχα, είναι κατασκευασμένος από υδατοαπωθητικό ύφασμα Oxford και είναι εξοπλισμένο με ένα πλαστικό πάνελ στο κάτω μέρος για την αποφυγή χαλάρωσης. Χάρη στο κούμπωμα με γάντζο και βρόχο, μπορείτε να τραβήξετε και να αφαιρέσετε τον σάκο για να τον μεταφέρετε εύκολα στο πλυντήριο.
+Η συσκευασία περιλαμβάνει:
+
+    Το καλάθι απλύτων
+    Το σύστημα στερέωσης στον τοίχο (x2)
+    Το κιτ με τα αξεσουάρ συναρμολόγησης
+    Τις οδηγίες χρήσεως
+
+
+Χαρακτηριστικά:
+
+    Πλαίσιο από ατσάλινο σωλήνα 2 cm
+    Διάτρητο ράφι από MDF στην κορυφή
+    Αφαιρούμενος σάκος από υδατοαπωθητικό ύφασμα Oxford
+    Ρυθμιζόμενα πόδια
+    Βάρος: 4.7 Kg
+    Μέγιστο βάρος ραφιού: 20 Kg
+    Μέγιστο βάρος σάκου: 10 Kg
+    Συνολικό μέγιστο βάρος: 30 Kg
+    Διαστάσεις σάκου: 42 x 30 x 51 cm
+    Συνολικές διαστάσεις: 50 x 33 x 72 cm</Description>
+		<EAN>0194343043494</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006021</SKU>
+		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Διπλό Υφασμάτινο Κάδο 73x33x72cm Γκρι BLH201G01</Name>
+		<URL>https://www.skroutz.gr/s/43081909/Vasagle-BLH201G01-Kalathi-Aplyton-Yfasmatino-73x33x72cm-Brown-Grey.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/043081/43081909/fixedratio_20230621132154_vasagle_blh201g01_kalathi_aplyton_plastiko_kafe.jpeg</Image>
+		<Price>53.18707199999999</Price>
+		<Category>Καλάθια Απλύτων</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>BLH201G01</MPN>
+		<Description>Αυτό το καλάθι απλύτων της Vasagle έχει δύο σακούλες από ύφασμα Oxford για να σας βοηθήσουν να αποθηκεύετε τα κλινοσκεπάσματα και τα ρούχα ξεχωριστά ή να ταξινομείτε τα ρούχα ανά χρώμα.
+Επιπλέον ράφι αποθήκευσης
+
+Το επάνω ράφι αυτού του καλαθιού σάς προσφέρει επιπλέον χώρο αποθήκευσης για να διατηρείτε τα απορρυπαντικά ή τα απαραίτητα για το μπάνιο σας αντικείμενα σε κοντινή απόσταση.
+Στιβαρό και σταθερό
+
+Ο συνδυασμός ενός στιβαρού σκελετού από χάλυβα και MDF υψηλής ποιότητας δίνει στο καλάθι υψηλό βαθμό σταθερότητας. Τα ρυθμιζόμενα πόδια και τα αντιολισθητικά προστατευτικά παρέχουν σταθερότητα.
+Αποσπώμενες σακούλες
+
+Οι 2 σακούλες υποστηρίζονται με πλαστικά πάνελ στο κάτω μέρος για την αποφυγή χαλάρωσης και μπορείτε εύκολα να αφαιρέσετε τις σακούλες για να μεταφέρετε τα ρούχα στο πλυντήριο.
+Πολυχρηστικό
+
+Αυτό το καλάθι ταιριάζει στο μπάνιο, στο δωμάτιο πλυντηρίου ή στην κρεβατοκάμαρα. Τοποθετήστε το όπου χρειάζεστε χώρο αποθήκευσης για τα ρούχα σας.
+Σημειώσεις
+
+    Για λόγους ασφαλείας, τα παιδιά δεν επιτρέπεται να σκαρφαλώνουν ή να παίζουν με το προϊόν.
+    Στερεώστε αυτό το προϊόν στον τοίχο για να διασφαλίσετε την ασφαλή χρήση.
+    Μην κάθεστε πάνω στο καλάθι γιατί μπορεί να ανατραπεί.
+    Να είστε προσεκτικοί όταν τραβάτε έξω και σπρώχνετε τις σακούλες με τα ρούχα, για να αποφύγετε να τραυματίσετε τα δάχτυλά σας.
+    Οι υφασμάτινες σακούλες δεν πλένονται στο πλυντήριο.
+
+Χαρακτηριστικά
+
+    Υλικό: MDF (ινοσανίδες μεσαίας πυκνότητας), χάλυβας, ύφασμα oxford
+    Συνολικό μέγεθος: 73 x 33 x 72 cm (Μ x Π x Υ)
+    Μέγεθος ανά σακούλα: 30 x 30 x 51 cm (Μ x Π x Υ)
+    Βάρος: 6,1 kg
+    Μέγιστο συνολικό στατικό φορτίο: 30 kg
+    Μέγιστο στατικό φορτίο ανά σακούλα: 5 kg
+    Μέγιστο στατικό φορτίο του ραφιού: 20 kg
+    Χωρητικότητα: 46L η κάθε σακούλα</Description>
+		<EAN>0194343037967</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006022</SKU>
+		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Διπλό Υφασμάτινο Κάδο 73x33x72cm Λευκό BLH201W01</Name>
+		<URL>https://www.skroutz.gr/s/46912790/Vasagle-BLH201W01-Kalathi-Aplyton-Metalliko-73x33x72cm-Leyko.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/046912/46912790/fixedratio_20231020103637_vasagle_blh201w01_kalathi_aplyton_metalliko_73x33x72cm_leyko.jpeg</Image>
+		<Price>53.18707199999999</Price>
+		<Category>Καλάθια Απλύτων</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>BLH201W01</MPN>
+		<Description>Το καλάθι απλύτων από την εταιρία VASAGLE είναι ιδανικό για την οργάνωση των άπλυτων ρούχων στο μπάνιο. Διαθέτει ατσάλινο πλαίσιο και 2 χώρους συνολικής χωρητικότητας 96 Lt, επιτρέποντας την οργάνωση των ρούχων ανά τύπο και το διαχωρισμό των ανοιχτόχρωμων από τα σκούρα.
+
+Στο πάνω μέρος υπάρχει διάτρητο ράφι από MDF, το οποίο παρέχει επιπλέον χώρο για την οργάνωση απορρυπαντικών ή προϊόντων περιποίησης.
+
+Η κάθε τσάντα του καλαθιού είναι κατασκευασμένη από υδατοαπωθητικό ύφασμα Oxford και διαθέτει πλαστικό πάνελ στο κάτω μέρος για την αποφυγή χαλάρωσης. Το κούμπωμα με γάντζο και βρόχο διευκολύνει την αφαίρεση των χώρων για εύκολη μεταφορά στο πλυντήριο.
+
+Χαρακτηριστικά:
+
+    Πλαίσιο από ατσάλινο σωλήνα 2 cm
+    Διάτρητο ράφι από MDF στην κορυφή
+    2 αφαιρούμενοι χώροι από υδατοαπωθητικό ύφασμα Oxford
+    Ρυθμιζόμενα πόδια
+    Διαστάσεις κάθε τσάντας: 30 x 30 x 51 cm
+    Βάρος: 6.1 Kg
+    Μέγιστο βάρος ραφιού: 20 Kg
+    Μέγιστο βάρος / τσάντα: 5 Kg
+    Συνολικό μέγιστο βάρος: 30 Kg
+    Συνολικές διαστάσεις: 73 x 33 x 72 cm
+</Description>
+		<EAN>0194343042589</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006101</SKU>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Λευκό E-1810wh</Name>
+		<URL>https://www.skroutz.gr/s/52554708/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Leyko.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/052554/52554708/fixedratio_20250305164226_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou.jpeg</Image>
+		<Price>20.33</Price>
+		<Category>Πιγκάλ</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN> E-1810wh</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα.
+Πιγκάλ
+
+Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<EAN>5203642118101</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006102</SKU>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Γκρι E-1810gr</Name>
+		<URL>https://www.skroutz.gr/s/44876571/Sidirela-E-1810-2-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Gri.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/044876/44876571/fixedratio_20230801183758_sidirela_e_1810_2_plastiko_set_pigal_kai_kalathaki_mpaniou_soft_close_7lt_gri.jpeg</Image>
+		<Price>20.33</Price>
+		<Category>Πιγκάλ</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810gr</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα.
+Πιγκάλ
+
+Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<EAN>5203642118101</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006103</SKU>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Μαύρο E-1810bl</Name>
+		<URL>https://www.skroutz.gr/s/52554701/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Mayro.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/052554/52554701/fixedratio_20240418183343_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou_mayro.jpeg</Image>
+		<Price>20.33</Price>
+		<Category>Πιγκάλ</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810bl</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα.
+Πιγκάλ
+
+Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<EAN>5203642118101</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006151</SKU>
+		<Name>Sidirela Πλαστικός Κάδος Μπάνιου 6lt Silver-Black E-1941</Name>
+		<URL>https://www.skroutz.gr/s/15886990/E-1941-Plastiko-Kalathaki-Mpaniou-5lt-Black-Silver.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/015886/15886990/fixedratio_20220809174026_e_1941_plastiko_kalathaki_mpaniou_5lt_black_silver.jpeg</Image>
+		<Price>8.34</Price>
+		<Category>Πιγκάλ</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN> E-1941</MPN>
+		<Description>Το καλαθάκι μπάνιου της Sidirela είναι η ιδανική λύση για τον οργανωμένο χώρο σας. Με την κομψή και μοντέρνα εμφάνιση του σε μαύρο και ασημί χρώμα, προσφέρει μια διακριτική αλλά κομψή πινελιά στη διακόσμηση του μπάνιου σας.
+
+    Αυτό το καλάθι είναι κατασκευασμένο από ανθεκτικό πλαστικό, εξασφαλίζοντας μακροχρόνια χρήση και ευκολία στην καθαριότητα.
+    Είναι επιδαπέδιο, πράγμα που το καθιστά ιδανικό για οποιοδήποτε μπάνιο και βοηθά στη διατήρηση της τάξης.
+    Έχει χωρητικότητα 5 lt, παρέχοντας αρκετό χώρο για τα απορρίμματα ή τα αξεσουάρ μπάνιου σας.
+
+Με την απλή και πρακτική σχεδίαση, το καλαθάκι αυτό θα γίνει απαραίτητο στη ρουτίνα σας, κάνοντάς την πιο οργανωμένη και κομψή.</Description>
+		<EAN>5203642119412</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7715006181</SKU>
+		<Name>Sidirela Πλαστικό Πιγκάλ Μπάνιου Silver-Black E-1942</Name>
+		<URL>https://www.skroutz.gr/s/14829720/E-1942-Plastiko-Pigal-Mpaniou-Black-Silver.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/051273/51273780/fixedratio_20220809174024_59ca5c61.jpeg</Image>
+		<Price>3.75</Price>
+		<Category>Πιγκάλ</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN> E-1942</MPN>
+		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
+		<EAN>5203642119429</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>77002</SKU>
 		<Name>Flamingo Πετσέτα Κουζίνας 65x45cm 2τμχ</Name>
 		<URL>https://www.skroutz.gr/s/41951652/Flamingo-Petseta-Kouzinas-65x45cm-5206952011223-1-2tmch.html</URL>
@@ -13786,11 +14562,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1125</MPN>
 		<Description>Η πετσέτα κουζίνας της εταιρείας Flamingo είναι κατάλληλη για να σκουπίζετε τα πιάτα, απορροφά την υγρασία, καθαρίζει επιφάνειες, στεγνώνει βότανα και λαχανικά και σας βοηθάει να κρατάτε με ασφάλεια ζεστά πιάτα και μαγειρικά σκεύη.Φροντίδα: Συνιστάται πλύσιμο με ζεστό νερό για την εξάλειψη των βακτηρίων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Αποφύγετε τη χρήση μαλακτικού, καθώς το μαλακτικό δημιουργεί ένα στρώμα στις ίνες του υφάσματος, καθιστώντας έτσι πιο δύσκολη την απορρόφηση της υγρασίας. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
 		<EAN>5206952011223</EAN>
-		<Quantity>366</Quantity>
+		<Quantity>364</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>77002101</SKU>
+		<SKU>772100101</SKU>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα μονό αδιάβροχο με φάσα 100Χ200+30cm E-3441</Name>
 		<URL>https://www.skroutz.gr/s/28417782/Sidirela-Prostateytiko-Epistroma-Mono-Adiavrocho-me-Fasa-Prasino-E-3441-100x200-30ek.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/028417/28417782/xlarge_20210809125531_sidi_home_epistroma_mono_adiavrocho_100x200cm_e_3441.jpeg</Image>
@@ -13806,11 +14582,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134415</EAN>
-		<Quantity>81</Quantity>
+		<Quantity>76</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>77002102</SKU>
+		<SKU>772100102</SKU>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα ημίδιπλο αδιάβροχο με φάσα 120Χ200+30cm E-3442</Name>
 		<URL>https://www.skroutz.gr/s/28417838/Sidirela-Prostateytiko-Epistroma-Imidiplo-Adiavrocho-me-Fasa-Prasino-E-3442-120x200-30ek.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/028417/28417838/xlarge_20210809125531_sidi_home_epistroma_imidiplo_adiavrocho_120x200cm_e_3442.jpeg</Image>
@@ -13830,7 +14606,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>77002103</SKU>
+		<SKU>772100103</SKU>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα υπέρδιπλο αδιάβροχο με φάσα 160Χ200+30cm E-3443</Name>
 		<URL>https://www.skroutz.gr/s/28417802/Sidirela-Prostateytiko-Epistroma-Yperdiplo-Adiavrocho-me-Fasa-Prasino-E-3443-160x200-30ek.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/028417/28417802/xlarge_20210420131649_sidi_home_epistroma_diplo_adiavrocho_160x200cm_e_3443.jpeg</Image>
@@ -13850,7 +14626,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>77002104</SKU>
+		<SKU>772100104</SKU>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα KING SIZE αδιάβροχο με φάσα 180Χ200+30cm E-3444</Name>
 		<URL>https://www.skroutz.gr/s/28417745/Sidirela-Prostateytiko-Epistroma-King-Size-Adiavrocho-me-Fasa-Prasino-E-3444-180x200-30ek.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/028417/28417745/xlarge_20210420131600_sidi_home_epistroma_yperdiplo_adiavrocho_180x200cm_e_3444.jpeg</Image>
@@ -13866,7 +14642,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134446</EAN>
-		<Quantity>55</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14880,10 +15656,10 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 	</product>
 	<product>
 		<SKU>78527</SKU>
-		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 2000ml Διάφανο 50τμχ ΕΜ7221</Name>
-		<URL>https://www.skroutz.gr/s/28096166/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-2000ml-Diafano.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/033251/33251358/20211230132650_diafano_qft2000_pet_2000ml_50tmch.jpeg</Image>
-		<Price>7.6469772288</Price>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 2000ml Διάφανο 50τμχ ΕΜ6863</Name>
+		<URL>https://www.skroutz.gr/s/59779819/docheio-fag-orthog-2000ml-50t-kapaki.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/059779/59779819/xlarge_20250411105254_docheio_fag_orthog_2000ml_50t_kapaki.jpeg</Image>
+		<Price>10.13</Price>
 		<Category>Σκεύη Πλαστικά (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0667</MPN>
@@ -15043,7 +15819,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0138</MPN>
 		<Description>• 10 τεμάχια• Διάμετρος: 23cm</Description>
 		<EAN>5202054472986</EAN>
-		<Quantity>796</Quantity>
+		<Quantity>794</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15191,7 +15967,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0321</MPN>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.• Μέγεθος: 43 cm• Συσκευασία: 200 τεμάχια</Description>
 		<EAN>5202054468651</EAN>
-		<Quantity>232</Quantity>
+		<Quantity>231</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15252,7 +16028,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
 		<EAN>5202054032272</EAN>
-		<Quantity>198</Quantity>
+		<Quantity>197</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15266,7 +16042,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1568</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας Softline Fresher, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Μήκος(μέτρα): 8μ.    Πλάτος: 38εκ.</Description>
 		<EAN>5201062008965</EAN>
-		<Quantity>140</Quantity>
+		<Quantity>138</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16131,7 +16907,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1411</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Μέγεθος: A4 8/32    •Υλικό: Πλαστικό PP    •Μηχανισμός 2 κρίκων</Description>
 		<EAN>5203358035044</EAN>
-		<Quantity>58</Quantity>
+		<Quantity>57</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16271,7 +17047,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<EAN>5203358500344</EAN>
-		<Quantity>6135</Quantity>
+		<Quantity>6123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18339,7 +19115,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1521</MPN>
 		<Description>Το μίξερ χειρός Gruppe Designed in Greece PDH007 ξεχωρίζει για την ομορφιά και την κομψότητά του. Είναι ιδιαίτερα εργονομικό και παράλληλα λεπτό και κομψό. Βασική διαφορά του είναι ο μεταλλικός κονέκτορας που του δίνει μεγαλύτερη αντοχή.</Description>
 		<EAN>5206684006139</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18354,20 +19130,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Το μίξερ χειρός Gruppe Designed in Greece PDH007 ξεχωρίζει για την ομορφιά και την κομψότητά του. Είναι ιδιαίτερα εργονομικό και παράλληλα λεπτό και κομψό. Βασική διαφορά του είναι ο μεταλλικός κονέκτορας που του δίνει μεγαλύτερη αντοχή.</Description>
 		<EAN>5206684006122</EAN>
 		<Quantity>12</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7991111</SKU>
-		<Name>Gruppe PDH 330 Φραπεδιέρα Επιτραπέζια 100W Μαύρη</Name>
-		<URL>https://www.skroutz.gr/s/15449985/Gruppe-PDH-330-Frapediera-Epitrapezia-100W-Mayri.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/015449/15449985/20210608122400_gruppe_pdh_330_black.jpeg</Image>
-		<Price>20.4</Price>
-		<Category>Φραπεδιέρες</Category>
-		<Manufacturer>GRUPPE</Manufacturer>
-		<MPN>1695</MPN>
-		<Description>Το μίξερ ροφημάτων Gruppe Designed in Greece PDH330 ξεχωρίζει για την ομορφιά και την κομψότητά του, έχει απλό και αφαιρετικό και παράλληλα λεπτό και κομψό.</Description>
-		<EAN>5206684005989 </EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18544,7 +19306,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Διαστάσεις: 28 x 36 x 7 cm
 </Description>
 		<EAN>5901299963869</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18613,7 +19375,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.7 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<EAN>5901299949849</EAN>
-		<Quantity>56</Quantity>
+		<Quantity>55</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18752,6 +19514,30 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1629</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Ικανότητα Αφύγρανσης: 20 lt/ημέρα    Χωρητικότητα Δοχείου Νερού: 5,5 lt    Ισχύς: 320 WΟ αφυγραντήρας της Eurolamp είναι κατάλληλος για ενιαίους χώρους έως και 110m², ώστε να διατηρεί την υγρασία του χώρου σε φυσιολογικά επίπεδα.Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί κατεβάζει την υγρασία στα επιθυμητά επίπεδα και είναι οικονομικός στην κατανάλωση ρεύματος.</Description>
 		<EAN>5207227105746</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799210501</SKU>
+		<Name>Esperanza Ηλεκτρική Εντομοπαγίδα Led 30W EHQ007</Name>
+		<URL>https://www.skroutz.gr/s/35733108/Esperanza-Ilektriki-Entomopagida-Led-30W-EHQ007.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/035733/35733108/xlarge_20240702161543_esperanza_ilektriki_entomopagida_led_30w_ehq007.jpeg</Image>
+		<Price>22.06</Price>
+		<Category>Ηλεκτρικές Εντομοπαγίδες</Category>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EHQ007</MPN>
+		<Description>Η λάμπα εντομοκτόνου Esperanza είναι πολύ αποτελεσματική στο να προσελκύει έντομα όπως μύγες, σκώρους, κουνούπια και άλλα ιπτάμενα έντομα και στη συνέχεια να τα σκοτώνει σιωπηλά.
+
+Δεν χρησιμοποιεί χημικά, σπρέι και δεν εκπέμπει οσμές. Δεν είναι επιβλαβές για τον άνθρωπο ή τα κατοικίδια. Είναι ιδανικό για χρήση στο σπίτι, κήπους, εργοστάσια, χώρους επεξεργασίας τροφίμων, ψυκτικές αποθήκες και νοσοκομεία κ.λπ. Απολαύστε τη καλοκαιρινή σας νύχτα χωρίς ενόχληση από έντομα!
+
+    Ονομαστική τάση: 220V-240V~/50Hz-60HZ
+    Τύπος λαμπτήρα: Λάμπα UV-A BL T8 F15W x 2 τεμάχια
+    Ισχύς εξόδου: 30 W
+    Εσωτερική τάση δικτύου: 2500 V
+    Επιφάνεια εφαρμογής: 100 m²
+    Μήκος καλωδίου: 120 cm
+    Μέγεθος προϊόντος: 48,5 x 7,5 x 25,0 [cm]</Description>
+		<EAN>5901299955529</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -18907,7 +19693,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Μπαταρία: 2 x ΑΑΑ 1.5V - 3V
     Κατανάλωση: ≤40mA</Description>
 		<EAN>5901299917541</EAN>
-		<Quantity>30</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18994,7 +19780,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Θερμοκρασία εργασίας: 0° C - 40° C
     Διαστάσεις: 54.5x32x3cm</Description>
 		<EAN>5901299954935</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20331,7 +21117,7 @@ XO-EP57
     Bluetooth 5.3
     Εμβέλεια: 10m</Description>
 		<EAN>6970312531506</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20622,7 +21408,7 @@ XO-EP57
     Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0
 </Description>
 		<EAN>6920680860487</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21195,7 +21981,7 @@ XO-EP57
 
 </Description>
 		<EAN>6920680859177</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22257,7 +23043,7 @@ Aluminum Case Better for heat dissipation </Description>
 
 Για ποιον: Universal.</Description>
 		<EAN>889698742191</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22685,7 +23471,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.2 kg</Weight>
 		<Description>Οι κύβοι χρησιμοποιούνται κυρίως για να ενισχύσουν τη γεύση του φαγητού σας και να αναδείξουν τα αρώματά του.Συσκευασία των 120 γραμμαρίων.</Description>
 		<EAN>8711200468782</EAN>
-		<Quantity>254</Quantity>
+		<Quantity>242</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22895,7 +23681,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.4 kg</Weight>
 		<Description>Το ψιλό αλάτι Μεσολογγίου Γλάρος σε βαζάκι 400gr είναι ιδανικό για πολλαπλές χρήσεις στη μαγειρική και στην τραπεζοκρεβατιά. Το αλάτι αυτό προέρχεται από την περιοχή του Μεσολογγίου και διακρίνεται για την ποιότητά του και την εκλεκτή γεύση. Με το λεπτό του κόκκο, αποτελεί απαραίτητο συστατικό στην παρασκευή φαγητών και γευστικών πιάτων, προσθέτοντας έντονη γεύση και αρωματικότητα.</Description>
 		<EAN>5203270000236</EAN>
-		<Quantity>148</Quantity>
+		<Quantity>143</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23360,7 +24146,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<EAN>6111260550366</EAN>
-		<Quantity>2679</Quantity>
+		<Quantity>2667</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23405,7 +24191,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.6 kg</Weight>
 		<Description>Φιλέτο σκουμπρί της εταιρείας Cavos σε σάλτσα τομάτας πικάντικη.</Description>
 		<EAN>8850162101099</EAN>
-		<Quantity>254</Quantity>
+		<Quantity>253</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23862,6 +24648,62 @@ Aluminum Case Better for heat dissipation </Description>
 </Description>
 		<EAN>5904310231534</EAN>
 		<Quantity>5</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>8910122</SKU>
+		<Name>Johny Bee Γλειφιτζούρια Χτένα-Καθρέπτης-Lipstick 5gr My Star Lipstick 12τμχ 310-30769</Name>
+		<URL>https://www.sweetland.gr/product/johny-bee-my-star-lipstick-12-tem/</URL>
+		<Image>https://www.sweetland.gr/wp-content/uploads/2024/08/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B71_page-0001-82-scaled.jpg</Image>
+		<Price>16.66</Price>
+		<Category>Καραμέλες, Γλειφιτζούρια &amp; Τσίχλες</Category>
+		<Manufacturer>Johny Bee</Manufacturer>
+		<MPN>310-30769</MPN>
+		<Description>
+
+Το Johny Bee My Star Lipstick είναι ένα διασκεδαστικό καραμελοπαίχνιδο σε σχήμα χτένας – καθρεφτάκι με ενσωματωμένο γλειφιτζούρι σε σχήμα κραγιόν, σχεδιασμένο για να προσφέρει στα παιδιά μια πρωτότυπη και γλυκιά εμπειρία.
+
+Η κάθε συσκευασία περιέχει 12 τεμάχια και κάθε «κραγιόν» περιέχει γλειφιτζούρι με γεύση φράουλα, το οποίο είναι στο κάτω μέρος μιας χτένας η οποία διαθέτει &amp; καθρεφτάκι, καθιστώντας τη διαδικασία κατανάλωσης παιχνιδιάρικη και ενδιαφέρουσα για τα παιδιά.
+
+Χαρακτηριστικά Προϊόντος:
+
+    Τύπος: Γλειφιτζούρι σε σχήμα κραγιόν
+    Γεύσεις:  φράουλα
+    Περιεχόμενο: 12 τεμάχια
+    Συσκευασία: Πολύχρωμη και ελκυστική, ιδανική για προβολή και διανομή
+    Ιδανικό για: Πάρτι, σχολικές εκδηλώσεις ή μικρά δώρα
+
+Με το Johny Bee My Star Lipstick, τα παιδιά απολαμβάνουν τη γλυκύτητα σε συνδυασμό με το παιχνίδι, δημιουργώντας μια εμπειρία που ενθουσιάζει με τη μορφή και τις φρουτώδεις γεύσεις του.
+</Description>
+		<EAN>5904917030769</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>8910123</SKU>
+		<Name>Johny Bee Γλειφιτζούρια με Spinner 15gr Pop It Spinner 16τμχ 293-31565</Name>
+		<URL>https://www.skroutz.gr/s/44640135/Mada-Sweet-Gleifitzouria-0-010-293-16tmch-15gr.html</URL>
+		<Image>https://www.sweetland.gr/wp-content/uploads/2024/08/81BJnXdBcML.jpg</Image>
+		<Additional_Image>https://www.sweetland.gr/wp-content/uploads/2024/08/61JqP29jkjL._AC_UF8941000_QL80_.jpg</Additional_Image>
+		<Price>17.43</Price>
+		<Category>Καραμέλες, Γλειφιτζούρια &amp; Τσίχλες</Category>
+		<Manufacturer>Johny Bee</Manufacturer>
+		<MPN>293-31565</MPN>
+		<Description>Το Johny Bee Pop It Spinner συνδυάζει τη διασκέδαση ενός δημοφιλούς παιχνιδιού με τη γλύκα ενός ζαχαρωτού, προσφέροντας στα παιδιά μια μοναδική εμπειρία.
+
+Κάθε display περιέχει 16 τεμάχια, όπου το καθένα λειτουργεί ως διαδραστικό παιχνίδι spinner με ενσωματωμένο γλειφιτζούρι σε διάφορες φρουτώδεις γεύσεις. Είναι ένα προϊόν που προσελκύει το ενδιαφέρον των παιδιών, καθώς μπορούν να απολαύσουν το ζαχαρωτό και να παίξουν ταυτόχρονα.
+
+Χαρακτηριστικά Προϊόντος:
+
+    Τύπος: Συνδυασμός παιχνιδιού Pop It Spinner με ζαχαρωτό
+    Γεύσεις: Φρουτώδεις ( φράουλα, μήλο ,βατόμουρο)
+    Περιεχόμενο: 16 τεμάχια
+    Συσκευασία: Ελκυστική και ανθεκτική, εύκολη στη μεταφορά και αποθήκευση
+    Ιδανικό για: Δώρο, συλλογές, πάρτι ή ατομική διασκέδαση
+
+Με το Johny Bee Pop It Spinner, τα παιδιά απολαμβάνουν την απόλυτη συνδυαστική εμπειρία γεύσης και παιχνιδιού, κάνοντάς το ιδανικό προϊόν για διασκεδαστικές στιγμές και δημιουργική απασχόληση.</Description>
+		<EAN>5904310231565</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
