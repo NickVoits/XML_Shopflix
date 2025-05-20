@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-20 16:05</created_at>
+	<created_at>2025-05-20 16:45</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -597,7 +597,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -657,7 +657,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλασική συνταγή της ΕΨΑ για Iced Drink με τσάι Λεμόνι προσφέρει απόλυτη δροσιά με υπέροχη φυσική γεύση, γιατί περιέχει πραγματικό χυμό λεμονιού.</Description>
 		<EAN>5201171300073</EAN>
-		<Quantity>62</Quantity>
+		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7516,7 +7516,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1069</MPN>
 		<Description>Η Πούδρα Johnson's Baby απορροφά την υπερβολική υγρασία και αφήνει την επιδερμίδα του μωρού στεγνή, χαρίζοντας μια αίσθηση απαλότητας όλη μέρα. Με απλό, κλασικό άρωμα, η βρεφική αυτή πούδρα απλώνεται εύκολα στην επιδερμίδα του μωρού και την αφήνει απαλή.</Description>
 		<EAN>8850007011149</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19426,6 +19426,31 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799130301</SKU>
+		<Name>Esperanza Φριτέζα Falafel Black/Inox EKG010</Name>
+		<URL>https://www.skroutz.gr/s/26264914/Esperanza-EKG010-Friteza-3lt-Asimi.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/026264/26264914/xlarge_20211110113202_esperanza_ekg010_friteza_ladiou_me_apospomeno_kado_3lt.jpeg</Image>
+		<Price>32.34</Price>
+		<Category>Φριτέζες Λαδιού</Category>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EKG010</MPN>
+		<Description>Η φριτέζα, από την εταιρία Esperanza, διαθέτει ισχύ 2000 W, χωρητικότητα 3 λίτρα και ρυθμιζόμενο θερμοστάτη που σας επιτρέπει να ρυθμίσετε τη σωστή θερμοκρασία για το τηγάνισμα των αγαπημένων σας πιάτων. Έχει ευρύχωρο καλάθι με μη θερμαινόμενη λαβή, αντιολισθητικά πόδια και καλώδιο μήκους 90 cm.
+Τεχνικά Χαρακτηριστικά
+
+    Χωρητικότητα: 3 λίτρα
+    Αντιολησθητικά πόδια
+    Συμπαγής ανοξείδωτη κατασκευή
+    Θερμοστάτης για έλεγχο θερμοκρασίας
+    Ευρύχωρο καλάθι με μη θερμαινόμενη λαβή
+    Μήκος καλωδίου: 90 cm
+    Τροφοδοσία: 220 - 240 V / 50-60 Hz
+    Ισχύς: 2000W
+    Βάρος: 2.3 κιλά</Description>
+		<EAN>5901299954416</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>79917011</SKU>
 		<Name>Sidirela Ηλεκτρικό Μπρίκι 800W με Χωρητικότητα 500ml Μαύρο E-1189</Name>
 		<URL>https://www.skroutz.gr/s/40629144/Sidirela-E-1189-Ilektriko-Mpriki-800W-me-CHoritikotita-500ml-Mayro.html</URL>
@@ -23290,26 +23315,11 @@ Aluminum Case Better for heat dissipation </Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>81001</SKU>
-		<Name>ΟΡΥΖΟΜΥΛΟΙ ΑΞΙΟΥ Ρύζι Καρολίνα 1 κιλ</Name>
-		<URL>https://www.skroutz.gr/s/23705296/Axios-Ryzi-Karolina-1kg.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/023705/23705296/20220302144323_axios_ryzi_axios_karolina_1000gr.jpeg</Image>
-		<Price>1.91021528</Price>
-		<Category>Ρύζι</Category>
-		<Manufacturer>ΑΞΙΟΣ</Manufacturer>
-		<MPN>0791</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Ρύζι καρολίνα από την εταιρεία Αξιός, πλούσιο σε πρωτεΐνες και βιταμίνες για θρεπτικά και νόστιμα πιάτα. Ιδανικό για σπανακόρυζο και πιλάφι.</Description>
-		<EAN>5204575030119</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>81011</SKU>
 		<Name>Ελληνικό Ρύζι Χαλάστρας Καρολίνα Α' Ποιότητα 500 gr</Name>
 		<URL>https://www.skroutz.gr/s/53906457/Ryzi-Karolina-CHalastras-500gr.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/036423/36423068/xlarge_20220603165653_agrotikos_synetairismos_chalastras_ryzi_karolina_500gr.jpeg</Image>
-		<Price>0.9004870559999999</Price>
+		<Price>0.9246072449999999</Price>
 		<Category>Ρύζι</Category>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
 		<MPN>0646</MPN>
@@ -23324,7 +23334,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Name>Ελληνικό Ρύζι Χαλάστρας Μακρύκοκκο Κίτρινο Μπονέτ (Parboiled)  500 gr</Name>
 		<URL>https://www.skroutz.gr/s/53906459/Ryzi-Mponet-CHalastras-500gr.html?product_id=204994043</URL>
 		<Image>https://www.kalestimes.gr/images/thumbs/0797284_09-221-5540-1_510.jpeg</Image>
-		<Price>0.8302462559999999</Price>
+		<Price>0.852484995</Price>
 		<Category>Ρύζι</Category>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
 		<MPN>0675</MPN>
@@ -23339,7 +23349,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Name>Ελληνικό Ρύζι Χαλάστρας  Γλασέ 500 gr</Name>
 		<URL>https://www.skroutz.gr/s/56770387/Ryzi-Glase-500gr.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/036423/36423080/20220603165712_agrotikos_synetairismos_chalastras_ryzi_glase_500gr.jpeg</Image>
-		<Price>0.6897646559999999</Price>
+		<Price>0.708240495</Price>
 		<Category>Ρύζι</Category>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
 		<MPN>1506</MPN>
@@ -23354,7 +23364,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Name>Ελληνικό Ρύζι Χαλάστρας Νυχάκι 500 gr</Name>
 		<URL>https://www.skroutz.gr/s/56770389/Ryzi-Nychaki-500gr.html</URL>
 		<Image>https://www.bioscoop.gr/wp-content/uploads//2020/08/5206117000048.jpg</Image>
-		<Price>0.7600054560000001</Price>
+		<Price>0.7803627450000001</Price>
 		<Category>Ρύζι</Category>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
 		<MPN>1507</MPN>
@@ -23369,7 +23379,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Name>Curtiriso Ρύζι Basmati 500 gr</Name>
 		<URL>https://www.skroutz.gr/s/53906454/Ryzi-Mpasmati-500gr.html</URL>
 		<Image>https://www.tsalopoulos.com.gr/wp-content/uploads/2015/07/44-02-002.jpg</Image>
-		<Price>1.076089056</Price>
+		<Price>1.2405027</Price>
 		<Category>Ρύζι</Category>
 		<Manufacturer>CURTIRISO</Manufacturer>
 		<MPN>0460</MPN>
@@ -23384,7 +23394,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Name>Curtiriso Αρωματικό Ρύζι Ταϋλάνδης Jasmine 1000 gr</Name>
 		<URL>https://www.skroutz.gr/s/56770388/Ryzi-Jasmine-1kg.html</URL>
 		<Image>https://mlegni5sx3al.i.optimole.com/m68HIbg-6x_ANxEi/w:auto/h:auto/q:auto/https://www.gsbg.gr/wp-content/uploads/2021/06/5212006200659-CurtiricoJasmine.png</Image>
-		<Price>1.758829632</Price>
+		<Price>2.012210775</Price>
 		<Category>Ρύζι</Category>
 		<Manufacturer>CURTIRISO</Manufacturer>
 		<MPN>1508</MPN>
@@ -24276,7 +24286,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Weight>0.3 kg</Weight>
 		<Description>Τονοσαλάτα της εταιρίας Rio Mare, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Σημαντική πηγή πρωτεΐνης και ωμέγα 3 λιπαρών, η τονοσαλάτα είναι ένα έτοιμο γεύμα που διατηρεί τη φρεσκάδα, τη γεύση και τις θρεπτικές του ιδιότητές.</Description>
 		<EAN>8004030750036</EAN>
-		<Quantity>101</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
