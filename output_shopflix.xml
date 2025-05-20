@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-20 15:05</created_at>
+	<created_at>2025-05-20 16:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -267,7 +267,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>455</Quantity>
+		<Quantity>435</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -774,7 +774,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214911</EAN>
-		<Quantity>342</Quantity>
+		<Quantity>334</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -789,7 +789,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000214799</EAN>
-		<Quantity>266</Quantity>
+		<Quantity>259</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1479,7 +1479,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<EAN>90415708</EAN>
-		<Quantity>6450</Quantity>
+		<Quantity>6306</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2092,7 +2092,7 @@
 		<MPN>130801</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080027</EAN>
-		<Quantity>14521</Quantity>
+		<Quantity>14505</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4468,7 +4468,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1337</MPN>
 		<Description>Το Τσιλιλής Κρασί Ασκητικός Ερυθρό Ξηρό 750ml είναι ένα εξαιρετικό ελληνικό ερυθρό κρασί με πλούσιο άρωμα και βαθύ χρώμα. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και προσφέρει σύνθετες γεύσεις με νότες κόκκινων φρούτων, μπαχαρικών και βελούδινης υφής. Ιδανικό για συνοδεία κόκκινων κρεάτων, ζυμαρικών με πλούσιες σάλτσες και τυριών, προσφέροντας μια ιδιαίτερη και απολαυστική οινική εμπειρία.</Description>
 		<EAN>5202548507231</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4482,7 +4482,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1338</MPN>
 		<Description>Το Τσιλιλής Κτήμα Θεόπετρα Λευκός Οίνος 750ml είναι ένα εκλεκτό λευκό κρασί από το Κτήμα Θεόπετρα, γνωστό για την υψηλή ποιότητα των κρασιών του. Παράγεται από επιλεγμένες ελληνικές ποικιλίες, προσφέροντας ένα αρωματικό προφίλ με νότες εσπεριδοειδών, λευκών λουλουδιών και φρούτων. Έχει ισορροπημένη οξύτητα και δροσερή γεύση, που το καθιστά ιδανικό συνοδευτικό για ψάρια, θαλασσινά και λευκά κρέατα. Ένα κρασί με φινέτσα, ιδανικό για ιδιαίτερες στιγμές.</Description>
 		<EAN>5202548507057</EAN>
-		<Quantity>81</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4496,7 +4496,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1339</MPN>
 		<Description>Το Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Λημνιώνα Ερυθρό Ξηρό 750ml είναι ένα βιολογικό ερυθρό κρασί υψηλής ποιότητας, φτιαγμένο από την ελληνική ποικιλία Λημνιώνα. Παράγεται στο Κτήμα Θεόπετρα με βιολογικές καλλιέργειες, προσφέροντας πλούσιο άρωμα κόκκινων φρούτων, μπαχαρικών και γήινων τόνων. Με ισορροπημένη οξύτητα και βελούδινη υφή, αυτό το κρασί είναι ιδανικό για συνοδεία ψητών κρεάτων, πλούσιων σαλτσών και ώριμων τυριών. Αποτελεί μια εξαιρετική επιλογή για τους λάτρεις των βιολογικών και αυθεντικών ελληνικών κρασιών.</Description>
 		<EAN>5202548507279</EAN>
-		<Quantity>18</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4510,7 +4510,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1339002</MPN>
 		<Description>Ένα από τα καλύτερα ροζέ κρασιά που δοκιμάσαμε φέτος. Το κτήμα Θεόπετρα συνδυάζει Λημνιώνα και Syrah, προσφέροντας αρώματα κερασιού και φράουλας με καραμελένιες αποχρώσεις. Έχει υπέροχο γευστικό στόμα, με τραγανή οξύτητα και γλυκιά επίγευση.</Description>
 		<EAN>5202548507101</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9039,7 +9039,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467746</EAN>
-		<Quantity>380</Quantity>
+		<Quantity>374</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9053,7 +9053,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467739</EAN>
-		<Quantity>191</Quantity>
+		<Quantity>187</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11499,7 +11499,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0309</MPN>
 		<Description>Το Oskar εντομοκτόνο spray καταπολεμά τα ιπτάμενα έντομα όπως μύγες, κουνούπια και σκνίπες. Περιέχει δραστικά συστατικά που βοηθούν στην άμεση καταπολέμηση του προβλήματος. Χρησιμοποιείστε τα εντομοκτόνα με ασφαλή τρόπο. Να διαβάζετε πάντα την ετικέτα και τις πληροφορίες για το προϊόν πριν από τη χρήση.</Description>
 		<EAN>5201062008156</EAN>
-		<Quantity>1032</Quantity>
+		<Quantity>1008</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18975,7 +18975,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Αδιάβροχο: Όχι
 </Description>
 		<EAN>5203642145374</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19000,7 +19000,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Αδιάβροχο: Όχι
 </Description>
 		<EAN>5203642145374</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19024,7 +19024,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Αδιάβροχο: Δεν είναι
 </Description>
 		<EAN>5203642145381</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19048,7 +19048,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Αδιάβροχο: Δεν είναι
 </Description>
 		<EAN>5203642145381</EAN>
-		<Quantity>29</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24683,7 +24683,7 @@ Aluminum Case Better for heat dissipation </Description>
 Αλάτι 0,54g
 </Description>
 		<EAN>5205422170163</EAN>
-		<Quantity>449</Quantity>
+		<Quantity>437</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24711,7 +24711,7 @@ Aluminum Case Better for heat dissipation </Description>
 Πρωτεΐνες 4,3 γρ
 Αλας 0,54 γρ</Description>
 		<EAN>5205422014122</EAN>
-		<Quantity>439</Quantity>
+		<Quantity>427</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24739,7 +24739,7 @@ Aluminum Case Better for heat dissipation </Description>
 Αλάτι 0,59g
 </Description>
 		<EAN>5205422400017</EAN>
-		<Quantity>175</Quantity>
+		<Quantity>163</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24763,7 +24763,7 @@ Aluminum Case Better for heat dissipation </Description>
 Πρωτεΐνες 5,5 γρ
 Αλας 0,64 γρ</Description>
 		<EAN>5205422000002</EAN>
-		<Quantity>176</Quantity>
+		<Quantity>164</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
