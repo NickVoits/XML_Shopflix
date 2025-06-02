@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-02 16:41</created_at>
+	<created_at>2025-06-02 16:43</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -3204,6 +3204,22 @@
 Επιδέχεται παλαίωση και σερβίρεται δροσερό στους 10–12°C.</Description>
 		<EAN>5204222575055</EAN>
 		<Quantity>19</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>46340101</SKU>
+		<Name>Δουλουφάκης Κρασί Άσπρος Λαγός Βιδιανό Λευκό Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4724951/Douloufakis-Krasi-Aspros-Lagos-Vidiano-Leyko-Xiro-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004724/4724951/xlarge_20211102192507_douloufakis_aspros_lagos_leykos_750ml.jpeg</Image>
+		<Price>14.44</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Δουλουφάκης</Manufacturer>
+		<MPN>1684002</MPN>
+		<Description>Λευκός οίνος ο οποίος παράγεται από την κρητική ποικιλία Βιδιανό, φυτεμένη στον αμπελώνα "Άσπρος Λαγός". Η παραγωγή του γίνεται αποκλειστικά με την ποικιλία σταφυλιού Βιδιανό, στις Δαφνές του Ηρακλείου Κρήτης, σε υψόμετρο 350 μέτρων. 
+
+Κλασσική λευκή οινοποίηση στους 20°C, με ζύμωση που γίνεται σε βαρέλι, ωριμάζει σε καινούργια και δεύτερης χρήσης βαρέλια για πέντε μήνες και έχει δυναμικό παλαίωσης 7 χρόνια. Έχει χρυσαφί χρώμα, με κιτρινοπράσινες ανταύγειες και αρώματα λευκών λουλουδιών και εσπεριδοειδών. Πλούσια γεύση με ένα πυκνό χαρακτήρα βερίκοκου, μια νότα ορυκτών και επίγευση μακράς διαρκείας.</Description>
+		<EAN>5204734000090</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11378,7 +11394,7 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 		<Name>Vileda Περιστρεφόμενη Αυτοστιβόμενη Σετ Κουβάς με Σφουγγαρίστρα Turbo Smart</Name>
 		<URL>https://www.skroutz.gr/s/22961590/Vileda-Peristrefomeni-Aytostivomeni-Set-Kouvas-me-Sfougaristra-Turbo-Smart.html#reviews</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022961/22961590/20211025100102_vileda_set_kouvas_me_sfougaristra_turbo_smart.jpeg</Image>
-		<Price>24.03</Price>
+		<Price>25</Price>
 		<Category>Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category>
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>1505</MPN>
