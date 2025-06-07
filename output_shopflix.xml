@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-07 16:05</created_at>
+	<created_at>2025-06-07 16:58</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -36,7 +36,7 @@
 		<Name>Άλφα ΧΩΡΙΣ ΑΛΚΟΟΛ 6pack*330ml</Name>
 		<URL>https://www.skroutz.gr/s/16120635/Alfa-CHoris-Alkool-Lager-Kouti-6x330ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/016120/16120635/20181012153355_alfa_choris_alkool_kouti_6_temachia_330ml.jpeg</Image>
-		<Price>3.49</Price>
+		<Price>3.65</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>Άλφα</Manufacturer>
 		<MPN>1192</MPN>
@@ -51,7 +51,7 @@
 		<Name>Μηλοκλέφτης Φιάλη Μηλίτης 330ml</Name>
 		<URL>https://www.skroutz.gr/s/16115023/Milokleftis-Fiali-Militis-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/016115/16115023/20181012122831_milokleftis_fiali_militis_330ml.jpeg</Image>
-		<Price>1.2</Price>
+		<Price>1.26</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ΜΗΛΟΚΛΕΦΤΗΣ</Manufacturer>
 		<MPN>1193</MPN>
@@ -66,7 +66,7 @@
 		<Name>Erdinger Weissbräu Weiss Φιάλη 500ml</Name>
 		<URL>https://www.skroutz.gr/s/5701278/Erdinger-Weissbraeu-Weiss-Fiali-500ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/005701/5701278/20200314135415_erdinger_weissbr_u_weiss_fiali_500ml.jpeg</Image>
-		<Price>2.12</Price>
+		<Price>2.21976864</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ERDINGER</Manufacturer>
 		<MPN>1194</MPN>
@@ -81,7 +81,7 @@
 		<Name>MCFARLAND Irish Ale ΦΙΑΛΗ 330ml</Name>
 		<URL>https://www.skroutz.gr/s/5699169/Birra-Dreher-McFarland-Fiali-Irish-Ale-330ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/005699/5699169/20200314135227_birra_dreher_mcfarland_fiali_330ml.jpeg</Image>
-		<Price>2.16</Price>
+		<Price>2.2622254148544</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>MCFARLAND</Manufacturer>
 		<MPN>1195</MPN>
@@ -96,7 +96,7 @@
 		<Name>Murphy’s Irish Stout 500ml</Name>
 		<URL>https://www.skroutz.gr/s/6831135/Murphys-Brewery-Ireland-Ltd-Murphy-s-Irish-Stout-500ml-koutaki.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/006831/6831135/xlarge_20150521170927_murphy_s_irish_stout_500ml_koutaki.jpeg</Image>
-		<Price>2.83</Price>
+		<Price>2.961418006719999</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>Murphy’s</Manufacturer>
 		<MPN>1195001</MPN>
@@ -106,11 +106,26 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>33001</SKU>
+		<Name>Corona Extra Pale Lager Φιάλη 330ml</Name>
+		<URL>https://www.skroutz.gr/s/32149513/Corona-Extra-Pale-Lager-Fiali-330ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/032149/32149513/xlarge_20220413112132_corona_extra_pale_lager_fiali_330ml.jpeg</Image>
+		<Price>1.4</Price>
+		<Category>Μπύρες</Category>
+		<Manufacturer>CORONA</Manufacturer>
+		<MPN>1239</MPN>
+		<Weight>0.5 kg</Weight>
+		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
+		<EAN>75041670</EAN>
+		<Quantity>1428</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>32021-Τ</SKU>
 		<Name>Fix Lager Κουτί 330ml</Name>
 		<URL>https://www.skroutz.gr/s/4870950/Fix-Lager-Kouti-330ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004870/4870950/20150519123829_fix_330ml_koutaki.jpeg</Image>
-		<Price>0.77</Price>
+		<Price>0.80929065</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>FIX</Manufacturer>
 		<MPN>0462</MPN>
@@ -125,7 +140,7 @@
 		<Name>Kaiser 6τμχ x330ml</Name>
 		<URL>https://www.skroutz.gr/s/51221007/Kaiser-Pilsner-Kaiser-Mpyra-330ml-5-1-Doro.html</URL>
 		<Image>https://eblokomarket.gr/8683-thickbox_default/bira-kaiser-330ml.jpg</Image>
-		<Price>7.15</Price>
+		<Price>7.477827107928</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>Kaiser</Manufacturer>
 		<MPN>0178</MPN>
@@ -140,7 +155,7 @@
 		<Name>Kaiser Pilsner Κουτί 330ml</Name>
 		<URL>https://www.skroutz.gr/s/6246305/Kaiser-Pilsner-Lager-Kouti-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/006246/6246305/20210304174331_kaiser_pilsner_lager_kouti_330ml.jpeg</Image>
-		<Price>1.12</Price>
+		<Price>1.1667658914</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>Kaiser</Manufacturer>
 		<MPN>1196</MPN>
@@ -155,7 +170,7 @@
 		<Name>ΒΕΡΓΙΝΑ RADLER κουτί 330ml</Name>
 		<URL>https://www.skroutz.gr/s/55706774/Vergina-Radler-Kouti-330ml.html</URL>
 		<Image>https://www.thanopoulos.gr/1053885/vergina-mpira-radler-330ml.jpg</Image>
-		<Price>0.84</Price>
+		<Price>0.91</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
 		<MPN>1198</MPN>
@@ -170,7 +185,7 @@
 		<Name>ΒΕΡΓΙΝΑ FREE 6τμχ x330ml</Name>
 		<URL>https://www.skroutz.gr/s/26444369/Vergina-Low-Alcohol-Kouti-6-x-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/026444/26444369/20201231123546_vergina_low_alcohol_kouti_6_x_330ml.jpeg</Image>
-		<Price>3.75</Price>
+		<Price>4.09</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
 		<MPN>505</MPN>
@@ -185,7 +200,7 @@
 		<Name>ΒΕΡΓΙΝΑ ALCOHOL FREE ΚΟΥΤΙ 330ml</Name>
 		<URL>https://www.skroutz.gr/s/55706772/Vergina-Kouti-330ml.html</URL>
 		<Image>https://www.thanopoulos.gr/1057832/vergina-mpira-xoris-alkool-330ml.jpg</Image>
-		<Price>0.63</Price>
+		<Price>0.68</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
 		<MPN>1199</MPN>
@@ -215,7 +230,7 @@
 		<Name>Fix Lager Κουτί 500ml</Name>
 		<URL>https://www.skroutz.gr/s/6246653/Fix-Lager-Kouti-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/006246/6246653/20210304174331_fix_fix_500ml_koutaki.jpeg</Image>
-		<Price>1.1</Price>
+		<Price>1.15</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>FIX</Manufacturer>
 		<MPN>0463</MPN>
@@ -230,7 +245,7 @@
 		<Name>Kaiser Pilsner Κουτί 500ml</Name>
 		<URL>https://www.skroutz.gr/s/6246224/Kaiser-Pilsner-Lager-Kouti-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/006246/6246224/20150226092254_kaiser_500ml_koutaki.jpeg</Image>
-		<Price>1.43</Price>
+		<Price>1.49</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>KAISER</Manufacturer>
 		<MPN>0921</MPN>
@@ -268,21 +283,6 @@
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
 		<Quantity>45</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>33001</SKU>
-		<Name>Corona Extra Pale Lager Φιάλη 330ml</Name>
-		<URL>https://www.skroutz.gr/s/32149513/Corona-Extra-Pale-Lager-Fiali-330ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/032149/32149513/xlarge_20220413112132_corona_extra_pale_lager_fiali_330ml.jpeg</Image>
-		<Price>1.34</Price>
-		<Category>Μπύρες</Category>
-		<Manufacturer>CORONA</Manufacturer>
-		<MPN>1239</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
-		<EAN>75041670</EAN>
-		<Quantity>1428</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -650,7 +650,7 @@
 		<Name>ΕΨΑ Ice Tea Λεμόνι Κουτί 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/54719902/EPSA-Ice-Tea-Lemoni-Kouti-0046-6x330ml.html</URL>
 		<Image>https://epsa.gr/wp-content/uploads/2024/03/Category-GR-tea-lemon.png</Image>
-		<Price>3.99</Price>
+		<Price>4.61</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0046</MPN>
@@ -665,7 +665,7 @@
 		<Name>ΕΨΑ Ice Tea Ροδάκινο Κουτί 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/54719889/EPSA-Ice-Tea-Rodakino-Kouti-0210-6x330ml.html</URL>
 		<Image>https://epsa.gr/wp-content/uploads/2024/03/Category-GR-tea-peach.png</Image>
-		<Price>3.99</Price>
+		<Price>4.61</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0210</MPN>
@@ -680,7 +680,7 @@
 		<Name>Coca Cola Classic με Ανθρακικό Φιάλη 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/45739164/Coca-Cola-Anapsyktiko-me-Anthrakiko-Mpoukali-1500ml.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/2/125780_1_2_1.jpg</Image>
-		<Price>1.79</Price>
+		<Price>1.88</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>0128</MPN>
@@ -695,7 +695,7 @@
 		<Name>Coca Cola Zero με Ανθρακικό Χωρίς Ζάχαρη Φιάλη 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24252948/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Mpoukali-1500ml.html?product_id=204993870</URL>
 		<Image>https://ngt.gr/wp-content/uploads/2023/09/Coca-Cola-Zero-1500ml.jpg</Image>
-		<Price>1.82</Price>
+		<Price>1.9</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>0272</MPN>
@@ -767,7 +767,7 @@
 		<Name>Coca Cola Classic με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24685667/Coca-Cola-Classic-me-Anthrakiko-Kouti-330ml.html</URL>
 		<Image>https://www.kavakonstantakopoulos.gr/images/thumbs/0001226.jpg</Image>
-		<Price>0.76</Price>
+		<Price>0.799403019</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>0226</MPN>
@@ -782,7 +782,7 @@
 		<Name>Coca Cola Zero με Ανθρακικό Χωρίς Ζάχαρη Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24519804/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</URL>
 		<Image>https://lh5.googleusercontent.com/proxy/6AIYwsWOPYbtAZgWxDP7TV6czrPwWFy7i1oz0NX72rtU2-1wyOPn1o-ixJutWBIid46gM12e4-75mogzhnmEI3Y_qUO9HazW2QpUB4m1SBcaVuWB8S3zkqtp</Image>
-		<Price>0.76</Price>
+		<Price>0.797960574</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>0760</MPN>
@@ -797,7 +797,7 @@
 		<Name>Coca Cola Zero Lemon με Ανθρακικό Χωρίς Ζάχαρη Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24540186/Coca-Cola-Zero-Lemon-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024540/24540186/20210114155457_coca_cola_zero_lemon_330ml.jpeg</Image>
-		<Price>0.82</Price>
+		<Price>0.8540716844999998</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>1228</MPN>
@@ -812,14 +812,14 @@
 		<Name>Coca Cola Zero Χωρίς Καφεΐνη με Ανθρακικό Χωρίς Ζάχαρη Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/35764952/Coca-Cola-Zero-CHoris-Kafeini-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/035764/35764952/20220504102219_coca_cola_cola_choris_kafeini_choris_zachari_330ml.jpeg</Image>
-		<Price>0.82</Price>
+		<Price>0.8540716844999998</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>1229</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Το πασίγνωστο αναψυκτικό Coca-Cola, κλέβει εντυπώσεις με μία μοναδική παραλλαγή χωρίς καφεΐνη. Απολαύστε την ακαταμάχητη γεύση της Coca-Cola, χωρίς να φοβάστε για την επίδραση που μπορεί να έχει στην καθημερινότητά σας και στον ύπνο σας.</Description>
 		<EAN>5449000233295</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -827,7 +827,7 @@
 		<Name>Sprite Γκαζόζα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24519788/Sprite-Kouti-Gazoza-me-Anthrakiko-330ml.html</URL>
 		<Image>https://www.marnellos.gr/image/cache/catalog/sprite-1200x1200.jpg</Image>
-		<Price>0.71</Price>
+		<Price>0.7380991065000001</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΣΠΡΑΙΤ</Manufacturer>
 		<MPN>0847</MPN>
@@ -842,7 +842,7 @@
 		<Name>Schweppes Σόδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24772553/Schweppes-Kouti-Soda-me-Anthrakiko-330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024772/24772553/20220217095529_schweppes_soda_330ml.jpeg</Image>
-		<Price>0.45</Price>
+		<Price>0.52</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>SCHWEPPES</Manufacturer>
 		<MPN>1230</MPN>
@@ -857,7 +857,7 @@
 		<Name>Schweppes Σόδα Pink Grapefruit με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24519960/Schweppes-Kouti-Soda-Pink-Grapefruit-me-Anthrakiko-330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024519/24519960/20220217094919_schweppes_soda_pink_grapefruit_330ml.jpeg</Image>
-		<Price>0.75</Price>
+		<Price>0.86</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>SCHWEPPES</Manufacturer>
 		<MPN>0571</MPN>
@@ -872,7 +872,7 @@
 		<Name>Schweppes Σόδα Ρόδι με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/36060112/Schweppes-Kouti-Soda-Rodi-me-Anthrakiko-330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/036060/36060112/20220518110240_schweppes_soda_rodi_330ml.jpeg</Image>
-		<Price>0.75</Price>
+		<Price>0.86</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>SCHWEPPES</Manufacturer>
 		<MPN>0286</MPN>
@@ -887,7 +887,7 @@
 		<Name>Fanta Πορτοκαλάδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24519939/Fanta-Kouti-Portokalada-me-Anthrakiko-330ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024519/24519939/20200827115333_fanta_portokalada_me_anthrakiko_330ml.jpeg</Image>
-		<Price>0.71</Price>
+		<Price>0.7380991065000001</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
 		<MPN>0418</MPN>
@@ -902,7 +902,7 @@
 		<Name>Fanta Λεμονάδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24773232/Fanta-Kouti-Lemonada-me-Anthrakiko-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024773/24773232/20210319160717_fanta_lemonada_330ml.jpeg</Image>
-		<Price>0.65</Price>
+		<Price>0.684584397</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
 		<MPN>0734</MPN>
@@ -917,7 +917,7 @@
 		<Name>Coca Cola Classic με Ανθρακικό Μπουκάλι 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24773220/Coca-Cola-Classic-me-Anthrakiko-Mpoukali-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024773/24773220/20210319161049_coca_cola_500ml.jpeg</Image>
-		<Price>0.98</Price>
+		<Price>1.0205298375</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>1231</MPN>
@@ -932,7 +932,7 @@
 		<Name>COCA COLA ZERO 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/25728123/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Mpoukali-500ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/025728/25728123/20220217095529_coca_cola_zero_choris_zachari_500ml.jpeg</Image>
-		<Price>1.01</Price>
+		<Price>1.05875463</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>1232</MPN>
@@ -947,7 +947,7 @@
 		<Name>Fanta Μπουκάλι Πορτοκαλάδα με Ανθρακικό 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/25876714/Fanta-Mpoukali-Portokalada-me-Anthrakiko-500ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/025876/25876714/20220217095529_fanta_portokalada_me_anthrakiko_500ml.jpeg</Image>
-		<Price>1.01</Price>
+		<Price>1.0548600285</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
 		<MPN>1233</MPN>
@@ -962,7 +962,7 @@
 		<Name>Fanta Μπουκάλι Λεμονάδα με Ανθρακικό 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24773263/Fanta-Lemonada-me-Anthrakiko-Lemonada-500ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024773/24773263/20200915141944_fanta_lemonada_500ml.jpeg</Image>
-		<Price>1.01</Price>
+		<Price>1.0548600285</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
 		<MPN>1234</MPN>
@@ -977,7 +977,7 @@
 		<Name>AMITA ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ  330ml</Name>
 		<URL>https://www.skroutz.gr/s/22880918/Amita-CHymos-Portokali-330ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022880/22880918/20220216104137_amita_chymos_portokali_330ml.jpeg</Image>
-		<Price>1.2</Price>
+		<Price>1.24995071475</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1132</MPN>
@@ -992,7 +992,7 @@
 		<Name>AMITA ΦΡΟΥΤΟΠΟΤΟ ΡΟΔΑΚΙΝΟ  250ml</Name>
 		<URL>https://www.skroutz.gr/s/22695607/Amita-Froutopoto-Rodakino-250ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022695/22695607/20231019173041_amita_froutopoto_rodakino_250ml.jpeg</Image>
-		<Price>0.76</Price>
+		<Price>0.7969508625</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1133</MPN>
@@ -1007,7 +1007,7 @@
 		<Name>AMITA ΦΡΟΥΤΟΠΟΤΟ ΠΟΡΤΟΚΑΛΙ-ΜΗΛΟ-ΒΕΡΥΚΟΚΟ  250ml</Name>
 		<URL>https://www.skroutz.gr/s/22879224/Amita-Froutopoto-Portokali-Milo-Verikoko-250ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022879/22879224/20200422144023_amita_froutopoto_verykoko_milo_250ml.jpeg</Image>
-		<Price>0.69</Price>
+		<Price>0.72410739</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1134</MPN>
@@ -1022,7 +1022,7 @@
 		<Name>Amita Χυμός Motion 9 Φρούτων 330ml</Name>
 		<URL>https://www.skroutz.gr/s/50299685/Amita-Amita-Fysikos-CHymos-Motion-330ml-1tem.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/050299/50299685/20240206221253_amita_amita_fysikos_chymos_motion_330ml_1tem.jpeg</Image>
-		<Price>1.1</Price>
+		<Price>1.146743775</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1135</MPN>
@@ -1037,7 +1037,7 @@
 		<Name>AMITA ΦΡΟΥΤΟΠΟΤΟ ΒΥΣΣΙΝΟ  250ml</Name>
 		<URL>https://www.skroutz.gr/s/22695400/Amita-Froutopoto-Vyssino-250ml.html</URL>
 		<Image>https://cdn.mymarket.gr/images/styles/original/16_07_21/fcc9a49c-057d-4fd9-ac78-de14090dda20_E1.jpg</Image>
-		<Price>0.76</Price>
+		<Price>0.796986923625</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1136</MPN>
@@ -1052,7 +1052,7 @@
 		<Name>Amita Φυσικός Χυμός Πορτοκάλι 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/22695361/Amita-CHymos-Portokali-1000ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022695/22695361/20200407140110_amita_fysikos_chymos_portokali_1000ml.jpeg</Image>
-		<Price>2.39</Price>
+		<Price>2.4981704955</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1137</MPN>
@@ -1067,7 +1067,7 @@
 		<Name>AMITA ΦΡΟΥΤΟΠΟΤΟ ΡΟΔΑΚΙΝΟ  1 Lit</Name>
 		<URL>https://www.skroutz.gr/s/22686699/Amita-Froutopoto-Rodakino-1000ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022686/22686699/20200407100926_amita_rodakino_1000ml.jpeg</Image>
-		<Price>1.83</Price>
+		<Price>1.909508691</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1138</MPN>
@@ -1082,7 +1082,7 @@
 		<Name>AMITA ΦΡΟΥΤΟΠΟΤΟ ΠΟΡΤΟΚΑΛΙ-ΜΗΛΟ-ΒΕΡΥΚΟΚΟ  1 Lit</Name>
 		<URL>https://www.skroutz.gr/s/22695083/Amita-Froutopoto-Portokali-Milo-Verikoko-1000ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022695/22695083/20220216104137_amita_froutopoto_portokali_milo_verikoko_1000ml.jpeg</Image>
-		<Price>1.28</Price>
+		<Price>1.3433490285</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1139</MPN>
@@ -1097,7 +1097,7 @@
 		<Name>AMITA ΦΡΟΥΤΟΠΟΤΟ ΜΠΑΝΑΝΑ  1 Lit</Name>
 		<URL>https://www.skroutz.gr/s/22687506/Amita-Froutopoto-Mpanana-1000ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022687/22687506/20201118105909_amita_froutopoto_mpanana_1000ml.jpeg</Image>
-		<Price>1.83</Price>
+		<Price>1.909508691</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1140</MPN>
@@ -1112,7 +1112,7 @@
 		<Name>AMITA ΦΥΣΙΚΟΣ ΧΥΜΟΣ MOTION  1 Lit</Name>
 		<URL>https://www.skroutz.gr/s/50299686/Amita-Amita-Fysikos-CHymos-Motion-1lt.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/050299/50299686/20240206221332_amita_amita_fysikos_chymos_motion_1lt.jpeg</Image>
-		<Price>2.39</Price>
+		<Price>2.4981704955</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1141</MPN>
@@ -1127,7 +1127,7 @@
 		<Name>AMITA ΦΡΟΥΤΟΠΟΤΟ ΒΥΣΣΙΝΟ  1 Lit</Name>
 		<URL>https://www.skroutz.gr/s/22686889/Amita-Froutopoto-Vyssino-1000ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022686/22686889/20220216104622_amita_froutopoto_vyssino_1000ml.jpeg</Image>
-		<Price>1.83</Price>
+		<Price>1.90943656875</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>AMITA</Manufacturer>
 		<MPN>1142</MPN>
@@ -1157,7 +1157,7 @@
 		<Name>Βίκος Cola με Ανθρακικό σε κουτί 6*330ml </Name>
 		<URL>https://www.vikos.com/bikos-cola/bikos-cola-classic</URL>
 		<Image>https://www.vikos.com/sites/default/files/styles/brands_bootle_lg/public/other-products/2024-03/can_1.png?itok=xgucemUX</Image>
-		<Price>2.97</Price>
+		<Price>3.25</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1783</MPN>
@@ -1382,7 +1382,7 @@
 		<Name>TUBORG ΣΟΔΑ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/26848451/Tuborg-Kouti-Soda-me-Anthrakiko-6x330ml.html</URL>
 		<Image>https://www.kavakonstantakopoulos.gr/images/thumbs/0003900.jpeg</Image>
-		<Price>2.20971937536</Price>
+		<Price>2.27</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>TUBORG</Manufacturer>
 		<MPN>0831</MPN>
@@ -1397,7 +1397,7 @@
 		<Name>TUBORG ΣΟΔΑ ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54720052/Lemoni-me-Anthrakiko-Kouti-47742-6x330ml.html</URL>
 		<Image>https://cdn.mymarket.gr/images/styles/original/13_07_23/22a8ef8d-6c66-4101-ad9e-1cbfbb204575_E1.jpg</Image>
-		<Price>2.3894722203156</Price>
+		<Price>2.61</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>TUBORG</Manufacturer>
 		<MPN>0711</MPN>
@@ -1412,7 +1412,7 @@
 		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/29343638/Souroti-Anthrakoucho-Nero-6x0-33lt.html?product_id=204993902</URL>
 		<Image>https://trofodosies.gr/wp-content/uploads/2022/06/20210607164446_souroti_0_33lt_6tmch.jpg</Image>
-		<Price>4.13015904</Price>
+		<Price>4.68</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0991</MPN>
@@ -1427,7 +1427,7 @@
 		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ ΛΕΜΟΝΙ</Name>
 		<URL>https://www.skroutz.gr/s/29343612/Souroti-Anthrakoucho-Nero-me-Geysi-Lemoni-kai-Lime-6x0-33lt.html?product_id=204993900</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/SOUROTI-LEMONI-KOUTI-ANTHRAKOUXO-6x330-1.jpg</Image>
-		<Price>4.6979025020928</Price>
+		<Price>5.34</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0712</MPN>
@@ -1442,7 +1442,7 @@
 		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ PINK GRAPEFRUIT</Name>
 		<URL>https://www.skroutz.gr/s/46343301/Souroti-Anthrakoucho-Nero-me-Geysi-Pink-Grapefruit-6x0-33lt.html?product_id=204993897</URL>
 		<Image>https://souroti.gr/wp-content/uploads/2023/07/souroti-grapefruit-removebg-preview.png</Image>
-		<Price>4.8157182388224</Price>
+		<Price>5.47</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0264</MPN>
@@ -1457,7 +1457,7 @@
 		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ ΜΑΣΤΙΧΑ</Name>
 		<URL>https://www.skroutz.gr/s/36774603/Souroti-Anthrakoucho-Nero-me-Geysi-Masticha-6x0-33lt.html?product_id=204993899</URL>
 		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=bf00751e-6778-40ec-bc1b-21e5b04a87e9</Image>
-		<Price>4.82</Price>
+		<Price>5.47</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0132</MPN>
@@ -1472,7 +1472,7 @@
 		<Name>Red Bull Κουτί Energy Drink με Ανθρακικό 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23937534/Red-Bull-Kouti-Energy-Drink-me-Anthrakiko-250ml.html?product_id=204993898</URL>
 		<Image>https://politou.gr/wp-content/uploads/2022/01/red-bull-24.jpg</Image>
-		<Price>1.04</Price>
+		<Price>1.07</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>RED BULL</Manufacturer>
 		<MPN>0419</MPN>
@@ -1487,7 +1487,7 @@
 		<Name>Hell Classic Κουτί Energy Drink με Ανθρακικό 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23941033/Hell-Classic-Kouti-Energy-Drink-me-Anthrakiko-250ml.html?product_id=215518712</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023941/23941033/20220217092801_hell_energy_drink_classic_250ml.jpeg</Image>
-		<Price>0.53</Price>
+		<Price>0.55</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>HELL</Manufacturer>
 		<MPN>1143</MPN>
@@ -1502,7 +1502,7 @@
 		<Name>Monster Green Energy  Drink με Ανθρακικό σε Κουτί 500ml</Name>
 		<URL>https://www.skroutz.gr/s/23940756/Monster-Kouti-Energy-Drink-me-Anthrakiko-500ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023940/23940756/20200708121022_monster_energy_drink_500ml.jpeg</Image>
-		<Price>1.06</Price>
+		<Price>1.13</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>MONSTER</Manufacturer>
 		<MPN>1304</MPN>
@@ -1517,7 +1517,7 @@
 		<Name>Monster Ultra Energy Drink White με Ανθρακικό, Χωρίς Ζάχαρη σε Κουτί 500ml</Name>
 		<URL>https://www.skroutz.gr/s/23940841/Monster-Ultra-Energy-Drink-White-me-Anthrakiko-CHoris-Zachari-se-Kouti-500ml.html#reviews</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023940/23940841/xlarge_20200708121112_monster_energy_drink_ultra_500ml.jpeg</Image>
-		<Price>1.06</Price>
+		<Price>1.13</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>MONSTER</Manufacturer>
 		<MPN>1782</MPN>
@@ -1531,7 +1531,7 @@
 		<Name>THREE CENTS GRAPEFRUIT SODA 200ml</Name>
 		<URL>https://www.skroutz.gr/s/55484371/Three-Cents-Soda-me-Anthrakiko-1144-200ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024252/24252635/20220217092802_three_cents_soda_pink_grapefruit_200ml.jpeg</Image>
-		<Price>1.373957636142</Price>
+		<Price>1.41</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>THREE CENTS</Manufacturer>
 		<MPN>1144</MPN>
@@ -1546,7 +1546,7 @@
 		<Name>THREE CENTS GINGER BEER 200ml</Name>
 		<URL>https://www.skroutz.gr/s/55484369/Three-Cents-Ginger-Beer-1145-200ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024252/24252570/20220217093134_three_cents_anapsyktiko_ginger_beer_200ml.jpeg</Image>
-		<Price>1.373957636142</Price>
+		<Price>1.41</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>THREE CENTS</Manufacturer>
 		<MPN>1145</MPN>
@@ -1561,7 +1561,7 @@
 		<Name>Agros Χυμός Πορτοκάλι 100% Φυσικός 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812101/Agros-CHymos-Portokali-100-Fysikos-250ml.html?product_id=204993906</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023812/23812168/20220318111841_agros_chymos_portokali_250ml.jpeg</Image>
-		<Price>0.5551832832</Price>
+		<Price>0.5948392320000001</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0977</MPN>
@@ -1576,7 +1576,7 @@
 		<Name>Agros Χυμός Ροδάκινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812172/Agros-CHymos-Rodakino-250ml.html?product_id=204993918</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023812/23812172/20220216103524_agros_chymos_rodakino_250ml.jpeg</Image>
-		<Price>0.3523278528000001</Price>
+		<Price>0.377494128</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0750</MPN>
@@ -1591,7 +1591,7 @@
 		<Name>Agros Χυμός Πορτοκάλι / Μήλο / Ροδάκινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812144/Agros-CHymos-Portokali-Milo-Rodakino-250ml.html?product_id=204993903</URL>
 		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=d7596862-c7a2-424e-ba6d-a759de6db60a</Image>
-		<Price>0.3523278528000001</Price>
+		<Price>0.377494128</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0440</MPN>
@@ -1606,7 +1606,7 @@
 		<Name>Agros Χυμός 8 Φρούτα 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812121/Agros-CHymos-8-Frouta-250ml.html?product_id=204993908</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023812/23812121/20220216102732_agros_chymos_8_frouta_250ml.jpeg</Image>
-		<Price>0.4163874624</Price>
+		<Price>0.446129424</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0584</MPN>
@@ -1621,7 +1621,7 @@
 		<Name>Agros Φρουτοποτό Μπανάνα / Βύσσινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/54188164/Agros-Froutopoto-Mpanana-Vyssino-250ml-0803.html</URL>
 		<Image>https://i.imgur.com/p6xOQPf.jpeg</Image>
-		<Price>0.373681056</Price>
+		<Price>0.40037256</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0803</MPN>
@@ -1636,7 +1636,7 @@
 		<Name>Agros Χυμός Βύσσινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812130/Agros-CHymos-Vyssino-250ml.html?product_id=204993909</URL>
 		<Image>https://panora.gr/pub/media/catalog/product/cache/e661dd810c922a0d4384fc34046b950e/1/0/10786.jpg</Image>
-		<Price>0.3523278528000001</Price>
+		<Price>0.377494128</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0000</MPN>
@@ -1651,7 +1651,7 @@
 		<Name>Agros Χυμός Ρόδι 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812176/Agros-CHymos-Rodi-250ml.html?product_id=204993910</URL>
 		<Image>https://panora.gr/pub/media/catalog/product/cache/e661dd810c922a0d4384fc34046b950e/1/0/10789.jpg</Image>
-		<Price>0.3950342592</Price>
+		<Price>0.423250992</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0626</MPN>
@@ -1666,7 +1666,7 @@
 		<Name>Agros Χυμός Πορτοκάλι / Μήλο / Βερίκοκο / Ροδάκινο 250ml</Name>
 		<URL>https://www.skroutz.gr/s/23812151/Agros-CHymos-Portokali-Milo-Verikoko-Rodakino-250ml.html?product_id=204993911</URL>
 		<Image>https://lianiki.mrpanda.gr/107712-large_default/agros-%CF%87%CF%85%CE%BC%CF%8C%CF%82-4-%CF%86%CF%81%CE%BF%CF%8D%CF%84%CE%B1-250ml.jpg</Image>
-		<Price>0.3950342592</Price>
+		<Price>0.423250992</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0578</MPN>
@@ -1681,7 +1681,7 @@
 		<Name>Agros Χυμός Πορτοκάλι 100% Φυσικός 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812050/Agros-CHymos-Portokali-100-Fysikos-1000ml.html?product_id=204993913</URL>
 		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=b1b2b861-d830-4bcc-a3fb-bbca6ee434a7</Image>
-		<Price>1.5267540288</Price>
+		<Price>1.635807888</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0310</MPN>
@@ -1696,7 +1696,7 @@
 		<Name>Agros Χυμός Ροδάκινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812064/Agros-CHymos-Rodakino-1000ml.html?product_id=204993912</URL>
 		<Image>https://www.bioscoop.gr/wp-content/uploads//2020/08/5202908110002.jpg</Image>
-		<Price>1.0569835584</Price>
+		<Price>1.132482384</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0341</MPN>
@@ -1711,7 +1711,7 @@
 		<Name>Agros Χυμός Πορτοκάλι / Μήλο / Ροδάκινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23706207/Agros-CHymos-Portokali-Milo-Rodakino-1000ml.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320067_0_lo.jpg</Image>
-		<Price>1.0569835584</Price>
+		<Price>1.132482384</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0812</MPN>
@@ -1726,7 +1726,7 @@
 		<Name>Agros Φρουτοποτό Μπανάνα 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812005/Agros-Froutopoto-Mpanana-1000ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023812/23812005/20210608091900_agros_chymos_1000ml.jpeg</Image>
-		<Price>0.9608941439999998</Price>
+		<Price>1.02952944</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0198</MPN>
@@ -1741,7 +1741,7 @@
 		<Name>Agros Χυμός 8 Φρούτα 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23811972/Agros-CHymos-8-Frouta-1000ml.html?product_id=204993927</URL>
 		<Image>https://balaskas.shop/wp-content/uploads/2019/11/5202908000105.jpg</Image>
-		<Price>1.2491623872</Price>
+		<Price>1.338388272</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0035</MPN>
@@ -1756,7 +1756,7 @@
 		<Name>Agros Χυμός Μήλο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/27224039/Agros-CHymos-Milo-Milo-1000ml.html?product_id=204993916</URL>
 		<Image>https://captain-hellas.gr/media/catalog/product/cache/7f8f0dadd9024ab92d0921af5c41888f/P/a/Page_1009_1.jpg</Image>
-		<Price>1.121043168</Price>
+		<Price>1.20111768</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0788</MPN>
@@ -1771,7 +1771,7 @@
 		<Name>Agros Φρουτοποτό Μπανάνα / Βύσσινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812016/Agros-Froutopoto-Mpanana-Vyssino-1000ml-23-5202908001.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320094_low.jpg</Image>
-		<Price>1.121043168</Price>
+		<Price>1.20111768</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0544</MPN>
@@ -1786,7 +1786,7 @@
 		<Name>Agros Χυμός Βύσσινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23811996/Agros-CHymos-Vyssino-1000ml.html?product_id=204993922</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/a/g/agros-froutopoto-cranberry-1lt_eryucfo752ylj8ok.jpg</Image>
-		<Price>1.0569835584</Price>
+		<Price>1.132482384</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0510</MPN>
@@ -1801,7 +1801,7 @@
 		<Name>Agros Χυμός Ρόδι 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/23812072/Agros-CHymos-Rodi-1000ml.html?product_id=204993917</URL>
 		<Image>https://imageproxy.wolt.com/menu/menu-images/64253711538dc3031d335d2d/c97f3a06-e439-11ed-97ba-c21da986045d_4519edb0_cf94_11ed_bc66_be0762469d7c_sok_market_88_photoroom.jpeg</Image>
-		<Price>1.121043168</Price>
+		<Price>1.20111768</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0424</MPN>
@@ -1816,7 +1816,7 @@
 		<Name>Agros Χυμός Ανανά 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/29884041/Agros-CHymos-Anana-1000ml.html</URL>
 		<Image>https://grmarket.dk/wp-content/uploads/2023/07/Agros-juice-pineapple-ananas-greek-market-graesk-grmarket.dk_.webp</Image>
-		<Price>1.1851027776</Price>
+		<Price>1.269752976</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0246</MPN>
@@ -1831,7 +1831,7 @@
 		<Name>Agros Φρουτοποτό Λεμόνι 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/33065686/Agros-Froutopoto-Lemoni-1000ml.html</URL>
 		<Image>https://www.bioscoop.gr/wp-content/uploads//2020/08/5202908000099.jpg</Image>
-		<Price>0.9608941439999998</Price>
+		<Price>1.02952944</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0742</MPN>
@@ -1846,7 +1846,7 @@
 		<Name>Agros Χυμός 4 Φρούτα Πορτοκάλι / Μήλο / Βερίκοκο / Ροδάκινο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/29585006/Agros-CHymos-4-Frouta-Portokali-Milo-Verikoko-Rodakino-1000ml.html?product_id=204993921</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/029585/29585006/20210621111226_agros_chymos_4_frouta_1000ml.jpeg</Image>
-		<Price>1.1851027776</Price>
+		<Price>1.269752976</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0972</MPN>
@@ -1861,7 +1861,7 @@
 		<Name>Agros Φρουτοποτό Cranberry 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/29883966/Agros-Froutopoto-Cranberry-1000ml.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/a/g/agros-froutopoto-cranberry-1lt_eryucfo752ylj8ok.jpg</Image>
-		<Price>1.5374306304</Price>
+		<Price>1.647247104</Price>
 		<Category>Χυμοί</Category>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0726</MPN>
@@ -6761,7 +6761,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1011</MPN>
 		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
 		<EAN>5201263006357</EAN>
-		<Quantity>876</Quantity>
+		<Quantity>868</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6775,7 +6775,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1012</MPN>
 		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
 		<EAN>5201263006364</EAN>
-		<Quantity>877</Quantity>
+		<Quantity>872</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10973,20 +10973,6 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
 		<EAN>8718951048553</EAN>
 		<Quantity>153</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>73002</SKU>
-		<Name>Blazy Επαγγελματικό Καθαριστικό Υγρό Πατώματος Lavender 1lt</Name>
-		<URL>https://www.skroutz.gr/s/55572896/Blazy-Epagelmatiko-Katharistiko-Ygro-Patomatos-Lavender-1lt-0819.html</URL>
-		<Image>https://i.imgur.com/IhYZiKW.jpeg</Image>
-		<Price>1.18652562</Price>
-		<Category>Ειδικά Καθαριστικά</Category>
-		<Manufacturer>BLAZY</Manufacturer>
-		<MPN>0819</MPN>
-		<Description>Είναι σχεδιασμένο για τον καθαρισμό και την αρωματική αναζωογόνηση των δαπέδων στο σπίτι ή στον επαγγελματικό χώρο. Η σύνθεσή του είναι ειδικά διαμορφωμένη για να απομακρύνει τους ρύπους, τις λεκέδες και τα ίχνη λίπους από τις επιφάνειες των δαπέδων, αφήνοντας πίσω ένα ευχάριστο άρωμα λεβάντας. Η εφαρμογή του είναι εύκολη: απλώστε το καθαριστικό στο δάπεδο, αφήστε το να δράσει για λίγα λεπτά, και στη συνέχεια ξεβγάλτε με άφθονο νερό. Αφού στεγνώσει, το δάπεδο θα είναι καθαρό, λαμπερό και αρωματισμένο με το άρωμα της λεβάντας.</Description>
-		<EAN>3800024013614</EAN>
-		<Quantity>86</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19021,7 +19007,7 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 		<Name>Panasonic Alkaline Power Μπαταρίες C 1.5V 2τμχ</Name>
 		<URL>https://www.skroutz.gr/s/51484084/Panasonic-Power-Alkalikes-Mpataries-C-1-5V-2tmch-PAN-APLR14.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/051484/51484084/xlarge_20240320173054_panasonic_power_alkalikes_mpataries_c_1_5v_4tmch_pan_aplr14.jpeg</Image>
-		<Price>1.69</Price>
+		<Price>1.66</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>PAN9004750</MPN>
@@ -19035,7 +19021,7 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 		<Name>Panasonic Alkaline Power Bronze Μπαταρίες D 1.5V 2τμχ</Name>
 		<URL>https://www.skroutz.gr/s/9004755/Panasonic-Alkaline-Power-Bronze-Mpataries-D-1-5V-2tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/009004/9004755/20211122150148_panasonic_alkaline_power_mpataries_d_1_5v_2tmch.jpeg</Image>
-		<Price>2.34</Price>
+		<Price>2.47</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1403</MPN>
@@ -25378,7 +25364,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>8882015011</SKU>
+		<SKU>88820015011</SKU>
 		<Name>Replay Κρουασάν με Γέμιση κρέμα Κακάο και κρέμα Πραλίνας Φουντουκιού 150gr </Name>
 		<URL>https://interelka.gr/portfolio-item/croissant-replay-big-filled-with-cocoa-crem-hazelnut-praline/</URL>
 		<Image>https://interelka.gr/wp-content/uploads/2024/04/CROISSANT-REPLAY-BIG-150-GR-COCOAPRALINE-OK-500x500.jpg</Image>
@@ -25389,7 +25375,6 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι.
 Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<EAN>5301000230356</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
