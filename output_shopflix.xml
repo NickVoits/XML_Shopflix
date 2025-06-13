@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-13 16:55</created_at>
+	<created_at>2025-06-13 16:56</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -6685,7 +6685,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Every Day All Cotton Normal Σερβιετάκια 20τμχ</Name>
 		<URL>https://www.skroutz.gr/s/7652544/Every-Day-All-Cotton-Normal-Servietakia-20tmch.html?product_id=215518746</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/007652/7652544/20230407130653_every_day_all_cotton_normal_servietakia_20tmch.jpeg</Image>
-		<Price>1.32</Price>
+		<Price>1.14</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1036</MPN>
@@ -6699,7 +6699,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Every Day Extra Dry Normal με Εκχύλισμα Χαμομηλιού Σερβιετάκια 20τμχ</Name>
 		<URL>https://www.skroutz.gr/s/14532334/Every-Day-Extra-Dry-Normal-me-Ekchylisma-CHamomiliou-Servietakia-20tmch.html?product_id=215518743</URL>
 		<Image>https://static.ab.gr/medias/sys_master/he7/h04/9493455208478.jpg</Image>
-		<Price>1.22</Price>
+		<Price>1.14</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1037</MPN>
@@ -7252,6 +7252,33 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί κάνει ό,τι υπόσχεται.</Description>
 		<EAN>4005900735690</EAN>
 		<Quantity>119</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>622100201</SKU>
+		<Name>Old Spice After Shave Lotion Original 100ml</Name>
+		<URL>https://www.skroutz.gr/s/7184440/Old-Spice-After-Shave-Lotion-Original-100ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/007184/7184440/xlarge_20221010114251_old_spice_original_after_shave_lotion_100ml.jpeg</Image>
+		<Price>6.1</Price>
+		<Category>After Shave</Category>
+		<Manufacturer>Old Spice</Manufacturer>
+		<MPN>15-00097</MPN>
+		<Description>Το ξεχωριστό αρρενωπό άρωμα του Old Spice After Shave τονώνει και αναζωογονεί την επιδερμίδα, δίνοντας μια αίσθησης φρεσκάδας.
+Οφέλη
+
+    Συνδυάζει τη δροσιά μιας λοσιόν με το κλασσικό ανδρικό άρωμα του Old Spice
+    Η λοσιόν αναζωογονεί το δέρμα μετά τo ξύρισμα
+    Βοηθάει να επουλωθούν τυχόν μικρά κοψίματα και πληγές από το ξύρισμα
+    Δροσίζει, διεγείρει και αναζωογονεί
+
+Οδηγίες Χρήσης
+
+Μετά το ξύρισμα απλώστε στα χέρια σας και απλώστε στο πρόσωπο ή και στον λαιμό.
+Συστατικά
+
+Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limonene, Eugenol, Geraniol, Citronellol, Alpha-Isomethyl Ionone, Cinnamyl Alcohol, Citral, Benzyl Benzoate</Description>
+		<EAN>5011321772335</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11968,6 +11995,20 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλουν στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστοι. Σημαντικό πλεονέκτημα τους είναι το γεγονός πως δεν αφήνουν οσμή, ενώ διακρίνονται για την ασφαλή τους χρήση.    Τεμάχια: 48τμχ</Description>
 		<EAN>5207043000614</EAN>
 		<Quantity>2104</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>751312</SKU>
+		<Name>Κύβοι Προσανάμματος Alfa  48τμχ</Name>
+		<URL>https://www.skroutz.gr/s/58449781/Alfa-Kyvoi-Prosanammatos-48tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/058449/58449781/xlarge_20250127110254_alfa_kyvoi_prosanammatos_48tmch.jpeg</Image>
+		<Price>0.5648552287179487</Price>
+		<Category>Καύσιμες Ύλες</Category>
+		<Manufacturer>Alfa</Manufacturer>
+		<MPN>1620001</MPN>
+		<Description>Λευκά Προσάναμμα κηροζίνης σε 48 κομμάτια για να ανάβετε εύκολα και γρήγορα τα κάρβουνα και τα ξύλα.</Description>
+		<EAN>5200148360072</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
