@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-14 17:05</created_at>
+	<created_at>2025-06-14 17:19</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -10985,7 +10985,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<EAN>8711600347083</EAN>
-		<Quantity>4466</Quantity>
+		<Quantity>4465</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18559,7 +18559,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες AAΑ 1.5V 4τμχ</Name>
 		<URL>https://www.skroutz.gr/s/47948537/Eurolamp-Mpataries-Alkalikes-Extreme-AAA-Eurolamp-4-tem.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/047948/47948537/20231110175309_eurolamp_mpataries_alkalikes_extreme_aaa_eurolamp_4_tem.jpeg</Image>
-		<Price>1.13</Price>
+		<Price>1.23</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1610</MPN>
@@ -18587,7 +18587,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες AA 1.5V 4τμχ</Name>
 		<URL>https://www.skroutz.gr/s/27859797/Eurolamp-Extreme-Alkalikes-Mpataries-AA-1-5V-4tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/027859/27859797/20210419125306_eurolamp_extreme_aa_4tmch.jpeg</Image>
-		<Price>1.16</Price>
+		<Price>1.27</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1611</MPN>
@@ -18611,55 +18611,11 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7975003</SKU>
-		<Name>Eurolamp Extreme Αλκαλική Μπαταρία 9V</Name>
-		<URL>https://www.skroutz.gr/s/50413499/Alkalikes-Mpataries-9V-12tmch-147-24124.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/050413/50413499/20240809134139_alkalikes_mpataries_9v_12tmch_147_24124.jpeg</Image>
-		<Price>1.49</Price>
-		<Category>Αλκαλικές Μπαταρίες</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1759</MPN>
-		<Description>Αλκαλική μπαταρία μεγέθους 9V, ιδανική για φακούς, ποτιστικά κι άλλες οικιακές συσκευές.</Description>
-		<EAN>5207227115462</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7975004</SKU>
-		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες C 1.5V 2τμχ</Name>
-		<URL>https://www.skroutz.gr/s/50216870/Alkalikes-Mpataries-C-1-5V-2tmch-147-24122.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/050216/50216870/20240809134141_alkalikes_mpataries_c_1_5v_2tmch_147_24122.jpeg</Image>
-		<Price>1.91</Price>
-		<Category>Αλκαλικές Μπαταρίες</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1760</MPN>
-		<Description>Αλκαλικές μπαταρίες μεγέθους C, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
-		<EAN>5207227115400</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7975005</SKU>
-		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες D 1.5V 2τμχ</Name>
-		<URL>https://www.skroutz.gr/s/54567742/Eurolamp-Mpataries-Alkalikes-Extreme-D-Eurolamp-2-tem.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/054567/54567742/20240809134139_eurolamp_mpataries_alkalikes_extreme_d_eurolamp_2_tem.jpeg</Image>
-		<Price>2.7</Price>
-		<Category>Αλκαλικές Μπαταρίες</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1761</MPN>
-		<Description>Αλκαλικές μπαταρίες μεγέθους D, ιδανικές για φακούς κι άλλες οικιακές συσκευές.
-
-Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
-		<EAN>5207227115431</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7975011</SKU>
 		<Name>Eurolamp Extreme Μπαταρία Λιθίου CR2032 3V</Name>
 		<URL>https://www.skroutz.gr/s/51833989/Eurolamp-Mpataria-Lithiou-Rologion-CR2032-1tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/051833/51833989/20240809142033_eurolamp_mpataria_lithiou_rologion_cr2032_1tmch.jpeg</Image>
-		<Price>0.39</Price>
+		<Price>0.42</Price>
 		<Category>Μπαταρίες Ρολογιών</Category>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1612</MPN>
@@ -18673,7 +18629,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Eurolamp Extreme Μπαταρία Λιθίου CR2025 3V</Name>
 		<URL>https://www.skroutz.gr/s/51772782/Eurolamp-Mpataria-Lithiou-Rologion-CR2025-3V-1tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/051772/51772782/20240809142126_eurolamp_mpataria_lithiou_rologion_cr2025_3v_1tmch.jpeg</Image>
-		<Price>0.39</Price>
+		<Price>0.42</Price>
 		<Category>Μπαταρίες Ρολογιών</Category>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1613</MPN>
@@ -18687,7 +18643,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Eurolamp Extreme Μπαταρία Λιθίου CR2016 3V</Name>
 		<URL>https://www.skroutz.gr/s/51772775/Eurolamp-Mpataria-Lithiou-Rologion-CR2016-3V-1tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/051772/51772775/20240809142117_eurolamp_mpataria_lithiou_rologion_cr2016_3v_1tmch.jpeg</Image>
-		<Price>0.39</Price>
+		<Price>0.42</Price>
 		<Category>Μπαταρίες Ρολογιών</Category>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1614</MPN>
