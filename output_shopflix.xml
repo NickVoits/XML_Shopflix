@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-17 16:05</created_at>
+	<created_at>2025-06-17 16:56</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -125,7 +125,7 @@
 		<Name>Kaiser Μπύρα Pilsner 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/51221007/Kaiser-Pilsner-Kaiser-Mpyra-330ml-5-1-Doro.html</URL>
 		<Image>https://eblokomarket.gr/8683-thickbox_default/bira-kaiser-330ml.jpg</Image>
-		<Price>7.477827107928</Price>
+		<Price>7.33</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>Kaiser</Manufacturer>
 		<MPN>0178</MPN>
@@ -136,26 +136,11 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>32226-Τ</SKU>
-		<Name>ΒΕΡΓΙΝΑ RADLER κουτί 330ml</Name>
-		<URL>https://www.skroutz.gr/s/55706774/Vergina-Radler-Kouti-330ml.html</URL>
-		<Image>https://www.thanopoulos.gr/1053885/vergina-mpira-radler-330ml.jpg</Image>
-		<Price>0.91</Price>
-		<Category>Μπύρες</Category>
-		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
-		<MPN>1198</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η μπύρα radler της εταιρείας Βεργίνα είναι μία μπύρα τύπου lager και περιέχει χυμό λεμονιού.Χρώμα: Ξανθιά. Αλκοόλ : 2%</Description>
-		<EAN>5203076030932</EAN>
-		<Quantity>28</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>32227</SKU>
-		<Name>ΒΕΡΓΙΝΑ FREE 6τμχ x330ml</Name>
+		<Name>ΒΕΡΓΙΝΑ FREE 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/26444369/Vergina-Low-Alcohol-Kouti-6-x-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/026444/26444369/20201231123546_vergina_low_alcohol_kouti_6_x_330ml.jpeg</Image>
-		<Price>4.09</Price>
+		<Price>3.92</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
 		<MPN>505</MPN>
@@ -163,21 +148,6 @@
 		<Description>Η μπύρα low alcohol της εταιρείας Βεργίνα είναι μία μπύρα με χαμηλή περιεκτικότητα σε αλκοόλ, που δεν υστερεί όμως σε γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
 		<EAN>5203076051135</EAN>
 		<Quantity>5</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>32227-Τ</SKU>
-		<Name>ΒΕΡΓΙΝΑ ALCOHOL FREE ΚΟΥΤΙ 330ml</Name>
-		<URL>https://www.skroutz.gr/s/55706772/Vergina-Kouti-330ml.html</URL>
-		<Image>https://www.thanopoulos.gr/1057832/vergina-mpira-xoris-alkool-330ml.jpg</Image>
-		<Price>0.68</Price>
-		<Category>Μπύρες</Category>
-		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
-		<MPN>1199</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η ΒΕΡΓΙΝΑ Alcohol FREE είναι ελεύθερη από τη φύση της καθώς με φυσική ζύμωση περιορίζεται το αλκοόλ, διατηρώντας τη γεύση μιας αυθεντικής μπύρας.</Description>
-		<EAN>5203076001130</EAN>
-		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -196,56 +166,11 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>32031-Τ</SKU>
-		<Name>Fix Lager Κουτί 500ml</Name>
-		<URL>https://www.skroutz.gr/s/6246653/Fix-Lager-Kouti-500ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/006246/6246653/20210304174331_fix_fix_500ml_koutaki.jpeg</Image>
-		<Price>1.15</Price>
-		<Category>Μπύρες</Category>
-		<Manufacturer>FIX</Manufacturer>
-		<MPN>0463</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Η μπύρα lager της εταιρείας Fix είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Το χρώμα της είναι ξανθό και η περιεκτικότητα σε αλκοόλ 5%.</Description>
-		<EAN>5200334220036</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>32032-Τ</SKU>
-		<Name>Kaiser Pilsner Κουτί 500ml</Name>
-		<URL>https://www.skroutz.gr/s/6246224/Kaiser-Pilsner-Lager-Kouti-500ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/006246/6246224/20150226092254_kaiser_500ml_koutaki.jpeg</Image>
-		<Price>1.49</Price>
-		<Category>Μπύρες</Category>
-		<Manufacturer>KAISER</Manufacturer>
-		<MPN>0921</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
-		<EAN>5201309103033</EAN>
-		<Quantity>39</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>32133-Τ</SKU>
-		<Name>ΕΖΑ Pils Hellas 500ml ΚΟΥΤΙ</Name>
-		<URL>https://www.skroutz.gr/s/6867969/EZA-Pils-Hellas-500ml-koutaki.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/006867/6867969/20231109122043_eza_pils_hellas_500ml_koutaki.jpeg</Image>
-		<Price>0.95</Price>
-		<Category>Μπύρες</Category>
-		<Manufacturer>PILS</Manufacturer>
-		<MPN>0828</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Η ξανθιά pilsener που κάθε σταγόνα της θυμίζει το λαμπερό ήλιο της Ελλάδας. Ευκολόπιοτη με αρωματικές νότες βύνης και λουλουδιών και ισορροπημένη επίγευση λυκίσκου. Παράγεται με τις πιο σύγχρονες τεχνικές ζυθοποίησης, από αγνά υλικά υψηλών προδιαγραφών, και ωριμάζει για 21 μέρες πριν διατεθεί προς κατανάλωση. Συνδυάζεται αρμονικά με αγαπημένες γεύσεις της ελληνικής κουζίνας.</Description>
-		<EAN>5201246002383</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>32333</SKU>
 		<Name>ΜΠΥΡΑ ΒΑΠ 6τμχ x500ml</Name>
 		<URL>https://www.skroutz.gr/s/19463931/VAP-Lager-Kouti-6x500ml.html</URL>
 		<Image>https://thessbeera.gr/wp-content/uploads/2020/09/%CE%92%CE%91%CE%A0-%CE%96%CE%A5%CE%98%CE%9F%CE%A3-%CE%9A%CE%9F%CE%A5%CE%A4%CE%99-%E2%80%93-%CE%9A%CE%99%CE%92%CE%A9%CE%A4%CE%99%CE%9F-24-%CE%A7-500-cl-42-scaled.jpg</Image>
-		<Price>5.29</Price>
+		<Price>5.18</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ΖΥΘΟΣ ΒΑΠ</Manufacturer>
 		<MPN>0453</MPN>
@@ -260,7 +185,7 @@
 		<Name>Κλιάφα Πορτοκαλάδα με Ανθρακικό 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/54144482/Kliafa-Portokali-me-Anthrakiko-0838-1500ml.html</URL>
 		<Image>https://static.ab.gr/medias/sys_master/h0c/h6d/9785272598558.jpg?buildNumber=3b762742e6edd814396ddac8825d3a01eff350b7c2a6d770cb7da109f54b927f&amp;imwidth=320</Image>
-		<Price>1.21</Price>
+		<Price>1.19</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0838</MPN>
@@ -275,7 +200,7 @@
 		<Name>Κλιάφα Πορτοκαλάδα Χωρίς Ανθρακικό 1500ml</Name>
 		<URL>https://www.skroutz.gr/s/54110317/Kliafa-Portokali-CHoris-Anthrakiko-0133-1500ml.html</URL>
 		<Image>https://www.kmkike.gr/wp-content/uploads/2022/12/KLIAFAS-MPLE-1.5-1.jpg</Image>
-		<Price>1.21</Price>
+		<Price>1.19</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0133</MPN>
@@ -290,7 +215,7 @@
 		<Name>Κλιάφα Λεμονάδα με Ανθρακικό 1500ml  </Name>
 		<URL>https://www.skroutz.gr/s/54144481/Kliafa-Lemoni-0140-1500ml.html</URL>
 		<Image>https://www.kmkike.gr/wp-content/uploads/2022/12/KLIAFAS-LEMONADA-1.5.jpg</Image>
-		<Price>1.21</Price>
+		<Price>1.19</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0140</MPN>
@@ -305,7 +230,7 @@
 		<Name>Κλιάφα Πορτοκαλάδα Φιάλη 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/48776558/Kliafa-Kliafa-Portokalada-Fiali-330ml-5-1-Doro.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/05/KLIAFA-ORANGE-6X330.jpg</Image>
-		<Price>2.76</Price>
+		<Price>2.39</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0797</MPN>
@@ -320,7 +245,7 @@
 		<Name>Κλιάφα Πορτοκαλάδα Χωρίς Ανθρακικό Μπουκάλι 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/54609667/Kliafa-CHoris-Anthrakiko-Mpoukali-0733-6x330ml.html</URL>
 		<Image>https://s1.sklavenitis.gr/images/1600x1600/files/ProductMedia/Products/1544064/1.jpeg</Image>
-		<Price>2.76</Price>
+		<Price>2.39</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0733</MPN>
@@ -335,7 +260,7 @@
 		<Name>Κλιάφα Λεμονάδα με Ανθρακικό Φιάλη 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/44017067/Kliafa-Lemonada-me-Anthrakiko-Fiali-6x330ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/05/KLIAFA-LEMON-6X330.jpg</Image>
-		<Price>2.76</Price>
+		<Price>2.39</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0199</MPN>
@@ -350,7 +275,7 @@
 		<Name>Κλιάφα Σόδα με Ανθρακικό 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/45569611/Kliafa-Soda-me-Anthrakiko-6x330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/081691/81691916/20230831124314_d41e21a6.jpeg</Image>
-		<Price>2.09</Price>
+		<Price>1.81</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0015</MPN>
@@ -365,7 +290,7 @@
 		<Name>Κλιάφα Βυσσινάδα με Ανθρακικό Φιάλη 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/44017128/Kliafa-Vyssinada-me-Anthrakiko-Fiali-6x330ml.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320548-1_0_low.jpg</Image>
-		<Price>3.38</Price>
+		<Price>2.92</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0307</MPN>
@@ -410,7 +335,7 @@
 		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54719895/EPSA-Portokali-Kouti-0380-6x330ml.html</URL>
 		<Image>https://static.ab.gr/medias/sys_master/h15/h84/8832192839710.jpg</Image>
-		<Price>3.27</Price>
+		<Price>3.29</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0380</MPN>
@@ -425,7 +350,7 @@
 		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54719886/EPSA-Portokali-CHoris-Anthrakiko-Kouti-0875-6x330ml.html</URL>
 		<Image>https://www.wineshop.gr/wp-content/uploads/2017/08/epsaportokaladaxorisanthrakiko_1.gif</Image>
-		<Price>3.27</Price>
+		<Price>3.29</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0875</MPN>
@@ -440,7 +365,7 @@
 		<Name>ΕΨΑ ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54719891/EPSA-Lemoni-Kouti-0313-6x330ml.html</URL>
 		<Image>https://mpalantinas.gr/wp-content/uploads/2021/09/19-43-02.jpg</Image>
-		<Price>3.13</Price>
+		<Price>3.15</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0313</MPN>
@@ -470,7 +395,7 @@
 		<Name>ΕΨΑ ΓΚΑΖΟΖΑ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54767502/EPSA-Lemoni-me-Anthrakiko-Kouti-6x330ml.html</URL>
 		<Image>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/0/4200000850/epsa-gkazoza-4x330ml-can.jpg</Image>
-		<Price>2.79</Price>
+		<Price>3.29</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0930</MPN>
@@ -500,7 +425,7 @@
 		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΕ ΓΙΑΣΕΜΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54656348/EPSA-Portokali-me-giasemi-Kouti-6x330ml.html</URL>
 		<Image>https://masoutisadm.masoutis.gr/main/ExportPromoOffers/PromoOffers_574_1949.webp</Image>
-		<Price>3.06</Price>
+		<Price>3.08</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0105</MPN>
@@ -515,7 +440,7 @@
 		<Name>ΕΨΑ ΛΕΜΟΝΙ ΜΕ ΙΒΙΣΚΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<URL>https://www.skroutz.gr/s/54720031/EPSA-Lemoni-me-Ivisko-Kouti-6x330ml.html</URL>
 		<Image>https://imageproxy.wolt.com/menu/menu-images/63f8c000865b00c7cd5edd55/05b90106-1755-11ef-8abf-c2da0ae748c8_4010955.jpg</Image>
-		<Price>3.06</Price>
+		<Price>3.08</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0973</MPN>
@@ -526,41 +451,11 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>115296</SKU>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
-		<URL>https://www.skroutz.gr/s/54720054/EPSA-Portokali-Cola-Kouti-6x330ml.html</URL>
-		<Image>https://edt-shop.gr/18065-home_default_2x/epsa-portokali-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image>
-		<Price>3.36</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΕΨΑ</Manufacturer>
-		<MPN>0536</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Το νέο αναψυκτικό το οποίο επαναπροσδιορίζει τα όρια της γεύσης, προσθέτοντας στη γνώριμη σε όλους μας «cola» την έντονη έκρηξη του Πορτοκαλιού.</Description>
-		<EAN>5201171310089</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>115297</SKU>
-		<Name>ΕΨΑ YUZU COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
-		<URL>https://www.skroutz.gr/s/54720032/EPSA-Yuzu-Cola-me-Anthrakiko-se-Kouti-6x330ml.html</URL>
-		<Image>https://edt-shop.gr/18064-home_default_2x/epsa-yuzu-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image>
-		<Price>3.36</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΕΨΑ</Manufacturer>
-		<MPN>0050</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Το νέο αναψυκτικό το οποίο επαναπροσδιορίζει τα όρια της γεύσης, προσθέτοντας στη γνώριμη σε όλους μας «cola» το εξωτικό εσπεριδοειδές Yuzu.</Description>
-		<EAN>5201171310096</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>11531</SKU>
 		<Name>ΕΨΑ Μπουκάλι Πορτοκαλάδα με Ανθρακικό 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/29350249/EPSA-Mpoukali-Portokalada-me-Anthrakiko-6x330ml.html</URL>
 		<Image>https://www.thanopoulos.gr/1023592/epsa-anapsuktiko-portokalada-me-anthrakiko-330ml-51.jpg</Image>
-		<Price>2.75</Price>
+		<Price>2.76</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0146</MPN>
@@ -575,7 +470,7 @@
 		<Name>ΕΨΑ Χωρίς Ανθρακικό Μπουκάλι Πορτοκαλάδα 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/44091807/EPSA-CHoris-Anthrakiko-Mpoukali-6x330ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/05/EPSA-PORTOK-MPLE-51-6X330ML.jpg</Image>
-		<Price>2.75</Price>
+		<Price>2.76</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0620</MPN>
@@ -590,7 +485,7 @@
 		<Name>ΕΨΑ Μπουκάλι Λεμονάδα με Ανθρακικό 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/29350091/EPSA-Mpoukali-Lemonada-me-Anthrakiko-6x330ml.html</URL>
 		<Image>https://static.ab.gr/medias/sys_master/hdc/h84/9660423602206.jpg</Image>
-		<Price>2.63</Price>
+		<Price>2.65</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0658</MPN>
@@ -680,7 +575,7 @@
 		<Name>Sprite Γκαζόζα με Ανθρακικό σε Μπουκάλι 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/45661617/Sprite-Gazoza-me-Anthrakiko-se-Mpoukali-1500ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/045661/45661617/xlarge_20230908223946_sprite_sprite_1_5_lt_0_30.jpeg</Image>
-		<Price>1.78</Price>
+		<Price>1.89</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>272001</MPN>
@@ -694,7 +589,7 @@
 		<Name>Fanta Πορτοκαλάδα με Ανθρακικό 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/58910165/Fanta-Portokalada-18541-1500ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/058910/58910165/xlarge_20250224164642_fanta_portokalada_18541_1500ml.jpeg</Image>
-		<Price>1.78</Price>
+		<Price>1.89</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>272002</MPN>
@@ -720,7 +615,7 @@
 		<Name>Fanta Λεμονάδα με Ανθρακικό 1500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<URL>https://www.skroutz.gr/s/24679486/Fanta-Lemonada-me-Anthrakiko-se-Mpoukali-1500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024679/24679486/xlarge_20220217095529_fanta_lemonada_me_anthrakiko_1500ml.jpeg</Image>
-		<Price>1.78</Price>
+		<Price>1.89</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>272003</MPN>
@@ -1359,7 +1254,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<EAN>5201309703172</EAN>
-		<Quantity>256</Quantity>
+		<Quantity>255</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2694,7 +2589,7 @@
 		<MPN>1515</MPN>
 		<Description>Το Μοσχοφίλερο Μπουτάρη είναι το πλέον φημισμένο και γνωστό λευκό κρασί, και το όνομά του αποτελεί πλέον «συνώνυμο» της ποικιλίας Μοσχοφίλερο. Αποτελεί ένα ιδιαίτερα αρωματικό κρασί, στην καλύτερη έκφραση της ποικιλίας, το οποίο με διεθνείς διακρίσεις, αλλά κυρίως με την προτίμηση του καταναλωτή, έχει κερδίσει επάξια τη διεθνή αναγνώριση.Ανοιχτό, απαλό λευκό με γκριζωπές ανταύγειες που μαρτυρούν το νεαρό της ηλικίας του και την προέλευση από την ερυθρωπή ποικιλία Μοσχοφίλερο. Έντονα αρώματα όπως άγριο τριαντάφυλλο και άνθη λεμονιάς που πλαισιώνονται από δευτερογενή αρώματα όπως το θυμάρι και το πράσινο μήλο. Ελαφρύ, αρωματικό και ευκολόπιοτο παρουσιάζει έντονη φρεσκάδα και εξαιρετική ισορροπία. Στο τελείωμα του αφήνει μια μακρά μαλάκη επίγευση γεμάτη αρώματα εσπεριδοειδών.</Description>
 		<EAN>5201022574233</EAN>
-		<Quantity>442</Quantity>
+		<Quantity>418</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4039,6 +3934,20 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 Αν συνοδευτεί από αρωματική σάλτσα με βάση τα εσπεριδοειδή και τα βότανα, ο συνδυασμός γίνεται ιδανικός.</Description>
 		<EAN>5214002108014</EAN>
 		<Quantity>28</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47291102</SKU>
+		<Name>Navitas Winery Κρασί 52 Peaks Chardonnay Λευκό Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/31776347/Navitas-Winery-Krasi-52-Peaks-Chardonnay-Leyko-Xiro-750ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/031776/31776347/xlarge_20211018164551_navitas_winery_krasi_52_peaks_leyko_xiro_vegan_750ml.jpeg</Image>
+		<Price>17.55</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Navitas Winery</Manufacturer>
+		<MPN>1790003</MPN>
+		<Description>Η σύνθεση των 3 διαφορετικών οινοποιήσεων προσδίδει συμπύκνωση και πολύπλοκο χαρακτήρα που συνδυάζει τα φρουτώδη αρώματα - πράσινο μήλο, κίτρο, πυρηνόκαρπα - με αυτά του βούτυρου, της κρέμας και του ψωμιού. Η φρέσκια αίσθηση της οξύτητας εξισορροπεί το πολυεπίπεδο αρωματικό προφίλ και το λιπαρό, στρογγυλό σώμα. Καλά ενσωτωμένο βαρέλι. Μακρύ τελείωμα. Δυναμική παλαίωσης. Vegan προϊόν!</Description>
+		<EAN>5214002108038</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10121,7 +10030,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<EAN>8720181012570</EAN>
-		<Quantity>902</Quantity>
+		<Quantity>899</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10137,7 +10046,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας.
 Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<EAN>8720181413285</EAN>
-		<Quantity>902</Quantity>
+		<Quantity>899</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11215,7 +11124,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>85</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12935,7 +12844,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Εγκοπές για Φούστες
     Μεταλλικά, Περιστρεφόμενα Άγκιστρα</Description>
 		<EAN>0194343029085</EAN>
-		<Quantity>8</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13871,6 +13780,124 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>77001101021</SKU>
+		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Γκρι Σετ 2τμχ E-4548</Name>
+		<URL>https://www.sidirela.gr/nea-proionta/trapezaki-quot-side-table-quot/</URL>
+		<Image>https://www.sidirela.gr/uploads/2025/06/e-4548-99-trapezaki-side-table-2-tem-set-web.jpg</Image>
+		<Price>19.03</Price>
+		<Category>Έπιπλα Σαλονιού</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-4548-1</MPN>
+		<Description>Τα βοηθητικά τραπεζάκια σαλονιού της εταιρείας Sidirela είναι ιδανικά για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού 
+προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. 
+Είναι τετράγωνα σετ 2 τεμαχίων, αποθηκεύεται το ένα κάτω από το άλλο και αποτελείται από μέταλλο και μοριοσανίδα σε μαύρο και γκρι χρώμα. 
+
+
+Διαστάσεις 1ου τραπεζιού:
+
+    Μήκος: 37,5εκ.
+    Πλάτος: 37,5εκ.
+    Ύψος: 40εκ.
+
+
+Διαστάσεις 2ου τραπεζιού:
+
+    Μήκος: 33,5εκ.
+    Πλάτος: 33,5εκ.
+    Ύψος: 36εκ.</Description>
+		<EAN>5203642145480-gray</EAN>
+		<Quantity>4</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001101022</SKU>
+		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Μπεζ Σετ 2τμχ E-4548</Name>
+		<URL>https://www.sidirela.gr/nea-proionta/trapezaki-quot-side-table-quot/</URL>
+		<Image>https://www.sidirela.gr/uploads/2025/06/e-4548-99-trapezaki-side-table-2-tem-set-web.jpg</Image>
+		<Price>19.03</Price>
+		<Category>Έπιπλα Σαλονιού</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-4548-2</MPN>
+		<Description>Τα βοηθητικά τραπεζάκια σαλονιού της εταιρείας Sidirela είναι ιδανικά για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού 
+προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. 
+Είναι τετράγωνα σετ 2 τεμαχίων, αποθηκεύεται το ένα κάτω από το άλλο και αποτελείται από μέταλλο και μοριοσανίδα σε μαύρο και μπεζ χρώμα. 
+
+
+Διαστάσεις 1ου τραπεζιού:
+
+    Μήκος: 37,5εκ.
+    Πλάτος: 37,5εκ.
+    Ύψος: 40εκ.
+
+
+Διαστάσεις 2ου τραπεζιού:
+
+    Μήκος: 33,5εκ.
+    Πλάτος: 33,5εκ.
+    Ύψος: 36εκ.</Description>
+		<EAN>5203642145480-bez</EAN>
+		<Quantity>4</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700110302</SKU>
+		<Name>Μεταλλικό ορθογώνιο τρόλεϊ  με πλαστικά ράφια πολλαπλών χρήσεων 3 θέσεων ,μεγάλης αντοχής  με ρόδες Μ58xΠ37xΥ88cm E-3921</Name>
+		<URL>https://www.skroutz.gr/s/55832639/E-3921-Epitoichia-Rafiera-Mpaniou-Plastiki-me-3-Rafia-58x37x88cm.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/055832/55832639/fixedratio_20240910115608_e_3921_epitoichia_rafiera_mpaniou_plastiki_me_3_rafia_58x37x88cm.jpeg</Image>
+		<Price>18.17</Price>
+		<Category>Ράφια Τροφίμων</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3921</MPN>
+		<Description>
+Μεταλλικό ορθογώνιο τρόλεϊ διαστάσεων 58x37x88εκ με πλαστικά ράφια πολλαπλών χρήσεων 3 θέσεων,μεγάλης αντοχής με ρόδες. 
+Ιδανικό για να αποθηκεύετε και να οργανώνετε τα ποτά σας.</Description>
+		<EAN>5203642139212</EAN>
+		<Quantity>1</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103032</SKU>
+		<Name>Μεταλλικό Στρόγγυλο Τρόλεϊ  με Πλαστικά Ράφια Πολλαπλών Χρήσεων 2 Θέσεων μεγάλης αντοχής  με ρόδες σε Χρώμα Λευκό/Φυσικό Μ48xΠ48xΥ52cm E-3953</Name>
+		<URL>https://www.skroutz.gr/s/33229448/Strogylo-Voithitiko-Trapezaki-Metalliko-me-Rodes-Leyko-Fysiko-E-3953-M48xP48xY51-5ek.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/033229/33229448/fixedratio_20220323132409_strogylo_voithitiko_trapezaki_metalliko_me_rodes_leyko_fysiko_e_3953_m48xp48xy51_5ek.jpeg</Image>
+		<Price>16.52</Price>
+		<Category>Ράφια Τροφίμων</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3953</MPN>
+		<Description>Τρόλεϊ “Βar”
+
+    Σχήμα: στρογγυλό
+    Πλαστικά ράφια πολλαπλών χρήσεων 2 θέσεων
+    Μεγάλης αντοχής με ρόδες
+    Διαστάσεις: 48x48x52cm
+</Description>
+		<EAN>5203642139533</EAN>
+		<Quantity>1</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103033</SKU>
+		<Name>Μεταλλικό Στρόγγυλο Τρόλεϊ  με Πλαστικά Ράφια Πολλαπλών Χρήσεων 3 Θέσεων μεγάλης αντοχής  με ρόδες σε Χρώμα Λευκό/Φυσικό Μ48xΠ48xΥ82cm E-3922</Name>
+		<URL>https://www.skroutz.gr/s/33229453/Strogylo-Voithitiko-Trapezaki-Metalliko-me-Rodes-Leyko-Fysiko-E-3922-M48xP48xY81-5ek.html</URL>
+		<Image>https://d.scdn.gr/images/sku_images/098039/98039310/fixedratio_20240613104700_bb38e9c4.jpeg</Image>
+		<Price>18.17</Price>
+		<Category>Ράφια Τροφίμων</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3922</MPN>
+		<Description>Τρόλεϊ “Βar”
+
+Σχήμα: στρογγυλό
+
+Με πλαστικά ράφια πολλαπλών χρήσεων 3 θέσεων, μεγάλης αντοχής με ρόδες
+
+Διαστάσεις: 48x48x82cm
+
+Χρώμα: λευκό</Description>
+		<EAN>5203642139229</EAN>
+		<Quantity>2</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>77001111</SKU>
 		<Name>Γραφείο Ξύλινο με Μεταλλικά Πόδια Sonama - Λευκό 60x40x89cm E-3977</Name>
 		<URL>https://www.skroutz.gr/s/33676073/Grafeio-Xylino-me-Metallika-Podia-Sonama-Leyko-60x40x89ek-E-3977.html</URL>
@@ -14631,7 +14658,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134415</EAN>
-		<Quantity>175</Quantity>
+		<Quantity>174</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15165,7 +15192,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<EAN>7449138607</EAN>
-		<Quantity>233</Quantity>
+		<Quantity>232</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23009,7 +23036,7 @@ Samsung Knox Security
 		<MPN> 03.005.0164</MPN>
 		<Description>Τηλεχειριστήριο Universal για Samsung Smart IR-1312.</Description>
 		<EAN>prom-sams-001</EAN>
-		<Quantity>107</Quantity>
+		<Quantity>106</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24202,7 +24229,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.3 kg</Weight>
 		<Description>Ο τόνος al Naturale της Rio Mare είναι ελαφρύς και γευστικός, προέρχεται από τη θάλασσα και από την επιλογή κιτρινόπτερου τόνου.</Description>
 		<EAN>8004030357532</EAN>
-		<Quantity>201</Quantity>
+		<Quantity>181</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24712,7 +24739,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι.
 Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<EAN>5301000230356</EAN>
-		<Quantity>101</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
