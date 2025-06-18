@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-17 16:56</created_at>
+	<created_at>2025-06-18 09:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -13,7 +13,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<EAN>5201261231843</EAN>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28,7 +28,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας Άλφα είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
 		<EAN>5201261801152</EAN>
-		<Quantity>25</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -492,7 +492,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>206</Quantity>
+		<Quantity>205</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -894,7 +894,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005179370</EAN>
-		<Quantity>719</Quantity>
+		<Quantity>623</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1748,7 +1748,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<EAN>5201156030261</EAN>
-		<Quantity>160</Quantity>
+		<Quantity>156</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1763,7 +1763,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<EAN>5201156030308</EAN>
-		<Quantity>149</Quantity>
+		<Quantity>146</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1913,7 +1913,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<EAN>5201946010015</EAN>
-		<Quantity>1700</Quantity>
+		<Quantity>1532</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1928,7 +1928,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345078</EAN>
-		<Quantity>2020</Quantity>
+		<Quantity>1883</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1957,7 +1957,7 @@
 		<MPN>130801</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080027</EAN>
-		<Quantity>12820</Quantity>
+		<Quantity>12694</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1971,7 +1971,7 @@
 		<MPN>10 160</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας. </Description>
 		<EAN>5201627019900</EAN>
-		<Quantity>581</Quantity>
+		<Quantity>511</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2350,7 +2350,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<EAN>5202037115015</EAN>
-		<Quantity>348</Quantity>
+		<Quantity>354</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2485,7 +2485,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
 		<EAN>5202037114162</EAN>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3173,7 +3173,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Λαμπερό υποκίτρινο χρώμα με πράσινες ανταύγειες. Σύνθετη αρωματική παλέτα όπου οι φυτικοί χαρακτήρες του σπαραγγιού και της πιπεριάς συνυπάρχουν με νότες ώριμων φρούτων (πεπόνι, ροδάκινο, ανανάς). Πλούσιο στη γεύση, διακρίνεται για τη δροσερή οξύτητα, τη λιπαρότητα, τη γευστική πολυπλοκότητα και την επίμονη, φρουτώδη επίγευση.</Description>
 		<EAN>15200372900997</EAN>
-		<Quantity>88</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3414,7 +3414,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888070027</EAN>
-		<Quantity>345</Quantity>
+		<Quantity>339</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3911,7 +3911,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>977</Quantity>
+		<Quantity>971</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5184,7 +5184,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>167102</MPN>
 		<Description>Δημιουργήθηκε το 1923, φέρνοντας μια επανάσταση στην παράδοση των ουίσκι αφού είναι το πρώτο που φτιάχτηκε για να αναμειγνύεται, οδηγώντας τους barmen σε μια περιπέτεια ανακάλυψης νέων cocktails. Απλό και ισορροπημένο, το Cutty Sark είναι το τέλειο blended whisky για πριν το φαγητό. Ζωηρό με αρώματα βοτάνων και ξηρών φρούτων και καρπών. Ελαφρύ και δροσερό με νότες καραμέλας στην επίγευση.</Description>
 		<EAN>5010504100095</EAN>
-		<Quantity>59</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5273,7 +5273,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
-		<Quantity>276</Quantity>
+		<Quantity>271</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5469,7 +5469,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Η El Jimador Reposado είναι μια τεκίλα 100% αγαύης που παραμένει 3 μήνες στο βαρέλι πριν την εμφιάλωση. Ένας πλούσιος συνδυασμός μπαχαρικών, φρούτων, ξύλου, βανίλιας και ψημένων φουντουκιών. Απαλή επίγευση βανίλιας με λεπτές και πικάντικες νότες.</Description>
 		<EAN>7501145269107</EAN>
-		<Quantity>29</Quantity>
+		<Quantity>28</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6957,7 +6957,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Με Λιπαντική Ταινία που Ξεθωριάζει
     Για Απαλό Ξύρισμα</Description>
 		<EAN>8700216331579</EAN>
-		<Quantity>122</Quantity>
+		<Quantity>121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8794,7 +8794,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1261</MPN>
 		<Description>Γαλάκτωμα Σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής.Θρέφει, ενεργοποιεί, καταπραΰνει τους ερεθισμούς, επιταχύνει την επούλωση των πληγών. Έχει ευεργετική επίδραση διατηρώντας το κατάλληλο επίπεδο ενυδάτωσης του δέρματος και ενισχύει την ελαστικότητά του. . Η φόρμουλά του εμπεριέχει μέλι βέρα και γιαούρτι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας.</Description>
 		<EAN>5208005110051</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9746,7 +9746,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>2397</Quantity>
+		<Quantity>2396</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9761,7 +9761,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055237</EAN>
-		<Quantity>549</Quantity>
+		<Quantity>548</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9836,7 +9836,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Weight>0.8 kg</Weight>
 		<Description>Το συμπυκνωμένο μαλακτικό ρούχων της Tesori d'Oriente εισχωρεί και μαλακώνει τις ίνες των υφασμάτων, με αποτέλεσμα να μην τσακίζουν, μειώνει τον στατικό ηλεκτρισμό, προσφέρει απαλά ρούχα, διευκολύνει τη διαδικασία του σιδερώματος και συμβάλλει στη διατήρηση των υφασμάτων.</Description>
 		<EAN>8008970055220</EAN>
-		<Quantity>753</Quantity>
+		<Quantity>752</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10030,7 +10030,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<EAN>8720181012570</EAN>
-		<Quantity>899</Quantity>
+		<Quantity>894</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10046,7 +10046,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας.
 Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<EAN>8720181413285</EAN>
-		<Quantity>899</Quantity>
+		<Quantity>894</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11124,7 +11124,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>84</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11138,7 +11138,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>310</Quantity>
+		<Quantity>309</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11775,7 +11775,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1121</MPN>
 		<Description>Ένα αποτελεσματικό δόλωμα για την εξόντωση ποντικών και αρουραίων. Αποτελείται από ειδικά επεξεργασμένο σιτάρι που προσελκύει τα τρωκτικά, τα οποία το καταναλώνουν και στη συνέχεια εξολοθρεύονται. Το προϊόν είναι σχεδιασμένο για χρήση σε εσωτερικούς και εξωτερικούς χώρους, όπως αποθήκες, οικίες ή αγροτικές εγκαταστάσεις. Είναι κατάλληλο για περιοχές με υψηλή παρουσία τρωκτικών και μπορεί να τοποθετηθεί σε σημεία όπου υπάρχει κίνηση των τρωκτικών. Συνίσταται η χρήση του με προσοχή, σύμφωνα με τις οδηγίες, για την αποφυγή επαφής με ανθρώπους και κατοικίδια.</Description>
 		<EAN>5200138990197</EAN>
-		<Quantity>179</Quantity>
+		<Quantity>169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14463,7 +14463,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Διαστάσεις σάκου: 42 x 30 x 51 cm
     Συνολικές διαστάσεις: 50 x 33 x 72 cm</Description>
 		<EAN>0194343043494</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14638,7 +14638,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1125</MPN>
 		<Description>Η πετσέτα κουζίνας της εταιρείας Flamingo είναι κατάλληλη για να σκουπίζετε τα πιάτα, απορροφά την υγρασία, καθαρίζει επιφάνειες, στεγνώνει βότανα και λαχανικά και σας βοηθάει να κρατάτε με ασφάλεια ζεστά πιάτα και μαγειρικά σκεύη.Φροντίδα: Συνιστάται πλύσιμο με ζεστό νερό για την εξάλειψη των βακτηρίων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Αποφύγετε τη χρήση μαλακτικού, καθώς το μαλακτικό δημιουργεί ένα στρώμα στις ίνες του υφάσματος, καθιστώντας έτσι πιο δύσκολη την απορρόφηση της υγρασίας. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
 		<EAN>5206952011223</EAN>
-		<Quantity>356</Quantity>
+		<Quantity>355</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14698,7 +14698,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134439</EAN>
-		<Quantity>190</Quantity>
+		<Quantity>188</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15192,7 +15192,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<EAN>7449138607</EAN>
-		<Quantity>232</Quantity>
+		<Quantity>230</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19566,7 +19566,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
 Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί βράζει γρήγορα το νερό.</Description>
 		<EAN>5203642124874</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19736,7 +19736,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Μήκος καλωδίου: 120 cm
     Μέγεθος προϊόντος: 48,5 x 7,5 x 25,0 [cm]</Description>
 		<EAN>5901299955529</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20051,7 +20051,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1701</MPN>
 		<Description>Η βάση φόρτισης της εταιρείας Ugreen επιτρέπει την ταυτόχρονη φόρτιση συσκευών χάρη στις θύρες που διαθέτει. Αφού η βάση συνδεθεί στο ρεύμα, μπορούμε να συνδέσουμε το καλώδιο φόρτισης του κινητού μας στη βάση για να φορτίσουμε το κινητό. Υποστηρίζει γρήγορη φόρτιση Power Delivery, Quick Charge 2.0, η οποία θα πρέπει να είναι συμβατή με το κινητό σας. Σε αντίθετη περίπτωση, το κινητό σας θα φορτίσει αργά, όπως με ένα συμβατικό φορτιστή.</Description>
 		<EAN>6957303849147</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21101,7 +21101,7 @@ XO-EP57
 
 Τα ακουστικά Bluetooth XO Q4 έχουν μεγάλο χρόνο εργασίας - έως και 4,5 ώρες συνεχούς αναπαραγωγής μουσικής ή κλήσεων. Αυτό τα καθιστά εξαιρετική επιλογή για όσους τους αρέσει να ακούν μουσική εν κινήσει ή έξω και τριγύρω. Η υψηλή ποιότητα ήχου και η άνετη χρήση καθιστούν τα ακουστικά Bluetooth ιδανική επιλογή για όσους θέλουν να απολαύσουν τον ποιοτικό ήχο και την άνεση των ασύρματων ακουστικών.</Description>
 		<EAN>6920680842995</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21360,7 +21360,7 @@ XO-EP57
     Εμβέλεια Bluetooth έως 10 μέτρα
     Λυχνία LED ένδειξης λειτουργίας</Description>
 		<EAN>6957303876013</EAN>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21507,7 +21507,7 @@ XO-EP57
     Έντασης Ρεύματος Κύριας Θύρας: 3.25A
     Τεχνολογία Γρήγορης Φόρτισης: Power Delivery, Quick Charge 2.0, Quick Charge 3.0</Description>
 		<EAN>6941876221868</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21910,7 +21910,7 @@ XO-EP57
 		<MPN>1734</MPN>
 		<Description>Πολυγωνική ρυθμιζόμενη φορητή βάση για smartphones ή tablet. Διαθέτει ζώνη σιλικόνης στο κάτω μέρος που προστατεύει τη συσκευή από πιθανές γρατσουνιές.</Description>
 		<EAN>6957303834853</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23404,7 +23404,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακρύσπερμο ρύζι που παίρνει το χρυσαφένιο χρώμα από τα συστατικά του εξωτερικού φλοιού του, κατά την υγροθερμική επεξεργασία, ο οποίος απομακρύνεται στη συνέχεια. Θεωρείται ιδανικό για πιλάφι λόγω του ότι παραμένει σπυρωτό.</Description>
 		<EAN>5212006201304</EAN>
-		<Quantity>894</Quantity>
+		<Quantity>892</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23419,7 +23419,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μεσόσπερμο ρύζι με κρυσταλλιζέ – λευκό χρώμα. Οι κόκκοι αυτού του ρυζιού τείνουν να προσκολλώνται μεταξύ τους κατά τη διάρκεια του μαγειρέματος και γι’αυτό ενδείκνυται για σούπες και γλυκά όπως το ρυζόγαλο.</Description>
 		<EAN>5212006201205</EAN>
-		<Quantity>305</Quantity>
+		<Quantity>303</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23434,7 +23434,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Ρύζι νυχάκι μακρύσπερμο.Ελληνικό προϊόν που παράγεται από τον αγροτικό συνεταιρισμό “Χαλάστρα” στη Θεσσαλονίκη.Συσκευασία των 500 γραμμαρίων.</Description>
 		<EAN>5212006201106</EAN>
-		<Quantity>345</Quantity>
+		<Quantity>343</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23554,7 +23554,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Χοντρό κριθαράκι της εταιρίας Famiglia, για να φτιάξετε ένα γρήγορο γεύμα ή ένα έδεσμα γαστρονομίας!</Description>
 		<EAN>5201013005036</EAN>
-		<Quantity>709</Quantity>
+		<Quantity>703</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23584,7 +23584,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια τριβελάκι απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<EAN>5201013005081</EAN>
-		<Quantity>396</Quantity>
+		<Quantity>390</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23599,7 +23599,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια πέννες απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<EAN>5201013005128</EAN>
-		<Quantity>83</Quantity>
+		<Quantity>77</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23659,7 +23659,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Το αναπλήρωμα ξύδιου John Top σε συσκευασία 400ml είναι ιδανικό για χρήση στη μαγειρική και στην παρασκευή σάλτσων, μαριναδών, σαλατών και dressings. Με το χαρακτηριστικό άρωμα και την έντονη γεύση του, προσδίδει ξεχωριστή γεύση στα φαγητά σας. Είναι ιδανικό για να δώσει μια ευχάριστη οξύτητα και αναδεικνύει τα αρώματα των υλικών που χρησιμοποιείτε.</Description>
 		<EAN>5202737200547</EAN>
-		<Quantity>1711</Quantity>
+		<Quantity>1708</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24229,7 +24229,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.3 kg</Weight>
 		<Description>Ο τόνος al Naturale της Rio Mare είναι ελαφρύς και γευστικός, προέρχεται από τη θάλασσα και από την επιλογή κιτρινόπτερου τόνου.</Description>
 		<EAN>8004030357532</EAN>
-		<Quantity>181</Quantity>
+		<Quantity>161</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24259,7 +24259,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<EAN>6111260550359</EAN>
-		<Quantity>4390</Quantity>
+		<Quantity>4387</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24274,7 +24274,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<EAN>6111260550366</EAN>
-		<Quantity>2566</Quantity>
+		<Quantity>2563</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24349,7 +24349,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.2 kg</Weight>
 		<Description>Lancheon meat από κοτόπουλο που μπορεί να προστεθεί στο sandwich, στο κολατσιό στο σχολείο, αλλά και στη μαγειρική ως πρώτη ύλη.</Description>
 		<EAN>8705253502503</EAN>
-		<Quantity>258</Quantity>
+		<Quantity>255</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25244,7 +25244,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>371</Quantity>
+		<Quantity>370</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
