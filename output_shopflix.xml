@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-19 16:05</created_at>
+	<created_at>2025-06-19 16:56</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -177,7 +177,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>687</Quantity>
+		<Quantity>682</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -192,7 +192,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>588</Quantity>
+		<Quantity>576</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -639,7 +639,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>372</Quantity>
+		<Quantity>371</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1932,7 +1932,7 @@
 		<MPN>13081</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345122</EAN>
-		<Quantity>1224</Quantity>
+		<Quantity>1235</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1960,7 +1960,7 @@
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
 		<EAN>1520162701990</EAN>
-		<Quantity>440</Quantity>
+		<Quantity>420</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2166,7 +2166,7 @@
 		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΛΕΥΚΟ ΞΗΡΟ 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55528421/Tsililis-Krasi-Leyko-Xiro-500ml-15202548505012.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004774/4774819/20210210134201_tsililis_mostra_leykos_500ml.jpeg</Image>
-		<Price>2.12</Price>
+		<Price>2.15</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1149</MPN>
@@ -2181,7 +2181,7 @@
 		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΡΟΖΕ ΞΗΡΟ 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519115/Tsililis-Krasi-Roze-Xiro-500ml-15202548505111.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004774/4774808/20210210133900_tsililis_mostra_roze_500ml.jpeg</Image>
-		<Price>2.17</Price>
+		<Price>2.19</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1150</MPN>
@@ -2196,7 +2196,7 @@
 		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΕΡΥΘΡΟ ΞΗΡΟ 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519116/Tsililis-Krasi-Erythro-Xiro-500ml-15202548505210.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-ktima-tsilili-mostra-eruthro-500.gif</Image>
-		<Price>2.17</Price>
+		<Price>2.19</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1151</MPN>
@@ -2211,7 +2211,7 @@
 		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΡΟΖΕ ΗΜΙΓΛΥΚΟ 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519117/Tsililis-Krasi-Roze-Imiglyko-500ml-15202548505319.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027989/27989645/20210331115401_tsililis_krasi_roze_imiglyko_mostra_500ml.jpeg</Image>
-		<Price>2.17</Price>
+		<Price>2.19</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1152</MPN>
@@ -2226,7 +2226,7 @@
 		<Name>Οινοποιεία Στέλιου Κεχρή Ρετσίνα Κεχριμπάρι 500ml Ροδίτης/ Σαββατιανό</Name>
 		<URL>https://www.skroutz.gr/s/4773729/Oinopoieia-Steliou-Kechri-Krasi-Kechrimpari-Leyko-Xiro-500ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004773/4773729/20200314140240_oinopoieia_steliou_kechri_kechrimpari_retsina_leyko_500ml.jpeg</Image>
-		<Price>2.99</Price>
+		<Price>3.24</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
 		<MPN>1153</MPN>
@@ -2293,7 +2293,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>762</Quantity>
+		<Quantity>759</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2346,7 +2346,7 @@
 		<Name>ΤΥΡΝΑΒΟΥ ΑΡΕΤΟ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/6397133/Tyrnavou-Areto-Leyko-1500ml.html</URL>
 		<Image>https://supermarket.prosperitynetwork.gr/822-large_default/%CF%84%CF%85%CF%81%CE%BD%CE%B1%CE%B2%CE%BF%CF%85-pet-%CE%B1%CF%81%CE%B5%CF%84%CE%BF-15-lt.jpg</Image>
-		<Price>3.05</Price>
+		<Price>3.09</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0939</MPN>
@@ -2361,7 +2361,7 @@
 		<Name>ΤΥΡΝΑΒΟΥ ΡΕΤΣΙΝΑ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/6397131/Tyrnavou-Retsina-1-5lt.html</URL>
 		<Image>https://agnomarket-meat.gr/wp-content/uploads/2023/07/7260-1.jpg</Image>
-		<Price>3.05</Price>
+		<Price>3.09</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0691</MPN>
@@ -2376,7 +2376,7 @@
 		<Name>ΤΥΡΝΑΒΟΥ ΚΟΚΚΙΝΕΛΙ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/46934385/My-Market-Krasi-Moschato-Erythro-Xiro-1500ml.html</URL>
 		<Image>https://agnomarket-meat.gr/wp-content/uploads/2023/07/7259-1.jpg</Image>
-		<Price>3.33</Price>
+		<Price>3.09</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0464</MPN>
@@ -2391,7 +2391,7 @@
 		<Name>ΤΥΡΝΑΒΟΥ ΗΜΙΓΛΥΚΟ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<URL>https://www.skroutz.gr/s/46931182/My-Market-Krasi-Tibouren-Erythro-Imiglyko-1500ml.html</URL>
 		<Image>https://www.ekava.gr/wp-content/uploads/2023/07/04-082-027.jpg</Image>
-		<Price>3.090626101332</Price>
+		<Price>3.09</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0387</MPN>
@@ -2582,11 +2582,144 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>57031</SKU>
+		<Name>Ζίτσα Κρασί Ορεινές Διαδρομές Chardonnay Λευκό 187ml</Name>
+		<URL>https://www.skroutz.gr/s/21081822/Zitsa-Krasi-Oreines-Diadromes-Leyko-Xiro-187ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/021081/21081822/20191121165824_zitsa_oreines_diadromes_leyko_187ml.jpeg</Image>
+		<Price>1.29</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
+		<MPN>1315</MPN>
+		<Description>Λαμπερό αχυρένιο χρώμα με πρασινωπές ανταύγειες . Μύτη κομψή με αρώματα εσπεριδοειδών και λευκού ροδάκινου. Στο στόμα πλούσιο και γεμάτο με τραγανή οξύτητα. Μεγάλη αρωματική διάρκεια.</Description>
+		<EAN>5201214100127</EAN>
+		<Quantity>368</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>57032</SKU>
+		<Name>Ζίτσα Κρασί Ορεινές Διαδρομές Αγιωργίτικο Ερυθρό Ημίγλυκο 187ml</Name>
+		<URL>https://www.skroutz.gr/s/18537491/Zitsa-Krasi-Oreines-Diadromes-Agiorgitiko-Erythro-Imiglyko-187ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/018537/18537491/20211102175906_zitsa_oreines_diadromes_erythro_187ml.jpeg</Image>
+		<Price>1.45</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
+		<MPN>1656</MPN>
+		<Description>Το κόκκινο κρασί της ετικέτας Ζίτσα είναι ημίγλυκο με διακριτικές γεύσεις μοσχοκάρυδου και κανέλας, μέτριας οξύτητας και μαλακές τανίνες. Η αγιωργίτικη ποικιλία συνδυάζεται υπέροχα με ψητά κρέατα, σάλτσες τομάτας και καρυκευμένες κουζίνες από τη Μέση Ανατολή μέχρι την Ινδία. Σερβίρεται στους 15-20°C.</Description>
+		<EAN>5201214100431</EAN>
+		<Quantity>200</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>57041</SKU>
+		<Name>ΤΥΡΝΑΒΟΥ Ρόδοινος Λευκό 187ml Ημίγλυκο</Name>
+		<URL>https://www.skroutz.gr/s/46541379/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Leyko-Imiglyko-187ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/046541/46541379/20231003123816_tyrnavou_krasi_rodoinos_moschato_tyrnavou_leyko_imiglyko_187ml.jpeg</Image>
+		<Price>1.65</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
+		<MPN>1162</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
+		<EAN>5202037000083</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>57044</SKU>
+		<Name>ΤΥΡΝΑΒΟΥ Ρόδοινος Ροζέ 187ml</Name>
+		<URL>https://www.skroutz.gr/s/55483260/Tyrnavou-Krasi-Rodoinos-Moschato-Amvourgou-Roze-Xiro-187ml-5202037110225.html</URL>
+		<Image>https://www.tirnavoswinery.gr/wp-content/uploads/2021/01/rodoinos_new_small_2021.jpg</Image>
+		<Price>1.65</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
+		<MPN>1163</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
+		<EAN>5202037110225</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>57051</SKU>
+		<Name>Τσιλιλής Κρασί Bianconero Λευκό Ξηρό 187ml</Name>
+		<URL>https://www.skroutz.gr/s/4774796/Tsililis-Krasi-Bianconero-Leyko-Xiro-200ml.html</URL>
+		<Image>https://wineoutlet.gr/wp-content/uploads/2023/03/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF-%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AF%CF%84%CE%BB%CE%BF-80.webp</Image>
+		<Price>2.23</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<MPN>0002</MPN>
+		<Weight>0.3 kg</Weight>
+		<Description>To λευκό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Sauvignon Blanc, Chardonnay και Ασύρτικο. Χαρακτηρίζεται από φρουτώδη αρώματα ροδάκινου, λεμονιού και μάνγκο και ανθικά αρώματα λεμονανθών. Στο στόμα έχει δροσερή οξύτητα, ισορροπημένο αλκοόλ, στρογγυλό στόμα, γεύση τροπικών φρούτων και ελαφριά επίγευση πράσινου τσαγιού.</Description>
+		<EAN>5202548501024</EAN>
+		<Quantity>213</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>57052</SKU>
+		<Name>Τσιλιλής Κρασί Bianconero Ροζέ Ξηρό 187ml</Name>
+		<URL>https://www.skroutz.gr/s/24047791/Tsililis-Krasi-Bianconero-Roze-Xiro-Imiafrodes-187ml.html</URL>
+		<Image>https://cavamikrohorio.com/wp-content/uploads/2021/10/tsililis-bianconero-rosedry-1.jpg</Image>
+		<Price>2.23</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<MPN>0003</MPN>
+		<Weight>0.3 kg</Weight>
+		<Description>Το ροζέ (ή ροζ!) αφρώδες κρασί της γκάμας, από σταφύλια της ποικιλίας Μοσχάτο Αμβούργου, χαρακτηρίζεται από φρουτώδη αρώματα φράουλας, βατόμουρου και κερασιού που συνδυάζονται με νότες βιολέτας και βανίλιας.Ευχάριστο και παιχνιδιάρικο καταναλώνεται μόνο του ως απεριτίφ, με φρούτα και σοκολατένια γλυκά.</Description>
+		<EAN>5202548501123</EAN>
+		<Quantity>178</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>57053</SKU>
+		<Name>Τσιλιλής Κρασί Bianconero Ερυθρό Ξηρό 187ml</Name>
+		<URL>https://www.skroutz.gr/s/24420378/Tsililis-Krasi-Bianconero-Erythro-Xiro-187ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/024420/24420378/20200818104108_tsililis_bianconero_erythro_187ml.jpeg</Image>
+		<Price>2.23</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<MPN>0004</MPN>
+		<Weight>0.3 kg</Weight>
+		<Description>To ερυθρό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Syrah και Merlot και παλαιώνεται σε γαλλικά και αμερικάνικα δρύινα βαρέλια για 10 μήνες. Χαρακτηρίζεται από αρώματα κόκκινων φρούτων όπως βατόμουρο, βύσσινο και κεράσι, πικάντικα γλυκά αρώματα βανίλιας, μαύρου πιπεριού και μοσχοκάρυδου και γλυκά αρώματα σοκολάτας. Στο στόμα έχει ισορροπημένη οξύτητα, πλούσιο αλκοόλ, γεμάτο σώμα και μακρά επίγευση.</Description>
+		<EAN>5202548501222</EAN>
+		<Quantity>91</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>581611</SKU>
+		<Name>Τσιλιλής Κρασί Bianconero Μοσχάτο Αμβούργου Λευκό Ημίξηρο Αφρώδες 200ml</Name>
+		<URL>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</URL>
+		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4355-1200x1200.jpg</Image>
+		<Price>3.13</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<MPN>0005</MPN>
+		<Weight>0.3 kg</Weight>
+		<Description>H νέα άποψη στο κρασί είναι ασπρόμαυρη… BiancoNero. Mια νέα σειρά οίνων με απόλυτα νεανική διάθεση. Τίποτα στη ζωή δεν είναι ασπρόμαυρο! Είναι ο καμβάς για το χρώμα και τη γεύση του κρασιού που δραματοποιεί την απόλαυση. Είναι ο τρόπος να αποθεωθούν οι αισθήσεις και να νιώσουμε έντονες στιγμές. Πέντε διαφορετικές μορφές, κλεισμένες σε συσκευασίες που συναρπάζουν το βλέμμα. Εκφράζουν την αγάπη για την ποιότητα ζωής, σκέψης και κατανάλωσης και συντροφεύουν τις πολύτιμες στιγμές της ζωής μας, με το δικό τους ευφάνταστο τρόπο. BiancoNero και αφεθείτε στη σαγήνη της ευδαιμονίας!</Description>
+		<EAN>5202548501031</EAN>
+		<Quantity>265</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>581612</SKU>
+		<Name>Τσιλιλής Κρασί Μοσχάτο Αμβούργου Ροζέ Ημίξηρο Αφρώδες 200ml</Name>
+		<URL>https://www.skroutz.gr/s/52650429/Tsililis-Krasi-Moschato-Amvourgou-Roze-Imixiro-Afrodes-200ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/049450/49450007/20240125020937_bianconero_afrodis_oinos_roze_200ml.jpeg</Image>
+		<Price>3.13</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<MPN>0006</MPN>
+		<Weight>0.3 kg</Weight>
+		<Description>Το ροζέ (ή ροζ!) αφρώδες κρασί της γκάμας, από σταφύλια της ποικιλίας Μοσχάτο Αμβούργου, χαρακτηρίζεται από φρουτώδη αρώματα φράουλας, βατόμουρου και κερασιού που συνδυάζονται με νότες βιολέτας και βανίλιας.Ευχάριστο και παιχνιδιάρικο καταναλώνεται μόνο του ως απεριτίφ, με φρούτα και σοκολατένια γλυκά.</Description>
+		<EAN>5202548501130</EAN>
+		<Quantity>145</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>41041</SKU>
 		<Name>Μπουτάρη Κρασί Μοσχοφίλερο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707559/Mpoutari-Krasi-Moschofilero-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004707/4707559/20211102142703_mpoutari_krasi_leyko_xiro_moschofilero_750ml.jpeg</Image>
-		<Price>6.71</Price>
+		<Price>6.708902334178045</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΜΠΟΥΤΑΡΗ</Manufacturer>
 		<MPN>1515</MPN>
@@ -2600,7 +2733,7 @@
 		<Name>Μπουτάρη Κρασί Νάουσσα Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707552/Mpoutari-Krasi-Naoussa-Xinomayro-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707552/xlarge_20211018105534_mpoutari_krasi_erythro_xiro_naoussa_750ml.jpeg</Image>
-		<Price>8.24</Price>
+		<Price>8.389430594160002</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΜΠΟΥΤΑΡΗ</Manufacturer>
 		<MPN>1515001</MPN>
@@ -2620,7 +2753,7 @@
 		<Name>Βασδαβανου Ερωτικο Λευκο Ξηρο 750ml Ροδίτης</Name>
 		<URL>https://www.skroutz.gr/s/56287309/Vasdavanou-Erotiko-Leyko-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/056287/56287309/20240917133208_vasdavanou_erotiko_leyko_750ml.jpeg</Image>
-		<Price>2.34</Price>
+		<Price>2.34040824</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
 		<MPN>1665</MPN>
@@ -2634,7 +2767,7 @@
 		<Name>Βασδαβανου Ερωτικο Ροζε Ξηρο 750ml Μοσχάτο Μαύρο Τυρνάβου</Name>
 		<URL>https://www.ekava.gr/product/%CE%B2%CE%B1%CF%83%CE%B4%CE%B1%CE%B2%CE%B1%CE%BD%CE%BF%CF%85-%CE%B5%CF%81%CF%89%CF%84%CE%B9%CE%BA%CE%BF-%CF%81%CE%BF%CE%B6%CE%B5-750ml/</URL>
 		<Image>https://grigoriouonline.gr/wp-content/uploads/2023/12/CCCPRODUCTIMAGES-3301-scaled-800x449.jpg</Image>
-		<Price>2.57</Price>
+		<Price>2.574449064</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
 		<MPN>1666</MPN>
@@ -2648,7 +2781,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4746500/Ktima-Avantis-Krasi-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004746/4746500/xlarge_20200413105843_ktima_avantis_sauvignon_blanc_leyko_750ml.jpeg</Image>
-		<Price>11.28</Price>
+		<Price>11.6093444658576</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1666001</MPN>
@@ -2669,7 +2802,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4746618/Ktima-Avantis-Krasi-Syrah-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004746/4746618/avantissyrah.gif</Image>
-		<Price>11.59</Price>
+		<Price>11.9231105325024</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1615</MPN>
@@ -2683,7 +2816,7 @@
 		<Name>Κτήμα Αβαντίς Άγιος Χρόνος Viognier Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/23160444/Ktima-Avantis-Krasi-Agios-CHronos-Viognier-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/023160/23160444/20211019161128_ktima_avantis_krasi_leyko_xiro_agios_chronos_750ml.jpeg</Image>
-		<Price>13.37</Price>
+		<Price>15.4791259544768</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616</MPN>
@@ -2697,7 +2830,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Άγιος Χρόνος Syrah/Viognier, Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720055/Ktima-Avantis-Krasi-Agios-CHronos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004720/4720055/xlarge_20211019153947_ktima_avantis_krasi_erythro_xiro_agios_chronos_750ml.jpeg</Image>
-		<Price>23.78</Price>
+		<Price>24.4737531982944</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616001</MPN>
@@ -2717,7 +2850,7 @@
 		<Name>Κτήμα Αβαντίς Lenga Gewürztraminer Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720051/Ktima-Avantis-Krasi-Lenga-Gewuerztraminer-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004720/4720051/xlarge_20200314140309_ktima_avantis_lenga_leyko_750ml.jpeg</Image>
-		<Price>12.6</Price>
+		<Price>12.9689974213184</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616002</MPN>
@@ -2733,7 +2866,7 @@
 		<Name>Κτήμα Αβαντίς Lenga Gewürztraminer Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/17546193/Ktima-Avantis-Krasi-Lenga-Gewuerztraminer-Roze-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/017546/17546193/20200314140850_ktima_avantis_lenga_roze_750ml.jpeg</Image>
-		<Price>12.6</Price>
+		<Price>12.9689974213184</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1617</MPN>
@@ -2747,7 +2880,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Μαυροκουντούρα Μαντηλαριά Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4746982/Ktima-Avantis-Krasi-Mayrokountoura-Mantilaria-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004746/4746982/xlarge_20211019155357_ktima_avantis_krasi_erythro_xiro_mayrokountoura_750ml.jpeg</Image>
-		<Price>16.47</Price>
+		<Price>16.9433675988192</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1617001</MPN>
@@ -2772,7 +2905,7 @@
 		<Name>Κατώγι Αβέρωφ Κρασί Cabernet Sauvignon/Merlot/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4718195/Katogi-Averof-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004718/4718195/20200313165141_katogi_averof_erythro_750ml.jpeg</Image>
-		<Price>7.73</Price>
+		<Price>8.85038378224</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΑΤΩΓΙ</Manufacturer>
 		<MPN>1640</MPN>
@@ -2786,7 +2919,7 @@
 		<Name>Κατώγι Αβέρωφ Κρασί Chardonnay/Ροδίτης/Μοσχάτο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4713730/Katogi-Averof-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004713/4713730/xlarge_20211019154916_katogi_averof_leyko_750ml.jpeg</Image>
-		<Price>8.18</Price>
+		<Price>8.32977297152</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΑΤΩΓΙ</Manufacturer>
 		<MPN>1640001</MPN>
@@ -2800,7 +2933,7 @@
 		<Name>Κατώγι Αβέρωφ Κρασί Rossiu Di Munte Βλάχικο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4716246/Katogi-Averof-Krasi-Rossiu-Di-Munte-Vlachiko-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004716/4716246/20211019153947_katogi_averof_rossiu_di_munte_vlachiko_erythro_750ml.jpeg</Image>
-		<Price>29.65</Price>
+		<Price>30.19542702176</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΑΤΩΓΙ</Manufacturer>
 		<MPN>1641</MPN>
@@ -2814,7 +2947,7 @@
 		<Name>Κατώγι Αβέρωφ Κρασί Rossiu Di Munte Γινιέτς Cabernet Sauvignon Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4716253/Katogi-Averof-Krasi-Rossiu-Di-Munte-Giniets-Cabernet-Sauvignon-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004716/4716253/xlarge_20201019113846_katogi_averof_rossiu_di_munte_giniets_erythro_750ml.jpeg</Image>
-		<Price>22.2</Price>
+		<Price>22.38626486096</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΑΤΩΓΙ</Manufacturer>
 		<MPN>1641101</MPN>
@@ -2831,7 +2964,7 @@
 		<Name>Anatolikos Vineyards Βιολογικό Κρασί MV Cabernet Sauvignon/Merlot/Μαυρούδι Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/10015264/Anatolikos-Vineyards-Viologiko-Krasi-MV-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/010015/10015264/xlarge_20211019160013_anatolikos_vineyards_mv_mayroudi_thrakis_erythro_750ml.jpeg</Image>
-		<Price>16.85</Price>
+		<Price>17.16299376</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κρασιά Anatolikos Vineyards</Manufacturer>
 		<MPN>ΑΝΑ-034</MPN>
@@ -2847,7 +2980,7 @@
 		<Name>Κτήμα Αργυρού Κρασί Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4747674/Ktima-Argyrou-Krasi-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004747/4747674/xlarge_20200204124856_ktima_argyrou_asyrtiko_leyko_750ml.jpeg</Image>
-		<Price>28.03</Price>
+		<Price>28.55308776320001</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΡΓΥΡΟΥ</Manufacturer>
 		<MPN>1642101</MPN>
@@ -2861,7 +2994,7 @@
 		<Name>Κτήμα Αργυρού Κρασί Monsignori Cuvee Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/17915900/Ktima-Argyrou-Krasi-Monsignori-Cuvee-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/017915/17915900/20211018162021_ktima_argyrou_santorini_cuvee_monsignori_leyko_750ml.jpeg</Image>
-		<Price>43.48</Price>
+		<Price>41.7314359616</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΡΓΥΡΟΥ</Manufacturer>
 		<MPN>1642</MPN>
@@ -2875,7 +3008,7 @@
 		<Name>Κτήμα Βιβλία Χώρα Κρασί Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705635/Ktima-Vivlia-CHora-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004705/4705635/20200313164937_ktima_vivlia_chora_leykos_750ml.jpeg</Image>
-		<Price>13.26</Price>
+		<Price>13.50780690336</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ</Manufacturer>
 		<MPN>1316</MPN>
@@ -2889,7 +3022,7 @@
 		<Name>Κτήμα Βιβλία Χώρα Κρασί Cabernet Sauvignon/Merlot/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/48913984/Ktima-Vivlia-CHora-Krasi-Erythro-Xiro-750ml-5200101710036.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/048913/48913984/20231221091554_ktima_vivlia_chora_ktima_vivlia_chora_viologikos_erythros_oinos_750ml.jpeg</Image>
-		<Price>16.07</Price>
+		<Price>16.36311567968</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ</Manufacturer>
 		<MPN>1317</MPN>
@@ -2903,7 +3036,7 @@
 		<Name>Κτήμα Βιβλία Χώρα Κρασί Syrah Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705699/Ktima-Vivlia-CHora-Viologiko-Krasi-Syrah-Roze-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004705/4705699/xlarge_20210324112153_ktima_vivlia_chora_krasi_roze_xiro_750ml.jpeg</Image>
-		<Price>13.26</Price>
+		<Price>13.50780690336</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ</Manufacturer>
 		<MPN>1317001</MPN>
@@ -2921,7 +3054,7 @@
 		<Name>Κτήμα Βιβλία Χώρα Κρασί Όβηλος Semillon/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4703864/Ktima-Vivlia-CHora-Krasi-Ovilos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004703/4703864/xlarge_20220421152726_ktima_vivlia_chora_krasi_ovilos_leyko_xiro_750ml.jpeg</Image>
-		<Price>28.03</Price>
+		<Price>28.55308776320001</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ</Manufacturer>
 		<MPN>1317002</MPN>
@@ -2941,7 +3074,7 @@
 		<Name>Κτήμα Βιβλία Χώρα Κρασί Όβηλος Cabernet Sauvignon Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4703936/Ktima-Vivlia-CHora-Krasi-Ovilos-Cabernet-Sauvignon-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004703/4703936/xlarge_20211018162019_ktima_vivlia_chora_krasi_erythro_xiro_ovilos_750ml.jpeg</Image>
-		<Price>39.89</Price>
+		<Price>40.6332402784</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ</Manufacturer>
 		<MPN>1317003</MPN>
@@ -2957,7 +3090,7 @@
 		<Name>Κτήμα Γεροβασιλείου Κρασί Ασύρτικο/Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4704000/Ktima-Gerovasileiou-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004704/4704000/20200313165140_ktima_gerovasileiou_leykos_750ml.jpeg</Image>
-		<Price>13.23</Price>
+		<Price>13.50780690336</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1318</MPN>
@@ -2971,7 +3104,7 @@
 		<Name>Κτήμα Γεροβασιλείου Κρασί Syrah/Merlot/Λημνιό Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7063854/Ktima-Gerovasileiou-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/007063/7063854/20211018141721_ktima_gerovasileiou_krasi_syrah_merlot_limnio_erythro_xiro_750ml.jpeg</Image>
-		<Price>16.07</Price>
+		<Price>16.36311567968</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1319</MPN>
@@ -2985,7 +3118,7 @@
 		<Name>Κτήμα Γεροβασιλείου Κρασί Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705534/Ktima-Gerovasileiou-Krasi-Syrah-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004705/4705534/xlarge_20200314140804_ktima_gerovasileiou_syrah_750ml.jpeg</Image>
-		<Price>17.79</Price>
+		<Price>18.1202287728</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1319001</MPN>
@@ -3011,7 +3144,7 @@
 		<Name>Κτήμα Γεροβασιλείου Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/25826831/Ktima-Gerovasileiou-Krasi-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/025826/25826831/xlarge_20210121175700_ktima_gerovasileiou_krasi_leyko_xiro_sauvignon_blanc_750ml.jpeg</Image>
-		<Price>18.22</Price>
+		<Price>18.55950704608</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1319002</MPN>
@@ -3031,7 +3164,7 @@
 		<Name>Κτήμα Γεροβασιλείου Κρασί Chardonnay Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4704085/Ktima-Gerovasileiou-Krasi-Chardonnay-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004704/4704085/20211019160014_ktima_gerovasileiou_krasi_leyko_xiro_chardonnay_750ml.jpeg</Image>
-		<Price>19.3</Price>
+		<Price>19.65770272928</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1320</MPN>
@@ -3045,7 +3178,7 @@
 		<Name>Κτήμα Γεροβασιλείου Κτήμα Γεροβασιλείου Μαλαγουζιά Λευκός Οίνος 750ml</Name>
 		<URL>https://www.skroutz.gr/s/48299493/Ktima-Gerovasileiou-Ktima-Gerovasileiou-Malagouzia-Leykos-Oinos-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/048299/48299493/20231122135830_ktima_gerovasileiou_ktima_gerovasileiou_malagouzia_leykos_oinos_750ml.jpeg</Image>
-		<Price>15.42</Price>
+		<Price>15.70419826976</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1321</MPN>
@@ -3059,7 +3192,7 @@
 		<Name>Κτήμα Γεροβασιλείου Κρασί Viognier Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705378/Ktima-Gerovasileiou-Krasi-Viognier-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004705/4705378/20211019160013_ktima_gerovasileiou_krasi_leyko_xiro_viognier_750ml.jpeg</Image>
-		<Price>20.06</Price>
+		<Price>20.42643970752</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1684</MPN>
@@ -3079,7 +3212,7 @@
 		<Name>Δουλουφάκης Κρασί Άσπρος Λαγός Βιδιανό Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4724951/Douloufakis-Krasi-Aspros-Lagos-Vidiano-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004724/4724951/xlarge_20211102192507_douloufakis_aspros_lagos_leykos_750ml.jpeg</Image>
-		<Price>15.04</Price>
+		<Price>15.31982978064</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Δουλουφάκης</Manufacturer>
 		<MPN>1684002</MPN>
@@ -3095,7 +3228,7 @@
 		<Name>Κτήμα Δύο Ύψη Κρασί Dialogos Ασύρτικο/Κυδωνίτσα Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18220487/Ktima-Dyo-Ypsi-Krasi-Dialogos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/018220/18220487/xlarge_20190417105448_ktima_dyo_ypsi_dialogos_leyko_750ml.jpeg</Image>
-		<Price>12.83</Price>
+		<Price>13.06852863008</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Δύο Ύψη</Manufacturer>
 		<MPN>1684001</MPN>
@@ -3111,7 +3244,7 @@
 		<Name>Κτήμα Ζαφειράκη Bio Κρασί Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/22117331/Ktima-Zafeiraki-Krasi-Malagouzia-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022117/22117331/20211012111933_ktima_zafeiraki_malagouzia_leyko_750ml.jpeg</Image>
-		<Price>11.14</Price>
+		<Price>11.349315673696</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΖΑΦΕΙΡΑΚΗ</Manufacturer>
 		<MPN>1643</MPN>
@@ -3125,7 +3258,7 @@
 		<Name>Κτήμα Ζαφειράκη Βιολογικό Κρασί Λημνιώνα Young Vines Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/21631690/Ktima-Zafeiraki-Viologiko-Krasi-Limniona-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/021631/21631690/20211018140845_ktima_zafeiraki_limniona_new_age_erythro_750ml.jpeg</Image>
-		<Price>13.29</Price>
+		<Price>13.53588107872</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΖΑΦΕΙΡΑΚΗ</Manufacturer>
 		<MPN>1644</MPN>
@@ -3139,7 +3272,7 @@
 		<Name>Κτήμα Ζαφειράκη Κρασί Λημνιώνα Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/48421690/Ktima-Zafeiraki-Krasi-Limniona-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/048421/48421690/20231127154732_ktima_zafeiraki_limniona_roze_oinos_750ml.jpeg</Image>
-		<Price>12.47</Price>
+		<Price>12.702903781568</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΖΑΦΕΙΡΑΚΗ</Manufacturer>
 		<MPN>1645</MPN>
@@ -3153,7 +3286,7 @@
 		<Name>Κτήμα Θυμιόπουλου Κρασί Γη Και Ουρανός Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7111581/Ktima-THymiopoulou-Krasi-Gi-Kai-Oyranos-Xinomayro-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/007111/7111581/xlarge_20211019155358_ktima_thymiopoulou_krasi_erythro_xiro_gi_kai_oyranos_750ml.jpeg</Image>
-		<Price>15.89</Price>
+		<Price>16.03365697472</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Θυμιόπουλου</Manufacturer>
 		<MPN>1784</MPN>
@@ -3169,7 +3302,7 @@
 		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/55483259/Ktima-Karipidi-Viologiko-Krasi-Sauvignon-Blanc-Leyko-Xiro-750ml-15200372900997.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/041628/41628887/20230418114806_ktima_karipidi_viologiko_krasi_karipidis_sauvignon_blanc_leyko_xiro_1500ml.jpeg</Image>
-		<Price>9.82</Price>
+		<Price>10.001424972</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
 		<MPN>1154</MPN>
@@ -3184,7 +3317,7 @@
 		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Hydria Merlot Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/21364690/Ktima-Karipidi-Viologiko-Krasi-Hydria-Merlot-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/021364/21364690/20200722155757_ktima_karipidi_hydria_erythro_750ml.jpeg</Image>
-		<Price>11.39</Price>
+		<Price>11.598291144</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
 		<MPN>1667</MPN>
@@ -3198,7 +3331,7 @@
 		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Rilancio Nebbiolo Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/26387543/Ktima-Karipidi-Viologiko-Krasi-Rilancio-Nebbiolo-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/026387/26387543/20211018115112_ktima_karipidi_krasi_erythro_xiro_rilancio_750ml.jpeg</Image>
-		<Price>12.3</Price>
+		<Price>12.52279261200001</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
 		<MPN>1668</MPN>
@@ -3212,7 +3345,7 @@
 		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Pétasos Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/10773655/Ktima-Karipidi-Viologiko-Krasi-Petasos-Syrah-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/010773/10773655/xlarge_20211018112528_ktima_karipidi_syrah_p_tasos_erythro_750ml.jpeg</Image>
-		<Price>10.64</Price>
+		<Price>10.841880852</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
 		<MPN>166801</MPN>
@@ -3234,7 +3367,7 @@
 		<Name>Κτήμα Καρυδά Κρασί Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4796828/Ktima-Karyda-Krasi-Xinomayro-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004796/4796828/xlarge_20211018155949_ktima_karyda_xinomayro_erythro_750ml.jpeg</Image>
-		<Price>20.78</Price>
+		<Price>21.167692304</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Καρυδά</Manufacturer>
 		<MPN>1785</MPN>
@@ -3248,7 +3381,7 @@
 		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Chardonnay Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4809202/Ktima-Katsarou-Viologiko-Krasi-Chardonnay-Leyko-Xiro-750ml.html#description</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809202/xlarge_20211018160312_ktima_katsarou_chardonnay_leyko_750ml.jpeg</Image>
-		<Price>19.19</Price>
+		<Price>19.54788316096</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
 		<MPN>1785001</MPN>
@@ -3278,7 +3411,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Cabernet Sauvignon/Merlot Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4809195/Ktima-Katsarou-Viologiko-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809195/xlarge_20200313165051_ktima_katsarou_erythros_750ml.jpeg</Image>
-		<Price>21.03</Price>
+		<Price>21.4148158224</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
 		<MPN>1785002</MPN>
@@ -3299,7 +3432,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κεχρή Κρασί Αφρός Ροδίτης Λευκό Ξηρό Ρετσίνα 750ml</Name>
 		<URL>https://www.skroutz.gr/s/13442566/Oinopoieia-Steliou-Kechri-Krasi-Afros-Roditis-Leyko-Xiro-Retsina-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/013442/13442566/20200204125848_oinopoieia_steliou_kechri_afros_retsina_leyko_750ml.jpeg</Image>
-		<Price>7.25</Price>
+		<Price>7.38866881368</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
 		<MPN>1322</MPN>
@@ -3313,7 +3446,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κεχρή Κρασί Ρόζα Ξινόμαυρο Ροζέ Ξηρό Ρετσίνα 750ml</Name>
 		<URL>https://www.skroutz.gr/s/14406917/Oinopoieia-Steliou-Kechri-Krasi-Roza-Xinomayro-Roze-Xiro-Retsina-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/014406/14406917/20211018135914_oinopoieia_steliou_kechri_roza_roze_750ml.jpeg</Image>
-		<Price>8.94</Price>
+		<Price>8.994352399999999</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
 		<MPN>1323</MPN>
@@ -3327,7 +3460,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κεχρή Κρασί Δάκρυ του Πεύκου Ασύρτικο Λευκό Ξηρό Ρετσίνα 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4773503/Oinopoieia-Steliou-Kechri-Krasi-Dakry-tou-Peykou-Asyrtiko-Leyko-Xiro-Retsina-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004773/4773503/20211018141721_oinopoieia_steliou_kechri_to_dakry_tou_peykou_leyko_750ml.jpeg</Image>
-		<Price>13.36</Price>
+		<Price>12.547721712988</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
 		<MPN>1324</MPN>
@@ -3341,7 +3474,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κτήμα ΑΛΦΑ Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707577/Ktima-ALFA-Krasi-Alpha-Estate-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004707/4707577/20211112163408_ktima_alfa_krasi_alpha_estate_leyko_xiro_750ml.jpeg</Image>
-		<Price>16.93</Price>
+		<Price>17.2504577917056</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1325</MPN>
@@ -3355,7 +3488,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κτήμα ΑΛΦΑ Κρασί Merlot/Syrah/Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/41645223/Ktima-ALFA-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/041645/41645223/20230419090801_ktima_alfa_krasi_erythro_xiro_750ml.jpeg</Image>
-		<Price>23.41</Price>
+		<Price>23.8462210650048</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1326</MPN>
@@ -3369,7 +3502,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κτήμα ΑΛΦΑ Κρασί Χελώνες Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707579/Ktima-ALFA-Krasi-CHelones-Malagouzia-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004707/4707579/20200204121338_ktima_alfa_malagouzia_leyko_750ml.jpeg</Image>
-		<Price>12.15</Price>
+		<Price>12.37974029757696</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1327</MPN>
@@ -3383,13 +3516,71 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κτήμα ΑΛΦΑ Κρασί Σκαντζόχοιρος Ξινόμαυρο/Syrah Ροζέ Ξηρό Αμυνταίου 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707587/Ktima-ALFA-Krasi-Roze-Xiro-Amyntaiou-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707587/xlarge_20211018141721_ktima_alfa_krasi_roze_xiro_750ml.jpeg</Image>
-		<Price>18.01</Price>
+		<Price>17.2504577917056</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>132701</MPN>
 		<Description>Ξηρό κρασί με χρώμα έντονο ροζέ και ανταύγειες saumon. Μύτη φρουτώδης με πλούσια αρωματική έκφραση και ιδιαίτερα ισορροπημένο στόμα γεμάτο και λιπαρό, με εκφραστική επίγευση. Συνδυάζεται αρμονικά με Ελληνικές γεύσεις, σαλάτες, ζυμαρικά σε ελαφρές κόκκινες σάλτσες, πίτσες, αλλά και με εξωτικές κουζίνες και κρύες σούπες.</Description>
 		<EAN>5205243320907  </EAN>
 		<Quantity>39</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47083102</SKU>
+		<Name>Κτήμα ΑΛΦΑ Κρασί Σκαντζόχοιρος Ξινόμαυρο Ερυθρό Ξηρό Αμυνταίου 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4707581/Ktima-ALFA-Krasi-Skantzochoiros-Xinomayro-Erythro-Xiro-Amyntaiou-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707581/xlarge_20211019155357_ktima_alfa_krasi_erythro_xiro_skantzochoiros_750ml.jpeg</Image>
+		<Price>15.04675049550364</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
+		<MPN>132702</MPN>
+		<Description>Ξηρό κρασί με βαθύ κόκκινο χρώμα και αρώματα λουλουδιών και καρυκευμάτων βανίλιας, πιπεριού και γαρίφαλου με τόνους ώριμου βατόμουρου, λιαστής ντομάτας και αποξηραμένου σύκου. Γεμάτο στόμα, με άρωμα βανίλιας, ισορροπημένη οξύτητα και νότες βαρελιού με έντονο άρωμα κυδωνιών στην επίγευση .</Description>
+		<EAN>5205243315484</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47083103</SKU>
+		<Name>Κτήμα ΑΛΦΑ Κρασί Fumé Sauvignon Blanc Λευκό Ξηρό Αμυνταίου 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4707585/Ktima-ALFA-Krasi-Fume-Sauvignon-Blanc-Leyko-Xiro-Amyntaiou-750ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707585/xlarge_20220524145913_ktima_alfa_krasi_fum_sauvignon_blanc_leyko_xiro_750ml.jpeg</Image>
+		<Price>18.85445968766432</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
+		<MPN>132703</MPN>
+		<Description>Ξηρό κρασί Sauvignon Blanc Fumé με κρυστάλλινο υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες. Μύτη έντονη με αρώματα εσπεριδοειδών, φρούτων του πάθους και με γλυκιά χροιά πεπονιού στο τέλος σε φόντο βανίλιας. Στο στόμα είναι ιδιαίτερα γεμάτο, ηδύ, λιπαρό, με ισορροπία και μακράς διάρκειας επίγευση.</Description>
+		<EAN>5205243323144</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47083104</SKU>
+		<Name>Κτήμα ΑΛΦΑ Κρασί Ασύρτικο Λευκό Ξηρό Αμυνταίου 750ml</Name>
+		<URL>https://www.skroutz.gr/s/16939453/Ktima-ALFA-Krasi-Asyrtiko-Leyko-Xiro-Amyntaiou-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/016939/16939453/xlarge_20211018155951_ktima_alfa_krasi_leyko_xiro_asyrtiko_750ml.jpeg</Image>
+		<Price>18.85445968766432</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
+		<MPN>132704</MPN>
+		<Description>Ξηρό κρασί ασύρτικο με αρώματα εσπεριδοειδών, φλούδας πορτοκαλιού, κίτρινου μήλου, άσπρων λουλουδιών και τσακμακόπετρας που συνδυάζονται με αρώματα μελιού και κυρήθρας. Ισορροπημένο στο στόμα με ευχάριστη επίγευση. Η λιπαρότητα και η οξύτητα συντελούν στη διάρκεια των αρωμάτων και της επίγευσης.</Description>
+		<EAN>5205243320037</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>47083105</SKU>
+		<Name>Κτήμα ΑΛΦΑ Κρασί Reserve Ξινόμαυρο Ερυθρό Ξηρό Αμυνταίου 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4707584/Ktima-ALFA-Krasi-Reserve-Xinomayro-Erythro-Xiro-Amyntaiou-750ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707584/xlarge_20211019160013_ktima_alfa_krasi_erythro_xiro_reserve_750ml.jpeg</Image>
+		<Price>20.12292369016619</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
+		<MPN>132705</MPN>
+		<Description>Το ξινόμαυρο Reserve κρασί του κτήματος Άλφα έχει λαμπερό ρουμπινί χρώμα με έντονα ερυθρές ανταύγειες. Έχει πλούσια χαρακτηριστικά αρώματα μπαχαρικών, αποξηραμένου δαμάσκηνου και ντομάτας. Η 24μηνη παλαίωση σε γαλλικά δρύινα βαρέλια σε συνδυασμό με τη δωδεκάμηνη αναγωγική παλαίωση στη φιάλη δίνουν μια εξαιρετική υφή στις τανίνες, όπου μαζί με την οξύτητα θα σπάσουν τη λιπαρότητα του κρέατος. Το αποτέλεσμα είναι μια γεμάτη και βελούδινη αίσθηση στο στόμα μας που πραγματικά αγγίζει την τελειότητα.
+
+Συνδυάζεται με πλούσια κρέατα ψητά ή μαγειρεμένα σε πλούσια σάλτσα ντομάτας. Ψητά λουκάνικα, κρεατόπιτες και ώριμα τυριά λιπαρά, ελαφρώς πικάντικα.</Description>
+		<EAN>5205243321690</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3572,7 +3763,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Name>La Tour Melas Idylle D' Achinos Syrah/Αγιωργίτικο/Grenache Rouge Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/14280219/La-Tour-Melas-Krasi-Idylle-D-Achinos-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/014280/14280219/20180313102230_la_tour_melas_idylle_d_achinos_leyko_3000ml.jpeg</Image>
-		<Price>13.32</Price>
+		<Price>13.32196294</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>LA TOUR MELAS</Manufacturer>
 		<MPN>1527</MPN>
@@ -3586,7 +3777,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707555/Nico-Lazaridi-Krasi-Magiko-Vouno-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/053664/53664020/xlarge_20240521163835_nico_lazaridi_krasi_magiko_vouno_sauvignon_blanc_leyko_xiro_750ml_5203708400379.jpeg</Image>
-		<Price>15.18946648230289</Price>
+		<Price>15.47075289864183</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527001</MPN>
@@ -3622,7 +3813,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Name>Nico Lazaridi Κρασί Το Μαύρο Πρόβατο Sauvignon Blanc/Semillon Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712443/Nico-Lazaridi-Krasi-To-Mayro-Provato-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004712/4712443/xlarge_20231212120544_nico_lazaridi_krasi_to_mayro_provato_leyko_xiro_750ml.jpeg</Image>
-		<Price>9.063685223656845</Price>
+		<Price>9.231531246317159</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527002</MPN>
@@ -3663,7 +3854,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Name>Nico Lazaridi Κρασί Ντάμα Κούπα Ασύρτικο/Μοσχάτο Αλεξάνδρειας/Chardonnay/Ροδίτης Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712284/Nico-Lazaridi-Krasi-Ntama-Koupa-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004712/4712284/xlarge_20200313165007_nico_lazaridi_ntama_koupa_leyko_750ml.jpeg</Image>
-		<Price>5.006050564734716</Price>
+		<Price>5.098755204822395</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527003</MPN>
@@ -3704,7 +3895,7 @@ pH: 3.45
 		<Name>Nico Lazaridi Κρασί Βαλές Κούπα Αγιωργίτικο/Grenache Rouge Ροζέ Ημίξηρο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/59293610/Lazaridi-Nico-Vales-Koupa-Roze-750ml.html</URL>
 		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2025/02/jack-hearts-e1741247517779.png</Image>
-		<Price>4.821599052035136</Price>
+		<Price>4.91088792336912</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527004</MPN>
@@ -3750,7 +3941,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Cabernet Franc/Cabernet Sauvignon Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/36389778/Nico-Lazaridi-Krasi-Magiko-Vouno-Erythro-Xiro-750ml.html</URL>
 		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2020/04/imageedit_1_3380510849.png</Image>
-		<Price>26.5717931039856</Price>
+		<Price>27.063863346652</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527005</MPN>
@@ -3795,7 +3986,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Nico Lazaridi Κρασί Το Μαύρο Πρόβατο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712406/Nico-Lazaridi-Krasi-To-Mayro-Provato-Erythro-Xiro-750ml.html</URL>
 		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2020/04/%CE%9C%CE%A0-%CE%95-2022.png</Image>
-		<Price>10.73148729688359</Price>
+		<Price>10.93021854312217</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527006</MPN>
@@ -3838,7 +4029,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Nico Lazaridi Κρασί Ρήγας Κούπα Ερυθρό Syrah/Merlot Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712426/Nico-Lazaridi-Krasi-Rigas-Koupa-Erythro-Xiro-750ml.html</URL>
 		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2020/04/king-of-hearts-24.png</Image>
-		<Price>5.006050564734716</Price>
+		<Price>5.098755204822395</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527007</MPN>
@@ -3880,7 +4071,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ορεινοί Αμπελώνες Λαλίκου Κρασί Joker Μοσχάτο Αλεξάνδρειας Λευκό Ημίξηρο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/20089056/Oreinoi-Ampelones-Lalikou-Krasi-Joker-Moschato-Alexandreias-Leyko-Imixiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/020089/20089056/20200406143005_oreinoi_ampelones_lalikou_joker_imixiro_leyko_750ml.jpeg</Image>
-		<Price>9.27</Price>
+		<Price>9.266872430816</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΛΑΛΙΚΟΥ</Manufacturer>
 		<MPN>1633</MPN>
@@ -3894,7 +4085,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ορεινοί Αμπελώνες Λαλίκου Κρασί Variete Grenache Rouge Ροζέ Ημίξηρο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4765937/Oreinoi-Ampelones-Lalikou-Krasi-Variete-Grenache-Rouge-Roze-Imixiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004765/4765937/20211018105534_oreinoi_ampelones_lalikou_krasi_roze_imixiro_variete_750ml.jpeg</Image>
-		<Price>8.23</Price>
+		<Price>8.225650809376</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΛΑΛΙΚΟΥ</Manufacturer>
 		<MPN>1634</MPN>
@@ -3908,7 +4099,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Μπαραφάκα Κρασί Τρείς Μάγισσες Αγιωργίτικο/Μοσχοφίλερο/Syrah Ροζέ Ημίξηρο 750m</Name>
 		<URL>https://www.skroutz.gr/s/8917655/Ktima-Mparafaka-Krasi-Treis-Magisses-Roze-Imiglyko-Nemeas-Imiafrodes-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/008917/8917655/20211019155357_ktima_mparafaka_krasi_roze_imiglyko_treis_magisses_750ml.jpeg</Image>
-		<Price>9.15</Price>
+		<Price>9.412981999344</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΜΠΑΡΑΦΑΚΑ</Manufacturer>
 		<MPN>1335</MPN>
@@ -3922,7 +4113,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Navitas Winery Κρασί Terre De Zeus Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/29112239/Navitas-Winery-Krasi-Terre-De-Zeus-Malagouzia-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/029112/29112239/xlarge_20210526131350_navitas_winery_krasi_leyko_xiro_terre_de_zeus_malagouzia_750ml.jpeg</Image>
-		<Price>13.33</Price>
+		<Price>14.195825098125</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Navitas Winery</Manufacturer>
 		<MPN>1790</MPN>
@@ -3944,7 +4135,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Navitas Winery Κρασί 52 Peaks Chardonnay Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/31776347/Navitas-Winery-Krasi-52-Peaks-Chardonnay-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/031776/31776347/xlarge_20211018164551_navitas_winery_krasi_52_peaks_leyko_xiro_vegan_750ml.jpeg</Image>
-		<Price>17.55</Price>
+		<Price>17.5512019395</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Navitas Winery</Manufacturer>
 		<MPN>1790003</MPN>
@@ -3958,7 +4149,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Navitas Winery Κρασί Mountcloud Grenache Rouge Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/29112299/Navitas-Winery-Krasi-Mountcloud-Grenache-Rouge-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/029112/29112299/xlarge_20210526131643_navitas_winery_krasi_roze_xiro_mountcloud_750ml.jpeg</Image>
-		<Price>13.33</Price>
+		<Price>14.195825098125</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Navitas Winery</Manufacturer>
 		<MPN>1790001</MPN>
@@ -3978,7 +4169,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Navitas Winery Κρασί 2919M Cabernet Sauvignon Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/32679847/Navitas-Winery-Krasi-2919M-Cabernet-Sauvignon-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/032679/32679847/xlarge_20211129123319_navitas_winery_krasi_2919m_cabernet_sauvignon_erythro_xiro_750ml.jpeg</Image>
-		<Price>17.45</Price>
+		<Price>18.583625583</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Navitas Winery</Manufacturer>
 		<MPN>1790002</MPN>
@@ -3996,7 +4187,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΝΤΟΥΓΚΟΣ SR Sauvignon Blanc-Ροδίτης Λευκός Βιολογικό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/20089283/Oinopoieio-Ntougos-Viologiko-Krasi-SR-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/020089/20089283/20210210141353_oinopoieio_ntougos_sr_leyko_750ml.jpeg</Image>
-		<Price>8.76</Price>
+		<Price>8.2</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΝΤΟΥΓΚΟΣ</Manufacturer>
 		<MPN>1646</MPN>
@@ -4010,7 +4201,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Οινοποιείο Ντούγκος Βιολογικό Κρασί Ραψάνη Old Vines Ξινόμαυρο /Κρασάτο/Σταυρωτό Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/10015192/Oinopoieio-Ntougos-Viologiko-Krasi-Rapsani-Old-Vines-Erythro-Xiro-Rapsanis-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/010015/10015192/xlarge_20211018155949_oinopoieio_ntougos_rapsani_old_vines_erythro_750ml.jpeg</Image>
-		<Price>19.1</Price>
+		<Price>14.4</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΝΤΟΥΓΚΟΣ</Manufacturer>
 		<MPN>1785</MPN>
@@ -4024,7 +4215,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Oeno Κρασί Τρία Αμπέλια Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/39696915/Oeno-Krasi-Tria-Ampelia-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/039696/39696915/xlarge_20221128143959_oeno_krasi_tria_ampelia_asyrtiko_leyko_xiro_santorinis_750ml.jpeg</Image>
-		<Price>64.03</Price>
+		<Price>67.5</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Oeno</Manufacturer>
 		<MPN>1786</MPN>
@@ -4038,7 +4229,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Παπαϊωάννου Βιολογικό Κρασί Αγιωργίτικο Ερυθρό Ξηρό Νεμέας 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4732970/Ktima-Papaioannou-Viologiko-Krasi-Agiorgitiko-Erythro-Xiro-Nemeas-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004732/4732970/xlarge_20211102192537_ktima_papaioannou_nemea_erythro_750ml.jpeg</Image>
-		<Price>10.16</Price>
+		<Price>8.65</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Παπαϊωάννου</Manufacturer>
 		<MPN>1787</MPN>
@@ -4052,7 +4243,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Παυλίδη Κρασί Thema Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712536/Ktima-Paylidi-Krasi-Thema-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004712/4712536/20211018112527_ktima_paylidi_thema_leyko_750ml.jpeg</Image>
-		<Price>12.11</Price>
+		<Price>11.79</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΠΑΥΛΙΔΗ</Manufacturer>
 		<MPN>1484</MPN>
@@ -4066,7 +4257,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Παυλίδη Κρασί Alma Syrah/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/35762870/Ktima-Paylidi-Krasi-Alma-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/035801/35801928/20220505151747_ktima_paylidi_krasi_alma_roze_xiro_750ml.jpeg</Image>
-		<Price>14.01</Price>
+		<Price>14.41</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΠΑΥΛΙΔΗ</Manufacturer>
 		<MPN>1156</MPN>
@@ -4081,7 +4272,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Παυλίδη Thema Syrah/Αγιωργίτικο Ερυθρός Οίνος 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712527/Ktima-Paylidi-Viologiko-Krasi-Thema-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004712/4712527/xlarge_20211018141721_ktima_paylidi_thema_erythro_750ml.jpeg</Image>
-		<Price>15.01</Price>
+		<Price>14.72</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΠΑΥΛΙΔΗ</Manufacturer>
 		<MPN>1156001</MPN>
@@ -4097,7 +4288,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Santo Wines Κρασί Vinsanto Σαντορίνης Αηδάνι/Ασύρτικο Λευκό Γλυκό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/18536922/Santo-Wines-Krasi-Vinsanto-Leyko-Glyko-Santorinis-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018536/18536922/20211018175417_santo_wines_krasi_leyko_glyko_vinsanto_500ml.jpeg</Image>
-		<Price>24.44</Price>
+		<Price>22.2</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>SANTO WINES</Manufacturer>
 		<MPN>1651</MPN>
@@ -4111,7 +4302,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Σιγάλα Κρασί Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4713691/Ktima-Sigala-Krasi-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004713/4713691/20231206132651_ktima_sigala_krasi_asyrtiko_leyko_xiro_santorinis_750ml.jpeg</Image>
-		<Price>24.22</Price>
+		<Price>37.651927997376</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΣΙΓΑΛΑ</Manufacturer>
 		<MPN>1157</MPN>
@@ -4126,7 +4317,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Σιγάλα Κρασί Ασύρτικο σε Βαρέλι Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/21840506/Ktima-Sigala-Krasi-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/021840/21840506/xlarge_20200406143005_ktima_sigala_santorini_vareli_leyko_750ml.jpeg</Image>
-		<Price>40.66</Price>
+		<Price>41.83547555264001</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΣΙΓΑΛΑ</Manufacturer>
 		<MPN>1157002</MPN>
@@ -4146,7 +4337,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Σιγάλα Κρασί Καβαλιέρος Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4713695/Ktima-Sigala-Krasi-Kavalieros-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004713/4713695/xlarge_20200204125543_ktima_sigala_kavalieros_leyko_750ml.jpeg</Image>
-		<Price>50.82</Price>
+		<Price>52.2943444408</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΣΙΓΑΛΑ</Manufacturer>
 		<MPN>1157001</MPN>
@@ -4170,7 +4361,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Άκρες Μοσχοφίλερο/Ροδίτης Λευκό Ξηρό Νεμέας 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4719082/Skouras-Krasi-Akres-Leyko-Xiro-Nemeas-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004719/4719082/20210310225201_skouras_akres_leykos_750ml.jpeg</Image>
-		<Price>6.18</Price>
+		<Price>6.299393100399567</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1243</MPN>
@@ -4185,7 +4376,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Άκρες Μοσχοφίλερο/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4719195/Skouras-Krasi-Akres-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004719/4719195/20210310225018_skouras_akres_roze_750ml.jpeg</Image>
-		<Price>6.85</Price>
+		<Price>6.394838450405623</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1158</MPN>
@@ -4200,7 +4391,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Μέγας Οίνος Cabernet Sauvignon/Αγιωργίτικο Ερυθρό Ξηρό Νεμέας 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720112/Skouras-Krasi-Megas-Oinos-Erythro-Xiro-Nemeas-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004720/4720112/20211102192508_skouras_megas_oinos_erythros_750ml.jpeg</Image>
-		<Price>20.43</Price>
+		<Price>20.80708630131979</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1647</MPN>
@@ -4215,7 +4406,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Αρμύρα Chardonnay/Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720108/Skouras-Krasi-Armyra-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004720/4720108/20210310225630_skouras_armyra_leykos_750ml.jpeg</Image>
-		<Price>11.25</Price>
+		<Price>10.49898850066594</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1648</MPN>
@@ -4230,7 +4421,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Πέπλο Syrah/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/14694465/Skouras-Krasi-Peplo-Roze-Xiro-Nemeas-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/014694/14694465/20210310230921_skouras_peplo_roze_750ml.jpeg</Image>
-		<Price>14.31</Price>
+		<Price>13.36234900084757</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1649</MPN>
@@ -4245,7 +4436,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Fleva Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720556/Skouras-Krasi-Fleva-Syrah-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004720/4720556/20210310230409_skouras_fleva_erythro_750ml.jpeg</Image>
-		<Price>20.96</Price>
+		<Price>21.34504323952</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1650</MPN>
@@ -4260,7 +4451,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Viognier Cuvee Larsinos Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/9090747/Skouras-Krasi-Larsinos-Cuvee-Viognier-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/009090/9090747/xlarge_20200314141036_skouras_viognier_cuvee_larsinos_leyko_750ml.jpeg</Image>
-		<Price>12.68</Price>
+		<Price>12.911148105856</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1650001</MPN>
@@ -4280,7 +4471,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Σκούρας Κρασί Μοσχοφίλερο Μαντινεία Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/59237587/Skouras-Krasi-Moschofilero-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/059237/59237587/xlarge_20250314101754_skouras_krasi_moschofilero_leyko_xiro_750ml.jpeg</Image>
-		<Price>9.2</Price>
+		<Price>9.37099459296</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
 		<MPN>1650002</MPN>
@@ -4296,7 +4487,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Στροφιλιά Κρασί Σπάνιες Γαίες Ταμπούρι Cabernet Franc Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/22365358/Strofilia-Krasi-Spanies-Gaies-Tampouri-Cabernet-Franc-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022365/22365358/xlarge_20200316112602_strofilia_spanies_gaies_tampouri_erythro_750ml.jpeg</Image>
-		<Price>20.78</Price>
+		<Price>21.167692304</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Στροφιλιά</Manufacturer>
 		<MPN>1788</MPN>
@@ -4318,7 +4509,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4765583/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004765/4765583/xlarge_20211018140331_ktima_techni_oinou_techni_alypias_leyko_750ml.jpeg</Image>
-		<Price>11.18</Price>
+		<Price>11.385965448</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Τέχνη Οίνου</Manufacturer>
 		<MPN>1789</MPN>
@@ -4334,7 +4525,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Cabernet Sauvignon/Merlot/Nebbiolo/Sangiovese/Syrah Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/27080615/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027080/27080615/xlarge_20210311132254_ktima_techni_oinou_krasi_roze_xiro_techni_alypias_750ml.jpeg</Image>
-		<Price>12.04</Price>
+		<Price>12.261808944</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Τέχνη Οίνου</Manufacturer>
 		<MPN>1789001</MPN>
@@ -4350,7 +4541,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Cabernet Sauvignon/Merlot/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4765594/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004765/4765594/xlarge_20210311132413_ktima_techni_oinou_techni_alypias_erythro_750ml.jpeg</Image>
-		<Price>14.62</Price>
+		<Price>14.889339432</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Τέχνη Οίνου</Manufacturer>
 		<MPN>1789002</MPN>
@@ -4368,7 +4559,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Μικρό Κτήμα Τίτου Κρασί Γουμένισσα Ξινόμαυρο/Νεγκόσκα Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/31773118/Ktima-Vivlia-CHora-Krasi-Goumenissa-Mikro-Ktima-Titou-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/031773/31773118/xlarge_20211018161819_ktima_vivlia_chora_krasi_goumenissa_mikro_ktima_titou_erythro_xiro_750ml.jpeg</Image>
-		<Price>13.09</Price>
+		<Price>13.335233296</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Βιβλία Χώρα</Manufacturer>
 		<MPN>1791</MPN>
@@ -4382,7 +4573,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Ασκητικός Chardonnay/Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774782/Tsililis-Krasi-Askitikos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774782/20200316163151_tsililis_askitikos_leyko_750ml.jpeg</Image>
-		<Price>6.26</Price>
+		<Price>6.380558204944</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1336</MPN>
@@ -4396,7 +4587,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Ασκητικός Cabernet Sauvignon/Merlot/Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774788/Tsililis-Krasi-Askitikos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004774/4774788/20200314141442_tsililis_askitikos_erythro_750ml.jpeg</Image>
-		<Price>6.91</Price>
+		<Price>7.037380373100001</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1337</MPN>
@@ -4410,7 +4601,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κτήμα Θεόπετρα Ασύρτικο/Μαλαγουζιά Λευκός Οίνος 750ml</Name>
 		<URL>https://www.skroutz.gr/s/49712052/Tsililis-Ktima-THeopetra-Leykos-Oinos-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/049712/49712052/20240129150351_tsililis_ktima_theopetra_leykos_oinos_750ml.jpeg</Image>
-		<Price>9.63</Price>
+		<Price>9.809681732200001</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1338</MPN>
@@ -4424,7 +4615,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Λημνιώνα Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774738/Tsililis-Viologiko-Krasi-Theopetra-Estate-Limniona-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774738/20200314141120_tsililis_ktima_theopetra_limniona_erythro_750ml.jpeg</Image>
-		<Price>15.49</Price>
+		<Price>15.7807923518</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339</MPN>
@@ -4476,7 +4667,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τυρνάβου Κρασί Ρόδοινος Μοσχάτο Τυρνάβου Λευκό Ημίγλυκο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/15619319/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Leyko-Imiglyko-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/015619/15619319/xlarge_20211018163914_tyrnavou_rodoinos_leyko_750ml.jpeg</Image>
-		<Price>3.79</Price>
+		<Price>3.95350445952</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>101122003</MPN>
@@ -4490,7 +4681,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τυρνάβου Κρασί Ροδοινος Μοσχάτο Τυρνάβου Ροζέ Ημίγλυκο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/15607237/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Roze-Imiglyko-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/015607/15607237/20200204124530_tyrnavou_rodoinos_roze_750ml.jpeg</Image>
-		<Price>3.79</Price>
+		<Price>3.95350445952</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>1159</MPN>
@@ -4505,7 +4696,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Χατζηδάκη Κρασί Νυχτέρι Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4713696/CHatzidaki-Krasi-Nychteri-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004713/4713696/xlarge_801.jpg</Image>
-		<Price>56.17</Price>
+		<Price>57.2099792</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κρασιά Χατζηδάκη</Manufacturer>
 		<MPN>1792</MPN>
@@ -4530,7 +4721,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Χατζηδάκη Βιολογικό Κρασί Familia Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18236882/CHatzidaki-Viologiko-Krasi-Familia-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/018236/18236882/xlarge_20190418101938_chatzidaki_familia_leyko_750ml.jpeg</Image>
-		<Price>38.2</Price>
+		<Price>38.902785856</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κρασιά Χατζηδάκη</Manufacturer>
 		<MPN>1792001</MPN>
@@ -4544,7 +4735,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ιερά Μονή Χιλανδαρίου Κρασί Merlot Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18222304/Iera-Moni-CHilandariou-Krasi-Merlot-Roze-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/018222/18222304/xlarge_20200615102418_iera_moni_chilandariou_chilandari_roze_750ml.jpeg</Image>
-		<Price>9.85</Price>
+		<Price>10.02816675</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Ιερά Μονή Χιλανδαρίου</Manufacturer>
 		<MPN>1793</MPN>
@@ -4558,7 +4749,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ιερά Μονή Χιλανδαρίου Κρασί Πεδίον Αγίου Σάββα Cabernet Franc/Cabernet Sauvignon/Merlot Ερυθρό Ξηρό Αμυνταίου 750ml</Name>
 		<URL>https://www.skroutz.gr/s/25256495/Iera-Moni-CHilandariou-Krasi-Pedion-Agiou-Savva-Erythro-Xiro-Amyntaiou-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/025256/25256495/xlarge_20201015152324_iera_moni_chilandariou_pedion_agiou_savva_erythro_750ml.jpeg</Image>
-		<Price>18.1</Price>
+		<Price>18.43272555</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Ιερά Μονή Χιλανδαρίου</Manufacturer>
 		<MPN>1793001</MPN>
@@ -4570,11 +4761,26 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>48001</SKU>
+		<Name>Chateau Miraval Κρασί Côtes de Provence Cinsaut/Grenache Rouge/Syrah Ροζέ Ξηρό 750ml</Name>
+		<URL>https://www.skroutz.gr/s/7248450/Chateau-Miraval-Krasi-Cotes-de-Provence-Roze-Xiro-750ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/059324/59324422/xlarge_20220421175004_b1bf32a2.jpeg</Image>
+		<Price>18.76</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Chateau Miraval</Manufacturer>
+		<MPN>180001</MPN>
+		<Description>Chateau Miraval Rosé, από το κτήμα της Προβηγκίας, όπου η ιστορία του ξεκινάει στο Μεσαίωνα και συνεχίζεται στο σήμερα όπου πλέον έγινε περισσότερο γνωστό από τότε που ήρθε στην ιδιοκτησία του ζεύγους Brad Pitt και Angelina Jolie.
+
+Με έντονη μύτη που παραπέμπει σε λευκά λουλούδια, μικρά κόκκινα μούρα, φρεσκοκομμένες φράουλες και ώριμα Morello κεράσια. Στόμα στρογγυλό και απαλό με αρώματα κερασιού, άγριας φράουλας και με ίχνη αλμύρας. Είναι ισορροπημένο, διαρκές και έχει απαλό τελείωμα. Σερβίρεται στους 10-12˚C και ταιριάζει με κάθε μεσογειακό πιάτο.</Description>
+		<EAN>3296180004250</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>499001124</SKU>
 		<Name>Songmics Επιδαπέδια Κάβα Ποτών Ξύλινη για 24 Μπουκάλια με 2 Ράφια και 5 Ποτηροθήκες σε Μαύρο-Καφέ 66x30x100cm KWR028B01</Name>
 		<URL>https://www.skroutz.gr/s/37931787/Songmics-Epidapedia-Kava-Poton-Xylini-gia-24-Mpoukalia-Mayro-Kafe-66x30x100ek.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/037931/37931787/fixedratio_20220906122441_songmics_xylini_epitoichia_kava_poton_gia_24_mpoukalia_66x30x100cm.jpeg</Image>
-		<Price>69.29</Price>
+		<Price>70.81</Price>
 		<Category> Κάβες Ποτών</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>KWR028B01</MPN>
@@ -4600,6 +4806,97 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 </Description>
 		<EAN>0194343025803</EAN>
 		<Quantity>46</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>58032</SKU>
+		<Name>ΣΑΜΠΑΝΙΑ MOET &amp; CHANDON ICY 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4711828/Moet-Chandon-Sampania-Ice-Imperial-Imixiri-Leyki-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004711/4711828/20151201125909_moet_chandon_ice_imperial_leykos.jpeg</Image>
+		<Price>59.11</Price>
+		<Category>Σαμπάνιες</Category>
+		<Manufacturer>MOET</Manufacturer>
+		<MPN>1164</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Η Moët Ice Impérial έχει δημιουργηθεί από τον Chef De Cave Benoît Gouez στη Γαλλία και είναι η πρώτη σαμπάνια που δημιουργήθηκε για να καταναλώνεται με πάγο. Έχει χρυσαφένιες αποχρώσεις και δυναμικά αρώματα στα οποία κυριαρχούν οι νότες από μάνγκο, γκουάβα, νεκταρινιού και ροδάκινου.</Description>
+		<EAN>3185370457030</EAN>
+		<Quantity>69</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>58104</SKU>
+		<Name>MOSCATO D'ASTI LEGGENDA 750ml</Name>
+		<URL>https://www.skroutz.gr/s/7244152/Marco-Bianco-Leggenda-Moscato-D-Asti-Leyko-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/007244/7244152/20240621123716_marco_bianco_leggenda_moscato_d_asti_leyko_750ml.jpeg</Image>
+		<Price>7.34</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>LEGGENDA</Manufacturer>
+		<MPN>1165</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
+		<EAN>8052190350061</EAN>
+		<Quantity>471</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>58108</SKU>
+		<Name>PROSECCO MARTINI 750ml</Name>
+		<URL>https://www.skroutz.gr/s/4809453/Martini-Krasi-Prosecco-Leyko-Xiro-D-Asti-Afrodes-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809453/20200314140937_martini_spumante_prosecco_leyko_750ml.jpeg</Image>
+		<Price>8.74</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>MARTINI</Manufacturer>
+		<MPN>1166</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Prosecco είναι ένα αφρώδες κρασί που παράγεται στην περιοχή Βένετο της Ιταλίας γύρω από την πόλη του Τρεβίζο περίπου 15 μίλια (24 χιλιόμετρα) βόρεια της Βενετίας. Φτιάχνεται με σταφύλια Prosecco (γνωστά και ως Glera). Παράγεται χρησιμοποιώντας μια οικονομική μέθοδο που ονομάζεται «Μέθοδος Δεξαμενής» (‘Tank Method’).</Description>
+		<EAN>8000570552505</EAN>
+		<Quantity>158</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>559511</SKU>
+		<Name>SANGRIA DON SIMON 1,5 LIT</Name>
+		<URL>https://www.skroutz.gr/s/5102143/Don-Simon-Krasi-Blend-poikilion-Erythro-Imiglyko-Sangria-1500ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/005102/5102143/20200313165141_don_simon_sangria_1500ml.jpeg</Image>
+		<Price>3.83</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>DON SIMON</Manufacturer>
+		<MPN>1160</MPN>
+		<Weight>1.5 kg</Weight>
+		<Description>Η Sangria είναι το παραδοσιακό ποτό της Ισπανίας, παρασκευάζεται από κόκκινο κρασί και φυσικά εκχυλίσματα φρούτων χωρίς συντηρητικά και χρωστικές. Σκούρο κόκκινο χρώμα και δροσερή γεύση. Σερβίρεται παγωμένη, είναι το απόλυτο ποτό του καλοκαιριού.</Description>
+		<EAN>8410261151625</EAN>
+		<Quantity>80</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55952</SKU>
+		<Name>Cruz Garcia Sangia Λευκό Ημίγλυκο 750ml</Name>
+		<URL>https://www.skroutz.gr/s/55519118/Cruz-Garcia-Krasi-Erythro-Imiglyko-750ml-8410015700307.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/016270/16270742/20200330133408_cruz_garcia_real_sangria_leyko_750ml.jpeg</Image>
+		<Price>3.66</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>CRUZ GARCIA</Manufacturer>
+		<MPN>1161</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Ανακαλύψτε τη Real Sangria, το απόλυτο καλοκαιρινό ποτό που σερβίρεται παγωμένο για να σας δροσίσει με κάθε γουλιά. Με ζωηρές και αρωματικές γεύσεις φρούτων, αυτό το ημίγλυκο λευκό κρασί προσφέρει μια γευστική εμπειρία που θα σας μαγέψει.Η Real Sangria είναι ιδανική για κάθε περίσταση και μπορεί να απογειωθεί με την προσθήκη φρέσκων φρούτων όπως πορτοκάλια, μήλα και ανανά. Αν θέλετε να πειραματιστείτε, προσθέστε λίγη λεμονάδα ή τζίντζερ για επιπλέον δροσιά και ζωντάνια.Απολαύστε τη Real Sangria με τα αγαπημένα σας μεξικάνικα πιάτα, όπως τάκος και νάτσος, και δείτε τις γεύσεις να αναδεικνύονται μοναδικά. Είναι επίσης ιδανική για να συνοδεύσει tapas, ξηρούς καρπούς, φρουτοσαλάτες και τάρτες φρούτων, ενώ αποτελεί εξαιρετική επιλογή για απεριτίφ.Γεμάτη γεύση, απαλή και ισορροπημένη, με μια γλυκιά επίγευση που θα σας κερδίσει, η Real Sangria είναι η τέλεια επιλογή για κάθε καλοκαιρινή στιγμή. Δοκιμάστε την και αφήστε τις αρωματικές γεύσεις φρούτων να σας παρασύρουν σε μια γευστική περιπέτεια.</Description>
+		<EAN>8410015700307</EAN>
+		<Quantity>72</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55953</SKU>
+		<Name>Sandeman Κρασί Fine Ruby Porto Ερυθρό Ημίξηρο 750ml</Name>
+		<URL>https://www.skroutz.gr/s/31730377/Sandeman-Krasi-Fine-Ruby-Porto-Erythro-Imixiro-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/031730/31730377/xlarge_20211018140331_sandeman_krasi_fine_ruby_porto_erythro_imixiro_750ml.jpeg</Image>
+		<Price>9.72</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Sandeman </Manufacturer>
+		<MPN>1161001</MPN>
+		<Description>Το Sandeman αποτελεί ένα κόκκινο κρασί το οποίο παράγεται με την παραδοσιακή μέθοδο των κρασιών Porto, καθώς ο τρύγος γίνεται με χειρονακτικό τρόπο. Τα κρασιά που επιλέγονται είναι μεταξύ 2-5 ετών, κάτι τέτοιο τους επιτρέπει η μέση ηλικία να είναι περίπου τα 3 χρόνια και παράλληλα να διατηρεί τη φρεσκάδα και τη νεότητα του. 
+
+Έχει ρουμπινί χρώμα με καθαρά αρώματα κόκκινων φρούτων, φράουλας, δαμάσκηνου. Στο στόμα κυριαρχεί και εκεί το πρωτογενές κόκκινο φρούτο, με ισορροπία στη γεύση. Ταιριάζει ιδανικά με κρεμώδη τυριά, σοκολάτα, ξηρούς καρπούς, τάρτες φρούτων και κόκκινα κρέατα.</Description>
+		<EAN>5601083001585</EAN>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4718,7 +5015,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064011222</EAN>
-		<Quantity>85</Quantity>
+		<Quantity>81</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4778,7 +5075,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064011550</EAN>
-		<Quantity>241</Quantity>
+		<Quantity>237</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6140,230 +6437,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Πρόκειται για ένα παραδοσιακό σιρόπι με πλούσια, γλυκιά γεύση και έντονο κόκκινο χρώμα, φτιαγμένο από ρόδι. Ιδανικό για τη δημιουργία κλασικών κοκτέιλ, όπως το Tequila Sunrise και το Shirley Temple, προσθέτει βάθος γεύσης και ζωντάνια σε κάθε ποτό.</Description>
 		<EAN>5203156000619</EAN>
 		<Quantity>93</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>559511</SKU>
-		<Name>SANGRIA DON SIMON 1,5 LIT</Name>
-		<URL>https://www.skroutz.gr/s/5102143/Don-Simon-Krasi-Blend-poikilion-Erythro-Imiglyko-Sangria-1500ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/005102/5102143/20200313165141_don_simon_sangria_1500ml.jpeg</Image>
-		<Price>2.61</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>DON SIMON</Manufacturer>
-		<MPN>1160</MPN>
-		<Weight>1.5 kg</Weight>
-		<Description>Η Sangria είναι το παραδοσιακό ποτό της Ισπανίας, παρασκευάζεται από κόκκινο κρασί και φυσικά εκχυλίσματα φρούτων χωρίς συντηρητικά και χρωστικές. Σκούρο κόκκινο χρώμα και δροσερή γεύση. Σερβίρεται παγωμένη, είναι το απόλυτο ποτό του καλοκαιριού.</Description>
-		<EAN>8410261151625</EAN>
-		<Quantity>80</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55952</SKU>
-		<Name>Cruz Garcia Sangia Λευκό Ημίγλυκο 750ml</Name>
-		<URL>https://www.skroutz.gr/s/55519118/Cruz-Garcia-Krasi-Erythro-Imiglyko-750ml-8410015700307.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/016270/16270742/20200330133408_cruz_garcia_real_sangria_leyko_750ml.jpeg</Image>
-		<Price>3.66</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>CRUZ GARCIA</Manufacturer>
-		<MPN>1161</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Ανακαλύψτε τη Real Sangria, το απόλυτο καλοκαιρινό ποτό που σερβίρεται παγωμένο για να σας δροσίσει με κάθε γουλιά. Με ζωηρές και αρωματικές γεύσεις φρούτων, αυτό το ημίγλυκο λευκό κρασί προσφέρει μια γευστική εμπειρία που θα σας μαγέψει.Η Real Sangria είναι ιδανική για κάθε περίσταση και μπορεί να απογειωθεί με την προσθήκη φρέσκων φρούτων όπως πορτοκάλια, μήλα και ανανά. Αν θέλετε να πειραματιστείτε, προσθέστε λίγη λεμονάδα ή τζίντζερ για επιπλέον δροσιά και ζωντάνια.Απολαύστε τη Real Sangria με τα αγαπημένα σας μεξικάνικα πιάτα, όπως τάκος και νάτσος, και δείτε τις γεύσεις να αναδεικνύονται μοναδικά. Είναι επίσης ιδανική για να συνοδεύσει tapas, ξηρούς καρπούς, φρουτοσαλάτες και τάρτες φρούτων, ενώ αποτελεί εξαιρετική επιλογή για απεριτίφ.Γεμάτη γεύση, απαλή και ισορροπημένη, με μια γλυκιά επίγευση που θα σας κερδίσει, η Real Sangria είναι η τέλεια επιλογή για κάθε καλοκαιρινή στιγμή. Δοκιμάστε την και αφήστε τις αρωματικές γεύσεις φρούτων να σας παρασύρουν σε μια γευστική περιπέτεια.</Description>
-		<EAN>8410015700307</EAN>
-		<Quantity>72</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55953</SKU>
-		<Name>Sandeman Κρασί Fine Ruby Porto Ερυθρό Ημίξηρο 750ml</Name>
-		<URL>https://www.skroutz.gr/s/31730377/Sandeman-Krasi-Fine-Ruby-Porto-Erythro-Imixiro-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/031730/31730377/xlarge_20211018140331_sandeman_krasi_fine_ruby_porto_erythro_imixiro_750ml.jpeg</Image>
-		<Price>9.72</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Sandeman </Manufacturer>
-		<MPN>1161001</MPN>
-		<Description>Το Sandeman αποτελεί ένα κόκκινο κρασί το οποίο παράγεται με την παραδοσιακή μέθοδο των κρασιών Porto, καθώς ο τρύγος γίνεται με χειρονακτικό τρόπο. Τα κρασιά που επιλέγονται είναι μεταξύ 2-5 ετών, κάτι τέτοιο τους επιτρέπει η μέση ηλικία να είναι περίπου τα 3 χρόνια και παράλληλα να διατηρεί τη φρεσκάδα και τη νεότητα του. 
-
-Έχει ρουμπινί χρώμα με καθαρά αρώματα κόκκινων φρούτων, φράουλας, δαμάσκηνου. Στο στόμα κυριαρχεί και εκεί το πρωτογενές κόκκινο φρούτο, με ισορροπία στη γεύση. Ταιριάζει ιδανικά με κρεμώδη τυριά, σοκολάτα, ξηρούς καρπούς, τάρτες φρούτων και κόκκινα κρέατα.</Description>
-		<EAN>5601083001585</EAN>
-		<Quantity>30</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57031</SKU>
-		<Name>Ζίτσα Κρασί Ορεινές Διαδρομές Chardonnay Λευκό 187ml</Name>
-		<URL>https://www.skroutz.gr/s/21081822/Zitsa-Krasi-Oreines-Diadromes-Leyko-Xiro-187ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/021081/21081822/20191121165824_zitsa_oreines_diadromes_leyko_187ml.jpeg</Image>
-		<Price>1.23</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
-		<MPN>1315</MPN>
-		<Description>Λαμπερό αχυρένιο χρώμα με πρασινωπές ανταύγειες . Μύτη κομψή με αρώματα εσπεριδοειδών και λευκού ροδάκινου. Στο στόμα πλούσιο και γεμάτο με τραγανή οξύτητα. Μεγάλη αρωματική διάρκεια.</Description>
-		<EAN>5201214100127</EAN>
-		<Quantity>368</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57032</SKU>
-		<Name>Ζίτσα Κρασί Ορεινές Διαδρομές Αγιωργίτικο Ερυθρό Ημίγλυκο 187ml</Name>
-		<URL>https://www.skroutz.gr/s/18537491/Zitsa-Krasi-Oreines-Diadromes-Agiorgitiko-Erythro-Imiglyko-187ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/018537/18537491/20211102175906_zitsa_oreines_diadromes_erythro_187ml.jpeg</Image>
-		<Price>1.39</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
-		<MPN>1656</MPN>
-		<Description>Το κόκκινο κρασί της ετικέτας Ζίτσα είναι ημίγλυκο με διακριτικές γεύσεις μοσχοκάρυδου και κανέλας, μέτριας οξύτητας και μαλακές τανίνες. Η αγιωργίτικη ποικιλία συνδυάζεται υπέροχα με ψητά κρέατα, σάλτσες τομάτας και καρυκευμένες κουζίνες από τη Μέση Ανατολή μέχρι την Ινδία. Σερβίρεται στους 15-20°C.</Description>
-		<EAN>5201214100431</EAN>
-		<Quantity>200</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57041</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ Ρόδοινος Λευκό 187ml Ημίγλυκο</Name>
-		<URL>https://www.skroutz.gr/s/46541379/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Leyko-Imiglyko-187ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/046541/46541379/20231003123816_tyrnavou_krasi_rodoinos_moschato_tyrnavou_leyko_imiglyko_187ml.jpeg</Image>
-		<Price>1.54</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
-		<MPN>1162</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
-		<EAN>5202037000083</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57044</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ Ρόδοινος Ροζέ 187ml</Name>
-		<URL>https://www.skroutz.gr/s/55483260/Tyrnavou-Krasi-Rodoinos-Moschato-Amvourgou-Roze-Xiro-187ml-5202037110225.html</URL>
-		<Image>https://www.tirnavoswinery.gr/wp-content/uploads/2021/01/rodoinos_new_small_2021.jpg</Image>
-		<Price>1.54</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
-		<MPN>1163</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
-		<EAN>5202037110225</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57051</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Λευκό Ξηρό 187ml</Name>
-		<URL>https://www.skroutz.gr/s/4774796/Tsililis-Krasi-Bianconero-Leyko-Xiro-200ml.html</URL>
-		<Image>https://wineoutlet.gr/wp-content/uploads/2023/03/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF-%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AF%CF%84%CE%BB%CE%BF-80.webp</Image>
-		<Price>2.08</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>0002</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>To λευκό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Sauvignon Blanc, Chardonnay και Ασύρτικο. Χαρακτηρίζεται από φρουτώδη αρώματα ροδάκινου, λεμονιού και μάνγκο και ανθικά αρώματα λεμονανθών. Στο στόμα έχει δροσερή οξύτητα, ισορροπημένο αλκοόλ, στρογγυλό στόμα, γεύση τροπικών φρούτων και ελαφριά επίγευση πράσινου τσαγιού.</Description>
-		<EAN>5202548501024</EAN>
-		<Quantity>213</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57052</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Ροζέ Ξηρό 187ml</Name>
-		<URL>https://www.skroutz.gr/s/24047791/Tsililis-Krasi-Bianconero-Roze-Xiro-Imiafrodes-187ml.html</URL>
-		<Image>https://cavamikrohorio.com/wp-content/uploads/2021/10/tsililis-bianconero-rosedry-1.jpg</Image>
-		<Price>2.08</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>0003</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Το ροζέ (ή ροζ!) αφρώδες κρασί της γκάμας, από σταφύλια της ποικιλίας Μοσχάτο Αμβούργου, χαρακτηρίζεται από φρουτώδη αρώματα φράουλας, βατόμουρου και κερασιού που συνδυάζονται με νότες βιολέτας και βανίλιας.Ευχάριστο και παιχνιδιάρικο καταναλώνεται μόνο του ως απεριτίφ, με φρούτα και σοκολατένια γλυκά.</Description>
-		<EAN>5202548501123</EAN>
-		<Quantity>178</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57053</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Ερυθρό Ξηρό 187ml</Name>
-		<URL>https://www.skroutz.gr/s/24420378/Tsililis-Krasi-Bianconero-Erythro-Xiro-187ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/024420/24420378/20200818104108_tsililis_bianconero_erythro_187ml.jpeg</Image>
-		<Price>2.08</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>0004</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>To ερυθρό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Syrah και Merlot και παλαιώνεται σε γαλλικά και αμερικάνικα δρύινα βαρέλια για 10 μήνες. Χαρακτηρίζεται από αρώματα κόκκινων φρούτων όπως βατόμουρο, βύσσινο και κεράσι, πικάντικα γλυκά αρώματα βανίλιας, μαύρου πιπεριού και μοσχοκάρυδου και γλυκά αρώματα σοκολάτας. Στο στόμα έχει ισορροπημένη οξύτητα, πλούσιο αλκοόλ, γεμάτο σώμα και μακρά επίγευση.</Description>
-		<EAN>5202548501222</EAN>
-		<Quantity>91</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>581611</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Μοσχάτο Αμβούργου Λευκό Ημίξηρο Αφρώδες 200ml</Name>
-		<URL>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</URL>
-		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4355-1200x1200.jpg</Image>
-		<Price>2.91</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>0005</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>H νέα άποψη στο κρασί είναι ασπρόμαυρη… BiancoNero. Mια νέα σειρά οίνων με απόλυτα νεανική διάθεση. Τίποτα στη ζωή δεν είναι ασπρόμαυρο! Είναι ο καμβάς για το χρώμα και τη γεύση του κρασιού που δραματοποιεί την απόλαυση. Είναι ο τρόπος να αποθεωθούν οι αισθήσεις και να νιώσουμε έντονες στιγμές. Πέντε διαφορετικές μορφές, κλεισμένες σε συσκευασίες που συναρπάζουν το βλέμμα. Εκφράζουν την αγάπη για την ποιότητα ζωής, σκέψης και κατανάλωσης και συντροφεύουν τις πολύτιμες στιγμές της ζωής μας, με το δικό τους ευφάνταστο τρόπο. BiancoNero και αφεθείτε στη σαγήνη της ευδαιμονίας!</Description>
-		<EAN>5202548501031</EAN>
-		<Quantity>265</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>581612</SKU>
-		<Name>Τσιλιλής Κρασί Μοσχάτο Αμβούργου Ροζέ Ημίξηρο Αφρώδες 200ml</Name>
-		<URL>https://www.skroutz.gr/s/52650429/Tsililis-Krasi-Moschato-Amvourgou-Roze-Imixiro-Afrodes-200ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/049450/49450007/20240125020937_bianconero_afrodis_oinos_roze_200ml.jpeg</Image>
-		<Price>2.91</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>0006</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Το ροζέ (ή ροζ!) αφρώδες κρασί της γκάμας, από σταφύλια της ποικιλίας Μοσχάτο Αμβούργου, χαρακτηρίζεται από φρουτώδη αρώματα φράουλας, βατόμουρου και κερασιού που συνδυάζονται με νότες βιολέτας και βανίλιας.Ευχάριστο και παιχνιδιάρικο καταναλώνεται μόνο του ως απεριτίφ, με φρούτα και σοκολατένια γλυκά.</Description>
-		<EAN>5202548501130</EAN>
-		<Quantity>145</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>58032</SKU>
-		<Name>ΣΑΜΠΑΝΙΑ MOET &amp; CHANDON ICY 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4711828/Moet-Chandon-Sampania-Ice-Imperial-Imixiri-Leyki-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004711/4711828/20151201125909_moet_chandon_ice_imperial_leykos.jpeg</Image>
-		<Price>65.56</Price>
-		<Category>Σαμπάνιες</Category>
-		<Manufacturer>MOET</Manufacturer>
-		<MPN>1164</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Η Moët Ice Impérial έχει δημιουργηθεί από τον Chef De Cave Benoît Gouez στη Γαλλία και είναι η πρώτη σαμπάνια που δημιουργήθηκε για να καταναλώνεται με πάγο. Έχει χρυσαφένιες αποχρώσεις και δυναμικά αρώματα στα οποία κυριαρχούν οι νότες από μάνγκο, γκουάβα, νεκταρινιού και ροδάκινου.</Description>
-		<EAN>3185370457030</EAN>
-		<Quantity>69</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>58104</SKU>
-		<Name>MOSCATO D'ASTI LEGGENDA 750ml</Name>
-		<URL>https://www.skroutz.gr/s/7244152/Marco-Bianco-Leggenda-Moscato-D-Asti-Leyko-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/007244/7244152/20240621123716_marco_bianco_leggenda_moscato_d_asti_leyko_750ml.jpeg</Image>
-		<Price>7.34</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>LEGGENDA</Manufacturer>
-		<MPN>1165</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
-		<EAN>8052190350061</EAN>
-		<Quantity>471</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>58108</SKU>
-		<Name>PROSECCO MARTINI 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4809453/Martini-Krasi-Prosecco-Leyko-Xiro-D-Asti-Afrodes-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809453/20200314140937_martini_spumante_prosecco_leyko_750ml.jpeg</Image>
-		<Price>8.74</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>MARTINI</Manufacturer>
-		<MPN>1166</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Prosecco είναι ένα αφρώδες κρασί που παράγεται στην περιοχή Βένετο της Ιταλίας γύρω από την πόλη του Τρεβίζο περίπου 15 μίλια (24 χιλιόμετρα) βόρεια της Βενετίας. Φτιάχνεται με σταφύλια Prosecco (γνωστά και ως Glera). Παράγεται χρησιμοποιώντας μια οικονομική μέθοδο που ονομάζεται «Μέθοδος Δεξαμενής» (‘Tank Method’).</Description>
-		<EAN>8000570552505</EAN>
-		<Quantity>158</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8741,7 +8814,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1259</MPN>
 		<Description>Το αφρόλουτρο της Aroma με κρεμώδη υφή, με άρωμα καρύδα προσφέρει ενυδάτωση &amp; θρέψη ενώ παράλληλα περιέχει καθαριστικούς παράγοντες που φροντίζουν το δέρμα.• Το προϊόν δεν περιέχει parabensΟδηγίες Χρήσης:• Εφαρμόστε μικρή ποσότητα σε βρεγμένο δέρμα• Ξεπλύνετε καλά• Αποφύγετε την επαφή με τα μάτια• Μόνο για εξωτερική χρήση</Description>
 		<EAN>5208005145039</EAN>
-		<Quantity>30</Quantity>
+		<Quantity>29</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9324,7 +9397,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102833</EAN>
-		<Quantity>2410</Quantity>
+		<Quantity>2409</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9622,7 +9695,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<EAN>3800500148076</EAN>
-		<Quantity>761</Quantity>
+		<Quantity>760</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9749,7 +9822,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>2385</Quantity>
+		<Quantity>2384</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10867,7 +10940,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<EAN>8711600347083</EAN>
-		<Quantity>4451</Quantity>
+		<Quantity>4450</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11330,7 +11403,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1533001</MPN>
 		<Description>Σφουγγαράκι κουζίνας αντιβακτηριδιακό, πολύ δυνατό. Καθαρίζει αποτελεσματικά με το πράσινο συρματάκι, δημιουργεί αφρό χάρη στο μεσαίο στρώμα από σφουγγάρι και απορροφά πολύ μεγαλύτερη ποσότητα νερού από το κλασσικό σφουγγάρι, λόγω της μεγάλης απορροφητικότητας της κυτταρίνης στο κάτω μέρος του.</Description>
 		<EAN>8000280030744</EAN>
-		<Quantity>246</Quantity>
+		<Quantity>245</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11433,7 +11506,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Καθαρίζει τους Δύσκολους Λεκέδες
     Βάρος 17gr</Description>
 		<EAN>5206753000372</EAN>
-		<Quantity>431</Quantity>
+		<Quantity>430</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12253,7 +12326,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Weight>10 kg</Weight>
 		<Description>Μπρικέτα Κάρβουνου A’ Grade (διάρκεια καύσης 6-7 ώρες). Η μπρικέτα κάρβουνο είναι η καλύτερη λύση σε μεγαλύτερη διάρκεια από τα κοινά κάρβουνα.•100% φυσικό προϊόν, το οποίο είναι πεπιεσμένο πριονίδι.•Υψηλή θερμιδική αξία.•Δεν καπνίζει, δεν βγάζει σπινθήρες και δεν αφήνει οσμές.•Έχει μεγάλη αντοχή.•Συσκευασία 10kg σε χάρτινο κουτί.</Description>
 		<EAN>5200116050189</EAN>
-		<Quantity>265</Quantity>
+		<Quantity>260</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16823,7 +16896,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
 		<EAN>5207146013931</EAN>
-		<Quantity>35</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25247,7 +25320,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>360</Quantity>
+		<Quantity>357</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
