@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-20 16:31</created_at>
+	<created_at>2025-06-20 16:56</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -6354,6 +6354,38 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>559023</SKU>
+		<Name>ΚΑΛΛΙΚΟΥΝΗΣ ΣΙΡΟΠΙ ΓΙΑ ΚΟΚΤΕΙΛ ΜΕ ΓΕΥΣΗ ΓΡΕΝΑΔΙΝΗ 700ml</Name>
+		<URL>https://www.skroutz.gr/s/55568266/Kallikounis-Siropi-gia-Kokteil-me-Geysi-Grenadini-700ml.html</URL>
+		<Image>https://i.imgur.com/S7HPCeE.png</Image>
+		<Price>1.79</Price>
+		<Category>Υλικά Κοκτέιλ</Category>
+		<Manufacturer>ΚΑΛΛΙΚΟΥΝΗΣ</Manufacturer>
+		<MPN>1217</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Πρόκειται για ένα παραδοσιακό σιρόπι με πλούσια, γλυκιά γεύση και έντονο κόκκινο χρώμα, φτιαγμένο από ρόδι. Ιδανικό για τη δημιουργία κλασικών κοκτέιλ, όπως το Tequila Sunrise και το Shirley Temple, προσθέτει βάθος γεύσης και ζωντάνια σε κάθε ποτό.</Description>
+		<EAN>5203156000619</EAN>
+		<Quantity>93</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55802</SKU>
+		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Τζίντζερ 700ml</Name>
+		<URL>https://www.skroutz.gr/s/22738965/Monin-Siropi-gia-Kokteil-me-Geysi-Tzintzer-700ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/022738/22738965/xlarge_20200409172708_monin_siropi_ginger_700ml.jpeg</Image>
+		<Price>10.62</Price>
+		<Category>Υλικά Κοκτέιλ</Category>
+		<Manufacturer>MONIN</Manufacturer>
+		<MPN>1212001</MPN>
+		<Description>Το σιρόπι της εταιρείας Monin, είναι ένα μείγμα ζάχαρης, νερού και συμπυκνωμένου χυμού με γεύση τζίντζερ που χρησιμοποιείται ως γλυκαντικό, αλλά και για να ενισχύσει τη γεύση στα κοκτέιλ. Πρόκειται για ένα παχύρρευστο υγρό, που δίνει μια σχετικά αραιή σύσταση στο κοκτέιλ. Το αρωματικό Monin Ginger θα δώσει μία ξεχωριστή, εξωτική γεύση στα ροφήματα σας.
+
+Το Le Sirop de MONIN Ginger ενσαρκώνει τον υπέροχο θερμαντικό συνδυασμό αρωματικής γλυκύτητας και τσιμπήματος μπαχαρικών. Αρωματικό και πικάντικο προσδίδει μια χαρακτηριστική, εξωτική γεύση και ανεβάζει τη θερμότητα στα κοκτέιλ, τις λεμονάδες, τις σοκολάτες, τα τσάγια και τις φρουτώδεις σόδες σας.
+
+Τα σιρόπια είναι ιδανικά για χρήση, σε κρύα και ζεστά ροφήματα, σε κοκτέιλ, αλλά ακόμα και σε καφέ, καθώς και σε οτιδήποτε έχει να κάνει με τη ζαχαροπλαστική. Δεν απαιτείται ψύξη. Φυλάσσεται σε θερμοκρασία δωματίου, μακριά από θερμότητα και άμεσο ηλιακό φως.</Description>
+		<EAN>3052910055240</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>55805</SKU>
 		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Gingerbread 700ml</Name>
 		<URL>https://www.skroutz.gr/s/22739417/Monin-Siropi-gia-Kokteil-me-Geysi-Gingerbread-700ml.html</URL>
@@ -6384,63 +6416,107 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55808</SKU>
-		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Βιολέτα 700ml</Name>
-		<URL>https://www.skroutz.gr/s/22742236/Monin-Siropi-gia-Kokteil-me-Geysi-Violeta-700ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/022742/22742236/20210304165830_monin_siropi_violet_700ml.jpeg</Image>
+		<SKU>55811</SKU>
+		<Name>Monin Σιρόπι Βανίλια Μαδαγασκάρης 700ml</Name>
+		<URL>https://www.skroutz.gr/s/60194179/monin-siropi-mparman-vanilia-madagaskaris-700-ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/060194/60194179/xlarge_20250430120611_monin_siropi_mparman_vanilia_madagaskaris_700_ml.jpeg</Image>
 		<Price>11.63</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1214</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το σιρόπι της εταιρείας Monin, είναι ένα μείγμα ζάχαρης, νερού και συμπυκνωμένου χυμού με γεύση βιολέτα που χρησιμοποιείται ως γλυκαντικό, αλλά και για να ενισχύσει τη γεύση στα κοκτέιλ. Πρόκειται για ένα παχύρρευστο υγρό, που δίνει μια σχετικά αραιή σύσταση στο κοκτέιλ. Τα σιρόπια είναι ιδανικά για χρήση, σε κρύα και ζεστά ροφήματα, σε κοκτέιλ, αλλά ακόμα και σε καφέ, καθώς και σε οτιδήποτε έχει να κάνει με τη ζαχαροπλαστική.Δεν απαιτείται ψύξη. Φυλάσσεται σε θερμοκρασία δωματίου, μακριά από θερμότητα και άμεσο ηλιακό φως.</Description>
-		<EAN>3052910010232</EAN>
-		<Quantity>0</Quantity>
+		<MPN>1212002</MPN>
+		<Description>Monin Σιρόπι Bartender Βανίλια από Μαδαγασκάρη 700 ml
+
+Τα σιρόπια για ποτά είναι απαραίτητο εξοπλισμό για κάθε μπαρ, είτε είναι σπίτι είτε επαγγελματικό. Αποτελούν σημαντικό συστατικό σχεδόν κάθε κοκτέιλ. Η μεγάλη ποικιλία γεύσεων επιτρέπει τη δημιουργία οποιουδήποτε κοκτέιλ. Τα σιρόπια Monin είναι υψηλής ποιότητας και αποτελούν μια ανταγωνιστική προσθήκη σε ποτά, καφέ, επιδόρπια ή μπύρες.
+
+Χαρακτηριστικά προϊόντος:
+
+Χωρητικότητα: 700 ml
+Γεύση: Βανίλια, με τη γεύση της βανίλιας να συνδυάζεται με εξωτικές νότες.
+Χρώμα: Απαλό κεχριμπαρένιο.
+Χρήση: Καφές, επιδόρπια, κοκτέιλ, σέικι.
+Παραγωγός: Monin
+Βασισμένο αποκλειστικά στην καλύτερη ποικιλία παρθένου εκχυλίσματος βανίλιας από τη Μαδαγασκάρη, το σιρόπι βανίλιας MONIN έχει εξαιρετικό άρωμα.</Description>
+		<EAN>3052910056469</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55815</SKU>
-		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Καραμέλα 700ml</Name>
-		<URL>https://www.skroutz.gr/s/32953678/Monin-Siropi-gia-Kokteil-me-Geysi-Karamela-700ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/032953/32953678/20220218094343_monin_siropi_gia_kokteil_me_geysi_karamela_700ml.jpeg</Image>
-		<Price>10.92</Price>
+		<SKU>55813</SKU>
+		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Κανέλα 700ml</Name>
+		<URL>https://www.skroutz.gr/s/22739189/Monin-Siropi-gia-Kokteil-me-Geysi-Kanela-700ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/022739/22739189/xlarge_20220218094349_monin_siropi_gia_kokteil_me_geysi_kanela_700ml.jpeg</Image>
+		<Price>11.63</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1215</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Σιρόπι από τη Γαλλική εταιρεία Μonin, με γεύση καραμέλα. Ιδανικό για την παρασκευή cocktails, mocktails, ροφημάτων και πολλών άλλων. Η καραμέλα είναι καραμελωμένη ζάχαρη, που φτιάχνεται απλά λιώνοντας ζάχαρη σε κατσαρόλα. Η γεμάτη γεύση και το χρώμα προέρχεται από το λιώσιμο της ζάχαρης. Η καραμέλα χρησιμοποιείται σκέτη, αλλά και σαν συστατικό για να φέρει σε αρμονία άλλες γεύσεις. Με το MONIN Caramel οι δυνατότητες δημιουργίας είναι ατελείωτες!</Description>
-		<EAN>3052910006907</EAN>
-		<Quantity>0</Quantity>
+		<MPN>1212003</MPN>
+		<Description>Ανακαλύψτε τον Syrop Barmański Monin Cynamon 700 ml, ένα απαραίτητο σιρόπι για την ενίσχυση των γεύσεων στα ροφήματά σας. Ιδανικό για μπαρ και οικιακή χρήση, προσφέρει ευρεία ποικιλία αρωμάτων για τη δημιουργία κοκτέιλ.
+
+Αυτό το σιρόπι με γεύση κανέλας χαρίζει μια εξωτική και πλούσια αίσθηση, ιδανικό για καφέδες και άλλα γλυκά ποτά. Είναι το κατάλληλο συστατικό για να προσθέσετε φινέτσα και γεύση στα ροφήματά σας.
+
+Δημιουργεί εκπληκτικούς καφέδες και γλυκά.
+Κατάλληλο για ποτά και μπύρα.
+Πλούσια γεύση κανέλας με ελαφρύ άγγιγμα πιπεριού.</Description>
+		<EAN>3052910056476</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>558192</SKU>
-		<Name>Odk Σιρόπι για Κοκτέιλ με Γεύση Elderflower 750ml</Name>
-		<URL>https://www.skroutz.gr/s/32524199/Odk-Siropi-gia-Kokteil-me-Geysi-Elderflower-750ml.html</URL>
-		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-odk-elderflower-syrup.jpg</Image>
-		<Price>11.51</Price>
+		<SKU>55817</SKU>
+		<Name>Monin Γεύση Σιρόπι για Κοκτέιλ με Γεύση Αγγούρι 700ml</Name>
+		<URL>https://www.skroutz.gr/s/53452144/Monin-Geysi-Siropi-gia-Kokteil-me-Geysi-Agouri-700ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/053452/53452144/xlarge_20240514164345_monin_geysi_siropi_gia_kokteil_me_geysi_agouri_700ml.jpeg</Image>
+		<Price>11.63</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
-		<Manufacturer>ORSADRINKS</Manufacturer>
-		<MPN>1216</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Η εταιρεία ODK - ORSA Drinks παράγει πρωτότυπα σιρόπια για cocktails και άλλες δημιουργίες, σε ξεχωριστές γεύσεις. Ευέλικτη και εργονομική συσκευασία. Ισορροπημένη γεύση και μεγάλη περιεκτικότητα σε φρούτα. Αποτελεσματικοί, τόσο στο shaker, όσο και στο blender.</Description>
-		<EAN>8057829312144</EAN>
-		<Quantity>0</Quantity>
+		<Manufacturer>MONIN</Manufacturer>
+		<MPN>1212004</MPN>
+		<Description>Γνωρίζετε τι σημαίνει η φράση "to be cool as a cucumber"; Να παραμένεις ήρεμος και χαλαρός! Αυτή δεν είναι η μόνη αίσθηση που θα νιώσεις όταν δοκιμάσεις το ΜΟΝΙΝ Cucumber. Αυτή η γεύση όχι μόνο ακολουθεί το trend για υγιεινά προϊόντα.</Description>
+		<EAN>3052910041137</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>559023</SKU>
-		<Name>ΚΑΛΛΙΚΟΥΝΗΣ ΣΙΡΟΠΙ ΓΙΑ ΚΟΚΤΕΙΛ ΜΕ ΓΕΥΣΗ ΓΡΕΝΑΔΙΝΗ 700ml</Name>
-		<URL>https://www.skroutz.gr/s/55568266/Kallikounis-Siropi-gia-Kokteil-me-Geysi-Grenadini-700ml.html</URL>
-		<Image>https://i.imgur.com/S7HPCeE.png</Image>
-		<Price>1.79</Price>
+		<SKU>55821</SKU>
+		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Φράουλα 1000ml</Name>
+		<URL>https://www.skroutz.gr/s/32815647/Monin-Poures-gia-Kokteil-me-Geysi-Fraoula-1000ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/032815/32815647/xlarge_20220218100325_monin_poures_cassis_1000ml.jpeg</Image>
+		<Price>17.53</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
-		<Manufacturer>ΚΑΛΛΙΚΟΥΝΗΣ</Manufacturer>
-		<MPN>1217</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Πρόκειται για ένα παραδοσιακό σιρόπι με πλούσια, γλυκιά γεύση και έντονο κόκκινο χρώμα, φτιαγμένο από ρόδι. Ιδανικό για τη δημιουργία κλασικών κοκτέιλ, όπως το Tequila Sunrise και το Shirley Temple, προσθέτει βάθος γεύσης και ζωντάνια σε κάθε ποτό.</Description>
-		<EAN>5203156000619</EAN>
-		<Quantity>93</Quantity>
+		<Manufacturer>MONIN</Manufacturer>
+		<MPN>1213001</MPN>
+		<Description>Χρησιμοποιείται σε Cocktails, ροφήματα, καφέ, ζαχαροπλαστική, μαγειρική
+Έντονες νότες από γινωμένες φράουλες Μεσογείου
+Για πιό φυσική γεύση και αντίληψη ο πουρές έχει τα κουκούτσια της φράουλας</Description>
+		<EAN>3052910033125</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55823</SKU>
+		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Μάνγκο 1000ml</Name>
+		<URL>https://www.skroutz.gr/s/22751141/Monin-Poures-gia-Kokteil-me-Geysi-Mango-1000ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/022751/22751141/xlarge_20200410130340_monin_poures_mango_1000ml.jpeg</Image>
+		<Price>17.53</Price>
+		<Category>Υλικά Κοκτέιλ</Category>
+		<Manufacturer>MONIN</Manufacturer>
+		<MPN>1213002</MPN>
+		<Description>Ο πουρές της εταιρείας Monin, αντικαθιστά τα φρέσκα φρούτα και ενσωματώνει τη γεύση τους στα κοκτέιλ μας. Έχει παχύρρευστη υφή και δίνει μια βελούδινη αίσθηση στο κοκτέιλ. Το μάνγκο είναι ένα από τα πιό συνήθη φρούτα που βρίσκουμε στα τροπικά μέρη. Τα μάνγκο είναι εξίσου νόστιμα σκέτα ή σε φρουτοσαλάτες. Η πορτοκαλοκίτρινη σάρκα τους είναι γλυκιά, ζουμερή και ιδιαίτερα αρωματική. Το Monin Mango Purée αποδίδει τη μοναδική γεύση του φρούτου και είναι ιδανικό για πολλά ροφήματα.
+
+Παρασκευάζεται από συμπυκνωμένο πολτό από μάνγκο και στη συνέχεια προστίθεται η ζάχαρη και το οξύ για να δημιουργήσουν ένα ισορροπημένο προφίλ οξύτητας και γλυκύτητας. Είναι ιδανικός για παρασκευή cocktail, smoothie, γρανίτας, topping, και προϊόντα ζαχαροπλαστικής και μαγειρικής. Δεν απαιτείται ψύξη. Φυλάσσεται σε θερμοκρασία δωματίου, μακριά από θερμότητα και άμεσο ηλιακό φως.
+
+
+
+Σερβίρεται
+Σε ποτήρι tumbler με πάγο. Χρησιμοποιείται σε cocktails, mocktails, ροφήματα, καφές, ζαχαροπλαστική, μαγειρική.</Description>
+		<EAN>3052910033149</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55824</SKU>
+		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Φρούτα του Πάθους 1000ml</Name>
+		<URL>https://www.skroutz.gr/s/22751112/Monin-Poures-gia-Kokteil-me-Geysi-Frouta-tou-Pathous-1000ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/022751/22751112/xlarge_20220218094342_monin_poures_gia_kokteil_me_geysi_frouta_tou_pathous_1000ml.jpeg</Image>
+		<Price>17.53</Price>
+		<Category>Υλικά Κοκτέιλ</Category>
+		<Manufacturer>MONIN</Manufacturer>
+		<MPN>1213003</MPN>
+		<Description>Ο πουρές Passion Fruit δίνει στα cocktail ή στα ροφήματα σας ένα εξωτικό άρωμα. Ο χυμός του φέρει μία πολύ ιδιαίτερη εξωτική γεύση και ένα έντονο πορτοκαλί χρώμα. To Passion Fruit είναι ένα από τα πιό έντονα αρωματικά και πιό προκλητικά φρούτα. Καλλιεργείται σε πολλές τροπικές και ζεστές περιοχές της Αμερικής, της Βόρειας Αφρικής και της Αυστραλίας, και είναι γνωστό με πολλά ονόματα όπως Maracuyá, Chinola, Parcha, Lilikoi, Granadilla, Sweet Cup και πολλά άλλα.</Description>
+		<EAN>3052910033064</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
