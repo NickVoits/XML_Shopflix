@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-19 16:59</created_at>
+	<created_at>2025-06-20 09:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -102,7 +102,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<EAN>75041670</EAN>
-		<Quantity>421</Quantity>
+		<Quantity>397</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -916,7 +916,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Amita από πορτοκάλι το οποίο είναι ο κυριότερος εκπρόσωπος των εσπεριδοειδών και είναι από τα πιο αγαπητά φρούτα στις μεσογειακές χώρες. Είναι πλούσιο σε βιταμίνη C, ενώ χάρη στο φολικό οξύ που περιέχει, βοηθά στο να ξεκινάμε τη μέρα μας με καλή διάθεση. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<EAN>5201005011724</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -961,7 +961,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση μπανάνα σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005001480</EAN>
-		<Quantity>38</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -991,7 +991,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση βύσσινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<EAN>5201005011465</EAN>
-		<Quantity>92</Quantity>
+		<Quantity>80</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1066,7 +1066,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
 		<EAN>5201946911268</EAN>
-		<Quantity>1211</Quantity>
+		<Quantity>1196</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1111,7 +1111,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<EAN>5201946911213</EAN>
-		<Quantity>471</Quantity>
+		<Quantity>456</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1336,7 +1336,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<EAN>90415708</EAN>
-		<Quantity>4811</Quantity>
+		<Quantity>4787</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1395,7 +1395,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Η Three Cents μετέφερε το μοναδικό άρωμα και τη γεύση του φρέσκου ροζ γκρέιπφρουτ σε ένα υψηλής κλάσης αναψυκτικό. Αυτή η κορυφαία σόδα δημιουργείται χρησιμοποιώντας φρέσκα φρούτα και διακρίνεται για το έντονο και πολύπλοκο άρωμά της που ξεχωρίζει στα κοκτέιλ και ποτά, όντας παράλληλα ένα τέλειο αναψυκτικό από μόνη της. Φτιαγμένη ειδικά για την παρασκευή του παραδοσιακού μεξικάνικου ποτού Paloma.</Description>
 		<EAN>5060671000070</EAN>
-		<Quantity>1336</Quantity>
+		<Quantity>1312</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1866,7 +1866,7 @@
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<EAN>5201946010022</EAN>
-		<Quantity>1138</Quantity>
+		<Quantity>1182</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1904,7 +1904,7 @@
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
 		<EAN>5201946013115</EAN>
-		<Quantity>1098</Quantity>
+		<Quantity>1127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1918,7 +1918,7 @@
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345108</EAN>
-		<Quantity>1686</Quantity>
+		<Quantity>1717</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1932,7 +1932,7 @@
 		<MPN>13081</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345122</EAN>
-		<Quantity>1235</Quantity>
+		<Quantity>1259</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1960,7 +1960,7 @@
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
 		<EAN>1520162701990</EAN>
-		<Quantity>420</Quantity>
+		<Quantity>1401</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1974,7 +1974,7 @@
 		<MPN>10180</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
 		<EAN>5201627000939</EAN>
-		<Quantity>713</Quantity>
+		<Quantity>1413</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1988,7 +1988,7 @@
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
 		<EAN>5201627019955</EAN>
-		<Quantity>390</Quantity>
+		<Quantity>1230</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2503,7 +2503,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>256</Quantity>
+		<Quantity>255</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3452,7 +3452,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1323</MPN>
 		<Description>Η Ρόζα είναι ένα τολμηρό στοίχημα του Στέλιου Κεχρή καθώς πρόκειται για μια ρετσίνα σε ροζέ εκδοχή από Ξινόμαυρο. Διαθέτει βαθύ ροζέ χρώμα, με ιώδεις ανταύγειες. Στη μύτη διακρίνονται αρώματα άγριας φράουλας και κερασιού και τομάτας, μαζί με αρώματα μαστίχας και νύξεις βοτανικότητας που προέρχονται από την προσθήκη της ρητίνης. Το βαρέλι προσέδωσε γλυκά αρώματα κανέλας αλλά και βουτύρου. Στο στόμα έχει δροσιστική οξύτητα, με ελαφριά τανική αίσθηση, γεύσεις τομάτας, κερασιού και φράουλας, σε συνδυασμό με νότες βουτύρου.</Description>
 		<EAN>5200101940594</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3887,7 +3887,7 @@ pH: 3.45
 Γευστικό ταίριασμα: Σερβίρεται στους 8-10°C, συνοδεύοντας ευχάριστα πιάτα Μεσογειακής κουζίνας, ψάρια, θαλασσινά, ζυμαρικά και πράσινες σαλάτες.
 </Description>
 		<EAN>5203708140107</EAN>
-		<Quantity>41</Quantity>
+		<Quantity>89</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4294,7 +4294,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1651</MPN>
 		<Description>Επιδόρπιο κρασί με χαρακτηριστικό βαθύ πορτοκαλί-κόκκινο χρώμα και καραμελένιες ανταύγειες. Η ωρίμανση σε βαρέλι για τρία χρόνια προσδίδει έναν μελένιο και μεταξένιο χαρακτήρα. Χαρακτηριστικό του η τραγανή οξύτητα και οι νότες λεμονιού και μελιού ενισχύουν την απαραίτητη φρεσκάδα και ισορροπία.</Description>
 		<EAN>5203885002564</EAN>
-		<Quantity>88</Quantity>
+		<Quantity>85</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4773,7 +4773,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Με έντονη μύτη που παραπέμπει σε λευκά λουλούδια, μικρά κόκκινα μούρα, φρεσκοκομμένες φράουλες και ώριμα Morello κεράσια. Στόμα στρογγυλό και απαλό με αρώματα κερασιού, άγριας φράουλας και με ίχνη αλμύρας. Είναι ισορροπημένο, διαρκές και έχει απαλό τελείωμα. Σερβίρεται στους 10-12˚C και ταιριάζει με κάθε μεσογειακό πιάτο.</Description>
 		<EAN>3296180004250</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4836,7 +4836,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
 		<EAN>8052190350061</EAN>
-		<Quantity>471</Quantity>
+		<Quantity>465</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4851,7 +4851,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Prosecco είναι ένα αφρώδες κρασί που παράγεται στην περιοχή Βένετο της Ιταλίας γύρω από την πόλη του Τρεβίζο περίπου 15 μίλια (24 χιλιόμετρα) βόρεια της Βενετίας. Φτιάχνεται με σταφύλια Prosecco (γνωστά και ως Glera). Παράγεται χρησιμοποιώντας μια οικονομική μέθοδο που ονομάζεται «Μέθοδος Δεξαμενής» (‘Tank Method’).</Description>
 		<EAN>8000570552505</EAN>
-		<Quantity>158</Quantity>
+		<Quantity>152</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5485,7 +5485,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>167102</MPN>
 		<Description>Δημιουργήθηκε το 1923, φέρνοντας μια επανάσταση στην παράδοση των ουίσκι αφού είναι το πρώτο που φτιάχτηκε για να αναμειγνύεται, οδηγώντας τους barmen σε μια περιπέτεια ανακάλυψης νέων cocktails. Απλό και ισορροπημένο, το Cutty Sark είναι το τέλειο blended whisky για πριν το φαγητό. Ζωηρό με αρώματα βοτάνων και ξηρών φρούτων και καρπών. Ελαφρύ και δροσερό με νότες καραμέλας στην επίγευση.</Description>
 		<EAN>5010504100095</EAN>
-		<Quantity>46</Quantity>
+		<Quantity>166</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5499,7 +5499,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<EAN>5010314700003</EAN>
-		<Quantity>143</Quantity>
+		<Quantity>155</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5560,7 +5560,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<EAN>5000281002538</EAN>
-		<Quantity>189</Quantity>
+		<Quantity>321</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5646,7 +5646,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<EAN>5000267024202</EAN>
-		<Quantity>207</Quantity>
+		<Quantity>279</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5676,7 +5676,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Jack Daniel's παράγεται με τον ίδιο παραδοσιακό τρόπο εδώ και 140 χρόνια. Έχει πλούσιο κεχριμπαρένιο χρώμα και ισορροπημένη γεύση με στοιχεία καπνισμένου ξύλου, καραμέλας και βανίλιας.</Description>
 		<EAN>5099873045961</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>29</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5694,7 +5694,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>7312040017683</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5784,7 +5784,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
 		<EAN>5000289925440</EAN>
-		<Quantity>273</Quantity>
+		<Quantity>283</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5813,7 +5813,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1498</MPN>
 		<Description>Το Tanqueray δημιουργήθηκε το 1830 από τον Charles Tanqueray στο Tingrith του Bedfordshire.</Description>
 		<EAN>5000281015248</EAN>
-		<Quantity>83</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5959,7 +5959,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1529</MPN>
 		<Description>Παρασκευασμένο για πρώτη φορά το 1862, το ρούμι Bacardi είναι το αυθεντικό, εύκολο στην ανάμειξη, ελαφρύ ρούμι που παλαιώνει για ένα με δύο χρόνια σε επιλεγμένα δρύινα βαρέλια.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5010677012782</EAN>
-		<Quantity>283</Quantity>
+		<Quantity>281</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6451,7 +6451,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0241</MPN>
 		<Description>Η οδοντόκρεμα Colgate Triple Action ενδείκνυται για καθημερινή χρήση με τριπλή δράση και μέντα.</Description>
 		<EAN>6920354812521</EAN>
-		<Quantity>1465</Quantity>
+		<Quantity>1464</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6493,7 +6493,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0806</MPN>
 		<Description>Οδοντόκρεμα καθημερινής χρήσης με προηγμένη φόρμουλα με μικροκρυστάλλους. Σχεδιασμένη για να αποκαθιστά τη φυσική λευκότητα των δοντιών δύο φορές καλύτερα από ότι μια συνηθισμένη οδοντόκρεμα.</Description>
 		<EAN>7891024137895</EAN>
-		<Quantity>547</Quantity>
+		<Quantity>544</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6591,7 +6591,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1282</MPN>
 		<Description>Βελτιωμένες κεφαλές της σειράς Cross Action με τεχνολογία CleanMaximiser που προσφέρει έως και 100% περισσότερη αφαίρεση πλάκας και πιο υγιή ούλα σε σύγκριση με μια κανονική χειροκίνητη οδοντόβουρτσα.</Description>
 		<EAN>4210201353409</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6787,7 +6787,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1042</MPN>
 		<Description>Οι βρεφικές πάνες Babylino Sensitive Cotton Soft διαθέτουν extra απαλό κάλυμμα με βαμβάκι. Προσφέρουν ολοκληρωμένη προστασία, χωρίς συμβιβασμούς, καθώς συνδυάζουν ΚΑΙ αποδεδειγμένη προστασία αλλά ΚΑΙ sensitive φροντίδα προς το ευαίσθητο βρεφικό δέρμα, σε μία μόνο πάνα!</Description>
 		<EAN>5201263082573</EAN>
-		<Quantity>87</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6886,7 +6886,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>1.6 kg</Weight>
 		<Description>Πάνες Pufies Trusted Trends Maxi 4, Banana leaves baby Value Pack 52 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
 		<EAN>3800024027857</EAN>
-		<Quantity>137</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7034,7 +7034,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Με Λιπαντική Ταινία που Ξεθωριάζει
     Για Απαλό Ξύρισμα</Description>
 		<EAN>8700216331579</EAN>
-		<Quantity>115</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7161,7 +7161,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Aqua, TEA-Palmitate, Oleth-20, Isopentane, Glycerin, Isopropyl Palmitate, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Hydroxyethylcellulose, Hydroxypropyl Methylcellulose, Laureth-2, PEG-90 Glyceryl Isostearate, Polyisobutene, Isobutane, Piroctone Olamine, BHT, Linalool, Parfum</Description>
 		<EAN>4005808222889</EAN>
-		<Quantity>106</Quantity>
+		<Quantity>105</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7509,7 +7509,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
 * Τα επιθέματα Hansaplast εμποδίζουν το 99% της βρωμιάς και των βακτηρίων.</Description>
 		<EAN>4005800110689</EAN>
-		<Quantity>216</Quantity>
+		<Quantity>215</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8829,7 +8829,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1005</MPN>
 		<Description>Ενυδατική βουτυρώδης κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει μέλι και γιαούρτι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας.</Description>
 		<EAN>5208005110020</EAN>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9656,7 +9656,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<EAN>5201410964127</EAN>
-		<Quantity>605</Quantity>
+		<Quantity>598</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10885,7 +10885,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>0937</MPN>
 		<Description>Το Ajax ανανεώνεται με καινούργια σύνθεση, αποτελεσματικότερη και φιλικότερη προς τον πλανήτη μας με 24ωρο Άρωμα Φρεσκάδας! Το Ajax εξελίσσεται όπως και εσείς. Ανώτερη αποτελεσματικότητα σε σύγκριση με την προηγούμενη σύνθεση. 96% βιοδιασπώμενη σύνθεση. Ανακυκλώσιμο μπουκάλι και καπάκι. Μπουκάλι από 100% ανακυκλωμένο πλαστικό. Παρασκευάζεται σε πιστοποιημένο εργοστάσιο μηδενικών αποβλήτων. Παράγεται υπεύθυνα με άρωμα από φυσικά εκχυλίσματα. Με 99% συστατικά φυσικής προέλευσης και 100% καθαριστική δύναμη.</Description>
 		<EAN>8718951333512</EAN>
-		<Quantity>134</Quantity>
+		<Quantity>132</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11236,7 +11236,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Η δεξαμενή πάνω στο κοντάρι, εξασφαλίζει γρήγορη και αποτελεσματική καθαριότητα χωρίς την χρήση κουβά. Μπορείτε να προσθέσετε στην δεξαμενή το απορρυπαντικό της επιλογής σας χρησιμοποιώντας τον ειδικό δοσομετρητή
     Πανί 100% μικροϊνών που προσφέρουν απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)</Description>
 		<EAN>4023103222755</EAN>
-		<Quantity>25</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11253,7 +11253,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Οι γκρί και κόκκινες μικροΐνες προσφέρουν βαθύ καθαρισμό ακόμα και της πιο επίμονης βρωμιάς, ενώ οι λευκές μικροΐνες εξασφαλίζουν μέγιστη καθαριστική απόδοση και αστραφτερά πατώματα
     Η σύνθεσή του από 100% μικροΐνες προσφέρουν μέγιστη απορροφητικότητα, καθαριστή απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας).</Description>
 		<EAN>4023103199217</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12120,7 +12120,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>0850</MPN>
 		<Description>Το κερί αφιέρωσης από πλαστικό της εταιρείας Bispol είναι βραδύκαυστο και μεγάλης διάρκειας. Η παραφίνη δίνει σταθερή διάρκεια καύσης και έτσι παραμένει αναμμένο για μεγάλο χρονικό διάστημα.</Description>
 		<EAN>5906927007656</EAN>
-		<Quantity>594</Quantity>
+		<Quantity>564</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13117,7 +13117,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1463</MPN>
 		<Description>Φίλτρο Νεροχύτη από την εταιρεία Cyclops, με οπές σε όλο το προϊόν για εύκολη ροή νερού και συγκράτηση των απορριμάτων.Υλικό: InoxΣχήμα: ΣτρογγυλόΔιάμετρος: 7cm</Description>
 		<EAN>5202707001334</EAN>
-		<Quantity>182</Quantity>
+		<Quantity>176</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13751,7 +13751,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
 Διατηρεί τα ρούχα καθαρά και τακτοποιημένα, προστατεύοντάς τα από σκόνη, βρωμιά, υγρασία.</Description>
 		<EAN>5203642142656</EAN>
-		<Quantity>292</Quantity>
+		<Quantity>280</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14735,7 +14735,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134415</EAN>
-		<Quantity>174</Quantity>
+		<Quantity>172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15269,7 +15269,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<EAN>7449138607</EAN>
-		<Quantity>229</Quantity>
+		<Quantity>221</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15818,7 +15818,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>0667</MPN>
 		<Description>• Κατασκευασμένο από πλαστικό• Τετράγωνος σχεδιασμός• Ενσωματωμένο καπάκι• Μιας χρήσεως</Description>
 		<EAN>promitheas-15202054472211</EAN>
-		<Quantity>39</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16800,7 +16800,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Διαστάσεις: 345 x 140 x 65 mm
     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
 		<EAN>5901299932025</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16897,7 +16897,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
 		<EAN>5207146013931</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18737,7 +18737,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<EAN>5410853039334</EAN>
-		<Quantity>521</Quantity>
+		<Quantity>519</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18751,7 +18751,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<EAN>5410853039273</EAN>
-		<Quantity>474</Quantity>
+		<Quantity>473</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19081,7 +19081,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Αδιάβροχο: Όχι
 </Description>
 		<EAN>5203642145374-black</EAN>
-		<Quantity>95</Quantity>
+		<Quantity>94</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19281,7 +19281,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1517</MPN>
 		<Description>Σακούλες Ηλεκτρικής Σκούπας BS7 BOSCH / SIEMENS D/E/F/G/H.</Description>
 		<EAN>8710881345610</EAN>
-		<Quantity>21</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19622,7 +19622,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.7 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<EAN>5901299949849</EAN>
-		<Quantity>64</Quantity>
+		<Quantity>63</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20055,7 +20055,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Θερμοκρασία εργασίας: 0° C - 40° C
     Διαστάσεις: 54.5x32x3cm</Description>
 		<EAN>5901299954935</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20325,7 +20325,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1544</MPN>
 		<Description>Φορτιστής αυτοκινήτου που εφαρμόζει άμεσα στη θέση του αναπτήρα ώστε να φορτίζετε τις συσκευές σας στο ταξίδι, την εκδρομή ή τη διαδρομή για τη δουλειά. Διαθέτει 2 θύρες USB για τη φόρτιση του tablet ή του smartphone σας. Η συνολική απόδοση του φορτιστή είναι 3.1 Ampere και σε συνδυασμό με την τεχνολογία Fast Charge, μπορείτε να φορτίζετε τις συσκευές σας πιο γρήγορα από έναν απλό φορτιστή.    Συνολική Ένταση Ρεύματος Φορτιστή: 3.1A    Σύνολο Θυρών: 2</Description>
 		<EAN>5205308276200</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20706,7 +20706,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικό και είναι αποτελεσματικό για τη χρήση που του κάνεις.</Description>
 		<EAN>6941027606773</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20926,7 +20926,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 
 Χρώμα: Μαύρο</Description>
 		<EAN>6920680858705</EAN>
-		<Quantity>45</Quantity>
+		<Quantity>41</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21398,7 +21398,7 @@ XO-EP57
 		<MPN>1723</MPN>
 		<Description>Ο δέκτης Ugreen CM596 Bluetooth 5.3 AUX είναι ένα εξαιρετικό εργαλείο που θα σας επιτρέψει να συνδέετε απρόσκοπτα ασύρματες συσκευές με αυτές που έχουν μόνο ενσύρματη είσοδο. Χάρη στην τελευταία τεχνολογία Bluetooth 5.3, το CM596 παρέχει εξαιρετικά γρήγορη και σταθερή μετάδοση ήχου, καθώς και ευρεία συμβατότητα με διάφορες συσκευές.</Description>
 		<EAN>6957303897483</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21437,7 +21437,7 @@ XO-EP57
     Εμβέλεια Bluetooth έως 10 μέτρα
     Λυχνία LED ένδειξης λειτουργίας</Description>
 		<EAN>6957303876013</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21668,7 +21668,7 @@ XO-EP57
     150 λειτουργίες γυμναστικής
     24ωρη Προστασία υγείας</Description>
 		<EAN>6941812722916</EAN>
-		<Quantity>18</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22182,7 +22182,7 @@ XO-EP57
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί ανταποκρίνεται με ακρίβεια στις κινήσεις του χεριού και έχει το κατάλληλο βάρος.</Description>
 		<EAN>5099206041271</EAN>
-		<Quantity>46</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22399,7 +22399,7 @@ Silicon Power - USB Stick Silicon Power</Description>
 		<MPN>MS105</MPN>
 		<Description>Σχεδόν το ίδιο μέγεθος με μια πιστωτική κάρτα, η MS105 μπορεί να τοποθετηθεί οπουδήποτε στο σπίτι σας χωρίς να καταλαμβάνει πολύ χώρο. Ο σχεδιασμός του χωρίς ανεμιστήρα του επιτρέπει να παραμένει διακριτικός, ανεξάρτητα από το πόσο καιρό λειτουργεί.</Description>
 		<EAN>6957939000363</EAN>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23841,7 +23841,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 400 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270000021</EAN>
-		<Quantity>57</Quantity>
+		<Quantity>157</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23886,7 +23886,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>1.5 kg</Weight>
 		<Description>Διατίθεται σε συσκευασία 2+1 δώρο. Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 500 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270900024</EAN>
-		<Quantity>69</Quantity>
+		<Quantity>119</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23901,7 +23901,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 1 κιλού. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270010051</EAN>
-		<Quantity>55</Quantity>
+		<Quantity>253</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23916,7 +23916,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό ημίχονδρο αλάτι της εταιρείας Γλάρος σε συσκευασία 1000 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270011058</EAN>
-		<Quantity>75</Quantity>
+		<Quantity>74</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23961,7 +23961,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>12 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 12 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270030080</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24006,7 +24006,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Αλάτι Ιμαλαΐων της εταιρείας Γλάρος σε συσκευασία 400 γραμμαρίων. Το αλάτι αυτό περιέχει έως και 84 διαφορετικά στοιχεία, μερικά εκ των οποίων είναι απαραίτητα για τον ανθρώπινο οργανισμό. Χρησιμοποιείται με τον ίδιο τρόπο όπως το συνηθισμένο αλάτι, στο μαγείρεμα, σαν καρύκευμα στο φαγητό καθώς και στη συντήρηση των τροφίμων και στην παρασκευή παστών ψαριών και τουρσί. Έχει κοκκινωπό ή ροζ χρώμα, με ορισμένους κρυστάλλους να έχουν ένα υπόλευκο προς διαφανές χρώμα.</Description>
 		<EAN>5203270000175</EAN>
-		<Quantity>44</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24021,7 +24021,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Κρυσταλλικό αλάτι Ιμαλάιων που δημιουργήθηκε κατά την εξάτμιση του νερού των πρώτων ωκεανών, κρυσταλλοποίηθηκε μέσα στη γη και γι αυτό το λόγο είναι προστατευμένο από την περιβαλλοντική μόλυνση και πλήρως απαλλαγμένο από τοξίνες και ρύπους. Το αλάτι Ιμαλάιων εξορύσσεται και ξεπλένετε με τα χέρια, στεγνώνει φυσικά στον ήλιο και δεν περιέχει πρόσθετες ουσίες,</Description>
 		<EAN>5203270000151</EAN>
-		<Quantity>33</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24620,7 +24620,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Κρακεράκια μίνι της εταιρείας Gullon σε στρογγυλό σχήμα με αλάτι.</Description>
 		<EAN>8410376014051</EAN>
-		<Quantity>56</Quantity>
+		<Quantity>50</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
