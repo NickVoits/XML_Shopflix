@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-28 16:05</created_at>
+	<created_at>2025-06-28 16:48</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -237,7 +237,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>241</Quantity>
+		<Quantity>240</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13814,7 +13814,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN> E-0053</MPN>
 		<Description>Πλαστική αεροστεγής σακούλα κενού αέρος για την αποθήκευση ρούχων και ογκώδη λευκών ειδών όπως κλινοσκεπάσματα. Είναι αδιάβροχη και επαναχρησιμοποιούμενη, ενώ διαθέτει ειδική βαλβίδα αφαίρεσης αέρα για την καλύτερη οργάνωση της ντουλάπας σας.</Description>
 		<EAN>5203642100533</EAN>
-		<Quantity>462</Quantity>
+		<Quantity>459</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13833,7 +13833,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Νέα βαλβίδα συμπίεσης 35% πιο γρήγορη
     Διαστάσεις: 100x60cm</Description>
 		<EAN>5203642100540</EAN>
-		<Quantity>444</Quantity>
+		<Quantity>441</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13847,7 +13847,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN> E-0055</MPN>
 		<Description>Θήκη αποθήκευσης κενού αέρος, ιδανική για ρούχα, κλινοσκεπάματα και διάφορα ογκώδη είδη. Διαθέτει ειδικό στόμιο αποσυμπίεσης του αέρα, είναι αεροστεγής, αδιάβροχη και επαναχρησιμοποιούμενη. Διαστάσεις: 120x70cm</Description>
 		<EAN>5203642100557</EAN>
-		<Quantity>636</Quantity>
+		<Quantity>634</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14654,7 +14654,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Διαστάσεις σάκου: 42 x 30 x 51 cm
     Συνολικές διαστάσεις: 50 x 33 x 72 cm</Description>
 		<EAN>0194343043494</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21543,7 +21543,7 @@ XO-EP57
 		<Name>Ugreen Car Audio Receiver Bluetooth 5.3 MIC/AUX/USB-C CM596 (90748)</Name>
 		<URL>https://www.skroutz.gr/s/48477205/Ugreen-Bluetooth-Aytokinitou-CM596-gia-to-Ichosystima-AUX-90748.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/048477/48477205/20250123165621_ugreen_bluetooth_aytokinitou_cm596_gia_to_ichosystima_aux_90748.jpeg</Image>
-		<Price>14.09</Price>
+		<Price>15</Price>
 		<Category>Bluetooth Car Kit</Category>
 		<Manufacturer>UGREEN</Manufacturer>
 		<MPN>1723</MPN>
@@ -21557,7 +21557,7 @@ XO-EP57
 		<Name>Ugreen Car Audio Receiver Bluetooth 5.4 MIC/AUX/USB-A CM723 (35002)</Name>
 		<URL>https://www.skroutz.gr/s/55813121/Ugreen-Bluetooth-Aytokinitou-CM723-gia-to-Tamplo-35002.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/055813/55813121/20240909133505_ugreen_bluetooth_aytokinitou_gia_to_tamplo.jpeg</Image>
-		<Price>16.55</Price>
+		<Price>17.99</Price>
 		<Category>Bluetooth Car Kit</Category>
 		<Manufacturer>UGREEN</Manufacturer>
 		<MPN>1724</MPN>
@@ -21596,7 +21596,7 @@ XO-EP57
 		<Name>Baseus Car Audio Receiver Bluetooth MIC/AUX/USB-A CABA01-01</Name>
 		<URL>https://www.skroutz.gr/s/20125385/Baseus-Bluetooth-Aytokinitou-CABA01-01-Audio-Receiver-AUX-CABA01-01.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/020125/20125385/xlarge_20200228165848_baseus_caba01_01.jpeg</Image>
-		<Price>6.33</Price>
+		<Price>6.24</Price>
 		<Category>Bluetooth Car Kit</Category>
 		<Manufacturer>Baseus</Manufacturer>
 		<MPN> CABA01-01</MPN>
@@ -21654,7 +21654,7 @@ XO-EP57
 		<Name>XO Lighted Power Bank 10000mAh με 2 Θύρες USB-A Μαύρο PR251-60487</Name>
 		<URL>https://www.skroutz.gr/s/57571244/XO-PR251-Lighted-Power-Bank-10000mAh-me-2-THyres-USB-A-Mayro.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/057571/57571244/xlarge_20241120144442_xo_pr251_lighted_power_bank_10000mah_me_2_thyres_usb_a_mayro.jpeg</Image>
-		<Price>7.42</Price>
+		<Price>7.5</Price>
 		<Category>Power Banks</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>16.001.0178</MPN>
@@ -21686,7 +21686,7 @@ XO-EP57
 		<Name>XO MagSafe Power Bank 10000mAh 15W Quick Charge 2.0 Μαύρο PR231-51454</Name>
 		<URL>https://www.skroutz.gr/s/48956658/XO-PR231-MagSafe-Power-Bank-10000mAh-15W-Quick-Charge-2-0-Mayro.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/048956/48956658/xlarge_20231227135220_xo_pr231_power_bank_10000mah_15w_mayro.jpeg</Image>
-		<Price>23.19</Price>
+		<Price>22</Price>
 		<Category>Power Banks</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>PR231-51454</MPN>
@@ -21723,7 +21723,7 @@ XO-EP57
 		<Name>WK MagSafe Power Bank 10000mAh 20W USB-C PDx1 Grey (WP-17)</Name>
 		<URL>https://www.skroutz.gr/s/58187155/WK-WP-17-MagSafe-Power-Bank-10000mAh-20W-me-2-THyres-USB-C-Power-Delivery-Mayro.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/058187/58187155/20250107111009_wk_wp_17_magsafe_power_bank_10000mah_20w_me_2_thyres_usb_c_power_delivery_mayro.jpeg</Image>
-		<Price>26.66</Price>
+		<Price>30.36</Price>
 		<Category>Power Banks</Category>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>250809</MPN>
@@ -21845,7 +21845,7 @@ XO-EP57
 		<Name>Trevi Επιτραπέζιο Ρολόι με Ξυπνητήρι και Δείκτη Θερμοκρασίας SL3P27</Name>
 		<URL>https://www.skroutz.gr/s/27345990/Trevi-Epitrapezio-Roloi-me-Xypnitiri-SL-3P27.html#description</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027345/27345990/fixedratio_20211103144016_trevi_epitrapezio_roloi_me_xypnitiri_sl_3p27.jpeg</Image>
-		<Price>11.6260416</Price>
+		<Price>12.11</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3P27</MPN>
@@ -21870,7 +21870,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/yyvazryfrg-sl-3048-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/0000008868_A_0304800.JPG</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/0000007928_A_0304800.JPG https://www.trevi.it/dms/zidi/TREVI/SL%203048%20espositore%202019.jpg</Additional_Image>
-		<Price>7.79628672</Price>
+		<Price>8.12</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3048</MPN>
@@ -21885,7 +21885,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/yyvazryfrg-sl-3048-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/0000008867_A_0304800.JPG</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/0000007928_A_0304800.JPG https://www.trevi.it/dms/zidi/TREVI/SL%203048%20espositore%202019.jpg</Additional_Image>
-		<Price>7.79628672</Price>
+		<Price>8.12</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3048</MPN>
@@ -21900,7 +21900,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/yyvazryfrg-sl-3048-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/0000008864_A_0304800.JPG</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/0000007928_A_0304800.JPG https://www.trevi.it/dms/zidi/TREVI/SL%203048%20espositore%202019.jpg</Additional_Image>
-		<Price>7.79628672</Price>
+		<Price>8.12</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3048</MPN>
@@ -21915,7 +21915,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/yyvazryfrg-sl-3048-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/0000008866_A_0304800.JPG</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/0000007928_A_0304800.JPG https://www.trevi.it/dms/zidi/TREVI/SL%203048%20espositore%202019.jpg</Additional_Image>
-		<Price>7.79628672</Price>
+		<Price>8.12</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3048</MPN>
@@ -21930,7 +21930,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/yyvazryfrg-sl-3048-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/0000008865_A_0304800.JPG</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/0000007928_A_0304800.JPG https://www.trevi.it/dms/zidi/TREVI/SL%203048%20espositore%202019.jpg</Additional_Image>
-		<Price>7.79628672</Price>
+		<Price>8.12</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3048</MPN>
@@ -21945,7 +21945,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/alkijwwkec-sl-3056-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20white%20front.jpg</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20foto%20gruppo.jpg</Additional_Image>
-		<Price>10.6002144</Price>
+		<Price>11.04</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3056</MPN>
@@ -21966,7 +21966,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/alkijwwkec-sl-3056-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20black%20front.jpg</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20foto%20gruppo.jpg</Additional_Image>
-		<Price>10.6002144</Price>
+		<Price>11.04</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3056</MPN>
@@ -21987,7 +21987,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/alkijwwkec-sl-3056-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20blue%20front.jpg</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20foto%20gruppo.jpg</Additional_Image>
-		<Price>10.6002144</Price>
+		<Price>11.04</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3056</MPN>
@@ -22008,7 +22008,7 @@ XO-EP57
 		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/alkijwwkec-sl-3056-sveglia-al-quarzo-mix-colour.html</URL>
 		<Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20orange%20front.jpg</Image>
 		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20foto%20gruppo.jpg</Additional_Image>
-		<Price>10.6002144</Price>
+		<Price>11.04</Price>
 		<Category>Επιτραπέζια Ρολόγια</Category>
 		<Manufacturer>Trevi</Manufacturer>
 		<MPN>SL3056</MPN>
@@ -22197,7 +22197,7 @@ XO-EP57
 		<Name>XO Μεταλλική 360° Περιστρεφόμενη Επιτραπέζια Βάση Κινητού Μαύρη C151-59177</Name>
 		<URL>https://www.skroutz.gr/s/55660347/Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma-C151.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/055660/55660347/xlarge_20240830100819_vasi_grafeiou_gia_kinito_se_mayro_chroma_c151.jpeg</Image>
-		<Price>1.69</Price>
+		<Price>1.60425</Price>
 		<Category>Βάσεις Στήριξης Κινητών</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN> 16.006.0287</MPN>
@@ -22217,7 +22217,7 @@ XO-EP57
 		<Name>XO Πτυσσόμενη  Βάση Γραφείου για Κινητό Λευκή C143-57494</Name>
 		<URL>https://www.skroutz.gr/s/54342349/XO-C143-Vasi-Grafeiou-gia-Kinito.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/054342/54342349/xlarge_20240612155256_xo_c143_vasi_grafeiou_gia_kinito.jpeg</Image>
-		<Price>1.52</Price>
+		<Price>1.43685</Price>
 		<Category>Βάσεις Στήριξης Κινητών</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN> 16.006.0257</MPN>
@@ -22235,7 +22235,7 @@ XO-EP57
 		<Name>XO Βάση Κινητού για Καθρέπτη Αυτοκινήτου με Ρυθμιζόμενα Άγκιστρα 5" - 6,9" Μαύρη C115-33542</Name>
 		<URL>https://www.skroutz.gr/s/42363542/XO-C115-Vasi-Kinitou-Aytokinitou-5-6-9-me-Rythmizomena-Agistra-Mayri-16-006-0196.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/042363/42363542/xlarge_20230516120652_xo_vasi_kinitou_aytokinitou_c115_me_rythmizomena_agistra_mayri_xo_c115.jpeg</Image>
-		<Price>4.41</Price>
+		<Price>3.947849999999999</Price>
 		<Category>Βάσεις Στήριξης Κινητών</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>C115-33542</MPN>
@@ -22262,7 +22262,7 @@ XO-EP57
 		<Name>XO Βάση Κινητού Αυτοκινήτου με Βεντούζα ή Αεραγωγού με Ρυθμιζόμενα Άγκιστρα 4" - 6" Μαύρη C60-72596</Name>
 		<URL>https://www.skroutz.gr/s/27255082/XO-C60-Vasi-Kinitou-Aytokinitou-4-6-me-Rythmizomena-Agistra-Mayri-16-006-0047.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/027255/27255082/xlarge_20210428173006_xo_vasi_stirixis_kinitou_aytokinitou_c60_car_holder_gravity_universal_black_ori_026_17_011.jpeg</Image>
-		<Price>4</Price>
+		<Price>3.6828</Price>
 		<Category>Βάσεις Στήριξης Κινητών</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN> 16.006.0047</MPN>
@@ -22280,7 +22280,7 @@ XO-EP57
 		<Name>XO Μεταλλική Επιτραπέζια Βάση για Κινητό και Tablet Μαύρη C135-45781</Name>
 		<URL>https://www.skroutz.gr/s/51292903/XO-Vasi-Grafeiou-gia-Kinito-se-Gri-chroma-XO-C135TR.html#reviews</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/051292/51292903/xlarge_20240313141046_xo_vasi_grafeiou_gia_kinito_se_gri_chroma_xo_c135tr.jpeg</Image>
-		<Price>3.31</Price>
+		<Price>3.30615</Price>
 		<Category>Βάσεις Στήριξης Κινητών</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN> C135-45781</MPN>
@@ -22838,7 +22838,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Name>XO Σάκος Πλάτης για Laptop 15,6" Αδιάβροχος Πολυεστερικός σε Μαύρο χρώμα CB02-46412</Name>
 		<URL>https://www.skroutz.gr/s/48518622/XO-Adiavrochi-Tsanta-Platis-gia-Laptop-15-6-se-Mayro-chroma-16-001-0102.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/048518/48518622/fixedratio_20231201102104_xo_adiavrochi_tsanta_platis_gia_laptop_15_6_xo_cb02bk.jpeg</Image>
-		<Price>14.19</Price>
+		<Price>15.43</Price>
 		<Category>Τσάντες Laptop</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>CB02-46412</MPN>
@@ -22854,7 +22854,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<Name>XO Σάκος Πλάτης για Laptop 17" Αδιάβροχος Πολυεστερικός σε Μαύρο χρώμα CB02-52710</Name>
 		<URL>https://www.skroutz.gr/s/54376055/XO-Cb02-Adiavrochi-Tsanta-Platis-gia-Laptop-17-se-Mayro-chroma.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/054376/54376055/fixedratio_20240614111038_xo_cb02_adiavrochi_tsanta_platis_gia_laptop_15_6_se_mayro_chroma.jpeg</Image>
-		<Price>15.45</Price>
+		<Price>16.8</Price>
 		<Category>Τσάντες Laptop</Category>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>CB02-52710</MPN>
@@ -25490,7 +25490,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>302</Quantity>
+		<Quantity>301</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
