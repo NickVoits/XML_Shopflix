@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-07-18 17:05</created_at>
+	<created_at>2025-07-18 17:27</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -44,6 +44,18 @@
 		<Description>Ο μηλίτης της εταιρείας Μηλοκλέφτης είναι ένα αλκοολούχο ποτό που δημιουργείται μέσω της ζύμωσης, με βασικό συστατικό το χυμό μήλο. Το χρώμα και η γεύση του εξαρτάται από το φιλτράρισμα του προϊόντος κατά την παραγωγή του, καθώς και στην ποικιλία των μήλων που περιέχει. Αλκοόλ : 4.5%</Description>
 		<EAN>5201261900046</EAN>
 		<Quantity>649</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>31071</SKU>
+		<Name>Sol Pale Lager Φιάλη 330ml</Name>
+		<URL>https://www.skroutz.gr/s/6814160/Sol-Pale-Lager-Fiali-330ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/006814/6814160/xlarge_20200314135137_sol_fiali_330ml.jpeg</Image>
+		<Price>1.54</Price>
+		<Category>Μπύρες</Category>
+		<Manufacturer>Sol</Manufacturer>
+		<Description>Απαλό άρωμα λυκίσκου και δροσιστική γεύση που συνδυάζεται ιδανικά με λάιμ. Τα αρώματα εσπεριδοειδών ταιριάζουν πάρα πολύ με την μπύρα γενικώς και θα μπορούσε κάποιος που του αρέσει πολύ το άρωμα και η γεύση του λάιμ να το προσθέτει σχεδόν σε ολες τις lager και όχι μόνο στις Μεξικάνικες!</Description>
+		<EAN>52103049</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3769,7 +3781,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<MPN>1527</MPN>
 		<Description>Το "Idylle D' Achinos"  αποτελεί μία από τις καινούργιες δημιουργίες του οινοποιείου La Tour Melas.</Description>
 		<EAN>5214000516651</EAN>
-		<Quantity>221</Quantity>
+		<Quantity>219</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4249,7 +4261,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1484</MPN>
 		<Description>Thema λευκό με ανοιχτό κιτρινοπράσινο χρώμα. Σύνθετη μύτη που ξεκινά με έντονα φρουτώδη αρώματα εξωτικών φρούτων και συνεχίζει με σύνθετες νότες από κίτρο και ροδάκινο.</Description>
 		<EAN>5200104241018</EAN>
-		<Quantity>158</Quantity>
+		<Quantity>157</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4517,7 +4529,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Το χρώμα του κρασιού είναι λαμπερό, υποκίτρινο με πράσινες ανταύγειες. Η μύτη χαρακτηρίζεται από επίμονο, όλο φρεσκάδα άρωμα εσπεριδοειδών και μάνγκο. Στο στόμα η αφυπνιστική οξύτητα συνδυάζεται με τη διακριτική λιπαρότητα. </Description>
 		<EAN>837048000132</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7715,6 +7727,24 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>641631</SKU>
+		<Name>Iasin Αλκοολούχος Λοσιόν Οινοπνεύματος με Άρωμα Χαμομηλιού και Γλυκερίνης 410ml 70%vol.    </Name>
+		<URL>https://www.skroutz.gr/s/55615582/Iasin-Losion-Oinopneymatos-410ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/055615/55615582/xlarge_20240827160714_iasin_losion_oinopneymatos_410ml.jpeg</Image>
+		<Price>1.19</Price>
+		<Category>Αντισηπτικά Τραύματος</Category>
+		<Manufacturer>Iasin</Manufacturer>
+		<MPN>942101</MPN>
+		<Description>Η λοσιόν οινοπνεύματος αποτελεί έναν εξαιρετικό σύμμαχο για την περιποίηση των τραυμάτων και την απολύμανση του δέρματος. Περιέχει υψηλή συγκέντρωση αιθυλικής αλκοόλης, νερό και άλλες απαραίτητες ουσίες που είναι κατάλληλες για το δέρμα. Χρησιμοποιείται ως αντισηπτικό για την καθαριότητα των πληγών, προσφέροντας αποτελεσματική προστασία κατά των μικροβίων. Είναι καλό να γνωρίζεις ότι, εφόσον χρησιμοποιηθεί για παρατεταμένο χρονικό διάστημα, μπορεί να ξηράνει τα χέρια σου, προκαλώντας ερεθισμούς.
+
+Η σωστή διαδικασία περιποίησης μιας πληγής περιλαμβάνει αρχικά το πλύσιμο των χεριών σου με σαπούνι και νερό ή την απολύμανση με τη λοσιόν οινοπνεύματος για να εξασφαλιστεί η καθαριότητα. Αν η πληγή αιμορραγεί, πίεσε απαλά με μια γάζα ή καθαρό πανί για να σταματήσεις την αιμορραγία. Στη συνέχεια, ξέπλυνε την πληγή με φυσιολογικό ορό ή καθαρό νερό για να απομακρυνθούν τυχόν ακαθαρσίες. Αφού σταματήσει η αιμορραγία και καθαρίσει η πληγή, μπορείς να την καλύψεις με αποστειρωμένο επίθεμα ή γάζα, αφού πρώτα απολυμάνεις την περιοχή.
+
+Η λοσιόν έρχεται σε ποσότητα 410ml, προσφέροντάς σου αρκετό προϊόν για πολλές χρήσεις. Είναι ιδανική επιλογή για κάθε σπίτι, προκειμένου να διατηρείς την υγειά σου και την υγιεινή των πληγών σου.</Description>
+		<EAN>5206991134624</EAN>
+		<Quantity>759</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>64164</SKU>
 		<Name>Iasin Λοσιόν Οινοπνεύματος 410ml 95%vol.</Name>
 		<URL>https://www.skroutz.gr/s/55615580/Iasin-Losion-Oinopneymatos-410ml.html</URL>
@@ -8758,7 +8788,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1254</MPN>
 		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>8008970011158</EAN>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10358,6 +10388,20 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>720010101</SKU>
+		<Name>Fairy Ultra Original Υγρό Πιάτων 350ml (Ελληνικό)</Name>
+		<URL>https://www.skroutz.gr/s/58922288/Fairy-Original-Ygro-Piaton-350ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/058922/58922288/xlarge_20250425161458_fairy_original_ygro_piaton_350ml.jpeg</Image>
+		<Price>1.71</Price>
+		<Category>Υγρά Πιάτων</Category>
+		<Manufacturer>FAIRY</Manufacturer>
+		<MPN>1100101</MPN>
+		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
+		<EAN>8700216713023</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>72001</SKU>
 		<Name>Fairy Ultra Original Υγρό Πιάτων 400ml</Name>
 		<URL>https://www.skroutz.gr/s/22513299/Fairy-Ultra-Original-Ygro-Piaton-400ml.html</URL>
@@ -11259,7 +11303,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>278</Quantity>
+		<Quantity>276</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14891,7 +14935,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134439</EAN>
-		<Quantity>337</Quantity>
+		<Quantity>336</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17127,7 +17171,7 @@ mini markets
     Εγγράψιμες / Aδιάβροχες
 </Description>
 		<EAN>5207146013955</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17145,7 +17189,7 @@ mini markets
     Πάχος: 80 micron
     Συσκευασία: 100 τεμάχια</Description>
 		<EAN>5207146013818</EAN>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17168,7 +17212,7 @@ mini markets
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
 		<EAN>5207146013931</EAN>
-		<Quantity>77</Quantity>
+		<Quantity>76</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17182,7 +17226,7 @@ mini markets
 		<MPN>LP04080</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης κατάλληλα για κάθε συσκευή πλαστικοποίησης. Με τα δίφυλλα πλαστικοποίησης της εταιρείας Typotrust, έχετε αποτέλεσμα και αντοχή στον χρόνο.</Description>
 		<EAN>5207146013795</EAN>
-		<Quantity>112</Quantity>
+		<Quantity>110</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
