@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-07-29 16:05</created_at>
+	<created_at>2025-07-29 16:48</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -51,9 +51,10 @@
 		<Name>Sol Pale Lager Φιάλη 330ml</Name>
 		<URL>https://www.skroutz.gr/s/6814160/Sol-Pale-Lager-Fiali-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/006814/6814160/xlarge_20200314135137_sol_fiali_330ml.jpeg</Image>
-		<Price>1.54</Price>
+		<Price>1.23</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>Sol</Manufacturer>
+		<MPN>1193001</MPN>
 		<Description>Απαλό άρωμα λυκίσκου και δροσιστική γεύση που συνδυάζεται ιδανικά με λάιμ. Τα αρώματα εσπεριδοειδών ταιριάζουν πάρα πολύ με την μπύρα γενικώς και θα μπορούσε κάποιος που του αρέσει πολύ το άρωμα και η γεύση του λάιμ να το προσθέτει σχεδόν σε ολες τις lager και όχι μόνο στις Μεξικάνικες!</Description>
 		<EAN>52103049</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
@@ -234,7 +235,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>526</Quantity>
+		<Quantity>514</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -651,7 +652,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>472</Quantity>
+		<Quantity>467</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -666,7 +667,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>317</Quantity>
+		<Quantity>312</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -714,7 +715,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000317698</EAN>
-		<Quantity>88</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1371,7 +1372,7 @@
 		<Name>Monster Green Energy  Drink με Ανθρακικό σε Κουτί 500ml</Name>
 		<URL>https://www.skroutz.gr/s/23940756/Monster-Kouti-Energy-Drink-me-Anthrakiko-500ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023940/23940756/20200708121022_monster_energy_drink_500ml.jpeg</Image>
-		<Price>1.1251071</Price>
+		<Price>1.08</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>MONSTER</Manufacturer>
 		<MPN>1304</MPN>
@@ -1386,7 +1387,7 @@
 		<Name>Monster Ultra Energy Drink White με Ανθρακικό, Χωρίς Ζάχαρη σε Κουτί 500ml</Name>
 		<URL>https://www.skroutz.gr/s/23940841/Monster-Ultra-Energy-Drink-White-me-Anthrakiko-CHoris-Zachari-se-Kouti-500ml.html#reviews</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023940/23940841/xlarge_20200708121112_monster_energy_drink_ultra_500ml.jpeg</Image>
-		<Price>1.1251071</Price>
+		<Price>1.08</Price>
 		<Category>Αναψυκτικά</Category>
 		<Manufacturer>MONSTER</Manufacturer>
 		<MPN>1782</MPN>
@@ -1972,7 +1973,7 @@
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
 		<EAN>1520162701990</EAN>
-		<Quantity>497</Quantity>
+		<Quantity>485</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2440,7 +2441,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100325</EAN>
-		<Quantity>156</Quantity>
+		<Quantity>152</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2515,7 +2516,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>186</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2530,7 +2531,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>105</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7062,7 +7063,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0629</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως από ανοξείδωτο ατσάλι, μονής λεπίδας, με επικάλυψη πολυμερούς και χρωμίου. Προσαρμοσμένο για ευαίσθητες επιδερμίδες. Με λευκή πολυεστερική σταθερή κεφαλή.</Description>
 		<EAN>5201313008652</EAN>
-		<Quantity>271</Quantity>
+		<Quantity>270</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7132,7 +7133,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1678</MPN>
 		<Description>Ένας αφρός ξυρίσματος για βαθύ και εξαιρετικά ευχάριστο ξύρισμα που προστατεύει από εκδορές, μικρο-κοψίματα και ερεθισμούς</Description>
 		<EAN>4005808222490</EAN>
-		<Quantity>169</Quantity>
+		<Quantity>167</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9711,7 +9712,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<EAN>3800500148076</EAN>
-		<Quantity>616</Quantity>
+		<Quantity>612</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10094,7 +10095,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1268</MPN>
 		<Description>Το ARIEL LOROR 2x75μεζ. (2x3,75 lit) είναι ένα υγρό απορρυπαντικό πλυντηρίου, ιδανικό για την αφαίρεση δύσκολων λεκέδων, προσφέροντας αποτελεσματικό καθαρισμό σε βάθος. Κατάλληλο για χρήση σε χαμηλές θερμοκρασίες, διατηρεί τα ρούχα φρέσκα και προστατεύει τα υφάσματα. Συσκευασία 2 τεμαχίων, συνολικής ποσότητας 7.5 λίτρων, που αρκεί για περίπου 150 πλύσεις.</Description>
 		<EAN>8700216211451</EAN>
-		<Quantity>59</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10139,7 +10140,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<EAN>8720181012570</EAN>
-		<Quantity>723</Quantity>
+		<Quantity>722</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10155,7 +10156,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας.
 Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<EAN>8720181413285</EAN>
-		<Quantity>723</Quantity>
+		<Quantity>722</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10370,7 +10371,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0548</MPN>
 		<Description>• Προστατεύει από τα Άλατα• Διατηρεί το Πλυντήριο Καθαρό• Προστατεύει τα Εξαρτήματα• Συμβάλλει στην Απαλότητα των Ρούχων• Δρα Ενάντια στις Δυσάρεστες Οσμές• Ασφαλές για όλα τα Υφάσματα• Χωρίς Φωσφορικά</Description>
 		<EAN>5997321701813</EAN>
-		<Quantity>924</Quantity>
+		<Quantity>921</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11506,7 +11507,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
 		<EAN>5204170300570</EAN>
-		<Quantity>80</Quantity>
+		<Quantity>79</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12761,7 +12762,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>LTB60BK</MPN>
 		<Description>Ο κάδος απορριμμάτων, από την εταιρία Songmics, είναι κατασκευασμένος από ανοξείδωτο ατσάλι με πλαστική βάση. Είναι εξοπλισμένος με 2 αφαιρούμενα πλαστικά διαμερίσματα συνολικής χωρητικότητας 60 Lt (2 x 30 Lt). Είναι εφοδιασμένα με μεταλλικές λαβές μεταφοράς, για να μπορείτε να τα αδειάζετε ξεχωριστά. Επιπρόσθετα, κάθε διαμέρισμα διαθέτει μηχανισμό με αντιολισθητικό πεντάλ, ώστε η απόρριψη των απορριμμάτων να πραγματοποιείται με απολύτως άνετο και υγιεινό τρόπο. Τα καπάκια του κάδου χάρη στο ενσωματωμένο σύστημα soft-close, κλείνουν αργά και αθόρυβα, ενώ η αεροστεγής σφραγίδα προστατεύει την οικογένειά σας από βακτηρίδια και κακές οσμές.</Description>
 		<EAN>0194343027425</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20694,6 +20695,36 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799400901</SKU>
+		<Name>Baseus Ψηφιακός Μετρητής Αλκοόλ SafeJourney Pro Γκρι CRCX060014</Name>
+		<URL>https://www.skroutz.gr/s/40860777/Baseus-Safejourney-Pro-PSifiakos-Metritis-Alkool-Grey.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/040860/40860777/xlarge_20230310115746_baseus_safejourney_pro_psifiakos_metritis_alkool_grey.jpeg</Image>
+		<Price>68.96</Price>
+		<Category> Μετρητές Αλκοόλ</Category>
+		<Manufacturer>Baseus</Manufacturer>
+		<MPN>CRCX060014</MPN>
+		<Description>Ηλεκτρονικό αλκοτέστ της Baseus SafeJourney Pro (γκρι)
+
+Το ηλεκτρονικό αλκοτέστ χωρίς στόμα Baseus SafeJourney Pro είναι ιδανικό για να ελέγξετε αν μπορείτε να μπείτε πίσω από το τιμόνι. Χρειάζονται μόνο 3 δευτερόλεπτα για να επιβεβαιώσετε την ασφάλεια σας. Η συσκευή διαθέτει έναν εξαιρετικά ευαίσθητο αισθητήρα για ακριβή αποτελέσματα με ακρίβεια 0,03 mg.
+
+Ελέγξτε αν η οδήγηση είναι ασφαλής με 4 σωλήνες από ασφαλή υλικά PP, που σας επιτρέπουν να ελέγξετε το επίπεδο αλκοόλ στο αίμα σας χωρίς επαφή. Φυσήξτε από απόσταση 6 εκατοστών για ακριβές αποτέλεσμα.
+
+Η συσκευή υποστηρίζει ένα ή περισσότερους οδηγούς, επιτρέποντας πολλές δοκιμές στη σειρά χωρίς επαναφορά. Η ενσωματωμένη οθόνη LCD δείχνει αν είναι ασφαλές να οδηγήσετε.
+
+Το αλκοτέστ διακρίνεται από υψηλής ποιότητας υλικά με μεταλλικό φινίρισμα, 8 ώρες λειτουργίας και αναγκαία αξεσουάρ για υγιεινή χρήση. Περιλαμβάνονται 4 επιστόμια που πλένονται και δερμάτινη κρεμάστρα για εύκολη μεταφορά.
+
+Η χρήση της συσκευής είναι απλή. Απλώς γυρίστε το κάτω κινητό μέρος και περιμένετε 10 δευτερόλεπτα. Ακολουθήστε τις οδηγίες για ακριβή αποτελέσματα.
+
+Κατασκευαστής: Baseus
+Μοντέλο: CRCX060014
+Υλικό: Κράμα αλουμινίου
+Διαστάσεις: 152 x 152 x 30 mm
+Χωρητικότητα μπαταρίας: 470 mAh</Description>
+		<EAN>6932172619374</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>799500101</SKU>
 		<Name>Ugreen GaN Φορτιστής Χωρίς Καλώδιο 65W 1xUSB-A 3xUSB-C PDx3+QC3.0 Black CD224 (70774)</Name>
 		<URL>https://www.skroutz.gr/s/30168038/Ugreen-Fortistis-CHoris-Kalodio-me-THyra-USB-A-kai-3-THyres-USB-C-65W-Power-Delivery-Quick-Charge-2-0-Quick-Charge-3-0-Quick-Charge-4-Quick-Charge-4-0-Mayros-CD224.html</URL>
@@ -20782,6 +20813,36 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
     Πρωτόκολλο υποστήριξης USB-A1: QC3.0/QC2.0/AFC/FCP/SCP/BC1.2 /Apple2.4A</Description>
 		<EAN>6920680856152</EAN>
 		<Quantity>36</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799500301</SKU>
+		<Name>Joyroom Βάση Φόρτισης GaN με 2 Θύρες USB-A και 4 Θύρες USB-C 65W σε Γκρι χρώμα (JR-TCM02)</Name>
+		<URL>https://www.skroutz.gr/s/56876284/Joyroom-Vasi-Fortisis-GaN-me-2-THyres-USB-A-kai-4-THyres-USB-C-65W-se-Gri-chroma-JR-TCM02.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/056876/56876284/xlarge_20241016132113_joyroom_vasi_fortisis_gan_me_2_thyres_usb_a_kai_4_thyres_usb_c_65w_se_gri_chroma_jr_tcm02.jpeg</Image>
+		<Price>25.89</Price>
+		<Category>Φορτιστές Κινητών</Category>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>JR-TCM02</MPN>
+		<Description>Joyroom JR-TCM02 GaN φορτιστής πολλαπλών θυρών με ισχύ έως και 65 W με 4x Type-C και 2x USB-A υποδοχές (βύσμα EU) - σκούρο γκρι.
+
+Αντικαταστήστε το χάος των καλωδίων στο σπίτι σας με τάξη και άνεση με τον φορτιστή Joyroom JR-TCM02. Χάρη στην ισχύ έως και 65 W και έως και έξι θύρες (4x Type-C και 2x USB-A), μπορείτε να φορτίζετε ταυτόχρονα όλες τις συσκευές σας - από φορητό υπολογιστή έως smartphone.
+
+Η τελευταία τεχνολογία GaN εξασφαλίζει σταθερή φόρτιση με ελάχιστη θέρμανση, καθιστώντας την ασφαλέστερη. Η καθολική συμβατότητα το καθιστά ιδανικό για διάφορα μοντέλα τηλεφώνου και tablet.
+
+Το μήκος καλωδίου 1,5 m εξασφαλίζει άνεση στη χρήση σε κάθε περίπτωση.
+
+Επωνυμία: Joyroom
+Μοντέλο: Joyroom JR-TCM02
+Θύρες: 2 x USB-A, 4 x Type-C
+Ρεύμα εξόδου:
+Type-C 1 / Type-C 2: 5V = 3A, 9V = 3A, 12V = 3A, 15V = 3A, 20V = 3,25A
+PPS: 3,3V - 21V = 3A
+Type-C 3 / Type-C 4 / USB-A 1 / USB-A 2: 5V = 3A
+Type-C 1 + Type-C 2: 45W + 20W
+Type-C 1 / Type-C 2 + Type-C 3 / Type-C 4 / USB-A 1 / USB-A 2: 45</Description>
+		<EAN>6956116795528</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20950,6 +21011,22 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799510521</SKU>
+		<Name>Baseus Φορτιστής Χωρίς Καλώδιο GaN με Θύρα USB-A και 2 Θύρες USB-C 140W Power Delivery Μαύρος περιλαμβάνει καλώδιο φόρτισης USB-C σε USB-C (CCGP100201)</Name>
+		<URL>https://www.skroutz.gr/s/40280502/Baseus-Fortistis-CHoris-Kalodio-GaN-me-THyra-USB-A-kai-2-THyres-USB-C-140W-Power-Delivery-Mayros-CCGP100201.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/040280/40280502/xlarge_20230110100119_baseus_fortistis_choris_kalodio_me_thyra_usb_a_kai_2_thyres_usb_c_140w_power_delivery_mayros_gan5_pro.jpeg</Image>
+		<Price>64.07</Price>
+		<Category>Φορτιστές Κινητών</Category>
+		<Manufacturer>Baseus</Manufacturer>
+		<MPN>CCGP100201</MPN>
+		<Description>Φορτίστε 3 συσκευές ταυτόχρονα γρήγορα και με ασφάλεια. Ο φορτιστής Baseus είναι εξοπλισμένος με 2 θύρες USB-C και μια θύρα USB, λειτουργεί επίσης με πρωτόκολλα γρήγορης φόρτισης PD/QC/PPS. Η χρήση σύγχρονων λύσεων σάς επιτρέπει να ανανεώνετε την ενέργεια της συσκευής σας χωρίς τον κίνδυνο ζημιάς και χάρη στον ελαφρύ και συμπαγή σχεδιασμό της, μπορείτε να την αποθηκεύσετε εύκολα. Επιπλέον, περιλαμβάνεται καλώδιο USB-C σε USB-C.
+
+</Description>
+		<EAN>6932172610227</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7995105501</SKU>
 		<Name>XO Φορτιστής Magsafe 15W Power Delivery / Quick Charge 2.0 / Quick Charge 3.0 Μαύρος 120cm CX022</Name>
 		<URL>https://www.skroutz.gr/s/50272552/XO-Fortistis-Magsafe-15W-Power-Delivery-Quick-Charge-2-0-Quick-Charge-3-0-Mayros-CX022.html</URL>
@@ -20975,6 +21052,118 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικός και φορτίζει το κινητό σου στον προβλεπόμενο χρόνο.</Description>
 		<EAN>6920680850150</EAN>
 		<Quantity>9</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995105801</SKU>
+		<Name>Joyroom Φορτιστής 2in1 Lightning &amp; Apple Watch 30W 1.5m Λευκός  S-IW012</Name>
+		<URL>https://www.skroutz.gr/s/48801312/Joyroom-S-IW012-Fortistis-gia-Apple-Watch-Leykos.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/048801/48801312/fixedratio_20231214140746_joyroom_leyko_apple_watchapple_watch.jpeg</Image>
+		<Price>13.21</Price>
+		<Category>Φορτιστές Wearables</Category>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>S-IW012</MPN>
+		<Description>Αναβαθμίστε την εμπειρία φόρτισης του Apple Watch και της συσκευής σας με το καλώδιο Joyroom 2-in-1. Το S-IW011 δεν είναι απλώς ένα καλώδιο - είναι ένας καινοτόμος συνδυασμός επαγωγικού φορτιστή για Apple Watch με καλώδιο Lightning, εξασφαλίζοντας γρήγορη και χωρίς προβλήματα φόρτιση.
+
+Τα πιο σημαντικά πλεονεκτήματα του καλωδίου Joyroom 2 in 1 Lightning και επαγωγικού φορτιστή:
+
+Γρήγορη και ασύρματη φόρτιση: Joyroom S-IW011 προσφέρει 2 σε 1 - έναν επαγωγικό φορτιστή για Apple Watch και ένα καλώδιο Lightning, επιτρέποντας γρήγορη και ασύρματη φόρτιση δύο συσκευών ταυτόχρονα.
+Ικανότητα φόρτισης: Με ισχύ εισόδου DC 9V 3.5A (max) και ισχύ εξόδου 30W (max) για το καλώδιο Lightning και 3.5W (max) για τον επαγωγικό φορτιστή, το iPhone και το iWatch φορτίζονται άμεσα.
+Αποτελεσματική φόρτιση iWatch: Χάρη στη λειτουργία επαγωγικού φορτιστή, το iWatch φορτίζεται πλήρως σε μόλις 1.5 ώρες, ώστε να είναι πάντα έτοιμο για δράση.
+Φόρτιση δύο συσκευών ταυτόχρονα: Μια πρακτική λύση που εξαλείφει την ταλαιπωρία διαχείρισης πολλαπλών καλωδίων. Το Joyroom S-IW011 σας επιτρέπει να φορτίζετε το iPhone/iPad και το Apple Watch ταυτόχρονα, διατηρώντας το γραφείο σας τακτοποιημένο ή ενώ είστε καθ' οδόν.
+Ανθεκτική κατασκευή: Κατασκευασμένο από υψηλής ποιότητας αλουμίνιο, ABS και πλεγμένο νάιλον, το καλώδιο Joyroom είναι όχι μόνο λειτουργικό, αλλά και ανθεκτικό, προσφέροντας 10 φορές μεγαλύτερη αντοχή από τα στάνταρ καλώδια.</Description>
+		<EAN>6956116771348</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995105802</SKU>
+		<Name>Mcdodo  Φορτιστής 2in1 USB-C &amp; Apple Watch 60W 1.2m Μαύρος  CA-2200</Name>
+		<URL>https://www.skroutz.gr/s/57355724/Mcdodo-Ca-2200-2-in-1-Usb-c-Cable-Apple-Watch-Charger-60w-1-2m.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/104396/104396889/fixedratio_20241107142158_d2557d07.jpeg</Image>
+		<Price>10.445512</Price>
+		<Category>Φορτιστές Wearables</Category>
+		<Manufacturer>Mcdodo</Manufacturer>
+		<MPN>CA-2200</MPN>
+		<Description>ο Mcdodo CA-2200 είναι ένα καινοτόμο καλώδιο 2 σε 1 που συνδυάζει γρήγορη φόρτιση μέσω θύρας USB-C με ασύρματο φορτιστή για Apple Watch. Με αυτήν τη λύση, μπορείτε να τροφοδοτείτε ταυτόχρονα τις κινητές συσκευές σας και το ρολόι σας, καθιστώντας το ιδανική επιλογή για όσους εκτιμούν τη λειτουργικότητα και την ευκολία.
+Γρήγορη φόρτιση 60W
+Το καλώδιο υποστηρίζει γρήγορη φόρτιση έως και 60W, γεγονός που εγγυάται ότι οι συσκευές σας θα φορτίζονται σε σύντομο χρονικό διάστημα. Χρησιμοποιώντας αυτήν την τεχνολογία γρήγορης φόρτισης, μπορείτε να φορτίσετε τη συσκευή σας έως και 60% σε μόλις 30 λεπτά, καθιστώντας αυτό το καλώδιο ιδανικό για ταξίδια ή μια κουραστική μέρα.
+Ασύρματος φορτιστής για Apple Watch
+Ο ενσωματωμένος ασύρματος φορτιστής 2,5 W που είναι αφιερωμένος στο Apple Watch εξασφαλίζει σταθερή και ασφαλή φόρτιση του ρολογιού σας. Ένας ισχυρός μαγνήτης κρατά το Apple Watch στη θέση του, εγγυώμενος αξιόπιστη σύνδεση και γρήγορη φόρτιση χωρίς την ανάγκη πρόσθετων καλωδίων.
+Ανθεκτικός και αξιόπιστος σχεδιασμός
+Το καλώδιο Mcdodo CA-2200 είναι κατασκευασμένο από υψηλής ποιότητας χαλκό και ανθεκτικό πλεγμένο καλώδιο που αποτρέπει τα μπερδέματα. Χάρη στον στιβαρό σχεδιασμό του, το καλώδιο είναι ανθεκτικό σε μηχανικές βλάβες, γεγονός που αυξάνει τη διάρκεια ζωής του ακόμη και με βαριά χρήση.
+Παγκόσμια συμβατότητα
+Το καλώδιο είναι συμβατό με μια μεγάλη γκάμα συσκευών - από smartphones έως tablet και φορητούς υπολογιστές με θύρες USB-C. Επιπλέον, ο ασύρματος φορτιστής είναι συμβατός με όλα τα μοντέλα Apple Watch, καθιστώντας τον μια ευέλικτη καθημερινή λύση.</Description>
+		<EAN>6921002622004</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995105811</SKU>
+		<Name>Mcdodo  Φορτιστής 2in1 USB-C &amp; Samsung Watch 60W 1.2m Μαύρος  CA-4210</Name>
+		<URL>https://www.skroutz.gr/s/56924234/Mcdodo-Fortistis-gia-Samsung-Watch-Mayros.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/105550/105550164/fixedratio_20241219170458_2b1821c1.jpeg</Image>
+		<Price>11.02205</Price>
+		<Category>Φορτιστές Wearables</Category>
+		<Manufacturer>Mcdodo</Manufacturer>
+		<MPN>CA-4210</MPN>
+		<Description>Καλώδιο USB-C 2 σε 1 Mcdodo CA-4210 + φορτιστής ρολογιού Samsung, 60W, 1,2 μ.
+Το Mcdodo CA-4210 είναι ένα καινοτόμο καλώδιο 2 σε 1 που συνδυάζει γρήγορη ενσύρματη φόρτιση μέσω USB-C με ειδικό φορτιστή για το Samsung Watch. Προσφέρει ισχύ έως και 60W και μήκος 1,2 μέτρα, παρέχοντας μέγιστη άνεση και ταχύτητα για τη φόρτιση τόσο smartphone όσο και smartwatch.
+Γρήγορη φόρτιση έως 60W
+Το καλώδιο υποστηρίζει γρήγορη φόρτιση έως και 60W, επιτρέποντάς σας να φορτίζετε άμεσα συσκευές όπως φορητούς υπολογιστές, smartphone και tablet. Αυτό σας επιτρέπει να απολαμβάνετε πλήρη ισχύ σε λιγότερο χρόνο, κάτι που είναι ιδιαίτερα χρήσιμο όταν ταξιδεύετε ή κατά τη διάρκεια μιας πολυάσχολης εργάσιμης ημέρας.
+Ασύρματος φορτιστής για το Samsung Watch
+Ο ενσωματωμένος επαγωγικός φορτιστής 2,5W είναι αφιερωμένος στα ρολόγια Samsung Watch, επιτρέποντας την ασύρματη φόρτιση χωρίς την ανάγκη πρόσθετων αξεσουάρ. Είναι ιδανικός για χρήστες που θέλουν να φορτίζουν τόσο το τηλέφωνο όσο και το smartwatch τους με ένα μόνο καλώδιο.
+Ανθεκτικός σχεδιασμός και βολική χρήση
+Ο σχεδιασμός αυτόματης αναδίπλωσης καθιστά το καλώδιο εύκολο στη μεταφορά και χωρίς μπερδέματα για πρόσθετη άνεση. Η ανθεκτική κατασκευή από καθαρό χαλκό εξασφαλίζει μεγάλη διάρκεια ζωής του καλωδίου, ενώ το εύκαμπτο περίβλημα παρέχει προστασία από μηχανικές βλάβες.
+Ευρεία συμβατότητα
+Το καλώδιο Mcdodo CA-4210 είναι συμβατό με μια μεγάλη γκάμα συσκευών, όπως smartphone, φορητούς υπολογιστές και tablet, καθώς και ρολόγια Samsung. Είναι ιδανικό για όσους αναζητούν ένα ευέλικτο και αξιόπιστο αξεσουάρ για καθημερινή χρήση.</Description>
+		<EAN>6921002642101</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995105851</SKU>
+		<Name>Joyroom Φορτιστής &amp; Power Bank 2500mAh για Apple Watch Μαύρος JR-W09</Name>
+		<URL>https://www.skroutz.gr/s/56931040/Joyroom-Jr-w09-Fortistis-gia-Apple-Watch-Mayros.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/056931/56931040/fixedratio_20241018134521_joyroom_jr_w09_fortistis_gia_apple_watch_mayros.jpeg</Image>
+		<Price>13.15</Price>
+		<Category>Φορτιστές Wearables</Category>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN> JR-W09</MPN>
+		<Description>Φορτιστής Joyroom JR-W09 3W ασύρματος φορτιστής για Apple Watch με καλώδιο USB-C - μαύρος. Ο φορτιστής Joyroom JR-W09 επιτρέπει γρήγορη και βολική φόρτιση του Apple Watch σας. Χάρη στη λειτουργία "auto sense" και την τεχνολογία "snap-and-charge", η χρήση αυτού του φορτιστή είναι απόλαυση. Η δυνατότητα επαναφόρτισης (έως 4-5 φορές) τον καθιστά απαραίτητο gadget για κάθε κάτοχο Apple Watch. Το ενσωματωμένο καλώδιο USB-C διευκολύνει τη φόρτιση στο σπίτι και εν κινήσει.
+
+Σημαντικά πλεονεκτήματα του Joyroom JR-W09:
+
+Αυξάνει την ευκολία χρήσης του Apple Watch.
+Ενσωματωμένο καλώδιο USB-C που υποστηρίζει τόσο είσοδο όσο και έξοδο.
+Διαθέτει ψηφιακή οθόνη που δείχνει το επίπεδο φόρτισης.
+Συμπαγές μέγεθος, ιδανικό για μεταφορά στην τσέπη ή στην τσάντα.
+Προστασία από υπερβολική τάση, υπερθέρμανση και υπερβολικό ρεύμα.
+Γρήγορη και εύκολη φόρτιση χάρη στην τεχνολογία snap-and-charge.
+Ο φορτιστής Joyroom JR-W09 εξασφαλίζει ασφάλεια φορτισμού με έξι έξυπνες προστασίες που προστατεύουν το Apple Watch σας από τυχόν βλάβες κατά τη διάρκεια της φόρτισης.</Description>
+		<EAN>6956116723859</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995105852</SKU>
+		<Name>Joyroom Power Bank 2000mAh 3W Μαύρο Μαύρος WQW01</Name>
+		<URL>https://www.skroutz.gr/s/48831164/Joyroom-Power-Bank-2000mAh-3W-Mayro.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/098512/98512934/xlarge_20240628162723_b05b4e20.jpeg</Image>
+		<Price>15.6</Price>
+		<Category>Φορτιστές Wearables</Category>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>WQW01</MPN>
+		<Description>Αποκτήστε το Joyroom JR-WQW01 και απολαύστε τη μέγιστη απόδοση του smartwatch σας όπου κι αν βρίσκεστε! Ο φορτιστής μπορεί να φορτίσει ασύρματα το Apple Watch σας με ισχύ 3 watt και, με το μικρό του μέγεθος και το ελαφρύ του βάρος, είναι ο ιδανικός σύντροφος για ταξίδια.
+Ακόμα πιο γρήγορη φόρτιση
+Απολαύστε την ασύρματη ελευθερία της φόρτισης! Ο φορτιστής Joyroom προσφέρει φόρτιση με ισχύ έως και 3 watt, ώστε να μπορείτε να ανανεώσετε την ενέργεια του smartwatch σας έως και 50% σε μόλις 30 λεπτά (ανάλογα με το μοντέλο σας). Απλώς τοποθετήστε το smartwatch σας στον φορτιστή και η διαδικασία φόρτισης θα ξεκινήσει αυτόματα!
+Πάντα σε κατάσταση αναμονής - χωρητικότητα 2000 mAh
+Να είστε σίγουροι ότι το smartwatch σας θα είναι πάντα έτοιμο για κάθε περιπέτεια! Το Joyroom JR-WQW01 διαθέτει ενσωματωμένη μπαταρία χωρητικότητας 2000 mAh, πράγμα που σημαίνει ότι θα ανανεώσετε με επιτυχία την ενέργεια του smartwatch σας τουλάχιστον αρκετές φορές. Επιπλέον, μια μικρή οθόνη θα σας ενημερώνει για την κατάσταση φόρτισης της μπαταρίας, ώστε να μην εκπλαγείτε ποτέ ξανά από μια απροσδόκητη αποφόρτιση την πιο ακατάλληλη στιγμή.
+Συμπαγής σχεδιασμός, πλήρης συμβατότητα
+Ο συμπαγής σχεδιασμός του φορτιστή σημαίνει ότι μπορείτε να τον παίρνετε μαζί σας οπουδήποτε. Βάλτε τον στην τσέπη, την τσάντα ή το σακίδιό σας και να είστε σίγουροι ότι το smartwatch σας δεν θα σας απογοητεύσει ποτέ. Το Joyroom JR-WQW01 εγγυάται επίσης πλήρη συμβατότητα με διάφορα μοντέλα Apple Watch. Είτε έχετε το πιο πρόσφατο μοντέλο είτε μια παλαιότερη έκδοση, ο φορτιστής θα διασφαλίσει ότι το ρολόι σας είναι πάντα έτοιμο για δράση.
+</Description>
+		<EAN>6956116766993</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21647,7 +21836,7 @@ USB-C – Micro USB: QC 18W
 		<Name>Baseus Braided USB to Lightning / 2x Type-C / micro USB Cable Πολύχρωμο 1.2m (CA1T4-B01) </Name>
 		<URL>https://www.skroutz.gr/s/17693763/Baseus-Rapid-Series-Braided-USB-to-Lightning-Type-C-micro-USB-Cable-3-5A-Polychromo-1-2m-CA1T4-B01.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/017693/17693763/xlarge_20190312135459_baseus_braided_usb_to_lightning_2x_type_c_micro_usb_cable_polychromo_1_2m.jpeg</Image>
-		<Price>6.4</Price>
+		<Price>5.67</Price>
 		<Category>Καλώδια Multi Port</Category>
 		<Manufacturer>Baseus</Manufacturer>
 		<MPN>CA1T4-B01</MPN>
@@ -22340,6 +22529,31 @@ XO-EP57
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7995191102</SKU>
+		<Name>Baseus Blade Power Bank 20000mAh 100W με 2 Θύρες USB-A και 2 Θύρες USB-C Μαύρο + Καλώδιο USB-C 100W PPBL000201</Name>
+		<URL>https://www.skroutz.gr/s/48929442/Baseus-Blade-Power-Bank-20000mAh-100W-me-2-THyres-USB-A-kai-2-THyres-USB-C-Mayro.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/048929/48929442/xlarge_20231222102625_baseus_blade_power_bank_20000mah_100w_me_2_thyres_usb_a_kai_2_thyres_usb_c_mayro.jpeg</Image>
+		<Price>65.52</Price>
+		<Category>Power Banks</Category>
+		<Manufacturer>Baseus</Manufacturer>
+		<MPN>PPBL000201</MPN>
+		<Description>Το powerbank είναι εξοπλισμένο με μπαταρία χωρητικότητας 20.000mAh. Διαθέτει υψηλή ισχύ φόρτισης (100W) και 4 θύρες - 2 θύρες USB-A και 2 θύρες USB-C. Είναι εξοπλισμένο με μια οθόνη που δείχνει το υπολοιπόμενο επίπεδο φόρτισης. Η συσκευή είναι πολύ ελαφριά και το πάχος της είναι μικρότερο από 18mm, οπότε είναι ιδανική για ταξίδια.  Διαθέτει μινιμαλιστικό σχεδιασμό και έχει μαλακή υφή και άνετο κράτημα.
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί φορτίζει γρήγορα τις συσκευές σου και πως βρήκες την ταχύτητα φόρτισης του power bank.
+
+Χαρακτηριστικά:
+Ικανότητα: 100 W 
+Ενσωματωμένη οθόνη 
+Συνδέσεις: USB-C, USB-A 
+Σχήμα: Ορθογώνιο 
+Τεχνολογία: LED 
+Τύπος φορτιστή: USB 
+Χωρητικότητα μπαταρίας: 20000 mAh</Description>
+		<EAN>6932172625474</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7998101</SKU>
 		<Name>Silicon Power QS58 Power Bank 20000mAh 20W με 2 Θύρες USB-A και Θύρα USB-C Power Delivery Μαύρο</Name>
 		<URL>https://www.skroutz.gr/s/48992592/Silicon-Power-QS58-Power-Bank-20000mAh-20W-me-2-THyres-USB-A-kai-THyra-USB-C-Power-Delivery-Mayro.html#description</URL>
@@ -22846,7 +23060,7 @@ XO-EP57
 		<Name>Joyroom JR-ZS259 Βάση Κινητού Αυτοκινήτου 4.7" - 6.7" με Ρυθμιζόμενα Άγκιστρα Μαύρη JR-ZS259</Name>
 		<URL>https://www.skroutz.gr/s/29241396/Joyroom-JR-ZS259-Vasi-Kinitou-Aytokinitou-4-7-6-7-me-Rythmizomena-Agistra-Mayri.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/029241/29241396/xlarge_20210602122120_joyroom_vasi_stirixis_kinitou_aytokinitou_jr_zs259_me_rythmizomeno_vrachiona_kai_stirixi_ston_aeragogo.jpeg</Image>
-		<Price>4.97</Price>
+		<Price>4.49</Price>
 		<Category>Βάσεις Στήριξης Κινητών</Category>
 		<Manufacturer>Joyroom</Manufacturer>
 		<MPN>JR-ZS259</MPN>
@@ -22887,6 +23101,27 @@ XO-EP57
 Κατάλληλη για τη στήριξη κινητών και tablets. Χρώμα: Μαύρο.</Description>
 		<EAN>6920680845781</EAN>
 		<Quantity>46</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799551201</SKU>
+		<Name>Baseus Μαγνητική Βάση Κινητού για το Αυτοκίνητο (Μαύρο/Ασημί) SUCX140012</Name>
+		<URL>https://www.skroutz.gr/s/45389283/Baseus-Vasi-Kinitou-Aytokinitou-me-Magniti-Asimi-SUGENT-NT0S.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/045389/45389283/xlarge_20230929144630_baseus_vasi_kinitou_aytokinitou_me_magniti_gri_sucx140012.jpeg</Image>
+		<Price>5.45</Price>
+		<Category>Βάσεις Στήριξης Κινητών</Category>
+		<Manufacturer>Baseus</Manufacturer>
+		<MPN>SUCX140012</MPN>
+		<Description>Σταθερή βάση στήριξης για smartphones που μπορεί να τοποθετηθεί σε οποιαδήποτε ομαλή επιφάνεια.
+Διαθέτει ενσωματωμένους μαγνήτες που παρέχουν ισχυρό και ασφαλές κράτημα της συσκευής.
+Δυνατότητα περιστροφής 360º που επιτρέπει στο smartphone να ρυθμιστεί σε οποιαδήποτε γωνία θέασης.
+Χρώμα: Μαύρο /Ασημί.
+Στην συσκευασία περιλαμβάνονται:  1x μαγνητική βάση στήριξης, 1x μικρή μεταλλική πλάτη, 1x μεγάλη μεταλλική πλάτη &amp; 1x ανταλλακτικό αυτοκόλλητο 3Μ.
+
+
+Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτησή της στο αυτοκίνητο και είναι ποιοτική κατασκευή.</Description>
+		<EAN>6932172627058</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23146,6 +23381,40 @@ XO-EP57
 Silicon Power - USB Stick Silicon Power</Description>
 		<EAN>4713436155584</EAN>
 		<Quantity>16</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799621101</SKU>
+		<Name>Tech-Protect Ultraboost Card Reader USB 3.0 Type-C για SD/microSD Γκρι</Name>
+		<URL>https://www.skroutz.gr/s/43305064/Tech-Protect-Ultraboost-Card-Reader-USB-3-0-Type-C-gia-SD-microSD-Gri.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/043305/43305064/xlarge_20230623152655_tech_protect_ultraboost_card_reader_usb_3_0_type_c_gia_sd_microsd_gri.jpeg</Image>
+		<Price>8.83</Price>
+		<Category>Card Readers</Category>
+		<Manufacturer>Tech-Protect</Manufacturer>
+		<MPN>43305064</MPN>
+		<Description>Το Tech-Protect Ultraboost είναι μια πρακτική και ευέλικτη συσκευή που σας επιτρέπει να διαβάζετε εύκολα κάρτες μνήμης σε διάφορες συσκευές. Διαθέτει θύρα USB-C και USB-A 3.0, η οποία παρέχει ένα ευρύ φάσμα επιλογών σύνδεσης.
+
+Συμβατό με φορητούς υπολογιστές, υπολογιστές και tablet. Μπορεί επίσης να χρησιμοποιηθεί με κάμερες και smartphone.
+Η συσκευή ανάγνωσης υποστηρίζει τους ακόλουθους τύπους καρτών μνήμης: MicroSD, MicroSDXC, SDHC, SDXC, κάρτες SD.
+
+Μπορεί να διαβάσει κάρτες SD/TF με ταχύτητα από 3,0 έως 5 Gb/s, εξασφαλίζοντας γρήγορη μεταφορά δεδομένων. Είναι επίσης δυνατή η ταυτόχρονη ανάγνωση διαφορετικών καρτών μνήμης, κάτι που είναι πολύ βολικό και εξοικονομεί χρόνο.
+
+*Οι θύρες USB-A και USB-C δεν μπορούν να χρησιμοποιηθούν ταυτόχρονα. Παρακαλούμε δώστε προσοχή στη σωστή σύνδεση.
+**Κατά τη σύνδεση σε κινητή συσκευή, βεβαιωθείτε ότι το τηλέφωνο/tablet σας με θύρα USB-C υποστηρίζει τη λειτουργία OTG.
+***Για τηλέφωνα Samsung/Google/LG , τα αρχεία στην κάρτα μνήμης πρέπει να έχουν μορφοποίηση FAT32/EXFAT. Δεν υποστηρίζεται NTFS.
+
+ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ ΠΡΟΪΟΝΤΟΣ:
+- 100% Πρωτότυπο
+- Συσκευασμένο στην αρχική του συσκευασία
+- Κατασκευασμένο από αλουμίνιο
+- Αναγνώστης καρτών: MicroSD, MicroSDXC, SDHC, SDXC, κάρτες SD
+- Ταχύτητα ανάγνωσης κάρτας SD/TF 3.0 έως 5Gb/s
+- Υποδοχή USB-A / USB-C
+
+ΤΟ ΣΕΤ ΠΕΡΙΛΑΜΒΑΝΕΙ:
+1 x Συσκευή ανάγνωσης καρτών Tech-Protect UltraBoost</Description>
+		<EAN>9490713934685</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
