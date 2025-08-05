@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-08-05 15:05</created_at>
+	<created_at>2025-08-05 16:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -236,7 +236,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>1842</Quantity>
+		<Quantity>1830</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -251,7 +251,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>671</Quantity>
+		<Quantity>651</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -281,7 +281,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>657</Quantity>
+		<Quantity>627</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>292</Quantity>
+		<Quantity>289</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -506,7 +506,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>237</Quantity>
+		<Quantity>234</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -521,7 +521,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<EAN>5201171331244</EAN>
-		<Quantity>145</Quantity>
+		<Quantity>144</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1140,7 +1140,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<EAN>5201946910247</EAN>
-		<Quantity>1102</Quantity>
+		<Quantity>1099</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1155,7 +1155,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<EAN>5201946910261</EAN>
-		<Quantity>267</Quantity>
+		<Quantity>264</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1185,7 +1185,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>1035</Quantity>
+		<Quantity>1032</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1260,7 +1260,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<EAN>5201309703172</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>445</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1574,7 +1574,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908110002</EAN>
-		<Quantity>93</Quantity>
+		<Quantity>81</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2412,7 +2412,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<EAN>5202037115053</EAN>
-		<Quantity>97</Quantity>
+		<Quantity>85</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9025,7 +9025,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1267</MPN>
 		<Description>Η κρέμα χεριών και νυχιών Bio Hand &amp; Nail, της εταιρείας Aroma, χάρη στην ενυδατική και αναπλαστική της δράση, επανορθώνει και προστατεύει τα ξηρά, σκασμένα και ταλαιπωρημένα χέρια. Ακόμα, στη σύνθεσή της περιέχει ουρία, ένα συστατικό που δρα κατά της ξηρότητας και του έντονου κνησμού. Η κερατολυτική, μαλακτική, αντιβακτηριακή και ενυδατική δράση που προσφέρει στην κεράτινη στιβάδα της επιδερμίδας την καθιστούν σύμμαχο για ένα ταλαιπωρημένο και πολύ ξηρό δέρμα. Με την χρήση ουρίας το δέρμα αποκτά ξανά την ελαστικότητα του και ενισχύεται ενάντια στους αλλεργιογόνους παράγοντες που μπορούν να επιτείνουν το πρόβλημα και να ερεθίσουν ακόμη περισσότερο μία ευαίσθητη και εύθραυστη επιδερμίδα.Τα χέρια επανορθώνονται και ανακτούν την απαλότητά τους ενώ ταυτόχρονα η επιδερμίδα προστατεύεται καλύτερα από τις μελλοντικές εξωτερικές επιθέσεις.•Δράση: Ανάπλαση, Ενυδάτωση•Συστατικό: ΟυρίαΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5208005110181</EAN>
-		<Quantity>40</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10461,7 +10461,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1102</MPN>
 		<Description>Υγρό απορρυπαντικό για πιάτα AVA με απαλή υφή, εμπλουτισμένο με εκχύλισμα χαμομηλιού. Ξεβγάζεται εύκολα χωρίς να αφήνει κατάλοιπα χρησιμοποιώντας λιγότερο νερό.</Description>
 		<EAN>5201321041511</EAN>
-		<Quantity>2363</Quantity>
+		<Quantity>2362</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10611,7 +10611,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 - Οικονομία</Description>
 		<EAN>5201321941927</EAN>
-		<Quantity>515</Quantity>
+		<Quantity>513</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10709,7 +10709,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0556</MPN>
 		<Description>Είναι σχεδιασμένο για να αφαιρεί την αντίσταση και την αλάτωση που σχηματίζεται στις επιφάνειες του μπάνιου, όπως τα πλακάκια, οι κρεμάστρες, οι μπαταρίες και τα νιπτήρες. Η σύνθεσή του είναι εξαιρετικά αποτελεσματική στην απομάκρυνση των αλάτων και των αποθέσεων από τις επιφάνειες, αφήνοντας τις λαμπερές και καθαρές. Χρησιμοποιείται εύκολα: απλά απλώστε το καθαριστικό στις επιφάνειες, αφήστε το να δράσει για λίγα λεπτά, και στη συνέχεια ξεβγάλτε με άφθονο νερό. Μετά τη χρήση, οι επιφάνειες θα είναι καθαρές και λαμπερές, χωρίς υπολείμματα αλάτων.</Description>
 		<EAN>3800024014543</EAN>
-		<Quantity>184</Quantity>
+		<Quantity>183</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10723,7 +10723,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1111</MPN>
 		<Description>Το Viakal Classic είναι ιδανικό για να αφαιρείτε ακόμη και τα πιο επίμονα άλατα και για να καθαρίζετε τα υπολείμματα σαπουνιού και τα στίγματα νερού στο μπάνιο και την κουζίνα σας. Η συχνή χρήση του προλαμβάνει την επανεμφάνιση των αλάτων.</Description>
 		<EAN>8001090574725</EAN>
-		<Quantity>205</Quantity>
+		<Quantity>204</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10793,7 +10793,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1749</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Lemon 40gr είναι ένας αποδοτικός καθαριστικός δίσκος για τη λεκάνη της τουαλέτας, που προσφέρει μακροχρόνια φρεσκάδα και καθαριότητα. Το άρωμα λεμόνι δημιουργεί μια ευχάριστη και φρέσκια ατμόσφαιρα, ενώ ταυτόχρονα προστατεύει από τα άλατα και τις ακαθαρσίες. Ιδανικό για καθημερινή χρήση και εύκολο στην τοποθέτηση.</Description>
 		<EAN>5901815005783</EAN>
-		<Quantity>256</Quantity>
+		<Quantity>255</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10807,7 +10807,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1750</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Oceanic 40gr είναι ένας αποδοτικός καθαριστικός δίσκος που προσφέρει ισχυρή προστασία κατά των αλάτων και των ακαθαρσιών, ενώ διατηρεί τη λεκάνη της τουαλέτας φρέσκια και καθαρή. Το άρωμα Oceanic δημιουργεί μια αίσθηση δροσιάς και καθαριότητας, ενώ η μακράς διάρκειας δράση του εξασφαλίζει καθαριότητα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση.</Description>
 		<EAN>5901815005790</EAN>
-		<Quantity>267</Quantity>
+		<Quantity>266</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10821,7 +10821,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1751</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Pine 40gr προσφέρει ισχυρή καθαριότητα και φρεσκάδα στη λεκάνη της τουαλέτας. Το άρωμα πεύκου δημιουργεί μια φυσική αίσθηση καθαριότητας και φρεσκάδας, ενώ ταυτόχρονα προστατεύει από τα άλατα και τις ακαθαρσίες. Ιδανικό για καθημερινή χρήση, εξασφαλίζοντας μακροχρόνια καθαριότητα και ευχάριστη ατμόσφαιρα στο μπάνιο.</Description>
 		<EAN>5901815005806</EAN>
-		<Quantity>296</Quantity>
+		<Quantity>295</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10835,7 +10835,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1752</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Bouquet 40gr προσφέρει άμεση και διαρκή καθαριότητα στη λεκάνη της τουαλέτας, ενώ το άρωμα bouquet γεμίζει το μπάνιο με ευχάριστες και λουλουδένιες νότες. Προστατεύει από τα άλατα και τις ακαθαρσίες, ενώ εξασφαλίζει φρεσκάδα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση, χαρίζοντας μακροχρόνια καθαριότητα και αρωματισμένο περιβάλλον.</Description>
 		<EAN>5908241708011</EAN>
-		<Quantity>268</Quantity>
+		<Quantity>267</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11291,7 +11291,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>89</Quantity>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11305,7 +11305,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>190</Quantity>
+		<Quantity>188</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11691,7 +11691,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>00431023</MPN>
 		<Description>Διαθέτει δύο πλευρές, μία σκληρή και μία μαλακή. Η σκληρή πλευρά μπορεί να χρησιμοποιηθεί για εξονυχιστικό καθαρισμό και αφαίρεση απολεπισμάτων, ενώ η μαλακή πλευρά είναι κατάλληλη για απαλό μασάζ και περιποίηση του δέρματος.</Description>
 		<EAN>5204170200061</EAN>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13762,7 +13762,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN> E-2488</MPN>
 		<Description>Θήκη αποθήκευσης κενού αέρος η οποία είναι κατάλληλη για ρούχα, κλινοσκεπάσματα και ογκώδη είδη. Αφαιρείτε τον αέρα από το ειδικό στόμιο με την ηλεκτρική σκούπα και εξοικονομείτε πολύτιμο χώρο στην ντουλάπα σας. Είναι αεροστεγής, αδιάβροχη και προστατεύει τα ρούχα σας από σκόνη, υγρασία και ακάρεα.</Description>
 		<EAN>5203642124881</EAN>
-		<Quantity>169</Quantity>
+		<Quantity>166</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13809,7 +13809,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN> E-0055</MPN>
 		<Description>Θήκη αποθήκευσης κενού αέρος, ιδανική για ρούχα, κλινοσκεπάματα και διάφορα ογκώδη είδη. Διαθέτει ειδικό στόμιο αποσυμπίεσης του αέρα, είναι αεροστεγής, αδιάβροχη και επαναχρησιμοποιούμενη. Διαστάσεις: 120x70cm</Description>
 		<EAN>5203642100557</EAN>
-		<Quantity>602</Quantity>
+		<Quantity>600</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15571,7 +15571,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0895</MPN>
 		<Description>Καπάκια ποτηριών μιας χρήσης σε συσκευασία των 100 τεμαχίων σε μαύρο χρώμα, που συνδυάζουν την πρακτικότητα τους με τα αντίστοιχα ποτήρια. Είναι κατάλληλα για εκδηλώσεις, πάρτι, επαγγελματική αλλά και καθημερινή χρήση. Τα καπάκια ποτηριών τύπου πιπίλα προσφέρουν μια πιο ομαλή ροή του υγρού καθώς προσομοιάζει τον τρόπο που την χρησιμοποιούν τα μωρά αφήνοντας το υγρό να ρέει με σταθερό ρυθμό. Διαθέτει μια μικρή ανάγλυφη περιοχή στο κέντρο που μοιάζει με πιπίλα και επιτρέπει στον χρήστη να πίνει με πιο φυσικό τρόπο.</Description>
 		<EAN>6425092035060</EAN>
-		<Quantity>43</Quantity>
+		<Quantity>41</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16470,7 +16470,7 @@ mini markets
 		<MPN>1566</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<EAN>5202054036201</EAN>
-		<Quantity>20</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16624,7 +16624,7 @@ mini markets
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<EAN>5207243085343</EAN>
-		<Quantity>1281</Quantity>
+		<Quantity>1242</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17517,7 +17517,7 @@ mini markets
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<EAN>5203358500344</EAN>
-		<Quantity>4847</Quantity>
+		<Quantity>4835</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17985,7 +17985,7 @@ mini markets
 		<MPN>1577</MPN>
 		<Description>Η Eurolamp Κοινή Λάμπα LED 6W για Ντουί E27 παρέχει φωτισμό φυσικού λευκού χρώματος 4000K με 480 lumen φωτεινότητα. Λειτουργεί σε τάση 220-240V και είναι ιδανική για χρήση σε οικιακούς ή επαγγελματικούς χώρους, προσφέροντας εξοικονόμηση ενέργειας και μεγάλη διάρκεια ζωής.</Description>
 		<EAN>5207227112867</EAN>
-		<Quantity>134</Quantity>
+		<Quantity>126</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19972,7 +19972,7 @@ mini markets
 		<MPN>E-1189</MPN>
 		<Description>Ηλεκτρικό μπρίκι της εταιρείας Sidirela, με ισχύ 800 Watt. Το ηλεκτρικό μπρίκι προετοιμάζει τον ελληνικό καφέ πιο γρήγορα και εύκολα σε σχέση με ένα συμβατικό μπρίκι. Διαθέτει χωρητικότητα 500 ml και μπορεί να παράξει έως και 6 μονά φλιτζάνια ελληνικού καφέ.</Description>
 		<EAN>5203642111898</EAN>
-		<Quantity>64</Quantity>
+		<Quantity>63</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24619,7 +24619,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 κρέμες, μπεσαμέλ, κουλούρια, μπισκότα, πίτσες,
 λουκουμάδες κ.α.</Description>
 		<EAN>5214000546023</EAN>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24634,7 +24634,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μεσόσπερμο ρύζι με μεγάλους λευκούς κόκκους και έντονο γαλακτερό χρώμαστο κέντρο του. Η βασική ιδιότητα του ρυζιού αυτού είναι η μεγάλη ικανότητα του να απορροφά τα λίπη απελευθερώνοντας παράλληλα το άμυλο του κάνοντας το κατάλληλο για φαγητά φούρνου αλλά και ριζότο.</Description>
 		<EAN>5212006201007</EAN>
-		<Quantity>872</Quantity>
+		<Quantity>871</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24664,7 +24664,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μεσόσπερμο ρύζι με κρυσταλλιζέ – λευκό χρώμα. Οι κόκκοι αυτού του ρυζιού τείνουν να προσκολλώνται μεταξύ τους κατά τη διάρκεια του μαγειρέματος και γι’αυτό ενδείκνυται για σούπες και γλυκά όπως το ρυζόγαλο.</Description>
 		<EAN>5212006201205</EAN>
-		<Quantity>223</Quantity>
+		<Quantity>222</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25114,7 +25114,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>5 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 5 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270000052</EAN>
-		<Quantity>19</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25204,7 +25204,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Ο τοματοχυμός πασσάτα απο την εταιρία Ρέα ελαφριάς συμπύκνωσης . Δεν περιέχει γλουτένη και άλλα αλλεργιογόνα ,έχει πολύ χαμηλή περιεκτικότητα σε αλάτι και είναι ιδανική για όλες τις γαστρονομικές δημιουργίες σας.</Description>
 		<EAN>5202908500018</EAN>
-		<Quantity>1529</Quantity>
+		<Quantity>1517</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25679,7 +25679,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 Αλάτι 0,54g
 </Description>
 		<EAN>5205422170163</EAN>
-		<Quantity>446</Quantity>
+		<Quantity>434</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25735,7 +25735,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 Αλάτι 0,59g
 </Description>
 		<EAN>5205422400017</EAN>
-		<Quantity>633</Quantity>
+		<Quantity>621</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25759,7 +25759,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 Πρωτεΐνες 5,5 γρ
 Αλας 0,64 γρ</Description>
 		<EAN>5205422000002</EAN>
-		<Quantity>590</Quantity>
+		<Quantity>578</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26074,7 +26074,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 
 Το display περιλαμβάνει 12 τεμάχια και έχει έντονα χρώματα και ελκυστικά γραφικά, καθιστώντας το προϊόν πολύ ελκυστικό &amp; ιδανικό για τους καλοκαιρινούς μήνες ή για κάθε περίσταση όπου οι γονείς θέλουν να προσφέρουν στα παιδιά ένα διασκεδαστικό και γλυκό δώρο.</Description>
 		<EAN>5904917031278</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26202,7 +26202,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 
 Προσφέρετε μια γλυκιά και διασκεδαστική εμπειρία με τα Johny Bee Gummy Fries – γιατί οι καλύτερες πατάτες είναι αυτές που τρώγονται γλυκά!</Description>
 		<EAN>5904917032336</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26221,7 +26221,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 Δημιουργεί την αίσθηση ενός κυπέλλου στιγμιαίων noodles ,όταν τα ανακατεύουν όλα μαζί, κάνοντάς το ελκυστικό και διασκεδαστικό για τα παιδιά.
 </Description>
 		<EAN>5904917031308</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26344,7 +26344,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>1058</Quantity>
+		<Quantity>1057</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
