@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-08-07 16:05</created_at>
+	<created_at>2025-08-07 16:58</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -191,7 +191,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>184</Quantity>
+		<Quantity>148</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -963,7 +963,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>3695</Quantity>
+		<Quantity>3694</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4787,7 +4787,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΣΑΜΠΑΝΙΑ MOET &amp; CHANDON ICY 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4711828/Moet-Chandon-Sampania-Ice-Imperial-Imixiri-Leyki-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004711/4711828/20151201125909_moet_chandon_ice_imperial_leykos.jpeg</Image>
-		<Price>59.11</Price>
+		<Price>59.78</Price>
 		<Category>Σαμπάνιες</Category>
 		<Manufacturer>MOET</Manufacturer>
 		<MPN>1164</MPN>
@@ -4802,7 +4802,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>MOSCATO D'ASTI LEGGENDA 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7244152/Marco-Bianco-Leggenda-Moscato-D-Asti-Leyko-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/007244/7244152/20240621123716_marco_bianco_leggenda_moscato_d_asti_leyko_750ml.jpeg</Image>
-		<Price>7.34</Price>
+		<Price>7.42</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>LEGGENDA</Manufacturer>
 		<MPN>1165</MPN>
@@ -4817,7 +4817,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>PROSECCO MARTINI 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4809453/Martini-Krasi-Prosecco-Leyko-Xiro-D-Asti-Afrodes-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809453/20200314140937_martini_spumante_prosecco_leyko_750ml.jpeg</Image>
-		<Price>8.74</Price>
+		<Price>8.73</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>MARTINI</Manufacturer>
 		<MPN>1166</MPN>
@@ -4832,7 +4832,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>SANGRIA DON SIMON 1,5 LIT</Name>
 		<URL>https://www.skroutz.gr/s/5102143/Don-Simon-Krasi-Blend-poikilion-Erythro-Imiglyko-Sangria-1500ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005102/5102143/20200313165141_don_simon_sangria_1500ml.jpeg</Image>
-		<Price>3.83</Price>
+		<Price>2.639170182</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>DON SIMON</Manufacturer>
 		<MPN>1160</MPN>
@@ -4847,7 +4847,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Cruz Garcia Sangia Λευκό Ημίγλυκο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/55519118/Cruz-Garcia-Krasi-Erythro-Imiglyko-750ml-8410015700307.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/016270/16270742/20200330133408_cruz_garcia_real_sangria_leyko_750ml.jpeg</Image>
-		<Price>3.66</Price>
+		<Price>3.876747160000001</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>CRUZ GARCIA</Manufacturer>
 		<MPN>1161</MPN>
@@ -4862,7 +4862,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Sandeman Κρασί Fine Ruby Porto Ερυθρό Ημίξηρο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/31730377/Sandeman-Krasi-Fine-Ruby-Porto-Erythro-Imixiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/031730/31730377/xlarge_20211018140331_sandeman_krasi_fine_ruby_porto_erythro_imixiro_750ml.jpeg</Image>
-		<Price>9.72</Price>
+		<Price>9.826062994</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Sandeman </Manufacturer>
 		<MPN>1161001</MPN>
@@ -4878,7 +4878,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ούζο Πλωμαρίου Ισίδωρου Αρβανίτη 200ml</Name>
 		<URL>https://www.skroutz.gr/s/4912589/Isidorou-Arvaniti-Ouzo-Plomariou-200ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004912/4912589/20180817110405_isidorou_arvaniti_ouzo_plomariou_200ml.jpeg</Image>
-		<Price>4.0079156</Price>
+		<Price>4.05296294</Price>
 		<Category>ΟΥΖΑ</Category>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
 		<MPN>1420</MPN>
@@ -4892,7 +4892,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ούζο Πλωμαρίου Ισίδωρου Αρβανίτη 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4912585/Isidorou-Arvaniti-Ouzo-Plomariou-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004912/4912585/20211014132330_isidorou_arvaniti_ouzo_plomariou_700ml.jpeg</Image>
-		<Price>12.74825462</Price>
+		<Price>12.891539813</Price>
 		<Category>ΟΥΖΑ</Category>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
 		<MPN>1421</MPN>
@@ -4906,7 +4906,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ούζο MINI Μυτιλήνης 40% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5265197/EPOM-Ouzo-MINI-Mytilinis-40-200ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/005265/5265197/xlarge_20210210125058_epom_ouzo_mini_mytilinis_200ml.jpeg</Image>
-		<Price>3.42214332</Price>
+		<Price>3.460606818</Price>
 		<Category>ΟΥΖΑ</Category>
 		<Manufacturer>ΕΠΟΜ</Manufacturer>
 		<MPN>1421101</MPN>
@@ -4920,7 +4920,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ούζο MINI Μυτιλήνης 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5265196/EPOM-Ouzo-MINI-Mytilinis-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005265/5265196/xlarge_102-60003.jpg</Image>
-		<Price>11.20674862</Price>
+		<Price>11.332707913</Price>
 		<Category>ΟΥΖΑ</Category>
 		<Manufacturer>ΕΠΟΜ</Manufacturer>
 		<MPN>1421102</MPN>
@@ -4931,6 +4931,19 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 Με ρίζες βαθιά στη γη της Μυτιλήνης, το Ούζο ΜΙΝΙ Μυτιλήνης ταξιδεύει σε κάθε γωνιά της Ελλάδας, σε κάθε τόπο όπου υπάρχει Έλληνας, σε στεριά και θάλασσα...</Description>
 		<EAN>5201304100013</EAN>
 		<Quantity>26</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>51501</SKU>
+		<Name>Ούζο Βαρβαγιάννη 46% Μπλε 200ml </Name>
+		<URL>https://www.skroutz.gr/s/5269425/Varvagianni-Ouzo-46-200ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/005269/5269425/xlarge_20210210125255_varvagianni_ouzo_mple_200ml.jpeg</Image>
+		<Price>4.45</Price>
+		<Category>ΟΥΖΑ</Category>
+		<Manufacturer>Βαρβαγιάννη</Manufacturer>
+		<MPN>1421103</MPN>
+		<Description>Το γλυκό άρωμα του γλυκάνισου και των βοτάνων δίνουν στο κλασικό ούζο Βαρβαγιάννη Μπλε ευχάριστη και απαλή γεύση. Πέντε γενιές της οικογένειας Βαρβαγιάννη δημιουργούν με αγάπη και γνώση, το κλασικό ούζο Μπλε, με σεβασμό στην παράδοση που απαιτεί την 100% απόσταξη του ούζου και με την οικογενειακή συνταγή που έφερε ο Ευστάθιος Βαρβαγιάννης το 1860 από τη Ρωσία. Γνήσιο απόσταγμα γλυκάνισου και αρωματικών φυτών, που παράγεται στους 46% Vol. με το μοναδικό νερό του Πλωμαρίου. Το φημισμένο και αγνό Ούζο Βαρβαγιάννη Μπλε έχει ευχάριστο άρωμα, διάφανο χρώμα και απαλή γεύση που χαρίζει στον ουρανίσκο αισθήσεις από ανοιξιάτικη αύρα και ηλιόλουστη θάλασσα.</Description>
+		<EAN>5201319103047</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4952,7 +4965,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5265103/Apostolakis-Tsipouro-me-glykaniso-50ml.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%B1%CE%BA%CE%B7-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image>
-		<Price>1.2597187032</Price>
+		<Price>1.27543626058</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0898</MPN>
@@ -4967,7 +4980,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/17910830/Apostolakis-Tsipouro-Me-Glykaniso-42-100ml.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000233_1-1000x1000.jpg</Image>
-		<Price>2.1374522196</Price>
+		<Price>2.16303514444</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0322</MPN>
@@ -4982,7 +4995,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5269196/Apostolakis-Tsipouro-me-glykaniso-200ml.html</URL>
 		<Image>https://www.cavakalomenidis.gr/wp-content/uploads/2023/06/Tsipouro-Apostolakis-With-Anise-200ml.jpg</Image>
-		<Price>4.0224057564</Price>
+		<Price>4.067615959859999</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0970</MPN>
@@ -4997,7 +5010,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 700ml ΜΕ ΓΛΥΚΑΝΙΣΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/55498166/Apostolakis-Tsipouro-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/017419/17419159/20200504104314_apostolakis_me_glykaniso_tsipouro_700ml.jpeg</Image>
-		<Price>12.70971697</Price>
+		<Price>12.85366019783</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>1031</MPN>
@@ -5012,7 +5025,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5265102/Apostolakis-Tsipouro-choris-glykaniso-50ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-50.jpg</Image>
-		<Price>1.2443036432</Price>
+		<Price>1.2501831838</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0345</MPN>
@@ -5027,7 +5040,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/17911194/Apostolakis-Tsipouro-CHoris-Glykaniso-42-100ml.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000219_1-1000x1000.jpg</Image>
-		<Price>2.0896655336</Price>
+		<Price>2.11330840683</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0638</MPN>
@@ -5042,7 +5055,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5269192/Apostolakis-Tsipouro-choris-glykaniso-200ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005269/5269192/20210210125058_apostolakis_tsipouro_choris_glykaniso_200ml.jpeg</Image>
-		<Price>3.9252908784</Price>
+		<Price>3.969721316539999</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0722</MPN>
@@ -5057,7 +5070,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 700ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/55498167/Apostolakis-Tsipouro-700ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-700.jpg</Image>
-		<Price>12.365961132</Price>
+		<Price>12.50557303456</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>1032</MPN>
@@ -5072,7 +5085,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5265109/Tsililis-me-Glykaniso-Tsipouro-42-50ml.html</URL>
 		<Image>https://greekdeligoods.com/wp-content/uploads/2023/10/tsipouro-tsili-me-glykaniso-50ml-1.jpg</Image>
-		<Price>1.313632771652495</Price>
+		<Price>1.32839746931723</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0533</MPN>
@@ -5087,7 +5100,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/23808123/Tsililis-me-Glykaniso-Tsipouro-42-100ml.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/4/146246.jpg</Image>
-		<Price>2.128188175497584</Price>
+		<Price>2.152108144352622</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0659</MPN>
@@ -5102,7 +5115,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5269205/Tsililis-Tsipouro-Tsilili-me-glykaniso-200ml.html</URL>
 		<Image>https://phiali.gr/wp-content/uploads/2020/11/1174.jpg</Image>
-		<Price>4.471825004911432</Price>
+		<Price>4.522086497797347</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0259</MPN>
@@ -5117,7 +5130,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/22328201/Tsililis-CHoris-glykaniso-Tsipouro-50ml.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/t/s/tsilili-tsipouro-50ml_hvwmq5x6sh3sqsjn.jpg</Image>
-		<Price>1.293593193652495</Price>
+		<Price>1.30813265461723</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0874</MPN>
@@ -5132,7 +5145,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/23808154/Tsililis-CHoris-Glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/1/114118.jpg</Image>
-		<Price>2.108148597497584</Price>
+		<Price>2.131843329652622</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0302</MPN>
@@ -5147,7 +5160,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/5269201/Tsililis-CHoris-Glykaniso-Tsipouro-200ml.html</URL>
 		<Image>https://www.cavamoutafi.gr/wp-content/uploads/products/tsipouro/tsipouro-tsilili-xoris-glykaniso.jpg</Image>
-		<Price>4.394749704911431</Price>
+		<Price>4.444144902797347</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0189</MPN>
@@ -5162,7 +5175,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΑΓΙΟΝΕΡΙ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/13336430/Tsililis-Agioneri-Palaiomeno-Tsipouro-200ml.html</URL>
 		<Image>https://cavagreco.gr/image/cache/catalog/products/spirits/tsipouro/palaiomeno/Agioneri%20Tsipouro%20200ml-1080x1080.jpg</Image>
-		<Price>5.588195584450883</Price>
+		<Price>5.651004628253917</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0039</MPN>
@@ -5177,7 +5190,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Τσίπουρο χωρίς Γλυκάνισο Dark Cave 5 Ετών 41% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5352687/Tsililis-Tsipouro-choris-Glykaniso-Dark-Cave-5-Eton-41-700ml.html#reviews</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005352/5352687/xlarge_20211026171114_tsililis_dark_cave_palaiomeno_700ml.jpeg</Image>
-		<Price>47.44524242099999</Price>
+		<Price>47.97850763415001</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1779</MPN>
@@ -5199,7 +5212,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/20022697/Tyrnavou-Me-Glykaniso-Tsipouro-42-100ml.html</URL>
 		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4120-1200x1200.jpg</Image>
-		<Price>2.07</Price>
+		<Price>2.090225273937421</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0125</MPN>
@@ -5214,7 +5227,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/20022660/Tyrnavou-CHoris-glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/020022/20022660/20210210124802_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image>
-		<Price>2</Price>
+		<Price>2.026460619064506</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0232</MPN>
@@ -5229,7 +5242,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Με Γλυκάνισο Τσίπουρο 50ml</Name>
 		<URL>https://www.skroutz.gr/s/55764445/Tsipouro-THessaliko-50ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.179207759971639</Price>
+		<Price>1.192461575220164</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0896</MPN>
@@ -5244,7 +5257,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Με Γλυκάνισο Τσίπουρο 100ml</Name>
 		<URL>https://www.skroutz.gr/s/55764393/Tsipouro-THessaliko-100ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>2.026138056437508</Price>
+		<Price>2.048911023491824</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0454</MPN>
@@ -5259,7 +5272,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Χωρίς Γλυκάνισο Τσίπουρο 50ml</Name>
 		<URL>https://www.skroutz.gr/s/24672677/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-THessaliko-CHoris-Glykaniso-Tsipouro-50ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.166875711971639</Price>
+		<Price>1.179990920020164</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0747</MPN>
@@ -5274,7 +5287,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Χωρίς Γλυκάνισο Τσίπουρο 100ml</Name>
 		<URL>https://www.skroutz.gr/s/24672659/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-THessaliko-CHoris-Glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.986058900437508</Price>
+		<Price>2.008381394091824</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0692</MPN>
@@ -5289,7 +5302,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τυρνάβου Τσίπουρο Δεκαράκι χωρίς Γλυκάνισο Μοσχάτο 40% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/15444644/Tyrnavou-Moschato-choris-glykaniso-To-Dekaraki-Tsipouro-40-200ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/015444/15444644/20180719155715_tyrnavou_moschato_choris_glykaniso_to_dekaraki_tsipouro_200ml.jpeg</Image>
-		<Price>4.32</Price>
+		<Price>4.894732166</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>1534</MPN>
@@ -5304,7 +5317,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Κώστα Λαζαρίδη Ηδωνικό με Γλυκάνισο Τσίπουρο 43% 50ml</Name>
 		<URL>https://www.skroutz.gr/s/10626911/Ktima-Kosta-Lazaridi-Idoniko-me-Glykaniso-Tsipouro-43-50ml.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B7%CE%B4%CF%89%CE%BD%CE%B9%CE%BA%CE%BF-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image>
-		<Price>1.496161059504</Price>
+		<Price>1.5129773008296</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0427</MPN>
@@ -5319,14 +5332,14 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Κώστα Λαζαρίδη Τσίπουρο Ηδωνικό με γλυκάνισο 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5269419/Ktima-Kosta-Lazaridi-Tsipouro-Idoniko-me-glykaniso-200ml.html</URL>
 		<Image>https://www.kavakonstantakopoulos.gr/images/thumbs/0000494.jpg</Image>
-		<Price>5.20511081984</Price>
+		<Price>5.263614146816</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0668</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<EAN>5202207622015</EAN>
-		<Quantity>313</Quantity>
+		<Quantity>309</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5334,7 +5347,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Κώστα Λαζαρίδη Ηδωνικό Χωρίς Γλυκάνισο Τσίπουρο 50ml</Name>
 		<URL>https://www.skroutz.gr/s/10626908/Ktima-Kosta-Lazaridi-Idoniko-CHoris-Glykaniso-Tsipouro-50ml.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B7%CE%B4%CF%89%CE%BD%CE%B9%CE%BA%CE%BF-%CF%87%CF%89%CF%81%CE%B9%CF%83-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image>
-		<Price>1.466718294904</Price>
+		<Price>1.4832036115396</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0483</MPN>
@@ -5349,7 +5362,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Κτήμα Κώστα Λαζαρίδη Ηδωνικό Χωρίς Γλυκάνισο Τσίπουρο 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5269238/Ktima-Kosta-Lazaridi-Idoniko-CHoris-Glykaniso-Tsipouro-200ml.html</URL>
 		<Image>https://www.kavakonstantakopoulos.gr/images/thumbs/0000491.jpg</Image>
-		<Price>5.08179033984</Price>
+		<Price>5.138907594816</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0984</MPN>
@@ -5364,7 +5377,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Μπαμπατζίμ Τσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5265223/Mpampatzim-Me-glykaniso-Tsipouro-200ml.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%BC%CF%80%CE%B1%CE%BC%CF%80%CE%B1%CF%84%CE%B6%CE%B9%CE%BC-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-200-premium.jpg</Image>
-		<Price>4.843334776699999</Price>
+		<Price>4.897771888204999</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
 		<MPN>0981</MPN>
@@ -5379,7 +5392,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Μπαμπατζίμ Τσίπουρο χωρίς Γλυκάνισο 40% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/49410508/Mpampatzim-Mpampatzim-Tsipouro-CHoris-Glykaniso-200ml.html</URL>
 		<Image>https://cavamikrohorio.com/wp-content/uploads/2021/10/babatzim-tsipouro-xg-200ml-1.jpg</Image>
-		<Price>4.7647179707</Price>
+		<Price>4.818271461305</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
 		<MPN>0569</MPN>
@@ -5394,7 +5407,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/39781068/Kalaitzi-Tsipouro-me-Glykaniso-42-50ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/039781/39781068/20221201092609_kalaitzi_tsipouro_me_glykaniso_42_50ml.jpeg</Image>
-		<Price>1.32211886608</Price>
+		<Price>1.336978943992</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
 		<MPN>1669</MPN>
@@ -5408,7 +5421,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/31866726/Kalaitzi-Tsipouro-me-Glykaniso-42-200ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/031866/31866726/20211021160647_kalaitzi_tsipouro_me_glykaniso_42_200ml.jpeg</Image>
-		<Price>4.424553841680001</Price>
+		<Price>4.42</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
 		<MPN>1670</MPN>
@@ -5422,7 +5435,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/31866646/Kalaitzi-Tsipouro-choris-Glykaniso-40-200ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/031866/31866646/20211021160546_kalaitzi_tsipouro_choris_glykaniso_40_200ml.jpeg</Image>
-		<Price>4.34593703568</Price>
+		<Price>4.34</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
 		<MPN>1671</MPN>
@@ -5436,7 +5449,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Johnnie Walker Ουίσκι Σκωτίας Blended Red Label 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4782331/Johnnie-Walker-Oyiski-Skotias-Blended-Red-Label-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004782/4782331/xlarge_Jhonnie_20Walker_20Red_20Label_20070_40g.jpg</Image>
-		<Price>19.26815478</Price>
+		<Price>19.484720997</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Johnnie Walker</Manufacturer>
 		<MPN>167101</MPN>
@@ -5452,7 +5465,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Cutty Sark Ουίσκι Blended Blend 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4929369/Cutty-Sark-Oyiski-Elladas-Blended-Blend-40-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004929/4929369/xlarge_20181005164444_cutty_sark_blend_oyiski_700ml.jpeg</Image>
-		<Price>18.24070752</Price>
+		<Price>19.057736607</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Cutty Sark</Manufacturer>
 		<MPN>167102</MPN>
@@ -5466,7 +5479,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Famous Grouse Ουίσκι Blended 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4902132/Famous-Grouse-Oyiski-Blended-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004902/4902132/142001572.jpg</Image>
-		<Price>18.6488715</Price>
+		<Price>18.858477225</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
 		<MPN>1492</MPN>
@@ -5480,7 +5493,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Grant's Ουίσκι Σκωτίας Blended 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/23363199/Grant-s-Oyiski-Skotias-Blended-40-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/023363/23363199/xlarge_20211101164516_grant_s_oyiski_700ml.jpeg</Image>
-		<Price>17.26955874</Price>
+		<Price>17.463661551</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Grant's</Manufacturer>
 		<MPN>1492001</MPN>
@@ -5499,7 +5512,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Ballantine's Ουίσκι Σκωτίας Blended Finest 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/53456595/Ballantine-s-Oyiski-Skotias-Blended-Finest-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/053456/53456595/xlarge_20240515002712_ballantine_s_oyiski_ballantine_s_finest_700_ml.jpeg</Image>
-		<Price>17.5229019</Price>
+		<Price>17.719852185</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Ballantine's</Manufacturer>
 		<MPN>1492002</MPN>
@@ -5513,7 +5526,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Dewar's Ουίσκι Σκωτίας Blended White Label 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4901695/Dewar-s-Oyiski-Skotias-Blended-White-Label-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004901/4901695/xlarge_20211101164517_dewar_s_white_label_oyiski_700ml.jpeg</Image>
-		<Price>19.33852788</Price>
+		<Price>19.555885062</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Dewar's</Manufacturer>
 		<MPN>1492003</MPN>
@@ -5527,7 +5540,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Haig Ουίσκι Σκωτίας Blended Gold Label 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/51355390/Haig-Oyiski-Skotias-Blended-Gold-Label-40-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/051355/51355390/20240314175252_haig_haig_gold_label_standard_whisky_700ml.jpeg</Image>
-		<Price>19.32445326</Price>
+		<Price>19.541652249</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>HAIG</Manufacturer>
 		<MPN>1493</MPN>
@@ -5541,7 +5554,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Jameson Ουίσκι Blended 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4956907/Jameson-Oyiski-Blended-40-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004956/4956907/20210611094354_jameson_oyiski_700ml.jpeg</Image>
-		<Price>20.99933304</Price>
+		<Price>21.235356996</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>JAMESON</Manufacturer>
 		<MPN>1494</MPN>
@@ -5555,7 +5568,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Teacher's Ουίσκι Σκωτίας Blended 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/48830105/Teacher-s-Oyiski-Skotias-Blended-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/048830/48830105/xlarge_20231215140651_teacher_s_oyiski_skotias_blended_40_700ml.jpeg</Image>
-		<Price>18.11403594</Price>
+		<Price>18.317630331</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Teacher's</Manufacturer>
 		<MPN>1494001</MPN>
@@ -5569,7 +5582,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Bushmills Ουίσκι Ιρλανδίας Blended Original 5 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4957073/Bushmills-Oyiski-Irlandias-Blended-Original-5-Eton-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004957/4957073/xlarge_20200215210257_bushmills_original_oyiski_700ml.jpeg</Image>
-		<Price>20.42227362</Price>
+		<Price>20.651811663</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Bushmills</Manufacturer>
 		<MPN>1494002</MPN>
@@ -5583,7 +5596,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Tullamore Dew Ουίσκι Ιρλανδίας Blended 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4957069/Tullamore-Dew-Oyiski-Irlandias-Blended-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004957/4957069/xlarge_20211101164519_tullamore_dew_oyiski_700ml.jpeg</Image>
-		<Price>21.30897468</Price>
+		<Price>21.548478882</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Tullamore</Manufacturer>
 		<MPN>1494003</MPN>
@@ -5599,7 +5612,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Chivas Regal 12 Year Old Ουίσκι 700ml</Name>
 		<URL>https://www.skroutz.gr/s/51355587/Chivas-Regal-Oyiski-Chivas-Regal-12-eton-700-ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/051355/51355587/20240314205509_chivas_regal_oyiski_chivas_regal_12_eton_700_ml.jpeg</Image>
-		<Price>29.64</Price>
+		<Price>29.97</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>CHIVAS</Manufacturer>
 		<MPN>1495</MPN>
@@ -5609,11 +5622,26 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>5505002</SKU>
+		<Name>Chivas Regal Royal Salute 21 YO The Signature Blend</Name>
+		<URL>https://www.skroutz.gr/s/6130662/Chivas-Regal-Whisky-Skotias-Blended-21-Eton-se-Kouti-40-700ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/006130/6130662/xlarge_20230922161928_chivas_regal_royal_salute_21_year_old_ruby_flagon_oyiski_700ml.jpeg</Image>
+		<Price>139.78</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>CHIVAS</Manufacturer>
+		<MPN>5505002-</MPN>
+		<Description>Χαρακτηρίζεται ως ο αδιαφιλονίκητος ηγέτης στην κατηγορία των ουίσκι άνω των 21 ετών. Οι γλυκές νότες κρέμας και λεβάντας σε συνδυασμό με ίχνη φρέσκων αχλαδιών και πικάντικων φουντουκιών ελευθερώνουν τις αισθήσεις και μας προσκαλούν σε μία απαράμιλλη γευστική εμπειρία. Το βαθύ χρυσό κεχριμπαρί χρώμα του απεικονίζει την ένταση της καπνιστής δρύινης γεύσης του, η οποία ενισχύεται από ένα ισχυρό άρωμα λουλουδιών, αφήνοντας στον ουρανίσκο ένα βελούδινο και κρεμώδες τελείωμα.
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<EAN>5000299211243</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>55051</SKU>
 		<Name>JOHΝNIE WALKER BLACK LABEL 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4782329/Johnnie-Walker-Black-Label-Oyiski-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004782/4782329/johnnie-walker-black-label.jpg</Image>
-		<Price>30.23</Price>
+		<Price>30.57</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>JOHNNIE WALKER</Manufacturer>
 		<MPN>1496</MPN>
@@ -5627,7 +5655,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>FAMOUS GROUSE ΤΗΕ BLACK GROUSE 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4902159/Famous-Grouse-The-Black-Grouse-Oyiski-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004902/4902159/the-black-grouse.jpg</Image>
-		<Price>24.07</Price>
+		<Price>24.34</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
 		<MPN>1168</MPN>
@@ -5642,7 +5670,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Jack Daniel's Tennessee Old No7 6 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/32801984/Jack-Daniel-s-Oyiski-apo-I-P-A-Tennessee-Old-No7-6-Eton-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/032801/32801984/20220419092344_jack_daniel_s_old_no7_oyiski_tennessee_40_700ml.jpeg</Image>
-		<Price>26.29</Price>
+		<Price>26.59</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>JACK DANIELS</Manufacturer>
 		<MPN>1618</MPN>
@@ -5657,7 +5685,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Absolut Βότκα Vodka 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4848385/Absolut-Votka-Vodka-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004848/4848385/xlarge_20211014133013_absolut_votka_700ml.jpeg</Image>
-		<Price>17.79</Price>
+		<Price>17.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Absolut</Manufacturer>
 		<MPN>1169001</MPN>
@@ -5675,7 +5703,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Stolichnaya Βότκα 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5354117/Stolichnaya-Votka-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005354/5354117/xlarge_20211212235708_stolichnaya_votka_700ml.jpeg</Image>
-		<Price>17.92</Price>
+		<Price>18.12</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Stolichnaya</Manufacturer>
 		<MPN>1169002</MPN>
@@ -5691,7 +5719,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Finlandia Βότκα 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5438655/Finlandia-Votka-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005438/5438655/20211102201527_finlandia_votka_700ml.jpeg</Image>
-		<Price>17.03</Price>
+		<Price>17.22</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>FILANDIA</Manufacturer>
 		<MPN>1169</MPN>
@@ -5706,7 +5734,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>LITHUANIAN AMBER CARAMEL VODKA 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55498168/Lithuanian-Votka-700ml.html</URL>
 		<Image>https://www.hellowcost.fr/7366-large_default/lithuanian-amber-caramel-vodka-21-1-litre.jpg</Image>
-		<Price>13.15</Price>
+		<Price>13.3</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>LITHUANIAN AMBER</Manufacturer>
 		<MPN>1170</MPN>
@@ -5721,7 +5749,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΕΚΙΛΑ Olmeca Tezon Reposado 100% Agave 38% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5389584/Olmeca-Tezon-Reposado-Tekila-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/005389/5389584/20210210145818_olmeca_tezon_reposado_tekila_700ml.jpeg</Image>
-		<Price>44.81</Price>
+		<Price>45.32</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>OLMECA</Manufacturer>
 		<MPN>1221</MPN>
@@ -5736,7 +5764,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>EL JIMADOR REPOSADO 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5438842/el-Jimador-Reposado-Tekila-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005438/5438842/20211026165943_el_jimador_reposado_tekila_700ml.jpeg</Image>
-		<Price>23.42</Price>
+		<Price>23.68</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>EL JIMADOR</Manufacturer>
 		<MPN>1172</MPN>
@@ -5751,7 +5779,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Gordon's London Dry Τζιν 37.5% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5305748/Gordon-s-London-Dry-Tzin-37-5-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/005305/5305748/20220808115841_gordon_s_london_dry_tzin_37_5_700ml.jpeg</Image>
-		<Price>16.55</Price>
+		<Price>16.74</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>GORDONS</Manufacturer>
 		<MPN>1497</MPN>
@@ -5765,7 +5793,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>GORDON'S PREMIUM PINK GIN 700ml</Name>
 		<URL>https://www.skroutz.gr/s/14814131/Gordon-s-Premium-Pink-Tzin-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/014814/14814131/20230407162802_gordon_s_premium_pink_tzin_700ml.jpeg</Image>
-		<Price>17.55</Price>
+		<Price>17.75</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>GORDONS</Manufacturer>
 		<MPN>1173</MPN>
@@ -5780,7 +5808,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Tanqueray Τζιν London Dry 43.1% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5536073/Tanqueray-Tzin-London-Dry-43-1-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/005536/5536073/20211014133302_tanqueray_tzin_700ml.jpeg</Image>
-		<Price>22.32</Price>
+		<Price>22.829432052</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>TANQUERAY</Manufacturer>
 		<MPN>1498</MPN>
@@ -5794,7 +5822,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>TANQUERAY TEN GIN 700ml</Name>
 		<URL>https://www.skroutz.gr/s/23243745/Tanqueray-Ten-Tzin-47-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023243/23243745/20200914160924_tanqueray_ten_tzin_700ml.jpeg</Image>
-		<Price>35.59</Price>
+		<Price>38.37166384800001</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>TANQUERAY</Manufacturer>
 		<MPN>1174</MPN>
@@ -5809,7 +5837,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>TANQUERAY RANGPUR GIN 700ml</Name>
 		<URL>https://www.skroutz.gr/s/48478904/Tanqueray-Tanqueray-Rangpur-Gin-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/048478/48478904/20231129180809_tanqueray_tanqueray_rangpur_gin_700ml.jpeg</Image>
-		<Price>22.85</Price>
+		<Price>23.101888758</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>TANQUERAY</Manufacturer>
 		<MPN>1175</MPN>
@@ -5824,7 +5852,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Beefeater London Dry Τζιν 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5506861/Beefeater-London-Dry-Tzin-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005506/5506861/20200215210257_beefeater_tzin_700ml.jpeg</Image>
-		<Price>19.34</Price>
+		<Price>19.555885062</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BEEFEATER</Manufacturer>
 		<MPN>1499</MPN>
@@ -5838,7 +5866,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Bombay Sapphire Distillery Τζιν London Dry 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/43251253/Bombay-Sapphire-Distillery-Tzin-London-Dry-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/043251/43251253/20240520105407_bombay_sapphire_distillery_tzin_vassia_kostara_limited_edition_40_700ml.jpeg</Image>
-		<Price>23.56</Price>
+		<Price>23.825728962</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BOMBAY</Manufacturer>
 		<MPN>1528</MPN>
@@ -5852,7 +5880,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Bombay Sapphire Sunset Τζιν 43% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/32247182/Bombay-Sapphire-Distillery-Sapphire-Sunset-Tzin-43-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/032247/32247182/20211109165632_bombay_sapphire_distillery_sapphire_sunset_tzin_43_700ml.jpeg</Image>
-		<Price>25.7</Price>
+		<Price>25.9867994360436</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BOMBAY</Manufacturer>
 		<MPN>1516</MPN>
@@ -5866,7 +5894,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΒΟΜΒΑΥ PREMIER CRU LEMON GIN 700ml</Name>
 		<URL>https://www.skroutz.gr/s/44484720/Bombay-Sapphire-Distillery-Tzin-Lemon-47-700ml.html</URL>
 		<Image>https://www.oakcava.gr/wp-content/uploads/2023/05/BOMBAY-PREMIER-CRU.png</Image>
-		<Price>36.3</Price>
+		<Price>36.70903814256801</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BOMBAY</Manufacturer>
 		<MPN>1176</MPN>
@@ -5881,7 +5909,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>THE BLUE BEETLE LONDON DRY GIN 700ml</Name>
 		<URL>https://www.skroutz.gr/s/51238861/Tanqueray-The-Blue-Beetle-London-Dry-Gin-700-ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/010858/10858831/20211014133302_the_blue_beetle_london_dry_tzin_700ml.jpeg</Image>
-		<Price>21.6</Price>
+		<Price>21.85</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>THE BLUE BEETLE</Manufacturer>
 		<MPN>1178</MPN>
@@ -5896,7 +5924,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>BICKENS DRY GIN 700ml</Name>
 		<URL>https://www.skroutz.gr/s/51355440/Langley-Distillery-Tzin-Bickens-700-ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/051355/51355440/20240314181030_langley_distillery_tzin_bickens_700_ml.jpeg</Image>
-		<Price>17.62</Price>
+		<Price>17.82</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BICKENS</Manufacturer>
 		<MPN>1179</MPN>
@@ -5911,7 +5939,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Bacardi Carta Blanca Ρούμι 37.5% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/21070194/Bacardi-Carta-Blanca-Roumi-37-5-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/021070/21070194/20191121110441_bacardi_carta_blanca_roumi_700ml.jpeg</Image>
-		<Price>19.56</Price>
+		<Price>19.78</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BACARDI</Manufacturer>
 		<MPN>1529</MPN>
@@ -5925,7 +5953,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Bacardi Anejo 4 Years Old Ρούμι 700ml</Name>
 		<URL>https://www.skroutz.gr/s/20022842/Bacardi-Anejo-4-Years-Old-Roumi-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/020022/20022842/20200713135417_bacardi_anejo_4_years_old_roumi_700ml.jpeg</Image>
-		<Price>25.77</Price>
+		<Price>26.06</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BACARDI</Manufacturer>
 		<MPN>1360</MPN>
@@ -5940,7 +5968,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Mount Gay Eclipse Ρούμι 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5625280/Mount-Gay-Eclipse-Roumi-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005625/5625280/20200629130800_mount_gay_eclipse_roumi_700ml.jpeg</Image>
-		<Price>22</Price>
+		<Price>22.249795998304</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>MOUNT GAY</Manufacturer>
 		<MPN>1361</MPN>
@@ -5955,7 +5983,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>RON VARADERO SILVER DRY RUM 1 Lit</Name>
 		<URL>https://www.skroutz.gr/s/5032084/Ron-Varadero-Silver-Dry-1lt.html</URL>
 		<Image>https://www.go-drink.gr/image/cache/catalog/ron%20varadero/varadero_siver_dry_1_litro-500x500.jpg</Image>
-		<Price>27.52</Price>
+		<Price>27.825149415</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>RON VARADERO</Manufacturer>
 		<MPN>1180</MPN>
@@ -5970,7 +5998,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>MATUSALEM ANEJO 700ml</Name>
 		<URL>https://www.skroutz.gr/s/7988084/Matusalem-Anejo-Roumi-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/007988/7988084/xlarge_20151203145553_matusalem_anejo_roymi_700ml.jpeg</Image>
-		<Price>19.65</Price>
+		<Price>19.87171796</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>MATUSALEM</Manufacturer>
 		<MPN>1181</MPN>
@@ -5985,7 +6013,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>BRUGAL BLANCO RUM 700ml</Name>
 		<URL>https://www.skroutz.gr/s/19888427/Brugal-Blanco-Roumi-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/019888/19888427/xlarge_20190829095925_brugal_blanco_roumi_700ml.jpeg</Image>
-		<Price>20.17</Price>
+		<Price>20.39453602527456</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BRUGAL</Manufacturer>
 		<MPN>1182</MPN>
@@ -6000,7 +6028,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>BRUGAL ANEJO RUM 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5807585/Brugal-Anejo-Roumi-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005807/5807585/xlarge_20210210144025_brugal_anejo_roumi_700ml.jpeg</Image>
-		<Price>21.49</Price>
+		<Price>21.73484431648085</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BRUGAL</Manufacturer>
 		<MPN>1183</MPN>
@@ -6015,7 +6043,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Diplomatico Ρούμι Reserva Exclusiva 12 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5693708/Diplomatico-Roumi-Reserva-Exclusiva-12-Eton-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005693/5693708/20211118125814_diplomatico_reserva_exclusiva_roumi_40_700ml.jpeg</Image>
-		<Price>36.85</Price>
+		<Price>37.26</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>DIPLOMATICO</Manufacturer>
 		<MPN>1362</MPN>
@@ -6030,7 +6058,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Artspritz Απεριτίφ 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55764381/Artspritz-Aperitif-700ml.html</URL>
 		<Image>https://redemption.nzfarmsource.co.nz/wp-content/uploads/on/94928-800x800.png</Image>
-		<Price>9</Price>
+		<Price>9.1</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ARTSPITZ</Manufacturer>
 		<MPN>1207</MPN>
@@ -6045,7 +6073,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Martini Βερμούτ Rosato 14.4% 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/45381204/Martini-Vermout-Rosato-14-4-1000ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/045381/45381204/20230831152537_martini_vermout_rosato_14_4_1000ml.jpeg</Image>
-		<Price>10.7</Price>
+		<Price>10.82</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>MARTINI</Manufacturer>
 		<MPN>1208</MPN>
@@ -6060,7 +6088,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Underberg Digestive Λικέρ 20ml</Name>
 		<URL>https://www.skroutz.gr/s/5269197/Underberg-Liker-20ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/005269/5269197/20200316164245_underberg_liker_20ml.jpeg</Image>
-		<Price>1.22</Price>
+		<Price>1.24</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>UNDERBERG</Manufacturer>
 		<MPN>1363</MPN>
@@ -6075,7 +6103,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>TENTURA VANTANA ESPECIAL 500 ml</Name>
 		<URL>https://www.skroutz.gr/s/5352075/Vantana-Distillery-Tentura-1950-Special-Liker-500ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/005352/5352075/20210210132329_vantana_distillery_tentura_1950_special_liker_500ml.jpeg</Image>
-		<Price>14.9</Price>
+		<Price>15.13</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>VANTANA</Manufacturer>
 		<MPN>1200</MPN>
@@ -6090,7 +6118,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>TENTURA VANTANA CLASSIC 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55728066/Vantana-Distillery-Alkooloucho-Poto-Tentura-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/048455/48455932/20231128233644_vantana_tentoura_classic_20_700ml.jpeg</Image>
-		<Price>11.95</Price>
+		<Price>12.08</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>VANTANA</Manufacturer>
 		<MPN>1201</MPN>
@@ -6105,7 +6133,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Disaronno Λικέρ Velvet 17% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/23599401/Disaronno-Liker-Velvet-17-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023599/23599401/xlarge_20200611181835_disaronno_velvet_liker_700ml.jpeg</Image>
-		<Price>17.38</Price>
+		<Price>17.577524055</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>DISARONNO</Manufacturer>
 		<MPN>1769</MPN>
@@ -6119,7 +6147,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>AMARETTO AURELIA ΛΙΚΕΡ 21,5% VOL 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55567887/Amaretto-Liker-5-700ml.html</URL>
 		<Image>https://cdn.shopify.com/s/files/1/0531/9193/4116/files/AmarettoAureliaLiqueur1.jpg</Image>
-		<Price>9</Price>
+		<Price>9.100528407499999</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>AMARETTO</Manufacturer>
 		<MPN>1202</MPN>
@@ -6134,7 +6162,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>AMARETTO ATELIER ΛΙΚΕΡ 21% VOL 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55567885/Amaretto-Liker-21-700ml.html</URL>
 		<Image>https://i.imgur.com/WImJQiY.png</Image>
-		<Price>9</Price>
+		<Price>9.100528407499999</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>AMARETTO</Manufacturer>
 		<MPN>1203</MPN>
@@ -6149,7 +6177,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΠΟΛΥΚΑΛΑ ΠΙΚΡΟΜΑΝΤΟΛΑ ΛΙΚΕΡ ΣΕ ΚΑΡΑΦΑ 700ml</Name>
 		<URL>https://www.skroutz.gr/s/12274604/Potopoiia-Polykala-Pikromantola-Liker-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/012274/12274604/20170622115108_potopoiia_polykala_pikromantola_liker_700ml.jpeg</Image>
-		<Price>25.7</Price>
+		<Price>25.985727773</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΠΟΛΥΚΑΛΑΣ</Manufacturer>
 		<MPN>1184</MPN>
@@ -6164,7 +6192,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>PISANG ΑΜΒΟΝ ΛΙΚΕΡ 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5388436/Lucas-Bois-Pisang-Ambon-Liker-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/005388/5388436/xlarge_20210210132003_lucas_bois_pisang_ambon_liker_700ml.jpeg</Image>
-		<Price>13.24</Price>
+		<Price>13.39</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>LUCAS BOIS</Manufacturer>
 		<MPN>1186</MPN>
@@ -6179,7 +6207,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>DUBONΝET ΑΠΕΡΙΤΙΦ 750ml</Name>
 		<URL>https://www.skroutz.gr/s/48195495/Dubonnet-Aperitif-14-8-750ml.html</URL>
 		<Image>https://www.bottleshop.gr/pub/media/catalog/product/cache/5e7f174fe79d282c3efe019410ae612f/0/0/0012.jpg</Image>
-		<Price>10.96</Price>
+		<Price>11.08</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>DUBONNET</Manufacturer>
 		<MPN>1187</MPN>
@@ -6194,7 +6222,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Green Fairy Αψέντι Absinth 70% 500ml</Name>
 		<URL>https://www.skroutz.gr/s/7439944/Green-Fairy-Absinth-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/007439/7439944/20150914134617_green_fairy_absinth_500ml.jpeg</Image>
-		<Price>20.26</Price>
+		<Price>20.483051166</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>GREEN FAIRY</Manufacturer>
 		<MPN>1188</MPN>
@@ -6209,7 +6237,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>C&amp;C International Λικέρ Frangelico 20% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5438907/C-C-International-Frangelico-Liker-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005438/5438907/20200316163544_c_c_international_frangelico_liker_700ml.jpeg</Image>
-		<Price>17.38</Price>
+		<Price>17.58016568203663</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>FRANGELICO</Manufacturer>
 		<MPN>1189</MPN>
@@ -6224,7 +6252,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Mavi Λικέρ Limoncello di Procida 30% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/21302811/Mavi-Liker-Limoncello-di-Procida-30-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/021302/21302811/xlarge_20191210095934_mavi_limoncello_di_procida_liker_700ml.jpeg</Image>
-		<Price>14.23</Price>
+		<Price>14.388018437</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Mavi</Manufacturer>
 		<MPN>118901</MPN>
@@ -6243,7 +6271,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Passoa Λικέρ Passion Fruit 17% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5373376/Passoa-Liker-Passion-Fruit-20-Eton-17-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/005373/5373376/xlarge_20211014132706_passoa_liker_700ml.jpeg</Image>
-		<Price>14.34</Price>
+		<Price>14.503236447</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Passoa </Manufacturer>
 		<MPN>1770</MPN>
@@ -6253,26 +6281,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>555511</SKU>
-		<Name>EOLIKI MENTA ΠΡΑΣΙΝΗ 25%Vol 700ML</Name>
-		<URL>https://www.skroutz.gr/s/54216473/Eoliki-Liker-700ml.html</URL>
-		<Image>https://www.skroutz.gr/s/54216473/Eoliki-Liker-700ml.html</Image>
-		<Price>8</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>EOLIKI</Manufacturer>
-		<MPN>1222</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Eoliki Menta Πράσινη 25% Vol 700ml είναι ένα λικέρ με έντονη γεύση δροσερής μέντας και ζωηρό πράσινο χρώμα. Ιδανικό για να απολαύσετε σκέτο με πάγο, ως συστατικό σε κοκτέιλ, ή ως γαρνιτούρα σε γλυκά και επιδόρπια, προσφέρει μια αναζωογονητική και αρωματική εμπειρία.</Description>
-		<EAN>5201304300338</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55561</SKU>
 		<Name>VOLARE BLUE CURACAO 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55567886/Volare-Liker-700ml.html</URL>
 		<Image>https://drinkstore.ie/cdn/shop/files/volare_bluecuracao_bottiglia-Recoveredcopy_1024x.png</Image>
-		<Price>9</Price>
+		<Price>9.1</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>VOLARE</Manufacturer>
 		<MPN>1204</MPN>
@@ -6287,7 +6300,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>VOLARE ΒΑΝΙΛΙΑ ΛΙΚΕΡ 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55567884/Volare-Liker-700ml.html</URL>
 		<Image>https://drinkstore.ie/cdn/shop/products/volare_vanilla_bottiglia_1024x.jpg</Image>
-		<Price>9</Price>
+		<Price>9.1</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>VOLARE</Manufacturer>
 		<MPN>1205</MPN>
@@ -6298,26 +6311,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55572</SKU>
-		<Name>VOLARE ΡΟΔΑΚΙΝΟ ΛΙΚΕΡ 700ml</Name>
-		<URL>https://www.skroutz.gr/s/55567883/Volare-Liker-700ml.html</URL>
-		<Image>https://caskcartel.com/cdn/shop/products/volare-peach-liqueur_700x.jpg</Image>
-		<Price>9</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>VOLARE</Manufacturer>
-		<MPN>1206</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Volare Ροδάκινο Λικέρ 700ml είναι ένα λικέρ με πλούσια και αρωματική γεύση ώριμου ροδάκινου. Ιδανικό για την παρασκευή δροσιστικών κοκτέιλ, όπως το Bellini, ή για απόλαυση σκέτο με πάγο. Η έντονη γεύση φρούτου προσδίδει ζωντάνια σε κάθε ποτό ή επιδόρπιο.</Description>
-		<EAN>8004747008710</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>559023</SKU>
 		<Name>ΚΑΛΛΙΚΟΥΝΗΣ ΣΙΡΟΠΙ ΓΙΑ ΚΟΚΤΕΙΛ ΜΕ ΓΕΥΣΗ ΓΡΕΝΑΔΙΝΗ 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55568266/Kallikounis-Siropi-gia-Kokteil-me-Geysi-Grenadini-700ml.html</URL>
 		<Image>https://i.imgur.com/S7HPCeE.png</Image>
-		<Price>1.79</Price>
+		<Price>1.81</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>ΚΑΛΛΙΚΟΥΝΗΣ</Manufacturer>
 		<MPN>1217</MPN>
@@ -6332,7 +6330,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Τζίντζερ 700ml</Name>
 		<URL>https://www.skroutz.gr/s/22738965/Monin-Siropi-gia-Kokteil-me-Geysi-Tzintzer-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022738/22738965/xlarge_20200409172708_monin_siropi_ginger_700ml.jpeg</Image>
-		<Price>10.62</Price>
+		<Price>10.772933535</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1212001</MPN>
@@ -6350,7 +6348,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Gingerbread 700ml</Name>
 		<URL>https://www.skroutz.gr/s/22739417/Monin-Siropi-gia-Kokteil-me-Geysi-Gingerbread-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/022739/22739417/20210304165440_monin_siropi_gingerbread_700ml.jpeg</Image>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1212</MPN>
@@ -6365,7 +6363,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Σιρόπι Blood Orange 700ml</Name>
 		<URL>https://www.skroutz.gr/s/22756872/Monin-Siropi-Blood-Orange-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022756/22756872/20200410180830_monin_siropi_blood_orange_700ml.jpeg</Image>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1213</MPN>
@@ -6380,7 +6378,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Σιρόπι Βανίλια Μαδαγασκάρης 700ml</Name>
 		<URL>https://www.skroutz.gr/s/60194179/monin-siropi-mparman-vanilia-madagaskaris-700-ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/060194/60194179/xlarge_20250430120611_monin_siropi_mparman_vanilia_madagaskaris_700_ml.jpeg</Image>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1212002</MPN>
@@ -6405,7 +6403,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Κανέλα 700ml</Name>
 		<URL>https://www.skroutz.gr/s/22739189/Monin-Siropi-gia-Kokteil-me-Geysi-Kanela-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022739/22739189/xlarge_20220218094349_monin_siropi_gia_kokteil_me_geysi_kanela_700ml.jpeg</Image>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1212003</MPN>
@@ -6425,7 +6423,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Γεύση Σιρόπι για Κοκτέιλ με Γεύση Αγγούρι 700ml</Name>
 		<URL>https://www.skroutz.gr/s/53452144/Monin-Geysi-Siropi-gia-Kokteil-me-Geysi-Agouri-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/053452/53452144/xlarge_20240514164345_monin_geysi_siropi_gia_kokteil_me_geysi_agouri_700ml.jpeg</Image>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1212004</MPN>
@@ -6439,7 +6437,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Φράουλα 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/32815647/Monin-Poures-gia-Kokteil-me-Geysi-Fraoula-1000ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/032815/32815647/xlarge_20220218100325_monin_poures_cassis_1000ml.jpeg</Image>
-		<Price>17.53</Price>
+		<Price>17.7900428475</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1213001</MPN>
@@ -6455,7 +6453,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Μάνγκο 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/22751141/Monin-Poures-gia-Kokteil-me-Geysi-Mango-1000ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/022751/22751141/xlarge_20200410130340_monin_poures_mango_1000ml.jpeg</Image>
-		<Price>17.53</Price>
+		<Price>17.7900428475</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1213002</MPN>
@@ -6476,7 +6474,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Φρούτα του Πάθους 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/22751112/Monin-Poures-gia-Kokteil-me-Geysi-Frouta-tou-Pathous-1000ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/022751/22751112/xlarge_20220218094342_monin_poures_gia_kokteil_me_geysi_frouta_tou_pathous_1000ml.jpeg</Image>
-		<Price>17.53</Price>
+		<Price>17.7900428475</Price>
 		<Category>Υλικά Κοκτέιλ</Category>
 		<Manufacturer>MONIN</Manufacturer>
 		<MPN>1213003</MPN>
@@ -7023,7 +7021,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>0629</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως από ανοξείδωτο ατσάλι, μονής λεπίδας, με επικάλυψη πολυμερούς και χρωμίου. Προσαρμοσμένο για ευαίσθητες επιδερμίδες. Με λευκή πολυεστερική σταθερή κεφαλή.</Description>
 		<EAN>5201313008652</EAN>
-		<Quantity>227</Quantity>
+		<Quantity>226</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9445,7 +9443,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<EAN>5203650710286</EAN>
-		<Quantity>2162</Quantity>
+		<Quantity>2161</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10086,7 +10084,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.
     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία. </Description>
 		<EAN>7615400818112</EAN>
-		<Quantity>252</Quantity>
+		<Quantity>246</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16581,7 +16579,7 @@ mini markets
 		<MPN>1570</MPN>
 		<Description>Αντικολλητικό χαρτί κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 20εκ.    Μήκος(εκατοστά): 20εκ.    Τεμάχια: 25τμχ</Description>
 		<EAN>5202054473563</EAN>
-		<Quantity>129</Quantity>
+		<Quantity>125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22688,7 +22686,7 @@ XO-EP57
 		<MPN>1563</MPN>
 		<Description>Power bank SILICON POWER QS58    Χωρητικότητα: 20000mAh    Είσοδος USB-C: 5V/2.5A, 9V/2A (PD), 12V/1.5A    Έξοδος USB 1: 5V/3A, 9V/2A, 12V/1.5A    Έξοδος USB 2: 5V/3A, 9V/2A, 12V/1.5A    Έξοδος USB-C: 5V/3A, 9V/2.2A, 12V/1.6A    Συνολική έξοδος: 5V/3A Max    Χρόνος φόρτισης power bank: ~6 ώρες    Υλικό: ABS + PC    Διαστάσεις: ~120 x 72 x 30mm    Βάρος: ~315g    Χρώμα: Μαύρο</Description>
 		<EAN>4713436149354</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26399,7 +26397,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>1048</Quantity>
+		<Quantity>1047</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26495,7 +26493,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
 		<EAN>8007520011549</EAN>
-		<Quantity>1263</Quantity>
+		<Quantity>1239</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
