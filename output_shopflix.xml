@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-08-22 16:05</created_at>
+	<created_at>2025-08-22 17:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -28,7 +28,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας Άλφα είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
 		<EAN>5201261801152</EAN>
-		<Quantity>19</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -191,7 +191,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>649</Quantity>
+		<Quantity>646</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -251,7 +251,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>341</Quantity>
+		<Quantity>331</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -281,7 +281,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>259</Quantity>
+		<Quantity>249</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -311,7 +311,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
-		<Quantity>232</Quantity>
+		<Quantity>222</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -552,7 +552,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>332</Quantity>
+		<Quantity>331</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -567,7 +567,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>106</Quantity>
+		<Quantity>105</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2416,7 +2416,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>670</Quantity>
+		<Quantity>660</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2446,7 +2446,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
 		<EAN>5201214100271</EAN>
-		<Quantity>113</Quantity>
+		<Quantity>115</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3069,7 +3069,7 @@
 
 Απολαμβάνεται δροσερό στους 10–12°C.</Description>
 		<EAN>5204222575031</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3421,7 +3421,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1327</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες, με αρώματα λευκών λουλουδιών, εσπεριδοειδών και διακριτικών αρωματικών βοτάνων. Στο στόμα είναι γεμάτο με εξαιρετική ισορροπία και με μακράς διάρκειας επίγευση.</Description>
 		<EAN>5205243322079</EAN>
-		<Quantity>880</Quantity>
+		<Quantity>879</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9438,7 +9438,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<EAN>5200100281629</EAN>
-		<Quantity>10621</Quantity>
+		<Quantity>10620</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9751,7 +9751,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<EAN>3800500148076</EAN>
-		<Quantity>489</Quantity>
+		<Quantity>481</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9968,7 +9968,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το συμπυκνωμένο μαλακτικό ρούχων της Tesori d'Oriente εισχωρεί και μαλακώνει τις ίνες των υφασμάτων, με αποτέλεσμα να μην τσακίζουν, μειώνει τον στατικό ηλεκτρισμό, προσφέρει απαλά ρούχα, διευκολύνει τη διαδικασία του σιδερώματος και συμβάλλει στη διατήρηση των υφασμάτων.</Description>
 		<EAN>8008970055220</EAN>
-		<Quantity>674</Quantity>
+		<Quantity>669</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10466,7 +10466,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
 		<EAN>4084500183087</EAN>
-		<Quantity>654</Quantity>
+		<Quantity>653</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10775,7 +10775,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1112</MPN>
 		<Description>Το Viakal Classic είναι ιδανικό για να αφαιρείτε ακόμη και τα πιο επίμονα άλατα και για να καθαρίζετε τα υπολείμματα σαπουνιού και τα στίγματα νερού στο μπάνιο και την κουζίνα σας. Η συχνή χρήση του Viakal προλαμβάνει την επανεμφάνιση των αλάτων. Η ειδική σύνθεσή του σέβεται τις επιφάνειες και βοηθά στην αποφυγή επανεμφάνισης των αλάτων.</Description>
 		<EAN>8001090574602</EAN>
-		<Quantity>1022</Quantity>
+		<Quantity>1021</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11055,7 +11055,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<EAN>8711600347083</EAN>
-		<Quantity>4312</Quantity>
+		<Quantity>4311</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12519,7 +12519,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Ιδανικό για κατάψυξη και ψυγείο
     Ανοίγουν και κλείνουν πολλές φορές</Description>
 		<EAN>5203642133593</EAN>
-		<Quantity>45</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24478,7 +24478,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Weight>1 kg</Weight>
 		<Description>Η λευκή ζάχαρη της εταιρείας Royal Sugar σε κρυσταλλική μορφή, είναι το γλυκό προϊόν που προκύπτει μετά απο επεξεργασία, προκειμένου να αφαιρεθεί εντελώς η μελάσα και να μείνουν μόνο οι λευκοί καθαροί κρύσταλλοι. Ένα κουταλάκι του γλυκού (5 γραμμάρια) αποδίδει 16 θερμίδες.</Description>
 		<EAN>5200120912039</EAN>
-		<Quantity>8548</Quantity>
+		<Quantity>8542</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26300,7 +26300,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>949</Quantity>
+		<Quantity>948</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
