@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-12 16:05</created_at>
+	<created_at>2025-09-12 16:53</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -28,7 +28,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας Άλφα είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
 		<EAN>5201261801152</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -567,7 +567,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>471</Quantity>
+		<Quantity>469</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -799,7 +799,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005179370</EAN>
-		<Quantity>879</Quantity>
+		<Quantity>855</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1179,7 +1179,7 @@
 	</product>
 	<product>
 		<SKU>14121</SKU>
-		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί</Name>
 		<URL>https://www.skroutz.gr/s/29343638/Souroti-Anthrakoucho-Nero-6x0-33lt.html?product_id=204993902</URL>
 		<Image>https://trofodosies.gr/wp-content/uploads/2022/06/20210607164446_souroti_0_33lt_6tmch.jpg</Image>
 		<Price>4.751794523770572</Price>
@@ -1194,7 +1194,7 @@
 	</product>
 	<product>
 		<SKU>14122</SKU>
-		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ ΛΕΜΟΝΙ</Name>
+		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Λεμόνι</Name>
 		<URL>https://www.skroutz.gr/s/29343612/Souroti-Anthrakoucho-Nero-me-Geysi-Lemoni-kai-Lime-6x0-33lt.html?product_id=204993900</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/SOUROTI-LEMONI-KOUTI-ANTHRAKOUXO-6x330-1.jpg</Image>
 		<Price>5.420284048408319</Price>
@@ -1209,7 +1209,7 @@
 	</product>
 	<product>
 		<SKU>14124</SKU>
-		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ PINK GRAPEFRUIT</Name>
+		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Pink Grapefruit</Name>
 		<URL>https://www.skroutz.gr/s/46343301/Souroti-Anthrakoucho-Nero-me-Geysi-Pink-Grapefruit-6x0-33lt.html?product_id=204993897</URL>
 		<Image>https://souroti.gr/wp-content/uploads/2023/07/souroti-grapefruit-removebg-preview.png</Image>
 		<Price>5.5553307630912</Price>
@@ -1224,7 +1224,7 @@
 	</product>
 	<product>
 		<SKU>14125</SKU>
-		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ ΜΑΣΤΙΧΑ</Name>
+		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Μαστίχα</Name>
 		<URL>https://www.skroutz.gr/s/36774603/Souroti-Anthrakoucho-Nero-me-Geysi-Masticha-6x0-33lt.html?product_id=204993899</URL>
 		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=bf00751e-6778-40ec-bc1b-21e5b04a87e9</Image>
 		<Price>5.5553307630912</Price>
@@ -1235,6 +1235,26 @@
 		<Description>Ποτό από Ανθρακούχο Φυσικό Μεταλλικό νερό Σουρωτή με φυσικά αρώματα Μαστίχα. Χωρίς ζάχαρη και με λιγότερο από 1 θερμίδα ανά 100ml προιόντος. Το νερό Σουρωτή συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την αναζωογονητική και ενυδατική γεύση της μαστίχας.</Description>
 		<EAN>5201277250708</EAN>
 		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>14147</SKU>
+		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 750ml σε Γυάλινη Φιάλη Μιας Χρήσης</Name>
+		<URL>https://souroti.gr/syskevasies</URL>
+		<Image>https://souroti.gr/wp-content/uploads/2023/08/0407-1-400x400.jpg</Image>
+		<Price>1.83</Price>
+		<Category>Εμφιαλωμένα Νερά</Category>
+		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
+		<MPN>14147-01</MPN>
+		<Weight>0.9 kg</Weight>
+		<Description>Η κυκλοφορία του νερού σε πολύ μεγάλο βάθος μέσα από πετρώματα ιδιαίτερης σύστασης, χαρίζουν στη souroti την ιδιαίτερη μεταλλική της σύσταση και την ξεχωριστή της γεύση.
+
+Κατ’ ευθείαν από την καρδιά της γης, ιδιαίτερα εμπλουτισμένο με περισσότερο από 1.000 mg/L μεταλλικά στοιχεία, μεταλλικά άλατα και ιχνοστοιχεία, με εξαιρετικά υψηλή περιεκτικότητα σε όξινα ανθρακικά, μαγνήσιο, ασβέστιο, πυρίτιο και λίθιο, η souroti είναι ένα από τα πιο εμπλουτισμένα φυσικά μεταλλικά νερά, συμπληρώνοντας τη διατροφή.
+
+Ένα λίτρο souroti καλύπτει περίπου το 25% των ημερησίων αναγκών σε ασβέστιο και περίπου το 15% των ημερησίων αναγκών σε μαγνήσιο ενός ενήλικα καθώς έχει περιεκτικότητα περίπου 190 mg/L Ασβεστίου και 55 mg/L Μαγνησίου.
+
+Η souroti δεν έχει θερμίδες, ούτε πρόσθετα συντηρητικά.</Description>
+		<EAN>5201277250036</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1353,7 +1373,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000044</EAN>
-		<Quantity>1602</Quantity>
+		<Quantity>1575</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1728,7 +1748,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
 		<EAN>5200128720049</EAN>
-		<Quantity>35</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1873,7 +1893,7 @@
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
 		<EAN>1520162701990</EAN>
-		<Quantity>1017</Quantity>
+		<Quantity>1014</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7426,7 +7446,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1060</MPN>
 		<Description>Αποσμητικό σε μορφή σπρέι που αρωματίζει διακριτικά με το κλασικό άρωμα για μέχρι και 48 ώρες προστασίας.</Description>
 		<EAN>8720181114441</EAN>
-		<Quantity>146</Quantity>
+		<Quantity>145</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9206,6 +9226,74 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>680100101</SKU>
+		<Name>Practic Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Extra Large</Name>
+		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
+		<Price>3.04</Price>
+		<Category>Γάντια μιας Χρήσης</Category>
+		<Manufacturer>Practic</Manufacturer>
+		<MPN>680100101-XL</MPN>
+		<Description>Εξεταστικά αμφιδέξια γάντια νιτριλίου μιας χρήσης χωρίς πούδρα και μη αποστειρωμένα.
+
+Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί έχουν καλή εφαρμογή.</Description>
+		<EAN>5203399240100</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>680100102</SKU>
+		<Name>Practic Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Large</Name>
+		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
+		<Price>3.04</Price>
+		<Category>Γάντια μιας Χρήσης</Category>
+		<Manufacturer>Practic</Manufacturer>
+		<MPN>680100101-L</MPN>
+		<Description>Εξεταστικά αμφιδέξια γάντια νιτριλίου μιας χρήσης χωρίς πούδρα και μη αποστειρωμένα.
+
+Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί έχουν καλή εφαρμογή.</Description>
+		<EAN>5203399240094</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>680100103</SKU>
+		<Name>Practic Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Medium</Name>
+		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
+		<Price>3.04</Price>
+		<Category>Γάντια μιας Χρήσης</Category>
+		<Manufacturer>Practic</Manufacturer>
+		<MPN>680100101-M</MPN>
+		<Description>Εξεταστικά αμφιδέξια γάντια νιτριλίου μιας χρήσης χωρίς πούδρα και μη αποστειρωμένα.
+
+Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί έχουν καλή εφαρμογή.</Description>
+		<EAN>5203399240087</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>680100104</SKU>
+		<Name>Practic Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Small</Name>
+		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
+		<Price>3.04</Price>
+		<Category>Γάντια μιας Χρήσης</Category>
+		<Manufacturer>Practic</Manufacturer>
+		<MPN>680100101-S</MPN>
+		<Description>Εξεταστικά αμφιδέξια γάντια νιτριλίου μιας χρήσης χωρίς πούδρα και μη αποστειρωμένα.
+
+Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί έχουν καλή εφαρμογή.</Description>
+		<EAN>5203399240070</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>68041</SKU>
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
@@ -9268,7 +9356,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468897_1_1.jpg</Image>
-		<Price>3.9085944768</Price>
+		<Price>3.82</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1081</MPN>
@@ -9282,7 +9370,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468880_1_1.jpg</Image>
-		<Price>3.9085944768</Price>
+		<Price>3.82</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1082</MPN>
@@ -9296,7 +9384,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Small</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image>
-		<Price>3.9085944768</Price>
+		<Price>3.82</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1083</MPN>
@@ -9310,13 +9398,13 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>HDPE Γάντια Πολυαιθυλενίου Διάφανα One Size 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/22849406/Goldglove-HDPE-Gantia-Polyaithyleniou-se-Diafano-CHroma-100tmch.html?product_id=215518789</URL>
 		<Image>https://maskes.gr/wp-content/uploads/2020/05/%CE%93%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%A0%CE%BF%CE%BB%CF%85%CE%B1%CE%B9%CE%B8%CF%85%CE%BB%CE%B5%CE%BD%CE%AF%CE%BF%CF%85-%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1-One-Size-Large-%CE%A3%CE%B5%CF%84-100-%CE%A4%CE%B5%CE%BC%CE%B1%CF%87%CE%AF%CF%89%CE%BD.jpg</Image>
-		<Price>0.555663654</Price>
+		<Price>0.39</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1084</MPN>
 		<Description>Γάντια πολυαιθυλενίου μιας χρήσης σε διάφανο χρώμα, τα οποία έχουν χαλαρή φόρμα για εύκολη εφαρμογή, είναι φιλικά προς το δέρμα και είναι ιδανικά κυρίως για χρήση σε εργασίες που απαιτούν συχνές αλλαγές γαντιών όπως η επαφή με μπογιές, χρώματα ή τρόφιμα.</Description>
 		<EAN>5202054454876</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>2018</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9523,7 +9611,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<EAN>5200100281643</EAN>
-		<Quantity>2367</Quantity>
+		<Quantity>2366</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9537,7 +9625,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T3.450G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<EAN>5203650710285</EAN>
-		<Quantity>2289</Quantity>
+		<Quantity>2325</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9764,7 +9852,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 </Description>
 		<EAN>5201263078439</EAN>
-		<Quantity>2379</Quantity>
+		<Quantity>2378</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9778,7 +9866,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<EAN>3800500148076</EAN>
-		<Quantity>429</Quantity>
+		<Quantity>428</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9862,7 +9950,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0785</MPN>
 		<Description>Τραπεζομάντηλο μιας χρήσης, σε λευκό χρώμα, με σχέδιο ελιά και διάσταση 130 x 110 cm, σε συσκευασία 110τμχ</Description>
 		<EAN>5202995007902</EAN>
-		<Quantity>123</Quantity>
+		<Quantity>121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9920,7 +10008,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055237</EAN>
-		<Quantity>1739</Quantity>
+		<Quantity>1738</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10102,7 +10190,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>2.5 kg</Weight>
 		<Description>Απορρυπαντικό πλυντηρίου ρούχων Omo σε σκόνη, με άρωμα λεβάντας. Προσφέρει καθαριότητα σε κάθε πλύση εισχωρώντας σε βάθος στις ίνες των ρούχων. Τα εμπλουτισμένα με αιθέρια έλαια αρώματα που περιέχει έχουν επιλεχτεί ειδικά για φρεσκάδα που διαρκεί όλη μέρα.</Description>
 		<EAN>8710847886874</EAN>
-		<Quantity>212</Quantity>
+		<Quantity>211</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10732,7 +10820,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<EAN>5000186735012</EAN>
-		<Quantity>1713</Quantity>
+		<Quantity>1711</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10802,7 +10890,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1112</MPN>
 		<Description>Το Viakal Classic είναι ιδανικό για να αφαιρείτε ακόμη και τα πιο επίμονα άλατα και για να καθαρίζετε τα υπολείμματα σαπουνιού και τα στίγματα νερού στο μπάνιο και την κουζίνα σας. Η συχνή χρήση του Viakal προλαμβάνει την επανεμφάνιση των αλάτων. Η ειδική σύνθεσή του σέβεται τις επιφάνειες και βοηθά στην αποφυγή επανεμφάνισης των αλάτων.</Description>
 		<EAN>8001090574602</EAN>
-		<Quantity>1020</Quantity>
+		<Quantity>1018</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11579,7 +11667,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Η φίμπρα περιέχει ιόντα αργύρου ένα αντιβακτηριδιακό συστατικό που προλαμβάνει την ανάπτυξη των βακτηρίων.</Description>
 		<EAN>5201815211352</EAN>
-		<Quantity>1989</Quantity>
+		<Quantity>1988</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12443,7 +12531,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Ο τύπος του αρωματικού είναι ντουλάπας, κατάλληλο για να χρησιμοποιείται σε κλειστούς χώρους.
 </Description>
 		<EAN>5203642114844-lev</EAN>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12770,7 +12858,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643119</EAN>
-		<Quantity>489</Quantity>
+		<Quantity>487</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14297,7 +14385,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Γραφείο laptop με λευκό μεταλλικό σκελετό, επιφάνει από ξύλο και ρόδες για εύκολη μεταφορά, πτυσσόμενο με ρυθμιζόμενο ύψος από την εταιρεία Sidirela.</Description>
 		<EAN>5203642139779</EAN>
-		<Quantity>41</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15414,7 +15502,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>E-3516</MPN>
 		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home έχει επιφάνεια από κοκοφοίνικα και περίμετρο από αντιολισθητικό υλικό με εμφάνιση οξυδωμένου σιδήρου.</Description>
 		<EAN>5203642135160</EAN>
-		<Quantity>18</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16046,7 +16134,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>3800206611195</EAN>
-		<Quantity>183</Quantity>
+		<Quantity>135</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16945,7 +17033,7 @@ mini markets
 		<MPN>1570</MPN>
 		<Description>Αντικολλητικό χαρτί κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 20εκ.    Μήκος(εκατοστά): 20εκ.    Τεμάχια: 25τμχ</Description>
 		<EAN>5202054473563</EAN>
-		<Quantity>122</Quantity>
+		<Quantity>121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17122,7 +17210,7 @@ mini markets
 		<Weight>0.2 kg</Weight>
 		<Description>•Μέγεθος: Β5•Αριθμός φύλλων: 50•Πλαστικό εξώφυλλο•Διχάρακο</Description>
 		<EAN>5200000040432</EAN>
-		<Quantity>53</Quantity>
+		<Quantity>51</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17152,7 +17240,7 @@ mini markets
 		<Weight>0.2 kg</Weight>
 		<Description>•Αριθμός Φύλλων: 50•Διάσταση: Β5•Βιβλιοδεσία: Καρφίτσα•Γραμμογράφηση: Έκθεσης</Description>
 		<EAN>5200000040463</EAN>
-		<Quantity>56</Quantity>
+		<Quantity>55</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17167,7 +17255,7 @@ mini markets
 		<Weight>0.2 kg</Weight>
 		<Description>•Τύπος Φύλλου: Ριγέ•Αριθμός Φύλλων: 50•Δέσιμο: Καρφίτσα•Βάρος Φύλλου: 70gr•Διαστάσεις: 17x25 cm</Description>
 		<EAN>promitheas-5200000040623</EAN>
-		<Quantity>43</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17182,7 +17270,7 @@ mini markets
 		<Weight>0.2 kg</Weight>
 		<Description>•Τύπος Φύλλου: Ριγέ•Αριθμός Φύλλων: 50•Δέσιμο: Καρφίτσα•Βάρος Φύλλου: 70gr•Διαστάσεις: 17x25 cm</Description>
 		<EAN>5200000040630</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17212,7 +17300,7 @@ mini markets
 		<Weight>0.24 kg</Weight>
 		<Description>Μπλοκ ζωγραφικής με χαρούμενα ξεχωριστά εξώφυλλα σχεδιασμένα για τους δημιουργούς της καρδιάς μας! Το κάθε μπλοκ έχει 40 φύλλα και είναι από εξαιρετικής ποιότητας χαρτί 70γρ. κατάλληλο για τις ζωγραφιές των μικρών μας φίλων! Έχει μονό μεταλλικό σπιράλ. Εσωτερικά έχει μία σελίδα αυτοκόλλητα σε διάφορα σχέδια και σχήματα. Είναι το ιδανικό μπλοκ για μολύβι, ξυλομπογιά, παστέλ και μαρκαδόρους!</Description>
 		<EAN>5200000042412</EAN>
-		<Quantity>19</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17430,7 +17518,7 @@ mini markets
 		<Weight>0.25 kg</Weight>
 		<Description>Κόλλα σχολική / παιδική από την Typotrust σε μορφή gel 14ml για εύκολη εφαρμογή. Αποτελεί ασφαλή επιλογή για χρήση από παιδιά σε χειροτεχνίες στο σχολείο αλλά και στο σπίτι. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
 		<EAN>5200001052014</EAN>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17516,7 +17604,7 @@ mini markets
 		<MPN>INA8002111</MPN>
 		<Description>Είναι σχεδιασμένο ώστε να προσφέρει εξαιρετικά αποτελέσματα σε όλα τα είδη εγγράφων, με υψηλά επίπεδα λευκού, για μέγιστη ποιότητα αναπαραγωγής κειμένου.</Description>
 		<EAN>5602007974411</EAN>
-		<Quantity>1206</Quantity>
+		<Quantity>1205</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20090,7 +20178,7 @@ mini markets
 		<MPN>1518</MPN>
 		<Description>Οι σακούλες σκούπας της Kleenair είναι συμβατές με τους παρακάτω τύπους ηλεκτρικής σκούπας:AFKPS 1800 W, PS 1600 W.5, PS 1600 W.6NE, PS 1600 W.3, PS 1600 W.3NEDELFINQZ13ADIRT DEVILEQU M 7100-3, Allegra M 7000, Allegra M 7100, M 7017-1DOMODO 7250 SELRAMJC 831, JC 862, JC 865, Palazzo, Polo, Tigra, X 802 EGERMATICBS 2000 W.1, 1600WGRUPPE15F, 16ASOLAC896, 917, 919TRISTARJC 802, JC 802 EM, JC 831, JC 862, VCH-4601GRAETZJC 802, HD 101KAMBROOKJaquar PowerSEVERIN7930DELONGHIXTH 170, XTD 3071 EHOME ELECTRONICSDelfin, QZ 13 AD4EVERGLADESEV 1017SAMSUNGSC 5199PRINCESSRed FoxZANUSSI3999VAX430 Silence, C90-43 series, C88-43S E</Description>
 		<EAN>8710881771051</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20104,7 +20192,7 @@ mini markets
 		<MPN>1519</MPN>
 		<Description>Η συσκευασία περιλαμβάνει 5 υφασμάτινες σακούλες και 1 φίλτρο.</Description>
 		<EAN>8710881495520</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20146,7 +20234,7 @@ mini markets
 		<MPN>1522</MPN>
 		<Description>Το μίξερ χειρός Gruppe Designed in Greece PDH007 ξεχωρίζει για την ομορφιά και την κομψότητά του. Είναι ιδιαίτερα εργονομικό και παράλληλα λεπτό και κομψό. Βασική διαφορά του είναι ο μεταλλικός κονέκτορας που του δίνει μεγαλύτερη αντοχή.</Description>
 		<EAN>5206684006122</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20236,13 +20324,13 @@ mini markets
 		<Name>Gruppe Πολυκόπτης Multi 300W με Δοχείο 500ml White</Name>
 		<URL>https://www.skroutz.gr/s/12788998/Gruppe-PDH401-2PL-Polykoptis-Multi-300W-me-Docheio-500ml-White.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/012788/12788998/20200316165713_gruppe_pdh401_2pl_white.jpeg</Image>
-		<Price>15.9</Price>
+		<Price>14.8</Price>
 		<Category>Πολυκόπτες Multi</Category>
 		<Manufacturer>GRUPPE</Manufacturer>
 		<MPN>1523</MPN>
 		<Description>Το multi της Gruppe PDH-401-2PL αποτελεί πολύτιμο βοηθό στην κουζίνα. Με ισχύ 300W μπορεί να αλέθει τροφές εύκολα και γρήγορα.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι εύκολο στη χρήση.</Description>
 		<EAN>5206684005460</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20475,7 +20563,7 @@ mini markets
 		<Name>Gruppe HHB8702D Inox Βραστήρας 1.7lt 2200W Ασημί</Name>
 		<URL>https://www.skroutz.gr/s/26987482/Gruppe-HHB8702D-Inox-Vrastiras-1-7lt-2200W-Asimi.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/026987/26987482/20220715164440_gruppe_hhb8702d_inox_vrastiras_1_7lt_2200w_inox.jpeg</Image>
-		<Price>29.9</Price>
+		<Price>28.9</Price>
 		<Category>Βραστήρες</Category>
 		<Manufacturer>GRUPPE</Manufacturer>
 		<MPN>1696</MPN>
@@ -20487,7 +20575,7 @@ mini markets
 
 Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί έχει καλή ποιότητα υλικών και βράζει γρήγορα το νερό.</Description>
 		<EAN>5206684007778</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24784,7 +24872,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 κρέμες, μπεσαμέλ, κουλούρια, μπισκότα, πίτσες,
 λουκουμάδες κ.α.</Description>
 		<EAN>5214000546252</EAN>
-		<Quantity>150</Quantity>
+		<Quantity>160</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24988,7 +25076,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια Νο5 ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<EAN>5201013005074</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25108,7 +25196,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Ξίδι της εταιρείας ΤΖΩΝ ΤΟΠ, το οποίο παράγεται από κόκκινο κρασί και είναι ιδανικό για σαλάτες, όσπρια ή χοιρινό κρέας. Το οξικό οξύ που περιέχει το ξίδι επιβραδύνει την πέψη των υδατανθράκων και αυξάνει την απορρόφηση της γλυκόζης. Η διαδικασία έχει ως αποτέλεσμα μικρότερες ποσότητες γλυκόζης στο αίμα και διατήρηση υγιών επιπέδων σακχάρου. Είναι πλούσιο σε αντιοξειδωτικά που προστατεύουν το σώμα από βλάβες του δέρματος και μολύνσεις. Επίσης ωφελεί την υγεία της καρδιάς και μειώνει τα επίπεδα χοληστερόλης, προλαμβάνει τη φλεγμονή και τη δημιουργία θρόμβων και ρυθμίζει την αρτηριακή πίεση.</Description>
 		<EAN>5202737200332</EAN>
-		<Quantity>1126</Quantity>
+		<Quantity>1124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26012,7 +26100,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι.
 Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<EAN>5301000235047</EAN>
-		<Quantity>120</Quantity>
+		<Quantity>118</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
