@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-20 16:05</created_at>
+	<created_at>2025-09-20 16:54</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -552,7 +552,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>347</Quantity>
+		<Quantity>346</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8568,7 +8568,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1383</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<EAN>5201395646612</EAN>
-		<Quantity>33</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9799,7 +9799,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<EAN>5202995004628</EAN>
-		<Quantity>1725</Quantity>
+		<Quantity>1723</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17734,7 +17734,7 @@ mini markets
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
 		<EAN>5207146013931</EAN>
-		<Quantity>73</Quantity>
+		<Quantity>71</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20618,9 +20618,23 @@ Volt: 3V</Description>
 		<Price>12.389832</Price>
 		<Category>Ηλεκτρικά Μπρίκια</Category>
 		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1189</MPN>
+		<MPN>E-1189-BL</MPN>
 		<Description>Ηλεκτρικό μπρίκι της εταιρείας Sidirela, με ισχύ 800 Watt. Το ηλεκτρικό μπρίκι προετοιμάζει τον ελληνικό καφέ πιο γρήγορα και εύκολα σε σχέση με ένα συμβατικό μπρίκι. Διαθέτει χωρητικότητα 500 ml και μπορεί να παράξει έως και 6 μονά φλιτζάνια ελληνικού καφέ.</Description>
 		<EAN>5203642111898</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799170111</SKU>
+		<Name>Sidirela Ηλεκτρικό Μπρίκι 800W με Χωρητικότητα 500ml Γκρι E-1189</Name>
+		<URL>https://www.skroutz.gr/s/40629151/Sidirela-E-1189-Ilektriko-Mpriki-800W-me-CHoritikotita-500ml-Gri.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/040629/40629151/xlarge_20230210100332_sidirela_e_1189_1_ilektriko_mpriki_800w_me_choritikotita_500ml_gri.jpeg</Image>
+		<Price>12.389832</Price>
+		<Category>Ηλεκτρικά Μπρίκια</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1189-GR</MPN>
+		<Description>Ηλεκτρικό μπρίκι της εταιρείας Sidirela, με ισχύ 800 Watt. Το ηλεκτρικό μπρίκι προετοιμάζει τον ελληνικό καφέ πιο γρήγορα και εύκολα σε σχέση με ένα συμβατικό μπρίκι. Διαθέτει χωρητικότητα 500 ml και μπορεί να παράξει έως και 6 μονά φλιτζάνια ελληνικού καφέ.</Description>
+		<EAN>5203642111898-GRAY</EAN>
 		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -22984,7 +22998,7 @@ XO-EP57
     Βάρος: 200 ±5gr.
     Διαστάσεις, (Μήκος x Πλάτος x Πάχος): 100 x 68 x 20 mm.</Description>
 		<EAN>6920680851454</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24248,7 +24262,7 @@ Aluminum Case Better for heat dissipation </Description>
     Ρεύματος-Μπαταρίας-Ηλιακό
     Διαστάσεις: 17,5x7,5x10cm</Description>
 		<EAN>8011000026671</EAN>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25219,7 +25233,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια τριβελάκι απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<EAN>5201013005081</EAN>
-		<Quantity>126</Quantity>
+		<Quantity>123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26919,7 +26933,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<EAN>5202546009133</EAN>
-		<Quantity>76</Quantity>
+		<Quantity>67</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
