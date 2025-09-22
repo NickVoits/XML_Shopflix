@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-22 16:05</created_at>
+	<created_at>2025-09-22 16:54</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -191,7 +191,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>267</Quantity>
+		<Quantity>266</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2715,7 +2715,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4746500/Ktima-Avantis-Krasi-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004746/4746500/xlarge_20200413105843_ktima_avantis_sauvignon_blanc_leyko_750ml.jpeg</Image>
-		<Price>11.73982877229624</Price>
+		<Price>12.489179544996</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1666001</MPN>
@@ -2736,7 +2736,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4746618/Ktima-Avantis-Krasi-Syrah-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004746/4746618/avantissyrah.gif</Image>
-		<Price>12.05712144181776</Price>
+		<Price>12.826724938104</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1615</MPN>
@@ -2750,7 +2750,7 @@
 		<Name>Κτήμα Αβαντίς Άγιος Χρόνος Viognier Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/23160444/Ktima-Avantis-Krasi-Agios-CHronos-Viognier-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/023160/23160444/20211019161128_ktima_avantis_krasi_leyko_xiro_agios_chronos_750ml.jpeg</Image>
-		<Price>15.65310502972832</Price>
+		<Price>16.652239393328</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616</MPN>
@@ -2764,7 +2764,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Άγιος Χρόνος Syrah/Viognier, Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720055/Ktima-Avantis-Krasi-Agios-CHronos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004720/4720055/xlarge_20211019153947_ktima_avantis_krasi_erythro_xiro_agios_chronos_750ml.jpeg</Image>
-		<Price>24.74882822267856</Price>
+		<Price>26.328540662424</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616001</MPN>
@@ -2784,7 +2784,7 @@
 		<Name>Κτήμα Αβαντίς Lenga Gewürztraminer Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720051/Ktima-Avantis-Krasi-Lenga-Gewuerztraminer-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004720/4720051/xlarge_20200314140309_ktima_avantis_lenga_leyko_750ml.jpeg</Image>
-		<Price>13.11476367355616</Price>
+		<Price>13.951876248464</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616002</MPN>
@@ -2800,7 +2800,7 @@
 		<Name>Κτήμα Αβαντίς Lenga Gewürztraminer Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/17546193/Ktima-Avantis-Krasi-Lenga-Gewuerztraminer-Roze-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/017546/17546193/20200314140850_ktima_avantis_lenga_roze_750ml.jpeg</Image>
-		<Price>13.11476367355616</Price>
+		<Price>13.951876248464</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1617</MPN>
@@ -2814,7 +2814,7 @@
 		<Name>Κτήμα Αβαντίς Κρασί Μαυροκουντούρα Μαντηλαριά Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4746982/Ktima-Avantis-Krasi-Mayrokountoura-Mantilaria-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004746/4746982/xlarge_20211019155357_ktima_avantis_krasi_erythro_xiro_mayrokountoura_750ml.jpeg</Image>
-		<Price>17.13380415416208</Price>
+		<Price>18.227451227832</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1617001</MPN>
@@ -9626,7 +9626,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T3.450G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<EAN>5203650710285</EAN>
-		<Quantity>2289</Quantity>
+		<Quantity>2277</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10084,7 +10084,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το συμπυκνωμένο μαλακτικό ρούχων της Tesori d'Oriente εισχωρεί και μαλακώνει τις ίνες των υφασμάτων, με αποτέλεσμα να μην τσακίζουν, μειώνει τον στατικό ηλεκτρισμό, προσφέρει απαλά ρούχα, διευκολύνει τη διαδικασία του σιδερώματος και συμβάλλει στη διατήρηση των υφασμάτων.</Description>
 		<EAN>8008970055220</EAN>
-		<Quantity>571</Quantity>
+		<Quantity>570</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11436,7 +11436,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>372</Quantity>
+		<Quantity>371</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14842,7 +14842,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία και είναι ικανοποιητική η χωρητικότητά της.</Description>
 		<EAN>0194343013169</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17693,7 +17693,7 @@ mini markets
     Εγγράψιμες / Aδιάβροχες
 </Description>
 		<EAN>5207146013955</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17734,7 +17734,7 @@ mini markets
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
 		<EAN>5207146013931</EAN>
-		<Quantity>66</Quantity>
+		<Quantity>64</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20441,7 +20441,7 @@ Volt: 3V</Description>
     Ένδειξη υπερφόρτωσης 
     Ένδειξη χαμηλής μπαταρίας</Description>
 		<EAN>5901299914151</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20766,7 +20766,7 @@ Volt: 3V</Description>
 Κατανάλωση ισχύος: 350 W
 Μήκος καλωδίου τροφοδοσίας: 55 cm</Description>
 		<EAN>5901299954188</EAN>
-		<Quantity>267</Quantity>
+		<Quantity>268</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21227,7 +21227,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
     Ένδειξη χαμηλής μπαταρίας
     Λειτουργεί με μετασχηματιστή (δεν περιλαμβάνεται στη συσκευασία) ή μπαταρίες 4 x AAA (δεν περιλαμβάνονται στη συσκευασία)</Description>
 		<EAN>5901299914878</EAN>
-		<Quantity>51</Quantity>
+		<Quantity>52</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23909,7 +23909,7 @@ Silicon Power - USB Stick Silicon Power</Description>
 ΤΟ ΣΕΤ ΠΕΡΙΛΑΜΒΑΝΕΙ:
 1 x Συσκευή ανάγνωσης καρτών Tech-Protect UltraBoost</Description>
 		<EAN>9490713934685</EAN>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
