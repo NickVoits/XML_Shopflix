@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-25 16:05</created_at>
+	<created_at>2025-09-25 16:38</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -979,7 +979,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
 		<EAN>5201946911268</EAN>
-		<Quantity>437</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1182,7 +1182,7 @@
 		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί</Name>
 		<URL>https://www.skroutz.gr/s/29343638/Souroti-Anthrakoucho-Nero-6x0-33lt.html?product_id=204993902</URL>
 		<Image>https://trofodosies.gr/wp-content/uploads/2022/06/20210607164446_souroti_0_33lt_6tmch.jpg</Image>
-		<Price>4.751794523770572</Price>
+		<Price>4.26</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0991</MPN>
@@ -1197,7 +1197,7 @@
 		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Λεμόνι</Name>
 		<URL>https://www.skroutz.gr/s/29343612/Souroti-Anthrakoucho-Nero-me-Geysi-Lemoni-kai-Lime-6x0-33lt.html?product_id=204993900</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/SOUROTI-LEMONI-KOUTI-ANTHRAKOUXO-6x330-1.jpg</Image>
-		<Price>5.420284048408319</Price>
+		<Price>4.42</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0712</MPN>
@@ -1212,7 +1212,7 @@
 		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Pink Grapefruit</Name>
 		<URL>https://www.skroutz.gr/s/46343301/Souroti-Anthrakoucho-Nero-me-Geysi-Pink-Grapefruit-6x0-33lt.html?product_id=204993897</URL>
 		<Image>https://souroti.gr/wp-content/uploads/2023/07/souroti-grapefruit-removebg-preview.png</Image>
-		<Price>5.5553307630912</Price>
+		<Price>4.53</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0264</MPN>
@@ -1227,7 +1227,7 @@
 		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Μαστίχα</Name>
 		<URL>https://www.skroutz.gr/s/36774603/Souroti-Anthrakoucho-Nero-me-Geysi-Masticha-6x0-33lt.html?product_id=204993899</URL>
 		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=bf00751e-6778-40ec-bc1b-21e5b04a87e9</Image>
-		<Price>5.5553307630912</Price>
+		<Price>4.53</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0132</MPN>
@@ -7087,7 +7087,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<MPN>0979</MPN>
 		<Description>Ανδρικά ξυραφάκια μίας χρήσης Gillette Blue II Slalom Sensitive Skin. Διαθέτουν κινούμενη κεφαλή και μια καταπραϋντική λιπαντική ταινία για να σας παρέχει ένα απαλό και ακριβές ξύρισμα.</Description>
 		<EAN>7702018466726</EAN>
-		<Quantity>1247</Quantity>
+		<Quantity>1246</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8862,7 +8862,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1253</MPN>
 		<Description>Το αφρόλουτρο της Dove με κρεμώδη υφή, προσφέρει θρέψη ενώ παράλληλα περιέχει καθαριστικούς παράγοντες που φροντίζουν το δέρμα.Οδηγίες Χρήσης:• Εφαρμόστε μικρή ποσότητα σε βρεγμένο δέρμα• Ξεπλύνετε καλά• Αποφύγετε την επαφή με τα μάτια• Μόνο για εξωτερική χρήση</Description>
 		<EAN>8720181047084</EAN>
-		<Quantity>30</Quantity>
+		<Quantity>29</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9175,7 +9175,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://brolias.com/wp-content/uploads/2023/04/768b7044ec2818823b769234cd869d6b-PhotoRoom.jpg</Image>
-		<Price>2.9229772362336</Price>
+		<Price>3.0400179264</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1074</MPN>
@@ -9189,7 +9189,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://www.geapharmacy.gr/mediastream/w800/files/products/5e26a5d46ba5cb629729114dabbcf8cd.jpg.webp</Image>
-		<Price>2.9229772362336</Price>
+		<Price>3.0400179264</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1075</MPN>
@@ -9203,7 +9203,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Medium</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://www.geapharmacy.gr/mediastream/w800/files/products/945ceb16e82d6da30ddaf8650d3c4ab0.jpg.webp</Image>
-		<Price>2.9229772362336</Price>
+		<Price>3.0400179264</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1076</MPN>
@@ -9217,7 +9217,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Small</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://s1.sklavenitis.gr/images/1600x1600/40/files/ProductMedia/Products/6483473/1.jpg</Image>
-		<Price>2.9229772362336</Price>
+		<Price>3.0400179264</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1077</MPN>
@@ -9232,7 +9232,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.04</Price>
+		<Price>3.04488975</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-XL</MPN>
@@ -9249,7 +9249,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.04</Price>
+		<Price>3.04488975</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-L</MPN>
@@ -9266,7 +9266,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.04</Price>
+		<Price>3.04488975</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-M</MPN>
@@ -9283,7 +9283,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.04</Price>
+		<Price>3.04488975</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-S</MPN>
@@ -9299,7 +9299,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/8/184222_1.jpg</Image>
-		<Price>2.706008451798577</Price>
+		<Price>2.714300417135174</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1078</MPN>
@@ -9313,7 +9313,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/56686836/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://brolias.com/wp-content/uploads/2023/04/PhotoRoom-20240115_141545.png</Image>
-		<Price>2.706008451798577</Price>
+		<Price>2.714300417135174</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
@@ -9327,7 +9327,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Medium</Name>
 		<URL>https://www.skroutz.gr/s/56686835/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://xalkiadakis.gr/products/172914.jpg?v=1675435054</Image>
-		<Price>2.706008451798577</Price>
+		<Price>2.714300417135174</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080</MPN>
@@ -9341,7 +9341,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Small</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023654/23654631/xlarge_20200727130012_thalassinos_nitriliou_powder_free_mayro_100tmch.jpeg</Image>
-		<Price>2.706008451798577</Price>
+		<Price>2.714300417135174</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080001</MPN>
@@ -9357,7 +9357,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468897_1_1.jpg</Image>
-		<Price>3.82</Price>
+		<Price>3.5874021066</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1081</MPN>
@@ -9371,7 +9371,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468880_1_1.jpg</Image>
-		<Price>3.82</Price>
+		<Price>3.5874021066</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1082</MPN>
@@ -9385,7 +9385,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Small</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image>
-		<Price>3.82</Price>
+		<Price>3.5874021066</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1083</MPN>
@@ -9554,7 +9554,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<EAN>5200100281629</EAN>
-		<Quantity>9930</Quantity>
+		<Quantity>9929</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9724,7 +9724,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1340</MPN>
 		<Description>Ιδανικές για επαγγελματική και οικιακή χρήση, προσφέροντας απορροφητικότητα και ανθεκτικότητα. Κατασκευασμένες από 1 φύλλο λευκού χαρτιού υψηλής ποιότητας, σε διαστάσεις 21x25cm, είναι κατάλληλες για καθημερινή υγιεινή και καθαριότητα. Η συσκευασία των 200 τεμαχίων προσφέρει μεγάλη διάρκεια και πρακτική χρήση, ιδανική για χώρους με αυξημένες ανάγκες καθαριότητας.</Description>
 		<EAN>5202995010544</EAN>
-		<Quantity>859</Quantity>
+		<Quantity>835</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10161,7 +10161,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>2.5 kg</Weight>
 		<Description>Η σκόνη Skip Active Clean καθαρίζει δύσκολους λεκέδες ακόμη και στο σύντομο πρόγραμμα. Με τεχνολογία Wash Boosters απομακρύνει δύσκολους λεκέδες όπως λίπος, λάδι, λάσπη, γρασίδι και παγωτό σοκολάτα, χαρίζοντας στα ρούχα σας καθαριότητα.</Description>
 		<EAN>8710847941801</EAN>
-		<Quantity>245</Quantity>
+		<Quantity>244</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11029,7 +11029,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1115</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
 		<EAN>8718951048553</EAN>
-		<Quantity>556</Quantity>
+		<Quantity>554</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11141,7 +11141,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<EAN>8711600347083</EAN>
-		<Quantity>4255</Quantity>
+		<Quantity>4254</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11471,7 +11471,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Η δεξαμενή πάνω στο κοντάρι, εξασφαλίζει γρήγορη και αποτελεσματική καθαριότητα χωρίς την χρήση κουβά. Μπορείτε να προσθέσετε στην δεξαμενή το απορρυπαντικό της επιλογής σας χρησιμοποιώντας τον ειδικό δοσομετρητή
     Πανί 100% μικροϊνών που προσφέρουν απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)</Description>
 		<EAN>4023103222755</EAN>
-		<Quantity>338</Quantity>
+		<Quantity>337</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11488,7 +11488,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Οι γκρί και κόκκινες μικροΐνες προσφέρουν βαθύ καθαρισμό ακόμα και της πιο επίμονης βρωμιάς, ενώ οι λευκές μικροΐνες εξασφαλίζουν μέγιστη καθαριστική απόδοση και αστραφτερά πατώματα
     Η σύνθεσή του από 100% μικροΐνες προσφέρουν μέγιστη απορροφητικότητα, καθαριστή απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας).</Description>
 		<EAN>4023103199217</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11666,7 +11666,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1533001</MPN>
 		<Description>Σφουγγαράκι κουζίνας αντιβακτηριδιακό, πολύ δυνατό. Καθαρίζει αποτελεσματικά με το πράσινο συρματάκι, δημιουργεί αφρό χάρη στο μεσαίο στρώμα από σφουγγάρι και απορροφά πολύ μεγαλύτερη ποσότητα νερού από το κλασσικό σφουγγάρι, λόγω της μεγάλης απορροφητικότητας της κυτταρίνης στο κάτω μέρος του.</Description>
 		<EAN>8000280030744</EAN>
-		<Quantity>133</Quantity>
+		<Quantity>132</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12217,7 +12217,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<EAN>4012425171216</EAN>
-		<Quantity>16382</Quantity>
+		<Quantity>16350</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12713,7 +12713,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0530</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 28x33cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<EAN>5200369500127</EAN>
-		<Quantity>2134</Quantity>
+		<Quantity>2132</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12727,7 +12727,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0409</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεγάλου μεγέθους της εταιρείας Elef σε διάσταση 28x43cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<EAN>5200369500134</EAN>
-		<Quantity>2098</Quantity>
+		<Quantity>2095</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13244,7 +13244,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Σετ 20 τμχ 
     Διαστάσεις: 31 x 10.5 cm</Description>
 		<EAN>6955880325559</EAN>
-		<Quantity>35</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15349,7 +15349,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134439</EAN>
-		<Quantity>146</Quantity>
+		<Quantity>144</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15953,7 +15953,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 4oz/120ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55431735/THalassinos-Potiri-mias-CHrisis-CHartino-Mayro-120ml-100tmch-0247.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/048669/48669525/xlarge_20231207161238_potiri_mias_chrisis_mayro_100tmch_em_4oz_bk.jpeg</Image>
-		<Price>0.6220147829999999</Price>
+		<Price>0.5814486015</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0247</MPN>
@@ -15967,7 +15967,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 8oz/240ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/54829455/Potiri-mias-CHrisis-CHartino-Leyko-240ml-50tmch-48959.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024252/24252222/20220210121819_potiri_chartino_mayro_235ml_50tmch.jpeg</Image>
-		<Price>1.162897203</Price>
+		<Price>1.1223310215</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0361</MPN>
@@ -15995,7 +15995,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Γκοφρέ (Ripple) Χάρτινο Διπλότοιχο Μαύρο 8oz/240ml 25τμχ</Name>
 		<URL>https://www.skroutz.gr/s/46226140/8oz-Potiri-mias-CHrisis-Mayro-0530016.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024233/24233126/xlarge_20200731135446_potiri_chartino_ripple_q530016_mayro_235ml_25tmch.jpeg</Image>
-		<Price>1.1223310215</Price>
+		<Price>1.08176484</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0782</MPN>
@@ -16009,7 +16009,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 12-14oz/380ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55431736/THalassinos-Potiri-mias-CHrisis-CHartino-Mayro-380ml-50tmch-0634.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/041960/41960190/xlarge_20230425151113_homie_mayro_400ml_50tmch_1002106_80_2086.jpeg</Image>
-		<Price>1.62264726</Price>
+		<Price>1.5550369575</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0634</MPN>
@@ -16023,7 +16023,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Διπλότοιχο Μαύρο 12-14oz/380ml 25τμχ</Name>
 		<URL>https://www.skroutz.gr/s/24233149/CHartino-Potiri-mias-CHrisis-Diplotoicho-Mayro-415ml-25tmch-Ripple.html</URL>
 		<Image>https://www.paspack.gr/wp-content/uploads/2023/06/22-369-078_1.jpg</Image>
-		<Price>1.3657281105</Price>
+		<Price>1.460382534</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0773</MPN>
@@ -16037,7 +16037,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 16oz/480ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55431734/THalassinos-Potiri-mias-CHrisis-CHartino-Mayro-480ml-50tmch-0041.html</URL>
 		<Image>https://politou.gr/wp-content/uploads/2023/02/monotoixo-mayro-16oz.jpg</Image>
-		<Price>2.0688752565</Price>
+		<Price>1.974220833</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0041</MPN>
@@ -16065,7 +16065,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι Πλαστικό Μαύρο 80mm για Χάρτινο Ποτήρι 8oz 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55518787/Kapakia-Potiriou-mias-CHrisis-Pipila-0895-se-Mayro-chroma-100tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/036857/36857193/xlarge_20220627153529_kapakia_pipila_8q0080bpp_80mm_mayro_100tmch.jpeg</Image>
-		<Price>1.568559018</Price>
+		<Price>1.5279928365</Price>
 		<Category>Καπάκια Ποτηριών μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0895</MPN>
@@ -16079,7 +16079,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι Πλαστικό Λευκό 80mm για Χάρτινο Ποτήρι 8oz 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/54858932/Kapakia-Potiriou-mias-CHrisis-Pipila-48965.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/037484/37484497/20220804162931_kapakia_pipila_q0295wt_leyko_100tmch.jpeg</Image>
-		<Price>1.568559018</Price>
+		<Price>1.5279928365</Price>
 		<Category>Καπάκια Ποτηριών μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1290</MPN>
@@ -16093,7 +16093,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι Πλαστικό Μαύρο 90mm για Χάρτινο Ποτήρι 14-16oz 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/37484497/Kapakia-Pipila-Q0295WT-Leyko-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/038572/38572944/20221007114552_kapakia_pipila_14_16oz_mayro_100tmch.jpeg</Image>
-		<Price>1.62264726</Price>
+		<Price>1.649691381</Price>
 		<Category>Καπάκια Ποτηριών μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0857</MPN>
@@ -16179,7 +16179,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτηροθήκη Χάρτινη 4 Θέσεων Κραφτ 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/54858931/Set-50-Potirothikes-Metaforas-Kafe-4-THeseon-48962.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/054858/54858931/xlarge_20240711104312_set_50_potirothikes_metaforas_kafe_4_theseon_48962.jpeg</Image>
-		<Price>3.72</Price>
+		<Price>3.57</Price>
 		<Category>Ποτηροθήκες μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1288102</MPN>
@@ -16210,7 +16210,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι για Σκεύος Αλουμινίου R28 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/38571101/THalassinos-Kapaki-Skeyon-KR-28L-100tmch.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/038571/38571101/20221007112543_thalassinos_kapaki_skeyon_kr_28l_100tmch.jpeg</Image>
-		<Price>1.487426655</Price>
+		<Price>1.35220605</Price>
 		<Category>Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1686</MPN>
@@ -16241,7 +16241,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι για Σκεύος Αλουμινίου  R29 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/27516634/THalassinos-Kapaki-Skeyon-KR-29L-100tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027516/27516634/20220224145720_thalassinos_kapaki_skeyon_kr_29l_100tmch.jpeg</Image>
-		<Price>3.51573573</Price>
+		<Price>3.1776842175</Price>
 		<Category>Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1688</MPN>
@@ -16255,7 +16255,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Σκεύος Αλουμινίου Παραλληλόγραμμο R43 690ml (20,5x12,4x4,5cm) 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/40406600/Skeyos-Alouminiou-Parallilogrammo-No220-100tmch.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/040406/40406600/20230622154504_skeyos_alouminiou_parallilogrammo_no220_100tmch.jpeg</Image>
-		<Price>7.572353879999999</Price>
+		<Price>7.504743577499999</Price>
 		<Category>Σκεύη Αλουμινίου (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1689</MPN>
@@ -16274,7 +16274,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι για Σκεύος Αλουμινίου R43 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/33132557/THalassinos-Kapaki-Skeyon-EM-5211-100tmch.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/033132/33132557/20211221151925_thalassinos_kapaki_skeyon_em_5211_100tmch.jpeg</Image>
-		<Price>2.2311399825</Price>
+		<Price>1.9606987725</Price>
 		<Category>Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1690</MPN>
@@ -16314,7 +16314,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι για Σκεύος Αλουμινίου R45 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/30503986/Kapaki-Skeyon-R45L-100tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/030503/30503986/20210818114047_kapaki_skeyon_r45l_100tmch.jpeg</Image>
-		<Price>2.569191495</Price>
+		<Price>2.16352968</Price>
 		<Category>Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1692</MPN>
@@ -16345,7 +16345,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι για Σκεύος Αλουμινίου R64 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/44889414/Intertan-Kapaki-Skeyon-Q181161.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/044889/44889414/20230801185627_intertan_kapaki_skeyon_q181161_100tmch.jpeg</Image>
-		<Price>4.867941779999999</Price>
+		<Price>4.056618149999999</Price>
 		<Category>Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1694</MPN>
@@ -16630,7 +16630,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πιάτα Χάρτινα μιας Χρήσης Λευκά 18cm 10τμχ ΕΜ7296</Name>
 		<URL>https://www.skroutz.gr/s/54989298/Piato-gia-Party-10tmch-48970.html</URL>
 		<Image>https://www.thanopoulos.gr/1054453/thalassinos-piata-xartina-leuka-stroggula-18ek-10tem.jpg</Image>
-		<Price>0.3</Price>
+		<Price>0.28</Price>
 		<Category>Είδη Party για Σερβίρισμα</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0001</MPN>
@@ -16644,7 +16644,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πιάτα Χάρτινα μιας Χρήσης Λευκά 23cm 10τμχ ΕΜ7298</Name>
 		<URL>https://www.skroutz.gr/s/54989301/Piato-gia-Party-10tmch-48971.html</URL>
 		<Image>https://www.thanopoulos.gr/1054454-large_default/thalassinos-piata-xartina-leuka-stroggula-23ek-10tem.jpg</Image>
-		<Price>0.54</Price>
+		<Price>0.49</Price>
 		<Category>Είδη Party για Σερβίρισμα</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0138</MPN>
@@ -16658,7 +16658,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 37εκ. Μπλε 1kg</Name>
 		<URL>https://www.skroutz.gr/s/47491512/Plastiki-Sakoula-Syskeyasias-Typou-Fanelaki-35ek-Mple-V-0700.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/026895/26895827/xlarge_20210202095108_tsantes_fanelaki_plastikes_sakoules_v_mple_35cm_1kg.jpeg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0700</MPN>
@@ -16673,7 +16673,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 43εκ. Μπλε 1kg</Name>
 		<URL>https://www.skroutz.gr/s/46363975/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Mple-45ek-1kg.html</URL>
 		<Image>https://makarigakispack.gr/image/cache/catalog/%20%CE%A3%CE%91%CE%9A%CE%9F%CE%A5%CE%9B%CE%95%CE%A3/sakoyla-fanelaki-makarigakis-500x500w.jpg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0243</MPN>
@@ -16688,7 +16688,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 50εκ. Μπλε 1 Κιλό</Name>
 		<URL>https://www.skroutz.gr/s/31898450/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Mple-50ek-1kg-Fanelaki-A-CHartoplast.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/031898/31898450/20211025101710_plastikes_sakoules_111_25005000.jpeg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1275</MPN>
@@ -16703,7 +16703,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 60εκ. Μπλε 1kg</Name>
 		<URL>https://www.skroutz.gr/s/30506254/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Mple-60ek-1kg-04995.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/042927/42927293/xlarge_20230614154355_plastikes_sakoules_syskeyasias_typou_fanelaki_mple_1kg_60cm.jpeg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0992</MPN>
@@ -16718,7 +16718,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 37εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/54718212/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-35ek-1kg-0817.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/041872/41872666/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_35cm_1kg.jpeg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0817</MPN>
@@ -16733,7 +16733,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 43εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/53866913/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-45ek-1kg-0534.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/030506/30506332/xlarge_20210818123736_plastikes_sakoules_45cm_1kg_3800232530231.jpeg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0534</MPN>
@@ -16748,7 +16748,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 50εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/32185992/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-50ek-1kg.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/032185/32185992/20211108090959_plastikes_sakoules_50cm.jpeg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1564</MPN>
@@ -16763,7 +16763,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 60εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/53967271/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-60ek-1kg-0842.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/041872/41872667/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_60cm_1kg.jpeg</Image>
-		<Price>2.799066523499999</Price>
+		<Price>2.744978281499999</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0842</MPN>
@@ -20587,7 +20587,7 @@ Volt: 3V</Description>
     Ισχύς: 2000W
     Βάρος: 2.3 κιλά</Description>
 		<EAN>5901299954416</EAN>
-		<Quantity>118</Quantity>
+		<Quantity>117</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24976,7 +24976,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 κρέμες, μπεσαμέλ, κουλούρια, μπισκότα, πίτσες,
 λουκουμάδες κ.α.</Description>
 		<EAN>5214000546009</EAN>
-		<Quantity>17</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25258,7 +25258,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>3 kg</Weight>
 		<Description>Μακαρόνια Νο6 ελληνικής παραγωγής από την εταιρεία Famiglia. Βάρος: 3 κιλά</Description>
 		<EAN>5201013005340</EAN>
-		<Quantity>102</Quantity>
+		<Quantity>101</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25588,7 +25588,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Ο τοματοχυμός πασσάτα απο την εταιρία Ρέα ελαφριάς συμπύκνωσης . Δεν περιέχει γλουτένη και άλλα αλλεργιογόνα ,έχει πολύ χαμηλή περιεκτικότητα σε αλάτι και είναι ιδανική για όλες τις γαστρονομικές δημιουργίες σας.</Description>
 		<EAN>5202908500018</EAN>
-		<Quantity>850</Quantity>
+		<Quantity>842</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
