@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-26 16:44</created_at>
+	<created_at>2025-09-26 16:46</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -18406,6 +18406,7 @@ mini markets
 </Description>
 		<EAN>PROM-796800300</EAN>
 		<Quantity>2</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>7971001</SKU>
