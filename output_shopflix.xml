@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-10-21 11:23</created_at>
+	<created_at>2025-10-21 11:24</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -251,7 +251,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>307</Quantity>
+		<Quantity>306</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -281,7 +281,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>247</Quantity>
+		<Quantity>246</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1159,7 +1159,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<EAN>5201309703172</EAN>
-		<Quantity>496</Quantity>
+		<Quantity>495</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1389,7 +1389,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000068</EAN>
-		<Quantity>1993</Quantity>
+		<Quantity>1966</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2454,7 +2454,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11354,7 +11354,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>710400102</SKU>
+		<SKU>740400102</SKU>
 		<Name>Cyclops Κοντάρι Μεταλλικό με Επένδυση 130cm Χοντρή Βίδα 00100132</Name>
 		<URL>https://www.skroutz.gr/s/58060578/Kyklops-Kontari-Metalliko-Ependedymeno-CHontri-Vida.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/058060/58060578/xlarge_20241219170035_kyklops_kontari_metalliko_ependedymeno_chontri_vida.jpeg</Image>
@@ -11364,6 +11364,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>100132</MPN>
 		<Description>Κοντάρι Μεταλλικό με Επένδυση 130cm</Description>
 		<EAN>5202707989854</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27253,7 +27254,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή από την Morando•Συσκευασία: Κονσέρβα•Ποσότητα: 1τμχ•Βάρος: 405gr</Description>
 		<EAN>8007520011105</EAN>
-		<Quantity>1019</Quantity>
+		<Quantity>995</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27354,5 +27355,21 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<EAN>8007520012225</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>=COUNTBLANK(A2:A1580)</SKU>
+		<Name>=COUNTBLANK(B2:B1580)</Name>
+		<URL>=COUNTBLANK(C2:C1580)</URL>
+		<Image>=COUNTBLANK(D2:D1580)</Image>
+		<Additional_Image>=COUNTBLANK(E2:E1580)</Additional_Image>
+		<Price>=COUNTBLANK(F2:F1580)</Price>
+		<Category>=COUNTBLANK(G2:G1580)</Category>
+		<Manufacturer>=COUNTBLANK(H2:H1580)</Manufacturer>
+		<MPN>=COUNTBLANK(I2:I1580)</MPN>
+		<Weight>=COUNTBLANK(J2:J1580)</Weight>
+		<Description>=COUNTBLANK(K2:K1580)</Description>
+		<EAN>=COUNTBLANK(L2:L1580)</EAN>
+		<Quantity>=COUNTBLANK(M2:M1580)</Quantity>
+		<Shipping_Lead_Time>=COUNTBLANK(N2:N1580)</Shipping_Lead_Time>
 	</product>
 </mywebstore>
