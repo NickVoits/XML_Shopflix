@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-01 16:05</created_at>
+	<created_at>2025-11-01 16:27</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -465,7 +465,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>2153</Quantity>
+		<Quantity>2165</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2019,7 +2019,7 @@
 		<Name>SAN PELLEGRINO Ανθρακούχο Νερό σε Γυάλινο Μπουκάλι  250ml</Name>
 		<URL>https://www.skroutz.gr/s/26027960/San-Pellegrino-Anthrakoucho-Nero-se-Gyalino-Mpoukali-0-25lt.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/026027/26027960/20231229172549_san_pellegrino_anthrakoucho_nero_se_gyalino_mpoukali_0_25lt.jpeg</Image>
-		<Price>1.09982448</Price>
+		<Price>1.21</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>SAN PELLEGRINO</Manufacturer>
 		<MPN>1147</MPN>
@@ -2034,7 +2034,7 @@
 		<Name>SAN PELLEGRINO Ανθρακούχο Νερό σε Γυάλινο Μπουκάλι  750ml</Name>
 		<URL>https://www.skroutz.gr/s/26028413/San-Pellegrino-Anthrakoucho-Nero-se-Gyalino-Mpoukali-0-75lt.html?product_id=215518719</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/026028/26028413/20220228104656_san_pellegrino_anthrakoucho_nero_fysiko_metalliko_0_75lt.jpeg</Image>
-		<Price>1.97051886</Price>
+		<Price>1.9</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>SAN PELLEGRINO</Manufacturer>
 		<MPN>1148</MPN>
@@ -2938,6 +2938,26 @@
 		<Description>Το Ασύρτικο είναι η κληρονομιά μας. Αυτή η ξεχωριστή ποικιλία κυριαρχεί στους αμπελώνες του κτήματος Αργυρού και συνδυάζει αρμονικά φινέτσα και ορυκτότητα. Η οινοποίηση γίνεται σε ανοξείδωτες δεξαμενές, δημιουργώντας ένα κρασί που αντανακλά τον πιο αυθεντικό χαρακτήρα της ποικιλίας. Κρασί με κρυστάλλινο κίτρινο διαυγές χρώμα, με σύνθετα αρώματα εσπεριδοειδών, λεμονανθού και πέτρας. Καλό σώμα, τραγανό, με έντονη και μακριά επίγευση. Σερβίρεται στους 8-10°C και συνοδεύει ψάρια, θαλασσινά, sushi και λαχανικά. Μπορεί να παλαιώσει για 5 με 8 χρόνια.</Description>
 		<EAN>5200323012703</EAN>
 		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>46150102</SKU>
+		<Name>Κτήμα Αργυρού Κρασί Pure VSV Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
+		<URL>https://www.skroutz.gr/s/7976256/VSV-Krasi-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/007976/7976256/xlarge_20211019154626_vsv_pure_leyko_750ml.jpeg</Image>
+		<Price>55.53</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΚΤΗΜΑ ΑΡΓΥΡΟΥ</Manufacturer>
+		<MPN>46150102-1</MPN>
+		<Description>Το οινοποιείο Volcanic Slopes Vineyards παράγει ένα και μόνο κρασί που ονομάζεται «Pure». Ο εξαιρετικός αμπελώνας του Μανώλη Χλωρίδη σε συνδυασμό με τις ικανότητες οινοποίησης του Ματθαίου Αργυρού αντανακλούν σε κάθε φιάλη το terroir της Σαντορίνης.
+
+Το Pure στον τελευταίο διαγωνισμό του Decanter βαθμολογήθηκε με 97 πόντους, αποδεικνύοντας την απίστευτη δυναμική του Ασύρτικου.
+
+Το Volcanic Slopes Vineyards είναι ένα νεοσύστατο οινοποιείο της Σαντορίνης, που βρίσκεται στην Επισκοπή, σε μια παλαιά κάναβα του 18ου αιώνα, γύρω από την οποία απλώνονται σε ηφαιστειογενές έδαφος παλαιά κλήματα Ασύρτικου.
+
+Το Pure είναι μια καθαρή και αγνή Σαντορίνη που αναδεικνύει στο έπακρο το μεγαλείο του Ασύρτικου.</Description>
+		<EAN>5200323012307</EAN>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7464,7 +7484,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1060</MPN>
 		<Description>Αποσμητικό σε μορφή σπρέι που αρωματίζει διακριτικά με το κλασικό άρωμα για μέχρι και 48 ώρες προστασίας.</Description>
 		<EAN>8720181114441</EAN>
-		<Quantity>124</Quantity>
+		<Quantity>123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8865,7 +8885,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1253</MPN>
 		<Description>Το αφρόλουτρο της Dove με κρεμώδη υφή, προσφέρει θρέψη ενώ παράλληλα περιέχει καθαριστικούς παράγοντες που φροντίζουν το δέρμα.Οδηγίες Χρήσης:• Εφαρμόστε μικρή ποσότητα σε βρεγμένο δέρμα• Ξεπλύνετε καλά• Αποφύγετε την επαφή με τα μάτια• Μόνο για εξωτερική χρήση</Description>
 		<EAN>8720181047084</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9557,7 +9577,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<EAN>5200100281629</EAN>
-		<Quantity>8740</Quantity>
+		<Quantity>8739</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9870,7 +9890,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<EAN>3800500148076</EAN>
-		<Quantity>280</Quantity>
+		<Quantity>279</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9997,7 +10017,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>2843</Quantity>
+		<Quantity>2840</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10042,7 +10062,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055244</EAN>
-		<Quantity>748</Quantity>
+		<Quantity>745</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11502,7 +11522,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>272</Quantity>
+		<Quantity>271</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11516,7 +11536,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>477</Quantity>
+		<Quantity>476</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16271,7 +16291,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0895</MPN>
 		<Description>Καπάκια ποτηριών μιας χρήσης σε συσκευασία των 100 τεμαχίων σε μαύρο χρώμα, που συνδυάζουν την πρακτικότητα τους με τα αντίστοιχα ποτήρια. Είναι κατάλληλα για εκδηλώσεις, πάρτι, επαγγελματική αλλά και καθημερινή χρήση. Τα καπάκια ποτηριών τύπου πιπίλα προσφέρουν μια πιο ομαλή ροή του υγρού καθώς προσομοιάζει τον τρόπο που την χρησιμοποιούν τα μωρά αφήνοντας το υγρό να ρέει με σταθερό ρυθμό. Διαθέτει μια μικρή ανάγλυφη περιοχή στο κέντρο που μοιάζει με πιπίλα και επιτρέπει στον χρήστη να πίνει με πιο φυσικό τρόπο.</Description>
 		<EAN>6425092035060</EAN>
-		<Quantity>21</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16285,7 +16305,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1290</MPN>
 		<Description>Καπάκι πιπίλα λευκό "Tube" για ποτήρι χάρτινο 8oz.</Description>
 		<EAN>5206492002095</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16299,7 +16319,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
 		<EAN>promitheas-15202054457515</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17170,7 +17190,7 @@ mini markets
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
 		<EAN>5202054032272</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20462,6 +20482,39 @@ Volt: 3V</Description>
 Φωτιστικό με σφιγκτήρα για να στερεώνεται, και βραχίονα τύπου σπιράλ που προσαρμόζεται ανάλογα με τις ανάγκες σας. Εκπέμπει φυσικό λευκό φως με Led ισχύος 3 Watt με διακόπτη αφής. Το καλώδιο τροφοδοσίας του έχει μήκος 1 μέτρο, το οποίο περιλαμβάνεται στη συσκευασία του χωρίς τον φορτιστή.</Description>
 		<EAN>5901299942352</EAN>
 		<Quantity>58</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>797513101</SKU>
+		<Name>XO Παιδικό Φωτιστικό Projector με Προβολή Κινούμενων Μοτίβων Γαλαξιών και Αστεριών Λέιζερ Λευκό 21x11cm CF1 </Name>
+		<URL>https://www.skroutz.gr/s/46630216/XO-Paidiko-Fotistiko-Projector-me-Provoli-Asterion-Leyko-21x11cm-16-001-0065.html#reviews</URL>
+		<Image>https://c.scdn.gr/images/sku_images/083821/83821276/fixedratio_20231020162602_e632c086.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/083821/83821295/fixedratio_20231020162602_f04a0e4e.jpeg https://d.scdn.gr/images/sku_images/083821/83821286/fixedratio_20231020162602_88884aa7.jpeg https://b.scdn.gr/images/sku_images/083821/83821270/fixedratio_20231020162601_e11f1a75.jpeg https://a.scdn.gr/images/sku_images/083821/83821287/fixedratio_20231020162602_deae5a99.jpeg https://d.scdn.gr/images/sku_images/083821/83821296/fixedratio_20231020162603_a3f54378.jpeg</Additional_Image>
+		<Price>13.2</Price>
+		<Category> Φωτιστικά</Category>
+		<Manufacturer>ΧΟ</Manufacturer>
+		<MPN>CF1</MPN>
+		<Description>Ο προβολέας αστεριού και γαλαξία σε σχήμα αστροναύτη είναι ένα εντυπωσιακό gadget της XO.
+Ο προβολέας εμφανίζει πολύχρωμα και κινούμενα μοτίβα γαλαξιών και αστέρια λέιζερ.
+Το σετ περιλαμβάνει ένα τηλεχειριστήριο που μπορεί να ελέγξει την ένταση του φωτός και να αλλάξει τις εμφανιζόμενες εικόνες.
+Ο προβολέας βρίσκεται στη μαγνητική κεφαλή του αστροναύτη, που σας επιτρέπει να ρυθμίσετε τη γωνία δέσμης.
+Το καλύτερο αποτέλεσμα επιτυγχάνεται σε σκοτεινά δωμάτια, όταν ο προβολέας στοχεύει σε επίπεδες επιφάνειες.
+Η συσκευή τροφοδοτείται από καλώδιο USB.
+
+■Τροφοδοσία: 100-240V 50/60Hz 0,4A
+■Τάση εισόδου: 5V/1A
+■Ισχύς: 5W
+■Μέθοδος ελέγχου: κουμπί + τηλεχειριστήριο
+■Απόσταση τηλεχειρισμού: 5-10 μέτρα
+■Μήκος κύματος λέιζερ: 532 NM
+Λειτουργία: Αυτόματο κλείσιμο 2 ταχυτήτων, δύο λειτουργίες νεφέλωμα και αστέρια, ρύθμιση ταχύτητας νεφελώματος, λειτουργία αναπνοής αστεριών, ρύθμιση φωτεινότητας νεφελώματος, ρύθμιση κεφαλής 360 μοιρών, λειτουργία χρονισμού τηλεχειριστηρίου Περιβάλλον χρήσης: εσωτερικός (η επίδραση του σκοτεινού περιβάλλοντος είναι περισσότερο)
+■Υλικό προϊόντος: ABS+PC+PVC
+■Βάρος προϊόντος: 500g
+■Μέγεθος προϊόντος: 21*11cm
+■Χρώμα: Λευκό
+■Αξεσουάρ προϊόντος: λαμπτήρας προβολής αστροναύτη*1; βάση*1; Καλώδιο τροφοδοσίας USB*1; Αγγλικά εγχειρίδιο οδηγιών*1;</Description>
+		<EAN>6920680831005</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25068,7 +25121,7 @@ Aluminum Case Better for heat dissipation </Description>
 	</product>
 	<product>
 		<SKU>799652101</SKU>
-		<Name>XO Σύστημα Karaoke 8 ιντσών 40W RGB με Ασύρματo Μικρόφωνo σε Μαύρο Χρώμαε F53</Name>
+		<Name>XO Σύστημα Karaoke 8 ιντσών 40W RGB με Ραδιόφωνο και Ασύρματo Μικρόφωνo σε Μαύρο Χρώμα F53</Name>
 		<URL>https://www.skroutz.gr/s/55697761/XO-Systima-Karaoke-me-Asyrmato-Mikrofono-F53-16-004-0053-se-Mayro-CHroma.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/055697/55697761/xlarge_20240902125326_xo_systima_karaoke_me_asyrmato_mikrofono_f53_16_004_0053_se_mayro_chroma.jpeg</Image>
 		<Price>65.11536727040001</Price>
@@ -25094,6 +25147,81 @@ Aluminum Case Better for heat dissipation </Description>
 Λειτουργία: TWS BT FM TF USB, μικρόφωνο, Αναπαραγωγή βρόχου, ενσωματωμένο EQ, αναπαραγωγή βρόχου, φωτισμός</Description>
 		<EAN>6920680858446</EAN>
 		<Quantity>5</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799652102</SKU>
+		<Name>XO Σύστημα Karaoke 8 ιντσών 40W RGB με 2 Ασύρματα Μικρόφωνα σε Μαύρο Χρώμα F48</Name>
+		<URL>https://www.skroutz.gr/s/52837869/XO-Icheio-me-leitourgia-Karaoke-F48-16-004-0050-se-Mayro-CHroma.html</URL>
+		<Image>https://www.atcb2b.gr/media/catalog/product/cache/8853d270899685bc7d7bf5324317fa07/f/4/f48.jpg</Image>
+		<Additional_Image>https://a.scdn.gr/images/sku_images/094736/94736357/xlarge_20240424104342_fa2d3507.jpeg https://c.scdn.gr/images/sku_images/094736/94736360/xlarge_20240424104345_7aec6aec.jpeg https://c.scdn.gr/images/sku_images/094736/94736363/xlarge_20240424104348_89c68fac.jpeg https://c.scdn.gr/images/sku_images/094736/94736366/xlarge_20240424104356_7b12aa58.jpeg https://b.scdn.gr/images/sku_images/094736/94736364/xlarge_20240424104350_0797b67c.jpeg https://www.atcb2b.gr/media/catalog/product/cache/8853d270899685bc7d7bf5324317fa07/f/4/f48-1.jpg</Additional_Image>
+		<Price>60.64</Price>
+		<Category>Karaoke</Category>
+		<Manufacturer>ΧΟ</Manufacturer>
+		<MPN>F48</MPN>
+		<Description>Παρουσιάζουμε το ασύρματο ηχείο XO-F48 με φώτα RBG, μια ισχυρή και ευέλικτη συσκευή ήχου. Με αποτελεσματική απόσταση άνω των 10 μέτρων, αυτό το ηχείο εξασφαλίζει προσβασιμότητα και ευκολία. Το εφέ φωτισμού LED προσφέρει τρεις τρόπους εφέ φωτός, ενισχύοντας τη συνολική οπτικοακουστική εμπειρία. Περιλαμβάνει 2 μικρόφωνα.
+
+Μοντέλο:  XO-F48
+Αποτελεσματική Απόσταση:  &gt;10* (accessibility)
+Μονάδα ηχείων:  Φ210mm
+Ονομασία προϊόντος :  Wireless speaker with RBG lights
+Συχνότητα λειτουργίας:  2.402-2.480GHz
+Ονομαστική ισχύς:  40W
+Έκδοση Bluetooth:  Bluetooth V5.0
+Υλικό:  ABS
+Χρώμα:  Μαύρο
+Χωρητικότητα Μπαταρίας  3600mA
+Χρόνος Αναπαραγωγής:  περίπου 6H (80% volume)
+Βάρος:  3.5Kg
+Εφέ φωτισμού LED:  3 ρυθμίσεις εφέ φωτός
+Συμφωνία υποστήριξης:  A2DP 1.3 AVRCP 1.5
+Μέγεθος προϊόντος:  270*270*366mm
+Χρόνος φόρτισης:  Περίπου 4 ώρες
+Υποστήριξη αναπαραγωγής:  Κάρτα TF/Μονάδα USB/AUX/Είσοδος μικροφώνου
+Διαστάσεις Συσκευασίας:  31 x 31 x 46 cm
+</Description>
+		<EAN>6920680855681</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799652103</SKU>
+		<Name>XO Σύστημα Karaoke K-Song 40W με Ασύρματo Μικρόφωνo Glossy Cool σε Υπόλευκο Χρώμα F54</Name>
+		<URL>https://www.skroutz.gr/s/57421696/XO-Systima-Karaoke-me-Asyrmato-Mikrofono-Glossy-Cool-XO-F54-se-Leyko-CHroma.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/057421/57421696/xlarge_20241113132259_xo_systima_karaoke_me_asyrmato_mikrofono_glossy_cool_xo_f54_se_leyko_chroma.jpeg</Image>
+		<Additional_Image>https://c.scdn.gr/images/sku_images/104530/104530072/xlarge_20241113132301_7e676088.jpeg https://c.scdn.gr/images/sku_images/111867/111867269/xlarge_20250523164256_8a7945ac.jpeg https://a.scdn.gr/images/sku_images/111867/111867271/xlarge_20250523164257_938b1c2e.jpeg https://d.scdn.gr/images/sku_images/111867/111867270/xlarge_20250523164257_da305742.jpeg</Additional_Image>
+		<Price>25.48</Price>
+		<Category>Karaoke</Category>
+		<Manufacturer>ΧΟ</Manufacturer>
+		<MPN>F54</MPN>
+		<Description> Μετατρέψτε κάθε χώρο στην προσωπική σας συναυλία με το ηχείο ήχου XO-F54 K-Song. Παρέχοντας πλούσιο ήχο 20W μέσω ενός ισχυρού συνδυασμού υπογούφερ και tweeter, αυτό το κομψό υπόλευκο ηχείο υποστηρίζει αναπαραγωγή καρτών Bluetooth 5.3, AUX, MP3 και TF για ευέλικτη απόλαυση ήχου. Απολαύστε έως και 5,5 ώρες μουσικής και χρόνο καραόκε με το παρεχόμενο ασύρματο μικρόφωνο, ενισχυμένο με γυαλιστερό φωτισμό RGB για ζωντανή ατμόσφαιρα. Με φόρτιση Type-C, εμβέλεια Bluetooth 10 μέτρων και ενσωματωμένη υποστήριξη μικροφώνου, είναι ιδανικό για πάρτι, εξάσκηση ή απλά για να τραγουδήσετε την καρδιά σας. Περιλαμβάνει μικρόφωνο και καλώδιο φόρτισης.
+
+
+    Μοντέλο: XO-F54
+    Μονό κανάλι
+    Έκδοση Bluetooth: Bluetooth V5.3 Μοντέλο Jerry 5.3: AC6858C6
+    Χωρητικότητα μπαταρίας: 18650 (1800mah) -7,4V + πλακέτα προστασίας μπαταρίας
+    Μπαταρία μικροφώνου: 14500 (500mah) -3,7V+Πλακέτα προστασίας μπαταρίας
+    Διάρκεια κλήσης/μουσικής: περίπου 3,5 ώρες με αναμμένα φώτα (ένταση 80%) και 5,5 ώρες με σβηστά φώτα (ένταση 80%)
+    Πρωτόκολλα υποστήριξης: A2DP AVRCP, HFP, HSP
+    Συχνότητα λειτουργίας Bluetooth: 2.402-2.480 GHz
+    Ευαισθησία λήψης: -80bBm
+    Πρότυπο φόρτισης εισόδου: TYPE-C USB, DC5V/2A
+    Χρόνος φόρτισης: περίπου 2,5 ώρες
+    Αποτελεσματική απόσταση: μικρότερη από 10 μέτρα 
+    Καλύτερη απόσταση χρήσης μικροφώνου: λιγότερο από 1 μέτρο
+    Μέγιστη ισχύς: 20W x 1
+    Μονάδα ηχείων: διάμετρος υπογούφερ 78 ΜΜ x 1 (± 3 ΜΜ) + τουίτερ 56 ΜΜ (± 3 ΜΜ) x 1 + υπογούφερ x 1
+    Λειτουργία: Υποστηρίζει την αναπαραγωγή καρτών FT, MP3 (32G-MAX), AUX, ασύρματη μουσική και άλλες λειτουργίες.
+    Χρώμα: Εκρού
+    Βάρος προϊόντος: 1386g Βάρος μικροφώνου: 87g
+    Μέγεθος προϊόντος: 226 x 145,5 x 161,9 mm μικρόφωνο 154,5 x 35,3 x 35,3 mm.
+    Αξεσουάρ: 1 καλώδιο φόρτισης 1 μικρόφωνο.
+    Χωρίς προστασία από υπέρταση
+
+</Description>
+		<EAN>6920680858644</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25915,7 +26043,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<EAN>5202737900218</EAN>
-		<Quantity>756</Quantity>
+		<Quantity>754</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
