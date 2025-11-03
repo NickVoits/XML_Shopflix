@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-03 16:05</created_at>
+	<created_at>2025-11-03 16:38</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -206,7 +206,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>1773</Quantity>
+		<Quantity>5613</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -236,7 +236,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>799</Quantity>
+		<Quantity>2719</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3646,7 +3646,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1332</MPN>
 		<Description>Ένα λευκό, ξηρό κρασί με πλούσιο σώμα και δροσερό αρωματικό χαρακτήρα. Συνδυασμός των 2 ποικιλιών Chardonnay και Gewürztraminer, με ιδιαίτερη τυπικότητα χάρη στην ορεινή προέλευση. Νότες τριαντάφυλλου, ώριμου ροδάκινου, βερίκοκου και μια πινελιά από λίτσι. Το στόμα ακολουθεί πιστά τον παραπάνω χαρακτήρα, ενώ αρωματική παρουσία έχει η βανίλια και ο καπνός.</Description>
 		<EAN>5203888110013</EAN>
-		<Quantity>14</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3735,7 +3735,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 
 Συνοδεύει κόκκινο κρέας και φαγητά έντονα σε γεύση και με πλούσια υφή.</Description>
 		<EAN>5203888140041</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4101,7 +4101,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>239</Quantity>
+		<Quantity>234</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4569,7 +4569,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Ασκητικός Chardonnay/Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774782/Tsililis-Krasi-Askitikos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774782/20200316163151_tsililis_askitikos_leyko_750ml.jpeg</Image>
-		<Price>6.4522730820856</Price>
+		<Price>7.33212850237</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1336</MPN>
@@ -4583,7 +4583,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κρασί Ασκητικός Cabernet Sauvignon/Merlot/Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774788/Tsililis-Krasi-Askitikos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004774/4774788/20200314141442_tsililis_askitikos_erythro_750ml.jpeg</Image>
-		<Price>7.116477664065001</Price>
+		<Price>8.0869064364375</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1337</MPN>
@@ -4597,7 +4597,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Κτήμα Θεόπετρα Ασύρτικο/Μαλαγουζιά Λευκός Οίνος 750ml</Name>
 		<URL>https://www.skroutz.gr/s/49712052/Tsililis-Ktima-THeopetra-Leykos-Oinos-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/049712/49712052/20240129150351_tsililis_ktima_theopetra_leykos_oinos_750ml.jpeg</Image>
-		<Price>9.919938562030001</Price>
+		<Price>11.27265745685227</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1338</MPN>
@@ -4611,7 +4611,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Λημνιώνα Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774738/Tsililis-Viologiko-Krasi-Theopetra-Estate-Limniona-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774738/20200314141120_tsililis_ktima_theopetra_limniona_erythro_750ml.jpeg</Image>
-		<Price>15.95816203457</Price>
+		<Price>18.13427503928409</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339</MPN>
@@ -4625,7 +4625,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Syrah/Λημνιώνα Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774768/Tsililis-Viologiko-Krasi-Theopetra-Estate-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774768/xlarge_20200314141219_tsililis_ktima_theopetra_750ml.jpeg</Image>
-		<Price>10.82</Price>
+		<Price>11.27265745685227</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339002</MPN>
@@ -4639,7 +4639,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Ξινόμαυρο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18928621/Tsililis-Viologiko-Krasi-Theopetra-Estate-Xinomayro-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/018928/18928621/xlarge_20200804102238_tsililis_theopetra_xinomayro_roze_750ml.jpeg</Image>
-		<Price>12.7</Price>
+		<Price>13.23311962326137</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339001</MPN>
@@ -5297,7 +5297,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/20022697/Tyrnavou-Me-Glykaniso-Tsipouro-42-100ml.html</URL>
 		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4120-1200x1200.jpg</Image>
-		<Price>2.090225273937421</Price>
+		<Price>2.15</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0125</MPN>
@@ -5312,7 +5312,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<URL>https://www.skroutz.gr/s/20022660/Tyrnavou-CHoris-glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/020022/20022660/20210210124802_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image>
-		<Price>2.026460619064506</Price>
+		<Price>2.08</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0232</MPN>
@@ -8227,7 +8227,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>0119</MPN>
 		<Description>Ένα σαμπουάν 2 σε 1 που συνδυάζει βαθιό καθαρισμό και ενυδάτωση των μαλλιών. Εμπλουτισμένο με αρώματα θαλάσσια και ορυκτά, αυτό το σαμπουάν βοηθά στην αναζωογόνηση και ενίσχυση των μαλλιών, προσφέροντας τους απαραίτητα θρεπτικά συστατικά για ένα υγιές και λαμπερό αποτέλεσμα. Η σύνθεσή του παρέχει επίσης απαλό καθαρισμό και αφήνει τα μαλλιά απαλά και εύκολα στο χτένισμα. Κατάλληλο για καθημερινή χρήση.</Description>
 		<EAN>3800024022333</EAN>
-		<Quantity>38</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8283,7 +8283,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1369</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Δράση : Προστασία Χρώματος    Τύπος Μαλλιών: ΒαμμέναΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και προσφέρει ικανοποιητική ενυδάτωση.</Description>
 		<EAN>3600524016265</EAN>
-		<Quantity>37</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8829,7 +8829,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0063</MPN>
 		<Description>Ένα αφρόλουτρο που αναζωογονεί την επιδερμίδα σας και προσφέρει μια αίσθηση πολυτέλειας και άνεσης κατά το μπάνιο. Η απαλή φόρμουλα του πλούσια αρωματισμένη με βανίλια αφήνει ένα ευχάριστο άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<EAN>3800024015892</EAN>
-		<Quantity>310</Quantity>
+		<Quantity>308</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8843,7 +8843,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0320</MPN>
 		<Description>Ένα αφρόλουτρο που προσφέρει μια αίσθηση αναζωογόνησης και άνεσης κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αρωματικό άρωμα από γιασεμί, δημιουργώντας ένα ευχάριστο αισθησιακό άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<EAN>3800024015885</EAN>
-		<Quantity>320</Quantity>
+		<Quantity>319</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8857,7 +8857,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0019</MPN>
 		<Description>Ένα αφρόλουτρο που σας προσφέρει μια απολαυστική εμπειρία κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αισθησιακό άρωμα του σύκου, προσφέροντας ένα αίσθημα φρεσκάδας και ευεξίας. Καθαρίζει απαλά την επιδερμίδα σας, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<EAN>3800024015878</EAN>
-		<Quantity>504</Quantity>
+		<Quantity>501</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12224,7 +12224,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Κρατήστε το μακριά από παιδιά και κατοικίδια.</Description>
 		<EAN>5200138990067</EAN>
-		<Quantity>21</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16173,13 +16173,13 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 4oz/120ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55431735/THalassinos-Potiri-mias-CHrisis-CHartino-Mayro-120ml-100tmch-0247.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/048669/48669525/xlarge_20231207161238_potiri_mias_chrisis_mayro_100tmch_em_4oz_bk.jpeg</Image>
-		<Price>0.5544044804999999</Price>
+		<Price>0.513838299</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0247</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 120ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5202054359553</EAN>
-		<Quantity>150</Quantity>
+		<Quantity>151</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16187,13 +16187,13 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 8oz/240ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/54829455/Potiri-mias-CHrisis-CHartino-Leyko-240ml-50tmch-48959.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024252/24252222/20220210121819_potiri_chartino_mayro_235ml_50tmch.jpeg</Image>
-		<Price>1.0952869005</Price>
+		<Price>1.0411986585</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0361</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 235ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5202054464660</EAN>
-		<Quantity>248</Quantity>
+		<Quantity>246</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16201,13 +16201,13 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Διπλότοιχο Μαύρο 8oz 25τμχ</Name>
 		<URL>https://www.skroutz.gr/s/44889382/Intertan-CHartino-Potiri-mias-CHrisis-Polychromo-236ml-25tmch-Q530009NG.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/042930/42930168/xlarge_20230614162400_chartino_potiri_mias_chrisis_diplotoicho_mayro_236ml_25tmch.jpeg</Image>
-		<Price>1.027676598</Price>
+		<Price>1.000632477</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0095</MPN>
 		<Description>Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<EAN>5206970002425</EAN>
-		<Quantity>44</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16215,7 +16215,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Γκοφρέ (Ripple) Χάρτινο Διπλότοιχο Μαύρο 8oz/240ml 25τμχ</Name>
 		<URL>https://www.skroutz.gr/s/46226140/8oz-Potiri-mias-CHrisis-Mayro-0530016.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024233/24233126/xlarge_20200731135446_potiri_chartino_ripple_q530016_mayro_235ml_25tmch.jpeg</Image>
-		<Price>1.054720719</Price>
+		<Price>0.9735883559999998</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0782</MPN>
@@ -16229,13 +16229,13 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 12-14oz/380ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55431736/THalassinos-Potiri-mias-CHrisis-CHartino-Mayro-380ml-50tmch-0634.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/041960/41960190/xlarge_20230425151113_homie_mayro_400ml_50tmch_1002106_80_2086.jpeg</Image>
-		<Price>1.514470776</Price>
+		<Price>1.4198163525</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0634</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5200425303129</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16243,13 +16243,13 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Διπλότοιχο Μαύρο 12-14oz/380ml 25τμχ</Name>
 		<URL>https://www.skroutz.gr/s/24233149/CHartino-Potiri-mias-CHrisis-Diplotoicho-Mayro-415ml-25tmch-Ripple.html</URL>
 		<Image>https://www.paspack.gr/wp-content/uploads/2023/06/22-369-078_1.jpg</Image>
-		<Price>1.406294292</Price>
+		<Price>1.325161929</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0773</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<EAN>5202054467555</EAN>
-		<Quantity>123</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16257,13 +16257,13 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι μιας Χρήσης Χάρτινο Μονότοιχο Μαύρο 16oz/480ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55431734/THalassinos-Potiri-mias-CHrisis-CHartino-Mayro-480ml-50tmch-0041.html</URL>
 		<Image>https://politou.gr/wp-content/uploads/2023/02/monotoixo-mayro-16oz.jpg</Image>
-		<Price>1.920132591</Price>
+		<Price>1.7984340465</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0041</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 480ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5200425303228</EAN>
-		<Quantity>60</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16277,7 +16277,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0257</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 480ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<EAN>5200425303174</EAN>
-		<Quantity>101</Quantity>
+		<Quantity>110</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16285,7 +16285,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι Πλαστικό Μαύρο 80mm για Χάρτινο Ποτήρι 8oz 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55518787/Kapakia-Potiriou-mias-CHrisis-Pipila-0895-se-Mayro-chroma-100tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/036857/36857193/xlarge_20220627153529_kapakia_pipila_8q0080bpp_80mm_mayro_100tmch.jpeg</Image>
-		<Price>1.4739045945</Price>
+		<Price>1.3657281105</Price>
 		<Category>Καπάκια Ποτηριών μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0895</MPN>
@@ -16299,7 +16299,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι Πλαστικό Λευκό 80mm για Χάρτινο Ποτήρι 8oz 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/54858932/Kapakia-Potiriou-mias-CHrisis-Pipila-48965.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/037484/37484497/20220804162931_kapakia_pipila_q0295wt_leyko_100tmch.jpeg</Image>
-		<Price>1.4739045945</Price>
+		<Price>1.3657281105</Price>
 		<Category>Καπάκια Ποτηριών μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1290</MPN>
@@ -16313,7 +16313,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι Πλαστικό Μαύρο 90mm για Χάρτινο Ποτήρι 14-16oz 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/37484497/Kapakia-Pipila-Q0295WT-Leyko-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/038572/38572944/20221007114552_kapakia_pipila_14_16oz_mayro_100tmch.jpeg</Image>
-		<Price>1.6091251995</Price>
+		<Price>1.5009487155</Price>
 		<Category>Καπάκια Ποτηριών μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0857</MPN>
@@ -16327,7 +16327,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι Πλαστικό 504 μιας Χρήσης Διάφανο 300ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/56076468/THalassinos-Potiri-mias-CHrisis-Diafano-300ml-50tmch-0665.html</URL>
 		<Image>https://nikolaoushop.gr/wp-content/uploads/2023/06/92355_289439.jpg</Image>
-		<Price>1.4198163525</Price>
+		<Price>1.298117808</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0665</MPN>
@@ -16341,7 +16341,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Καπάκι Πομπέ Διάφανο για Ποτήρι 504 300ml 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/39878433/THalassinos-Kapakia-Pompe-223050-Diafano-100tmch.html</URL>
 		<Image>https://ergo-horeca.gr/image/cache/catalog/12.00.728-1000x1000.jpg</Image>
-		<Price>1.62264726</Price>
+		<Price>1.5820810785</Price>
 		<Category>Καπάκια Ποτηριών μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0332</MPN>
@@ -16355,7 +16355,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτήρι Πλαστικό μιας Χρήσης Διάφανο 200ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/40729941/THalassinos-Diafano-250ml-50tmch-223018.html?product_id=215299818</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/040729/40729941/xlarge_20230221131928_thalassinos_diafano_250ml_50tmch_223018.jpeg</Image>
-		<Price>0.6220147829999999</Price>
+		<Price>0.54088242</Price>
 		<Category>Ποτήρια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0980</MPN>
@@ -16399,7 +16399,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Ποτηροθήκη Χάρτινη 4 Θέσεων Κραφτ 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/54858931/Set-50-Potirothikes-Metaforas-Kafe-4-THeseon-48962.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/054858/54858931/xlarge_20240711104312_set_50_potirothikes_metaforas_kafe_4_theseon_48962.jpeg</Image>
-		<Price>3.75</Price>
+		<Price>3.5</Price>
 		<Category>Ποτηροθήκες μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1288102</MPN>
@@ -16413,7 +16413,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Σκεύος Αλουμινίου Παραλληλόγραμμο R28 470ml (14,5x12x4cm) 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/27829012/THalassinos-Skeyos-Alouminiou-Parallilogrammo-R28L-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/027829/27829012/20240705101757_thalassinos_skeyos_alouminiou_parallilogrammo_r28l_100tmch.jpeg</Image>
-		<Price>5.030206506</Price>
+		<Price>4.867941779999999</Price>
 		<Category>Σκεύη Αλουμινίου (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1685</MPN>
@@ -16475,7 +16475,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Σκεύος Αλουμινίου Παραλληλόγραμμο R43 690ml (20,5x12,4x4,5cm) 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/40406600/Skeyos-Alouminiou-Parallilogrammo-No220-100tmch.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/040406/40406600/20230622154504_skeyos_alouminiou_parallilogrammo_no220_100tmch.jpeg</Image>
-		<Price>7.504743577499999</Price>
+		<Price>7.437133275</Price>
 		<Category>Σκεύη Αλουμινίου (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1689</MPN>
@@ -16514,7 +16514,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Σκεύος Αλουμινίου Παραλληλόγραμμο R45 940ml (20,2x13,7x5cm) 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/40406603/Skeyos-Alouminiou-Parallilogrammo-No162-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/040406/40406603/20230622154503_skeyos_alouminiou_parallilogrammo_no162_100tmch.jpeg</Image>
-		<Price>8.5865084175</Price>
+		<Price>8.383677509999998</Price>
 		<Category>Σκεύη Αλουμινίου (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1691</MPN>
@@ -16548,7 +16548,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Σκεύος Αλουμινίου Παραλληλόγραμμο R64 2000ml (26x19x5,6cm) 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/27826655/THalassinos-Skeyos-Alouminiou-Parallilogrammo-R64L-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/027826/27826655/20210323114419_skeyos_alouminiou_parallilogrammo_r64l_100tmch.jpeg</Image>
-		<Price>16.361693205</Price>
+		<Price>15.95603139</Price>
 		<Category>Σκεύη Αλουμινίου (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1693</MPN>
@@ -16588,7 +16588,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης με Αποσπώμενο Καπάκι και Χωρητικότητα 750ml Μαύρο 50τμχ Κατάλληλο για Φούρνο Μικροκυμάτων ΕΜ6747</Name>
 		<URL>https://www.skroutz.gr/s/55429929/THalassinos-Plastiko-Skeyos-mias-CHrisis-me-Apospomeno-Kapaki-kai-CHoritikotita-750ml-Mayro-50tmch-0136.html?product_id=215299819</URL>
 		<Image>https://papabros.gr/wp-content/uploads/2024/05/SKEVOS_MICROWAVE_750ML_MAVRO_ME_KAPAKI_PAPABROS%CE%A3.jpg</Image>
-		<Price>5.95</Price>
+		<Price>5.21</Price>
 		<Category>Σκεύη Πλαστικά (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0136</MPN>
@@ -16602,7 +16602,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης με Αποσπώμενο Καπάκι και Χωρητικότητα 1000ml Μαύρο 50τμχ Κατάλληλο για Φούρνο Μικροκυμάτων ΕΜ6757</Name>
 		<URL>https://www.skroutz.gr/s/55429933/THalassinos-Plastiko-Skeyos-mias-CHrisis-me-Apospomeno-Kapaki-kai-CHoritikotita-1000ml-Mayro-50tmch-0674.html?product_id=215299829</URL>
 		<Image>https://www.topoikilopoleio.gr/wp-content/uploads/2023/06/doxeia-faghtou-plastika-mias-xrhshs-me-kapaki-1000ml-50tem-2.jpg</Image>
-		<Price>6.36</Price>
+		<Price>5.75</Price>
 		<Category>Σκεύη Πλαστικά (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0674</MPN>
@@ -16738,7 +16738,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Πλαστικό Σωσάκι μιας Χρήσης με Ενσωματωμένο Καπάκι και Χωρητικότητα 70ml 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55429928/THalassinos-Plastiko-Sosaki-mias-CHrisis-me-Ensomatomeno-Kapaki-kai-CHoritikotita-70ml-50tmch-0410.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/040907/40907457/xlarge_20230317130126_plastiko_sosaki_mias_chrisis_pp_me_ensomatomeno_kapaki_kai_choritikotita_70ml_diafano_50tmch_60263509.jpeg</Image>
-		<Price>1.05</Price>
+		<Price>0.99</Price>
 		<Category>Σκεύη Πλαστικά (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0410</MPN>
@@ -16752,7 +16752,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Θαλασσινός Πλαστικό Σωσάκι μιας Χρήσης με Ενσωματωμένο Καπάκι και Χωρητικότητα 180ml 50τμχ (Μνημοσύνου)</Name>
 		<URL>https://www.skroutz.gr/s/55429926/THalassinos-Plastiko-Sosaki-mias-CHrisis-me-Ensomatomeno-Kapaki-kai-CHoritikotita-180ml-50tmch-0936.html?product_id=215299832</URL>
 		<Image>https://www.cleanshop.gr/wp-content/uploads/2021/11/586200533azmn.jpg</Image>
-		<Price>2.97</Price>
+		<Price>2.83</Price>
 		<Category>Σκεύη Πλαστικά (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0936</MPN>
@@ -16938,7 +16938,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 37εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/54718212/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-35ek-1kg-0817.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/041872/41872666/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_35cm_1kg.jpeg</Image>
-		<Price>2.569191495</Price>
+		<Price>2.52</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0817</MPN>
@@ -16953,7 +16953,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 43εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/53866913/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-45ek-1kg-0534.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/030506/30506332/xlarge_20210818123736_plastikes_sakoules_45cm_1kg_3800232530231.jpeg</Image>
-		<Price>2.569191495</Price>
+		<Price>2.52</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0534</MPN>
@@ -16968,7 +16968,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 50εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/32185992/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-50ek-1kg.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/032185/32185992/20211108090959_plastikes_sakoules_50cm.jpeg</Image>
-		<Price>2.569191495</Price>
+		<Price>2.52</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1564</MPN>
@@ -16983,7 +16983,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 60εκ. 1kg</Name>
 		<URL>https://www.skroutz.gr/s/53967271/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-60ek-1kg-0842.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/041872/41872667/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_60cm_1kg.jpeg</Image>
-		<Price>2.569191495</Price>
+		<Price>2.52</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0842</MPN>
@@ -17061,7 +17061,7 @@ mini markets
 		<Name>Θαλασσινός Πλαστικές Σακούλες Συσκευασίας σε Ρολό Τύπου Φανελάκι 35x22εκ. 200τμχ</Name>
 		<URL>https://www.skroutz.gr/s/56202932/THalassinos-Plastikes-Sakoules-Syskeyasias-200tmch-0099.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/031850/31850212/xlarge_20220602122043_plastikes_sakoules_5206970007017_200tmch.jpeg</Image>
-		<Price>1.19</Price>
+		<Price>1.01</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0099</MPN>
@@ -17075,7 +17075,7 @@ mini markets
 		<Name>Θαλασσινός Πλαστικές Σακούλες Συσκευασίας σε Ρολό Τύπου Φανελάκι 43x26εκ. 200τμχ</Name>
 		<URL>https://www.skroutz.gr/s/36950298/THalassinos-Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-43x26ek-200tmch-6865.html?product_id=215299838</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/036950/36950298/20220630165024_thalassinos_plastikes_sakoules_26by43_6865_200tmch.jpeg</Image>
-		<Price>1.56</Price>
+		<Price>1.35</Price>
 		<Category>Σακούλες (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0321</MPN>
@@ -17208,6 +17208,19 @@ mini markets
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>789211</SKU>
+		<Name>Θαλασσινός Αντικολλητικό Χαρτί Cook 8m x 38cm ΠΡ7421</Name>
+		<URL>https://www.skroutz.gr/s/26726122/THalassinos-Antikollitiko-CHarti-8m-x-38cm.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/026726/26726122/xlarge_20220301165704_thalassinos_antikollitiko_charti_psisimatos_8mx38cm.jpeg https://c.scdn.gr/images/sku_images/056972/56972631/xlarge_20220301165704_eef3fe28.jpeg</Image>
+		<Price>0.9272077308</Price>
+		<Category>Αναλώσιμα Κουζίνας</Category>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>ΠΡ7421</MPN>
+		<Description>Ρολό χαρτί ψησίματος αντικολλητικό Θαλασσινός,σε κουτί, 8m x 38cm.</Description>
+		<EAN>5202054034214</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>78922</SKU>
 		<Name>Αντικολλητικό Χαρτί Veler 42x38cm 18τμχ</Name>
 		<URL>https://www.skroutz.gr/s/24337570/HOMie-Antikollitiko-CHarti-Veler-42x38cm-18tmch.html</URL>
@@ -17240,7 +17253,7 @@ mini markets
 		<Name>Θαλασσινός Μεμβράνη Τροφίμων 30m x 30cm</Name>
 		<URL>https://www.skroutz.gr/s/34853619/THalassinos-Memvrani-30m-x-30cm.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/034853/34853619/20220321142137_thalassinos_memvrani_30m.jpeg</Image>
-		<Price>0.9146778966</Price>
+		<Price>0.86</Price>
 		<Category>Αναλώσιμα Κουζίνας</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1571</MPN>
@@ -21028,7 +21041,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Name>Esperanza Seine Βραστήρας με LED Φωτισμό 1.8lt 2200W Black/Inox EKK026</Name>
 		<URL>https://www.skroutz.gr/s/18251467/Esperanza-Vrastiras-1-7lt-2200W-Asimi-EKK026.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018251/18251467/xlarge_20190419093702_esperanza_ekk026.jpeg</Image>
-		<Price>19.72349166666667</Price>
+		<Price>18.09</Price>
 		<Category>Βραστήρες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKK026</MPN>
