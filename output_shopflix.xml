@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-04 16:05</created_at>
+	<created_at>2025-11-04 16:39</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -191,7 +191,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>315</Quantity>
+		<Quantity>313</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -494,7 +494,7 @@
 		<MPN>272001</MPN>
 		<Description>H Sprite είναι το πιο δροσιστικό αναψυκτικό της The Coca-Cola Company. Η καθαρότητα, η αυθεντικότητα και ο δυναμικός χαρακτήρας της Sprite ενθαρρύνει τους νέους να εκφράζονται όπως πραγματικά νιώθουν και να ενεργούν ανάλογα. Μια παγωμένη Sprite απολαμβάνεται καλύτερα στον ελεύθερο χρόνο των νέων και γίνεται ο καλύτερος σύντροφος την ώρα του video gaming. Η Sprite είναι η τέλεια πρόταση για τους καταναλωτές που θέλουν να ξεδιψάσουν με την αυθεντική και δροσιστική γεύση Lemon-Lime της Sprite.</Description>
 		<EAN>5449000012203</EAN>
-		<Quantity>108</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -520,7 +520,7 @@
 
 Περιέχει πηγή Φαινυλαλανίνης.</Description>
 		<EAN>5449000052926</EAN>
-		<Quantity>150</Quantity>
+		<Quantity>144</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -537,7 +537,7 @@
 
 Νερό, Φυσικές Ζαχαρούχες Γλυκαντικές Ύλες: Ζάχαρη/Ισογλυκόζη, Χυμός Λεμονιού (7%) από συμπυκνωμένο χυμό, Διοξείδιο Άνθρακα, Μέσο Οξίνισης: Κιτρικό Οξύ, Ρυθμιστής Οξύτητας: Κιτρικό Νάτριο, Συντηρητικά: Σορβικό Κάλιο, Αντιοξειδωτικά: Ασκορβικό Οξύ, Φυσικές Αρωματικές Ύλες Λεμονιού</Description>
 		<EAN>5449000052599</EAN>
-		<Quantity>126</Quantity>
+		<Quantity>120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -552,7 +552,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>2464</Quantity>
+		<Quantity>2460</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -567,7 +567,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>1488</Quantity>
+		<Quantity>1484</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -645,7 +645,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<EAN>5449000018281</EAN>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -697,7 +697,7 @@
 
 </Description>
 		<EAN>5449000017673</EAN>
-		<Quantity>92</Quantity>
+		<Quantity>91</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -739,7 +739,7 @@
 
 </Description>
 		<EAN>5449000134332</EAN>
-		<Quantity>66</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1880,7 +1880,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080024</EAN>
-		<Quantity>9541</Quantity>
+		<Quantity>9522</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1966,7 +1966,7 @@
 Στερεό Υπόλειμμα (180°): 1,25 g/L
 </Description>
 		<EAN>5206167003006</EAN>
-		<Quantity>127</Quantity>
+		<Quantity>125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8122,7 +8122,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1014</MPN>
 		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.</Description>
 		<EAN>5201109655022</EAN>
-		<Quantity>217</Quantity>
+		<Quantity>213</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8871,7 +8871,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1252</MPN>
 		<Description>Περιποιητικό κρεμώδες αφρόλουτρο που προσφέρει στην επιδερμίδα φρεσκάδα και απαλότητα.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και διαρκεί ικανοποιητικά το άρωμά του.</Description>
 		<EAN>4005808917204</EAN>
-		<Quantity>233</Quantity>
+		<Quantity>232</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9328,7 +9328,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1078</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467753</EAN>
-		<Quantity>93</Quantity>
+		<Quantity>92</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9635,7 +9635,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<EAN>5200100281643</EAN>
-		<Quantity>1531</Quantity>
+		<Quantity>1530</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9876,7 +9876,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 </Description>
 		<EAN>5201263078439</EAN>
-		<Quantity>2138</Quantity>
+		<Quantity>2137</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10017,7 +10017,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>2832</Quantity>
+		<Quantity>2831</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11024,7 +11024,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1754</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Flowers 2x45gr προσφέρει διπλή προστασία και φρεσκάδα για τη λεκάνη της τουαλέτας. Το υπέροχο άρωμα λουλουδιών γεμίζει το μπάνιο με ευχάριστες και φρέσκες νότες, ενώ τα μπλοκ προστατεύουν από τα άλατα και τις ακαθαρσίες. Ιδανικό για καθημερινή χρήση, εξασφαλίζει μακροχρόνια καθαριότητα και μια όμορφη αρωματισμένη ατμόσφαιρα στο μπάνιο σας.</Description>
 		<EAN>5908241717860</EAN>
-		<Quantity>344</Quantity>
+		<Quantity>343</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11305,7 +11305,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>03301791</MPN>
 		<Description>Φαράσι σε πράσινο χρώμα της εταιρείας Cyclops, κατάλληλο για την περισυλλογή των απορριμμάτων κατά το σκούπισμα. Είναι κατασκευασμένο από πλαστικό, ένα υλικό ιδιαίτερα ανθεκτικό και οικονομικό. Διαθέτει λάστιχο για να διευκολύνει τη συλλογή της σκόνης και των μικρών ρύπων καθώς και τη συγκράτησή τους μέσα σε αυτό.</Description>
 		<EAN>5202707004878</EAN>
-		<Quantity>63</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11319,7 +11319,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>330426</MPN>
 		<Description>Φαράσι με κοντάρι ανθεκτικό, με εργονομική λαβή, κλήση σάρωσης και μηχανισμό περίσφιξης στο κοντάρι της σκούπας, για ευκολότερη αποθήκευση. Ιδανικό για οικιακή αλλά και επαγγελματική χρήση.</Description>
 		<EAN>5202707001686</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11399,7 +11399,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>100124</MPN>
 		<Description>Κοντάρι μεταλλικό, με χοντρό σπείρωμα, σε χρωμέ απόχρωση, για οικιακές σφουγγαρίστρες και σκούπες, ύψους 130 cm.</Description>
 		<EAN>5202707990065</EAN>
-		<Quantity>284</Quantity>
+		<Quantity>280</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12207,7 +12207,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1757</MPN>
 		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
 		<EAN>5200138990050</EAN>
-		<Quantity>187</Quantity>
+		<Quantity>186</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12224,7 +12224,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Κρατήστε το μακριά από παιδιά και κατοικίδια.</Description>
 		<EAN>5200138990067</EAN>
-		<Quantity>17</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12925,7 +12925,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
 		<EAN>5200128643089</EAN>
-		<Quantity>559</Quantity>
+		<Quantity>554</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12967,7 +12967,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643119</EAN>
-		<Quantity>234</Quantity>
+		<Quantity>229</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13053,7 +13053,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0891</MPN>
 		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
 		<EAN>5200128640378</EAN>
-		<Quantity>189</Quantity>
+		<Quantity>188</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13286,7 +13286,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Βάρος και για τις 20 κρεμάστρες: 2,3 κιλά.
     Μέγιστο στατικό φορτίο ανά κρεμάστρα: 5 kg.</Description>
 		<EAN>0194343278315</EAN>
-		<Quantity>173</Quantity>
+		<Quantity>172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13329,7 +13329,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 	</product>
 	<product>
 		<SKU>762030131</SKU>
-		<Name>Songmics Κρεμάστρα Ντουλάπας για Παντελόνια / Φούστες με Κλιπς Βαρέως Τύπου Inox Σετ 20τμχ CRI003-20</Name>
+		<Name>Songmics Κρεμάστρα Ντουλάπας για Παντελόνια / Φούστες με Κλιπς Βαρέως Τύπου Inox 31x10,5cm Σετ 20τμχ CRI003-20</Name>
 		<URL>https://www.skroutz.gr/s/25687541/Songmics-Kremastra-Ntoulapas-gia-Pantelonia-Foustes-me-Klips-Vareos-Typou-CRI003-20-20tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/025687/25687541/xlarge_20201117125021_songmics_kremastra_ntoulapas_gia_pantelonia_foustes_me_klips_vareos_typou_cri003_20_20tmch.jpeg</Image>
 		<Price>16.882104</Price>
@@ -14056,6 +14056,146 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>762400102</SKU>
+		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 4lt/22cm  E-3184</Name>
+		<URL>https://www.skroutz.gr/s/22952109/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-4lt-22cm-E-3184.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/022952/22952109/fixedratio_20220510175852_sidi_home_vathia_anoxeidoti_katsarola_4lt_22cm_e_3184.jpeg</Image>
+		<Price>21.20958</Price>
+		<Category>Κατσαρόλες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3184</MPN>
+		<Description>Ανοξείδωτη κατσαρόλα, μεγέθους Ν.22 (άνοιγμα κατσαρόλας) και ποιότητας 18/10, της σειράς ΑΝΕΤ από την εταιρεία Sidirela. Η κατσαρόλα αποτελεί ιδανική επιλογή για το καθημερινό μαγείρεμα ικανοποιητικής ποσότητας φαγητού.
+
+Διαθέτει βαρύ και σταθερό τριπλό επαγωγικό πάτο, κατάλληλο για όλες τις εστίες. Το ανοξείδωτο ατσάλι εσωτερικά παρουσιάζει μέγιστη αντοχή στις φθορές και σου δίνει τη δυνατότητα να χρησιμοποιήσεις οποιοδήποτε εργαλείο μαγειρικής επιθυμείς. Εξωτερικά, η κατσαρόλα αποτελείται από ανθεκτικές και λαμπερές ανοξείδωτες επιφάνειες, εξαιρετικής ποιότητας, με όμορφες ματ λεπτομέρειες.
+
+Διαθέτει δύο εργονομικά ανοξείδωτα χερούλια που παραμένουν κρύα κατά το μαγείρεμα. Τέλος, συνοδεύεται από ανοξείδωτο καπάκι, ίδιου υλικού με το υπόλοιπο σκεύος.
+
+Διάμετρος κατσαρόλας: 22 cm
+Ύψος κατσαρόλας: 11.5 cm
+Οδηγίες Χρήσης:
+
+Καθαρίστε με απορρυπαντικό πιάτων και ζεστό νερό πριν τη πρώτη χρήση.
+Μην χρησιμοποιείται σκληρές βούρτσες για το καθάρισμα.
+Μπορεί να μπει στο πλυντήριο των πιάτων.</Description>
+		<EAN>5203642131841</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762400103</SKU>
+		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 6lt/24cm  E-3185</Name>
+		<URL>https://www.skroutz.gr/s/22952125/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-6lt-24cm-E-3185.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/022952/22952125/fixedratio_20220510175951_sidi_home_vathia_anoxeidoti_katsarola_6lt_24cm_e_3185.jpeg</Image>
+		<Price>23.330538</Price>
+		<Category>Κατσαρόλες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3185</MPN>
+		<Description>Η ανοξείδωτη κατσαρόλα Sidirela ANET είναι σχεδιασμένη για αντοχή και υψηλή απόδοση στο μαγείρεμα. Κατασκευασμένη από ανοξείδωτο ατσάλι 18/10, προσφέρει υγιεινό και ασφαλές μαγείρεμα, ενώ ο τριπλός επαγωγικός πάτος εξασφαλίζει ομοιόμορφη κατανομή της θερμότητας, μειώνοντας τον χρόνο και την κατανάλωση ενέργειας.
+
+Με χωρητικότητα 6 λίτρα, είναι ιδανική για σούπες, μαγειρευτά και οικογενειακά γεύματα. Το καπάκι βοηθά στη διατήρηση των αρωμάτων και της υγρασίας, ενώ οι ανθεκτικές λαβές προσφέρουν ασφάλεια και ευκολία στη χρήση.
+
+
+
+Χαρακτηριστικά
+
+Υλικό: Ανοξείδωτο ατσάλι 18/10
+
+Διαστάσεις: 24 x 12.5 cm
+
+Χωρητικότητα: 6lt
+
+Τριπλός επαγωγικός πάτος για ομοιόμορφη θέρμανση
+
+Καπάκι για διατήρηση γεύσης &amp; υγρασίας
+
+Κατάλληλη για όλες τις εστίες (και επαγωγικές)
+
+Ανθεκτικές εργονομικές λαβές
+
+Brand: Sidirela</Description>
+		<EAN>5203642131858</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762400104</SKU>
+		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 9lt/26cm  E-3186</Name>
+		<URL>https://www.skroutz.gr/s/22952126/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-9lt-26cm-E-3186.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/022952/22952126/fixedratio_20220510175842_sidi_home_vathia_anoxeidoti_katsarola_9lt_26cm_e_3186.jpeg</Image>
+		<Price>26.511975</Price>
+		<Category>Κατσαρόλες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3186</MPN>
+		<Description>Ανοξείδωτη κατσαρόλα, μεγέθους Ν.26 (άνοιγμα κατσαρόλας) και ποιότητας 18/10, της σειράς ΑΝΕΤ από την εταιρεία Sidirela. Η κατσαρόλα αποτελεί ιδανική επιλογή για το καθημερινό μαγείρεμα μεγάλης ποσότητας φαγητού.
+
+Διαθέτει βαρύ και σταθερό τριπλό επαγωγικό πάτο, κατάλληλο για όλες τις εστίες.
+Το ανοξείδωτο ατσάλι εσωτερικά παρουσιάζει μέγιστη αντοχή στις φθορές.
+Εξωτερικά, διαθέτει ανθεκτικές και λαμπερές ανοξείδωτες επιφάνειες, εξαιρετικής ποιότητας, με όμορφες ματ λεπτομέρειες.
+Διαθέτει δύο εργονομικά ανοξείδωτα χερούλια που παραμένουν κρύα κατά το μαγείρεμα.
+Συνοδεύεται από ανοξείδωτο καπάκι, ίδιου υλικού με το υπόλοιπο σκεύος.
+Διάμετρος κατσαρόλας: 26 cm
+
+Ύψος κατσαρόλας: 13.5 cm
+
+Οδηγίες Χρήσης:
+
+Καθαρίστε με απορρυπαντικό πιάτων και ζεστό νερό πριν τη πρώτη χρήση.
+Μην χρησιμοποιείται σκληρές βούρτσες για το καθάρισμα.
+Μπορεί να μπει στο πλυντήριο των πιάτων.</Description>
+		<EAN>5203642131865</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762400105</SKU>
+		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 12lt/28cm  E-3187</Name>
+		<URL>https://www.skroutz.gr/s/22952134/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-12lt-28cm-E-3187.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/022952/22952134/fixedratio_20220510175907_sidi_home_vathia_anoxeidoti_katsarola_12lt_28cm_e_3187.jpeg</Image>
+		<Price>33.93532800000001</Price>
+		<Category>Κατσαρόλες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3187</MPN>
+		<Description>Ανοξείδωτη κατσαρόλα, μεγέθους Ν.28 με ποιότητα 18/10, από την σειρά ΑΝΕΤ. Ιδανική επιλογή για το καθημερινό μαγείρεμα μεγάλης ποσότητας φαγητού. Διαθέτει βαρύ και σταθερό τριπλό επαγωγικό πάτο, κατάλληλο για όλες τις εστίες. Το ανοξείδωτο ατσάλι εσωτερικά παρουσιάζει μέγιστη αντοχή στις φθορές και επιτρέπει τη χρήση οποιουδήποτε εργαλείου μαγειρικής. Εξωτερικά, η κατσαρόλα έχει ανθεκτικές και λαμπερές ανοξείδωτες επιφάνειες, με όμορφες ματ λεπτομέρειες.
+
+Διαθέτει:
+
+Δύο εργονομικά ανοξείδωτα χερούλια που παραμένουν κρύα κατά το μαγείρεμα.
+Ανοξείδωτο καπάκι, ίδιου υλικού με το σκεύος.
+Διάμετρος κατσαρόλας: 28 cm
+
+Ύψος κατσαρόλας: 15 cm
+
+Οδηγίες Χρήσης:
+
+Καθαρίστε με απορρυπαντικό πιάτων και ζεστό νερό πριν τη πρώτη χρήση.
+Μην χρησιμοποιείτε σκληρές βούρτσες για το καθάρισμα.
+Μπορεί να μπει στο πλυντήριο των πιάτων.</Description>
+		<EAN>5203642131872</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>762400111</SKU>
+		<Name>Sidirela Granite Αντικολλητικό Κατσαρολάκι - Γαλατιέρα Αλουμινίου με Γυάλινο Καπάκι και Εργονομική Λαβή 16cm E-0672</Name>
+		<URL>https://www.skroutz.gr/s/19819280/Sidirela-Granite-Katsarolaki-Galaktos-apo-Alouminio-16cm-E-0672.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/078768/78768224/fixedratio_20230703142654_2230527e.jpeg</Image>
+		<Price>12.352459392</Price>
+		<Category>Κατσαρόλες</Category>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0672</MPN>
+		<Description>Γαλατιέρα από αλουμίνιο με τρεις στρώσεις μαρμάρου.
+
+Διαθέτει:
+
+Μαλακή εργονομική λαβή
+Γυάλινο καπάκι
+Πάχος 4 mm
+Εξαιρετική ποιότητα για υγιεινό μαγείρεμα</Description>
+		<EAN>5203642106726</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>76722101</SKU>
 		<Name>Sidirela Συλλέκτης υγρασίας 230gr E-0925</Name>
 		<URL>https://www.skroutz.gr/s/33350605/Sidirela-Syllektis-Ygrasias-E-0925-230gr.html</URL>
@@ -14281,7 +14421,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>LNT52BX</MPN>
 		<Description>Το βοηθητικό τραπεζάκι σαλονιού της εταιρείας Vasagle είναι ιδανικό για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. Είναι ορθογώνιο, αποτελείται από μέταλλο και μοριοσανίδα και αντέχει βάρος έως 25 κιλά.</Description>
 		<EAN>6955880386291</EAN>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17246,7 +17386,7 @@ mini markets
 		<MPN>1570</MPN>
 		<Description>Αντικολλητικό χαρτί κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 20εκ.    Μήκος(εκατοστά): 20εκ.    Τεμάχια: 25τμχ</Description>
 		<EAN>5202054473563</EAN>
-		<Quantity>112</Quantity>
+		<Quantity>111</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17364,7 +17504,7 @@ mini markets
     Πλάτος: 48mm
     Μήκος: 50m</Description>
 		<EAN>5203642104449</EAN>
-		<Quantity>1376</Quantity>
+		<Quantity>1373</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18027,7 +18167,7 @@ mini markets
     Συσκευασία: 100 τεμάχια
     Διαστάσεις: 111x154mm (Α6)</Description>
 		<EAN>5207146013894</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18266,7 +18406,7 @@ mini markets
 		<MPN>1680</MPN>
 		<Description>Η ουσία BPA είναι ένα συστατικό που χρησιμοποιείται, ως μέσο εμφάνισης της χρωστικής ουσίας σε θερμικό χαρτί ώστε κατά την εκτύπωση να εμφανίζεται η μελάνη.Στην Ε.Ε., η χρήση της BPA στο θερμικό χαρτί υπόκειται σε περιορισμό.Η καθολική απαγόρευση της χρήσης θα τεθεί σε ισχύ το 2020, ούτως ώστε να δοθεί στις επιχειρήσεις το χρονικό περιθώριο να την εξαλείψουν σταδιακά και να την αντικαταστήσουν με μια οικολογικότερη ουσία.</Description>
 		<EAN>5203358500849</EAN>
-		<Quantity>6602</Quantity>
+		<Quantity>6490</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21391,6 +21531,24 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799200121</SKU>
+		<Name>Sidirela Θερμάστρα χαλαζία 1600W έως 20m² Μαύρη E-3300</Name>
+		<URL>https://www.skroutz.gr/s/63743321/0059-e-3300-sompa-chalazia-1600w.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/063743/63743321/xlarge_20251020120714_0059_e_3300_sompa_chalazia_1600w.jpeg</Image>
+		<Price>18.45</Price>
+		<Category>Σόμπες Αλογόνου - Χαλαζία</Category>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN> E-3300</MPN>
+		<Description>Η σόμπα χαλαζία διαθέτει ισχύ 1600 Watt, που την καθιστά ιδανική για άμεση θέρμανση μικρών χώρων όπως υπνοδωμάτια, γραφεία ή σαλόνια. Με τη βοήθεια της τεχνολογίας υπέρυθρης θέρμανσης, μπορεί να φτάσει τη μέγιστη θερμοκρασία σε μόλις λίγα δευτερόλεπτα, χωρίς την ανάγκη προθέρμανσης, παρέχοντας ομοιόμορφη και στοχευμένη κατανομή της θερμότητας. Ειδικά σχεδιασμένη για σεβασμό στην ποιότητα του αέρα, προσφέρει καθαρή θέρμανση χωρίς οσμές ή σκόνη, γεγονός που την καθιστά κατάλληλη για άτομα με αναπνευστικά προβλήματα ή αλλεργίες. Επιπλέον, η λειτουργία της είναι απόλυτα αθόρυβη, καθώς δεν περιέχει βεντιλατέρ.
+
+Η σόμπα είναι τοποθετημένη στο δάπεδο, προσφέροντας εξαιρετική σταθερότητα χάρη στα μεγάλα πέλματα που διαθέτει. Η παρουσία πλέγμα ασφαλείας μπροστά από τις λάμπες εξασφαλίζει ακόμα μεγαλύτερη ασφάλεια κατά την χρήση. Είναι σημαντικό να τοποθετείται μακριά από εύφλεκτες επιφάνειες όπως χαλιά ή κουρτίνες. Με τη δυνατότητα ρύθμισης της θέρμανσης ανάλογα με τις ανάγκες σας, ενδείκνυται για χώρους έως και 20m².
+
+Ισχύς: 1600W</Description>
+		<EAN>5203642133005</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7992002</SKU>
 		<Name>Eurolamp Θερμάστρα Χαλαζία Λευκή 1600W έως 25m² Μαύρη</Name>
 		<URL>https://www.skroutz.gr/s/53651646/Eurolamp-920-29165-Lampa.html</URL>
@@ -21402,6 +21560,30 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Description>Θερμάστρα χαλαζία Eurolamp, με ισχύ 1600W. Κατάλληλη για ομοιόμορφη θέρμανση χώρων 25 τ.μ. Δυνατότητα επιλογής μεταξύ 2 λειτουργιών 800W / 1600W αντίστοιχα. Διαθέτει ανακλαστήρες με ευρεία γωνία θερμότητας, διακόπτη ασφαλείας σε περίπτωση πτώσης και στεγανοποίηση IP20. Η λαβή μεταφοράς σε συνδυασμό με το χαμήλο του βάρος στα 1.58kg, κάνουν τη μεταφορά πιο εύκολη από ποτέ.</Description>
 		<EAN>5207227261459</EAN>
 		<Quantity>2</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799200201</SKU>
+		<Name>Sidirela Αερόθερμο Δωματίου Δαπέδου 2000W με 2 Βαθμίδες Θέρμανσης και Λειτουργία Ανεμιστήρα έως 20m² Λευκό E-2646</Name>
+		<URL>https://www.skroutz.gr/s/25026627/Sidirela-Aerothermo-Domatiou-Dapedou-2000W-E-2646.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/025026/25026627/xlarge_20210216140928_sidi_home_e_2646_aerothermo_2000w.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/081159/81159766/xlarge_20230810105555_6fffc9f9.jpeg https://b.scdn.gr/images/sku_images/112429/112429015/xlarge_20250604162355_82ad9ba3.jpeg</Additional_Image>
+		<Price>11.76</Price>
+		<Category>Αερόθερμα</Category>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN> E-2646</MPN>
+		<Description>Το αερόθερμο της εταιρείας Sidirela είναι κατάλληλο για χρήση σε διάφορους χώρους του σπιτιού σας, όπως για παράδειγμα το υπνοδωμάτιο, ένα μικρό σαλόνι ή μία αποθήκη, που θέλετε να θερμάνετε άμεσα και για μικρή χρονική περίοδο.
+
+Αποτελεί μια οικονομική επιλογή και μπορεί να χρησιμοποιηθεί είτε για τοπική θέρμανση, είτε ως συμπληρωματική μαζί με άλλους τρόπους θέρμανσης. Ένα από τα πλεονεκτήματα του αερόθερμου είναι ότι αποδίδει πάντα το ίδιο, ανεξάρτητα από τη θερμοκρασία του εξωτερικού χώρου.
+
+Διαθέτει ρυθμιζόμενο θερμοστάτη, για να προσαρμόζετε ή να διατηρείτε στα επιθυμητά πλαίσια τη θερμοκρασία του χώρου, καθ' όλη τη διάρκεια χρήσης της συσκευής. Μπορείτε να ρυθμίσετε και να επιλέξετε ανάμεσα σε 2 βαθμίδες θέρμανσης, ανάλογα με τις ιδιαιτερότητες του δωματίου και τις προσωπικές σας ανάγκες. Η δυνατότητα της ανεξάρτητης λειτουργίας του ανεμιστήρα σας επιτρέπει να ανανεώνετε τον αέρα του χώρου ή να λειτουργεί και ως ανεμιστήρας κατά τους καλοκαιρινούς μήνες.
+
+Είναι κατάλληλο για χώρους έως και 20m². Ενδεικτικά, οι ιδανικές συνθήκες του εσωτερικού χώρου τον χειμώνα, είναι θερμοκρασία περίπου 21 °C και μια σχετική υγρασία μεταξύ 40% - 60%.
+
+Ισχύς: 2000W
+Βαθμίδες Θέρμανσης: 2</Description>
+		<EAN>5203642126465</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26825,7 +27007,7 @@ VeganΌχι
 Βάρος420 gr
 Τεμάχια1 τμχ</Description>
 		<EAN>5201024653684</EAN>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27541,7 +27723,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>1087</Quantity>
+		<Quantity>1084</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27556,7 +27738,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.Αποτελεί ιδανική επιλογή για σκύλους με υψηλές ενεργειακές απαιτήσεις.• Κυρίως συστατικό: Κοτόπουλο, Ρύζι• Συσκευασία: 15kg</Description>
 		<EAN>5202546009119</EAN>
-		<Quantity>152</Quantity>
+		<Quantity>146</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27667,7 +27849,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<EAN>5202546009140</EAN>
-		<Quantity>432</Quantity>
+		<Quantity>427</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
