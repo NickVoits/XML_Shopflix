@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-08 11:05</created_at>
+	<created_at>2025-11-08 12:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -13,7 +13,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<EAN>5201261231843</EAN>
-		<Quantity>124</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -251,7 +251,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>96</Quantity>
+		<Quantity>86</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -266,7 +266,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<EAN>5201275611372</EAN>
-		<Quantity>30</Quantity>
+		<Quantity>28</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -281,7 +281,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>49</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -296,7 +296,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<EAN>5201275610672</EAN>
-		<Quantity>48</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -311,7 +311,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<EAN>5201275601472</EAN>
-		<Quantity>60</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -552,7 +552,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>2404</Quantity>
+		<Quantity>2374</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -567,7 +567,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>1450</Quantity>
+		<Quantity>1439</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -645,7 +645,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<EAN>5449000018281</EAN>
-		<Quantity>29</Quantity>
+		<Quantity>28</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -964,7 +964,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>1477</Quantity>
+		<Quantity>1471</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1084,7 +1084,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>408</Quantity>
+		<Quantity>402</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1852,7 +1852,7 @@
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<EAN>5200040345108</EAN>
-		<Quantity>450</Quantity>
+		<Quantity>456</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2422,7 +2422,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
 		<EAN>5202037114162</EAN>
-		<Quantity>103</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4101,7 +4101,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>205</Quantity>
+		<Quantity>204</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5162,7 +5162,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000301</EAN>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5319,7 +5319,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202037130063</EAN>
-		<Quantity>787</Quantity>
+		<Quantity>777</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8010,7 +8010,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1249</MPN>
 		<Description>Το κρεμοσάπουνο Natura Vanilla Caramel με φυτικό εκχύλισμα καλέντουλας, λειτουργεί σαν ένα φυσικό μαλακτικό για τα χέρια, ενώ παράλληλα τα προστατεύει από ερεθισμούς.</Description>
 		<EAN>5201109001638</EAN>
-		<Quantity>161</Quantity>
+		<Quantity>159</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8024,7 +8024,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1250</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5201109001621</EAN>
-		<Quantity>125</Quantity>
+		<Quantity>123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8038,7 +8038,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1251</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.</Description>
 		<EAN>5201109001614</EAN>
-		<Quantity>229</Quantity>
+		<Quantity>227</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10017,7 +10017,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>2816</Quantity>
+		<Quantity>2814</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10032,7 +10032,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055237</EAN>
-		<Quantity>1529</Quantity>
+		<Quantity>1527</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10062,7 +10062,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<EAN>8008970055244</EAN>
-		<Quantity>735</Quantity>
+		<Quantity>733</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10077,7 +10077,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<EAN>8008970055251</EAN>
-		<Quantity>345</Quantity>
+		<Quantity>344</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10304,7 +10304,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.
     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία. </Description>
 		<EAN>7615400818112</EAN>
-		<Quantity>389</Quantity>
+		<Quantity>383</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10491,7 +10491,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>E-2683</MPN>
 		<Description>Χρωμοπροστασία η οποία προσφέρει εξαιρετική βοήθεια σε κάθε σας πλύση. Το πακέτο περιέχει 12 φύλλα. </Description>
 		<EAN>5203642126830</EAN>
-		<Quantity>140</Quantity>
+		<Quantity>134</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13347,7 +13347,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Σετ 20 τμχ 
     Διαστάσεις: 31 x 10.5 cm</Description>
 		<EAN>6955880325559</EAN>
-		<Quantity>145</Quantity>
+		<Quantity>144</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15879,7 +15879,7 @@ Brand: Sidirela</Description>
 
 </Description>
 		<EAN>5203642111904</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16347,7 +16347,7 @@ Brand: Sidirela</Description>
 		<MPN>0095</MPN>
 		<Description>Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<EAN>5206970002425</EAN>
-		<Quantity>39</Quantity>
+		<Quantity>139</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16375,7 +16375,7 @@ Brand: Sidirela</Description>
 		<MPN>0634</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5200425303129</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>200</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16389,7 +16389,7 @@ Brand: Sidirela</Description>
 		<MPN>0773</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<EAN>5202054467555</EAN>
-		<Quantity>115</Quantity>
+		<Quantity>215</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16431,7 +16431,7 @@ Brand: Sidirela</Description>
 		<MPN>0895</MPN>
 		<Description>Καπάκια ποτηριών μιας χρήσης σε συσκευασία των 100 τεμαχίων σε μαύρο χρώμα, που συνδυάζουν την πρακτικότητα τους με τα αντίστοιχα ποτήρια. Είναι κατάλληλα για εκδηλώσεις, πάρτι, επαγγελματική αλλά και καθημερινή χρήση. Τα καπάκια ποτηριών τύπου πιπίλα προσφέρουν μια πιο ομαλή ροή του υγρού καθώς προσομοιάζει τον τρόπο που την χρησιμοποιούν τα μωρά αφήνοντας το υγρό να ρέει με σταθερό ρυθμό. Διαθέτει μια μικρή ανάγλυφη περιοχή στο κέντρο που μοιάζει με πιπίλα και επιτρέπει στον χρήστη να πίνει με πιο φυσικό τρόπο.</Description>
 		<EAN>6425092035060</EAN>
-		<Quantity>26</Quantity>
+		<Quantity>66</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16459,7 +16459,7 @@ Brand: Sidirela</Description>
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
 		<EAN>promitheas-15202054457515</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>97</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16593,7 +16593,7 @@ Brand: Sidirela</Description>
     Με υψηλές προδιαγραφές ποιότητας και υγιεινής.
     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
 		<EAN>8011851202118</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16646,7 +16646,7 @@ Brand: Sidirela</Description>
     Από την άλλη πλευρά να είναι επενδυμένο με αλουμίνιο, σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.
 </Description>
 		<EAN>5202054212124</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16666,7 +16666,7 @@ Brand: Sidirela</Description>
 
 Η τιμή αφορά τα 100 τεμάχια.</Description>
 		<EAN>8682887981249</EAN>
-		<Quantity>14</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16680,7 +16680,7 @@ Brand: Sidirela</Description>
 		<MPN>1692</MPN>
 		<Description>Το καπάκι έχει κατασκευαστεί έτσι ώστε από την μια πλευρά να είναι χαρτόνι λευκό δίνοντας την δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει και από την άλλη μεριά να είναι επενδυμένο με αλουμίνιο σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
 		<EAN>5213006893483</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16697,7 +16697,7 @@ Brand: Sidirela</Description>
     Με υψηλές προδιαγραφές ποιότητας και υγιεινής.
     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
 		<EAN>5202054213510</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16766,7 +16766,7 @@ Brand: Sidirela</Description>
     Βάρος: 9 gr
 </Description>
 		<EAN>5202054466435</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16808,7 +16808,7 @@ Brand: Sidirela</Description>
 		<MPN>0687</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 1000ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία κρύων φαγητών. Η συσκευασία περιλαμβάνει 100 τεμάχια.</Description>
 		<EAN>promitheas-15202054466463</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16996,7 +16996,7 @@ Brand: Sidirela</Description>
 		<MPN>0001</MPN>
 		<Description>• 10 τεμάχια• Διάμετρος: 18cm</Description>
 		<EAN>5202054472962</EAN>
-		<Quantity>519</Quantity>
+		<Quantity>514</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17025,7 +17025,7 @@ Brand: Sidirela</Description>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5202054473662</EAN>
-		<Quantity>23</Quantity>
+		<Quantity>223</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17040,7 +17040,7 @@ Brand: Sidirela</Description>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5219711976220</EAN>
-		<Quantity>505</Quantity>
+		<Quantity>503</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17055,7 +17055,7 @@ Brand: Sidirela</Description>
 		<Weight>1 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:•Ποσότητα: 1 Κιλό•Μήκος: 50cmΠλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία.</Description>
 		<EAN>5202054174170</EAN>
-		<Quantity>13</Quantity>
+		<Quantity>313</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17070,7 +17070,7 @@ Brand: Sidirela</Description>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5219711976244</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17085,7 +17085,7 @@ Brand: Sidirela</Description>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5202054473624</EAN>
-		<Quantity>499</Quantity>
+		<Quantity>497</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17302,7 +17302,7 @@ mini markets
     Μήκος(μέτρα): 20μ.
     Πλάτος: 29εκ.</Description>
 		<EAN>5202054036195</EAN>
-		<Quantity>129</Quantity>
+		<Quantity>229</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17330,7 +17330,7 @@ mini markets
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
 		<EAN>5202054032272</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>109</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17358,7 +17358,7 @@ mini markets
 		<MPN>ΠΡ7421</MPN>
 		<Description>Ρολό χαρτί ψησίματος αντικολλητικό Θαλασσινός,σε κουτί, 8m x 38cm.</Description>
 		<EAN>5202054034214</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>192</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17372,7 +17372,7 @@ mini markets
 		<MPN>1569</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας HOMie, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 38εκ.    Μήκος(εκατοστά): 42εκ.    Τεμάχια: 18τμχ</Description>
 		<EAN>5202887031831</EAN>
-		<Quantity>721</Quantity>
+		<Quantity>715</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17456,7 +17456,7 @@ mini markets
 		<MPN>1525</MPN>
 		<Description>Σακούλες vacuum για συσκευή σφραγίσματος τροφίμων σε συσκευασία 100 τεμαχίων.Αυτές οι σακούλες με ένα απλό σφράγισμα βοηθούν στη διατήρηση των θρεπτικών συστατικών των τροφίμων, του αρώματος, του χρώματος και της γεύσης τους, ενώ αν σφραγιστούν αεροστεγώς παρατείνετε η διάρκεια ζωής τους, διατηρώντας έτσι τη φρεσκάδα και τα θρεπτικά συστατικά με φυσικό τρόπο.Ο σχεδιασμός με σαγρέ ανάγλυφη επιφάνεια εμποδίζει το οξυγόνο και την υγρασία για αύξηση της αναρρόφησης, έτσι είναι ιδανική επιλογή εάν επιθυμείτε να αφαιρέσετε τον αέρα από τη σακούλα καθώς είναι συμβατές είτε με vacuum εξωτερικής σφράγισης είτε με εσωτερικής σφράγισης (με θάλαμο). Είναι κατασκευασμένες από φιλμ PA/PE 11 στρώσεων που εγγυάται την υψηλότερη προστασία από το οξυγόνο και την υγρασία. Πιστοποιημένες από διεθνές Ευρωπαϊκό οίκο πιστοποιήσεων για επαφή με τρόφιμα</Description>
 		<EAN>5202054474478</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18448,7 +18448,7 @@ mini markets
 		<MPN>1464</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια σειρά μήκους 5m, με 50 λαμπάκια led, πάχους 5mm. Εκπέμπουν θερμό λευκό φως, το οποίο αποδίδεται στην κλίμακα Kelvin με τιμές από 2400Κ έως 3800Κ. Οι τόνοι του θερμού λευκού είναι πιο κίτρινοι σε σχέση με το φυσικό φως. Λειτουργούν με ρεύμα.</Description>
 		<EAN>5200300503439</EAN>
-		<Quantity>180</Quantity>
+		<Quantity>176</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18504,7 +18504,7 @@ mini markets
 		<MPN>1468</MPN>
 		<Description>Χριστουγεννιάτικα φωτάκια led 100L IP44 με μετασχηματιστή 31V σε ψυχρό λευκό (cool white) χρώμα με 8 προγράμματα. Είναι επεκτεινόμενα και έχουν μήκος 5m με επιπλέον 3m τροφοδοσίας.</Description>
 		<EAN>5200300503194</EAN>
-		<Quantity>54</Quantity>
+		<Quantity>52</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18619,7 +18619,7 @@ mini markets
 		<MPN>1476</MPN>
 		<Description>To χριστουγεννιάτικο δέντρο της εταιρείας Aria Trade με ύψος 80 εκατοστά είναι μια εξαιρετική επιλογή για να διακοσμήσεις το χώρο σου. Η πλαστική βάση του προσδίδει σταθερότητα και ισορροπία ώστε να τοποθετείται εύκολα παντού. Θα χρειαστούν περίπου 200 χριστουγεννιάτικα λαμπάκια για να γεμίσει.    Ύψος: 80εκ.</Description>
 		<EAN>3615004658972</EAN>
-		<Quantity>13</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19950,7 +19950,7 @@ mini markets
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<EAN>5410853039334</EAN>
-		<Quantity>1240</Quantity>
+		<Quantity>1234</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19964,7 +19964,7 @@ mini markets
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<EAN>5410853039273</EAN>
-		<Quantity>2636</Quantity>
+		<Quantity>2630</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22105,7 +22105,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
     Θερμοκρασία εργασίας: 0° C - 40° C
     Διαστάσεις: 54.5x32x3cm</Description>
 		<EAN>5901299954935</EAN>
-		<Quantity>82</Quantity>
+		<Quantity>81</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22399,7 +22399,7 @@ Type-C 1 / Type-C 2 + Type-C 3 / Type-C 4 / USB-A 1 / USB-A 2: 45</Description>
     Μέγεθος ραφιού: 179,9 x 90,8mm
     Διαστάσεις: 91x77.5x97.6mm</Description>
 		<EAN>6920680826049</EAN>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23488,7 +23488,7 @@ XO-EP57
 
 Τα ακουστικά Bluetooth XO Q4 έχουν μεγάλο χρόνο εργασίας - έως και 4,5 ώρες συνεχούς αναπαραγωγής μουσικής ή κλήσεων. Αυτό τα καθιστά εξαιρετική επιλογή για όσους τους αρέσει να ακούν μουσική εν κινήσει ή έξω και τριγύρω. Η υψηλή ποιότητα ήχου και η άνετη χρήση καθιστούν τα ακουστικά Bluetooth ιδανική επιλογή για όσους θέλουν να απολαύσουν τον ποιοτικό ήχο και την άνεση των ασύρματων ακουστικών.</Description>
 		<EAN>6920680842995</EAN>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27059,7 +27059,7 @@ VeganΌχι
 Βάρος420 gr
 Τεμάχια1 τμχ</Description>
 		<EAN>5201024653684</EAN>
-		<Quantity>157</Quantity>
+		<Quantity>143</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27820,7 +27820,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>4 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.• Κυρίως συστατικό: Κρέας• Συσκευασία: 4kg</Description>
 		<EAN>5202546009195</EAN>
-		<Quantity>221</Quantity>
+		<Quantity>217</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27886,7 +27886,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<EAN>5202546009133</EAN>
-		<Quantity>151</Quantity>
+		<Quantity>149</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
