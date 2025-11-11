@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-11 16:05</created_at>
+	<created_at>2025-11-11 16:35</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -1319,7 +1319,7 @@
 	</product>
 	<product>
 		<SKU>16201</SKU>
-		<Name>THREE CENTS GRAPEFRUIT SODA 200ml</Name>
+		<Name>Three Cents Pink Grapefruit με Ανθρακικό 200ml</Name>
 		<URL>https://www.skroutz.gr/s/55484371/Three-Cents-Soda-me-Anthrakiko-1144-200ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024252/24252635/20220217092802_three_cents_soda_pink_grapefruit_200ml.jpeg</Image>
 		<Price>1.43</Price>
@@ -1334,7 +1334,7 @@
 	</product>
 	<product>
 		<SKU>16202</SKU>
-		<Name>THREE CENTS GINGER BEER 200ml</Name>
+		<Name>Three Cents Ginger Beer με Ανθρακικό  200ml</Name>
 		<URL>https://www.skroutz.gr/s/55484369/Three-Cents-Ginger-Beer-1145-200ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024252/24252570/20220217093134_three_cents_anapsyktiko_ginger_beer_200ml.jpeg</Image>
 		<Price>1.43</Price>
@@ -1739,7 +1739,7 @@
 	</product>
 	<product>
 		<SKU>18301</SKU>
-		<Name>YAMAS GREEN TEA ΜΕ ΛΕΜΟΝΙ &amp; ΜΕΛΙ 355ml</Name>
+		<Name>Yamas Ice Tea με Λεμόνι και Μέλι 355ml</Name>
 		<URL>https://www.skroutz.gr/s/54166622/Yamas-Ice-Tea-Lemoni-CHoris-Anthrakiko-Mpoukali-355ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/054166/54166622/20240605141902_yamas_ice_tea_lemoni_choris_anthrakiko_mpoukali_355ml.jpeg</Image>
 		<Price>1.68</Price>
@@ -1754,7 +1754,7 @@
 	</product>
 	<product>
 		<SKU>18302</SKU>
-		<Name>YAMAS BLACK TEA ΜΕ ΡΟΔΑΚΙΝΟ &amp; ΜΕΛΙ 355ml</Name>
+		<Name>Yamas Ice Black Tea με Ροδάκινο και Μέλι 355ml</Name>
 		<URL>https://www.skroutz.gr/s/54166623/Yamas-Ice-Tea-Rodakino-CHoris-Anthrakiko-Mpoukali-355ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/054166/54166623/20240605141904_yamas_ice_tea_rodakino_choris_anthrakiko_mpoukali_355ml.jpeg</Image>
 		<Price>1.68</Price>
@@ -1971,7 +1971,7 @@
 	</product>
 	<product>
 		<SKU>21601</SKU>
-		<Name>MASTIH2O ΜΑΣΤΙΧΟΝΕΡΟ 330ml</Name>
+		<Name>Στουπάκη Ανθρακούχο Νερό MastiH2O με Γεύση Μαστίχα σε Γυάλινο Μπουκάλι 0.33lt</Name>
 		<URL>https://www.skroutz.gr/s/24540181/Stoupaki-Anthrakoucho-Nero-MastiH2O-me-Geysi-Masticha-se-Gyalino-Mpoukali-0-33lt.html?product_id=215518716</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320503.jpg</Image>
 		<Price>1.442036247842736</Price>
@@ -1986,7 +1986,7 @@
 	</product>
 	<product>
 		<SKU>21602</SKU>
-		<Name>MASTIH2O ΜΑΣΤΙΧΑ ΜΕ ΛΕΜΟΝΙ ΚΑΙ ΤΖΙΝΤΖΕΡ 330ml</Name>
+		<Name>Στουπάκη MastiH2O Μαστιχολεμονάδα με Τζίντζερ σε Γυάλινο Μπουκάλι 330ml </Name>
 		<URL>https://www.skroutz.gr/s/38541207/Mastiqua-Masticha-Lemoni-Tzintzer-me-Anthrakiko-Fiali-330ml.html?product_id=215518715</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/038541/38541207/20230714112301_mastiqua_masticha_lemoni_tzintzer_me_anthrakiko_fiali_330ml.jpeg</Image>
 		<Price>1.632893986527804</Price>
@@ -2097,7 +2097,7 @@
 	</product>
 	<product>
 		<SKU>40051</SKU>
-		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΛΕΥΚΟ ΞΗΡΟ 500ml</Name>
+		<Name>Τσιλιλή Μόστρα Λευκό Ξηρό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55528421/Tsililis-Krasi-Leyko-Xiro-500ml-15202548505012.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004774/4774819/20210210134201_tsililis_mostra_leykos_500ml.jpeg</Image>
 		<Price>2.17</Price>
@@ -2112,7 +2112,7 @@
 	</product>
 	<product>
 		<SKU>40052</SKU>
-		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΡΟΖΕ ΞΗΡΟ 500ml</Name>
+		<Name>Τσιλιλή Μόστρα Ροζέ Ξηρό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519115/Tsililis-Krasi-Roze-Xiro-500ml-15202548505111.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004774/4774808/20210210133900_tsililis_mostra_roze_500ml.jpeg</Image>
 		<Price>2.22</Price>
@@ -2127,7 +2127,7 @@
 	</product>
 	<product>
 		<SKU>40053</SKU>
-		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΕΡΥΘΡΟ ΞΗΡΟ 500ml</Name>
+		<Name>Τσιλιλή Μόστρα Ερυθρό Ξηρό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519116/Tsililis-Krasi-Erythro-Xiro-500ml-15202548505210.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-ktima-tsilili-mostra-eruthro-500.gif</Image>
 		<Price>2.22</Price>
@@ -2142,7 +2142,7 @@
 	</product>
 	<product>
 		<SKU>40054</SKU>
-		<Name>ΤΣΙΛΙΛΗ ΜΟΣΤΡΑ ΡΟΖΕ ΗΜΙΓΛΥΚΟ 500ml</Name>
+		<Name>Τσιλιλή Μόστρα Ημίγλυκο 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519117/Tsililis-Krasi-Roze-Imiglyko-500ml-15202548505319.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027989/27989645/20210331115401_tsililis_krasi_roze_imiglyko_mostra_500ml.jpeg</Image>
 		<Price>2.22</Price>
@@ -2172,7 +2172,7 @@
 	</product>
 	<product>
 		<SKU>40071</SKU>
-		<Name>ΑΝΕΜΕΛΟ ΛΕΥΚΟ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>Α.Ο.Σ.Νέας Αγχιάλου Ανέμελο Λευκό Ημίξηρο σε Πλαστική Φιάλη Pet 500ml </Name>
 		<URL>https://www.skroutz.gr/s/54186864/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-Krasi-Anemelo-Leyko-Imixiro-500ml.html</URL>
 		<Image>https://edt-shop.gr/18601-large_default_2x/agchialoy-anemelo-leyko-hmixhro-05lt.jpg</Image>
 		<Price>1.38561701834435</Price>
@@ -2187,7 +2187,7 @@
 	</product>
 	<product>
 		<SKU>40072</SKU>
-		<Name>ΑΝΕΜΕΛΟ ΡΟΖΕ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>Α.Ο.Σ.Νέας Αγχιάλου Ανέμελο Ροζέ Ημίξηρο σε Πλαστική Φιάλη Pet 500ml </Name>
 		<URL>https://www.skroutz.gr/s/54326353/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-Krasi-Roze-Imixiro-500ml.html</URL>
 		<Image>https://mpalantinas.gr/wp-content/uploads/2021/09/01-05-028.jpg</Image>
 		<Price>1.445861236533235</Price>
@@ -2202,7 +2202,7 @@
 	</product>
 	<product>
 		<SKU>40073</SKU>
-		<Name>ΑΝΕΜΕΛΟ ΕΡΥΘΡΟ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>Α.Ο.Σ.Νέας Αγχιάλου Ανέμελο Ερυθρό Ημίξηρο σε Πλαστική Φιάλη Pet 500ml </Name>
 		<URL>https://www.skroutz.gr/s/54186866/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-Anemelo-Erythro-6f-X500ml-Imixiro-Pet-A-o-s-neas-Agchialou.html</URL>
 		<Image>https://mpalantinas.gr/wp-content/uploads/2021/09/01-06-028.jpg</Image>
 		<Price>1.486024048659158</Price>
@@ -2217,9 +2217,9 @@
 	</product>
 	<product>
 		<SKU>40101</SKU>
-		<Name>ΔΗΜΗΤΡΑ ΛΕΥΚΟΣ ΞΗΡΟΣ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>Α.Ο.Σ.Νέας Αγχιάλου Δήμητρα Λευκό Ξηρό σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/54826815/Dimitra-Leyko-Krasi-1-5-lt.html</URL>
-		<Image>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMzi28KyKR-NyUJHEAWWEdroZJwWigjUSCY_E4wg5a7xHqe-_oAiuL25C_xJUjLaUP4ZBmWMF2QuWYowY80O0qDO3vcD6IsMr1nhIfNiNrrsGnk7ThI3c1WnH2tOZyErJajMqUXqx5uU0/s1600/20150331_193640.jpg</Image>
+		<Image>https://cdn.mymarket.gr/images/styles/original/07_04_21/737f8dc6-6026-4487-827b-1353f44bf6f8_E1.jpg</Image>
 		<Price>3.042333018538683</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
@@ -2232,7 +2232,7 @@
 	</product>
 	<product>
 		<SKU>40103</SKU>
-		<Name>ΔΗΜΗΤΡΑ ΡΟΖΕ ΗΜΙΞΗΡΟ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>Α.Ο.Σ.Νέας Αγχιάλου Δήμητρα Ροζέ Ημίξηρο σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/54231639/Dimitra-Roze-Imixiro-Pet-6tmch-X-1-5lit-A-o-s-neas-Agchialou.html</URL>
 		<Image>https://mpalantinas.gr/wp-content/uploads/2021/09/01-64-27.jpg</Image>
 		<Price>3.192911634894545</Price>
@@ -2247,7 +2247,7 @@
 	</product>
 	<product>
 		<SKU>40104</SKU>
-		<Name>ΔΗΜΗΤΡΑ ΕΡΥΘΡΟ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>Α.Ο.Σ.Νέας Αγχιάλου Δήμητρα Ερυθρό Ξηρό σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/54826814/Dimitra-Erythro-Krasi-1-5-lt.html</URL>
 		<Image>https://edt-shop.gr/22186-large_default_2x/agchialoy-dhmhtra-erythros-xhros-pet-6x1-5lt.jpg</Image>
 		<Price>3.443926700530909</Price>
@@ -2262,7 +2262,7 @@
 	</product>
 	<product>
 		<SKU>40105</SKU>
-		<Name>ΔΗΜΗΤΡΑ ΗΜΙΓΛΥΚΟ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>Α.Ο.Σ.Νέας Αγχιάλου Δήμητρα Ερυθρό Ημίγλυκο σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/54826813/Dimitra-Imiglyko-Erythro-Krasi-1-5-lt.html</URL>
 		<Image>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1_UlT2iJLKXqCZVXpnYxAY8eipAAFg4s_7d-_qMpjg&amp;s</Image>
 		<Price>3.574454534661818</Price>
@@ -2277,7 +2277,7 @@
 	</product>
 	<product>
 		<SKU>40221</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ ΑΡΕΤΟ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Αρέτο Λευκό Ξηρό σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/6397133/Tyrnavou-Areto-Leyko-1500ml.html</URL>
 		<Image>https://supermarket.prosperitynetwork.gr/822-large_default/%CF%84%CF%85%CF%81%CE%BD%CE%B1%CE%B2%CE%BF%CF%85-pet-%CE%B1%CF%81%CE%B5%CF%84%CE%BF-15-lt.jpg</Image>
 		<Price>3.29</Price>
@@ -2292,7 +2292,7 @@
 	</product>
 	<product>
 		<SKU>40222</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ ΡΕΤΣΙΝΑ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Ρετσίνα σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/6397131/Tyrnavou-Retsina-1-5lt.html</URL>
 		<Image>https://agnomarket-meat.gr/wp-content/uploads/2023/07/7260-1.jpg</Image>
 		<Price>3.29</Price>
@@ -2307,7 +2307,7 @@
 	</product>
 	<product>
 		<SKU>40223</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ ΚΟΚΚΙΝΕΛΙ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Κοκκινέλι Ξηρό σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/46934385/My-Market-Krasi-Moschato-Erythro-Xiro-1500ml.html</URL>
 		<Image>https://agnomarket-meat.gr/wp-content/uploads/2023/07/7259-1.jpg</Image>
 		<Price>3.29</Price>
@@ -2322,7 +2322,7 @@
 	</product>
 	<product>
 		<SKU>40224</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ ΗΜΙΓΛΥΚΟ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Ερυθρό Ημίγλυκο σε Πλαστική Φιάλη Pet 1500ml </Name>
 		<URL>https://www.skroutz.gr/s/46931182/My-Market-Krasi-Tibouren-Erythro-Imiglyko-1500ml.html</URL>
 		<Image>https://www.ekava.gr/wp-content/uploads/2023/07/04-082-027.jpg</Image>
 		<Price>3.29</Price>
@@ -2337,7 +2337,7 @@
 	</product>
 	<product>
 		<SKU>40411</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΛΕΥΚΟΣ 5 ΛΙΤ (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Λευκό Ξηρό σε Ασκό 5 lit</Name>
 		<URL>https://www.skroutz.gr/s/34614489/Zoinos-Zitsa-Krasi-Voroinos-Leyko-Xiro-5000ml.html</URL>
 		<Image>https://www.kavakonstantakopoulos.gr/images/thumbs/0002862.jpg</Image>
 		<Price>12.817144221696</Price>
@@ -2352,7 +2352,7 @@
 	</product>
 	<product>
 		<SKU>40421</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΡΟΖΕ 5 ΛΙΤ (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Ροζέ Ξηρό σε Ασκό 5 lit</Name>
 		<URL>https://www.skroutz.gr/s/40672862/Zoinos-Zitsa-Krasi-Voroinos-Roze-Xiro-5000ml.html</URL>
 		<Image>https://cava365.gr/photos/0092781.jpg</Image>
 		<Price>13.7784300383232</Price>
@@ -2367,7 +2367,7 @@
 	</product>
 	<product>
 		<SKU>40425</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΡΟΖΕ ΗΜΙΓΛΥΚΟ 5 ΛΙΤ (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Ροζέ Ημίξηρο σε Ασκό 5 lit</Name>
 		<URL>https://www.skroutz.gr/s/48366079/Voroinos-Krasi-Roze-Imiglyko-5000ml.html</URL>
 		<Image>https://cava365.gr/photos/0092782.jpg</Image>
 		<Price>15.5941921363968</Price>
@@ -2382,7 +2382,7 @@
 	</product>
 	<product>
 		<SKU>40431</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΕΡΥΘΡΟ 5 ΛΙΤ (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Ερυθρό Ξηρό σε Ασκό 5 lit</Name>
 		<URL>https://www.skroutz.gr/s/47278068/Voroinos-Krasi-Erythro-Xiro-5000ml.html</URL>
 		<Image>https://cava365.gr/photos/0092777.jpg</Image>
 		<Price>14.419287249408</Price>
@@ -2397,7 +2397,7 @@
 	</product>
 	<product>
 		<SKU>40203</SKU>
-		<Name>Τυρνάβου Κρασί Ερυθρό Ημίγλυκο σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Ερυθρό Ημίγλυκο σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου</Name>
 		<URL>https://www.skroutz.gr/s/54211036/Tyrnavou-Krasi-Erythro-Imiglyko-10000ml-5202037114117.html</URL>
 		<Image>https://www.oinognosia.wine/wp-content/uploads/2018/10/44735405_483472058806749_4527573812694220800_n.jpg</Image>
 		<Price>30.13</Price>
@@ -2412,7 +2412,7 @@
 	</product>
 	<product>
 		<SKU>40204</SKU>
-		<Name>Τυρνάβου Κρασί Λευκό σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Λευκό Ξηρό σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου</Name>
 		<URL>https://www.skroutz.gr/s/54216891/Tyrnavou-Krasi-Leyko-Xiro-10000ml.html</URL>
 		<Image>https://www.kavakonstantakopoulos.gr/images/thumbs/0004045.jpeg</Image>
 		<Price>26.62</Price>
@@ -2427,7 +2427,7 @@
 	</product>
 	<product>
 		<SKU>40205</SKU>
-		<Name>Τυρνάβου Κρασί Ροζέ σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Ροζέ Ξηρό σε Ασκό 10 Λίτρων από Μοσχάτο Μαύρο Τυρνάβου</Name>
 		<URL>https://www.skroutz.gr/s/59180412/Tyrnavou-Krasi-Moschato-Roze-Xiro-se-Asko-10000ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/059180/59180412/xlarge_20250312101432_tyrnavou_krasi_moschato_roze_xiro_se_asko_10000ml.jpeg</Image>
 		<Price>26.62</Price>
@@ -2444,7 +2444,7 @@
 	</product>
 	<product>
 		<SKU>40412</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΛΕΥΚΟΣ 10000ml (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Λευκό Ξηρό σε Ασκό 10 lit</Name>
 		<URL>https://www.skroutz.gr/s/51184936/Askos-Zitsa-10lt-Voroinos-Leyko.html</URL>
 		<Image>https://cosmosfood.gr/wp-content/uploads/products/13869.jpg</Image>
 		<Price>22.85724052869119</Price>
@@ -2459,7 +2459,7 @@
 	</product>
 	<product>
 		<SKU>40422</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΡΟΖΕ 10000ml (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Ροζέ Ξηρό σε Ασκό 10 lit</Name>
 		<URL>https://www.skroutz.gr/s/53931693/Zitsa-Krasi-Askos-Voroinos-Roze-Xiro-10000ml-5201214100196.html</URL>
 		<Image>https://cava365.gr/photos/zitsa10.jpg</Image>
 		<Price>24.5127883239936</Price>
@@ -2474,7 +2474,7 @@
 	</product>
 	<product>
 		<SKU>40426</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΡΟΖΕ ΗΜΙΓΛΥΚΟ 10000ml (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Ροζέ Ημίξηρο σε Ασκό 10 lit</Name>
 		<URL>https://www.skroutz.gr/s/53931694/Zitsa-Krasi-Voroinos-Roze-Imiglyko-10000ml-5201214100271.html</URL>
 		<Image>https://www.wineshop.gr/wp-content/uploads/2019/11/zitsaleykosaskos10lt_2_1.gif</Image>
 		<Price>27.5568600766464</Price>
@@ -2489,7 +2489,7 @@
 	</product>
 	<product>
 		<SKU>40432</SKU>
-		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΕΡΥΘΡΟ 10000ml (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Βοροινός Ερυθρό Ξηρό σε Ασκό 10 lit</Name>
 		<URL>https://www.skroutz.gr/s/17805200/Zitsa-Voroinos-Oinos-Erythro-10000ml.html</URL>
 		<Image>https://cava365.gr/photos/zitsa10.jpg</Image>
 		<Price>25.7945027461632</Price>
@@ -2503,41 +2503,54 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>40521</SKU>
+		<Name>Βασδαβάνου Φιλικός Λευκό Ξηρό σε Ασκό 10 lit  Ροδίτης</Name>
+		<URL>https://www.vasdavanos.gr/filikos/</URL>
+		<Image>https://www.vasdavanos.gr/wp-content/uploads/2022/07/filikos1-scaled-800x600.jpg</Image>
+		<Price>21.05</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
+		<MPN>79301</MPN>
+		<Description>Κρασί ΦΙΛΙΚΟΣ Λευκό Ξηρό σε ασκό από Ροδίτη. Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
+		<EAN>520294091262</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>40522</SKU>
-		<Name>ΑΣΚΟΣ ΦΙΛΙΚΟΣ ΜΟΣΧΑΤΟ ΜΑΥΡΟ ΤΥΡΝΑΒΟΥ  ΛΕΥΚΟ 10000ml (ΟΙΝΟΠΟΙΙΟ ΒΑΣΔΑΒΑΝΟΥ)</Name>
-		<URL>https://www.skroutz.gr/s/54211031/Vasdavanou-Krasi-Leyko-Xiro-10000ml.html</URL>
-		<Image>https://kavakalos.gr/wp-content/uploads/2021/04/%CE%9B%CE%B5%CF%85%CE%BA%CF%8C-%CE%9E%CE%B7%CF%81%CF%8C-%CF%83%CE%B5-%CE%B1%CF%83%CE%BA%CF%8C.jpg</Image>
+		<Name>Βασδαβάνου Φιλικός Λευκό Ξηρό σε Ασκό 10 lit Μοσχάτο Μαύρο Τυρνάβου</Name>
+		<URL>https://www.vasdavanos.gr/filikos/</URL>
+		<Image>https://www.vasdavanos.gr/wp-content/uploads/2022/07/filikos1-scaled-800x600.jpg</Image>
 		<Price>22.25</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
 		<MPN>0793</MPN>
 		<Weight>10 kg</Weight>
-		<Description>Κρασί ΦΙΛΙΚΟΣ Λευκό Ξηρό σε ασκό. Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
+		<Description>Κρασί ΦΙΛΙΚΟΣ Λευκό Ξηρό σε ασκό, από Μοσχάτο Μαύρο Τυρνάβου. Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
 		<EAN>5202924091460</EAN>
 		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>40523</SKU>
-		<Name>ΑΣΚΟΣ ΦΙΛΙΚΟΣ ΜΟΣΧΑΤΟ ΜΑΥΡΟ ΤΥΡΝΑΒΟΥ  ΡΟΖΕ 10000ml (ΟΙΝΟΠΟΙΙΟ ΒΑΣΔΑΒΑΝΟΥ)</Name>
-		<URL>https://www.skroutz.gr/s/54211030/Vasdavanou-Krasi-Roze-Xiro-10000ml.html</URL>
-		<Image>https://kavakalos.gr/wp-content/uploads/2021/04/%CE%A1%CE%BF%CE%B6%CE%AD-%CF%83%CE%B5-%CE%B1%CF%83%CE%BA%CF%8C.jpg</Image>
+		<Name>Βασδαβάνου Φιλικός Ροζέ Ξηρό σε Ασκό 10 lit Μοσχάτο Μαύρο Τυρνάβου</Name>
+		<URL>https://www.vasdavanos.gr/filikos/</URL>
+		<Image>https://www.vasdavanos.gr/wp-content/uploads/2022/07/filikos1-scaled-800x600.jpg</Image>
 		<Price>22.25</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
 		<MPN>0549</MPN>
 		<Weight>10 kg</Weight>
-		<Description>Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
+		<Description>Κρασί ΦΙΛΙΚΟΣ Ροζέ Ξηρό σε ασκό, από Μοσχάτο Μαύρο Τυρνάβου. Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
 		<EAN>5202924092276</EAN>
 		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>57031</SKU>
-		<Name>Ζίτσα Κρασί Ορεινές Διαδρομές Chardonnay Λευκό 187ml</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Ορεινές Διαδρομές Λευκό Ξηρό 187ml Chardonnay</Name>
 		<URL>https://www.skroutz.gr/s/21081822/Zitsa-Krasi-Oreines-Diadromes-Leyko-Xiro-187ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/021081/21081822/20191121165824_zitsa_oreines_diadromes_leyko_187ml.jpeg</Image>
-		<Price>1.30128576</Price>
+		<Price>1.36</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
 		<MPN>1315</MPN>
@@ -2548,10 +2561,10 @@
 	</product>
 	<product>
 		<SKU>57032</SKU>
-		<Name>Ζίτσα Κρασί Ορεινές Διαδρομές Αγιωργίτικο Ερυθρό Ημίγλυκο 187ml</Name>
+		<Name>Ζοίνος Ζίτσα Κρασί Ορεινές Διαδρομές Ερυθρό Ημίγλυκο 187ml Αγιωργίτικο</Name>
 		<URL>https://www.skroutz.gr/s/18537491/Zitsa-Krasi-Oreines-Diadromes-Agiorgitiko-Erythro-Imiglyko-187ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/018537/18537491/20211102175906_zitsa_oreines_diadromes_erythro_187ml.jpeg</Image>
-		<Price>1.46394648</Price>
+		<Price>1.52</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
 		<MPN>1656</MPN>
@@ -11536,7 +11549,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>409</Quantity>
+		<Quantity>408</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11574,7 +11587,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Οι λευκές μικροΐνες εξασφαλίζουν τέλεια καθαριότητα για πάτωμα που αστράφτει. Οι κόκκινες μικροΐνες χαρίζουν βαθύ καθαρισμό και απομακρύνουν ακόμα και την πιο επίμονη βρωμιά. Είναι κατάλληλο για όλους τους τύπους πατώματος. Πλένεται στο πλυντήριο στους 60°C.</Description>
 		<EAN>4023103201262</EAN>
-		<Quantity>1342</Quantity>
+		<Quantity>1341</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16850,7 +16863,7 @@ Brand: Sidirela</Description>
 		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 2000ml Διάφανο 50τμχ ΕΜ6863</Name>
 		<URL>https://www.skroutz.gr/s/59779819/docheio-fag-orthog-2000ml-50t-kapaki.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/059779/59779819/xlarge_20250411105254_docheio_fag_orthog_2000ml_50t_kapaki.jpeg</Image>
-		<Price>10.27676598</Price>
+		<Price>9.13</Price>
 		<Category>Σκεύη Πλαστικά (Χονδρική)</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0667</MPN>
@@ -16870,6 +16883,47 @@ Brand: Sidirela</Description>
 		<MPN>0903</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 750ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία σαλάτας. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
 		<EAN>8682611010825</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>785301000</SKU>
+		<Name>Θαλασσινός Βαρέως Τύπου Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1000ml Διάφανο 100τμχ ΕΜ6225</Name>
+		<URL>https://www.thalassinos.com.gr/%CF%83%CE%BA%CE%B5%CF%8D%CE%B7-%CE%B4%CE%B9%CE%B1%CF%86%CE%B1%CE%BD%CE%AE-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AC-and-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF%CE%BA%CF%85%CE%BC%CE%AC%CF%84%CF%89%CE%BD/and-931-and-954-and-949-and-973-and-951-and-929-and-917-and-932-and-948-and-953-and-945-and-966-and-945-and-957-and-942-and-954-and-961-and-973-and-945-and-960-and-953-and-940-and-964-and-945/pet-1000ml.html</URL>
+		<Image>https://www.thalassinos.com.gr/image/cache/data/EM.6225-1-1100x1100.jpg</Image>
+		<Additional_Image>https://www.thalassinos.com.gr/image/cache/data/products/EM.6646-2-1100x1100.jpg</Additional_Image>
+		<Price>11.76</Price>
+		<Category>Σκεύη Πλαστικά </Category>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>ΕΜ6225</MPN>
+		<Description>Τα διαφανή κουμπωτά σκεύη από το οικολογικό υλικό ΡΕΤ, αποτελούν την ιδανική λύση για σαλάτες, φρούτα, γλυκά, αρτοποιήματα, τυριά, αλλαντικά, 
+ξηρούς καρπούς και πολλές άλλες χρήσεις ( -40ως+70oC), όπου απαιτείται ερμητικό κλείσιμο και εξαιρετική εμφάνιση. 
+
+
+Περιγραφή
+
+119 x 163 mm   Inside Top Dimensions
+103 x 148 mm   Outside Bottom Dimensions
+60 mm        Filling depth
+1000 cm3       Capacity</Description>
+		<EAN>5202054462253</EAN>
+		<Quantity>24</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>785302000</SKU>
+		<Name>Θαλασσινός Βαρέως Τύπου Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 2000ml Διάφανο 50τμχ ΕΜ6230</Name>
+		<URL>https://www.thalassinos.com.gr/%CF%83%CE%BA%CE%B5%CF%8D%CE%B7-%CE%B4%CE%B9%CE%B1%CF%86%CE%B1%CE%BD%CE%AE-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AC-and-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF%CE%BA%CF%85%CE%BC%CE%AC%CF%84%CF%89%CE%BD/pet-2000.html</URL>
+		<Image>https://www.thalassinos.com.gr/image/cache/data/EM.7220-1-1100x1100.jpg</Image>
+		<Additional_Image>https://www.thalassinos.com.gr/image/cache/data/products/EM.7220-2-1100x1100.jpg</Additional_Image>
+		<Price>10.98</Price>
+		<Category>Σκεύη Πλαστικά </Category>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>ΕΜ6230</MPN>
+		<Description>Τα διαφανή κουμπωτά σκεύη από το οικολογικό υλικό ΡΕΤ, αποτελούν την ιδανική λύση για σαλάτες, φρούτα, γλυκά, αρτοποιήματα, τυριά, αλλαντικά, 
+ξηρούς καρπούς και πολλές άλλες χρήσεις ( -40ως+70oC), όπου απαιτείται ερμητικό κλείσιμο και εξαιρετική εμφάνιση. 
+</Description>
+		<EAN>5202054462307</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
