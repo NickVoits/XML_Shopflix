@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-12 16:05</created_at>
+	<created_at>2025-11-12 16:35</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -1800,7 +1800,7 @@
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<EAN>5201946010022</EAN>
-		<Quantity>5985</Quantity>
+		<Quantity>5984</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2575,38 +2575,8 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>57041</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ Ρόδοινος Λευκό 187ml Ημίγλυκο</Name>
-		<URL>https://www.skroutz.gr/s/46541379/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Leyko-Imiglyko-187ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/046541/46541379/20231003123816_tyrnavou_krasi_rodoinos_moschato_tyrnavou_leyko_imiglyko_187ml.jpeg</Image>
-		<Price>1.81</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
-		<MPN>1162</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
-		<EAN>5202037000083</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>57044</SKU>
-		<Name>ΤΥΡΝΑΒΟΥ Ρόδοινος Ροζέ 187ml</Name>
-		<URL>https://www.skroutz.gr/s/55483260/Tyrnavou-Krasi-Rodoinos-Moschato-Amvourgou-Roze-Xiro-187ml-5202037110225.html</URL>
-		<Image>https://www.tirnavoswinery.gr/wp-content/uploads/2021/01/rodoinos_new_small_2021.jpg</Image>
-		<Price>1.81</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
-		<MPN>1163</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
-		<EAN>5202037110225</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>57051</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Λευκό Ξηρό 187ml</Name>
+		<Name>Τσιλιλής Κρασί Bianconero Λευκό Ξηρό 200ml Sauvignon Blanc / Chardonnay / Ασύρτικο</Name>
 		<URL>https://www.skroutz.gr/s/4774796/Tsililis-Krasi-Bianconero-Leyko-Xiro-200ml.html</URL>
 		<Image>https://wineoutlet.gr/wp-content/uploads/2023/03/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF-%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AF%CF%84%CE%BB%CE%BF-80.webp</Image>
 		<Price>2.2584855393408</Price>
@@ -2621,7 +2591,7 @@
 	</product>
 	<product>
 		<SKU>57052</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Ροζέ Ξηρό 187ml</Name>
+		<Name>Τσιλιλής Κρασί Bianconero Ροζέ Ξηρό 187ml Syrah / Merlot</Name>
 		<URL>https://www.skroutz.gr/s/24047791/Tsililis-Krasi-Bianconero-Roze-Xiro-Imiafrodes-187ml.html</URL>
 		<Image>https://cavamikrohorio.com/wp-content/uploads/2021/10/tsililis-bianconero-rosedry-1.jpg</Image>
 		<Price>2.2584855393408</Price>
@@ -2636,7 +2606,7 @@
 	</product>
 	<product>
 		<SKU>57053</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Ερυθρό Ξηρό 187ml</Name>
+		<Name>Τσιλιλής Κρασί Bianconero Ερυθρό Ξηρό 187ml Syrah / Merlot</Name>
 		<URL>https://www.skroutz.gr/s/24420378/Tsililis-Krasi-Bianconero-Erythro-Xiro-187ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024420/24420378/20200818104108_tsililis_bianconero_erythro_187ml.jpeg</Image>
 		<Price>2.2584855393408</Price>
@@ -2650,8 +2620,36 @@
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>57501</SKU>
+		<Name>Βυζαντινό Νάμα Κρασί Θείας Ευχαριστίας Ερυθρό Γλυκό 375ml</Name>
+		<URL>https://www.skroutz.gr/s/49058812/Vyzantino-Ekklisiastiko-Eidos-375ml-1702.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/093092/93092404/xlarge_20240409143406_c69b5ab0.jpeg</Image>
+		<Price>3.62</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>ΝΑΜΑ ΒΥΖΑΝΤΙΝΟ</Manufacturer>
+		<Description>Το ΒΥΖΑΝΤΙΝΟ είναι αμπελοοινικό προϊόν που παράγεται στην Ελλάδα χωρίς προσθήκη αλκοόλης.
+
+Συστατικά:
+
+Ερυθρός οίνος
+Συμπυκνωμένο γλεύκος σταφύλης
+Άρωμα βανίλιας
+Η παραγωγή του ξεκίνησε το 1998 με στόχο να δημιουργηθεί ένα εξειδικευμένο εκκλησιαστικό κρασί, με χαμηλή οξύτητα, ιδανικό για μακροχρόνια χρήση. Επιλέχθηκε η ποικιλία του μοσχάτου Τύρναβου για την παραγωγή ενός πορφυρού και ευώδους οίνου που διαθέτει χαρακτηριστική φρουτώδη γεύση.
+
+Το Νάμα Βυζαντινό έχει χαμηλό αλκοολικό βαθμό για να μην προκαλεί ζαλάδα και υψηλή περιεκτικότητα σε φυσικά σάκχαρα, διατηρώντας τη γλυκύτητά του ακόμα και μετά την προσθήκη ζέοντος ύδατος. Περιέχει αποκλειστικά φυσικά ζάχαρα σταφυλιού.
+
+Οινολογικά Χαρακτηριστικά:
+
+Αλκοολικός Βαθμός: 10% Vol
+Σάκχαρα: 310 gr/lit
+Ολική οξύτητα: 3,65 gr/lit
+Ph: 3,55</Description>
+		<EAN>5200000007602</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>581611</SKU>
-		<Name>Τσιλιλής Κρασί Bianconero Μοσχάτο Αμβούργου Λευκό Ημίξηρο Αφρώδες 200ml</Name>
+		<Name>Τσιλιλής Αφρώδης Οίνος Bianconero Λευκό Ημίξηρο 200ml  Μοσχάτο Αμβούργου</Name>
 		<URL>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</URL>
 		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4355-1200x1200.jpg</Image>
 		<Price>3.16</Price>
@@ -2666,7 +2664,7 @@
 	</product>
 	<product>
 		<SKU>581612</SKU>
-		<Name>Τσιλιλής Κρασί Μοσχάτο Αμβούργου Ροζέ Ημίξηρο Αφρώδες 200ml</Name>
+		<Name>Τσιλιλής Αφρώδης Οίνος Bianconero Ροζέ Ημίξηρο 200ml  Μοσχάτο Αμβούργου</Name>
 		<URL>https://www.skroutz.gr/s/52650429/Tsililis-Krasi-Moschato-Amvourgou-Roze-Imixiro-Afrodes-200ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/049450/49450007/20240125020937_bianconero_afrodis_oinos_roze_200ml.jpeg</Image>
 		<Price>3.16</Price>
@@ -4298,7 +4296,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Santo Wines Κρασί Vinsanto Σαντορίνης Αηδάνι/Ασύρτικο Λευκό Γλυκό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/18536922/Santo-Wines-Krasi-Vinsanto-Leyko-Glyko-Santorinis-500ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018536/18536922/20211018175417_santo_wines_krasi_leyko_glyko_vinsanto_500ml.jpeg</Image>
-		<Price>25.169035408</Price>
+		<Price>30.36</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>SANTO WINES</Manufacturer>
 		<MPN>1651</MPN>
@@ -8024,7 +8022,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1249</MPN>
 		<Description>Το κρεμοσάπουνο Natura Vanilla Caramel με φυτικό εκχύλισμα καλέντουλας, λειτουργεί σαν ένα φυσικό μαλακτικό για τα χέρια, ενώ παράλληλα τα προστατεύει από ερεθισμούς.</Description>
 		<EAN>5201109001638</EAN>
-		<Quantity>154</Quantity>
+		<Quantity>153</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8066,7 +8064,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>0037</MPN>
 		<Description>Το TEO Soap Luscious Vanilla είναι ένα σαπούνι που περιέχει εκλεπτυσμένο άρωμα βανίλιας. Με την απαλή του σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Η αρωματική νότα της βανίλιας δημιουργεί μια ευχάριστη αίσθηση φρεσκάδας και ευεξίας κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<EAN>3800024014369</EAN>
-		<Quantity>4360</Quantity>
+		<Quantity>4359</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8843,7 +8841,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0063</MPN>
 		<Description>Ένα αφρόλουτρο που αναζωογονεί την επιδερμίδα σας και προσφέρει μια αίσθηση πολυτέλειας και άνεσης κατά το μπάνιο. Η απαλή φόρμουλα του πλούσια αρωματισμένη με βανίλια αφήνει ένα ευχάριστο άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<EAN>3800024015892</EAN>
-		<Quantity>306</Quantity>
+		<Quantity>305</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8857,7 +8855,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0320</MPN>
 		<Description>Ένα αφρόλουτρο που προσφέρει μια αίσθηση αναζωογόνησης και άνεσης κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αρωματικό άρωμα από γιασεμί, δημιουργώντας ένα ευχάριστο αισθησιακό άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<EAN>3800024015885</EAN>
-		<Quantity>317</Quantity>
+		<Quantity>312</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9591,7 +9589,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<EAN>5200100281629</EAN>
-		<Quantity>8352</Quantity>
+		<Quantity>8350</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9606,7 +9604,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102833</EAN>
-		<Quantity>2095</Quantity>
+		<Quantity>2093</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10318,7 +10316,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.
     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία. </Description>
 		<EAN>7615400818112</EAN>
-		<Quantity>349</Quantity>
+		<Quantity>348</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11234,7 +11232,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>00100310</MPN>
 		<Description>Σκούπα πλαστική ίσια με βίδωμα χοντρό και διάσταση 32x30,5x6cm.</Description>
 		<EAN>5202707000092</EAN>
-		<Quantity>134</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11458,7 +11456,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1503</MPN>
 		<Description>Κουβάς πλαστικός χωρητικότητας 13 λίτρων, ιδανικός για τις καθημερινές σας εργασίες και όχι μόνο!</Description>
 		<EAN>5207043001574</EAN>
-		<Quantity>191</Quantity>
+		<Quantity>190</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13134,7 +13132,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>E-0759</MPN>
 		<Description>Πλαστικά μανταλάκια για ρούχα σε σετ 24τμχ με 4 διαφορετικά χρώματα.</Description>
 		<EAN>5203642107594</EAN>
-		<Quantity>329</Quantity>
+		<Quantity>327</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14961,7 +14959,7 @@ Brand: Sidirela</Description>
 
 Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
 		<EAN>5203642102063-kafe</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15577,7 +15575,7 @@ Brand: Sidirela</Description>
 		<MPN>1125</MPN>
 		<Description>Η πετσέτα κουζίνας της εταιρείας Flamingo είναι κατάλληλη για να σκουπίζετε τα πιάτα, απορροφά την υγρασία, καθαρίζει επιφάνειες, στεγνώνει βότανα και λαχανικά και σας βοηθάει να κρατάτε με ασφάλεια ζεστά πιάτα και μαγειρικά σκεύη.Φροντίδα: Συνιστάται πλύσιμο με ζεστό νερό για την εξάλειψη των βακτηρίων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Αποφύγετε τη χρήση μαλακτικού, καθώς το μαλακτικό δημιουργεί ένα στρώμα στις ίνες του υφάσματος, καθιστώντας έτσι πιο δύσκολη την απορρόφηση της υγρασίας. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
 		<EAN>5206952011223</EAN>
-		<Quantity>309</Quantity>
+		<Quantity>306</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26091,7 +26089,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Ρύζι νυχάκι μακρύσπερμο.Ελληνικό προϊόν που παράγεται από τον αγροτικό συνεταιρισμό “Χαλάστρα” στη Θεσσαλονίκη.Συσκευασία των 500 γραμμαρίων.</Description>
 		<EAN>5212006201106</EAN>
-		<Quantity>282</Quantity>
+		<Quantity>281</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26211,7 +26209,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Χοντρό κριθαράκι της εταιρίας Famiglia, για να φτιάξετε ένα γρήγορο γεύμα ή ένα έδεσμα γαστρονομίας!</Description>
 		<EAN>5201013005036</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26241,7 +26239,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια τριβελάκι απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<EAN>5201013005081</EAN>
-		<Quantity>64</Quantity>
+		<Quantity>63</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26786,7 +26784,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<EAN>6111260550366</EAN>
-		<Quantity>1735</Quantity>
+		<Quantity>1733</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
