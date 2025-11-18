@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-18 16:05</created_at>
+	<created_at>2025-11-18 16:44</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -1800,7 +1800,7 @@
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<EAN>5201946010022</EAN>
-		<Quantity>4417</Quantity>
+		<Quantity>4402</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2107,7 +2107,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<EAN>15202548505012</EAN>
-		<Quantity>508</Quantity>
+		<Quantity>496</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2152,7 +2152,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ημίγλυκη γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<EAN>15202548505319</EAN>
-		<Quantity>168</Quantity>
+		<Quantity>156</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6353,6 +6353,35 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>55203</SKU>
+		<Name>Jose Cuervo Especial Tequila 38% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/48332451/Jose-Cuervo-Especial-Tequila-38-700ml-TE9900114.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/048332/48332451/xlarge_20250517174224_jose_cuervo_tekila_especial_38_700ml.jpeg</Image>
+		<Price>22.3</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Jose Cuervo</Manufacturer>
+		<MPN>55203-01</MPN>
+		<Description>H Jose Cuervo Especial Silver παράγεται 100% από μπλε αγαύη τεκίλα και ωριμάζει σε βαρέλια από λευκή δρυ.</Description>
+		<EAN>7501035042308</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55204</SKU>
+		<Name>Jose Cuervo Gold Especial Tequila 3 Ετών 38% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5345841/Jose-Cuervo-Gold-Especial-Tequila-3-Eton-38-700ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/005345/5345841/xlarge_20200215210815_jose_cuervo_gold_especial_tekila_700ml.jpeg</Image>
+		<Price>23.56</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Jose Cuervo</Manufacturer>
+		<MPN>55204-01</MPN>
+		<Description>Στη μύτη έχει ξυλώδη αρώματα με νότες ξηρών καρπών, ήπια μπαχαρικά, αποξηραμένα βότανα, ψημένη αγαύη και μέλι. Στη γεύση είναι απαλή και γλυκιά με κρεμώδη αίσθηση. Τα αρώματα γίνονται πιο αισθητά στο στόμα με την επίγευση να αποτελείται από μπαχαρένιο χαρακτήρα.
+
+Τρόπος Σερβιρίσματος
+Κατάλληλη βάση για ένα Μαργαρίτα cocktail. </Description>
+		<EAN>7501035042131</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>552061</SKU>
 		<Name>el JimadorReposado Tequila 2 Ετών 38% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5438842/el-Jimador-Reposado-Tekila-700ml.html</URL>
@@ -6365,6 +6394,113 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Η El Jimador Reposado είναι μια τεκίλα 100% αγαύης που παραμένει 3 μήνες στο βαρέλι πριν την εμφιάλωση. Ένας πλούσιος συνδυασμός μπαχαρικών, φρούτων, ξύλου, βανίλιας και ψημένων φουντουκιών. Απαλή επίγευση βανίλιας με λεπτές και πικάντικες νότες.</Description>
 		<EAN>7501145269107</EAN>
 		<Quantity>18</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>552090</SKU>
+		<Name>Herradura Plata Premium Tequila 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/16252056/Herradura-Plata-Premium-Tequila-40-700ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/016252/16252056/xlarge_20210210145058_herradura_plata_premium_tekila_700ml.jpeg</Image>
+		<Price>36.67795910100001</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Herradura</Manufacturer>
+		<MPN>55209-01</MPN>
+		<Description>Η Tequila Herradura Plata παλαιώνει για 40 ημέρες, κάτι το οποίο είναι εμφανές από τα αρώματα ψημένης αγαύης και αποξηραμένων βοτάνων που διακρίνονται σε αυτήν. Στη μύτη έχει αρώματα κέδρου και ψημένης αγαύης, μαζί με κάποιες νότες μελιού και αποξηραμένων βοτάνων.</Description>
+		<EAN>7501145233375</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>552091</SKU>
+		<Name>Herradura Reposado Tequila 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5369588/Herradura-Reposado-Tequila-40-700ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/005369/5369588/xlarge_20201012090434_herradura_reposado_tekila_700ml.jpeg</Image>
+		<Price>37.44981670367368</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Herradura</Manufacturer>
+		<MPN>55209-02</MPN>
+		<Description>Παλαιώνεται σε δρύινα βαρέλια, και θεωρείται από πολλούς ειδικούς της τεκίλα η καλύτερη σύνθεση δρυός και αγαύης.</Description>
+		<EAN>7501145233382</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55211</SKU>
+		<Name>Patron Silver Tequila 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5691292/Patron-Silver-Tequila-40-700ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/005691/5691292/xlarge_20200406143851_patron_silver_tekila_700ml.jpeg</Image>
+		<Price>51.31769676435781</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Patron</Manufacturer>
+		<MPN>55209-03</MPN>
+		<Description>Η Patron Silver είναι μια από τις ultra-premium τεκίλες. Παράγεται από 100% μπλε αγαύη σε μικρές παρτίδες και κάθε φιάλη είναι αριθμημένη στο χέρι. Μια απαλή τεκίλα με φρέσκα αρώματα αγαύης και εσπεριδοειδών.</Description>
+		<EAN>721733000739</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55212</SKU>
+		<Name>Patron Reposado Tequila 12 Ετών 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5691290/Patron-Reposado-Tequila-12-Eton-40-700ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/005691/5691290/xlarge_20200525130929_patron_reposado_tekila_700ml.jpeg</Image>
+		<Price>57.98960397468001</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Patron</Manufacturer>
+		<MPN>55209-04</MPN>
+		<Description>Η Patron Reposado είναι μια ωραία αλλαγή για τους πότες της τεκίλας που θέλουν λίγη περισσότερη πολυπλοκότητα και την ομαλότητα στην γεύση. Παλαιώνει σε δρύινα βαρέλια για πάνω από δύο μήνες, που συνδυάζει τη φρέσκια, καθαρή γεύση της Patron Silver με την δρύινη γεύση της Patron Anejo.
+
+Η ισορροπία της φρέσκιας αγαύης και ξύλου δρυός με διακριτικές νότες φρούτων, εσπεριδοειδή και νότες από μέλι είναι μια εξαιρετική τεκίλα για να καταναλωθεί σκέτη ή για ένα premium cocktail. Όπως και οι άλλοι ομόλογοί του Patron, κάθε μπουκάλι Patron Reposado είναι μοναδικό, κατασκευασμένο από ανακυκλωμένο γυαλί και ειναι αριθμημένες με το χέρι.
+
+Παράγεται από 100% μπλε αγαύη με τριπλή απόσταξη και εμφιαλώνεται σε χειροποίητη φιάλη από φυσητό γυαλί. Πρόκειται για μια ultra premiym tequila, με μαλακιά και γλυκιά γεύση.
+
+
+
+Γευσιγνωστικά Χαρακτηριστικά
+Χρώμα: Στο χρώμα καθαρό και φωτεινό, με ελαφρώς κεχριμπάρι. 
+Μύτη: Στο αρωμα από ξύλο βελανιδιάς, φρέσκο αγαύη και μια νότα εσπεριδοειδών. 
+Γεύση: Στοη γεύση ομαλή και γλυκιά. Εξαιρετική ισορροπία φρέσκου ξύλου, αγαύης και βελανιδιάς, με νότες φρούτων, εσπεριδοειδών και μέλι. 
+Τελείωμα: Φινίρισμα ελαφρύ και λουλουδένιο, με νότες βανίλιας.</Description>
+		<EAN>721733000722</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55213</SKU>
+		<Name>PatronAnejo Tequila 12 Ετών 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5691289/Patron-Anejo-Tequila-12-Eton-40-700ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/005691/5691289/xlarge_20200316164023_patron_anejo_tekila_700ml.jpeg</Image>
+		<Price>62.36420991804781</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Patron</Manufacturer>
+		<MPN>55209-05</MPN>
+		<Description>Η Patron Anejo είναι ένα χαρμάνι από μοναδικά παλαιωμένες τεκίλες 100% μπλε αγαύης, που μένουν σε λευκά δρύινα βαρέλια για 12 μήνες το λιγότερο. Με πορτοκαλί – χρυσό χρώμα και γεύση αρωμάτων ξύλου βελανιδιάς, βανίλιας, σταφίδας και ίχνη εσπεριδοειδών.</Description>
+		<EAN>721733000715</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55216</SKU>
+		<Name>Cazadores Blanco Tequila 12 Ετών 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5692265/Cazadores-Blanco-Tequila-12-Eton-40-700ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/005692/5692265/xlarge_20210210144025_cazadores_blanco_tekila_700ml.jpeg</Image>
+		<Price>27.4658733630036</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Cazadores</Manufacturer>
+		<MPN>55209-06</MPN>
+		<Description>Η Tequila Cazadores προέρχεται από 100% μπλε Αγαύη. Για την διαδικασία παραγωγής πραγματοποιείται διπλή απόσταξη, διπλή ζύμωση και προσεκτική διαδικασία ωρίμανσης. Η Cazadores Blanco είναι μια τεκίλα χωρίς παλαίωση. Η τεκίλα στην πιο αγνή της μορφή, για να αναδεικνύεται η ένταση και οι πραγματικές γεύσεις της αγαύης καθώς και η φυσική της γλυκύτητα. Στη μύτη διακρίνονται νότες εσπεριδοειδών και τροπικών φρούτων. Σερβίρεται σκέτη σε χαμηλό ποτήρι με lime είτε σε σφηνάκι και φυσικά μπορεί να αποτελέσει βάση για πολλά ευφάνταστα κοκτέιλ.
+
+Το 1922, ένας σκληρά εργαζόμενος αγρότης στο Arandas του Μεξικού περνούσε τις νύχτες του αναπτύσσοντας κρυφά μια συνταγή υψηλής ποιότητας τεκίλας για να μοιραστεί με την οικογένεια και τους φίλους. Ωστόσο το όραμα του ολοένα και μεγάλωνε και έφτασε στη δημιουργία της "Cazadores". Επέλεξε το ελάφι ως το τέλειο έμβλημα για τη νέα συνταγή του εμπνευσμένος από ένα μεγαλοπρεπές ελάφι που παρατήρησε να περιφέρεται στα χωράφια της γαλάζιας αγαύης στην ορεινή πόλη Arandas στο Jalisco του Μεξικού. </Description>
+		<EAN>7501008660027</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55217</SKU>
+		<Name>Cazadores Reposado Tequila 12 Ετών 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/5692266/Cazadores-Reposado-Tequila-12-Eton-40-700ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/005692/5692266/xlarge_20211026170640_cazadores_reposado_tekila_700ml.jpeg</Image>
+		<Price>29.8510081655436</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Cazadores</Manufacturer>
+		<MPN>55209-07</MPN>
+		<Description>Μια τεκίλα απαράμιλλης ομαλότητας και ποιότητας. Αποστάζεται από προσεκτικά επιλεγμένα φυτά μπλε αγαύης και ωριμάζει σε δρύινα βαρέλια για δέκα χρόνια.
+
+Υπέροχα ξηρό και γήινο τελείωμα με νότες από βότανα και μια ραφινάτη γλυκύτητα από τροπικά φρούτα. Η πιο δημοφιλής τεκίλα του Οίκου Cazadores. Πολυβραβευμένη και παλαιωμένη, με πολύ ελκυστικό χαρακτήρα!</Description>
+		<EAN>7501008660034</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10665,7 +10801,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Manufacturer>SAVEX</Manufacturer>
 		<MPN>0423</MPN>
 		<Weight>1.3 kg</Weight>
-		<Description>Μαλακτικό ρούχων που παρέχει επιπλέον απαλότητα και φρεσκάδα στα ρούχα σας, ενώ ταυτόχρονα τα καθαρίζει.</Description>
+		<Description>Απορρυπαντικό ρούχων που παρέχει επιπλέον απαλότητα και φρεσκάδα στα ρούχα σας, ενώ ταυτόχρονα τα καθαρίζει.</Description>
 		<EAN>3800024025372</EAN>
 		<Quantity>173</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
@@ -18352,7 +18488,7 @@ mini markets
     Διαστάσεις: 345 x 140 x 65 mm
     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
 		<EAN>5901299949443</EAN>
-		<Quantity>104</Quantity>
+		<Quantity>103</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18392,7 +18528,7 @@ mini markets
     Πάχος: 80 micron
     Συσκευασία: 100 τεμάχια</Description>
 		<EAN>5207146013818</EAN>
-		<Quantity>52</Quantity>
+		<Quantity>51</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18415,7 +18551,7 @@ mini markets
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
 		<EAN>5207146013931</EAN>
-		<Quantity>85</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21486,7 +21622,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<EAN>5901299949849</EAN>
-		<Quantity>206</Quantity>
+		<Quantity>205</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24073,7 +24209,7 @@ XO-EP57
     Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0
 </Description>
 		<EAN>6920680860487</EAN>
-		<Quantity>82</Quantity>
+		<Quantity>81</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
