@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-18 16:44</created_at>
+	<created_at>2025-11-19 09:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -191,7 +191,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>48</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -405,7 +405,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>237</Quantity>
+		<Quantity>235</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -552,7 +552,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>2169</Quantity>
+		<Quantity>2164</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -567,7 +567,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>1213</Quantity>
+		<Quantity>1211</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -615,7 +615,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000317698</EAN>
-		<Quantity>118</Quantity>
+		<Quantity>117</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1270,7 +1270,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<EAN>90415708</EAN>
-		<Quantity>10778</Quantity>
+		<Quantity>10626</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1479,7 +1479,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908110019</EAN>
-		<Quantity>500</Quantity>
+		<Quantity>440</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1689,7 +1689,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<EAN>5201156030308</EAN>
-		<Quantity>82</Quantity>
+		<Quantity>79</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1880,7 +1880,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080024</EAN>
-		<Quantity>8793</Quantity>
+		<Quantity>8753</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2469,7 +2469,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4877,7 +4877,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Διαστάσεις: 66 x 30 x 100 cm
 </Description>
 		<EAN>0194343025803</EAN>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5074,7 +5074,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1422</MPN>
 		<Description>Το Ουζο Πιτσιλαδή είναι αυθεντικό ούζο Πλωμαρίου το οποίο παρασκευάζεται με πατροπαράδοτο τρόπο.</Description>
 		<EAN>5200110880041</EAN>
-		<Quantity>73</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5351,7 +5351,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202037130063</EAN>
-		<Quantity>516</Quantity>
+		<Quantity>492</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5486,7 +5486,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207612016</EAN>
-		<Quantity>602</Quantity>
+		<Quantity>530</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7722,7 +7722,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<MPN>0979</MPN>
 		<Description>Ανδρικά ξυραφάκια μίας χρήσης Gillette Blue II Slalom Sensitive Skin. Διαθέτουν κινούμενη κεφαλή και μια καταπραϋντική λιπαντική ταινία για να σας παρέχει ένα απαλό και ακριβές ξύρισμα.</Description>
 		<EAN>7702018466726</EAN>
-		<Quantity>1144</Quantity>
+		<Quantity>1143</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10251,7 +10251,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<EAN>5200100281667</EAN>
-		<Quantity>82</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11577,7 +11577,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1114</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
 		<EAN>8718951048522</EAN>
-		<Quantity>262</Quantity>
+		<Quantity>261</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11703,7 +11703,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<EAN>8711600347083</EAN>
-		<Quantity>4133</Quantity>
+		<Quantity>4132</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12061,7 +12061,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>246</Quantity>
+		<Quantity>245</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12075,7 +12075,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<EAN>4023103156487</EAN>
-		<Quantity>373</Quantity>
+		<Quantity>372</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12134,7 +12134,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Η δεξαμενή πάνω στο κοντάρι, εξασφαλίζει γρήγορη και αποτελεσματική καθαριότητα χωρίς την χρήση κουβά. Μπορείτε να προσθέσετε στην δεξαμενή το απορρυπαντικό της επιλογής σας χρησιμοποιώντας τον ειδικό δοσομετρητή
     Πανί 100% μικροϊνών που προσφέρουν απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)</Description>
 		<EAN>4023103222755</EAN>
-		<Quantity>196</Quantity>
+		<Quantity>195</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12315,7 +12315,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Η φίμπρα περιέχει ιόντα αργύρου ένα αντιβακτηριδιακό συστατικό που προλαμβάνει την ανάπτυξη των βακτηρίων.</Description>
 		<EAN>5201815211352</EAN>
-		<Quantity>1809</Quantity>
+		<Quantity>1808</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12383,7 +12383,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 Για τον καθαρισμό επίμονων λεκέδων, καμένων λαδιών ή υπολειμμάτων τροφίμων, αγοράστε το ειδικό σφουγγάρι PowerInox από ανοξείδωτο ατσάλι και καθαρίστε γρήγορα και εύκολα τη βρωμιά.
 </Description>
 		<EAN>4023103172036</EAN>
-		<Quantity>3003</Quantity>
+		<Quantity>3002</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12540,7 +12540,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0309</MPN>
 		<Description>Το Oskar εντομοκτόνο spray καταπολεμά τα ιπτάμενα έντομα όπως μύγες, κουνούπια και σκνίπες. Περιέχει δραστικά συστατικά που βοηθούν στην άμεση καταπολέμηση του προβλήματος. Χρησιμοποιείστε τα εντομοκτόνα με ασφαλή τρόπο. Να διαβάζετε πάντα την ετικέτα και τις πληροφορίες για το προϊόν πριν από τη χρήση.</Description>
 		<EAN>5201062008156</EAN>
-		<Quantity>831</Quantity>
+		<Quantity>830</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12554,7 +12554,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0100</MPN>
 		<Description>Εντομοκτόνο για βαδιστικά έντομα. Καταπολεμά κατσαρίδες, μυρμήγκια, τσιμπούρια, κοριούς, ψύλλους, σκόρους και αράχνες.</Description>
 		<EAN>5201062008149</EAN>
-		<Quantity>358</Quantity>
+		<Quantity>357</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13422,7 +13422,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
 		<EAN>5200128643089</EAN>
-		<Quantity>463</Quantity>
+		<Quantity>461</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15265,7 +15265,7 @@ Brand: Sidirela</Description>
     Μέγιστο βάρος ραφιού: 20 Kg
     Βάρος: 3.3 Kg</Description>
 		<EAN>0194343027883</EAN>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18405,7 +18405,7 @@ mini markets
 		<MPN>INA8002111</MPN>
 		<Description>Είναι σχεδιασμένο ώστε να προσφέρει εξαιρετικά αποτελέσματα σε όλα τα είδη εγγράφων, με υψηλά επίπεδα λευκού, για μέγιστη ποιότητα αναπαραγωγής κειμένου.</Description>
 		<EAN>5602007974411</EAN>
-		<Quantity>1089</Quantity>
+		<Quantity>1088</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21622,7 +21622,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<EAN>5901299949849</EAN>
-		<Quantity>205</Quantity>
+		<Quantity>203</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24793,7 +24793,7 @@ XO-EP57
 Συμβατότητα smartphones: 4.6" - 6.7"
 Μέγεθος ποτηροθήκης: 63-69mm</Description>
 		<EAN>6941237136268</EAN>
-		<Quantity>52</Quantity>
+		<Quantity>51</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25293,7 +25293,7 @@ Silicon Power - USB Stick Silicon Power</Description>
     Θύρα ethernet
     Διαστάσεις 112x84.7x39mm</Description>
 		<EAN>6957939000516</EAN>
-		<Quantity>214</Quantity>
+		<Quantity>213</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25406,7 +25406,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<MPN>1743</MPN>
 		<Description>Θήκη προστασίας για σκληρό δίσκο. Στην θήκη της Ugreen, μπορούμε να χωρέσουμε ένα εξωτερικό σκληρό δίσκο, Power bank, καθώς και διάφορα αξεσουάρ, όπως φορτιστή, καλώδιο USB, μονάδα flash USB, κάρτες μνήμης, προσαρμογείς κ.λπ. Είναι αδιάβροχο και συμπαγές μέγεθος, γεγονός που καθιστά δυνατή τη μεταφορά σε οποιοδήποτε ταξίδι.</Description>
 		<EAN>6957303847075</EAN>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
