@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-26 16:05</created_at>
+	<created_at>2025-11-26 16:35</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -15070,7 +15070,7 @@ Brand: Sidirela</Description>
     Νέα βαλβίδα συμπίεσης 35% πιο γρήγορη
     Διαστάσεις: 100x60cm</Description>
 		<EAN>5203642100540</EAN>
-		<Quantity>440</Quantity>
+		<Quantity>439</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15084,7 +15084,7 @@ Brand: Sidirela</Description>
 		<MPN> E-0055</MPN>
 		<Description>Θήκη αποθήκευσης κενού αέρος, ιδανική για ρούχα, κλινοσκεπάματα και διάφορα ογκώδη είδη. Διαθέτει ειδικό στόμιο αποσυμπίεσης του αέρα, είναι αεροστεγής, αδιάβροχη και επαναχρησιμοποιούμενη. Διαστάσεις: 120x70cm</Description>
 		<EAN>5203642100557</EAN>
-		<Quantity>325</Quantity>
+		<Quantity>321</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18912,11 +18912,30 @@ mini markets
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>793100601</SKU>
+		<Name>Esperanza Spray Συμπιεσμένου Αέρα για Ηλεκτρονικές Συσκευές 600ml ES118</Name>
+		<URL>https://www.skroutz.gr/s/23847128/Esperanza-Spray-Sympiesmenou-Aera-Sprei-Pepiesmenou-Aera-gia-Ilektronikes-Syskeyes-600ml-ES118.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/023847/23847128/xlarge_20241126170054_esperanza_sprei_pepiesmenou_aera_gia_ilektronikes_syskeyes_600ml_es118.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/075933/75933225/xlarge_20230512100734_c5f19c27.jpeg https://b.scdn.gr/images/sku_images/105991/105991332/xlarge_20250113163125_0d3d3419.jpeg</Additional_Image>
+		<Price>2.83</Price>
+		<Category>Αναλώσιμα Καθαρισμού Γραφείου</Category>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>ES118</MPN>
+		<Description>Απομάκρυνση σκόνης και βρωμιάς ακόμη και από δυσπρόσιτα σημεία
+Κατάλληλο για ηλεκτρονικές συσκευές
+Με ακροφύσιο ψεκασμού για ακριβέστερη χρήση
+Ασφαλές και φιλικό προς το περιβάλλον
+Χρήση: Αποσυνδέστε από το ρεύμα τις ηλεκτρικές συσκευές που πρόκειται να καθαρίσετε. Επανασυνδέστε 15 λεπτά μετά τον καθαρισμό τους</Description>
+		<EAN>5901299902868</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>79320101</SKU>
 		<Name>Esperanza Πλαστικοποιητής Infinity Επιτραπέζιος για A4 EFL001</Name>
 		<URL>https://www.skroutz.gr/s/15345384/Esperanza-Plastikopoiitis-Infinity-Epitrapezios-gia-A4-EFL001.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/015345/15345384/xlarge_20200214131727_esperanza_laminator_infinity.jpeg</Image>
-		<Price>19.08859637862648</Price>
+		<Price>16.92</Price>
 		<Category>Πλαστικοποιητές</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EFL001</MPN>
@@ -22104,7 +22123,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Name>Esperanza Seine Βραστήρας με LED Φωτισμό 1.8lt 2200W Black/Inox EKK026</Name>
 		<URL>https://www.skroutz.gr/s/18251467/Esperanza-Vrastiras-1-7lt-2200W-Asimi-EKK026.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018251/18251467/xlarge_20190419093702_esperanza_ekk026.jpeg</Image>
-		<Price>18.09</Price>
+		<Price>16.69</Price>
 		<Category>Βραστήρες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKK026</MPN>
@@ -22509,6 +22528,34 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799200202</SKU>
+		<Name>Esperanza Sahara Αερόθερμο Δωματίου Δαπέδου 2000W σε Λευκό / Γκρι χρώμα EHH003</Name>
+		<URL>https://www.skroutz.gr/s/16134589/Esperanza-Sahara-Aerothermo-Domatiou-Dapedou-2000W-EHH003.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/016134/16134589/xlarge_20191209171812_esperanza_sahara.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/082567/82567975/xlarge_20230918114030_50fb5c85.jpeg https://c.scdn.gr/images/sku_images/082567/82567976/xlarge_20230918114030_ae6c9b4d.jpeg https://d.scdn.gr/images/sku_images/073860/73860903/xlarge_20230404171120_56880858.jpeg</Additional_Image>
+		<Price>12.47</Price>
+		<Category>Αερόθερμα</Category>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EHH003</MPN>
+		<Description>Το αερόθερμο, από την εταιρία Esperanza, ζεσταίνει γρήγορα και αποτελεσματικά το μπάνιο, το παιδικό δωμάτιο τις κρύες μέρες και μπορεί επίσης να χρησιμοποιηθεί και σαν συσκευή ψύξης, δημιουργώντας κρύο αέρα. 
+
+Έχει τρία επίπεδα ρύθμισης της ροής του αέρα (ζεστό, δροσερό και αυτόματο), ρύθμιση της ισχύος θέρμανσης (1000 - 2000 W), αυτόματο θερμοστάτη, προστασία από την υπερθέρμανση και διακόπτη ON / OFF.
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί ζεσταίνει ικανοποιητικά το δωμάτιο και ζεσταίνει γρήγορα το δωμάτιο.
+
+Χαρακτηριστικά:
+3 επίπεδα ρύθμισης της ροής του αέρα
+Αυτόματος θερμοστάτης
+Διακόπτης ON / OFF
+Λειτουργία εμφύσησης ψυχρού αέρα
+Αυτόματος έλεγχος θερμοκρασίας
+Ενδεικτική λυχνία λειτουργίας
+Μήκος καλωδίου: 1.2 m</Description>
+		<EAN>5901299914908</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7992025</SKU>
 		<Name>Eurolamp Σόμπα Μανιτάρι Υγραερίου με Απόδοση 13kW  έως 20m² Μαύρη</Name>
 		<URL>https://www.skroutz.gr/s/13028307/Eurolamp-Sompa-Manitari-Ygraeriou-me-Apodosi-13-5kW-147-29600.html</URL>
@@ -22610,7 +22657,7 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
 		<Name>Esperanza Bora Ιονιστής / Καθαριστής Αέρα 43W για Χώρους 50m² EHP003</Name>
 		<URL>https://www.skroutz.gr/s/22812302/Esperanza-Bora-EHP003-Ionistis-Katharistis-Aera-43W-gia-CHorous-50m2.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022812/22812302/xlarge_20220407160419_esperanza_bora_ehp003_ionistis_katharistis_aera_43w.jpeg</Image>
-		<Price>65.06</Price>
+		<Price>61.14</Price>
 		<Category>Υγραντήρες - Ιονιστές</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EHP003</MPN>
@@ -22645,7 +22692,7 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
 		<Name>Esperanza Ηλεκτρική Εντομοπαγίδα Led 30W EHQ007</Name>
 		<URL>https://www.skroutz.gr/s/35733108/Esperanza-Ilektriki-Entomopagida-Led-30W-EHQ007.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/035733/35733108/xlarge_20240702161543_esperanza_ilektriki_entomopagida_led_30w_ehq007.jpeg</Image>
-		<Price>20.86331054422222</Price>
+		<Price>19.79</Price>
 		<Category>Ηλεκτρικές Εντομοπαγίδες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EHQ007</MPN>
@@ -22905,7 +22952,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Name>Esperanza Breeze Νεφελοποιητής για Παιδιά Αγελαδίτσα ECN001</Name>
 		<URL>https://www.skroutz.gr/s/13886187/Esperanza-Breeze-Nefelopoiitis-gia-Paidia-Ageladitsa-ECN001.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/013886/13886187/xlarge_20220331142002_esperanza_breeze_nefelopoiitis_gia_paidia_ecn001.jpeg</Image>
-		<Price>19.54</Price>
+		<Price>19.68</Price>
 		<Category>Νεφελοποιητές</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>ECN001</MPN>
@@ -23098,7 +23145,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Name>Baseus Ψηφιακός Μετρητής Αλκοόλ SafeJourney Pro Γκρι CRCX060014</Name>
 		<URL>https://www.skroutz.gr/s/40860777/Baseus-Safejourney-Pro-PSifiakos-Metritis-Alkool-Grey.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/040860/40860777/xlarge_20230310115746_baseus_safejourney_pro_psifiakos_metritis_alkool_grey.jpeg</Image>
-		<Price>69.8874044</Price>
+		<Price>71.1</Price>
 		<Category> Μετρητές Αλκοόλ</Category>
 		<Manufacturer>Baseus</Manufacturer>
 		<MPN>CRCX060014</MPN>
@@ -23690,6 +23737,59 @@ Type-C 1 / Type-C 2 + Type-C 3 / Type-C 4 / USB-A 1 / USB-A 2: 45</Description>
 Αριθμός φορτισμένων συσκευών: 5.
 Ο φορτιστής έχει ενσωματωμένο έξυπνο σύστημα διαχείρισης για ασφαλή φόρτιση και προστασία από υπερθέρμανση ή βραχυκυκλώματα.</Description>
 		<EAN>6973687240547</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799510792</SKU>
+		<Name>Joyroom JR-CL06 Φορτιστής Αυτοκινήτου 154W 3A Γρήγορης Φόρτισης με Θύρες: 5xUSB 1xType-C 3xΑναπτήρα Μαύρο Χρώμα</Name>
+		<URL>https://www.skroutz.gr/s/32539076/Joyroom-JR-CL06-Fortistis-Aytokinitou-154W-3A-Grigoris-Fortisis-me-THyres-5xUSB-1xType-C-3xAnaptira-Mayro-CHroma-277540.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/032539/32539076/xlarge_20211123112309_joyroom_fortistis_aytokinitou_mayros_jr_cl06_3_0a_me_thyres_5xusb_1xtype_c_3xanaptira_277540.jpeg</Image>
+		<Additional_Image>https://static3.eu.hurtel.com/hpeciai/323f9f4e339a0ea294fe396a39da27e0/eng_pm_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_11.jpg https://static3.eu.hurtel.com/hpeciai/864609a8e4a6db26031d803eebc306f2/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_12.jpg https://static4.eu.hurtel.com/hpeciai/215936fbfe9fd01ee11085c26565df1e/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_13.jpg https://static2.eu.hurtel.com/hpeciai/f67ffabc8cdf305a65b6d0652ebd36de/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_14.jpg https://static3.eu.hurtel.com/hpeciai/cdc57477d538b3241b41a50465b148d3/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_15.jpg https://static5.eu.hurtel.com/hpeciai/7f32716555a8905f2e9719b0afba54fb/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_16.jpg https://static4.eu.hurtel.com/hpeciai/992b41b4b3af8bd95453bdb27bd7a45d/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_8.jpg https://static3.eu.hurtel.com/hpeciai/f889f4e6d8b268214c816abd04a81a5b/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_9.jpg </Additional_Image>
+		<Price>18.1</Price>
+		<Category>Φορτιστές Αναπτήρα Αυτοκινήτου</Category>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>79951079-02</MPN>
+		<Description>Φορτιστής αυτοκινήτου Joyroom με διαχωριστή θύρας αναπτήρα (3 x 12V, PD USB Type C, QC3.0 USB-A, 4 x USB-A) 154W μαύρο (JR-CL06)
+
+Ένας φορτιστής για πολλές συσκευές στο όχημά σας. Χωρίς υπερβολικό αριθμό καλωδίων, χωρίς ακαταστασία ή ανησυχία για το αν θα λειτουργήσει με ένα συγκεκριμένο smartphone ή άλλο εξοπλισμό. Ακούγεται υπέροχο; Ευτυχώς, είναι δυνατό και διαθέσιμο στα χέρια σας. Ο φορτιστής Joyroom JR-CL06 θα σας επιτρέψει να τροφοδοτείτε γρήγορα πολλές διαφορετικές συσκευές ταυτόχρονα, επεκτείνοντας τη λειτουργικότητα κάθε οχήματος . Μια επιλογή ιδανική για ταξιδιώτες με οικογένεια ή μια μεγαλύτερη ομάδα φίλων και την ανάγκη τροφοδοσίας πολλών συσκευών με ισχύ έως και 154W.
+
+Προσδιορισμός:
+
+Μάρκα: Joyroom
+Μοντέλο: JR-CL06
+Υλικό: αλουμίνιο + PC
+USB1: 5V=3A, 9V=2A, 12V=1.5A
+USB2 Τύπου-C: 5V/3A, 9V/2,22A, 12V/1,67 A
+USB3 + USB4 + USB5: 5V/3.6A
+USB6 QC: 5V/3A, 9V/2A, 12V/1,5A
+Μέγιστο φορτίο: έως 154 W
+Οθόνη LED
+Συμβατό με συσκευές: iOS, Android
+Μήκος καλωδίου: 100 εκ.
+Καθαρό βάρος: 195 γρ.
+Διαστάσεις φορτιστή αυτοκινήτου: 74,5x38x23,3 mm
+Διαστάσεις φορτιστή αναπτήρα: 70x125x31,5 mm
+Συμβατότητα: επιβατικά αυτοκίνητα (12V), φορτηγά (24V)
+Μαύρο χρώμα
+Τα σημαντικότερα πλεονεκτήματα του φορτιστή αυτοκινήτου Joyroom JR-CL06:
+
+Το όχημά σας αποκτά νέες δυνατότητες. Εκτός από τη σύνδεση συσκευών σε θύρες USB, μπορείτε να χρησιμοποιήσετε 3 επιπλέον υποδοχές αναπτήρα. Αυτός ο φορτιστής μπορεί να λειτουργήσει με φορτίο έως και 154W!
+Μια ασφαλής επιλογή για τους οδηγούς. Έως και 6 τύποι προστασίας σας εγγυώνται ότι δεν θα προκληθούν ζημιές ή ατυχήματα που σχετίζονται με υπερβολική τάση ή υπερθέρμανση.
+Μπορείτε να παρακολουθείτε την κατάσταση των συσκευών σας σε συνεχή βάση. Η ευκρινής οθόνη LED εμφανίζει την κατάσταση της μπαταρίας σε πραγματικό χρόνο. Έχετε τον πλήρη έλεγχο.
+Για επιβατικά αυτοκίνητα και άλλα. Χρησιμοποιήστε το αξεσουάρ σε οποιοδήποτε όχημα, ανεξάρτητα από το αν οδηγείτε SUV, μικρό επιβατικό αυτοκίνητο ή ισχυρό φορτηγό.
+Μακρύ καλώδιο. Το
+καλώδιο μήκους έως και 100 cm σάς επιτρέπει να χρησιμοποιείτε ελεύθερα τον φορτιστή οπουδήποτε, σε οποιαδήποτε θέση. Η πλεξούδα από νάιλον διασφαλίζει ότι το καλώδιο στο εσωτερικό δεν θα υποστεί ζημιά .
+
+Ευρεία συμβατότητα
+Ένας φορτιστής αυτοκινήτου 3 σε 1, έως και 5 επιπλέον θύρες USB και 1 είσοδος Type C μπορούν να τροφοδοτήσουν τις συσκευές σας ταυτόχρονα . Μπορούν να λειτουργούν ταυτόχρονα με μια κάμερα που καταγράφει τη διαδρομή, θερμαντήρες καθισμάτων, μια ηλεκτρική σκούπα και ένα κινητό ψυγείο. Όλα αυτά με ταχύτητα αστραπής.
+
+Εύκολο στη χρήση
+Δεν χρειάζεται να ανησυχείτε για περίπλοκη εγκατάσταση ή να περιηγείστε σε πολυσέλιδα εγχειρίδια χρήσης. Ο φορτιστής αυτοκινήτου Joyroom JR-CL06 λειτουργεί σε λειτουργία plug &amp; play - αμέσως μετά τη σύνδεσή του στην πρίζα.
+
+Γρήγορη και ασφαλής φόρτιση.
+Θα μπορεί αυτός ο φορτιστής να τροφοδοτεί γρήγορα το smartphone μου; Δεν χρειάζεται πλέον να αναρωτιέστε, επειδή το μοντέλο Joyroom υποστηρίζει τα πρότυπα γρήγορης φόρτισης Power Delivery, Quick Charge, PPS, FCP, AFC , ώστε να είστε σίγουροι όχι μόνο για την εξοικονόμηση χρόνου, αλλά και για την προστασία του εξοπλισμού σας. Δεν θα υποστεί ζημιά από υπέρταση ή υπερθέρμανση.</Description>
+		<EAN>6941237165121</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -27078,7 +27178,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Ξίδι της εταιρείας ΤΖΩΝ ΤΟΠ, το οποίο παράγεται από κόκκινο κρασί και είναι ιδανικό για σαλάτες, όσπρια ή χοιρινό κρέας. Το οξικό οξύ που περιέχει το ξίδι επιβραδύνει την πέψη των υδατανθράκων και αυξάνει την απορρόφηση της γλυκόζης. Η διαδικασία έχει ως αποτέλεσμα μικρότερες ποσότητες γλυκόζης στο αίμα και διατήρηση υγιών επιπέδων σακχάρου. Είναι πλούσιο σε αντιοξειδωτικά που προστατεύουν το σώμα από βλάβες του δέρματος και μολύνσεις. Επίσης ωφελεί την υγεία της καρδιάς και μειώνει τα επίπεδα χοληστερόλης, προλαμβάνει τη φλεγμονή και τη δημιουργία θρόμβων και ρυθμίζει την αρτηριακή πίεση.</Description>
 		<EAN>5202737200332</EAN>
-		<Quantity>548</Quantity>
+		<Quantity>547</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
