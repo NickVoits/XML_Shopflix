@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-17 13:05</created_at>
+	<created_at>2025-12-17 14:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -146,7 +146,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<EAN>5201309103910</EAN>
-		<Quantity>29</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -251,7 +251,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -266,7 +266,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<EAN>5201275611372</EAN>
-		<Quantity>253</Quantity>
+		<Quantity>251</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -281,7 +281,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275610276</EAN>
-		<Quantity>764</Quantity>
+		<Quantity>762</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -552,7 +552,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>1695</Quantity>
+		<Quantity>1694</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -615,7 +615,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000317698</EAN>
-		<Quantity>82</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -964,7 +964,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>3030</Quantity>
+		<Quantity>3018</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -994,7 +994,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
 		<EAN>5201946911060</EAN>
-		<Quantity>288</Quantity>
+		<Quantity>275</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1359,7 +1359,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<EAN>5202908000020</EAN>
-		<Quantity>3446</Quantity>
+		<Quantity>3441</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1389,7 +1389,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000068</EAN>
-		<Quantity>14358</Quantity>
+		<Quantity>14353</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1800,7 +1800,7 @@
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<EAN>5201946010022</EAN>
-		<Quantity>11208</Quantity>
+		<Quantity>11047</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1880,7 +1880,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080024</EAN>
-		<Quantity>7302</Quantity>
+		<Quantity>7238</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1908,7 +1908,7 @@
 		<MPN>10180</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
 		<EAN>5201627000939</EAN>
-		<Quantity>835</Quantity>
+		<Quantity>819</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1944,7 +1944,7 @@
 Στερεό Υπόλειμμα (180°): 1,25 g/L
 </Description>
 		<EAN>5206167001002</EAN>
-		<Quantity>168</Quantity>
+		<Quantity>408</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2059,7 +2059,7 @@
 ❇️Το Ξινό Νερό, είναι ένα φυσικό ανθρακούχο νερό. Αυτό σημαίνει ότι η περιεκτικότητα σε διοξείδιο του άνθρακα μέσα στην φιάλη, είναι η ίδια με εκείνη που προέρχεται από την πηγή, χωρίς επιπλέον προσθήκη.
 ✅Η χαμηλή περιεκτικότητα του Ξινού Νερού σε νάτριο το καθιστά ιδανικό για εκείνους που ακολουθούν δίαιτα φτωχή σε νάτριο.</Description>
 		<EAN>5201952000031</EAN>
-		<Quantity>747</Quantity>
+		<Quantity>723</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2122,7 +2122,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ξηρή γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<EAN>15202548505111</EAN>
-		<Quantity>244</Quantity>
+		<Quantity>238</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2347,7 +2347,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>593</Quantity>
+		<Quantity>592</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2586,7 +2586,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>To λευκό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Sauvignon Blanc, Chardonnay και Ασύρτικο. Χαρακτηρίζεται από φρουτώδη αρώματα ροδάκινου, λεμονιού και μάνγκο και ανθικά αρώματα λεμονανθών. Στο στόμα έχει δροσερή οξύτητα, ισορροπημένο αλκοόλ, στρογγυλό στόμα, γεύση τροπικών φρούτων και ελαφριά επίγευση πράσινου τσαγιού.</Description>
 		<EAN>5202548501024</EAN>
-		<Quantity>84</Quantity>
+		<Quantity>180</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2601,7 +2601,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το ροζέ (ή ροζ!) αφρώδες κρασί της γκάμας, από σταφύλια της ποικιλίας Μοσχάτο Αμβούργου, χαρακτηρίζεται από φρουτώδη αρώματα φράουλας, βατόμουρου και κερασιού που συνδυάζονται με νότες βιολέτας και βανίλιας.Ευχάριστο και παιχνιδιάρικο καταναλώνεται μόνο του ως απεριτίφ, με φρούτα και σοκολατένια γλυκά.</Description>
 		<EAN>5202548501123</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2616,7 +2616,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>To ερυθρό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Syrah και Merlot και παλαιώνεται σε γαλλικά και αμερικάνικα δρύινα βαρέλια για 10 μήνες. Χαρακτηρίζεται από αρώματα κόκκινων φρούτων όπως βατόμουρο, βύσσινο και κεράσι, πικάντικα γλυκά αρώματα βανίλιας, μαύρου πιπεριού και μοσχοκάρυδου και γλυκά αρώματα σοκολάτας. Στο στόμα έχει ισορροπημένη οξύτητα, πλούσιο αλκοόλ, γεμάτο σώμα και μακρά επίγευση.</Description>
 		<EAN>5202548501222</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2773,7 +2773,7 @@ Ph: 3,55</Description>
 		<MPN>1615</MPN>
 		<Description>Το Syrah του Κτήματος Αβαντίς, είναι το κρασί που καθιέρωσε τον δημιουργό του Απόστολο Μούντριχα στον οινόφιλο κόσμο. Πλούσιο και στιβαρό υποδηλώνει έντονα την παρουσία του.</Description>
 		<EAN>5200101770030</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2787,7 +2787,7 @@ Ph: 3,55</Description>
 		<MPN>1616</MPN>
 		<Description>Λευκός οίνος ποικιλίας Viognier με απαλό λεμονί χρώμα και χρυσές ανταύγειες. Στην μύτη έχει αρώματα ώριμου βερίκοκου και λευκόσαρκου ροδάκινου, πλαισιωμένο από κομψά αρώματα δρυός. Το στόμα είναι ξηρό και πλούσιο από φρέσκα εσπεριδοειδή φρούτα, όπως λεμόνι και μοσχολέμονο.</Description>
 		<EAN>5200101770559</EAN>
-		<Quantity>28</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2807,7 +2807,7 @@ Ph: 3,55</Description>
 
 Στόμα πλούσιο, πικάντικο, με πολύ κομψές βελούδινες ταννίνες, οξύτητα καταλυτική και φινέτσα σπάνια για ελληνικό κρασί. Βελούδινη υφή και μακριά επίγευση.</Description>
 		<EAN>5200101770122</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2999,7 +2999,7 @@ Ph: 3,55</Description>
 		<MPN>1316</MPN>
 		<Description>To λευκό του Κτήματος Βιβλία Χώρα αποτελεί ένα αρωματικό και φρέσκο κρασί, φτιαγμένο για όλες τις στιγμές. Παράγεται από το πάντρεµα της αρωματικής ποικιλίας Sauvignon Blanc και του πληθωρικού Ασύρτικου. Το χρώμα του, είναι απαλό πρασινοκίτρινο, µε έντονη διαύγεια. Έντονα αρώματα τροπικών φρούτων, γκρέιπφρουτ, εναλλάσσονται µε νότες εσπεριδοειδών &amp;  λεμονιού. Σερβίρεται στους 10οC και προτείνεται να καταναλωθεί σε 2 χρόνια. Πίνεται σκέτο ως απεριτίφ, ενώ μπορεί να συνοδεύσει εξαιρετικά πλατό τυριών, ριζοτο και θαλασσινά,.</Description>
 		<EAN>5200101710012</EAN>
-		<Quantity>72</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3622,7 +3622,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888160100</EAN>
-		<Quantity>380</Quantity>
+		<Quantity>1100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3636,7 +3636,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<EAN>5203888070027</EAN>
-		<Quantity>115</Quantity>
+		<Quantity>259</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3664,7 +3664,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1331</MPN>
 		<Description>Ξηρό κρασί από ποικιλίες Sauvignon Blanc και Ροδίτη, με λευκό χρώμα με πράσινες ανταύγειες. Η μύτη είναι έντονη με έντονο χαρακτήρα πιπεριάς, κομμένου γρασιδιού, ακτινίδιου, πεπονιού, φρέσκων λουλουδιών και εσπεριδοειδών. Το στόμα πλούσιο με διάρκεια και αρωματική επιστροφή στην επίγευση με τραγανή οξύτητα.</Description>
 		<EAN>5203888060011</EAN>
-		<Quantity>27</Quantity>
+		<Quantity>267</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3678,7 +3678,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1332</MPN>
 		<Description>Ένα λευκό, ξηρό κρασί με πλούσιο σώμα και δροσερό αρωματικό χαρακτήρα. Συνδυασμός των 2 ποικιλιών Chardonnay και Gewürztraminer, με ιδιαίτερη τυπικότητα χάρη στην ορεινή προέλευση. Νότες τριαντάφυλλου, ώριμου ροδάκινου, βερίκοκου και μια πινελιά από λίτσι. Το στόμα ακολουθεί πιστά τον παραπάνω χαρακτήρα, ενώ αρωματική παρουσία έχει η βανίλια και ο καπνός.</Description>
 		<EAN>5203888110013</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>135</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3751,7 +3751,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1334002</MPN>
 		<Description>Η Ραμνίστα του Κυρ Γιάννη με αρώματα από φράουλα, κεράσι και τριαντάφυλλο, σε συνδυασμό με φινετσάτες νότες βανίλιας από το βαρέλι. Παρά τη νεότητά του, η αρωματική δύναμη και η δομή των τανινών, φανερώνουν ένα κρασί με χαρακτήρα και μεγάλο δυναμικό παλαίωσης, προϊόν μιας μεγάλης χρονιάς.</Description>
 		<EAN>5203888184021</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>29</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3767,7 +3767,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 
 Συνοδεύει κόκκινο κρέας και φαγητά έντονα σε γεύση και με πλούσια υφή.</Description>
 		<EAN>5203888140041</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3783,7 +3783,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 
 To στόμα είναι πλούσιο και συμπυκνωμένο με στιβαρές τανίνες, μακρά διάρκεια και ισορροπημένη οξύτητα.</Description>
 		<EAN>5203888150989</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4133,7 +4133,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>651</Quantity>
+		<Quantity>1659</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4381,7 +4381,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Συνοδεύει: Θαλασσινά, οστρακοειδή, σαλάτες, λευκά κρέατα, ελαφριές σάλτσες και τυριά</Description>
 		<EAN>5203133409855</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5006,7 +5006,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
 		<EAN>8052190350061</EAN>
-		<Quantity>108</Quantity>
+		<Quantity>288</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5215,7 +5215,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000318</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5245,7 +5245,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>2773</Quantity>
+		<Quantity>2725</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5275,7 +5275,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000301</EAN>
-		<Quantity>145</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5350,7 +5350,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202548141022</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>360</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5380,7 +5380,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Το Αγιονέρι είναι τσίπουρο μικρής παραγωγής που αποστάζεται στην αμπελουργική ζώνη των Μετεωρών. Η παλαίωση του σε δρύινα βαρέλια του χάρισε πολυπλοκότητα και βάθος με ενδιαφέρον αρώματα πικάντικων μπαχαρικών και αποξηραμένων φρούτων. Ένα βελούδινο και κομψό παλαιωμένο τσίπουρο με φρουτώδη χαρακτήρα, ιδανικό να συνοδεύσει αρμονικά ορεκτικά και ελληνικούς μεζέδες.</Description>
 		<EAN>5202548102047</EAN>
-		<Quantity>60</Quantity>
+		<Quantity>108</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5432,7 +5432,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202037130063</EAN>
-		<Quantity>419</Quantity>
+		<Quantity>395</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7569,7 +7569,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 
 Ο αρωματικός του χαρακτήρας διαμορφώνεται με νότες από φλούδα πορτοκαλιού, καφέ, καπνισμένη δρυ και σοκολάτα. Η γεύση του είναι κομψή με εκρήξεις αποξηραμένων φρούτων και διακριτικά πικάντικα αγγίγματα.</Description>
 		<EAN>5202795150297</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7591,7 +7591,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 
 Η μακρά επίγευση του προσφέρει γεύσεις αποξηραμένων φρούτων και γλυκών μπαχαρικών.</Description>
 		<EAN>5202795150365</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8454,7 +8454,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 Γλιστρά εύκολα μεταξύ των δοντιών και δεν χαλάει, σπάει ή χαλαρώνει εύκολα.
 Επίσης, διαθέτει λαιμό σε γωνία για να προσφέρει πρόσβαση στα πίσω δόντια.</Description>
 		<EAN>5206753042013</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>192</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10022,7 +10022,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1366</MPN>
 		<Description>Σαμπουάν περιποίησης Elvive Color Vive για βαμμένα μαλλιά ή μαλλιά με ανταύγειες. Προσφέρει ολοκληρωμένη φροντίδα για χρώμα με μεγάλη διάρκεια.</Description>
 		<EAN>3600520288710</EAN>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10134,7 +10134,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
 Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xylenesulfonate, Sodium Lauryl Sulfate, Glycol Distearate, Sodium Chloride, Stearyl Alcohol, Fragrance, Dimethiconol, Cetyl Alcohol, Dimethicone, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Tea-dodecylbenzenesulfonate, Tetrasodium Edta, Trideceth-10, Trisodium Ethylenediamine Disuccinate, Panthenol, Panthenyl Ethyl Ether, Methylchloroisothiazolinone, Yellow 5, Methylisothiazolinone, Red 33 </Description>
 		<EAN>8001841267111</EAN>
-		<Quantity>45</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10232,7 +10232,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1287</MPN>
 		<Description>Ultrex Men Legend by CR7 με την υπογραφή του Ronaldo. Κατά της πιτυρίδας και της λιπαρότητας, είναι ειδικά σχεδιασμένο για το ανδρικό τριχωτό της κεφαλής που είναι πιο αδύναμο και πιο επιρρεπές στην απώλεια πρωτεϊνών.</Description>
 		<EAN>8710847997471</EAN>
-		<Quantity>189</Quantity>
+		<Quantity>188</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11784,7 +11784,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>2563</Quantity>
+		<Quantity>2562</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12023,7 +12023,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1268</MPN>
 		<Description>Το ARIEL LOROR 2x75μεζ. (2x3,75 lit) είναι ένα υγρό απορρυπαντικό πλυντηρίου, ιδανικό για την αφαίρεση δύσκολων λεκέδων, προσφέροντας αποτελεσματικό καθαρισμό σε βάθος. Κατάλληλο για χρήση σε χαμηλές θερμοκρασίες, διατηρεί τα ρούχα φρέσκα και προστατεύει τα υφάσματα. Συσκευασία 2 τεμαχίων, συνολικής ποσότητας 7.5 λίτρων, που αρκεί για περίπου 150 πλύσεις.</Description>
 		<EAN>8700216211451</EAN>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12449,7 +12449,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1105</MPN>
 		<Description>Οι κάψουλες All in One από την Fairy για το πλυντήριο πιάτων συνδυάζουν τις εξής δράσεις, χαρίζοντας εξαιρετική καθαριότητα για τα πιάτα σας:•Iσχυρή καθαριστική δράση ακόμα και στο σύντομο πρόγραμμα διαλύει τα λίπη και αφαιρεί τους δύσκολους λεκέδες•Εξαιρετική λάμψη•Προστασία υαλικών &amp; ασημικών•Πρόληψη σχηματισμού αλάτων - δράση αλατιού - δράση εκθαμβωτικού</Description>
 		<EAN>8006540910764</EAN>
-		<Quantity>847</Quantity>
+		<Quantity>846</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13040,7 +13040,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 Πλάτος: 32cm
 Ύψος: 4cm</Description>
 		<EAN>5206753001812</EAN>
-		<Quantity>3</Quantity>
+		<Quantity>63</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13074,7 +13074,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 Πλάτος: 27cm
 Ύψος: 76cm</Description>
 		<EAN>5206753018223</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13140,7 +13140,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>74040010-101</MPN>
 		<Description>Κοντάρι ξύλινο με μήκος 1,3m και εξαιρετικής αντοχής.</Description>
 		<EAN>5206753017172</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13976,7 +13976,7 @@ Super-απορροφητική.
 		<MPN>VC469</MPN>
 		<Description>Κόλλα σε πιατάκι για κατσαρίδες, οι οποίες περνώντας από το σημείο εφαρμογής παγιδεύονται, με αποτέλεσμα την εξολόθρευσή τους.</Description>
 		<EAN>5206753013082</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14106,7 +14106,7 @@ Super-απορροφητική.
 Είναι πολύ εύκολο να ανάψετε τις εστίες σας, τα ξύλα στο τζάκι σας χωρίς να λερωθείτε ή να καείτε επειδή έχει μακρύ λαιμό.
 Είναι επίσης κατάλληλος για χρήση σε BBQ, δίνοντάς σας τη δυνατότητα να τον χρησιμοποιείτε και στις εξωτερικές σας δραστηριότητες.</Description>
 		<EAN>5206753014034</EAN>
-		<Quantity>112</Quantity>
+		<Quantity>312</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14788,7 +14788,7 @@ Super-απορροφητική.
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
 		<EAN>5200128643089</EAN>
-		<Quantity>2740</Quantity>
+		<Quantity>2736</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14916,7 +14916,7 @@ Super-απορροφητική.
 		<MPN>0891</MPN>
 		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
 		<EAN>5200128640378</EAN>
-		<Quantity>136</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15377,7 +15377,7 @@ Super-απορροφητική.
 Διαστάσεις: 24,50 πλάτος x 36 ύψος cm.
 Ιδανικό για τις ζαχαροπλαστικές σας δημιουργίες.</Description>
 		<EAN>5206753044031</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16479,7 +16479,7 @@ Brand: Sidirela</Description>
 		<MPN>7673002-01</MPN>
 		<Description>Ανταλλακτικό ρολό καθαρισμού για ρούχα, χαλιά, σαλόνια, καθίσματα αυτοκινήτου, δάπεδα και κατοικίδια. Αφαιρεί σκόνες, χνούδια και τρίχες μόνο με ένα πέρασμα.</Description>
 		<EAN>5206753025740</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16632,7 +16632,7 @@ Brand: Sidirela</Description>
 Πλάτος : 14,00cm
 Ύψος : 10,00cm</Description>
 		<EAN>5206753003076</EAN>
-		<Quantity>19</Quantity>
+		<Quantity>79</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16653,7 +16653,7 @@ Brand: Sidirela</Description>
 Πλάτος : 17,00cm
 Ύψος : 12,00cm</Description>
 		<EAN>5206753003083</EAN>
-		<Quantity>35</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17900,7 +17900,7 @@ Brand: Sidirela</Description>
 
 </Description>
 		<EAN>0194343004280</EAN>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17953,7 +17953,7 @@ Brand: Sidirela</Description>
 
 Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί είναι σταθερή/στιβαρή κατασκευή.</Description>
 		<EAN>5206753046806</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18355,7 +18355,7 @@ Brand: Sidirela</Description>
 
     Διαστάσεις: 30cm x 30cm</Description>
 		<EAN>5203642113557</EAN>
-		<Quantity>152</Quantity>
+		<Quantity>151</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18489,7 +18489,7 @@ Brand: Sidirela</Description>
 Υλικό κατασκευής
 Κατασκευάζεται από πλαστικό, το οποίο αποτελεί μία πολύ πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι πολύ ανθεκτικό στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.</Description>
 		<EAN>5206753026686</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18777,7 +18777,7 @@ Brand: Sidirela</Description>
 Κατάλληλη για όλα τα κάγκελα
 Υλικό: Μέταλλο</Description>
 		<EAN>5206753000655</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18796,7 +18796,7 @@ Brand: Sidirela</Description>
 Κατάλληλη για μπαλκόνι
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι σταθερή και μετακινείται εύκολα.</Description>
 		<EAN>5200105310164</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18941,7 +18941,7 @@ Brand: Sidirela</Description>
 Κατάλληλο για Εσώρουχα
 Διαστάσεις: 50x60cm</Description>
 		<EAN>5206753022527</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>240</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18960,7 +18960,7 @@ Brand: Sidirela</Description>
 Κατάλληλο για Εσώρουχα
 Διαστάσεις: 30x40cm</Description>
 		<EAN>5206753020370</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>240</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20199,7 +20199,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>0674</MPN>
 		<Description>Πλαστικό σκεύος μιας χρήσης χωρητικότητας 1000ml με αποσπώμενο καπάκι, ιδανικό για συσκευασία ζεστών φαγητών. Μπορεί να χρησιμοποιηθεί για να ζεσταθεί σε φούρνο μικροκυμμάτων. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
 		<EAN>5200425302986</EAN>
-		<Quantity>378</Quantity>
+		<Quantity>377</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23520,7 +23520,7 @@ mini markets
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<EAN>5410853039273</EAN>
-		<Quantity>1824</Quantity>
+		<Quantity>1823</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27456,7 +27456,7 @@ XO-EP57
     Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0
 </Description>
 		<EAN>6920680860487</EAN>
-		<Quantity>62</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27952,7 +27952,7 @@ XO-EP57
 
 </Description>
 		<EAN>6920680859177</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28015,7 +28015,7 @@ XO-EP57
 
 </Description>
 		<EAN>6920680872596</EAN>
-		<Quantity>162</Quantity>
+		<Quantity>159</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28273,7 +28273,7 @@ Speed Class 10
 UHS Speed Class U1
 Ιδανική για χρήση σε smartphone, tablet και άλλες συσκευές. Περιλαμβάνει αντάπτορα micro SD για σύνδεση σε βιντεοκάμερες και υπολογιστές.</Description>
 		<EAN>8719274666998</EAN>
-		<Quantity>115</Quantity>
+		<Quantity>114</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29582,7 +29582,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μεσόσπερμο ρύζι με μεγάλους λευκούς κόκκους και έντονο γαλακτερό χρώμαστο κέντρο του. Η βασική ιδιότητα του ρυζιού αυτού είναι η μεγάλη ικανότητα του να απορροφά τα λίπη απελευθερώνοντας παράλληλα το άμυλο του κάνοντας το κατάλληλο για φαγητά φούρνου αλλά και ριζότο.</Description>
 		<EAN>5212006201007</EAN>
-		<Quantity>309</Quantity>
+		<Quantity>307</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30370,7 +30370,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<EAN>6111260550359</EAN>
-		<Quantity>2633</Quantity>
+		<Quantity>2583</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30385,7 +30385,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<EAN>6111260550366</EAN>
-		<Quantity>1279</Quantity>
+		<Quantity>1229</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31429,7 +31429,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>640</Quantity>
+		<Quantity>638</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
