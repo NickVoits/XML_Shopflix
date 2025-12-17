@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-17 16:05</created_at>
+	<created_at>2025-12-17 16:50</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -191,7 +191,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>157</Quantity>
+		<Quantity>112</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -919,7 +919,7 @@
 		<Weight>9 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910353</EAN>
-		<Quantity>727</Quantity>
+		<Quantity>715</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -964,7 +964,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>2958</Quantity>
+		<Quantity>2946</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1129,7 +1129,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<EAN>5201946911404</EAN>
-		<Quantity>143</Quantity>
+		<Quantity>137</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3522,7 +3522,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<MPN>1326</MPN>
 		<Description>Λαμπερό, βαθύ ρουμπινί χρώμα με βιολετί ανταύγειες. Έντονο και πολύπλοκο μπουκέτο, γήινο, με νότες κόκκινων φρούτων, αποξηραμένου δαμάσκηνου και πιπεριού. Γεύση γενναιόδωρη, βελούδινη, στρογγυλή, ισορροπημένη, μεστή, με νότες βανίλιας, δρυός και μόκας. Η επίγευση χαρακτηρίζεται από τη γευστική ισορροπία και τις ώριμες τανίνες, τη μακρά παραμονή των αρωμάτων του στα οποία κυριαρχούν οι νότες μπαχαρικών και αποξηραμένων φρούτων του δάσους. Ένας εξαιρετικός οίνος παλαίωσης. Συνδυάζεται αρμονικά με κόκκινα κρέατα, ψητά ή με πλούσιες σάλτσες, γλυκές ή πικάντικες, τριχωτό κυνήγι και κρεατόπιτες. Γραβιέρα Κρήτης, μπάτζος ή κεφαλογραβιέρα σαχανάκι. Ιδανική απόλαυση στους 16-18º C.</Description>
 		<EAN>5205243319765</EAN>
-		<Quantity>38</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4958,7 +4958,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Διαστάσεις: 66 x 30 x 100 cm
 </Description>
 		<EAN>0194343025803</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5156,6 +5156,44 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Description>Το Ουζο Πιτσιλαδή είναι αυθεντικό ούζο Πλωμαρίου το οποίο παρασκευάζεται με πατροπαράδοτο τρόπο.</Description>
 		<EAN>5200110880041</EAN>
 		<Quantity>49</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>520100102</SKU>
+		<Name>Καρδάση Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
+		<URL>https://www.skroutz.gr/s/19999037/Kardasi-Tyrnavou-Tsipouro-me-Glykaniso-42-100ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/019999/19999037/xlarge_20210210124802_kardasi_tyrnavou_me_glykaniso_tsipouro_100ml.jpeg</Image>
+		<Price>2.32</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Καρδάση</Manufacturer>
+		<MPN>520100-102</MPN>
+		<Description>Στο Τσίπουρο αυτό, οι σπόροι του γλυκάνισου και του μάραθου, προστίθενται κατά τη δεύτερη φάση της επαναπόσταξης. Διάφανο, με ντελικάτο αρωματικό χαρακτήρα, αρκετά φρέσκο, με βοτανικές και ανθικές πινελιές. Στόμα αιχμηρό, αλλά ισορροπημένο, πικάντικο με χαρακτηριστική τη γλύκα του γλυκάνισου και στην επίγευση. Πίνεται με κρύο νερό ή πάγο συνοδευόμενο με δροσερές σαλάτες και ποικιλίες θαλασσινών.</Description>
+		<EAN>5200106350725</EAN>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>520100112</SKU>
+		<Name>Καρδάση Τσίπουρο Χωρίς Γλυκάνισο 40% 100ml</Name>
+		<URL>https://www.skroutz.gr/s/19999057/Kardasi-Tyrnavou-Tsipouro-choris-Glykaniso-40-100ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/019999/19999057/xlarge_20210210124802_kardasi_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image>
+		<Price>2.28</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Καρδάση</Manufacturer>
+		<MPN>520100-112</MPN>
+		<Description>Το Τσίπουρο Καρδάσης χωρίς γλυκάνισο, είναι το πρωτογενές απόσταγμα των στεμφύλων της ποικιλίας μαύρο Μοσχάτο Τυρνάβου. Τα πρώτα κλάσματα της απόσταξης, (κεφαλές) και τα τελευταία (ουρές), απομακρύνονται.
+
+Το κυρίως σώμα (καρδιά), επαναποστάζεται αργά σε χαμηλή θερμοκρασία. Έτσι το απόσταγμα διατηρεί αναλλοίωτα το άρωμα και το χαρακτήρα του σταφυλιού από το οποίο προέρχεται.
+
+Σερβίρετε σκέτο στους 12-15oc. Συνοδεύεται από ποικιλίες γήινων μεζέδων της ελληνικής κουζίνας όπως, κρεατικά με καυτερή σάλτσα, χωριάτικο λουκάνικο με πιπεριές, πικάντικες σαλάτες τουρσί κ.α.
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.
+Γευσιγνωστικά Χαρακτηριστικά
+
+    Άρωμα: Εκτός από το κυρίαρχο άρωμα του μοσχάτου μπορείτε να αναγνωρίσετε αρώματα ανοιξιάτικων ρόδων, βατόμουρου, εσπεριδοειδών, ροδάκινου.
+    Γεύση: Η γεύση του είναι απαλή και η επίγευση του μακρά και ευχάριστα αρωματική.
+
+</Description>
+		<EAN>5200106350732</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11281,7 +11319,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 
 Με πιστοποίηση CE.</Description>
 		<EAN>5203642308915</EAN>
-		<Quantity>38</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13315,7 +13353,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<EAN>4023103208476</EAN>
-		<Quantity>223</Quantity>
+		<Quantity>222</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15470,7 +15508,7 @@ Super-απορροφητική.
 	</product>
 	<product>
 		<SKU>762100111</SKU>
-		<Name>Sidirela Φόρμα Μαγειρέματος για Air Fryer Γκρι 22.5x22.5x5.5cm  Ε-4510</Name>
+		<Name>Sidirela Φόρμα Μαγειρέματος Σιλικόνης για Air Fryer Γκρι 22.5x22.5x5.5cm  Ε-4510</Name>
 		<URL>https://www.skroutz.gr/s/55841968/Sidirela-Forma-Mageirematos-gia-Air-Fryer-Gri-22-5x22-5x5-5ek-E-4510.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/055841/55841968/xlarge_20250605154823_sidirela_forma_mageirematos_gia_air_fryer_gri_22_5x22_5x5_5ek_e_4510.jpeg</Image>
 		<Additional_Image>https://www.sidirela.gr/uploads/2024/05/e-4510-99-forma-antikollitiki-air-fryer-tetragoni-web.jpg https://www.sidirela.gr/uploads/2024/05/e-4510-99-41-forma-antikollitiki-air-fryer-tetragoni-web.jpg </Additional_Image>
@@ -15493,7 +15531,7 @@ Super-απορροφητική.
 	</product>
 	<product>
 		<SKU>762100112</SKU>
-		<Name>Sidirela Φόρμα Μαγειρέματος για Air Fryer Καφέ 22.5x22.5x5.5cm  Ε-4510</Name>
+		<Name>Sidirela Φόρμα Μαγειρέματος Σιλικόνης για Air Fryer Καφέ 22.5x22.5x5.5cm  Ε-4510</Name>
 		<URL>https://www.skroutz.gr/s/55841977/Sidirela-Forma-Mageirematos-gia-Air-Fryer-Mpez-22-5x22-5x5-5ek-E-4510.html</URL>
 		<Image>https://www.sidirela.gr/uploads/2024/05/e-4510-99-41-forma-antikollitiki-air-fryer-tetragoni-web.jpg</Image>
 		<Additional_Image>https://www.sidirela.gr/uploads/2024/05/e-4510-99-forma-antikollitiki-air-fryer-tetragoni-web.jpg https://www.sidirela.gr/uploads/2024/05/e-4510-99-41-forma-antikollitiki-air-fryer-tetragoni-web.jpg </Additional_Image>
@@ -15516,7 +15554,7 @@ Super-απορροφητική.
 	</product>
 	<product>
 		<SKU>762100113</SKU>
-		<Name>Sidirela Φόρμα Μαγειρέματος για Air Fryer Σιέλ 22.5x22.5x5.5cm  Ε-4510</Name>
+		<Name>Sidirela Φόρμα Μαγειρέματος Σιλικόνης για Air Fryer Σιέλ 22.5x22.5x5.5cm  Ε-4510</Name>
 		<URL>https://www.skroutz.gr/s/55767496/Forma-Silikonis-Tetragogi-Laves-Air-fryer-22-5x22-5x5-5cm-Siel-Sidirella.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/055767/55767496/xlarge_20250605154819_forma_silikonis_tetragogi_laves_air_fryer_22_5x22_5x5_5cm_siel_sidirella.jpeg</Image>
 		<Additional_Image>https://www.sidirela.gr/uploads/2024/05/e-4510-99-forma-antikollitiki-air-fryer-tetragoni-web.jpg https://www.sidirela.gr/uploads/2024/05/e-4510-99-41-forma-antikollitiki-air-fryer-tetragoni-web.jpg </Additional_Image>
@@ -17816,7 +17854,7 @@ Brand: Sidirela</Description>
     Ξύλινη επιφάνεια mdf
     3 Συρτάρια κλειστής αποθήκευσης</Description>
 		<EAN>5203642139199</EAN>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17900,7 +17938,7 @@ Brand: Sidirela</Description>
 
 </Description>
 		<EAN>0194343004280</EAN>
-		<Quantity>7</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18355,7 +18393,7 @@ Brand: Sidirela</Description>
 
     Διαστάσεις: 30cm x 30cm</Description>
 		<EAN>5203642113557</EAN>
-		<Quantity>151</Quantity>
+		<Quantity>150</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18582,7 +18620,7 @@ Brand: Sidirela</Description>
 
 Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
 		<EAN>5203642118101-white</EAN>
-		<Quantity>46</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18616,7 +18654,7 @@ Brand: Sidirela</Description>
 
 Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
 		<EAN>5203642118101-black</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19040,7 +19078,7 @@ Brand: Sidirela</Description>
 Πλάτος: 50εκ.
 'Υψος: 77εκ.</Description>
 		<EAN>5203642142021</EAN>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19146,7 +19184,7 @@ laptop, βιβλία ή σημειώσεις,
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134439</EAN>
-		<Quantity>312</Quantity>
+		<Quantity>311</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19236,7 +19274,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN> E-0529</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους. </Description>
 		<EAN>5203642105293</EAN>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19986,6 +20024,20 @@ laptop, βιβλία ή σημειώσεις,
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>781910041</SKU>
+		<Name>Ποτηροθήκη Χάρτινη 4 Θέσεων Μαύρη 50τμχ</Name>
+		<URL>https://www.thalassinos.com.gr/%CF%80%CE%BF%CF%84%CE%AE%CF%81%CE%B9%CE%B1-%CE%BC%CE%AF%CE%B1%CF%82-%CF%87%CF%81%CE%AE%CF%83%CE%B7%CF%82-and-%CE%BA%CE%B1%CF%80%CE%AC%CE%BA%CE%B9%CE%B1/%CF%80%CE%BF%CF%84%CE%B7%CF%81%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%82-%CE%BC%CE%B5%CF%84%CE%B1%CF%86%CE%BF%CF%81%CE%AC%CF%82/%CE%B8%CE%AE%CE%BA%CE%B5%CF%82-%CE%BC%CE%B5%CF%84%CE%B1%CF%86%CE%BF%CF%81%CE%AC%CF%82-%CF%80%CE%BF%CF%84%CE%B7%CF%81%CE%B9%CF%8E%CE%BD-4-%CE%B8%CE%AD%CF%83%CE%B5%CF%89%CE%BD-%CE%BC%CE%B1%CF%85%CF%81%CE%B7.html</URL>
+		<Image>https://www.thalassinos.com.gr/image/cache/data/products/1533102871-a-1EM.6015-1100x1100.jpg</Image>
+		<Price>3.72</Price>
+		<Category>Ποτηροθήκες μιας Χρήσης</Category>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>7819100-41</MPN>
+		<Description>Θήκη μεταφοράς 4 καφέδων ή ροφημάτων, ιδανική για μεταφορά ζεστών και κρύων πλαστικών ή χάρτινων ποτηριών. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
+		<EAN>5202054469986</EAN>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>781910042</SKU>
 		<Name>Ποτηροθήκη Χάρτινη 4 Θέσεων Κραφτ 50τμχ</Name>
 		<URL>https://www.skroutz.gr/s/54858931/Set-50-Potirothikes-Metaforas-Kafe-4-THeseon-48962.html</URL>
@@ -20370,6 +20422,30 @@ laptop, βιβλία ή σημειώσεις,
 1000 cm3       Capacity</Description>
 		<EAN>5202054462253</EAN>
 		<Quantity>15</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>785301500</SKU>
+		<Name>Θαλασσινός Βαρέως Τύπου Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml Διάφανο 50τμχ ΕΜ6229</Name>
+		<URL>https://www.thalassinos.com.gr/%CF%83%CE%BA%CE%B5%CF%8D%CE%B7-%CE%B4%CE%B9%CE%B1%CF%86%CE%B1%CE%BD%CE%AE-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AC-and-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF%CE%BA%CF%85%CE%BC%CE%AC%CF%84%CF%89%CE%BD/pet-1500.html</URL>
+		<Image>https://www.thalassinos.com.gr/image/cache/data/products/EM.6229-1-1100x1100.jpg</Image>
+		<Additional_Image>https://www.thalassinos.com.gr/image/cache/data/products/EM.6229-2-1100x1100.jpg</Additional_Image>
+		<Price>8.86</Price>
+		<Category>Σκεύη Πλαστικά </Category>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>ΕΜ6229</MPN>
+		<Description>Τα διαφανή κουμπωτά σκεύη από το οικολογικό υλικό ΡΕΤ, αποτελούν την ιδανική λύση για σαλάτες, φρούτα, γλυκά, αρτοποιήματα, τυριά, αλλαντικά, 
+ξηρούς καρπούς και πολλές άλλες χρήσεις ( -40ως+70oC), όπου απαιτείται ερμητικό κλείσιμο και εξαιρετική εμφάνιση. 
+
+
+Περιγραφή
+
+119 x 163 mm   Inside Top Dimensions
+103 x 148 mm   Outside Bottom Dimensions
+60 mm        Filling depth
+1000 cm3       Capacity</Description>
+		<EAN>5202054462291</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21932,7 +22008,7 @@ mini markets
 	</product>
 	<product>
 		<SKU>7949901</SKU>
-		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π57xΔ40mm με Μήκος 15m (Η συσκευασία περιέχει 14 τεμάχια και το κιβώτιο 8 συσκευασίες)</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής 1τμχ Π57xΔ40mm με Μήκος 15m</Name>
 		<URL>https://www.skroutz.gr/s/50350885/Typotrust-THermiki-CHartotainia-Tameiakis-P57xD40mm-me-Mikos-15m-48gr-m2-5005740.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/050350/50350885/20240516091744_typotrust_thermiki_chartotainia_tameiakis_p57xd40mm_me_mikos_25m_48gr_m_5005740.jpeg</Image>
 		<Price>0.1891111775553</Price>
@@ -21946,7 +22022,7 @@ mini markets
 	</product>
 	<product>
 		<SKU>7949902</SKU>
-		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π57xΔ50mm με Μήκος 25m (Η συσκευασία περιέχει 12 τεμάχια και το κιβώτιο 6 συσκευασίες)</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής 1τμχ Π57xΔ50mm με Μήκος 25m</Name>
 		<URL>https://www.skroutz.gr/s/56739276/Various-THermiki-CHartotainia-Tameiakis-P57xD50mm-me-Mikos-25m-48gr-m2-5005750.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/056739/56739276/20241009092923_various_thermiki_chartotainia_tameiakis_p57xd50mm_me_mikos_25m_48gr_m_5005750.jpeg</Image>
 		<Price>0.286895572541578</Price>
@@ -21960,7 +22036,7 @@ mini markets
 	</product>
 	<product>
 		<SKU>7949903</SKU>
-		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π80xΔ80mm με Μήκος 65m (Η συσκευασία περιέχει 6 τεμάχια και το κιβώτιο 6 συσκευασίες)</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής 1τμχ Π80xΔ80mm με Μήκος 65m</Name>
 		<URL>https://www.skroutz.gr/s/56739213/Various-THermiki-CHartotainia-Tameiakis-P80xD80mm-me-Mikos-65m-48gr-m2-5008080.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/056739/56739213/20241009092715_various_thermiki_chartotainia_tameiakis_p80xd80mm_me_mikos_65m_48gr_m_5008080.jpeg</Image>
 		<Price>1.04838408111437</Price>
@@ -24928,7 +25004,7 @@ Esperanza - Ατμομάγειρες Esperanza
 • CERTIFICATE: CE/ ROHS /LFGB
 • Χρώματα :μαύρη και elephant</Description>
 		<EAN>5203642127004</EAN>
-		<Quantity>25</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28560,7 +28636,7 @@ Silicon Power - USB Stick Silicon Power</Description>
     Θύρα ethernet
     Διαστάσεις 112x84.7x39mm</Description>
 		<EAN>6957939000516</EAN>
-		<Quantity>89</Quantity>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31474,7 +31550,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>4 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.• Κυρίως συστατικό: Κρέας• Συσκευασία: 4kg</Description>
 		<EAN>5202546009195</EAN>
-		<Quantity>94</Quantity>
+		<Quantity>90</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
