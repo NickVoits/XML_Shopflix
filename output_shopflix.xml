@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-18 16:28</created_at>
+	<created_at>2025-12-18 16:30</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -5159,7 +5159,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>520100102</SKU>
+		<SKU>52100102</SKU>
 		<Name>Καρδάση Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/19999037/Kardasi-Tyrnavou-Tsipouro-me-Glykaniso-42-100ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/019999/19999037/xlarge_20210210124802_kardasi_tyrnavou_me_glykaniso_tsipouro_100ml.jpeg</Image>
@@ -5169,10 +5169,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>520100-102</MPN>
 		<Description>Στο Τσίπουρο αυτό, οι σπόροι του γλυκάνισου και του μάραθου, προστίθενται κατά τη δεύτερη φάση της επαναπόσταξης. Διάφανο, με ντελικάτο αρωματικό χαρακτήρα, αρκετά φρέσκο, με βοτανικές και ανθικές πινελιές. Στόμα αιχμηρό, αλλά ισορροπημένο, πικάντικο με χαρακτηριστική τη γλύκα του γλυκάνισου και στην επίγευση. Πίνεται με κρύο νερό ή πάγο συνοδευόμενο με δροσερές σαλάτες και ποικιλίες θαλασσινών.</Description>
 		<EAN>5200106350725</EAN>
+		<Quantity>912</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>520100112</SKU>
+		<SKU>52100112</SKU>
 		<Name>Καρδάση Τσίπουρο Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/19999057/Kardasi-Tyrnavou-Tsipouro-choris-Glykaniso-40-100ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/019999/19999057/xlarge_20210210124802_kardasi_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image>
@@ -5194,6 +5195,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 </Description>
 		<EAN>5200106350732</EAN>
+		<Quantity>408</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
