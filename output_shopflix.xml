@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-18 12:06</created_at>
+	<created_at>2025-12-18 13:33</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -13,7 +13,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<EAN>5201261231843</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -206,7 +206,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>357</Quantity>
+		<Quantity>333</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -236,7 +236,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>204</Quantity>
+		<Quantity>192</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -465,7 +465,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>1914</Quantity>
+		<Quantity>1896</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -494,7 +494,7 @@
 		<MPN>272001</MPN>
 		<Description>H Sprite είναι το πιο δροσιστικό αναψυκτικό της The Coca-Cola Company. Η καθαρότητα, η αυθεντικότητα και ο δυναμικός χαρακτήρας της Sprite ενθαρρύνει τους νέους να εκφράζονται όπως πραγματικά νιώθουν και να ενεργούν ανάλογα. Μια παγωμένη Sprite απολαμβάνεται καλύτερα στον ελεύθερο χρόνο των νέων και γίνεται ο καλύτερος σύντροφος την ώρα του video gaming. Η Sprite είναι η τέλεια πρόταση για τους καταναλωτές που θέλουν να ξεδιψάσουν με την αυθεντική και δροσιστική γεύση Lemon-Lime της Sprite.</Description>
 		<EAN>5449000012203</EAN>
-		<Quantity>305</Quantity>
+		<Quantity>299</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -552,7 +552,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>1679</Quantity>
+		<Quantity>1674</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -567,7 +567,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>663</Quantity>
+		<Quantity>659</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -615,7 +615,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000317698</EAN>
-		<Quantity>79</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -889,7 +889,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005004443</EAN>
-		<Quantity>333</Quantity>
+		<Quantity>297</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -919,7 +919,7 @@
 		<Weight>9 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910353</EAN>
-		<Quantity>709</Quantity>
+		<Quantity>707</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1159,7 +1159,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<EAN>5201309703172</EAN>
-		<Quantity>716</Quantity>
+		<Quantity>711</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1800,7 +1800,7 @@
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<EAN>5201946010022</EAN>
-		<Quantity>10819</Quantity>
+		<Quantity>10796</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1819,7 +1819,7 @@
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
 		<EAN>5201946011128</EAN>
-		<Quantity>991</Quantity>
+		<Quantity>975</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1838,7 +1838,7 @@
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
 		<EAN>5201946013115</EAN>
-		<Quantity>4572</Quantity>
+		<Quantity>4567</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1880,7 +1880,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080024</EAN>
-		<Quantity>7182</Quantity>
+		<Quantity>7161</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1894,7 +1894,7 @@
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
 		<EAN>1520162701990</EAN>
-		<Quantity>843</Quantity>
+		<Quantity>835</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2107,7 +2107,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<EAN>15202548505012</EAN>
-		<Quantity>491</Quantity>
+		<Quantity>479</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2227,7 +2227,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>884</Quantity>
+		<Quantity>872</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2347,7 +2347,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>566</Quantity>
+		<Quantity>558</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2362,7 +2362,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100325</EAN>
-		<Quantity>241</Quantity>
+		<Quantity>238</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2454,7 +2454,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>1201</Quantity>
+		<Quantity>1196</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2469,7 +2469,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>203</Quantity>
+		<Quantity>201</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2557,7 +2557,7 @@
 		<MPN>1315</MPN>
 		<Description>Λαμπερό αχυρένιο χρώμα με πρασινωπές ανταύγειες . Μύτη κομψή με αρώματα εσπεριδοειδών και λευκού ροδάκινου. Στο στόμα πλούσιο και γεμάτο με τραγανή οξύτητα. Μεγάλη αρωματική διάρκεια.</Description>
 		<EAN>5201214100127</EAN>
-		<Quantity>264</Quantity>
+		<Quantity>252</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3915,7 +3915,7 @@ pH: 3.45
 Γευστικό ταίριασμα: Σερβίρεται στους 8-10°C, συνοδεύοντας ευχάριστα πιάτα Μεσογειακής κουζίνας, ψάρια, θαλασσινά, ζυμαρικά και πράσινες σαλάτες.
 </Description>
 		<EAN>5203708140107</EAN>
-		<Quantity>101</Quantity>
+		<Quantity>87</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4133,7 +4133,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<EAN>5200111580735</EAN>
-		<Quantity>1651</Quantity>
+		<Quantity>1639</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5006,7 +5006,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
 		<EAN>8052190350061</EAN>
-		<Quantity>288</Quantity>
+		<Quantity>282</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5036,7 +5036,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>1.5 kg</Weight>
 		<Description>Η Sangria είναι το παραδοσιακό ποτό της Ισπανίας, παρασκευάζεται από κόκκινο κρασί και φυσικά εκχυλίσματα φρούτων χωρίς συντηρητικά και χρωστικές. Σκούρο κόκκινο χρώμα και δροσερή γεύση. Σερβίρεται παγωμένη, είναι το απόλυτο ποτό του καλοκαιριού.</Description>
 		<EAN>8410261151625</EAN>
-		<Quantity>92</Quantity>
+		<Quantity>91</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5223,7 +5223,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000233</EAN>
-		<Quantity>2647</Quantity>
+		<Quantity>2599</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5253,7 +5253,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<EAN>5201064000318</EAN>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5283,7 +5283,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<EAN>5201064000219</EAN>
-		<Quantity>2566</Quantity>
+		<Quantity>2518</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5590,7 +5590,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207610517</EAN>
-		<Quantity>1281</Quantity>
+		<Quantity>1233</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5782,7 +5782,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<EAN>5000281002538</EAN>
-		<Quantity>193</Quantity>
+		<Quantity>192</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5796,7 +5796,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<EAN>5011007003005</EAN>
-		<Quantity>156</Quantity>
+		<Quantity>154</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5840,7 +5840,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Τα πιο χαρακτηριστικά του αρώματα είναι αυτά της βανίλιας, των εσπεριδοειδών και των ξηρών καρπών.  Στο στόμα είναι απαλό και πικάντικο. Απολαύστε το με πάγο.</Description>
 		<EAN>5011026108033</EAN>
-		<Quantity>42</Quantity>
+		<Quantity>41</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5854,7 +5854,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<EAN>promitheas-080432402931</EAN>
-		<Quantity>69</Quantity>
+		<Quantity>66</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5900,7 +5900,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5011007024000</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6263,7 +6263,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 
 Ο σίτος και το νερό διυλίζονται τριπλά με χρήση φιλτραρίσματος χαλαζία και ενεργού άνθρακα ώστε να δημιουργηθεί το τελικό απόσταγμα της Stolichnaya.</Description>
 		<EAN>4750021001376</EAN>
-		<Quantity>192</Quantity>
+		<Quantity>187</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6850,7 +6850,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1529</MPN>
 		<Description>Παρασκευασμένο για πρώτη φορά το 1862, το ρούμι Bacardi είναι το αυθεντικό, εύκολο στην ανάμειξη, ελαφρύ ρούμι που παλαιώνει για ένα με δύο χρόνια σε επιλεγμένα δρύινα βαρέλια.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5010677012782</EAN>
-		<Quantity>89</Quantity>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6930,7 +6930,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<MPN>55400-12</MPN>
 		<Description>Παρασκευασμένο για πρώτη φορά το 1862, το ρούμι Bacardi είναι το αυθεντικό, εύκολο στην ανάμειξη, ελαφρύ ρούμι που παλαιώνει για ένα με δύο χρόνια σε επιλεγμένα δρύινα βαρέλια._x000D__x000D_Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>5010677012782</EAN>
-		<Quantity>89</Quantity>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6946,7 +6946,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 
 Ποικιλιακή σύνθεση: 40%. Περιοχή: Κούβα.</Description>
 		<EAN>5010677039093</EAN>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7172,7 +7172,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Weight>0.8 kg</Weight>
 		<Description>Το Diplomatico Reserva Exclusiva είναι ένα κομψό και σύνθετο ρούμι που κατασκευάζεται προσεκτικά από τα καθαρότερα ζαχαροκάλαμα της Βενεζουέλας.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>7594003620059</EAN>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7299,7 +7299,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 
 Χρησιμοποιείται για την παρασκευή ποτών και κοκτέιλ όπως τα κλασικά Negroni, Campari Orange και Americano.</Description>
 		<EAN>8000040001106</EAN>
-		<Quantity>115</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7352,7 +7352,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 
 Γαρνίρετε με μια φέτα πορτοκαλιού</Description>
 		<EAN>8002230000012</EAN>
-		<Quantity>125</Quantity>
+		<Quantity>124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7780,7 +7780,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 
 Η συνταγή του Drambuie παραμένει επτασφράγιστο μυστικό από την πρώτη στιγμή που το ποτό έφτασε στη Σκωτία, το 1745. Ακόμα και σήμερα ελάχιστοι γνωρίζουν την ακριβή συνταγή του, ενώ η διαδικασία παρασκευής του εξακολουθεί σε μεγάλο βαθμό αναλλοίωτη μέχρι τις μέρες μας.</Description>
 		<EAN>5010391100703</EAN>
-		<Quantity>35</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7810,7 +7810,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<MPN>5500-10</MPN>
 		<Description>Το Disaronno Originale είναι ένα λικέρ αρωματισμένο με γεύση αμυγδάλου, που παρασκευάζεται στην Ιταλία. Με ιδιαίτερα λεπτή υφή και εξαιρετικό χαρακτήρα.</Description>
 		<EAN>8001110016303</EAN>
-		<Quantity>41</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11382,7 +11382,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<EAN>5200100281629</EAN>
-		<Quantity>6955</Quantity>
+		<Quantity>6936</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11397,7 +11397,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102833</EAN>
-		<Quantity>1756</Quantity>
+		<Quantity>1735</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11412,7 +11412,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
 		<EAN>5203650102840</EAN>
-		<Quantity>828</Quantity>
+		<Quantity>821</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11468,7 +11468,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<EAN>5203650710286</EAN>
-		<Quantity>426</Quantity>
+		<Quantity>418</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15248,7 +15248,7 @@ Super-απορροφητική.
     Σετ 20 τμχ 
     Διαστάσεις: 31 x 10.5 cm</Description>
 		<EAN>6955880325559</EAN>
-		<Quantity>122</Quantity>
+		<Quantity>121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15667,7 +15667,7 @@ Super-απορροφητική.
 		<MPN>Ε-3806</MPN>
 		<Description>ο μαχαίρι steak της εταιρείας Sidirela με μήκος λεπίδας 12cm, χρησιμοποιείται για μαγειρεμένο φαγητό και σας εξασφαλίζει ευκολότερο κόψιμο σε αντίθεση με τα μαχαίρια φαγητού. Διαθέτει λεπίδα με μυτερή άκρη. Είναι ιδανικό για μπριζόλες, κοτόπουλο, παϊδάκια και ψάρι. Είναι κατασκευασμένο από ανοξείδωτο ατσάλι, ένα δημοφιλές υλικό για μαχαίρια, είναι ιδιαίτερα ανθεκτικό και δεν διαβρώνεται. Αποτελεί ένα συνδυασμό από άνθρακα και σίδηρο ως βάση και προστίθεται χρώμιο για να απωθεί τους λεκέδες και να δώσει στη λεπίδα ένα γυαλιστερό φινίρισμα.</Description>
 		<EAN>5203642138062</EAN>
-		<Quantity>37</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19144,7 +19144,7 @@ laptop, βιβλία ή σημειώσεις,
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134415</EAN>
-		<Quantity>191</Quantity>
+		<Quantity>190</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19184,7 +19184,7 @@ laptop, βιβλία ή σημειώσεις,
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134439</EAN>
-		<Quantity>309</Quantity>
+		<Quantity>307</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19274,7 +19274,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN> E-0529</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους. </Description>
 		<EAN>5203642105293</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20632,7 +20632,7 @@ laptop, βιβλία ή σημειώσεις,
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<EAN>5219711976220</EAN>
-		<Quantity>452</Quantity>
+		<Quantity>450</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21333,7 +21333,7 @@ mini markets
 		<MPN>4616</MPN>
 		<Description>• Τύπος: Μπλοκ• Γραμμογράφηση: Ριγέ• Θέματα: 1• Μέγεθος: A6</Description>
 		<EAN>5200000046168</EAN>
-		<Quantity>297</Quantity>
+		<Quantity>296</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21597,7 +21597,7 @@ mini markets
 Ασφαλές και φιλικό προς το περιβάλλον
 Χρήση: Αποσυνδέστε από το ρεύμα τις ηλεκτρικές συσκευές που πρόκειται να καθαρίσετε. Επανασυνδέστε 15 λεπτά μετά τον καθαρισμό τους</Description>
 		<EAN>5901299902868</EAN>
-		<Quantity>418</Quantity>
+		<Quantity>417</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23526,7 +23526,7 @@ mini markets
 		<MPN>1661</MPN>
 		<Description>Αλκαλικές μπαταρίες μεγέθους ΑΑ, ιδανικές για τηλεχειριστήρια, φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
 		<EAN>5207227115523</EAN>
-		<Quantity>186</Quantity>
+		<Quantity>184</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25737,7 +25737,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 Ακροστόμιο
 2 μάσκες διαφορετικών μεγεθών (ενηλίκων και βρεφική/παιδική)</Description>
 		<EAN>5901299914946</EAN>
-		<Quantity>95</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26525,7 +26525,7 @@ USB6 QC: 5V/3A, 9V/2A, 12V/1,5A
 Γρήγορη και ασφαλής φόρτιση.
 Θα μπορεί αυτός ο φορτιστής να τροφοδοτεί γρήγορα το smartphone μου; Δεν χρειάζεται πλέον να αναρωτιέστε, επειδή το μοντέλο Joyroom υποστηρίζει τα πρότυπα γρήγορης φόρτισης Power Delivery, Quick Charge, PPS, FCP, AFC , ώστε να είστε σίγουροι όχι μόνο για την εξοικονόμηση χρόνου, αλλά και για την προστασία του εξοπλισμού σας. Δεν θα υποστεί ζημιά από υπέρταση ή υπερθέρμανση.</Description>
 		<EAN>6941237165121</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29403,7 +29403,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
     Λειτουργια αυτοματης απενεργοποιησης: 7 λεπτα
     Διαστάσεις: 14,5 x 10.5 cm</Description>
 		<EAN>4549292108606</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29532,7 +29532,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Weight>1 kg</Weight>
 		<Description>Η λευκή ζάχαρη της εταιρείας Royal Sugar σε κρυσταλλική μορφή, είναι το γλυκό προϊόν που προκύπτει μετά απο επεξεργασία, προκειμένου να αφαιρεθεί εντελώς η μελάσα και να μείνουν μόνο οι λευκοί καθαροί κρύσταλλοι. Ένα κουταλάκι του γλυκού (5 γραμμάρια) αποδίδει 16 θερμίδες.</Description>
 		<EAN>5200120912039</EAN>
-		<Quantity>6993</Quantity>
+		<Quantity>6983</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29958,7 +29958,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<EAN>5202737900218</EAN>
-		<Quantity>324</Quantity>
+		<Quantity>294</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30566,7 +30566,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.2 kg</Weight>
 		<Description>Πικάντικα καλαμαράκια της εταιρίας Midi, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε!</Description>
 		<EAN>8850026202801</EAN>
-		<Quantity>300</Quantity>
+		<Quantity>295</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30596,7 +30596,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.2 kg</Weight>
 		<Description>Τα χταποδάκια MIDI σε πικάντικη σάλτσα, σε συσκευασία των 185 γραμμαρίων, προσφέρουν μια νόστιμη και γευστική εμπειρία. Είναι τεμαχισμένα, βρασμένα και τυλιγμένα σε μια πικάντικη σάλτσα που προσδίδει πλούσια γεύση και αρωματικότητα. Είναι ιδανικά για σερβίρισμα ως ορεκτικό ή συνοδευτικό πιάτο σε μεσογειακά γεύματα. Το συγκεκριμένο προϊόν προσφέρει ευκολία στη χρήση και μπορεί να απολαυστεί ως γευστική επιλογή για διάφορες περιστάσεις.</Description>
 		<EAN>3859888140219</EAN>
-		<Quantity>420</Quantity>
+		<Quantity>415</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31616,7 +31616,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<EAN>5202546009133</EAN>
-		<Quantity>27</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
