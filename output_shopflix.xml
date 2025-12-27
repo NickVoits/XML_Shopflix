@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-27 16:07</created_at>
+	<created_at>2025-12-27 17:12</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -13,7 +13,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<EAN>5201261231843</EAN>
-		<Quantity>138</Quantity>
+		<Quantity>137</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -117,6 +117,26 @@
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<EAN>75041670</EAN>
 		<Quantity>598</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>33007</SKU>
+		<Name>Stella Artois Lager Φιάλη 330ml</Name>
+		<URL>https://www.skroutz.gr/s/6819486/Stella-Artois-Lager-Fiali-330ml.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/052761/52761439/xlarge_20211123100040_eff4731a.jpeg</Image>
+		<Price>1.39</Price>
+		<Category>Μπύρες</Category>
+		<Manufacturer>Stella Artois</Manufacturer>
+		<MPN>3Ε-33007</MPN>
+		<Description>Περιγραφή
+Με το υπέροχο λουλουδάτο άρωμα, την ισορροπημένη γλυκύτητα της βύνης, τον πικρό λυκίσκο και το απαλό στεγνό φινίρισμα, η Stella Artois είναι η τέλεια μπύρα για να συνδυάσετε με φαγητό, αλλά και μόνη της. Μια διεθνώς αναγνωρισμένη μπύρα με παγκόσμια βραβεία το πιο πρόσφατο, ως η Καλύτερη Διεθνές Lager το Κόσμου το 2019.
+
+Χαρακτηριστικά
+Αλκοολικός βαθμός: 5%
+Παραγωγός: Stella Artois
+Ποσότητα: 330ml
+Χώρα: Βέλγιο</Description>
+		<EAN>5410228141266</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -375,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>91</Quantity>
+		<Quantity>89</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -390,7 +410,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<EAN>5201171331220</EAN>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -405,7 +425,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>51</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -420,7 +440,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<EAN>5201171331244</EAN>
-		<Quantity>15</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -552,7 +572,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>1429</Quantity>
+		<Quantity>1428</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -697,7 +717,7 @@
 
 </Description>
 		<EAN>5449000017673</EAN>
-		<Quantity>99</Quantity>
+		<Quantity>98</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -889,7 +909,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<EAN>5201005004443</EAN>
-		<Quantity>136</Quantity>
+		<Quantity>132</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -964,7 +984,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<EAN>5201946910339</EAN>
-		<Quantity>8853</Quantity>
+		<Quantity>8829</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1039,7 +1059,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<EAN>5201946910247</EAN>
-		<Quantity>1331</Quantity>
+		<Quantity>1325</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1084,7 +1104,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>886</Quantity>
+		<Quantity>883</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1129,7 +1149,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<EAN>5201946911404</EAN>
-		<Quantity>19</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1772,7 +1792,7 @@
 		<Name>Βίκος Φυσικό Μεταλλικό Νερό 24x500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.skroutz.gr/s/59893793/vikos-fysiko-metalliko-nero-24x0-5lt.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/059893/59893793/xlarge_20250613135809_vikos_fysiko_metalliko_nero_24x0_5lt.jpeg</Image>
-		<Price>2.97767987686838</Price>
+		<Price>3.206742173043044</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
@@ -1800,7 +1820,7 @@
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<EAN>5201946010022</EAN>
-		<Quantity>7242</Quantity>
+		<Quantity>7172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1808,7 +1828,7 @@
 		<Name>Βίκος Φυσικό Μεταλλικό Νερό 12x500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.skroutz.gr/s/26743172/Vikos-Fysiko-Metalliko-Nero-12x0-5lt.html#description</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/026743/26743172/xlarge_20210122154956_vikos_fysiko_metalliko_nero_0_5lt_12tmch.jpeg</Image>
-		<Price>1.494168199298655</Price>
+		<Price>1.60945142733438</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>130501</MPN>
@@ -1827,7 +1847,7 @@
 		<Name>Βίκος Φυσικό Μεταλλικό Νερό 6x1500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.skroutz.gr/s/59829278/fysiko-metalliko-nero-6x1-5lt.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/059829/59829278/xlarge_20250415125051_fysiko_metalliko_nero_6x1_5lt.jpeg</Image>
-		<Price>1.454738261398811</Price>
+		<Price>1.566944642396875</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1306</MPN>
@@ -1860,7 +1880,7 @@
 		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 6x1500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.iolispring.gr/ta-proionta/fysiko-metalliko-nero-ioli-se-pet-fiali-15lt/</URL>
 		<Image>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/8/4200001488/ioli-shrink-6x15lt-51-promo.jpg?id=1607351703</Image>
-		<Price>1.44</Price>
+		<Price>1.66</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>13081</MPN>
@@ -1874,13 +1894,13 @@
 		<Name>Αύρα Φυσικό Μεταλλικό Νερό 24x500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.avrawater.gr/40/Fysiko-Metalliko-Nero-AYRA</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/NERO-AYRA-24X500.jpg</Image>
-		<Price>2.89594630057044</Price>
+		<Price>3.12</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>Αυρα</Manufacturer>
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080024</EAN>
-		<Quantity>6190</Quantity>
+		<Quantity>6189</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1888,7 +1908,7 @@
 		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 24x500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.skroutz.gr/s/28476128/Zagori-Fysiko-Metalliko-Nero-24x0-5lt.html#description</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/028476/28476128/xlarge_20220923112933_zagori_fysiko_metalliko_nero_24x0_5lt.jpeg</Image>
-		<Price>2.95955859295485</Price>
+		<Price>3.175005387078</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
@@ -1902,7 +1922,7 @@
 		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 12x500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.skroutz.gr/s/28317498/Zagori-Fysiko-Metalliko-Nero-12x0-5lt.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/028317/28317498/xlarge_20220228104656_zagori_fysiko_metalliko_nero_12x0_5lt.jpeg</Image>
-		<Price>1.49157542956815</Price>
+		<Price>1.600157548962</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10180</MPN>
@@ -1916,13 +1936,27 @@
 		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 6x1500ml σε πλαστική φιάλη pet</Name>
 		<URL>https://www.skroutz.gr/s/29351530/Zagori-Fysiko-Metalliko-Nero-6x1-5lt.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/029351/29351530/xlarge_20210608120132_zagori_metalliko_nero_1_5lt_5_1tmch.jpeg</Image>
-		<Price>1.4475170082657</Price>
+		<Price>1.546964741658</Price>
 		<Category>Εμφιαλωμένα Νερά</Category>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
 		<EAN>5201627019955</EAN>
 		<Quantity>371</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>20703</SKU>
+		<Name>Κωστηλάτα Φυσικό Μεταλλικό Νερό 6x1500ml σε πλαστική φιάλη pet</Name>
+		<URL>https://www.skroutz.gr/s/27592697/Kostilata-Fysiko-Metalliko-Nero-6x1-5lt.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/027592/27592697/xlarge_20210311103458_kostilatas_fysiko_metalliko_nero_6x1_5lt.jpeg</Image>
+		<Price>1.37</Price>
+		<Category>Εμφιαλωμένα Νερά</Category>
+		<Manufacturer>Κωστηλάτα</Manufacturer>
+		<MPN>ΝΕ-20703</MPN>
+		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
+		<EAN>5200116720020</EAN>
+		<Quantity>3732</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2317,7 +2351,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>654</Quantity>
+		<Quantity>646</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5021,7 +5055,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Songmics Επιδαπέδια Κάβα Ποτών Ξύλινη για 24 Μπουκάλια με 2 Ράφια και 5 Ποτηροθήκες σε Μαύρο-Καφέ 66x30x100cm KWR028B01</Name>
 		<URL>https://www.skroutz.gr/s/37931787/Songmics-Epidapedia-Kava-Poton-Xylini-gia-24-Mpoukalia-Mayro-Kafe-66x30x100ek.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/037931/37931787/fixedratio_20220906122441_songmics_xylini_epitoichia_kava_poton_gia_24_mpoukalia_66x30x100cm.jpeg</Image>
-		<Price>80.58</Price>
+		<Price>82.97</Price>
 		<Category> Κάβες Ποτών</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>KWR028B01</MPN>
@@ -7705,7 +7739,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Name>Metaxa Private Reserve Κονιάκ 30 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5305683/Metaxa-Private-Reserve-Koniak-30-Eton-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/005305/5305683/xlarge_20200215205250_metaxa_private_reserve_koniak_700ml.jpeg</Image>
-		<Price>72.92893381200001</Price>
+		<Price>74.18</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Metaxa</Manufacturer>
 		<MPN>55700-05</MPN>
@@ -8278,39 +8312,6 @@ Bitter Fig Fizz
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55802</SKU>
-		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Τζίντζερ 700ml</Name>
-		<URL>https://www.skroutz.gr/s/22738965/Monin-Siropi-gia-Kokteil-me-Geysi-Tzintzer-700ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/022738/22738965/xlarge_20200409172708_monin_siropi_ginger_700ml.jpeg</Image>
-		<Price>10.772933535</Price>
-		<Category>Υλικά Κοκτέιλ</Category>
-		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1212001</MPN>
-		<Description>Το σιρόπι της εταιρείας Monin, είναι ένα μείγμα ζάχαρης, νερού και συμπυκνωμένου χυμού με γεύση τζίντζερ που χρησιμοποιείται ως γλυκαντικό, αλλά και για να ενισχύσει τη γεύση στα κοκτέιλ. Πρόκειται για ένα παχύρρευστο υγρό, που δίνει μια σχετικά αραιή σύσταση στο κοκτέιλ. Το αρωματικό Monin Ginger θα δώσει μία ξεχωριστή, εξωτική γεύση στα ροφήματα σας.
-
-Το Le Sirop de MONIN Ginger ενσαρκώνει τον υπέροχο θερμαντικό συνδυασμό αρωματικής γλυκύτητας και τσιμπήματος μπαχαρικών. Αρωματικό και πικάντικο προσδίδει μια χαρακτηριστική, εξωτική γεύση και ανεβάζει τη θερμότητα στα κοκτέιλ, τις λεμονάδες, τις σοκολάτες, τα τσάγια και τις φρουτώδεις σόδες σας.
-
-Τα σιρόπια είναι ιδανικά για χρήση, σε κρύα και ζεστά ροφήματα, σε κοκτέιλ, αλλά ακόμα και σε καφέ, καθώς και σε οτιδήποτε έχει να κάνει με τη ζαχαροπλαστική. Δεν απαιτείται ψύξη. Φυλάσσεται σε θερμοκρασία δωματίου, μακριά από θερμότητα και άμεσο ηλιακό φως.</Description>
-		<EAN>3052910055240</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55805</SKU>
-		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Gingerbread 700ml</Name>
-		<URL>https://www.skroutz.gr/s/22739417/Monin-Siropi-gia-Kokteil-me-Geysi-Gingerbread-700ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/022739/22739417/20210304165440_monin_siropi_gingerbread_700ml.jpeg</Image>
-		<Price>11.798927205</Price>
-		<Category>Υλικά Κοκτέιλ</Category>
-		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1212</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Στη βόρεια Αμερική, η λέξη gingerbread είναι άμεσα συνδεδεμένη με τα μπισκότα, και φυσικά τον μπισκοτάνθρωπο. Όλα αυτά είναι προιόντα που θυμίζουν ζεστασιά και χειμερινές διακοπές. Επαναδημιουργείστε αυτό το ζεστό συναίσθημα γύρω από το τζάκι με Monin Gingerbread στα ροφήματα σας. Το Monin Gingerbread έχει μία ισορροπία σε πιπερόριζα, κανέλα, μέλι που δίνουν την πραγματική γεύση του Gingerbread.</Description>
-		<EAN>3052910018917</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55807</SKU>
 		<Name>Monin Σιρόπι Blood Orange 700ml</Name>
 		<URL>https://www.skroutz.gr/s/22756872/Monin-Siropi-Blood-Orange-700ml.html</URL>
@@ -8323,51 +8324,6 @@ Bitter Fig Fizz
 		<Description>Το MONIN Σιρόπι Blood Orange 700ml είναι ένα υψηλής ποιότητας σιρόπι με έντονη γεύση κόκκινου πορτοκαλιού, γνωστό για την πικάντικη και γλυκόξινη νότα του. Ιδανικό για την παρασκευή δροσιστικών κοκτέιλ, αναψυκτικών, και γλυκών δημιουργιών, προσδίδει ένα ζωντανό χρώμα και μια ιδιαίτερη φρουτώδη γεύση σε κάθε συνταγή.</Description>
 		<EAN>3052910041076</EAN>
 		<Quantity>4</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55811</SKU>
-		<Name>Monin Σιρόπι Βανίλια Μαδαγασκάρης 700ml</Name>
-		<URL>https://www.skroutz.gr/s/60194179/monin-siropi-mparman-vanilia-madagaskaris-700-ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/060194/60194179/xlarge_20250430120611_monin_siropi_mparman_vanilia_madagaskaris_700_ml.jpeg</Image>
-		<Price>11.798927205</Price>
-		<Category>Υλικά Κοκτέιλ</Category>
-		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1212002</MPN>
-		<Description>Monin Σιρόπι Bartender Βανίλια από Μαδαγασκάρη 700 ml
-
-Τα σιρόπια για ποτά είναι απαραίτητο εξοπλισμό για κάθε μπαρ, είτε είναι σπίτι είτε επαγγελματικό. Αποτελούν σημαντικό συστατικό σχεδόν κάθε κοκτέιλ. Η μεγάλη ποικιλία γεύσεων επιτρέπει τη δημιουργία οποιουδήποτε κοκτέιλ. Τα σιρόπια Monin είναι υψηλής ποιότητας και αποτελούν μια ανταγωνιστική προσθήκη σε ποτά, καφέ, επιδόρπια ή μπύρες.
-
-Χαρακτηριστικά προϊόντος:
-
-Χωρητικότητα: 700 ml
-Γεύση: Βανίλια, με τη γεύση της βανίλιας να συνδυάζεται με εξωτικές νότες.
-Χρώμα: Απαλό κεχριμπαρένιο.
-Χρήση: Καφές, επιδόρπια, κοκτέιλ, σέικι.
-Παραγωγός: Monin
-Βασισμένο αποκλειστικά στην καλύτερη ποικιλία παρθένου εκχυλίσματος βανίλιας από τη Μαδαγασκάρη, το σιρόπι βανίλιας MONIN έχει εξαιρετικό άρωμα.</Description>
-		<EAN>3052910056469</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55813</SKU>
-		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Κανέλα 700ml</Name>
-		<URL>https://www.skroutz.gr/s/22739189/Monin-Siropi-gia-Kokteil-me-Geysi-Kanela-700ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/022739/22739189/xlarge_20220218094349_monin_siropi_gia_kokteil_me_geysi_kanela_700ml.jpeg</Image>
-		<Price>11.798927205</Price>
-		<Category>Υλικά Κοκτέιλ</Category>
-		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1212003</MPN>
-		<Description>Ανακαλύψτε τον Syrop Barmański Monin Cynamon 700 ml, ένα απαραίτητο σιρόπι για την ενίσχυση των γεύσεων στα ροφήματά σας. Ιδανικό για μπαρ και οικιακή χρήση, προσφέρει ευρεία ποικιλία αρωμάτων για τη δημιουργία κοκτέιλ.
-
-Αυτό το σιρόπι με γεύση κανέλας χαρίζει μια εξωτική και πλούσια αίσθηση, ιδανικό για καφέδες και άλλα γλυκά ποτά. Είναι το κατάλληλο συστατικό για να προσθέσετε φινέτσα και γεύση στα ροφήματά σας.
-
-Δημιουργεί εκπληκτικούς καφέδες και γλυκά.
-Κατάλληλο για ποτά και μπύρα.
-Πλούσια γεύση κανέλας με ελαφρύ άγγιγμα πιπεριού.</Description>
-		<EAN>3052910056476</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8535,7 +8491,7 @@ Bitter Fig Fizz
 		<MPN>0622</MPN>
 		<Description>Οδοντόβουρτσα με μέτρια σκληρότητα της εταιρείας Colgate, η οποία καθαρίζει αποτελεσματικά τα δόντια και τα ούλα από υπολείμματα τροφίμων, βακτήρια και πλάκα, ενώ μπορεί να χρησιμοποιηθεί και από άτομα που συγκεντρώνουν σε μικρό χρονικό διάστημα μετά τον καθαρισμό οδοντική πέτρα.</Description>
 		<EAN>6001067004943</EAN>
-		<Quantity>3005</Quantity>
+		<Quantity>2993</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8582,7 +8538,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 Γλιστρά εύκολα μεταξύ των δοντιών και δεν χαλάει, σπάει ή χαλαρώνει εύκολα.
 Επίσης, διαθέτει λαιμό σε γωνία για να προσφέρει πρόσβαση στα πίσω δόντια.</Description>
 		<EAN>5206753042013</EAN>
-		<Quantity>170</Quantity>
+		<Quantity>169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9331,7 +9287,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1056</MPN>
 		<Description>Αντιιδρωτικό αποσμητικό με ήπια φόρμουλα και διακριτικό άρωμα για 48ωρη προστασία που φροντίζει την επιδερμίδα δας.</Description>
 		<EAN>42299912</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11251,7 +11207,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467746</EAN>
-		<Quantity>1231</Quantity>
+		<Quantity>1181</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11600,7 +11556,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<EAN>5203650102703</EAN>
-		<Quantity>458</Quantity>
+		<Quantity>422</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18665,7 +18621,7 @@ Brand: Sidirela</Description>
     Συνολικές διαστάσεις: 73 x 33 x 72 cm
 </Description>
 		<EAN>0194343042589</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19246,7 +19202,7 @@ laptop, βιβλία ή σημειώσεις,
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134439</EAN>
-		<Quantity>278</Quantity>
+		<Quantity>277</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19289,7 +19245,7 @@ laptop, βιβλία ή σημειώσεις,
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί έχει ωραία αίσθηση όταν ξαπλώνεις και είναι όπως φαίνεται στη φωτογραφία.</Description>
 		<EAN>5203642134453</EAN>
-		<Quantity>31</Quantity>
+		<Quantity>29</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26509,7 +26465,7 @@ Watt: 12W
 
 Το συμπαγές μέγεθος καθιστά τον φορτιστή εύκολο στη μεταφορά και δεν καταλαμβάνει πολύ χώρο στο αυτοκίνητο. Η έξυπνη διαχείριση ενέργειας προστατεύει τις συσκευές από υπερφόρτιση και υπερθέρμανση. Ιδανικό για τη φόρτιση δύο συσκευών ταυτόχρονα κατά την οδήγηση.</Description>
 		<EAN>6975837583160</EAN>
-		<Quantity>150</Quantity>
+		<Quantity>140</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26529,7 +26485,7 @@ Watt: 12W
 Τάση εισόδου: 12-24V
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει καλή ποιότητα κατασκευής και είναι ανθεκτικός.</Description>
 		<EAN>6953156215405</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26868,7 +26824,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
 
 Χρώμα: Λευκό</Description>
 		<EAN>6920680858729</EAN>
-		<Quantity>131</Quantity>
+		<Quantity>126</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27331,7 +27287,7 @@ XO-EP57
 
 Τα ακουστικά Bluetooth XO Q4 έχουν μεγάλο χρόνο εργασίας - έως και 4,5 ώρες συνεχούς αναπαραγωγής μουσικής ή κλήσεων. Αυτό τα καθιστά εξαιρετική επιλογή για όσους τους αρέσει να ακούν μουσική εν κινήσει ή έξω και τριγύρω. Η υψηλή ποιότητα ήχου και η άνετη χρήση καθιστούν τα ακουστικά Bluetooth ιδανική επιλογή για όσους θέλουν να απολαύσουν τον ποιοτικό ήχο και την άνεση των ασύρματων ακουστικών.</Description>
 		<EAN>6920680842995</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27617,7 +27573,7 @@ XO-EP57
     Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0
 </Description>
 		<EAN>6920680860487</EAN>
-		<Quantity>36</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
