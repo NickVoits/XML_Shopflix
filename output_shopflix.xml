@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-01-12 16:40</created_at>
+	<created_at>2026-01-12 16:43</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -27737,6 +27737,7 @@ XO-EP57
 Τύπος φορτιστή: USB 
 Χωρητικότητα μπαταρίας: 20000 mAh</Description>
 		<EAN>6932172625474</EAN>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31653,5 +31654,21 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<EAN>8007520012225</EAN>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>=COUNTBLANK(A2:A1779)</SKU>
+		<Name>=COUNTBLANK(B2:B1779)</Name>
+		<URL>=COUNTBLANK(C2:C1779)</URL>
+		<Image>=COUNTBLANK(D2:D1779)</Image>
+		<Additional_Image>=COUNTBLANK(E2:E1779)</Additional_Image>
+		<Price>=COUNTBLANK(F2:F1779)</Price>
+		<Category>=COUNTBLANK(G2:G1779)</Category>
+		<Manufacturer>=COUNTBLANK(H2:H1779)</Manufacturer>
+		<MPN>=COUNTBLANK(I2:I1779)</MPN>
+		<Weight>=COUNTBLANK(J2:J1779)</Weight>
+		<Description>=COUNTBLANK(K2:K1779)</Description>
+		<EAN>=COUNTBLANK(L2:L1779)</EAN>
+		<Quantity>=COUNTBLANK(M2:M1779)</Quantity>
+		<Shipping_Lead_Time>=COUNTBLANK(N2:N1779)</Shipping_Lead_Time>
 	</product>
 </mywebstore>
