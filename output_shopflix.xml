@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-01-14 13:05</created_at>
+	<created_at>2026-01-14 14:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -396,7 +396,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<EAN>5201171331237</EAN>
-		<Quantity>51</Quantity>
+		<Quantity>50</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -426,7 +426,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<EAN>5201171331213</EAN>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -486,7 +486,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000000439</EAN>
-		<Quantity>3288</Quantity>
+		<Quantity>3276</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -573,7 +573,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283900</EAN>
-		<Quantity>1132</Quantity>
+		<Quantity>1131</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -588,7 +588,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<EAN>5449000283870</EAN>
-		<Quantity>400</Quantity>
+		<Quantity>399</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1045,7 +1045,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<EAN>5201946911213</EAN>
-		<Quantity>782</Quantity>
+		<Quantity>773</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1060,7 +1060,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<EAN>5201946910247</EAN>
-		<Quantity>704</Quantity>
+		<Quantity>689</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1105,7 +1105,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>371</Quantity>
+		<Quantity>362</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1306,7 +1306,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>•32 mg/100 ml καφεΐνη•Βιταμίνες Β2, Β3, Β5, Β6, Β12•Δεν περιέχει συντηρητικά•Φιλική για το περιβάλλον συσκευασία</Description>
 		<EAN>5999884034469</EAN>
-		<Quantity>16829</Quantity>
+		<Quantity>16779</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1455,7 +1455,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000051</EAN>
-		<Quantity>3120</Quantity>
+		<Quantity>3093</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1821,7 +1821,7 @@
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<EAN>5201946010022</EAN>
-		<Quantity>3164</Quantity>
+		<Quantity>3094</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1859,7 +1859,7 @@
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
 		<EAN>5201946013115</EAN>
-		<Quantity>3460</Quantity>
+		<Quantity>3374</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1901,7 +1901,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<EAN>5201005080024</EAN>
-		<Quantity>5575</Quantity>
+		<Quantity>5573</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1943,7 +1943,7 @@
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
 		<EAN>5201627019955</EAN>
-		<Quantity>1824</Quantity>
+		<Quantity>1808</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2031,7 +2031,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Είναι  ένα ανθρακούχο ποτό με με χυμό λεμονιού και αρώματα μαστίχας, λεμονιού και ginger, που περικλείει όλα τα αρώματα των χαρακτηριστικών αυτών  προϊόντων της Χίου. Με τn νέα γεύση λεμόνι και τζίντζερ, η απόλαυση γίνεται ακόμη πιο δελεαστική.  Το απολαυστικό μαστιχόνερο MastiH2O λεμόνι και τζίντζερ Στουπάκης μπορεί να σε  συνοδεύσει οποιαδήποτε στιγμή της ημέρας. Χρησιμοποιήστε την φαντασία  σας και δημιουργήστε τους ξεχωριστούς &amp; υγιεινούς συνδυασμούς που  σας αρέσουν.</Description>
 		<EAN>5200101983447</EAN>
-		<Quantity>290</Quantity>
+		<Quantity>288</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2262,7 +2262,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<EAN>5203413020183</EAN>
-		<Quantity>1543</Quantity>
+		<Quantity>1540</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2352,7 +2352,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>410</Quantity>
+		<Quantity>409</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2367,7 +2367,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100325</EAN>
-		<Quantity>97</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2459,7 +2459,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100189</EAN>
-		<Quantity>662</Quantity>
+		<Quantity>660</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2474,7 +2474,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<EAN>5201214100196</EAN>
-		<Quantity>58</Quantity>
+		<Quantity>57</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5595,7 +5595,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<EAN>5202037130063</EAN>
-		<Quantity>325</Quantity>
+		<Quantity>301</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5625,7 +5625,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα.</Description>
 		<EAN>5203413090025</EAN>
-		<Quantity>542</Quantity>
+		<Quantity>518</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5655,7 +5655,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα. Χωρίς γλυκάνισο.</Description>
 		<EAN>5203413080026</EAN>
-		<Quantity>957</Quantity>
+		<Quantity>909</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5730,7 +5730,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<EAN>5202207612016</EAN>
-		<Quantity>973</Quantity>
+		<Quantity>949</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6432,7 +6432,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>55105-01</MPN>
 		<Description>Η Serkova Βότκα είναι μια βότκα που υφίσταται τριπλή απόσταξη με αποτέλεσμα να έχουμε μια εξαιρετικά ποιοτική βότκα. Η ίδρυση της έχει γίνει το 1879 στο ιστορικό αποστακτήριο της Πολωνίας. Η βότκα Serkova δημιουργείται αποκλειστικά από δημητριακά (100% pure grain).</Description>
 		<EAN>5201902600380</EAN>
-		<Quantity>72</Quantity>
+		<Quantity>71</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8417,7 +8417,7 @@ Bitter Fig Fizz
 		<MPN>0222</MPN>
 		<Description>Οδοντόκρεμα της Colgate, η οποία βοηθά στην πρόληψη της τερηδόνας. Προστατεύει τα δόντια από τα οξέα της οδοντικής πλάκας. Ενισχύει το σμάλτο των δοντιών εσωτερικά, αυξάνοντας την αντοχή τους ενάντια στα οξέα της οδοντικής πλάκας.</Description>
 		<EAN>7891024149164</EAN>
-		<Quantity>411</Quantity>
+		<Quantity>410</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8927,7 +8927,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Weight>1.5 kg</Weight>
 		<Description>Πάνες Pufies Trusted Trends Maxi+ 4, Gingham baby Value Pack 48 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
 		<EAN>3800024027864</EAN>
-		<Quantity>469</Quantity>
+		<Quantity>467</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9762,7 +9762,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>0916</MPN>
 		<Description>Μια πολύ δυνατή αντισηπτική λύση που χρησιμοποιείται για τον καθαρισμό και την απολύμανση των χεριών και των επιφανειών. Η υψηλή περιεκτικότητα αλκοόλης την καθιστά ιδιαίτερα αποτελεσματική στον εξειδικευμένο καθαρισμό, εξουδετέρωση μικροβίων και απολύμανση. Χρησιμοποιείται συνήθως σε εργαστηριακό περιβάλλον, κλινικές, νοσοκομεία, και άλλα ιατρικά περιβάλλοντα όπου απαιτείται υψηλό επίπεδο υγιεινής και απολύμανσης. Πριν από τη χρήση, βεβαιωθείτε ότι η λοσιόν απλώνεται ομοιόμορφα και αφήνετε να στεγνώσει εντελώς.</Description>
 		<EAN>5206991134600</EAN>
-		<Quantity>74</Quantity>
+		<Quantity>68</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10037,7 +10037,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
 Ανακαλύψτε τη σύνθεση της Dettol που προσφέρει καθαριότητα και φροντίδα για την επιδερμίδα σας!</Description>
 		<EAN>8993560024529</EAN>
-		<Quantity>237</Quantity>
+		<Quantity>234</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11194,7 +11194,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1078</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467753</EAN>
-		<Quantity>371</Quantity>
+		<Quantity>369</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11208,7 +11208,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467746</EAN>
-		<Quantity>1164</Quantity>
+		<Quantity>1162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11473,7 +11473,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>RK.T2.2X330G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point διαθέτει δύο φύλλα και μικρό περφορέ. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού και στον καθημερινό σας βίο.</Description>
 		<EAN>5200100280394</EAN>
-		<Quantity>721</Quantity>
+		<Quantity>716</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11529,7 +11529,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<EAN>5200100281667</EAN>
-		<Quantity>812</Quantity>
+		<Quantity>810</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11543,7 +11543,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0343</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<EAN>5203650101409</EAN>
-		<Quantity>2136</Quantity>
+		<Quantity>2116</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11840,7 +11840,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0406</MPN>
 		<Description>Τραπεζομάντιλο λαδόκολλα σε φύλλο 130x110 cm επαγγελματικής χρήσης. Διατίθεται σε κιβώτιο 110 τεμαχίων.</Description>
 		<EAN>15202995008630</EAN>
-		<Quantity>215</Quantity>
+		<Quantity>214</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12504,7 +12504,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 Για καλύτερα αποτελέσματα ελέγχετε συχνά το επίπεδο αλατιού ώστε να είναι πάντα γεμάτο.
 Συνίσταται ειδικά για περιοχές με σκληρό νερό. </Description>
 		<EAN>8000580203329</EAN>
-		<Quantity>753</Quantity>
+		<Quantity>749</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13737,7 +13737,7 @@ Super-απορροφητική.
 		<MPN>1533002</MPN>
 		<Description>Σφουγγάρια πιάτων από την Scotch Brite, ιδανικά για οικιακή χρήση. Η συσκευασία περιλαμβάνει 2 σφουγγάρια Classic και 1 σφουγγάρι Extreme. -λειαντικά σφουγγάρια -αποτελεσματικά και ανθεκτικά -ιδανικά για την αφαίρεση υπολειμμάτων λίπους και καμένων τροφών.</Description>
 		<EAN>8000280030034</EAN>
-		<Quantity>238</Quantity>
+		<Quantity>235</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14635,7 +14635,7 @@ Super-απορροφητική.
 		<Weight>5 kg</Weight>
 		<Description>Εξαίρετο κάρβουνο από σκληρό ξύλο με μεγάλη διάρκεια. Είναι η ιδανική επιλογή για όσους εκτιμούν την παράδοση και επιθυμούν να προσθέσουν έναν παραδοσιακό χαρακτήρα στο ψήσιμό τους. Με τα παραδοσιακά ξυλοκάρβουνα, μπορείτε να δημιουργήσετε την τέλεια φλόγα και την ιδανική θερμοκρασία για να αναδείξετε τη γεύση των ψητών σας εδεσμάτων.</Description>
 		<EAN>5200116050097</EAN>
-		<Quantity>464</Quantity>
+		<Quantity>462</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16220,7 +16220,7 @@ Super-απορροφητική.
 
 Brand: Sidirela</Description>
 		<EAN>5203642131858</EAN>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16249,7 +16249,7 @@ Brand: Sidirela</Description>
 Μην χρησιμοποιείται σκληρές βούρτσες για το καθάρισμα.
 Μπορεί να μπει στο πλυντήριο των πιάτων.</Description>
 		<EAN>5203642131865</EAN>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19231,7 +19231,7 @@ laptop, βιβλία ή σημειώσεις,
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
 		<EAN>5203642134439</EAN>
-		<Quantity>233</Quantity>
+		<Quantity>232</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19860,7 +19860,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>0361</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 235ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<EAN>5202054464660</EAN>
-		<Quantity>125</Quantity>
+		<Quantity>121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23715,7 +23715,7 @@ mini markets
 Συσκευασία: 10 blister
 Κουτί: 50 blister</Description>
 		<EAN>4008496626656</EAN>
-		<Quantity>36</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29834,7 +29834,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Ξίδι της εταιρείας ΤΖΩΝ ΤΟΠ, το οποίο παράγεται από κόκκινο κρασί και είναι ιδανικό για σαλάτες, όσπρια ή χοιρινό κρέας. Το οξικό οξύ που περιέχει το ξίδι επιβραδύνει την πέψη των υδατανθράκων και αυξάνει την απορρόφηση της γλυκόζης. Η διαδικασία έχει ως αποτέλεσμα μικρότερες ποσότητες γλυκόζης στο αίμα και διατήρηση υγιών επιπέδων σακχάρου. Είναι πλούσιο σε αντιοξειδωτικά που προστατεύουν το σώμα από βλάβες του δέρματος και μολύνσεις. Επίσης ωφελεί την υγεία της καρδιάς και μειώνει τα επίπεδα χοληστερόλης, προλαμβάνει τη φλεγμονή και τη δημιουργία θρόμβων και ρυθμίζει την αρτηριακή πίεση.</Description>
 		<EAN>5202737200332</EAN>
-		<Quantity>206</Quantity>
+		<Quantity>201</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29879,7 +29879,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<EAN>5202737900218</EAN>
-		<Quantity>4</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31426,7 +31426,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<EAN>5202546009379</EAN>
-		<Quantity>1003</Quantity>
+		<Quantity>997</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31537,7 +31537,7 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<EAN>5202546009133</EAN>
-		<Quantity>257</Quantity>
+		<Quantity>256</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
