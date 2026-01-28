@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-01-28 16:05</created_at>
+	<created_at>2026-01-28 16:24</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -228,21 +228,6 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
 		<Quantity>1116</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>110118</SKU>
-		<Name>Κλιάφα Πορτοκαλάδα Χωρίς Ανθρακικό 1500ml</Name>
-		<URL>https://www.skroutz.gr/s/54110317/Kliafa-Portokali-CHoris-Anthrakiko-0133-1500ml.html</URL>
-		<Image>https://www.kmkike.gr/wp-content/uploads/2022/12/KLIAFAS-MPLE-1.5-1.jpg</Image>
-		<Price>1.21</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>0133</MPN>
-		<Weight>1.5 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, χωρίς ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<EAN>5201275001692</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2652,6 +2637,19 @@
 Ph: 3,55</Description>
 		<EAN>5200000007602</EAN>
 		<Quantity>561</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>57502</SKU>
+		<Name>Κάναβα Ρούσσος Νάμα Ερυθρό Γλυκό Σαντορίνης 375ml Αηδάνι / Μαντηλαριά / Ασύρτικο</Name>
+		<URL>https://www.skroutz.gr/s/4796040/Kanava-Roussos-Krasi-Nama-Erythro-Xiro-Santorinis-375ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/004796/4796040/xlarge_20240418150337_kanava_roussos_krasi_nama_erythro_xiro_santorinis_375ml.jpeg</Image>
+		<Price>5.88</Price>
+		<Category>Κρασιά</Category>
+		<Manufacturer>Κάναβα Ρούσσος</Manufacturer>
+		<MPN>ΚΡ-57502</MPN>
+		<Description>Υπερώριμος τρυγητός, λιάσιμο 15 ημερών και ελεγχόμενη ζύμωση. Προέρχεται από λιαστά σταφύλια των εκλεκτών ποικιλιών της Σαντορίνης Μαντηλαριά, Αηδάνι, Ασύρτικο, Αθήρι και Μαυράθηρο. Μέσα του κλείνει μια γλυκιά υπέροχη γεύση (λιαστό), ένα πλούσιο άρωμα και ένα λαμπερό βαθυκόκκινο χρώμα. Προορίζεται κυρίως για το μυστήριο της θείας κοινωνίας αλλά μπορεί να σερβιριστεί και σαν ένας φινετσάτος επιδόρπιος οίνος.</Description>
+		<EAN>5205373000021</EAN>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5103,21 +5101,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>58032</SKU>
-		<Name>Σαμπάνια Moet &amp; Chandon Ice Imperial Ημίξηρη Λευκή 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4711828/Moet-Chandon-Sampania-Ice-Imperial-Imixiri-Leyki-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004711/4711828/20151201125909_moet_chandon_ice_imperial_leykos.jpeg</Image>
-		<Price>59.78</Price>
-		<Category>Σαμπάνιες</Category>
-		<Manufacturer>MOET</Manufacturer>
-		<MPN>1164</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Η Moët Ice Impérial έχει δημιουργηθεί από τον Chef De Cave Benoît Gouez στη Γαλλία και είναι η πρώτη σαμπάνια που δημιουργήθηκε για να καταναλώνεται με πάγο. Έχει χρυσαφένιες αποχρώσεις και δυναμικά αρώματα στα οποία κυριαρχούν οι νότες από μάνγκο, γκουάβα, νεκταρινιού και ροδάκινου.</Description>
-		<EAN>3185370457030</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>58104</SKU>
 		<Name>Marco Bianco Leggenda Moscato D'Asti Λευκό Ημίγλυκο Ημιαφρώδες 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7244152/Marco-Bianco-Leggenda-Moscato-D-Asti-Leyko-750ml.html</URL>
@@ -5326,7 +5309,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 50ml</Name>
 		<URL>https://www.skroutz.gr/s/5265103/Apostolakis-Tsipouro-me-glykaniso-50ml.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%B1%CE%BA%CE%B7-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image>
-		<Price>1.27543626058</Price>
+		<Price>1.3863437615</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0898</MPN>
@@ -5341,7 +5324,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/17910830/Apostolakis-Tsipouro-Me-Glykaniso-42-100ml.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000233_1-1000x1000.jpg</Image>
-		<Price>2.16303514444</Price>
+		<Price>2.351125157</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0322</MPN>
@@ -5356,7 +5339,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5269196/Apostolakis-Tsipouro-me-glykaniso-200ml.html</URL>
 		<Image>https://www.cavakalomenidis.gr/wp-content/uploads/2023/06/Tsipouro-Apostolakis-With-Anise-200ml.jpg</Image>
-		<Price>4.067615959859999</Price>
+		<Price>4.421321695500001</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0970</MPN>
@@ -5371,7 +5354,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55498166/Apostolakis-Tsipouro-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/017419/17419159/20200504104314_apostolakis_me_glykaniso_tsipouro_700ml.jpeg</Image>
-		<Price>12.85366019783</Price>
+		<Price>13.97136978025</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>1031</MPN>
@@ -5386,7 +5369,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 50ml</Name>
 		<URL>https://www.skroutz.gr/s/5265102/Apostolakis-Tsipouro-choris-glykaniso-50ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-50.jpg</Image>
-		<Price>1.2501831838</Price>
+		<Price>1.358894765</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0345</MPN>
@@ -5401,7 +5384,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/17911194/Apostolakis-Tsipouro-CHoris-Glykaniso-42-100ml.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000219_1-1000x1000.jpg</Image>
-		<Price>2.11330840683</Price>
+		<Price>2.29707435525</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0638</MPN>
@@ -5416,7 +5399,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5269192/Apostolakis-Tsipouro-choris-glykaniso-200ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005269/5269192/20210210125058_apostolakis_tsipouro_choris_glykaniso_200ml.jpeg</Image>
-		<Price>4.07</Price>
+		<Price>4.4226772015</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0722</MPN>
@@ -5431,7 +5414,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/55498167/Apostolakis-Tsipouro-700ml.html</URL>
 		<Image>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-700.jpg</Image>
-		<Price>12.78</Price>
+		<Price>13.88936166725</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>1032</MPN>
@@ -5446,7 +5429,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤσιλιλήΤσίπουρο με Γλυκάνισο 42% 50ml</Name>
 		<URL>https://www.skroutz.gr/s/5265109/Tsililis-me-Glykaniso-Tsipouro-42-50ml.html</URL>
 		<Image>https://greekdeligoods.com/wp-content/uploads/2023/10/tsipouro-tsili-me-glykaniso-50ml-1.jpg</Image>
-		<Price>1.32839746931723</Price>
+		<Price>1.44391029273612</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0533</MPN>
@@ -5461,7 +5444,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤσιλιλήΤσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/23808123/Tsililis-me-Glykaniso-Tsipouro-42-100ml.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/4/146246.jpg</Image>
-		<Price>2.152108144352622</Price>
+		<Price>2.33924798299198</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0659</MPN>
@@ -5476,7 +5459,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤσιλιλήΤσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5269205/Tsililis-Tsipouro-Tsilili-me-glykaniso-200ml.html</URL>
 		<Image>https://phiali.gr/wp-content/uploads/2020/11/1174.jpg</Image>
-		<Price>4.522086497797347</Price>
+		<Price>4.915311410649291</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0259</MPN>
@@ -5491,7 +5474,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤσιλιλήΤσίπουρο Χωρίς Γλυκάνισο 41% 50ml</Name>
 		<URL>https://www.skroutz.gr/s/22328201/Tsililis-CHoris-glykaniso-Tsipouro-50ml.html</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/t/s/tsilili-tsipouro-50ml_hvwmq5x6sh3sqsjn.jpg</Image>
-		<Price>1.30813265461723</Price>
+		<Price>1.421883320236119</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0874</MPN>
@@ -5506,7 +5489,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤσιλιλήΤσίπουρο Χωρίς Γλυκάνισο 41% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/23808154/Tsililis-CHoris-Glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/1/114118.jpg</Image>
-		<Price>2.131843329652622</Price>
+		<Price>2.31722101049198</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0302</MPN>
@@ -5521,7 +5504,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>ΤσιλιλήΤσίπουρο Χωρίς Γλυκάνισο 41% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5269201/Tsililis-CHoris-Glykaniso-Tsipouro-200ml.html</URL>
 		<Image>https://www.cavamoutafi.gr/wp-content/uploads/products/tsipouro/tsipouro-tsilili-xoris-glykaniso.jpg</Image>
-		<Price>4.444144902797347</Price>
+		<Price>4.83059228564929</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0189</MPN>
@@ -5536,7 +5519,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Τσιλιλή Αγιονέρι Παλαιωμένο Τσίπουρο χωρίς Γλυκάνισο 40% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/13336430/Tsililis-Agioneri-Palaiomeno-Tsipouro-200ml.html</URL>
 		<Image>https://cavagreco.gr/image/cache/catalog/products/spirits/tsipouro/palaiomeno/Agioneri%20Tsipouro%20200ml-1080x1080.jpg</Image>
-		<Price>5.651004628253917</Price>
+		<Price>6.142396335058605</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0039</MPN>
@@ -5547,33 +5530,11 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>52271</SKU>
-		<Name>Τσιλιλή Dark Cave Τσίπουρο χωρίς Γλυκάνισο 5 Ετών 41% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5352687/Tsililis-Tsipouro-choris-Glykaniso-Dark-Cave-5-Eton-41-700ml.html#reviews</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/005352/5352687/xlarge_20211026171114_tsililis_dark_cave_palaiomeno_700ml.jpeg</Image>
-		<Price>47.97850763415001</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>1779</MPN>
-		<Description>Το παλαιωμένο τσίπουρο Dark Cave από την αποσταγματοποιία Τσιλιλή παράγεται από φρέσκα ζυμωμένα στέμφυλα σταφυλιών υψηλής ποιότητας της Θεσσαλίας.
-
-Αποστάζεται σε μικρούς ασυνεχείς χάλκινους άμβυκες μέσω μιας αργής, υπομονετικής διαδικασίας για να διατηρηθούν και αναδειχθούν τα φρέσκα και γλυκά αρώματα.
-
-Η διαδικασία της ωρίμανσης γίνεται σε προσεκτικά επιλεγμένα γαλλικά και αμερικανικά δρύινα βαρέλια, όπου προηγουμένως έχουν φιλοξενηθεί ερυθροί οίνοι καθώς και Vinsanto, για τουλάχιστον πέντε χρόνια.
-
-Το αποτέλεσμα είναι ένα απόσταγμα με εύρος από μελωμένα ποικιλιακά αρώματα, όπως αποξηραμένα δαμάσκηνα, σταφίδες, φλούδες περγαμόντου, πικάντικα αρώματα όπως βανίλια, σοκολάτα και μοσχοκάρυδο, σε συνδυασμό με ένα ρωμαλέο αλλά μαλακό σώμα, απαλό τελείωμα και φινετσάτη αρωματική επίγευση.
-
-Για να απολαύσετε το δυναμικό, πολύπλοκο χαρακτήρα του καταναλώστε το μόνο του.</Description>
-		<EAN>5202548107233</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>52302</SKU>
 		<Name>Α.Ο.Σ. Τυρνάβου Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/20022697/Tyrnavou-Me-Glykaniso-Tsipouro-42-100ml.html</URL>
 		<Image>https://www.cavarokos.gr/image/cache/catalog/product/4120-1200x1200.jpg</Image>
-		<Price>2.15</Price>
+		<Price>2.33512264958664</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0125</MPN>
@@ -5588,7 +5549,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Α.Ο.Σ. Τυρνάβου Τσίπουρο χωρίς Γλυκάνισο 40% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/20022660/Tyrnavou-CHoris-glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/020022/20022660/20210210124802_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image>
-		<Price>2.08</Price>
+		<Price>2.26581324211608</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0232</MPN>
@@ -5603,7 +5564,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Με Γλυκάνισο 42% 50ml</Name>
 		<URL>https://www.skroutz.gr/s/55764445/Tsipouro-THessaliko-50ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.192461575220164</Price>
+		<Price>1.296153886108874</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0896</MPN>
@@ -5618,7 +5579,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Με Γλυκάνισο 42% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/55764393/Tsipouro-THessaliko-100ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>2.048911023491824</Price>
+		<Price>2.227077199447634</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0454</MPN>
@@ -5633,7 +5594,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Χωρίς Γλυκάνισο 40% 50ml</Name>
 		<URL>https://www.skroutz.gr/s/24672677/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-THessaliko-CHoris-Glykaniso-Tsipouro-50ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>1.179990920020164</Price>
+		<Price>1.282598826108874</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0747</MPN>
@@ -5648,7 +5609,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/24672659/Agrotikos-Oinopoiitikos-Synetairismos-Neas-Agchialou-I-Dimitra-THessaliko-CHoris-Glykaniso-Tsipouro-100ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image>
-		<Price>2.008381394091824</Price>
+		<Price>2.183023254447634</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0692</MPN>
@@ -8358,27 +8319,6 @@ Bitter Fig Fizz
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55823</SKU>
-		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Μάνγκο 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/22751141/Monin-Poures-gia-Kokteil-me-Geysi-Mango-1000ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/022751/22751141/xlarge_20200410130340_monin_poures_mango_1000ml.jpeg</Image>
-		<Price>17.7900428475</Price>
-		<Category>Υλικά Κοκτέιλ</Category>
-		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1213002</MPN>
-		<Description>Ο πουρές της εταιρείας Monin, αντικαθιστά τα φρέσκα φρούτα και ενσωματώνει τη γεύση τους στα κοκτέιλ μας. Έχει παχύρρευστη υφή και δίνει μια βελούδινη αίσθηση στο κοκτέιλ. Το μάνγκο είναι ένα από τα πιό συνήθη φρούτα που βρίσκουμε στα τροπικά μέρη. Τα μάνγκο είναι εξίσου νόστιμα σκέτα ή σε φρουτοσαλάτες. Η πορτοκαλοκίτρινη σάρκα τους είναι γλυκιά, ζουμερή και ιδιαίτερα αρωματική. Το Monin Mango Purée αποδίδει τη μοναδική γεύση του φρούτου και είναι ιδανικό για πολλά ροφήματα.
-
-Παρασκευάζεται από συμπυκνωμένο πολτό από μάνγκο και στη συνέχεια προστίθεται η ζάχαρη και το οξύ για να δημιουργήσουν ένα ισορροπημένο προφίλ οξύτητας και γλυκύτητας. Είναι ιδανικός για παρασκευή cocktail, smoothie, γρανίτας, topping, και προϊόντα ζαχαροπλαστικής και μαγειρικής. Δεν απαιτείται ψύξη. Φυλάσσεται σε θερμοκρασία δωματίου, μακριά από θερμότητα και άμεσο ηλιακό φως.
-
-
-
-Σερβίρεται
-Σε ποτήρι tumbler με πάγο. Χρησιμοποιείται σε cocktails, mocktails, ροφήματα, καφές, ζαχαροπλαστική, μαγειρική.</Description>
-		<EAN>3052910033149</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55824</SKU>
 		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Φρούτα του Πάθους 1000ml</Name>
 		<URL>https://www.skroutz.gr/s/22751112/Monin-Poures-gia-Kokteil-me-Geysi-Frouta-tou-Pathous-1000ml.html</URL>
@@ -8397,7 +8337,7 @@ Bitter Fig Fizz
 		<Name>Colgate Triple Action Οδοντόκρεμα κατα της Τερηδόνας 100ml</Name>
 		<URL>https://www.skroutz.gr/s/7427081/Colgate-Triple-Action-Odontokrema-kata-tis-Teridonas-100ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/007427/7427081/20230913100941_colgate_triple_action_odontokrema_kata_tis_teridonas_100ml.jpeg</Image>
-		<Price>1.197585374826389</Price>
+		<Price>1.205050336284722</Price>
 		<Category>Οδοντόκρεμες</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0241</MPN>
@@ -8411,7 +8351,7 @@ Bitter Fig Fizz
 		<Name>Colgate Cavity Protection Οδοντόκρεμα κατα της Τερηδόνας Fresh Mint 100ml</Name>
 		<URL>https://www.skroutz.gr/s/7426414/Colgate-Cavity-Protection-Odontokrema-kata-tis-Teridonas-Fresh-Mint-100ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/007426/7426414/20230913112953_colgate_cavity_protection_odontokrema_kata_tis_teridonas_fresh_mint_100ml.jpeg</Image>
-		<Price>1.260725802826389</Price>
+		<Price>1.268584340284722</Price>
 		<Category>Οδοντόκρεμες</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0222</MPN>
@@ -8425,7 +8365,7 @@ Bitter Fig Fizz
 		<Name>Colgate Herbal Original 100ml</Name>
 		<URL>https://www.skroutz.gr/s/25937476/Colgate-Herbal-Original-100ml.html?product_id=215299632</URL>
 		<Image>https://www.beautyplace.gr/wp-content/uploads/2023/11/Colgate_Herbal_Toothpaste_100ml.jpg</Image>
-		<Price>1.197585374826389</Price>
+		<Price>1.205050336284722</Price>
 		<Category>Οδοντόκρεμες</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0433</MPN>
@@ -8439,7 +8379,7 @@ Bitter Fig Fizz
 		<Name>Colgate Whitening 100ml</Name>
 		<URL>https://www.skroutz.gr/s/7661210/Colgate-Whitening-100ml.html?product_id=215299638</URL>
 		<Image>https://www.xartikaxatzi.gr/image/cache/data/products/179-thickbox_default-Colgate-Whitening-100ml-Pk12-1100x1100.jpg</Image>
-		<Price>1.418576872826389</Price>
+		<Price>1.427419350284722</Price>
 		<Category>Οδοντόκρεμες</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0806</MPN>
@@ -8453,7 +8393,7 @@ Bitter Fig Fizz
 		<Name>Colgate Οδοντόκρεμα 50ml με Γεύση Bubble Fruit για 2+ χρονών</Name>
 		<URL>https://www.skroutz.gr/s/7857038/Colgate-Odontokrema-50ml-me-Geysi-Bubble-Fruit-gia-2-chronon.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/051215/51215305/xlarge_20211021092232_2834ea4c.jpeg</Image>
-		<Price>0.95</Price>
+		<Price>0.9509143202847221</Price>
 		<Category>Οδοντόκρεμες</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>6009-01</MPN>
@@ -8472,7 +8412,7 @@ Bitter Fig Fizz
 		<Name>Colgate Extra Clean Οδοντόβουρτσα Medium Λευκή-Ροζ</Name>
 		<URL>https://www.skroutz.gr/s/55475804/Colgate-Extra-Clean-Odontovourtsa-Medium-Leyki-mple-0848.html?product_id=215299636</URL>
 		<Image>https://www.colgate.com/content/dam/cp-sites/oral-care/oral-care-center/en-ph/product-detail-pages/toothbrush/colgate-extra-clean.jpg</Image>
-		<Price>0.7212916948611111</Price>
+		<Price>0.7257877540277777</Price>
 		<Category>Οδοντόβουρτσες Απλές</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0848</MPN>
@@ -8486,7 +8426,7 @@ Bitter Fig Fizz
 		<Name>Colgate Zig-zag Οδοντόβουρτσα Medium Πράσινη-Λευκή</Name>
 		<URL>https://www.skroutz.gr/s/55567339/Colgate-Zig-zag-Odontovourtsa-Medium-Galazia-leyki-0622.html?product_id=215299637</URL>
 		<Image>https://tynechem.com/wp-content/uploads/2022/12/COL025.jpg</Image>
-		<Price>0.7844321228611111</Price>
+		<Price>0.7893217580277776</Price>
 		<Category>Οδοντόβουρτσες Απλές</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0622</MPN>
@@ -8500,7 +8440,7 @@ Bitter Fig Fizz
 		<Name>Colgate Double Action Οδοντόβουρτσα Medium Μπλε-Λευκή</Name>
 		<URL>https://www.skroutz.gr/s/26904224/Colgate-Double-Action-Mple-Leyko-Medium.html?product_id=215299634</URL>
 		<Image>https://littlemarket.gr/wp-content/uploads/2020/11/6001067007289-825x1000-1.jpg</Image>
-		<Price>0.7212916948611111</Price>
+		<Price>0.7257877540277777</Price>
 		<Category>Οδοντόβουρτσες Απλές</Category>
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0681</MPN>
@@ -8531,7 +8471,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<URL>https://www.skroutz.gr/s/48929253/Viosarp-Odontiko-Nima-me-Lavi-50tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/086735/86735378/xlarge_20231222102055_09e903ee.jpeg</Image>
 		<Additional_Image>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753042013_3.jpg?itok=xkewa6Io</Additional_Image>
-		<Price>1.13</Price>
+		<Price>1.14</Price>
 		<Category>Οδοντικά Νήματα</Category>
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>DF50F</MPN>
@@ -8547,7 +8487,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Every Day All Cotton Normal Σερβιετάκια 20τμχ</Name>
 		<URL>https://www.skroutz.gr/s/7652544/Every-Day-All-Cotton-Normal-Servietakia-20tmch.html?product_id=215518746</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/007652/7652544/20230407130653_every_day_all_cotton_normal_servietakia_20tmch.jpeg</Image>
-		<Price>1.151192263280864</Price>
+		<Price>1.158368040521605</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1036</MPN>
@@ -8561,7 +8501,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Every Day Extra Dry Normal με Εκχύλισμα Χαμομηλιού Σερβιετάκια 20τμχ</Name>
 		<URL>https://www.skroutz.gr/s/14532334/Every-Day-Extra-Dry-Normal-me-Ekchylisma-CHamomiliou-Servietakia-20tmch.html?product_id=215518743</URL>
 		<Image>https://static.ab.gr/medias/sys_master/he7/h04/9493455208478.jpg</Image>
-		<Price>1.151192263280864</Price>
+		<Price>1.158368040521605</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1037</MPN>
@@ -8575,7 +8515,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Every Day Hyperdry Normal Ultra Plus Σερβιέτες με Φτερά για Κανονική Ροή 5 Σταγόνες 9τμχ</Name>
 		<URL>https://www.skroutz.gr/s/8327082/Every-Day-Hyperdry-Normal-Ultra-Plus-Servietes-me-Ftera-gia-Kanoniki-Roi-5-Stagones-10tmch.html?product_id=215518742</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/007651/7651871/20211021150026_every_day_sensitive_normal_ultra_plus_10tmch.jpeg</Image>
-		<Price>1.516354546430041</Price>
+		<Price>1.525806505751029</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1038</MPN>
@@ -8589,7 +8529,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Every Day Hyperdry Normal Ultra Plus Σερβιέτες με Φτερά για Κανονική Ροή 5 Σταγόνες σε Διπλή Συσκευασία 2x9τμχ</Name>
 		<URL>https://www.skroutz.gr/s/29656374/Every-Day-Hyperdry-Normal-Ultra-Plus-Servietes-me-Ftera-gia-Kanoniki-Roi-5-Stagones-se-Dipli-Syskeyasia-2x9tmch.html?product_id=215299635</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/040166/40166037/20230111102508_every_day_sensitive_ultra_plus_normal_servietes_me_ftera_gia_kanoniki_roi_5_stagones_18tmch.jpeg</Image>
-		<Price>2.23301436162037</Price>
+		<Price>2.246933508009259</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1010</MPN>
@@ -8603,7 +8543,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Every Day Hyperdry Super Ultra Plus Σερβιέτες με Φτερά για Αυξημένη Ροή 6 Σταγόνες 18τμχ</Name>
 		<URL>https://www.skroutz.gr/s/10174484/Every-Day-Hyperdry-Super-Ultra-Plus-Servietes-me-Ftera-gia-Ayximeni-Roi-6-Stagones-18tmch.html?product_id=215299643</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/009901/9901074/20200320090244_every_day_sensitive_ultra_plus_super_18tmch.jpeg</Image>
-		<Price>2.23301436162037</Price>
+		<Price>2.246933508009259</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1011</MPN>
@@ -8617,7 +8557,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Every Day Hyperdry Maxi Night Ultra Plus Σερβιέτες με Φτερά Νυκτός για Αυξημένη Ροή 7 Σταγόνες σε Διπλή Συσκευασία 2x9τμχ</Name>
 		<URL>https://www.skroutz.gr/s/12458681/Every-Day-Hyperdry-Maxi-Night-Ultra-Plus-Servietes-me-Ftera-Nyktos-gia-Ayximeni-Roi-7-Stagones-se-Dipli-Syskeyasia-2x9tmch.html?product_id=215299651</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/009901/9901105/20200320090243_every_day_sensitive_ultra_plus_maxi_night_18tmch.jpeg</Image>
-		<Price>2.23301436162037</Price>
+		<Price>2.246933508009259</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1012</MPN>
@@ -8631,7 +8571,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Always Ultra Normal Σερβιέτες με Φτερά Μέγεθος 1 10τμχ</Name>
 		<URL>https://www.skroutz.gr/s/9100909/Always-Ultra-Normal-Servietes-me-Ftera-Megethos-1-10tmch.html?product_id=215518762</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/022812/22812021/20210407135022_always_ultra_normal_plus_10tmch.jpeg</Image>
-		<Price>1.5391165634</Price>
+		<Price>1.5487104062</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>ALWAYS</Manufacturer>
 		<MPN>1039</MPN>
@@ -8645,7 +8585,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Always Ultra Long Σερβιέτες με Φτερά Μέγεθος 2 8τμχ</Name>
 		<URL>https://www.skroutz.gr/s/8231119/Always-Ultra-Long-Servietes-me-Ftera-Megethos-2-8tmch.html?product_id=215518744</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/008231/8231119/20200320090603_always_ultra_long_8tmch.jpeg</Image>
-		<Price>1.539752034696297</Price>
+		<Price>1.549349838607408</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>ALWAYS</Manufacturer>
 		<MPN>1040</MPN>
@@ -8659,7 +8599,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>Always Ultra Day &amp; Night Σερβιέτες με Φτερά Νυκτός για Αυξημένη Ροή 6 Σταγόνες Μέγεθος 3 7τμχ</Name>
 		<URL>https://www.skroutz.gr/s/29658249/Always-Ultra-Night-Servietes-me-Ftera-Nyktos-gia-Ayximeni-Roi-6-Stagones-Megethos-3-7tmch.html?product_id=215518753</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/029658/29658249/20210624110431_always_ultra_night_up_to_100_leakage_protection_with_wings_7tmch.jpeg</Image>
-		<Price>1.5411754904</Price>
+		<Price>1.5507821672</Price>
 		<Category>Σερβιέτες</Category>
 		<Manufacturer>ALWAYS</Manufacturer>
 		<MPN>1041</MPN>
@@ -8673,7 +8613,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Name>O.B. Ταμπόν ProComfort Curved Grooves για Κανονική Ροή 16τμχ</Name>
 		<URL>https://www.skroutz.gr/s/7653646/O-B-Tampon-ProComfort-Curved-Grooves-gia-Kanoniki-Roi-16tmch.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/007653/7653646/20220414142450_o_b_procomfort_curved_grooves_silktouch_cover_gia_kanoniki_roi_16tmch.jpeg</Image>
-		<Price>2.462411329238096</Price>
+		<Price>2.477760385809524</Price>
 		<Category>Ταμπόν</Category>
 		<Manufacturer>O.B.</Manufacturer>
 		<MPN>1244</MPN>
@@ -8989,7 +8929,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Gillette Blue II Ξυραφάκια μιας Χρήσης με 2 Λεπίδες 5τμχ</Name>
 		<URL>https://www.skroutz.gr/s/18150006/Gillette-Blue-II-Xyrafakia-mias-CHrisis-me-2-Lepides-5tmch.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/7702018474738_1-1000x1000.jpg</Image>
-		<Price>1.711380939434524</Price>
+		<Price>1.722048565327381</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0282</MPN>
@@ -9003,7 +8943,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Gillette Blue2 Slalom Ξυραφάκια μιας Χρήσης με 2 Λεπίδες 5τμχ</Name>
 		<URL>https://www.skroutz.gr/s/8144491/Gillette-Blue2-Slalom-Xyrafakia-mias-CHrisis-me-2-Lepides-5tmch.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/7702018474769_1-1000x1000.jpg</Image>
-		<Price>2.030259301145833</Price>
+		<Price>2.042914605520833</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0813</MPN>
@@ -9017,7 +8957,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Gillette Blue II Slalom Plus Ξυραφάκια μιας Χρήσης με 2 Λεπίδες και Λιπαντική Ταινία 5τμχ</Name>
 		<URL>https://www.skroutz.gr/s/32345694/Gillette-Blue-II-Slalom-Plus-Xyrafakia-mias-CHrisis-me-2-Lepides-kai-Lipantiki-Tainia-5tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/032345/32345694/20220225115648_gillette_blue_ii_slalom_plus_xyrafakia_mias_chrisis_5tmch.jpeg</Image>
-		<Price>2.5390001455</Price>
+		<Price>2.5548266065</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0979</MPN>
@@ -9031,7 +8971,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Gillette Simply Venus Ξυραφάκια Σώματος μιας Χρήσης με 2 Λεπίδες &amp; Λιπαντική Ταινία 4τμχ</Name>
 		<URL>https://www.skroutz.gr/s/14530240/Gillette-Simply-Venus-Xyrafakia-Somatos-mias-CHrisis-me-2-Lepides-Lipantiki-Tainia-4tmch.html</URL>
 		<Image>https://m.media-amazon.com/images/I/817yBBPFj9L.jpg</Image>
-		<Price>2.045919810380953</Price>
+		<Price>2.058672732095238</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0374</MPN>
@@ -9045,7 +8985,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Gillette Mach 3 Ανταλλακτικές Λεπίδες 4τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55613094/Gillette-Mach-3-Antallaktikes-Lepides-4tmch.html</URL>
 		<Image>https://m.media-amazon.com/images/I/61XIni+zpQL.jpg</Image>
-		<Price>9.270649612083288</Price>
+		<Price>9.328436759039676</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0339</MPN>
@@ -9059,7 +8999,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Gillette Fusion5 Manual Ανταλλακτικές Κεφαλές με 5 Λεπίδες &amp; Λιπαντική Ταινία 4τμχ</Name>
 		<URL>https://www.skroutz.gr/s/52159985/Gillette-Fusion5-Manual-Antallaktikes-Kefales-me-5-Lepides-Lipantiki-Tainia-4tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/052159/52159985/20240410140019_gillette_fusion5_manual_antallaktikes_kefales_me_5_lepides_lipantiki_tainia_4tmch.jpeg</Image>
-		<Price>11.943149218</Price>
+		<Price>12.017594974</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>1535</MPN>
@@ -9073,7 +9013,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Gillette Fusion 5 Ανταλλακτικές Κεφαλές με 5 Λεπίδες &amp; Λιπαντική Ταινία 8τμχ </Name>
 		<URL>https://www.skroutz.gr/s/46916422/Gillette-Fusion-5-Antallaktikes-Kefales-me-5-Lepides-Lipantiki-Tainia-8tmch-8700216331579.html#reviews</URL>
 		<Image>https://c.scdn.gr/images/sku_images/083803/83803297/xlarge_20231020121244_f474ce0d.jpeg</Image>
-		<Price>21.89909110778278</Price>
+		<Price>22.03559567315944</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>1535001</MPN>
@@ -9093,7 +9033,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Bic Ξυραφάκια μιας Χρήσης 5τμχ</Name>
 		<URL>https://www.skroutz.gr/s/7180369/Bic-Classic-1-Xyrafakia-mias-CHrisis-me-1-Lepida-5tmch.html</URL>
 		<Image>https://ionionmarket.gr/wp-content/uploads/2022/05/5201313008652.jpg</Image>
-		<Price>0.9</Price>
+		<Price>0.9036330895000002</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>BIC</Manufacturer>
 		<MPN>0629</MPN>
@@ -9107,27 +9047,13 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Name>Bic Metal Ξυραφάκια μιας Χρήσης με 1 Λεπίδα 5τμχ</Name>
 		<URL>https://www.skroutz.gr/s/7430475/Bic-Metal-Xyrafakia-mias-CHrisis-me-1-Lepida-5tmch.html</URL>
 		<Image>https://www.cleanbox.gr/Cache/Photos/181eb2809e210f3d91433742eae61d87.png</Image>
-		<Price>1.24</Price>
+		<Price>1.242925059619048</Price>
 		<Category>Ξυραφάκια</Category>
 		<Manufacturer>BIC</Manufacturer>
 		<MPN>0575</MPN>
 		<Description>Ξυραφάκια υψηλής ποιότητας από ανοξείδωτο ατσάλι μονής λεπίδας με επικάλυψη πολυμερούς και χρωμίου. Στενή και σταθερή κεφαλή που φτάνει με ακρίβεια στις ευαίσθητες περιοχές τις επιδερμίδας. Περιέχει προστατευτική μπάρα από ανοξείδωτο ατσάλι και μαύρη πολυεστερική λαβή, μεγαλύτερη για καλύτερο έλεγχο στο ξύρισμα.</Description>
 		<EAN>3086125705416</EAN>
 		<Quantity>504</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>62061</SKU>
-		<Name>Bic Twin Lady Ξυραφάκια Σώματος μιας Χρήσης με 2 Λεπίδες &amp; Λιπαντική Ταινία για Ευαίσθητες Επιδερμίδες 6τμχ</Name>
-		<URL>https://www.skroutz.gr/s/16876067/Bic-Twin-Lady-Xyrafakia-Somatos-mias-CHrisis-me-2-Lepides-Lipantiki-Tainia-gia-Eyaisthites-Epidermides-6tmch.html</URL>
-		<Image>https://www.cosmeticconnection.co.za/cdn/shop/products/bic-bic-lady-disposable-razor-2-blades-6-s-33327313453206.jpg?v=1655459741</Image>
-		<Price>1.567861472016666</Price>
-		<Category>Ξυραφάκια</Category>
-		<Manufacturer>BIC</Manufacturer>
-		<MPN>0135</MPN>
-		<Description>Ξυριστική μηχανή Bic Twin Lady είναι ένα αποκλειστικό προϊόν ποιότητας για την περιποίηση του σώματος. Άριστης ποιότητας ανοξείδωτο ατσάλι 2 λεπίδων για βαθύ ξύρισμα. Φτάνει πιο εύκολα στα ευαίσθητα σημεία του σώματος. Ελαφριά και μικρή σε μήκος πολυεστερική λαβή. Καλύτερο κράτημα και έλεγχος στο ξύρισμα.</Description>
-		<EAN>3086123493056</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10790,7 +10716,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1253</MPN>
 		<Description>Το αφρόλουτρο της Dove με κρεμώδη υφή, προσφέρει θρέψη ενώ παράλληλα περιέχει καθαριστικούς παράγοντες που φροντίζουν το δέρμα.Οδηγίες Χρήσης:• Εφαρμόστε μικρή ποσότητα σε βρεγμένο δέρμα• Ξεπλύνετε καλά• Αποφύγετε την επαφή με τα μάτια• Μόνο για εξωτερική χρήση</Description>
 		<EAN>8720181047084</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>171</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10804,7 +10730,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1254</MPN>
 		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<EAN>8008970011158</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12178,7 +12104,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.
     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία. </Description>
 		<EAN>7615400818112</EAN>
-		<Quantity>103</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14305,7 +14231,7 @@ Super-απορροφητική.
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<EAN>4012425171216</EAN>
-		<Quantity>4177</Quantity>
+		<Quantity>4175</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24914,7 +24840,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Name>Esperanza Seine Βραστήρας με LED Φωτισμό 1.8lt 2200W Black/Inox EKK026</Name>
 		<URL>https://www.skroutz.gr/s/18251467/Esperanza-Vrastiras-1-7lt-2200W-Asimi-EKK026.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018251/18251467/xlarge_20190419093702_esperanza_ekk026.jpeg</Image>
-		<Price>16.69</Price>
+		<Price>18.56</Price>
 		<Category>Βραστήρες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKK026</MPN>
