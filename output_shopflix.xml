@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-02 16:05</created_at>
+	<created_at>2026-02-02 16:54</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
 		<URL>https://www.skroutz.gr/s/16559021/Alfa-Lager-Kouti-6x330ml.html</URL>
 		<Image>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201261031030_1-1000x1000.jpg</Image>
-		<Price>5.58</Price>
+		<Price>5.68</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>Άλφα</Manufacturer>
 		<MPN>0461</MPN>
@@ -36,7 +36,7 @@
 		<Name>Μηλοκλέφτης Φιάλη Μηλίτης 330ml</Name>
 		<URL>https://www.skroutz.gr/s/16115023/Milokleftis-Fiali-Militis-330ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/016115/16115023/20181012122831_milokleftis_fiali_militis_330ml.jpeg</Image>
-		<Price>1.185586935755728</Price>
+		<Price>1.31</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>ΜΗΛΟΚΛΕΦΤΗΣ</Manufacturer>
 		<MPN>1193</MPN>
@@ -80,7 +80,7 @@
 		<Name>MCFARLAND Μπύρα Irish Ale ΦΙΑΛΗ 330ml</Name>
 		<URL>https://www.skroutz.gr/s/5699169/Birra-Dreher-McFarland-Fiali-Irish-Ale-330ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/005699/5699169/20200314135227_birra_dreher_mcfarland_fiali_330ml.jpeg</Image>
-		<Price>2.41294270991868</Price>
+		<Price>2.53</Price>
 		<Category>Μπύρες</Category>
 		<Manufacturer>MCFARLAND</Manufacturer>
 		<MPN>1195</MPN>
@@ -227,7 +227,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275001678</EAN>
-		<Quantity>384</Quantity>
+		<Quantity>378</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -242,7 +242,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<EAN>5201275001708</EAN>
-		<Quantity>126</Quantity>
+		<Quantity>120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2127,7 +2127,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<EAN>15202548505012</EAN>
-		<Quantity>209</Quantity>
+		<Quantity>197</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2337,7 +2337,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<EAN>5201214100318</EAN>
-		<Quantity>316</Quantity>
+		<Quantity>314</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2497,7 +2497,7 @@
 		<Name>Βασδαβάνου Φιλικός Λευκό Ξηρό σε Ασκό 10 lit  Ροδίτης</Name>
 		<URL>https://www.vasdavanos.gr/filikos/</URL>
 		<Image>https://www.vasdavanos.gr/wp-content/uploads/2022/07/filikos1-scaled-800x600.jpg</Image>
-		<Price>21.05</Price>
+		<Price>21.9622470885</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
 		<MPN>79301</MPN>
@@ -2511,7 +2511,7 @@
 		<Name>Βασδαβάνου Φιλικός Λευκό Ξηρό σε Ασκό 10 lit Μοσχάτο Μαύρο Τυρνάβου</Name>
 		<URL>https://www.vasdavanos.gr/filikos/</URL>
 		<Image>https://www.vasdavanos.gr/wp-content/uploads/2022/07/filikos1-scaled-800x600.jpg</Image>
-		<Price>22.25</Price>
+		<Price>23.2055304756588</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
 		<MPN>0793</MPN>
@@ -2526,7 +2526,7 @@
 		<Name>Βασδαβάνου Φιλικός Ροζέ Ξηρό σε Ασκό 10 lit Μοσχάτο Μαύρο Τυρνάβου</Name>
 		<URL>https://www.vasdavanos.gr/filikos/</URL>
 		<Image>https://www.vasdavanos.gr/wp-content/uploads/2022/07/filikos1-scaled-800x600.jpg</Image>
-		<Price>22.25</Price>
+		<Price>23.2055304756588</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
 		<MPN>0549</MPN>
@@ -2722,7 +2722,7 @@ Ph: 3,55</Description>
 		<Name>Βασδαβανου Ερωτικο Λευκο Ξηρο 750ml Ροδίτης</Name>
 		<URL>https://www.skroutz.gr/s/56287309/Vasdavanou-Erotiko-Leyko-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/056287/56287309/20240917133208_vasdavanou_erotiko_leyko_750ml.jpeg</Image>
-		<Price>2.366713476</Price>
+		<Price>2.49</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
 		<MPN>1665</MPN>
@@ -2736,7 +2736,7 @@ Ph: 3,55</Description>
 		<Name>Βασδαβανου Ερωτικο Ροζε Ξηρο 750ml Μοσχάτο Μαύρο Τυρνάβου</Name>
 		<URL>https://www.ekava.gr/product/%CE%B2%CE%B1%CF%83%CE%B4%CE%B1%CE%B2%CE%B1%CE%BD%CE%BF%CF%85-%CE%B5%CF%81%CF%89%CF%84%CE%B9%CE%BA%CE%BF-%CF%81%CE%BF%CE%B6%CE%B5-750ml/</URL>
 		<Image>https://grigoriouonline.gr/wp-content/uploads/2023/12/CCCPRODUCTIMAGES-3301-scaled-800x449.jpg</Image>
-		<Price>2.6033848236</Price>
+		<Price>2.74</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
 		<MPN>1666</MPN>
@@ -5026,7 +5026,6 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
     Χρώμα: Καφέ
 </Description>
 		<EAN>prom-keskor-002</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5121,7 +5120,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Martini Prosecco Λευκό Ξηρό Αφρώδες 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4809453/Martini-Krasi-Prosecco-Leyko-Xiro-D-Asti-Afrodes-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809453/20200314140937_martini_spumante_prosecco_leyko_750ml.jpeg</Image>
-		<Price>8.73</Price>
+		<Price>9.01</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>MARTINI</Manufacturer>
 		<MPN>1166</MPN>
@@ -6637,7 +6636,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Patron Silver Tequila 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5691292/Patron-Silver-Tequila-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005691/5691292/xlarge_20200406143851_patron_silver_tekila_700ml.jpeg</Image>
-		<Price>51.31769676435781</Price>
+		<Price>52.35255605790001</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Patron</Manufacturer>
 		<MPN>55209-03</MPN>
@@ -6651,7 +6650,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Patron Reposado Tequila 12 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5691290/Patron-Reposado-Tequila-12-Eton-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005691/5691290/xlarge_20200525130929_patron_reposado_tekila_700ml.jpeg</Image>
-		<Price>57.98960397468001</Price>
+		<Price>59.180036454</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Patron</Manufacturer>
 		<MPN>55209-04</MPN>
@@ -6677,7 +6676,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>PatronAnejo Tequila 12 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5691289/Patron-Anejo-Tequila-12-Eton-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005691/5691289/xlarge_20200316164023_patron_anejo_tekila_700ml.jpeg</Image>
-		<Price>62.36420991804781</Price>
+		<Price>63.67333551810001</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Patron</Manufacturer>
 		<MPN>55209-05</MPN>
@@ -6691,7 +6690,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Name>Cazadores Blanco Tequila 12 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5692265/Cazadores-Blanco-Tequila-12-Eton-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005692/5692265/xlarge_20210210144025_cazadores_blanco_tekila_700ml.jpeg</Image>
-		<Price>27.4658733630036</Price>
+		<Price>27.72495041148</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Cazadores</Manufacturer>
 		<MPN>55209-06</MPN>
@@ -6828,7 +6827,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<MPN>1516</MPN>
 		<Description>Αυτή η ειδική έκδοση τζιν από το Bombay Sapphire είναι εμπνευσμένη από την ήπια ζέστη και την πορτοκαλί λάμψη του ήλιου όταν δύει, καθώς η μέρα γίνεται νύχτα. Ένα αρωματικό τζιν, με πικάντικες σημειώσεις και νότες εσπεριδοειδών – μια μοναδική έκφραση της κλασικής συνταγής Bombay Sapphire που δημιουργήθηκε στο αποστακτήριο Laverstoke Mill.</Description>
 		<EAN>7640175743284</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6843,7 +6842,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>0.8 kg</Weight>
 		<Description>Χειροποίητο τζιν μικρής παραγωγής, φόρος τιμής στα παγκοσμίου φήμης εσπεριδοειδή της Μούρθια, είναι αρωματισμένο με λεμόνια Murcian Fino βιώσιμης καλλιέργειας, μανταρίνια και γλυκά πορτοκάλια, που διαλέγονται όψιμα, αποφλοιώνονται με το χέρι και στη συνέχεια αφήνονται να στεγνώσουν φυσικά κάτω από τον ήλιο της Μεσογείου για να προσφέρουν τα πιο ποιοτικά αρωματικά έλαιά τους.</Description>
 		<EAN>7640175743642</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7025,7 +7024,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Name>Bacardi Carta Negra Dark Rum 4 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/21235922/Bacardi-Carta-Negra-Dark-Rum-4-Eton-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/021235/21235922/xlarge_20191205085652_bacardi_carta_negra_roumi_700ml.jpeg</Image>
-		<Price>21.17927971278</Price>
+		<Price>21.4</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Bacardi</Manufacturer>
 		<MPN>55400-13</MPN>
@@ -7660,7 +7659,6 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<MPN>55700-022</MPN>
 		<Description>Το Μetaxa 5*, δημιουργείται από αποστάγματα παλαιότερα των 5 ετών, και έχει βραβευθεί με πολλά μετάλλια και διακρίσεις διεθνώς. Χρώμα βαθύ μελί, άρωμα ελαφρώς καπνισμένο και ισορροπημένο με νότες μελιού, φρούτων, ελαφριάς δρυός, ανθέων τριαντάφυλλου με γεύση βελούδινη, απαλή και φρουτώδης, με μια ελαφριά επίγευση ξύλου.</Description>
 		<EAN>5202795120016</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8242,7 +8240,7 @@ Bitter Fig Fizz
 		<Weight>0.8 kg</Weight>
 		<Description>Το Volare Βανίλια Λικέρ 700ml είναι ένα λικέρ με πλούσια και κρεμώδη γεύση βανίλιας, ιδανικό για να προσθέσει γλυκιά και αρωματική νότα σε κοκτέιλ ή να καταναλωθεί σκέτο με πάγο. Χάρη στην ισορροπημένη γεύση του, αποτελεί εξαιρετική επιλογή για δημιουργικές μίξεις ποτών και επιδόρπιων.</Description>
 		<EAN>8004747007621</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8892,7 +8890,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Weight>1.6 kg</Weight>
 		<Description>Πάνες Pufies Trusted Trends Maxi 4, Banana leaves baby Value Pack 52 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
 		<EAN>3800024027857</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>216</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9240,7 +9238,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1055</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Διακριτικό Άρωμα•48 Ώρες Προστασία•Δερματολογικά Ελεγμένο•Σύνθεση Χωρίς Αιθυλική ΑλκοόληΑποσμητικό σώματος πρωτοποριακής σύνθεσης με πολύτιμα εκχυλίσματα μαργαριταριού για ομοιόμορφο χρωματικό τόνο και απαλή επιδερμίδα, αποτελεσματικό στην προστασία από τον ιδρώτα και την κακοσμία.</Description>
 		<EAN>4005900389015</EAN>
-		<Quantity>168</Quantity>
+		<Quantity>167</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9938,7 +9936,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>1014</MPN>
 		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.</Description>
 		<EAN>5201109655022</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>388</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12374,7 +12372,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0628</MPN>
 		<Description>Το Tuboflo ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις μόνο με την προσθήκη κρύου νερού.</Description>
 		<EAN>55201314051652</EAN>
-		<Quantity>2462</Quantity>
+		<Quantity>2466</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12388,7 +12386,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
 		<EAN>55201314051676</EAN>
-		<Quantity>5096</Quantity>
+		<Quantity>5100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13020,7 +13018,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 Έρχεται σε τεμάχιο, προσφέροντας όλα όσα χρειάζεται για μια ολοκληρωμένη εμπειρία καθαρισμού.
 Με την σφουγγαρίστρα αυτή, το σκούπισμα και το σφουγγάρισμα γίνονται πιο ευχάριστα και αποτελεσματικά, κάνοντάς την τον κατάλληλο σύμμαχο για το σπίτι σας.</Description>
 		<EAN>5203642124911</EAN>
-		<Quantity>329</Quantity>
+		<Quantity>327</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13352,7 +13350,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Η δεξαμενή πάνω στο κοντάρι, εξασφαλίζει γρήγορη και αποτελεσματική καθαριότητα χωρίς την χρήση κουβά. Μπορείτε να προσθέσετε στην δεξαμενή το απορρυπαντικό της επιλογής σας χρησιμοποιώντας τον ειδικό δοσομετρητή
     Πανί 100% μικροϊνών που προσφέρουν απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)</Description>
 		<EAN>4023103222755</EAN>
-		<Quantity>205</Quantity>
+		<Quantity>204</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13403,7 +13401,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
     Κόβεται στις Επιθυμητές Διαστάσεις
     Μήκος: 1.5m</Description>
 		<EAN>5201815153706</EAN>
-		<Quantity>178</Quantity>
+		<Quantity>176</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13970,7 +13968,7 @@ Super-απορροφητική.
 
 Κρατήστε το μακριά από παιδιά και κατοικίδια.</Description>
 		<EAN>5200138990067</EAN>
-		<Quantity>159</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14147,7 +14145,7 @@ Super-απορροφητική.
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<EAN>4012425171216</EAN>
-		<Quantity>3949</Quantity>
+		<Quantity>3969</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14624,7 +14622,7 @@ Super-απορροφητική.
 		<MPN>0331</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 24x17cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<EAN>5200369500110</EAN>
-		<Quantity>552</Quantity>
+		<Quantity>553</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14638,7 +14636,7 @@ Super-απορροφητική.
 		<MPN>0530</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 28x33cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<EAN>5200369500127</EAN>
-		<Quantity>1681</Quantity>
+		<Quantity>1682</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14854,7 +14852,7 @@ Super-απορροφητική.
 		<MPN>0891</MPN>
 		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
 		<EAN>5200128640378</EAN>
-		<Quantity>45</Quantity>
+		<Quantity>42</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14972,7 +14970,7 @@ Super-απορροφητική.
 	</product>
 	<product>
 		<SKU>760200212</SKU>
-		<Name>Sidirela Κάδος Απορριμμάτων Πλαστικός με Πεντάλ 50lt Μαύρος με Πράσινο Καπάκι E-3622</Name>
+		<Name>Sidirela Κάδος Απορριμμάτων Πλαστικός με Πεντάλ 80lt Μαύρος με Πράσινο Καπάκι E-3622</Name>
 		<URL>https://www.sidirela.gr/eidi-spitiou/kalathia-kadoi-aporimmatwn/kadoi-aporrimaton-antigrafi/</URL>
 		<Image>https://www.sidirela.gr/uploads/2020/12/e-3621-kados-aporrimaton-50l-web-1-scaled.jpg</Image>
 		<Additional_Image>https://www.sidirela.gr/uploads/2020/12/e-3621-kados-aporrimaton-50l-web-99.jpg</Additional_Image>
@@ -15032,7 +15030,7 @@ Super-απορροφητική.
 	</product>
 	<product>
 		<SKU>760200213</SKU>
-		<Name>Sidirela Κάδος Απορριμμάτων Πλαστικός με Πεντάλ 50lt Μαύρος με Πράσινο Καπάκι E-3623</Name>
+		<Name>Sidirela Κάδος Απορριμμάτων Πλαστικός με Πεντάλ 100lt Μαύρος με Πράσινο Καπάκι E-3623</Name>
 		<URL>https://www.sidirela.gr/eidi-spitiou/kalathia-kadoi-aporimmatwn/kadoi-aporrimaton-antigrafi/</URL>
 		<Image>https://www.sidirela.gr/uploads/2020/12/e-3621-kados-aporrimaton-50l-web-1-scaled.jpg</Image>
 		<Additional_Image>https://www.sidirela.gr/uploads/2020/12/e-3621-kados-aporrimaton-50l-web-99.jpg</Additional_Image>
@@ -15716,7 +15714,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 Βάθος φόρμας: 5.5εκ. 
 Διαστάσεις πάτου: 18.5x18.5εκ.</Description>
 		<EAN>5203642145107-BLUE</EAN>
-		<Quantity>37</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15989,7 +15987,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<MPN>1424</MPN>
 		<Description>Το δοχείο φαγητού της εταιρείας Cyclops είναι κατασκευασμένο από πλαστικό, ένα υλικό που το κάνει ελαφρύ και πρακτικό.Χωρητικότητα: 1200mlΚατάλληλο για ΜικροκύματαΜήκος: 21.4cmΠλάτος: 15.2cm</Description>
 		<EAN>promitheas-5202707007053</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16087,7 +16085,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<MPN>1434</MPN>
 		<Description>Το Cyclops Fresco Δοχείο Φαγητού είναι ένα πρακτικό σετ 3 τεμαχίων σε φούξια χρώμα, ιδανικό για καθημερινή χρήση. Είναι κατασκευασμένο από ανθεκτικό πλαστικό, κατάλληλο για φούρνο μικροκυμάτων, προσφέροντας ευκολία στη θέρμανση και αποθήκευση φαγητού. Με μοντέρνο σχεδιασμό και εύκολη καθαριότητα, αποτελεί μια εξαιρετική επιλογή για το σπίτι ή το γραφείο.</Description>
 		<EAN>promitheas-5202707007244</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16255,7 +16253,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<MPN>1461</MPN>
 		<Description>Ετοιμάστε τα αγαπημένα ροφήματα των παιδιών σας ή των φίλων σας και σερβίρετέ τα σε ποτήρια της ελληνικής εταιρίας Cyclops σε όμορφα απαλά παστέλ χρώματα.Ανακαλύψτε όλη την συλλογή</Description>
 		<EAN>promitheas1-5202707004649</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21451,7 +21449,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>0557</MPN>
 		<Description>• Μιας χρήσεως• Σκεύος παραλληλόγραμμο• Πλαστικό διάφανο• Ενσωματωμένο καπάκι</Description>
 		<EAN>5200425301033</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21499,7 +21497,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>0903</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 750ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία σαλάτας. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
 		<EAN>8682611010825</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22414,36 +22412,6 @@ Air-fryer με τετράγωνο κάδο
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>79023</SKU>
-		<Name>Typotrust Τετράδιο Ριγέ Β5 50 Φύλλων Special Color Κίτρινο 1τμχ</Name>
-		<URL>https://www.skroutz.gr/s/19963690/Typotrust-Tetradio-Rige-V5-50-Fyllon-Special-Color-Kitrino-4064.html?product_id=204994027</URL>
-		<Image>https://typotrust.gr/wp-content/uploads/2014/06/4064.jpg</Image>
-		<Price>0.9828472500000002</Price>
-		<Category>Σχολικά Τετράδια</Category>
-		<Manufacturer>TYPOTRUST</Manufacturer>
-		<MPN>4064</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>• Τύπος Φύλλου: Ριγέ• Αριθμός Φύλλων: 50• Δέσιμο: Καρφίτσα• Βάρος Φύλλου: 70gr• Διαστάσεις: 17x25 cm</Description>
-		<EAN>5200000040647</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>79041</SKU>
-		<Name>ΜΠΛΟΚ ΖΩΓΡΑΦΙΚΗΣ ΣΠΙΡΑΛ 300gsm/70gsm A4 40φ (ΔΙΑΦΟΡΑ ΣΧΕΔΙΑ) 1τμχ</Name>
-		<URL>https://www.skroutz.gr/s/55253847/Typotrust-Mplok-Zografikis-A4-21x29-7cm-Diafora-Schedia.html</URL>
-		<Image>https://typotrust.gr/wp-content/uploads/2015/01/4241%CE%914-40%CE%A6.jpg</Image>
-		<Price>0.9940159687500001</Price>
-		<Category>Μπλοκ Ζωγραφικής</Category>
-		<Manufacturer>TYPOTRUST</Manufacturer>
-		<MPN>4241</MPN>
-		<Weight>0.24 kg</Weight>
-		<Description>Μπλοκ ζωγραφικής με χαρούμενα ξεχωριστά εξώφυλλα σχεδιασμένα για τους δημιουργούς της καρδιάς μας! Το κάθε μπλοκ έχει 40 φύλλα και είναι από εξαιρετικής ποιότητας χαρτί 70γρ. κατάλληλο για τις ζωγραφιές των μικρών μας φίλων! Έχει μονό μεταλλικό σπιράλ. Εσωτερικά έχει μία σελίδα αυτοκόλλητα σε διάφορα σχέδια και σχήματα. Είναι το ιδανικό μπλοκ για μολύβι, ξυλομπογιά, παστέλ και μαρκαδόρους!</Description>
-		<EAN>5200000042412</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>79061</SKU>
 		<Name>ΤΕΤΡΑΔΙΟ ΣΠΙΡΑΛ ΡΙΓΕ 2ΘΕΜ 350gsm/70gsm Β5 17Χ25 30φ/ΘΕΜΑ (ΔΙΑΦΟΡΑ ΣΧΕΔΙΑ) 1τμχ</Name>
 		<URL>https://www.skroutz.gr/s/53867712/Typotrust-Spiral-Tetradio-Rige-V5-2-THematon-Diafora-Schedia-4552-11.html</URL>
@@ -22486,21 +22454,6 @@ Air-fryer με τετράγωνο κάδο
 		<Description>•Αριθμός Φύλλων: 60•Διάσταση: Α4•Αριθμός Θεμάτων: 2•Βιβλιοδεσία:  Σπιράλ•Γραμμογράφηση: Ριγέ</Description>
 		<EAN>5200001453217</EAN>
 		<Quantity>63</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>79067</SKU>
-		<Name>Typotrust Σπιράλ Τετράδιο Ριγέ Α4 90 Φύλλων 3 Θεμάτων Academy (Διάφορα Σχέδια/Χρώματα) 1τμχ</Name>
-		<URL>https://www.skroutz.gr/s/19939325/Typotrust-Spiral-Tetradio-Rige-A4-90-Fyllon-3-THematon-Academy-Diafora-Schedia-CHromata-4543-11.html?product_id=204994030</URL>
-		<Image>https://typotrust.gr/wp-content/uploads/2014/10/4553-11-ACADEMY.jpg</Image>
-		<Price>2.883018600000001</Price>
-		<Category>Σχολικά Τετράδια</Category>
-		<Manufacturer>TYPOTRUST</Manufacturer>
-		<MPN>4543-11</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>• Αριθμός Φύλλων: 90• Διάσταση: A4• Αριθμός Θεμάτων: 3•Βιβλιοδεσία:  Σπιράλ• Γραμμογράφηση: Ριγέ</Description>
-		<EAN>5200001453316</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22647,21 +22600,6 @@ Air-fryer με τετράγωνο κάδο
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>79211</SKU>
-		<Name>Typotrust Κόλλα Υγρή Ρευστή σε Σωληνάριο Γενικής Χρήσης 14ml</Name>
-		<URL>https://www.skroutz.gr/s/56046738/Typotrust-Ygri-Kolla-gia-CHeirotechnies-14ml-TGL4014.html</URL>
-		<Image>https://typotrust.gr/wp-content/uploads/2017/12/TGL4055.jpg</Image>
-		<Price>0.5718384</Price>
-		<Category>Κόλλες</Category>
-		<Manufacturer>TYPOTRUST</Manufacturer>
-		<MPN>TGL4014</MPN>
-		<Weight>0.25 kg</Weight>
-		<Description>Κόλλα σχολική / παιδική από την Typotrust σε μορφή gel 14ml για εύκολη εφαρμογή. Αποτελεί ασφαλή επιλογή για χρήση από παιδιά σε χειροτεχνίες στο σχολείο αλλά και στο σπίτι. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
-		<EAN>5200001052014</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>79213</SKU>
 		<Name>Typotrust Κόλλα Gel σε Σωληνάριο Γενικής Χρήσης 35ml</Name>
 		<URL>https://www.skroutz.gr/s/22631374/Typotrust-Kolla-Gel-Reysti-se-Solinario-Genikis-CHrisis-35ml.html</URL>
@@ -22674,20 +22612,6 @@ Air-fryer με τετράγωνο κάδο
 		<Description>Κόλλα σχολική / παιδική από την Typotrust σε μορφή gel 35ml για εύκολη εφαρμογή. Αποτελεί ασφαλή επιλογή για χρήση από παιδιά σε χειροτεχνίες στο σχολείο αλλά και στο σπίτι. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
 		<EAN>5203358052027</EAN>
 		<Quantity>66</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>79241</SKU>
-		<Name>Jip Υγρή Κόλλα Στιγμής Super Glue 3gr</Name>
-		<URL>https://www.skroutz.gr/s/55430885/Jip-Ygri-Kolla-Stigmis-gia-CHarti-3gr-0758.html</URL>
-		<Image>https://beautyfree.gr/41135-large_default/jip-liquid-3gr.jpg</Image>
-		<Price>0.5983124000000001</Price>
-		<Category>Κόλλες</Category>
-		<Manufacturer>JIP</Manufacturer>
-		<MPN>0758</MPN>
-		<Description>Κόλλα στιγμής από την Jip. Έχει ισχυρή δράση σε άμεσο χρονικό διάστημα. Για την εφαρμογή της, οι επιφάνειες πρέπει να είναι καθαρές και στεγνές. Απλώνεται στην μία μόνο επιφάνεια και στη συνέχεια εφαρμόζουμε πίεση για 10 έως 30 δευτερόλεπτα μέχρι να στεγνώσει. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
-		<EAN>3800085102340</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23726,55 +23650,6 @@ Air-fryer με τετράγωνο κάδο
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7971013</SKU>
-		<Name>Eurolamp Κοινή  Λάμπα LED 8,8W για Ντουί E27 4000K 175-250V Φυσικό Λευκό 810lm (147-77012)</Name>
-		<URL>https://www.skroutz.gr/s/27390876/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-Fysiko-Leyko-810lm-147-77012.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/027390/27390876/20210324125454_eurolamp_e27_a60_10w_fysiko_leyko_147_77012.jpeg</Image>
-		<Price>1.08840132</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1579</MPN>
-		<Description>Το χρώμα της λάμπας προσομοιώνει εκείνο του φωτός της ημέρας κάνοντάς την ιδανική επιλογή για γραφεία αφού δεν κουράζει, αλλά και σε σημεία που δεν θέλετε να αλλοιώνονται τα χρώματα των αντικειμένων. Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 8 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 66 μέχρι 74 watt ή μια αλογόνου από 40 μέχρι 44 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.    Ισχύς: 10W    Τάση: 220V    Lumen: 810lm    Χρώμα: Φυσικό Λευκό    Εφαρμογή: E27    Σχήμα: A60</Description>
-		<EAN>5207227112928</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971014</SKU>
-		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί E27 4000K 175-250V Φυσικό Λευκό 1055lm (147-77013)</Name>
-		<URL>https://www.skroutz.gr/s/27137657/Eurolamp-Lampa-LED-12W-gia-Ntoui-E27-kai-Schima-A60-Fysiko-Leyko-1055lm-147-77013.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/027137/27137657/20211203114905_eurolamp_lampa_led_gia_ntoui_e27_fysiko_leyko_1055lm_147_77013.jpeg</Image>
-		<Price>1.25398590048</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1580</MPN>
-		<Description>Το χρώμα της λάμπας προσομοιώνει εκείνο του φωτός της ημέρας κάνοντάς την ιδανική επιλογή για γραφεία αφού δεν κουράζει, αλλά και σε σημεία που δεν θέλετε να αλλοιώνονται τα χρώματα των αντικειμένων.</Description>
-		<EAN>5207227113161</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971015</SKU>
-		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί E27 4000K 175-250V Φυσικό Λευκό 1521lm (147-77014)</Name>
-		<URL>https://www.skroutz.gr/s/26550506/Eurolamp-Lampa-LED-15W-gia-Ntoui-E27-kai-Schima-A60-Fysiko-Leyko-1521lm-147-77014.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/026550/26550506/xlarge_20230102154720_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_a60_fysiko_leyko_1521lm_147_77014.jpeg</Image>
-		<Price>1.52494248672</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>147-77014</MPN>
-		<Description>Βασικά χαρακτηριστικά:
-
-    Φωτεινότητα: 1521 lumen
-    Γωνία Δέσμης: 300 °
-    Υλικό: Πλαστικό
-    Διάμετρος: 60mm
-
-Λάμπα LED τεχνολογίας για τοποθέτηση σε φωτιστικά με ντουί E27.​</Description>
-		<EAN>5207227112980</EAN>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7971021</SKU>
 		<Name>Eurolamp Κοινή  Λάμπα LED 4,9W για Ντουί E27 2700K 175-250V Θερμό Λευκό 480lm (147-77030)</Name>
 		<URL>https://www.skroutz.gr/s/27364480/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-THermo-Leyko-480lm-147-77030.html</URL>
@@ -24016,20 +23891,6 @@ Air-fryer με τετράγωνο κάδο
 		<Description>Ισχύς: 8W    Τάση: 220V    Lumen: 650lm    Χρώμα: Φυσικό Λευκό    Εφαρμογή: B22    Σχήμα: A60</Description>
 		<EAN>5207227113109</EAN>
 		<Quantity>74</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971064</SKU>
-		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί Β22 4000K 175-250V Φυσικό Λευκό 1055lm (147-77053)</Name>
-		<URL>https://www.skroutz.gr/s/27364727/Eurolamp-Lampa-LED-gia-Ntoui-B22-kai-Schima-A60-THermo-Leyko-1055lm-147-77073.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/027364/27364727/20210920170301_eurolamp_lampa_led_gia_ntoui_b22_kai_schima_a60_thermo_leyko_1055lm_147_77073.jpeg</Image>
-		<Price>1.25398590048</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1586</MPN>
-		<Description>Το θερμό χρώμα που διαθέτει η λάμπα είναι πιο κοντά σε αυτό της φωτιάς το οποίο θα προσδώσει μια ζεστή αίσθηση στο χώρο που θα σας βοηθήσει να χαλαρώσετε. Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 10 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 83 μέχρι 90 watt ή μια αλογόνου από 50 μέχρι 54 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.    Ισχύς: 12W    Τάση: 220V    Lumen: 1055lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: B22    Σχήμα: A60</Description>
-		<EAN>5207227113284</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24439,7 +24300,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1601</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Εφαρμογή Λαμπτήρα: E14    Ισχύς: 5W    Τάση: 220-240V    Είδος: Νυκτός</Description>
 		<EAN>5206139000590</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24453,7 +24314,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1602</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Ισχύς: 5W    Εφαρμογή Λαμπτήρα: E14    Είδος: Νυκτός</Description>
 		<EAN>5206139000064</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24467,7 +24328,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1603</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Ισχύς: 5W    Εφαρμογή Λαμπτήρα: E14    Είδος: Νυκτός</Description>
 		<EAN>5206139000736</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24481,7 +24342,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1604</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Ισχύς: 5W    Εφαρμογή Λαμπτήρα: E14    Είδος: Νυκτός</Description>
 		<EAN>5206139000743</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24495,7 +24356,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1605</MPN>
 		<Description>Τάση Τροφοδοσίας: 220-240V    Ονομαστική Ισχύς: 5W    Συχνότητα Λειτουργίας: 50/60Hz    Βαθμός Στεγανότητας: IP20    Διάρκεια Ζωής: 1000h    Θερμοκρασία Λειτουργίας °C: -30°C - +45°C    Ενεργειακή Κλάση: E    Ντουί Λαμπτήρα: E14    Σχήμα Λαμπτήρα: T23    Ρύθμιση Έντασης: Ναι    Διάμετρος: 20mm    Ύψος: 53mm    Υλικό Προϊόντος: Γυαλί &amp; Βάση Αλουμινίου    Χρώμα Καλύμματος: Μπλε    Πιστοποιητικά: Ναι    Ένδειξη CE: Ναι</Description>
 		<EAN>5206139000750</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24707,7 +24568,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<EAN>5410853039334</EAN>
-		<Quantity>1496</Quantity>
+		<Quantity>1500</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24721,7 +24582,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<EAN>5410853039273</EAN>
-		<Quantity>2785</Quantity>
+		<Quantity>2789</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24749,7 +24610,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>PAN9004750</MPN>
 		<Description>Αλκαλικές μπαταρίες μεγέθους C, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
 		<EAN>5410853039242</EAN>
-		<Quantity>64</Quantity>
+		<Quantity>66</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24873,7 +24734,7 @@ Air-fryer με τετράγωνο κάδο
 Volt: 3V
 ΜΠΑΤ. PKCELL CR2032-5B</Description>
 		<EAN>prom-797509101</EAN>
-		<Quantity>254</Quantity>
+		<Quantity>255</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26597,7 +26458,6 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
     Εγγύηση Eurolamp: 5 Χρόνια
     Πιστοποιητικά: CE/GS/ROHS</Description>
 		<EAN> 5207227149818</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27238,7 +27098,7 @@ Type-C 1 / Type-C 2 + Type-C 3 / Type-C 4 / USB-A 1 / USB-A 2: 45</Description>
 
 Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε USB-C με μήκος 1 μέτρο.</Description>
 		<EAN>6920680871322</EAN>
-		<Quantity>103</Quantity>
+		<Quantity>104</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28798,7 +28658,7 @@ Design: Ο ασύρματος προσαρμογέας είναι κατάλλη
     Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0
 </Description>
 		<EAN>6920680860487</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30536,7 +30396,7 @@ Aluminum Case Better for heat dissipation </Description>
 		<MPN>03.005.0046</MPN>
 		<Description>Τηλεχειριστήριο αντικατάστασης για τηλεοράσεις LG</Description>
 		<EAN>6974086695556</EAN>
-		<Quantity>37</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30923,7 +30783,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Weight>0.3 kg</Weight>
 		<Description>Η Λάιφ Ζάχαρη Αχνη 300gr είναι ιδανική για γλυκά και γεμίσεις. Η μικροκρυσταλλική της μορφή την καθιστά εύκολη στο να διαλυθεί και να αναμειχθεί σε κάθε συνταγή. Κατάλληλη για οικιακή χρήση και ζαχαροπλαστική.</Description>
 		<EAN>5200108100533</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31109,7 +30969,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Από 100% ελληνικά σκληρά στάριαΧρόνος βρασμού 7-8 λεπτά</Description>
 		<EAN>5201013005029</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>1589</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31124,7 +30984,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μέγεθος μακαρονιού: Νο10Από 100% ελληνικά σκληρά στάρια</Description>
 		<EAN>5201013005012</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>662</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31139,7 +30999,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια Νο2 ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<EAN>5201013005043</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>607</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31154,7 +31014,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια Νο5 ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<EAN>5201013005074</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>154</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31169,7 +31029,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Κριθαράκι μέτριο ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<EAN>5201013005067</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>781</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31184,7 +31044,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Χοντρό κριθαράκι της εταιρίας Famiglia, για να φτιάξετε ένα γρήγορο γεύμα ή ένα έδεσμα γαστρονομίας!</Description>
 		<EAN>5201013005036</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>1085</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31199,7 +31059,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια κοφτά ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<EAN>5201013005050</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>272</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31214,7 +31074,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια τριβελάκι απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<EAN>5201013005081</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>705</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31229,7 +31089,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια πέννες απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<EAN>5201013005128</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>587</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31349,7 +31209,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.2 kg</Weight>
 		<Description>Ο Knorr Κύβος Κότας είναι φτιαγμένος από ζωμό κότας, μπαχαρικά και μυρωδικά, χωρίς συντηρητικά και τεχνητές χρωστικές και δίνει στις συνταγές σας πλούσια γεύση.</Description>
 		<EAN>8711200400393</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>360</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31394,7 +31254,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 400 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270000021</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>171</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31454,7 +31314,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 1 κιλού. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270010051</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31469,7 +31329,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό ημίχονδρο αλάτι της εταιρείας Γλάρος σε συσκευασία 1000 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270011058</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>112</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31484,7 +31344,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό χονδρό αλάτι Νο2 της εταιρείας Γλάρος σε συσκευασία 1000 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270011065</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31514,7 +31374,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>12 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 12 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<EAN>5203270030080</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31529,7 +31389,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.4 kg</Weight>
 		<Description>Το ψιλό αλάτι Μεσολογγίου Γλάρος σε βαζάκι 400gr είναι ιδανικό για πολλαπλές χρήσεις στη μαγειρική και στην τραπεζοκρεβατιά. Το αλάτι αυτό προέρχεται από την περιοχή του Μεσολογγίου και διακρίνεται για την ποιότητά του και την εκλεκτή γεύση. Με το λεπτό του κόκκο, αποτελεί απαραίτητο συστατικό στην παρασκευή φαγητών και γευστικών πιάτων, προσθέτοντας έντονη γεύση και αρωματικότητα.</Description>
 		<EAN>5203270000236</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31652,7 +31512,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Ο τοματοχυμός πασσάτα απο την εταιρία Ρέα ελαφριάς συμπύκνωσης . Δεν περιέχει γλουτένη και άλλα αλλεργιογόνα ,έχει πολύ χαμηλή περιεκτικότητα σε αλάτι και είναι ιδανική για όλες τις γαστρονομικές δημιουργίες σας.</Description>
 		<EAN>5202908500018</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>2695</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31687,7 +31547,6 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 
 ΑΠΟΘΉΚΕΥΣΗ: Διατηρείται σε σκιερό και ξηρό περιβάλλον. Μετά το άνοιγμα διατηρείται στο ψυγείο στους 4oC το μέγιστο, σε σκεύος κατάλληλο για τρόφιμα και καταναλώνεται εντός 48 ωρών το μέγιστο.</Description>
 		<EAN>5200128642075</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31972,7 +31831,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.3 kg</Weight>
 		<Description>Μια γευστική εμπειρία με πλούσια αρώματα και γεύσεις. Τα φασόλια γίγαντες είναι επιλεγμένα και τυλιγμένα σε μια εύκολα απολαυστική σάλτσα, προσφέροντας μια νόστιμη και θρεπτική επιλογή. Μπορούν να χρησιμοποιηθούν ως συνοδευτικό πιάτο σε μεσογειακές διατροφικές επιλογές ή να προστεθούν σε σούπες και σαλάτες για περισσότερη γεύση και θρεπτική αξία.</Description>
 		<EAN>5201051093378</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32034,7 +31893,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<MPN>1746</MPN>
 		<Description>Το μαύρο τσάι της εταιρείας Lipton έχει μεγάλη περιεκτικότητα καφεΐνης και παρασκευάζεται από τα φύλλα ενός θάμνου που ονομάζεται Camellia sinensis. Παράγει ένα σκούρο, χάλκινο χρώμα και έχει πιο δυνατή, πιο έντονη γεύση από άλλα είδη τσαγιού.</Description>
 		<EAN>5063270110034</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32048,7 +31907,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<MPN>1747</MPN>
 		<Description>Μαύρο τσάι σε συνδυασμό με φρούτα του δάσους: βατόμουρο, φράουλα, φραμπουάζ, κεράσι και κόκκινο φραγκοστάφυλλο. </Description>
 		<EAN>5063270109557</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32062,7 +31921,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<MPN>1748</MPN>
 		<Description>Μείγμα φρούτων της εταιρείας Lipton με συνδυασμό μήλου και κανέλας, Δεν περιέχει καφεινή ή τεΐνη.</Description>
 		<EAN>5063270103852</EAN>
-		<Quantity>0</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32348,7 +32207,6 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 Το Johny Bee Dr. Lab Mini Candy Soccer είναι η τέλεια επιλογή για μικρούς λάτρεις του ποδοσφαίρου που θέλουν να απολαύσουν μια γλυκιά και παιχνιδιάρικη εμπειρία!
 </Description>
 		<EAN>5904688000084</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32485,7 +32343,6 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 
 Χάρισε στον εαυτό σου και στους αγαπημένους σου μια μικρή, γλυκιά στιγμή απόλαυσης με τα JOHNY BEE 3D Juicy Gummy Fruit Mix. Δοκίμασέ τα σήμερα και απόλαυσε τη γεύση των πραγματικών φρούτων σε κάθε δαγκωνιά!</Description>
 		<EAN>5904917031803</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32615,7 +32472,6 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 
 Το προϊόν προσφέρει μια μοναδική εμπειρία που συνδυάζει την απόλαυση της τσίχλας με την έξτρα διασκέδαση των τατουάζ. Το Monster Gum Tattoo είναι ελκυστικό για τα παιδιά που λατρεύουν τα διαδραστικά και παιχνιδιάρικα γλυκίσματα.</Description>
 		<EAN>6931925802018</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32640,7 +32496,6 @@ Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)
 
 Με το Johny Bee Mini Roll &amp; Tattoo, η απόλαυση γίνεται πιο διασκεδαστική και δημιουργική, δίνοντας στα παιδιά γεύση και στυλ σε κάθε συσκευασία!</Description>
 		<EAN>6939495507975</EAN>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
