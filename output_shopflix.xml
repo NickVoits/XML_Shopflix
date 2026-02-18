@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-18 16:05</created_at>
+	<created_at>2026-02-18 16:40</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -57,7 +57,7 @@
 		<MPN>1193001</MPN>
 		<Description>Απαλό άρωμα λυκίσκου και δροσιστική γεύση που συνδυάζεται ιδανικά με λάιμ. Τα αρώματα εσπεριδοειδών ταιριάζουν πάρα πολύ με την μπύρα γενικώς και θα μπορούσε κάποιος που του αρέσει πολύ το άρωμα και η γεύση του λάιμ να το προσθέτει σχεδόν σε ολες τις lager και όχι μόνο στις Μεξικάνικες!</Description>
 		<EAN>52103049</EAN>
-		<Quantity>203</Quantity>
+		<Quantity>179</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -116,7 +116,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<EAN>75041670</EAN>
-		<Quantity>720</Quantity>
+		<Quantity>672</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -212,7 +212,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>560</Quantity>
+		<Quantity>558</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -302,7 +302,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<EAN>5201275610672</EAN>
-		<Quantity>161</Quantity>
+		<Quantity>160</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2075,7 +2075,7 @@
 		<Name>Τσιλιλή Μόστρα Λευκό Ξηρό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55528421/Tsililis-Krasi-Leyko-Xiro-500ml-15202548505012.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004774/4774819/20210210134201_tsililis_mostra_leykos_500ml.jpeg</Image>
-		<Price>2.17</Price>
+		<Price>2.362657435159714</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1149</MPN>
@@ -2090,7 +2090,7 @@
 		<Name>Τσιλιλή Μόστρα Ροζέ Ξηρό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519115/Tsililis-Krasi-Roze-Xiro-500ml-15202548505111.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004774/4774808/20210210133900_tsililis_mostra_roze_500ml.jpeg</Image>
-		<Price>2.22</Price>
+		<Price>2.414019553315361</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1150</MPN>
@@ -2105,7 +2105,7 @@
 		<Name>Τσιλιλή Μόστρα Ερυθρό Ξηρό 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519116/Tsililis-Krasi-Erythro-Xiro-500ml-15202548505210.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-ktima-tsilili-mostra-eruthro-500.gif</Image>
-		<Price>2.22</Price>
+		<Price>2.414019553315361</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1151</MPN>
@@ -2120,7 +2120,7 @@
 		<Name>Τσιλιλή Μόστρα Ημίγλυκο 500ml</Name>
 		<URL>https://www.skroutz.gr/s/55519117/Tsililis-Krasi-Roze-Imiglyko-500ml-15202548505319.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027989/27989645/20210331115401_tsililis_krasi_roze_imiglyko_mostra_500ml.jpeg</Image>
-		<Price>2.22</Price>
+		<Price>2.465381671471007</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1152</MPN>
@@ -3256,7 +3256,7 @@ Ph: 3,55</Description>
 
 Στο στόμα η οξύτητα είναι υψηλή, με στιβαρές αλλά στρογγυλές τανίνες, για το Γη και Ουρανός που ωρίμασε σε δρύινα γαλλικά βαρέλια 500lt 2ης - 3ης χρήσης για 18 μήνες.</Description>
 		<EAN>5200363504169</EAN>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8437,7 +8437,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<MPN>1040</MPN>
 		<Description>Σερβιέτες με φτερά που προσφέρουν προστασία από τις διαρροές, εφαρμόζουν στο σώμα και εξουδετερώνουν τις οσμές.</Description>
 		<EAN>4015400759119</EAN>
-		<Quantity>489</Quantity>
+		<Quantity>483</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10001,7 +10001,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
 Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xylenesulfonate, Sodium Lauryl Sulfate, Glycol Distearate, Sodium Chloride, Stearyl Alcohol, Fragrance, Dimethiconol, Cetyl Alcohol, Dimethicone, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Tea-dodecylbenzenesulfonate, Tetrasodium Edta, Trideceth-10, Trisodium Ethylenediamine Disuccinate, Panthenol, Panthenyl Ethyl Ether, Methylchloroisothiazolinone, Yellow 5, Methylisothiazolinone, Red 33 </Description>
 		<EAN>8001841267111</EAN>
-		<Quantity>20</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13418,7 +13418,7 @@ Super-απορροφητική.
 Για τον καθαρισμό επίμονων λεκέδων, καμένων λαδιών ή υπολειμμάτων τροφίμων, αγοράστε το ειδικό σφουγγάρι PowerInox από ανοξείδωτο ατσάλι και καθαρίστε γρήγορα και εύκολα τη βρωμιά.
 </Description>
 		<EAN>4023103172036</EAN>
-		<Quantity>2896</Quantity>
+		<Quantity>2886</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13948,7 +13948,7 @@ Super-απορροφητική.
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<EAN>4012425171216</EAN>
-		<Quantity>2941</Quantity>
+		<Quantity>2939</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22154,7 +22154,7 @@ Air-fryer με τετράγωνο κάδο
 		<Weight>0.2 kg</Weight>
 		<Description>• Μέγεθος: Β5• Δέσιμο: Καρφίτσα• Αριθμός φύλλων: 50• Διαστάσεις: 17x25cm</Description>
 		<EAN>5200000040340</EAN>
-		<Quantity>211</Quantity>
+		<Quantity>209</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22169,7 +22169,7 @@ Air-fryer με τετράγωνο κάδο
 		<Weight>0.2 kg</Weight>
 		<Description>•Μέγεθος: Β5•Αριθμός φύλλων: 50•Πλαστικό εξώφυλλο•Διχάρακο</Description>
 		<EAN>5200000040432</EAN>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22214,7 +22214,7 @@ Air-fryer με τετράγωνο κάδο
 		<Weight>0.2 kg</Weight>
 		<Description>•Τύπος Φύλλου: Ριγέ•Αριθμός Φύλλων: 50•Δέσιμο: Καρφίτσα•Βάρος Φύλλου: 70gr•Διαστάσεις: 17x25 cm</Description>
 		<EAN>promitheas-5200000040623</EAN>
-		<Quantity>18</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22229,7 +22229,7 @@ Air-fryer με τετράγωνο κάδο
 		<Weight>0.2 kg</Weight>
 		<Description>•Τύπος Φύλλου: Ριγέ•Αριθμός Φύλλων: 50•Δέσιμο: Καρφίτσα•Βάρος Φύλλου: 70gr•Διαστάσεις: 17x25 cm</Description>
 		<EAN>5200000040630</EAN>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22302,7 +22302,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>4601-1</MPN>
 		<Description>Το σπιράλ σημειωματάριο Micro είναι πολύ πρακτικό χάρη στο μικρό του μέγεθος, το δέσιμο σπιράλ και τη ριγέ γραμμογράφηση που σας επιτρέπουν να κρατάτε άνετα τις απαραίτητες σημειώσεις! Κάθε σεμειωματάριο διαθέτει 80 φύλλα και σκληρό οπισθόφυλλο για να μπορείς να γράφεις σταθερά. Έχει 2 θέματα, εξώφυλλο από χαρτί Pressboard και διατίθεται σε πάκετο 12 τεμαχίων.</Description>
 		<EAN>5200000460117</EAN>
-		<Quantity>30</Quantity>
+		<Quantity>28</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22374,7 +22374,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>SP01082-05</MPN>
 		<Description>Μολύβι γραφίτη της εταιρείας Typotrust. Διαθέτει τον πιο συνηθισμένο τύπο μύτης, με μέση σκληρότητα HB, ιδανικό για γράψιμο και γραμμικό σχέδιο. Διατίθεται σε σετ 12 τεμαχίων.</Description>
 		<EAN>5207146015027</EAN>
-		<Quantity>164</Quantity>
+		<Quantity>152</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22417,7 +22417,7 @@ Air-fryer με τετράγωνο κάδο
 		<Weight>0.04 kg</Weight>
 		<Description>• Κατάλληλη για χειροτεχνίες και κολάζ• Μη τοξική• Κατάλληλη για χρήση στο σχολείο, στο σπίτι και στο γραφείο•Δεν ξεκολλάει και δεν αφήνει ίχνη• Με καπάκι ασφαλείας για να μη στεγώνει• Καθαρίζεται πολύ εύκολα με νερό</Description>
 		<EAN>8802946508389</EAN>
-		<Quantity>74</Quantity>
+		<Quantity>71</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22475,7 +22475,7 @@ Air-fryer με τετράγωνο κάδο
 		<Weight>0.2 kg</Weight>
 		<Description>Έχει μήκος 10m και πάχος 5mm για διόρθωση μίας μονής γραμμής τυπωμένου κειμένου. Δεν αφήνει ίχνη ή σκιάσεις στις φωτοτυπίες, είναι κατάλληλο για τους περισσότερους τύπους χαρτιού. Πραγματοποιεί στεγνή διόρθωση δινοντάς σας τη δυνατότητα άμεσου γραψίματος ή δακτυλογράφησης επάνω στο έγγραφο που διορθώσατε.</Description>
 		<EAN>4716493650016</EAN>
-		<Quantity>85</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22957,7 +22957,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<EAN>5203358500344</EAN>
-		<Quantity>2437</Quantity>
+		<Quantity>2365</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23408,7 +23408,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1575</MPN>
 		<Description>Λάμπα LED με απόδοση φωτεινότητας 810 lumen και διάμετρο 60mm, για τοποθέτηση σε φωτιστικά με εφαρμογή E27.</Description>
 		<EAN>5207227112621</EAN>
-		<Quantity>60</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23439,7 +23439,7 @@ Air-fryer με τετράγωνο κάδο
 
 Είναι κατασκευασμένη από πλαστικό με ψύκτρα αλουμινίου και μέσο χρόνο ζωής 25.000 ώρες. Κατά την λειτουργία της θα προσθέτει στο χώρο ψυχρό λευκό φως (6500K).</Description>
 		<EAN>5207227112683</EAN>
-		<Quantity>5</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23851,7 +23851,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1589</MPN>
 		<Description>Ισχύς: 5W    Τάση: 220V    Lumen: 400lm    Χρώμα: Ψυχρό Λευκό    Εφαρμογή: E14    Σχήμα: C37</Description>
 		<EAN>5207227113345</EAN>
-		<Quantity>42</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23865,7 +23865,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1590</MPN>
 		<Description>Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 6 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 50 μέχρι 58 watt ή μια αλογόνου από 30 μέχρι 34 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.</Description>
 		<EAN>5207227113437</EAN>
-		<Quantity>20</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28594,7 +28594,7 @@ USB-A1/A2 Έξοδος: 5V-2.1A
 * Μέγεθος: 131 x 54 x 50,8 mm.
 * Βάρος: 592 g.</Description>
 		<EAN>6941876242931</EAN>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29603,7 +29603,7 @@ Silicon Power - USB Stick Silicon Power</Description>
 		<Name>Mercusys v1 WiFi Extender Dual Band (2.4 &amp; 5GHz) 1200Mbps ME30</Name>
 		<URL>https://www.skroutz.gr/s/27234745/Mercusys-ME30-v1-WiFi-Extender-Dual-Band-2-4-5GHz-1200Mbps.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/039824/39824978/xlarge_20210219150953_6a7663e4.jpeg</Image>
-		<Price>16.621599189</Price>
+		<Price>17.94</Price>
 		<Category>WiFi Extenders</Category>
 		<Manufacturer>Mercusys </Manufacturer>
 		<MPN>ME30</MPN>
@@ -29624,7 +29624,7 @@ Silicon Power - USB Stick Silicon Power</Description>
 		<Name>TP-LINK WiFi Extender V6 Passthrough Single Band (2.4GHz) 300Mbps WA860RE</Name>
 		<URL>https://www.skroutz.gr/s/23141702/TP-LINK-TL-WA860RE-v6-WiFi-Extender-Single-Band-2-4GHz-300Mbps.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/032335/32335432/xlarge_20200512165900_c74a4650.jpeg</Image>
-		<Price>23.4834860232</Price>
+		<Price>22.83</Price>
 		<Category>WiFi Extenders</Category>
 		<Manufacturer>TP-LINK</Manufacturer>
 		<MPN>WA860RE</MPN>
@@ -30641,7 +30641,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακρύσπερμο ρύζι που παίρνει το χρυσαφένιο χρώμα από τα συστατικά του εξωτερικού φλοιού του, κατά την υγροθερμική επεξεργασία, ο οποίος απομακρύνεται στη συνέχεια. Θεωρείται ιδανικό για πιλάφι λόγω του ότι παραμένει σπυρωτό.</Description>
 		<EAN>5212006201304</EAN>
-		<Quantity>465</Quantity>
+		<Quantity>459</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31124,7 +31124,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<EAN>6111260550359</EAN>
-		<Quantity>1811</Quantity>
+		<Quantity>1801</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31139,7 +31139,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<EAN>6111260550366</EAN>
-		<Quantity>643</Quantity>
+		<Quantity>633</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31904,7 +31904,7 @@ VeganΌχι
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<EAN>5202546009140</EAN>
-		<Quantity>1148</Quantity>
+		<Quantity>1146</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
