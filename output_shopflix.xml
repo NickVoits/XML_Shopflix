@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-24 16:05</created_at>
+	<created_at>2026-02-24 16:51</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -212,7 +212,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<EAN>5202382900083</EAN>
-		<Quantity>430</Quantity>
+		<Quantity>424</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -257,7 +257,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<EAN>5201275610375</EAN>
-		<Quantity>507</Quantity>
+		<Quantity>505</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -621,7 +621,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<EAN>5449000317698</EAN>
-		<Quantity>91</Quantity>
+		<Quantity>89</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1030,7 +1030,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<EAN>5201946911213</EAN>
-		<Quantity>851</Quantity>
+		<Quantity>848</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1045,7 +1045,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<EAN>5201946910247</EAN>
-		<Quantity>501</Quantity>
+		<Quantity>495</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1090,7 +1090,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<EAN>5201946910292</EAN>
-		<Quantity>496</Quantity>
+		<Quantity>493</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1380,7 +1380,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<EAN>5202908000044</EAN>
-		<Quantity>61</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1410,7 +1410,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<EAN>5202908000037</EAN>
-		<Quantity>787</Quantity>
+		<Quantity>760</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1440,7 +1440,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<EAN>5202908000051</EAN>
-		<Quantity>2307</Quantity>
+		<Quantity>2280</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1897,7 +1897,7 @@
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
 		<EAN>5200116720020</EAN>
-		<Quantity>2716</Quantity>
+		<Quantity>2710</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5046,7 +5046,7 @@ To 2011 η NICO LAZARIDI μέσα από το Οινοποιείο Μακεδώ�
 		<Weight>1.5 kg</Weight>
 		<Description>Η Sangria είναι το παραδοσιακό ποτό της Ισπανίας, παρασκευάζεται από κόκκινο κρασί και φυσικά εκχυλίσματα φρούτων χωρίς συντηρητικά και χρωστικές. Σκούρο κόκκινο χρώμα και δροσερή γεύση. Σερβίρεται παγωμένη, είναι το απόλυτο ποτό του καλοκαιριού.</Description>
 		<EAN>8410261151625</EAN>
-		<Quantity>207</Quantity>
+		<Quantity>201</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9504,7 +9504,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<MPN>0822</MPN>
 		<Description>• Με άρωμα χαμομηλιού• Κατάλληλη για μασάζ και καθαρισμό χεριών• Περιέχει γλυκερίνη που επιδιώκει την προστασία από την ξήρανση του δέρματος</Description>
 		<EAN>5206991031312</EAN>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10850,7 +10850,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1078</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467753</EAN>
-		<Quantity>319</Quantity>
+		<Quantity>316</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10864,7 +10864,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467746</EAN>
-		<Quantity>1046</Quantity>
+		<Quantity>1043</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10878,7 +10878,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<EAN>promitheas-5202054467739</EAN>
-		<Quantity>1018</Quantity>
+		<Quantity>1014</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11511,7 +11511,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<EAN>8008970055206</EAN>
-		<Quantity>2071</Quantity>
+		<Quantity>2061</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12189,7 +12189,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
 		<EAN>55201314051676</EAN>
-		<Quantity>5025</Quantity>
+		<Quantity>5015</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14527,7 +14527,7 @@ Super-απορροφητική.
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
 		<EAN>5200128643089</EAN>
-		<Quantity>2493</Quantity>
+		<Quantity>2488</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14625,7 +14625,7 @@ Super-απορροφητική.
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<EAN>5200128643140</EAN>
-		<Quantity>129</Quantity>
+		<Quantity>124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17369,7 +17369,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/40544128/Songmics-Vasi-Organosis-Kouzinas-Xylini-se-Kafe-CHroma-19-5x29-7x15-5cm-KCS02NW.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/040544/40544128/fixedratio_20230201130536_vasi_organosis_kouzinas_xylini_se_kafe_chroma_20x30x15cm_kcs02nw.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/071241/71241836/fixedratio_20230201130536_7953bb39.jpeg https://b.scdn.gr/images/sku_images/071241/71241835/fixedratio_20230201130535_74f08565.jpeg https://d.scdn.gr/images/sku_images/071241/71241834/fixedratio_20230201130535_284a97e8.jpeg</Additional_Image>
-		<Price>13.899501</Price>
+		<Price>11.37</Price>
 		<Category>Ράφια Τροφίμων</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>KCS02NW</MPN>
@@ -17442,7 +17442,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/23278583/Skampo-Saloniou-me-Apothikeytiko-CHoro-Ependymeno-me-Yfasma-Anthraki-38x38x40ek-LSF14GYZ.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023278/23278583/fixedratio_20200522095513_skampo_me_apothikeytiko_choro_lsf14gyz.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/032552/32552750/fixedratio_20200522095514_260eeec4.jpeg https://c.scdn.gr/images/sku_images/032552/32552751/fixedratio_20200522095514_ef544a86.jpeg https://a.scdn.gr/images/sku_images/032552/32552753/fixedratio_20200522095514_09d10987.jpeg</Additional_Image>
-		<Price>35.520947</Price>
+		<Price>31.589775</Price>
 		<Category>Σκαμπό</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>LSF14GYZ</MPN>
@@ -17475,7 +17475,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/23278615/Skampo-Tampoure-me-Apothikeytiko-CHoro-Ependymeno-me-Yfasma-Gri-76x38x40ek-LSF16GYZ.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023278/23278615/fixedratio_20200522095534_skampo_me_apothikeytiko_choro_lsf16gyz.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/032552/32552790/fixedratio_20200522095536_fba4a680.jpeg https://c.scdn.gr/images/sku_images/032552/32552787/fixedratio_20200522095535_6563f8c3.jpeg https://a.scdn.gr/images/sku_images/032552/32552789/fixedratio_20200522095535_ecd761ac.jpeg</Additional_Image>
-		<Price>61.77556000000001</Price>
+		<Price>56.861595</Price>
 		<Category>Σκαμπό</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>LSF16GYZ</MPN>
@@ -17970,7 +17970,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/47930316/Metalliki-Papoutsothiki-me-10-Rafia-Mayri-M33xP33xY173cm-LSR110B02.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/047930/47930316/fixedratio_20231110124508_metalliki_papoutsothiki_33x33x173cm_lsr110b02.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/085189/85189817/fixedratio_20231110124518_aa931ef7.jpeg https://a.scdn.gr/images/sku_images/085189/85189851/fixedratio_20231110124524_b7003bb5.jpeg https://a.scdn.gr/images/sku_images/085189/85189742/fixedratio_20231110124511_658f75cb.jpeg https://a.scdn.gr/images/sku_images/085189/85189745/fixedratio_20231110124513_c628b90b.jpeg https://b.scdn.gr/images/sku_images/085189/85189789/fixedratio_20231110124516_d71d776d.jpeg https://c.scdn.gr/images/sku_images/085189/85189839/fixedratio_20231110124521_91e312ed.jpeg</Additional_Image>
-		<Price>17.7604735</Price>
+		<Price>14.4</Price>
 		<Category>Παπουτσοθήκες</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>LSR110B02</MPN>
@@ -18014,7 +18014,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/22901783/Papoutsothiki-apo-Mpampou-me-2-Rafia-Mpez-M70xP28xY45cm-LBS04N.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022901/22901783/fixedratio_20200424092708_papoutsothiki_lbs04n_70x28x45cm.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/080167/80167180/20230721103105_ad919d80.jpeg https://a.scdn.gr/images/sku_images/032103/32103418/20200424092709_f7e62831.jpeg https://a.scdn.gr/images/sku_images/080167/80167119/20230721103046_bccccadd.jpeg https://c.scdn.gr/images/sku_images/080167/80167133/20230721103046_2c365f63.jpeg https://d.scdn.gr/images/sku_images/032103/32103420/20200424092712_492a6083.jpeg https://d.scdn.gr/images/sku_images/080167/80167125/20230721103046_4cec5d90.jpeg https://d.scdn.gr/images/sku_images/080167/80167139/20230721103046_dd5bf179.jpeg https://a.scdn.gr/images/sku_images/080167/80167137/20230721103046_db6098b3.jpeg https://a.scdn.gr/images/sku_images/080167/80167145/20230721103047_be8fb2c1.jpeg https://b.scdn.gr/images/sku_images/080167/80167132/20230721103046_70223ef4.jpeg https://a.scdn.gr/images/sku_images/080167/80167128/20230721103046_959f1697.jpeg</Additional_Image>
-		<Price>34.4117949</Price>
+		<Price>32.85</Price>
 		<Category>Παπουτσοθήκες</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>LBS04N</MPN>
@@ -21013,7 +21013,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 200ml.</Description>
 		<EAN>5203124503005</EAN>
-		<Quantity>1309</Quantity>
+		<Quantity>1294</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21583,7 +21583,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>1775</MPN>
 		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
 		<EAN>5214002309763</EAN>
-		<Quantity>1449</Quantity>
+		<Quantity>1444</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21597,7 +21597,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>0001</MPN>
 		<Description>• 10 τεμάχια• Διάμετρος: 18cm</Description>
 		<EAN>5202054472962</EAN>
-		<Quantity>244</Quantity>
+		<Quantity>233</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21611,7 +21611,7 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>0138</MPN>
 		<Description>• 10 τεμάχια• Διάμετρος: 23cm</Description>
 		<EAN>5202054472986</EAN>
-		<Quantity>138</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21903,7 +21903,7 @@ mini markets
     Μήκος(μέτρα): 20μ.
     Πλάτος: 29εκ.</Description>
 		<EAN>5202054036195</EAN>
-		<Quantity>67</Quantity>
+		<Quantity>61</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22056,7 +22056,7 @@ Air-fryer με τετράγωνο κάδο
 		<MPN>1571</MPN>
 		<Description>Μεμβράνη της εταιρίας Θαλασσινός, για να προστατεύει τη φρεσκάδα και τη γεύση των τροφίμων χάρη στην ικανότητα να κλείνει αεροστεγώς πάνω σε στεγνές επιφάνειες και να εμποδίζει τη μεταφορά των οσμών μεταξύ των τροφίμων στο ψυγείο.Χαρακτηριστικά    Μήκος(μέτρα): 30μ.    Πλάτος: 30εκ.    Τεμάχια: 1τμχ</Description>
 		<EAN>5202054031855</EAN>
-		<Quantity>1433</Quantity>
+		<Quantity>1416</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25715,7 +25715,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Name>Esperanza Seine Βραστήρας με LED Φωτισμό 1.8lt 2200W Black/Inox EKK026</Name>
 		<URL>https://www.skroutz.gr/s/18251467/Esperanza-Vrastiras-1-7lt-2200W-Asimi-EKK026.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018251/18251467/xlarge_20190419093702_esperanza_ekk026.jpeg</Image>
-		<Price>18.48</Price>
+		<Price>18.08</Price>
 		<Category>Βραστήρες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKK026</MPN>
@@ -25822,7 +25822,7 @@ Esperanza - Ατμομάγειρες Esperanza
 Κατανάλωση ισχύος: 350 W
 Μήκος καλωδίου τροφοδοσίας: 55 cm</Description>
 		<EAN>5901299954188</EAN>
-		<Quantity>208</Quantity>
+		<Quantity>205</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
