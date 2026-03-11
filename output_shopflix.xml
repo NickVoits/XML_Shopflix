@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-11 17:37</created_at>
+	<created_at>2026-03-11 17:39</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -19933,7 +19933,7 @@ Brand: Sidirela</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7705004001</SKU>
+		<SKU>770500401</SKU>
 		<EAN>5202707987829</EAN>
 		<Name>Cyclops Κάδος Απορριμμάτων Πλαστικός Λευκός για Ντουλάπι 13lt με Σχοινάκι 3302050</Name>
 		<URL>https://www.skroutz.gr/s/31033667/Cyclops-Kados-Aporrimmaton-Plastikos-Leykos-gia-Ntoulapi-13lt-003302050.html</URL>
@@ -19991,6 +19991,7 @@ Brand: Sidirela</Description>
 ℹ️ Σημείωση
 
 Λόγω του μικρού και εργονομικού του μεγέθους, ο κάδος είναι ιδανικός για συχνά απορρίμματα μικρού όγκου και όχι για βαριά ή ογκώδη σκουπίδια.</Description>
+		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
