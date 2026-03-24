@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-24 17:05</created_at>
+	<created_at>2026-03-24 17:07</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -27812,6 +27812,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 Πολλαπλότητα : 50 x 2
 Αντίγραφα : 2 (Λευκό - Κίτρινο)
 Χαρτί : Αυτογραφικό</Description>
+		<Quantity>55</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27831,6 +27832,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 Πολλαπλότητα : 50 x 2
 Αντίγραφα : 2 (Λευκό - Κίτρινο)
 Χαρτί : Αυτογραφικό</Description>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27851,6 +27853,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 Πολλαπλότητα : 92 X 2
 Αντίγραφα : 3 (Λευκό - Κίτρινο)
 Χαρτί : Αυτογραφικό</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
