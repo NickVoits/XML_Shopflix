@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-30 15:30</created_at>
+	<created_at>2026-03-30 16:02</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -212,7 +212,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>232</Quantity>
+		<Quantity>230</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -703,7 +703,7 @@
     Coca-Cola Original Taste
 
 </Description>
-		<Quantity>130</Quantity>
+		<Quantity>129</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1276,7 +1276,7 @@
 		<MPN>0419</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
-		<Quantity>4393</Quantity>
+		<Quantity>4369</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2479,7 +2479,7 @@ pH = 7,6
 		<MPN>0044</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>993</Quantity>
+		<Quantity>992</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8334,7 +8334,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Description>Οδοντικό νήμα σε διχάλες με λαβή για εύκολο κράτημα με επίθεμα αντίχειρα για καλύτερο έλεγχο.
 Γλιστρά εύκολα μεταξύ των δοντιών και δεν χαλάει, σπάει ή χαλαρώνει εύκολα.
 Επίσης, διαθέτει λαιμό σε γωνία για να προσφέρει πρόσβαση στα πίσω δόντια.</Description>
-		<Quantity>89</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13387,7 +13387,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Manufacturer>Wettex</Manufacturer>
 		<MPN>1116002</MPN>
 		<Description>Η πετσέτα μικροϊνών Vileda Colors χρησιμοποιείτε υγρή ή στεγνή, κατάλληλη για όλες τις επιφάνειες. Μπορεί να πλυθεί στο πλυντήριο ή στο χέρι έως τους 60° βαθμούς.​ Κάθε συσκευασία περιέχει 4 χρώματα. ​</Description>
-		<Quantity>344</Quantity>
+		<Quantity>328</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18879,7 +18879,7 @@ Brand: Sidirela</Description>
 - 1 x Τσάντα συναρμολόγησης
 - 2 x Κιτ αντι-ανατροπής
 - 1 x Οδηγίες</Description>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19560,7 +19560,7 @@ Brand: Sidirela</Description>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3294</MPN>
 		<Description>Παπουτσοθήκη-μικροέπιπλο δαπέδου με μεταλλική βάση και ξύλινη επιφάνεια.</Description>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28208,14 +28208,18 @@ Courier &amp; εταιρείες μεταφορών</Description>
 	<product>
 		<SKU>79656</SKU>
 		<EAN>5200300504771</EAN>
-		<Name>Χριστουγεννιάτικο δέντρο Forbes Slim σε παραδοσιακή γραμμή ύψους 240cm, 1411 tips, διάμετρος 130cm.</Name>
+		<Name>Χριστουγεννιάτικο δέντρο Forbes Slim σε παραδοσιακή γραμμή ύψους 240cm με Κουκουνάρια, 1411 tips, διάμετρος 130cm FFS-96J2</Name>
 		<URL>https://www.skroutz.gr/s/20465824/CHristougenniatiko-Dentro-Forbes-Fir-Prasino-Slim-240ek-me-Metalliki-Vasi-FFS-96J2.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/020465/20465824/fixedratio_20220510173833_christougenniatiko_dentro_forbes_fir_prasino_slim_240ek_me_metalliki_vasi_ffs_96j2.jpeg</Image>
 		<Price>224.041216</Price>
 		<Category>Χριστουγεννιάτικα Δέντρα</Category>
 		<Manufacturer>THIREA</Manufacturer>
 		<MPN>1483</MPN>
-		<Description>To χριστουγεννιάτικο δέντρο slim της εταιρείας Thirea με ύψος 240 εκατοστά είναι μια εξαιρετική επιλογή για να διακοσμήσεις το χώρο σου. Η μεταλλική βάση του προσδίδει σταθερότητα και ισορροπία ώστε να τοποθετείται εύκολα παντού. Θα χρειαστούν περίπου 800 χριστουγεννιάτικα λαμπάκια για να γεμίσει.    Ύψος: 240εκ.</Description>
+		<Description>Χριστουγεννιάτικο δέντρο Forbes Slim σε semi slim γραμμή ύψους 2,40m με μεταλλική βάση και ενσωματωμένα κλαδιά (autobranch). 
+Διαθέτει 1411 tips από πράσινο mixed PVC, με ενσωματωμένα κουκουνάρια και κόκκινο deco και έχει μέγιστη διάμετρο 130cm. 
+Η συσκευασία περιέχει 1 τεμάχιο. 
+Θα χρειαστούν περίπου 800 χριστουγεννιάτικα λαμπάκια για να γεμίσει.
+</Description>
 		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -28225,7 +28229,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Name>Χριστουγεννιάτικο δέντρο Tiffany Pine Colorado σε παραδοσιακή γραμμή ύψους 180cm, 902 κλαδιά, μέγιστη διάμετρος 112cm TM-72J</Name>
 		<URL>https://www.skroutz.gr/s/20464145/CHristougenniatiko-Dentro-Tiffany-Pine-Colorado-Prasino-180ek-me-Metalliki-Vasi-TM-72J.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/020464/20464145/fixedratio_20221108113327_christougenniatiko_dentro_tiffany_pine_colorado_prasino_180ek_me_metalliki_vasi_tm_72j.jpeg</Image>
-		<Price>102.9580634897066</Price>
+		<Price>97.54</Price>
 		<Category>Χριστουγεννιάτικα Δέντρα</Category>
 		<Manufacturer>THIREA</Manufacturer>
 		<MPN>1479</MPN>
@@ -30409,7 +30413,7 @@ Volt: 3V</Description>
 		<Name>Esperanza Επιτραπέζια Εστία Επαγωγική Μονή Μαύρη EKH011</Name>
 		<URL>https://www.skroutz.gr/s/38203650/Esperanza-EKH011-Epitrapezia-Estia-Epagogiki-Moni-Mayri-EKH011.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/038203/38203650/xlarge_20220916094449_esperanza_ekh011_epitrapezia_estia_keramiki_moni_mayri.jpeg</Image>
-		<Price>18.31</Price>
+		<Price>20.5</Price>
 		<Category>Επιτραπέζιες Εστίες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKH011</MPN>
@@ -30649,12 +30653,12 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Name>Esperanza Seine Βραστήρας με LED Φωτισμό 1.8lt 2200W Black/Inox EKK026</Name>
 		<URL>https://www.skroutz.gr/s/18251467/Esperanza-Vrastiras-1-7lt-2200W-Asimi-EKK026.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/018251/18251467/xlarge_20190419093702_esperanza_ekk026.jpeg</Image>
-		<Price>19.96</Price>
+		<Price>22.1</Price>
 		<Category>Βραστήρες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
-		<Quantity>95</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30741,7 +30745,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Name>Esperanza Βραστήρας Αυγών 7 Θέσεων 350W Λευκός EKE001</Name>
 		<URL>https://www.skroutz.gr/s/17074545/Esperanza-EKE001-Vrastiras-Aygon-7-THeseon-350W-Leykos.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/030263/30263645/xlarge_20200203094015_688a9ff2.jpeg</Image>
-		<Price>7.714341475000001</Price>
+		<Price>10.18</Price>
 		<Category>Βραστήρες Αυγών</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKE001</MPN>
@@ -31490,7 +31494,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
     Αυτόματη και χειροκίνητη απενεργοποίηση
     Θερμοκρασία εργασίας: 0° C - 40° C
     Διαστάσεις: 54.5x32x3cm</Description>
-		<Quantity>63</Quantity>
+		<Quantity>62</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32436,7 +32440,7 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
     Βάρος: 36g
     Μήκος: 1000mm
 </Description>
-		<Quantity>9</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33220,7 +33224,7 @@ USB-A - Lightning: 5V/2.4A
 		<Manufacturer>XO</Manufacturer>
 		<MPN>X33-56725</MPN>
 		<Description>Υποστηρίζουν την τεχνολογία TWS (True Wireless Stereo), επιτρέποντας τα ακουστικά να συνδέονται μεταξύ τους για τη δημιουργία ενός ασύρματου στερεοφωνικού συνόλου. Η φορητή θήκη με ενσωματωμένη μπαταρία, εκτός από τη λειτουργία φόρτισης, επιτρέπει την ασφαλή αποθήκευση των ακουστικών στην τσέπη, την τσάντα ή το σακίδιο. Απελευθερώστε τα χέρια σας και απολαύστε μουσική ή διαδικτυακό ραδιόφωνο κατά την εργασία, τη βόλτα, την προπόνηση ή την οδήγηση. Τα ακουστικά XO X33 TWS αποτελούν ιδανική λύση για χρήστες smartphone, υπολογιστών, notebooks, tablets και άλλων συσκευών με δυνατότητα Bluetooth. Είναι συμβατά με τις περισσότερες συσκευές Android και iOS. Διαθέτουν επίσης μικρόφωνο, καθιστώντας εύκολη την πραγματοποίηση φωνητικών κλήσεων. Η διάρκεια κλήσεων/ακρόασης μουσικής με πλήρη φόρτιση είναι περίπου 240 λεπτά (ανάλογα με τη στάθμη έντασης), χάρη στη χρήση της ενεργειακά αποδοτικής τεχνολογίας Bluetooth 5.3.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33704,7 +33708,7 @@ USB-C Είσοδος: 5V-2.1A
 USB-A1/A2 Έξοδος: 5V-2.1A
 Διαστάσεις: 143 x 68 x 16mm
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ελαφρύ για να το έχεις καθημερινά μαζί σου και είναι μικρό σε όγκο.</Description>
-		<Quantity>22</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
