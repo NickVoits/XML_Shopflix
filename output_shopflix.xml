@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-04-10 16:05</created_at>
+	<created_at>2026-04-10 16:47</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -212,7 +212,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>662</Quantity>
+		<Quantity>659</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -227,7 +227,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>2191</Quantity>
+		<Quantity>2190</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -242,7 +242,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>691</Quantity>
+		<Quantity>690</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -381,7 +381,7 @@
 		<MPN>0146</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
-		<Quantity>38</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -396,7 +396,7 @@
 		<MPN>0620</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
-		<Quantity>59</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -471,7 +471,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2597</Quantity>
+		<Quantity>2596</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -486,7 +486,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1835</Quantity>
+		<Quantity>1833</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1515,7 +1515,7 @@
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>871</Quantity>
+		<Quantity>870</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1530,7 +1530,7 @@
 		<MPN>0198</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
-		<Quantity>291</Quantity>
+		<Quantity>290</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1590,7 +1590,7 @@
 		<MPN>0510</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>595</Quantity>
+		<Quantity>593</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1780,7 +1780,7 @@
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>1314</Quantity>
+		<Quantity>1266</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1799,7 +1799,7 @@
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>2375</Quantity>
+		<Quantity>2359</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8761,7 +8761,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<MPN>0851</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Πάνες Trusted Trends Junior 5, Moroccan baby Value Pack 44 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
-		<Quantity>205</Quantity>
+		<Quantity>203</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17264,7 +17264,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/51495473/Orthogonio-Trapezaki-Saloniou-Xylino-me-Servitoro-Anthracite-LCT209B22-M100xP50xY48ek.html#reviews</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/051495/51495473/fixedratio_20240321095113_orthogonio_trapezaki_saloniou_xylino_me_servitoro_anthracite_lct209b22_m100xp50xy48ek.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/092030/92030856/fixedratio_20240321095117_31594cd9.jpeg https://c.scdn.gr/images/sku_images/092030/92030860/fixedratio_20240321095119_44840e78.jpeg https://a.scdn.gr/images/sku_images/092030/92030865/fixedratio_20240321095122_a4dc44bb.jpeg https://a.scdn.gr/images/sku_images/092030/92030869/fixedratio_20240321095125_ca07a34f.jpeg</Additional_Image>
-		<Price>103.33</Price>
+		<Price>116.25</Price>
 		<Category>Έπιπλα Σαλονιού</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LCT209B22</MPN>
@@ -17500,7 +17500,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/22917135/Vasagle-Trolei-Kouzinas-Metalliko-Mayro-3-THeseon-60x40x89cm-KKS60XV1.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022917/22917135/fixedratio_20220510183103_vasagle_trolei_kouzinas_metalliko_se_mayro_chroma_3_theseon_kks60xv1_60x40x89cm.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/032129/32129267/fixedratio_20220510183110_99f662bd.jpeg</Additional_Image>
-		<Price>58.41</Price>
+		<Price>63.18</Price>
 		<Category>Ράφια Τροφίμων</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>KKS60XV2</MPN>
@@ -17515,7 +17515,7 @@ Brand: Sidirela</Description>
 		<URL>https://www.skroutz.gr/s/25265301/Vasagle-Trolei-Kouzinas-Xylino-Kafe-3-THeseon-65x40x86cm-LRC72X.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/025265/25265301/fixedratio_20220510183100_vasagle_trolei_kouzinas_xylino_se_kafe_chroma_3_theseon_lrc72x_65x40x86cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LRC72XV1/Universal-Casters-Kitchen-Cart-LRC72X-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LRC72XV1/Universal-Casters-Kitchen-Cart-LRC72X-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LRC72XV1/Universal-Casters-Kitchen-Cart-LRC72X-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LRC72XV1/Universal-Casters-Kitchen-Cart-LRC72X-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LRC72XV1/Universal-Casters-Kitchen-Cart-LRC72X-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LRC72XV1/Universal-Casters-Kitchen-Cart-LRC72X-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LRC72XV1/Universal-Casters-Kitchen-Cart-LRC72X-8.jpg</Additional_Image>
-		<Price>56.16</Price>
+		<Price>63.18</Price>
 		<Category>Ράφια Τροφίμων</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LRC72X</MPN>
@@ -17618,6 +17618,40 @@ Brand: Sidirela</Description>
 
 Σημείωση: Το προϊόν παραδίδεται αμοντάριστο και συσκευασμένο. Περιέχει αναλυτικές οδηγίες συναρμολόγησης.</Description>
 		<Quantity>6</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103037</SKU>
+		<EAN>5203642114646</EAN>
+		<Name>Sidirela Μεταλλικό Τρόλεϊ Κουζίνας με Ρόδες, 3 Θέσεων σε Inox, 44x26x63cm E-1464 (E-3868)</Name>
+		<URL>https://www.skroutz.gr/s/22924103/Sidirela-Kypseli-Trolei-Kouzinas-Metalliko-Asimi-3-THeseon-44x26x63cm-E-1464.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/022924/22924103/fixedratio_20220822113646_sidi_home_kypseli_trolei_kouzinas_metalliko_se_asimi_chroma_3_theseon_44x26x63cm.jpeg</Image>
+		<Price>21.23</Price>
+		<Category>Ράφια Τροφίμων</Category>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN>E-1464</MPN>
+		<Description>Περιγραφή
+Τρόλεϊ κουζίνας κατασκευασμένο από μέταλλο εξαιρετικής ποιότητας και αντοχής στη φθορά και στο χρόνο. Διαθέτει τρεις θέσεις για την αποθήκευση και τοποθέτηση των αντικειμένων σας και ροδάκια για εύκολη μετακίνηση. Ιδανική και πρακτική επιλογή που θα ανανεώσει τη διακόσμηση του χώρου που θα το τοποθετήσετε και θα βοηθήσει στην οργάνωσή του.
+
+Σημείωση: Το προϊόν παραδίδεται αμοντάριστο και συσκευασμένο. Περιέχει αναλυτικές οδηγίες συναρμολόγησης.</Description>
+		<Quantity>23</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103038</SKU>
+		<EAN>5203642137683</EAN>
+		<Name>Sidirela Μεταλλικό Τρόλεϊ Κουζίνας με Ρόδες, 3 Θέσεων σε Μαύρο Χρώμα, 44x26x63cm E-3768</Name>
+		<URL>https://www.skroutz.gr/s/49707833/Sidirela-Roco-Trolei-Kouzinas-Metalliko-se-Mayro-CHroma-3-THeseon-E-3768.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/049707/49707833/fixedratio_20240129141149_sidirela_roco_trolei_kouzinas_metalliko_se_mayro_chroma_3_theseon_e_3768.jpeg</Image>
+		<Price>16.51</Price>
+		<Category>Ράφια Τροφίμων</Category>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN>E-3768</MPN>
+		<Description>Περιγραφή
+Τρόλεϊ κουζίνας κατασκευασμένο από μέταλλο εξαιρετικής ποιότητας και αντοχής στη φθορά και στο χρόνο. Διαθέτει τρεις θέσεις για την αποθήκευση και τοποθέτηση των αντικειμένων σας και ροδάκια για εύκολη μετακίνηση. Ιδανική και πρακτική επιλογή που θα ανανεώσει τη διακόσμηση του χώρου που θα το τοποθετήσετε και θα βοηθήσει στην οργάνωσή του.
+
+Σημείωση: Το προϊόν παραδίδεται αμοντάριστο και συσκευασμένο. Περιέχει αναλυτικές οδηγίες συναρμολόγησης.</Description>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29536,7 +29570,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
-		<Quantity>2246</Quantity>
+		<Quantity>2245</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
