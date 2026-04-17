@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-04-17 16:05</created_at>
+	<created_at>2026-04-17 16:10</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -11948,7 +11948,7 @@ Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xy
 		<Manufacturer>BIO SHOUT</Manufacturer>
 		<MPN>1271</MPN>
 		<Description>Το καθαριστικό λεκέδων της εταιρείας Shout είναι ιδανικό για πολύ λερωμένα ρούχα ή για μία έξτρα δόση καθαριότητας σε κάθε πλύση μαζί με το απορρυπαντικό σας. Σε περίπτωση πολύ σκληρών λεκέδων μπορεί να εφαρμοστεί απευθείας στο σημείο, πριν το πλύσιμο.Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.Προφυλάξεις: Μακριά από παιδιά.</Description>
-		<Quantity>1235</Quantity>
+		<Quantity>1223</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15019,6 +15019,20 @@ Barcode: 5206753033363
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>760100122</SKU>
+		<EAN>5200128643157</EAN>
+		<Name>Softline Fresher Σακούλες Απορριμάτων για τον Κήπο Χωρητικότητας 140lt σε Μπλε Χρώμα 80x110cm 10τμχ</Name>
+		<URL>https://www.skroutz.gr/s/22822596/Softline-Fresher-Sakoules-Aporrimaton-gia-ton-Kipo-CHoritikotitas-140lt-80x110cm-C39375-10tmch-Mple.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/022822/22822575/xlarge_20220302114344_softline_fresher_sakoules_aporrimaton_se_mayro_chroma_80x110cm_140lt_10tmch.jpeg</Image>
+		<Price>2.68</Price>
+		<Category>Σακούλες Απορριμμάτων</Category>
+		<Manufacturer>Softline</Manufacturer>
+		<MPN>ΣΑΚ-760100122</MPN>
+		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>760100151</SKU>
 		<EAN>5202054512316</EAN>
 		<Name>Θαλασσινός Σακούλες Απορριμάτων WC - Γραφείου 45x55cm 20τμχ Διάφανες ΕΜ51231</Name>
@@ -16064,7 +16078,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 4lt/22cm  E-3184</Name>
 		<URL>https://www.skroutz.gr/s/22952109/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-4lt-22cm-E-3184.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022952/22952109/fixedratio_20220510175852_sidi_home_vathia_anoxeidoti_katsarola_4lt_22cm_e_3184.jpeg</Image>
-		<Price>21.31653</Price>
+		<Price>23.448183</Price>
 		<Category>Κατσαρόλες</Category>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3184</MPN>
@@ -16090,7 +16104,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 6lt/24cm  E-3185</Name>
 		<URL>https://www.skroutz.gr/s/22952125/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-6lt-24cm-E-3185.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022952/22952125/fixedratio_20220510175951_sidi_home_vathia_anoxeidoti_katsarola_6lt_24cm_e_3185.jpeg</Image>
-		<Price>23.448183</Price>
+		<Price>25.579836</Price>
 		<Category>Κατσαρόλες</Category>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3185</MPN>
@@ -16126,7 +16140,7 @@ Brand: Sidirela</Description>
 		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 9lt/26cm  E-3186</Name>
 		<URL>https://www.skroutz.gr/s/22952126/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-9lt-26cm-E-3186.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022952/22952126/fixedratio_20220510175842_sidi_home_vathia_anoxeidoti_katsarola_9lt_26cm_e_3186.jpeg</Image>
-		<Price>26.6456625</Price>
+		<Price>28.7773155</Price>
 		<Category>Κατσαρόλες</Category>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3186</MPN>
@@ -16155,7 +16169,7 @@ Brand: Sidirela</Description>
 		<Name>Sidirela Anet Ανοξείδωτη Κατσαρόλα Εξαιρετικής Ποιότητας, με Τριπλό Επαγωγικό Πάτο 12lt/28cm  E-3187</Name>
 		<URL>https://www.skroutz.gr/s/22952134/Sidirela-Anet-Vathia-Anoxeidoti-Katsarola-12lt-28cm-E-3187.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/022952/22952134/fixedratio_20220510175907_sidi_home_vathia_anoxeidoti_katsarola_12lt_28cm_e_3187.jpeg</Image>
-		<Price>34.106448</Price>
+		<Price>39.57</Price>
 		<Category>Κατσαρόλες</Category>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3187</MPN>
@@ -19681,7 +19695,7 @@ Brand: Sidirela</Description>
 Συντήρηση
 
 Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20857,7 +20871,7 @@ Brand: Sidirela</Description>
     Ορθογώνιος καθρέπτης
     9 ρυθμιζόμενοι λαμπτήρες
     Διαστάσεις: 80 x 40 x 145 cm</Description>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24206,7 +24220,7 @@ laptop, βιβλία ή σημειώσεις,
 ℹ️ Σημείωση
 
 Λόγω της φυσικής προέλευσης του μπαμπού, ενδέχεται να υπάρχουν μικρές διαφοροποιήσεις στην απόχρωση ή την υφή, χωρίς να επηρεάζεται η ποιότητα ή η λειτουργικότητα του προϊόντος.</Description>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24279,7 +24293,7 @@ laptop, βιβλία ή σημειώσεις,
 ℹ️ Σημείωση
 
 Λόγω της φυσικής προέλευσης του μπαμπού, ενδέχεται να υπάρχουν μικρές διαφοροποιήσεις στην απόχρωση ή την υφή, χωρίς να επηρεάζεται η ποιότητα ή η λειτουργικότητα του προϊόντος.</Description>
-		<Quantity>77</Quantity>
+		<Quantity>75</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30575,7 +30589,7 @@ Volt: 3V</Description>
 		<URL>https://www.skroutz.gr/s/8025406/Esperanza-Tostiera-gia-2-Tost-750W-Mayri-TKT002K.html#sofos-entrypoint</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/008025/8025406/xlarge_20170801135516_esperanza_titanum_casserole.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/035299/35299993/xlarge_20201019160816_b8fac9f3.jpeg https://b.scdn.gr/images/sku_images/035299/35299966/xlarge_20201019160809_19850b84.jpeg</Additional_Image>
-		<Price>8.829327</Price>
+		<Price>10.6</Price>
 		<Category>Τοστιέρες</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>TKT002K</MPN>
@@ -31842,7 +31856,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 * Μέγεθος: 6.9 x 6.9 x 3.3 cm.
 * Βάρος: 245 g.
 </Description>
-		<Quantity>35</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
