@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-04 11:46</created_at>
+	<created_at>2026-05-04 11:52</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -217,7 +217,7 @@
 		<MPN>184</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>3</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -959,7 +959,7 @@
 		<Manufacturer>Βίκος</Manufacturer>
 		<MPN>ΑΝ-13011</MPN>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>368</Quantity>
+		<Quantity>348</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12591,6 +12591,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>Cyclops</Manufacturer>
 		<MPN>300354</MPN>
 		<Description>Ανταλακτικό Στίφτης για τον Κουβά Cyclops 15,5 lit Νο 224</Description>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13519,6 +13520,7 @@ Super-απορροφητική.
 		<Manufacturer>Glue &amp; Trade</Manufacturer>
 		<MPN>ΠΑΓΙΔ-74961</MPN>
 		<Description>Το PETROGEL MAX ΑΝΤ ΒΟΧ είναι ένα ετοιμόχρηστο εντομοκτόνο δόλωμα σε μορφή γέλης (gel) που χρησιμοποιείται για την καταπολέμηση όλων των σταδίων ανάπτυξης των Μαύρων μυρμηγκιών.</Description>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13532,6 +13534,7 @@ Super-απορροφητική.
 		<Manufacturer>Glue &amp; Trade</Manufacturer>
 		<MPN>ΠΑΓΙΔ-74962</MPN>
 		<Description>Εντομοκτόνο για την καταπολέμηση κατσαρίδας. Εφαρμόζεται με την τοποθέτηση σταγόνων σε επιλεγμένα σημεία κατά τη διάρκεια όλου του έτους.</Description>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15361,19 +15364,6 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<MPN>1432</MPN>
 		<Description>Το δοχείο φαγητού της εταιρείας Cyclops είναι κατασκευασμένο από πλαστικό, ένα υλικό που το κάνει ελαφρύ και πρακτικό.Χωρητικότητα: 2100mlΚατάλληλο για ΜικροκύματαΜήκος: 26.5cmΠλάτος: 18.5cm</Description>
 		<Quantity>10</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>762431</SKU>
-		<EAN>5202707007244</EAN>
-		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Τετράγωνο Φούξια Κατάλληλο για Φούρνο Μικροκυμάτων 3τμχ</Name>
-		<URL>https://www.skroutz.gr/s/31021690/Cyclops-Fresco-Set-Docheia-Fagitou-Plastika-Fouxia-003301877F-3tmch.html</URL>
-		<Image>https://d.scdn.gr/images/sku_images/123014/123014868/fixedratio_20260302154301_05450b30.jpeg</Image>
-		<Price>2.940139944</Price>
-		<Category>Δοχεία Φαγητού</Category>
-		<Manufacturer>Cyclops</Manufacturer>
-		<MPN>CYCL-762431</MPN>
-		<Description>Το Cyclops Fresco Δοχείο Φαγητού είναι ένα πρακτικό σετ 3 τεμαχίων σε φούξια χρώμα, ιδανικό για καθημερινή χρήση. Είναι κατασκευασμένο από ανθεκτικό πλαστικό, κατάλληλο για φούρνο μικροκυμάτων, προσφέροντας ευκολία στη θέρμανση και αποθήκευση φαγητού. Με μοντέρνο σχεδιασμό και εύκολη καθαριότητα, αποτελεί μια εξαιρετική επιλογή για το σπίτι ή το γραφείο.</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
