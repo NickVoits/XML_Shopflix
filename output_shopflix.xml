@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-07 15:05</created_at>
+	<created_at>2026-05-07 16:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -593,7 +593,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>253</Quantity>
+		<Quantity>251</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1780,7 +1780,7 @@
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>2347</Quantity>
+		<Quantity>2345</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1799,7 +1799,7 @@
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>1256</Quantity>
+		<Quantity>1253</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1954,7 +1954,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
-		<Quantity>392</Quantity>
+		<Quantity>390</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1982,7 +1982,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>1248</Quantity>
+		<Quantity>1243</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2498,7 +2498,7 @@ pH = 7,6
 		<MPN>0044</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>703</Quantity>
+		<Quantity>701</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2528,7 +2528,7 @@ pH = 7,6
 		<MPN>0938</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3139,7 +3139,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1318</MPN>
 		<Description>Λευκός Οίνος από τον συνδυασμό δύο ελληνικών ποικιλιών, της Μαλαγουζιάς και του Ασύρτικου.Μετά την προζυμωτική κρυοεκχύλιση, η οινοποίηση εκτυλίσσεται σε ανοξείδωτες ψυχόμενες δεξαμενές σε θερμοκρασία γύρω στους 18°C. Το κρασί έχει λαμπερό αχνόξανθο χρώμα με πρασινωπές ανταύγειες. Η «μύτη» του είναι εκφραστική με εναλλασσόμενες εντυπώσεις, καθώς δίπλα στα εξωτικά φρούτα περνούν νότες πιπεριάς, γιασεμιού, πορτοκαλιού, πεπονιού, βοτάνων και λεμονιού.Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.Σερβίρεται στους 8-10°C.</Description>
-		<Quantity>65</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3708,7 +3708,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1330</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
-		<Quantity>194</Quantity>
+		<Quantity>200</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10749,7 +10749,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
-		<Quantity>9579</Quantity>
+		<Quantity>9577</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11078,7 +11078,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1532</MPN>
 		<Description>Απαλά Χαρτομάντηλα σε κραφτ χάρτινο κουτί. 2 φύλλων απαλά απορροφητικά σε πρακτική συσκευασία ιδανικά για χρήση στο σπίτι, το γραφείο, το αυτοκίνητο, κ.α.</Description>
-		<Quantity>529</Quantity>
+		<Quantity>527</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12818,7 +12818,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα.
 Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα.
 Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>200</Quantity>
+		<Quantity>199</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14108,7 +14108,7 @@ Barcode: 5206753041689
 ℹ️ Οδηγίες Χρήσης
 
 Αφαιρέστε τη διάφανη προστατευτική μεμβράνη και τοποθετήστε το προϊόν στον επιθυμητό χώρο. Για καλύτερη διάρκεια, αποφύγετε την άμεση έκθεση σε ήλιο ή υψηλή θερμοκρασία.</Description>
-		<Quantity>138</Quantity>
+		<Quantity>118</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16919,7 +16919,7 @@ Brand: Sidirela</Description>
 
 Περιεχόμενα συσκευασίας:
 1 x Ντουλάπι αποθήκευσης</Description>
-		<Quantity>94</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19951,7 +19951,7 @@ Brand: Sidirela</Description>
     Μέγιστη χωρητικότητα κάθε κρεμάστρας: 5 Kg 
     Πάχος: 0.6 cm 
     Διαστάσεις: 42 x 21.5 x 0.6 cm</Description>
-		<Quantity>226</Quantity>
+		<Quantity>225</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23814,7 +23814,7 @@ laptop, βιβλία ή σημειώσεις,
 ℹ️ Σημείωση
 
 Λόγω της φυσικής προέλευσης του μπαμπού, ενδέχεται να υπάρχουν μικρές διαφοροποιήσεις στην απόχρωση ή την υφή, χωρίς να επηρεάζεται η ποιότητα ή η λειτουργικότητα του προϊόντος.</Description>
-		<Quantity>73</Quantity>
+		<Quantity>68</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26430,7 +26430,7 @@ Barcode: 5206753044598
 		<Manufacturer>ΟΕΜ</Manufacturer>
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
-		<Quantity>635</Quantity>
+		<Quantity>647</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
