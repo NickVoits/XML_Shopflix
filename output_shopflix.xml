@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-19 16:53</created_at>
+	<created_at>2026-05-19 17:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -2353,6 +2353,7 @@ pH = 7,6
 		<SKU>40081</SKU>
 		<EAN>5200139440967</EAN>
 		<Name>Αέρι Λευκό Ημίξηρο Ροδίτης/Μοσχοφίλερο σε Πλαστική Φιάλη Pet 500ml με Βιδωτό Καπάκι</Name>
+		<URL>https://imgur.com/xGrot0r</URL>
 		<Image>https://i.imgur.com/xGrot0r.png</Image>
 		<Additional_Image>blob:https://imgur.com/981529e3-8556-4047-a20a-bd3472c85dc8</Additional_Image>
 		<Price>1.86016228093125</Price>
@@ -2389,6 +2390,7 @@ pH = 7,6
 		<SKU>40082</SKU>
 		<EAN>5200139440974</EAN>
 		<Name>Αέρι  Ροζέ Ημίξηρο Merlot/Μοσχάτο Τυρνάβου σε Πλαστική Φιάλη Pet 500ml  με Βιδωτό Καπάκι</Name>
+		<URL>https://imgur.com/CIATFEY</URL>
 		<Image>https://i.imgur.com/CIATFEY.png</Image>
 		<Additional_Image>blob:https://imgur.com/981529e3-8556-4047-a20a-bd3472c85dc8</Additional_Image>
 		<Price>1.941748345884375</Price>
@@ -2425,6 +2427,7 @@ pH = 7,6
 		<SKU>40083</SKU>
 		<EAN>5200139440998</EAN>
 		<Name>Αέρι ο Ερυθρό Ημίξηρο Αγιωργίτικο σε Πλαστική Φιάλη Pet 500ml  με Βιδωτό Καπάκι</Name>
+		<URL>https://imgur.com/0h6qvIs</URL>
 		<Image>https://i.imgur.com/0h6qvIs.png</Image>
 		<Additional_Image>blob:https://imgur.com/981529e3-8556-4047-a20a-bd3472c85dc8</Additional_Image>
 		<Price>2.072286049809375</Price>
@@ -2488,6 +2491,7 @@ pH = 7,6
 		<SKU>400100101</SKU>
 		<EAN>5200139441001</EAN>
 		<Name>7 Κούπες Λευκός Ξηρός Ροδίτης σε Πλαστική Φιάλη Pet 1500ml με Βιδωτό Καπάκι</Name>
+		<URL>https://imgur.com/EMKWbcF</URL>
 		<Image>https://i.imgur.com/EMKWbcF.png</Image>
 		<Additional_Image>blob:https://imgur.com/b4278fc4-9fe8-4d5a-bf0e-6412e5434826</Additional_Image>
 		<Price>2.815526408953125</Price>
@@ -2523,6 +2527,7 @@ pH = 7,6
 		<SKU>400100104</SKU>
 		<EAN>5200139441025</EAN>
 		<Name>7 Κούπες Ροζέ Ημίγλυκος Merlot σε Πλαστική Φιάλη Pet 1500ml με Βιδωτό Καπάκι</Name>
+		<URL>https://imgur.com/qOBdfN3</URL>
 		<Image>https://i.imgur.com/qOBdfN3.png</Image>
 		<Additional_Image>blob:https://imgur.com/b4278fc4-9fe8-4d5a-bf0e-6412e5434826</Additional_Image>
 		<Price>3.186351838425</Price>
