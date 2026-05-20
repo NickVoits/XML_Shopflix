@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-20 17:05</created_at>
+	<created_at>2026-05-20 17:10</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -1170,21 +1170,6 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Quantity>808</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>13038</SKU>
-		<EAN>5201946910483</EAN>
-		<Name>Βίκος Tonic Μπουκάλι 6x330ml</Name>
-		<URL>https://www.skroutz.gr/s/37678072/Vikos-Tonic-Mpoukali-6x330ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/037678/37678072/20220818115824_vikos_tonic_mpoukali_6x330ml.jpeg</Image>
-		<Price>3.10290898176</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
-		<MPN>1235</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Ανακάλυψε το Βίκος Tonic με τη δροσιστική φρεσκάδα του φυσικού μεταλλικού νερού και την προσθήκη φυσικού διοξειδίου πηγής. Το πλούσιο άρωμα κινίνης και η διακριτική, ισορροπημένη του γλυκύτητα απογειώνουν τη γεύση, ώστε να το απολαμβάνεις στο αγαπημένο σου ποτό ή και σκέτο.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10614,7 +10599,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://brolias.com/wp-content/uploads/2023/04/768b7044ec2818823b769234cd869d6b-PhotoRoom.jpg</Image>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1074</MPN>
@@ -10628,7 +10613,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://www.geapharmacy.gr/mediastream/w800/files/products/5e26a5d46ba5cb629729114dabbcf8cd.jpg.webp</Image>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1075</MPN>
@@ -10642,7 +10627,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Medium</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://www.geapharmacy.gr/mediastream/w800/files/products/945ceb16e82d6da30ddaf8650d3c4ab0.jpg.webp</Image>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1076</MPN>
@@ -10656,7 +10641,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Small</Name>
 		<URL>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://s1.sklavenitis.gr/images/1600x1600/40/files/ProductMedia/Products/6483473/1.jpg</Image>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1077</MPN>
@@ -10671,7 +10656,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-XL</MPN>
@@ -10688,7 +10673,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-L</MPN>
@@ -10705,7 +10690,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-M</MPN>
@@ -10722,7 +10707,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<URL>https://www.skroutz.gr/s/22505452/Practic-Super-Plus-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022505/22505452/xlarge_20250113102346_practic_super_plus_gantia_latex_me_poudra_se_leyko_chroma_100tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/105971/105971052/xlarge_20250113102345_18dd67a3.jpeg</Additional_Image>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>Practic</Manufacturer>
 		<MPN>680100101-S</MPN>
@@ -10738,7 +10723,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/8/184222_1.jpg</Image>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1078</MPN>
@@ -10752,7 +10737,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/56686836/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://brolias.com/wp-content/uploads/2023/04/PhotoRoom-20240115_141545.png</Image>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
@@ -10766,7 +10751,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Medium</Name>
 		<URL>https://www.skroutz.gr/s/56686835/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://xalkiadakis.gr/products/172914.jpg?v=1675435054</Image>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080</MPN>
@@ -10780,7 +10765,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Small</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023654/23654631/xlarge_20200727130012_thalassinos_nitriliou_powder_free_mayro_100tmch.jpeg</Image>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080001</MPN>
@@ -10796,7 +10781,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468897_1_1.jpg</Image>
-		<Price>5.3106563125</Price>
+		<Price>5.94793507</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1081</MPN>
@@ -10810,7 +10795,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468880_1_1.jpg</Image>
-		<Price>5.3106563125</Price>
+		<Price>5.94793507</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1082</MPN>
@@ -10824,7 +10809,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Medium</Name>
 		<URL>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html?product_id=215518785</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image>
-		<Price>5.3106563125</Price>
+		<Price>5.94793507</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1083</MPN>
@@ -10838,7 +10823,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Name>HDPE Γάντια Πολυαιθυλενίου Διάφανα One Size 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/22849406/Goldglove-HDPE-Gantia-Polyaithyleniou-se-Diafano-CHroma-100tmch.html?product_id=215518789</URL>
 		<Image>https://maskes.gr/wp-content/uploads/2020/05/%CE%93%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%A0%CE%BF%CE%BB%CF%85%CE%B1%CE%B9%CE%B8%CF%85%CE%BB%CE%B5%CE%BD%CE%AF%CE%BF%CF%85-%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1-One-Size-Large-%CE%A3%CE%B5%CF%84-100-%CE%A4%CE%B5%CE%BC%CE%B1%CF%87%CE%AF%CF%89%CE%BD.jpg</Image>
-		<Price>0.3955103999999999</Price>
+		<Price>0.45236502</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1084</MPN>
@@ -14453,7 +14438,7 @@ Barcode: 5206753033363
 	<product>
 		<SKU>75300</SKU>
 		<EAN>4270001094902</EAN>
-		<Name>ΚΑΡΒΟΥΝΟ ΕΤΟΙΜΟ ΓΙΑ ΑΝΑΜΜΑ 1 ΚΙΛ</Name>
+		<Name>Κάρβουνα Έτοιμα για Άναμα σε συσκευασία 1Kg (περιλαμβάνεται προσάναμμα)</Name>
 		<URL>https://www.skroutz.gr/s/46407802/Karvouna-PSisimatos.html?product_id=204994008</URL>
 		<Image>https://cdn02.plentymarkets.com/65vhg2on0lps/item/images/182092/middle/16800797-Holzkohlebox-Zuend-mich-an-002-print-Fogra39-jpg.jpg</Image>
 		<Price>3.66036375</Price>
