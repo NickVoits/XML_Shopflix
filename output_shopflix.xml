@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-16 16:05</created_at>
+	<created_at>2026-06-16 16:48</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -307,7 +307,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>301</Quantity>
+		<Quantity>303</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -322,7 +322,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>243</Quantity>
+		<Quantity>245</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -491,7 +491,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2158</Quantity>
+		<Quantity>2157</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1169,7 +1169,7 @@
 		<MPN>0137</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
-		<Quantity>411</Quantity>
+		<Quantity>414</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1580,7 +1580,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0788</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>171</Quantity>
+		<Quantity>155</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1795,7 +1795,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>83</Quantity>
+		<Quantity>431</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1833,7 +1833,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>491</Quantity>
+		<Quantity>575</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1997,7 +1997,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>1215</Quantity>
+		<Quantity>1299</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5803,7 +5803,7 @@ Xώρα: Γαλλία
 		<Manufacturer>JAMESON</Manufacturer>
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
-		<Quantity>174</Quantity>
+		<Quantity>180</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6254,7 +6254,7 @@ Xώρα: Γαλλία
 Παρασκευάζεται στη Σουηδία, αποκλειστικά από φυσικά συστατικά και δεν περιέχει προσθήκη ζάχαρης.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>44</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6649,7 +6649,7 @@ Xώρα: Γαλλία
 		<Manufacturer>GORDONS</Manufacturer>
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
-		<Quantity>131</Quantity>
+		<Quantity>134</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10066,7 +10066,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>NIVEA</Manufacturer>
 		<MPN>1252</MPN>
 		<Description>Περιποιητικό κρεμώδες αφρόλουτρο που προσφέρει στην επιδερμίδα φρεσκάδα και απαλότητα.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και διαρκεί ικανοποιητικά το άρωμά του.</Description>
-		<Quantity>175</Quantity>
+		<Quantity>174</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10717,7 +10717,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1336</Quantity>
+		<Quantity>1337</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11526,7 +11526,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>BIO SHOUT</Manufacturer>
 		<MPN>1271</MPN>
 		<Description>Το καθαριστικό λεκέδων της εταιρείας Shout είναι ιδανικό για πολύ λερωμένα ρούχα ή για μία έξτρα δόση καθαριότητας σε κάθε πλύση μαζί με το απορρυπαντικό σας. Σε περίπτωση πολύ σκληρών λεκέδων μπορεί να εφαρμοστεί απευθείας στο σημείο, πριν το πλύσιμο.Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.Προφυλάξεις: Μακριά από παιδιά.</Description>
-		<Quantity>1106</Quantity>
+		<Quantity>1105</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12677,7 +12677,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Μπορεί να χρησιμοποιηθεί στεγνό ή βρεγμένο. Μπορεί να χρησιμοποιηθεί ταυτόχρονα για να σφουγγαρίσετε το πάτωμα και μετά να το στεγνώσετε ή και αντίθετα - πρώτα να το σκουπίσετε και μετά να το σφουγγαρίσετε
     Η δεξαμενή πάνω στο κοντάρι, εξασφαλίζει γρήγορη και αποτελεσματική καθαριότητα χωρίς την χρήση κουβά. Μπορείτε να προσθέσετε στην δεξαμενή το απορρυπαντικό της επιλογής σας χρησιμοποιώντας τον ειδικό δοσομετρητή
     Πανί 100% μικροϊνών που προσφέρουν απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)</Description>
-		<Quantity>163</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12758,7 +12758,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα.
 Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα.
 Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>105</Quantity>
+		<Quantity>104</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14281,7 +14281,7 @@ Barcode: 5206753033363
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3358</MPN>
 		<Description>Σακουλάκια τροφίμων με διπλό zipper με διαστάσεις 18x20cm και χωρητικότητα 3.79lt.</Description>
-		<Quantity>53</Quantity>
+		<Quantity>51</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14422,7 +14422,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
-		<Quantity>1984</Quantity>
+		<Quantity>1983</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16251,7 +16251,7 @@ Brand: Viosarp</Description>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> Ε-3401</MPN>
 		<Description>Πλαστική βάση οργάνωσης και αποθήκευσης παπουτσιών ώστε να εξοικονομείτε χώρο στην ντουλάπα σας. Στο κάτω μέρος διαθέτει στοπ ώστε να αποφεύγεται η ολίσθηση των παπουτσιών.</Description>
-		<Quantity>689</Quantity>
+		<Quantity>679</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20057,7 +20057,7 @@ Brand: Viosarp</Description>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>CRF21PK50</MPN>
 		<Description>Το σετ από την εταιρία Songmics, αποτελείται από 50 βελούδινες κρεμάστρες, ώστε να αποφεύγεται η ολίσθηση των ρούχων. Διαθέτουν μεταλλικά άγκιστρα, ανθεκτικά στη σκουριά και στη διάβρωση, τα οποία περιστρέφονται κατά 360°, για μεγαλύτερη ευκολία.Το πάχος της κάθε κρεμάστρας είναι μόνο 0.6 cm, δεν σπάει εύκολα και είναι ιδανικές όταν δεν υπάρχει αρκετός χώρος στην ντουλάπα.</Description>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23944,7 +23944,7 @@ laptop, βιβλία ή σημειώσεις,
 ℹ️ Σημείωση
 
 Λόγω της φυσικής προέλευσης του μπαμπού, ενδέχεται να υπάρχουν μικρές διαφοροποιήσεις στην απόχρωση ή την υφή, χωρίς να επηρεάζεται η ποιότητα ή η λειτουργικότητα του προϊόντος.</Description>
-		<Quantity>30</Quantity>
+		<Quantity>29</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25096,7 +25096,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
-		<Quantity>429</Quantity>
+		<Quantity>439</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26106,7 +26106,7 @@ Brand: Sidirela
 		<MPN>0534</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>579</Quantity>
+		<Quantity>578</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29146,7 +29146,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Description>Αλκαλικές μπαταρίες Maxell AAA κατάλληλες για τηλεχειριστήρια, ρολόγια, φακούς, αριθμομηχανές κ.ά.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
-		<Quantity>1118</Quantity>
+		<Quantity>1117</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29181,7 +29181,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>1776</MPN>
 		<Description>Αλκαλικές μπαταρίες ΑΑ της Maxell κατάλληλες για φακούς, παιχνίδια, τηλεχειριστήρια, αριθμομηχανές κι άλλες μικροσυσκευές.</Description>
-		<Quantity>637</Quantity>
+		<Quantity>636</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
