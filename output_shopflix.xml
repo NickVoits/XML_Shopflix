@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-17 16:05</created_at>
+	<created_at>2026-06-17 17:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -167,13 +167,13 @@
 		<MPN>0178</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>320271</SKU>
 		<EAN>5200334266683</EAN>
-		<Name>Fix Άνευ Αλκοόλ 4*6pack*330ml (5+1 Δώρο) Κουτί</Name>
+		<Name>Fix Άνευ Αλκοόλ 6*330ml (5+1 Δώρο) Κουτί</Name>
 		<URL>https://www.skroutz.gr/s/22847241/Fix-Aney-Lager-Kouti-6x330ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/022847/22847241/xlarge_20200421091505_fix_aney_koutaki_5_1_temachia_330ml.jpeg</Image>
 		<Price>4.33</Price>
@@ -208,7 +208,7 @@
 	<product>
 		<SKU>32323</SKU>
 		<EAN>5202382900045</EAN>
-		<Name>ΒΑΠ Ζύθος Lager 6pack*330ml (5+1 Δώρο) Κουτί</Name>
+		<Name>ΒΑΠ Ζύθος Lager 6*330ml (5+1 Δώρο) Κουτί</Name>
 		<URL>https://www.skroutz.gr/s/17021099/VAP-Lager-Kouti-6x330ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/017455/17455609/20210304174507_vap_kouti_330ml.jpeg</Image>
 		<Price>4.79</Price>
@@ -337,7 +337,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>238</Quantity>
+		<Quantity>237</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -491,7 +491,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2042</Quantity>
+		<Quantity>2036</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -506,7 +506,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1426</Quantity>
+		<Quantity>1414</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -578,7 +578,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1055</Quantity>
+		<Quantity>1054</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -593,7 +593,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>197</Quantity>
+		<Quantity>196</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1019,7 +1019,7 @@
 		<MPN>0752</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
-		<Quantity>1136</Quantity>
+		<Quantity>1133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1049,7 +1049,7 @@
 		<MPN>0306</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
-		<Quantity>513</Quantity>
+		<Quantity>512</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1079,7 +1079,7 @@
 		<MPN>0034</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
-		<Quantity>1618</Quantity>
+		<Quantity>1617</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1124,7 +1124,7 @@
 		<MPN>0312</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
-		<Quantity>1183</Quantity>
+		<Quantity>1182</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1169,7 +1169,7 @@
 		<MPN>0137</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
-		<Quantity>384</Quantity>
+		<Quantity>381</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1184,7 +1184,7 @@
 		<MPN>0831</MPN>
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
-		<Quantity>307</Quantity>
+		<Quantity>306</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1505,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0310</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>1974</Quantity>
+		<Quantity>1972</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1550,7 +1550,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0198</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
-		<Quantity>224</Quantity>
+		<Quantity>222</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1565,7 +1565,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0035</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
-		<Quantity>261</Quantity>
+		<Quantity>255</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1610,7 +1610,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0510</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>333</Quantity>
+		<Quantity>331</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1700,7 +1700,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0701</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
-		<Quantity>223</Quantity>
+		<Quantity>222</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1715,7 +1715,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0654</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
-		<Quantity>180</Quantity>
+		<Quantity>179</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1795,7 +1795,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>0</Quantity>
+		<Quantity>988</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1833,7 +1833,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>351</Quantity>
+		<Quantity>1695</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2085,7 +2085,7 @@ pH = 7,6
 		<MPN>1030</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Είναι  ένα ανθρακούχο ποτό με με χυμό λεμονιού και αρώματα μαστίχας, λεμονιού και ginger, που περικλείει όλα τα αρώματα των χαρακτηριστικών αυτών  προϊόντων της Χίου. Με τn νέα γεύση λεμόνι και τζίντζερ, η απόλαυση γίνεται ακόμη πιο δελεαστική.  Το απολαυστικό μαστιχόνερο MastiH2O λεμόνι και τζίντζερ Στουπάκης μπορεί να σε  συνοδεύσει οποιαδήποτε στιγμή της ημέρας. Χρησιμοποιήστε την φαντασία  σας και δημιουργήστε τους ξεχωριστούς &amp; υγιεινούς συνδυασμούς που  σας αρέσουν.</Description>
-		<Quantity>133</Quantity>
+		<Quantity>709</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2316,7 +2316,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>1294</Quantity>
+		<Quantity>1288</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5402,7 +5402,7 @@ Xώρα: Γαλλία
 		<MPN>0874</MPN>
 		<Weight>0.05 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>327</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11170,7 +11170,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>Endless</Manufacturer>
 		<MPN>0406</MPN>
 		<Description>Τραπεζομάντιλο λαδόκολλα σε φύλλο 130x110 cm επαγγελματικής χρήσης. Διατίθεται σε κιβώτιο 110 τεμαχίων.</Description>
-		<Quantity>255</Quantity>
+		<Quantity>254</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11526,7 +11526,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>BIO SHOUT</Manufacturer>
 		<MPN>1271</MPN>
 		<Description>Το καθαριστικό λεκέδων της εταιρείας Shout είναι ιδανικό για πολύ λερωμένα ρούχα ή για μία έξτρα δόση καθαριότητας σε κάθε πλύση μαζί με το απορρυπαντικό σας. Σε περίπτωση πολύ σκληρών λεκέδων μπορεί να εφαρμοστεί απευθείας στο σημείο, πριν το πλύσιμο.Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.Προφυλάξεις: Μακριά από παιδιά.</Description>
-		<Quantity>1100</Quantity>
+		<Quantity>1050</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12656,7 +12656,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Description>Με νέα σύνθεση από 100% μικροΐνες που προσφέρουν μέγιστη απορροφητικότητα και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό.
 
 Οι λευκές μικροΐνες εξασφαλίζουν τέλεια καθαριότητα για πάτωμα που αστράφτει. Οι κόκκινες μικροΐνες χαρίζουν βαθύ καθαρισμό και απομακρύνουν ακόμα και την πιο επίμονη βρωμιά. Είναι κατάλληλο για όλους τους τύπους πατώματος. Πλένεται στο πλυντήριο στους 60°C.</Description>
-		<Quantity>915</Quantity>
+		<Quantity>912</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16584,36 +16584,6 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>77001101021</SKU>
-		<EAN>5203642145480-gray</EAN>
-		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Γκρι Σετ 2τμχ (Μ37,5xΠ37,5xΥ40cm &amp; Μ33,5xΠ33,5xΥ36cm) E-4548</Name>
-		<URL>https://www.sidirela.gr/nea-proionta/trapezaki-quot-side-table-quot/</URL>
-		<Image>https://www.sidirela.gr/uploads/2025/06/e-4548-99-trapezaki-side-table-2-tem-set-web.jpg</Image>
-		<Price>22.056624</Price>
-		<Category>Έπιπλα Σαλονιού</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-4548-1</MPN>
-		<Description>Τα βοηθητικά τραπεζάκια σαλονιού της εταιρείας Sidirela είναι ιδανικά για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού 
-προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. 
-Είναι τετράγωνα σετ 2 τεμαχίων, αποθηκεύεται το ένα κάτω από το άλλο και αποτελείται από μέταλλο και μοριοσανίδα σε μαύρο και γκρι χρώμα. 
-
-
-Διαστάσεις 1ου τραπεζιού:
-
-    Μήκος: 37,5εκ.
-    Πλάτος: 37,5εκ.
-    Ύψος: 40εκ.
-
-
-Διαστάσεις 2ου τραπεζιού:
-
-    Μήκος: 33,5εκ.
-    Πλάτος: 33,5εκ.
-    Ύψος: 36εκ.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>77001101022</SKU>
 		<EAN>5203642145480-bez</EAN>
 		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Μπεζ Σετ 2τμχ (Μ37,5xΠ37,5xΥ40cm &amp; Μ33,5xΠ33,5xΥ36cm) E-4548</Name>
@@ -17048,6 +17018,29 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>77001102581</SKU>
+		<EAN>194343043616</EAN>
+		<Name>Vasagle Ξύλινο Σκαμπό για Σαλόνι ή Μποντουάρ με Βελούδινη Επένδυση και Στατική ικανότητα φορτίου 120 κιλά, σε Λευκό/Ροζ χρώμα 28.6x45x45cm RDS001W01</Name>
+		<URL>https://www.skroutz.gr/s/64035210/skampo-saloniou-ependymeno-me-veloudo-leyko-28-6x45x45ek-rds001w01.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/125019/125019360/fixedratio_20260416163124_3020509e.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-2.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-3.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-4.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-5.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-6.jpg</Additional_Image>
+		<Price>34.46</Price>
+		<Category>Σκαμπό</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>RDS001W01</MPN>
+		<Description>Σταθερό και στιβαρό: κατασκευασμένο από στιβαρή μοριοσανίδα, αυτό το σκαμπό τουαλέτας είναι ανθεκτικό και μπορεί να αντέξει βάρος έως και 120 κιλά. Τα αντιολισθητικά υποπόδια διασφαλίζουν ότι παραμένει στη θέση του - μια αξιόπιστη εφαρμογή για την καθημερινή σας ρουτίνα ομορφιάς.
+
+Υψηλή άνεση καθίσματος: το μαξιλάρι με βελούδινο ύφασμα και αφρό υψηλής πυκνότητας προσφέρει άνετη εφαρμογή για styling ή μακιγιάζ και περιποίηση δέρματος. Απολαύστε άνεση κάθε φορά που κάθεστε σε αυτό το σκαμπό.
+
+Ευέλικτο: αυτό το σκαμπό μακιγιάζ μπορεί επίσης να χρησιμοποιηθεί ως παπουτσοθήκη στην είσοδο, ως υποπόδιο στο σαλόνι, ως σκαμπό πιάνου στην κρεβατοκάμαρα ή ως επιπλέον κάθισμα στην τραπεζαρία, καθιστώντας το μια ευέλικτη προσθήκη στο σπίτι σας.
+
+Εύκολη συναρμολόγηση: με σαφείς οδηγίες (η αγγλική γλώσσα δεν είναι εγγυημένη) και σημειωμένα μέρη, αυτό το σκαμπό μπορεί να συναρμολογηθεί γρήγορα και αβίαστα σε λίγα μόνο απλά βήματα. Σε ελάχιστο χρόνο, μπορείτε να απολαύσετε αυτήν την καρέκλα μπουντουάρ.
+
+Κομψός σχεδιασμός: με τον μινιμαλιστικό σχεδιασμό και τις καθαρές γραμμές του, αυτό το σκαμπό για το μπουντουάρ εντυπωσιάζει με την κομψή του εμφάνιση και ομορφαίνει τη συνολική εμφάνιση του δωματίου σας.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7700110301</SKU>
 		<EAN>6955880382194</EAN>
 		<Name>Vasagle Τρόλει Κουζίνας Μεταλλικό/Ξύλινο σε Μαύρο/ Ρουστίκ Καφέ Χρώμα με 3 Ράφια 60x40x89cm KKS60XV2</Name>
@@ -17205,6 +17198,67 @@ Brand: Viosarp</Description>
 Τρόλεϊ κουζίνας κατασκευασμένο από μέταλλο εξαιρετικής ποιότητας και αντοχής στη φθορά και στο χρόνο. Διαθέτει τρεις θέσεις για την αποθήκευση και τοποθέτηση των αντικειμένων σας και ροδάκια για εύκολη μετακίνηση. Ιδανική και πρακτική επιλογή που θα ανανεώσει τη διακόσμηση του χώρου που θα το τοποθετήσετε και θα βοηθήσει στην οργάνωσή του.
 
 Σημείωση: Το προϊόν παραδίδεται αμοντάριστο και συσκευασμένο. Περιέχει αναλυτικές οδηγίες συναρμολόγησης.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103101</SKU>
+		<EAN>0194343329437</EAN>
+		<Name>Songmics Μεταλλικός Στεγνωτήρας Νεροχύτη με Αποστράγγιση και Θήκη Μαχαιροπήρουνων σε Μαύρο Χρώμα 31x42x18.5cm KCS550B01</Name>
+		<URL>https://www.skroutz.gr/s/65325869/songmics-stragistiri-nerochyti-metalliko-mayro-31x42x18-5cm.html</URL>
+		<Image>https://c.scdn.gr/images/sku_images/127190/127190369/fixedratio_20260520144257_affa4b17.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/skuImgs/251223/KCS550B01/KCS550B01-2.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/KCS550B01/KCS550B01-3.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/KCS550B01/KCS550B01-4.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/KCS550B01/KCS550B01-5.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/KCS550B01/KCS550B01-6.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/KCS550B01/KCS550B01-7.jpg</Additional_Image>
+		<Price>21.27</Price>
+		<Category>Προϊόντα Οργάνωσης Νεροχύτη</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>KCS550B01</MPN>
+		<Description>Αποτελεσματική αποστράγγιση: Η θήκη πιάτων διαθέτει περιστρεφόμενο και επεκτεινόμενο στόμιο 360°, διασφαλίζοντας ότι το νερό μπορεί να ρέει στον νεροχύτη από οποιαδήποτε κατεύθυνση. Η κεκλιμένη βάση αποστράγγισης επιτρέπει γρήγορη αποστράγγιση, ενώ η θήκη για τα μαχαιροπίρουνα κατευθύνει επίσης το νερό στη βάση αποστράγγισης.
+
+Για μικρές οικογένειες: Με συμπαγές μέγεθος 31 x 42 x 18,5 cm, αυτή η σχάρα στεγνώματος πιάτων είναι ιδανική για μια οικογένεια 2-3 ατόμων. Μπορεί να χωρέσει έως και 11 πιάτα μαζί με μπολ και ποτήρια, βελτιστοποιώντας τον χώρο της κουζίνας σας διατηρώντας παράλληλα τα πιάτα σας οργανωμένα.
+
+Ανθεκτικό στη σκουριά και ανθεκτικό: Κατασκευασμένο από χάλυβα υψηλής ποιότητας με επιφάνεια με ηλεκτροστατική βαφή πούδρας, αυτό το ράφι κουζίνας για πιάτα έχει σχεδιαστεί για να αντιστέκεται στη σκουριά και την παραμόρφωση, εξασφαλίζοντας μακροχρόνια ανθεκτικότητα και διατηρώντας την κομψή του εμφάνιση.
+
+Συναρμολόγηση χωρίς προβλήματα: Απλοποιήστε τη διαδικασία συναρμολόγησης με τον απλό σχεδιασμό του, χωρίς εργαλεία και βίδες. Απλώς συνδέστε τα εξαρτήματα για να το συναρμολογήσετε, εξοικονομώντας χρόνο και προσπάθεια.
+
+Οργανωμένη αποθήκευση μαχαιροπίρουνων: Αυτή η θήκη πιάτων στον πάγκο της κουζίνας περιλαμβάνει μια θήκη μαχαιροπίρουνων 3 τμημάτων, η οποία μπορεί να αποσπαστεί για ξεχωριστή χρήση. Διευκολύνει την τακτοποιημένη αποθήκευση και την εύκολη πρόσβαση στα κουτάλια, τα πιρούνια και άλλα μικρά σκεύη κουζίνας σας.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103103</SKU>
+		<EAN>0194343160719</EAN>
+		<Name>Songmics Διώροφος Μεταλλικός Στεγνωτήρας Νεροχύτη με Αποστράγγιση και Θήκη Μαχαιροπήρουνων σε Μαύρο Χρώμα 31x42x36.5cm KCS551BH01</Name>
+		<URL>https://www.skroutz.gr/s/67191827/songmics-stegnotiras-nerochyti-diorofos-apo-anoxeidoto-atsali-se-mayro-chroma-31x42x36-5cm-kcs551bh01.html</URL>
+		<Image>https://c.scdn.gr/images/sku_images/127191/127191416/fixedratio_20260520150122_d557f9b4.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/products/KCS551BH01/KCS551BH01-2-DE.jpg https://static.eu.distributor.songmics.com/products/KCS551BH01/KCS551BH01-3-DE.jpg https://static.eu.distributor.songmics.com/products/KCS551BH01/KCS551BH01-4-DE.jpg https://static.eu.distributor.songmics.com/products/KCS551BH01/KCS551BH01-5-DE.jpg https://static.eu.distributor.songmics.com/products/KCS551BH01/KCS551BH01-6-DE.jpg https://static.eu.distributor.songmics.com/products/KCS551BH01/KCS551BH01-7-DE.jpg</Additional_Image>
+		<Price>28.37</Price>
+		<Category>Προϊόντα Οργάνωσης Νεροχύτη</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>KCS551BH01</MPN>
+		<Description>Αποδοτική Αποστράγγιση: Η θήκη πιάτων διαθέτει ένα περιστρεφόμενο και επεκτεινόμενο στόμιο 360°, διασφαλίζοντας ότι το νερό μπορεί να ρέει στον νεροχύτη από οποιαδήποτε κατεύθυνση. Η κεκλιμένη βάση αποστράγγισης επιτρέπει την γρήγορη αποστράγγιση, ενώ η θήκη για μαχαιροπίρουνα κατευθύνει επίσης το νερό στην βάση αποστράγγισης. Για τις περισσότερες οικογένειες: Με ένα συμπαγές μέγεθος 31 x 42 x 36,5 cm, αυτή η θήκη στεγνώματος πιάτων 2 επιπέδων είναι ιδανική για μια οικογένεια 2-4 ατόμων. Μπορεί να χωρέσει έως και 10 πιάτα μαζί με μπολ και ποτήρια, βελτιστοποιώντας τον χώρο της κουζίνας σας διατηρώντας παράλληλα τα πιάτα σας οργανωμένα. Ανθεκτικό στη σκουριά και ασφαλές: Κατασκευασμένο από χάλυβα υψηλής ποιότητας με επιφάνεια με ηλεκτροστατική βαφή πούδρας, αυτό το θήκη πιάτων κουζίνας έχει σχεδιαστεί για να αντιστέκεται στη σκουριά και την παραμόρφωση για διαρκή ανθεκτικότητα. Τα πλαστικά εξαρτήματα PP είναι χωρίς BPA, εξασφαλίζοντας ασφαλή χρήση. Εύκολη συναρμολόγηση: Με απλή δομή και χωρίς να απαιτούνται εργαλεία ή βίδες, αυτό το θήκη για μαχαιροπίρουνα είναι πανεύκολο στη συναρμολόγηση. Απλώς κουμπώστε τα μέρη μεταξύ τους και είναι έτοιμη σε χρόνο μηδέν! Βολική θήκη για μαχαιροπίρουνα: Το θήκη πιάτων για τον πάγκο της κουζίνας περιλαμβάνει μια αφαιρούμενη θήκη για μαχαιροπίρουνα με 3 διαμερίσματα. Αυτό σας επιτρέπει να οργανώνετε τακτοποιημένα κουτάλια, πιρούνια και άλλα μικρά σκεύη κουζίνας, και μπορεί να χρησιμοποιηθεί ξεχωριστά, αν θέλετε.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103104</SKU>
+		<EAN>0194343156842</EAN>
+		<Name>Songmics Οργανωτής Νεροχύτη με Αποστράγγιση από Μέταλλο και Πλαστικό 24.7x12.7x23cm σε Ασημί/ Μαύρο Χρώμα KCS555BH01</Name>
+		<URL>https://www.skroutz.gr/s/67480251/songmics-vasi-organosis-nerochyti-apo-anoxeidoto-atsali-mayro-12-7x24-7x23cm-kcs555bh01.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/067480/67480251/fixedratio_20260525160014_songmics_vasi_organosis_nerochyti_apo_anoxeidoto_atsali_se_mayro_chroma_12_7x24_7x23cm_kcs555bh01.jpeg</Image>
+		<Additional_Image>https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS555BH01/Amazon/UK/KCS555BH01-2.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS555BH01/Amazon/UK/KCS555BH01-3-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS555BH01/Amazon/UK/KCS555BH01-4-Shuang-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS555BH01/Amazon/UK/KCS555BH01-5-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS555BH01/Amazon/UK/KCS555BH01-6-Shuang-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS555BH01/Amazon/UK/KCS555BH01-7-UK.jpg </Additional_Image>
+		<Price>14.18</Price>
+		<Category>Προϊόντα Οργάνωσης Νεροχύτη</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>KCS555BH01</MPN>
+		<Description>Αποχέτευση χωρίς κόπο: Με κεκλιμένη σανίδα αποστράγγισης και περιστρεφόμενο στόμιο 360°, αυτή η θήκη νεροχύτη κουζίνας διοχετεύει νερό απευθείας στον νεροχύτη, διατηρώντας τον πάγκο σας στεγνό και πεντακάθαρο.
+
+Συμπαγής αλλά ευρύχωρος: Με διαστάσεις 5"Β x 9,7"Π x 9,1"Υ, αυτός ο οργανωτής νεροχύτη που εξοικονομεί χώρο είναι ιδανικός για μικρές κουζίνες, ενώ παράλληλα παρέχει άφθονο χώρο αποθήκευσης για τα απαραίτητα είδη καθαρισμού σας.
+
+Χωρισμένοι χώροι, εύκολη οργάνωση: Με έναν ειδικό χώρο για σαπούνι και αφαιρούμενες, ξεχωριστές θήκες για βούρτσες, σφουγγάρια και πανιά, αυτή η θήκη νεροχύτη διατηρεί τα είδη πλυσίματος πιάτων σας οργανωμένα και εύκολα προσβάσιμα.
+
+Ανθεκτική κατασκευή: Κατασκευασμένη από ανοξείδωτο ατσάλι 304 υψηλής ποιότητας και πλαστικό PP, αυτή η θήκη πιάτων είναι στιβαρή, ανθεκτική στη σκουριά και εύκολη στο καθάρισμα - κατασκευασμένη για μακροχρόνια χρήση.
+
+Ευέλικτο &amp; Γρήγορο στη συναρμολόγηση: Κατάλληλο για κουζίνες, μπάνια ή πλυσταριό, αυτό το καθαριστικό νεροχύτη διευκολύνει τον καθαρισμό σε διάφορους χώρους. Συναρμολογείται σε χρόνο μηδέν, χωρίς να απαιτούνται εργαλεία, για άμεση οργάνωση.</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -17398,6 +17452,21 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7700110352</SKU>
+		<EAN>0194343038254</EAN>
+		<Name>Vasagle Τραπέζι Τραπεζαρίας Ξύλινο με Μεταλλικό Σκελετό Μ110xΠ70xΥ77cm, σε Μαύρο/Ρουστίκ Καφέ Χρώμα KDT081B01</Name>
+		<URL>https://www.skroutz.gr/s/66910676/trapezi-trapezarias-metalliko-kafe-mayro-70x110x77ek-kdt081b01.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/066910/66910676/fixedratio_20260428122725_trapezi_trapezarias_metalliko_kafe_mayro_70x110x77ek_kdt081b01.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/products/KDT081B01/KDT081B01-2-DE.jpg https://static.eu.distributor.songmics.com/products/KDT081B01/KDT081B01-3-DE.jpg https://static.eu.distributor.songmics.com/products/KDT081B01/KDT081B01-4-DE.jpg https://static.eu.distributor.songmics.com/products/KDT081B01/KDT081B01-5-DE.jpg https://static.eu.distributor.songmics.com/products/KDT081B01/KDT081B01-6-DE.jpg https://static.eu.distributor.songmics.com/products/KDT081B01/KDT081B01-7-DE.jpg https://static.eu.distributor.songmics.com/products/KDT081B01/KDT081B01-8-DE.jpg</Additional_Image>
+		<Price>96.44</Price>
+		<Category>Τραπέζια Τραπεζαρίας &amp; Κουζίνας</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>KDT081B01</MPN>
+		<Description>[Ευρύχωρο για 4 άτομα] Αυτό το τραπέζι φαγητού έχει διαστάσεις 70 x 110 εκ. και μπορεί να φιλοξενήσει άνετα έως και 4 άτομα. Μαζευτείτε γύρω από το τραπέζι με την οικογένεια ή τους φίλους σας και απολαύστε ένα νόστιμο γεύμα μαζί [Προσδίδει βιομηχανική πινελιά] Με τον συνδυασμό μιας ρουστίκ καφέ επιφάνειας τραπεζιού και ενός ματ μαύρου ατσάλινου σκελετού, αυτό το τραπέζι κουζίνας προσθέτει μια ελκυστική βιομηχανική εμφάνιση στην τραπεζαρία σας [Στιβαρό &amp; Σταθερό] Κατασκευασμένο με στιβαρό ατσάλινο σκελετό και μοριοσανίδα υψηλής ποιότητας, αυτό το ρουστίκ τραπέζι φαγητού είναι κατασκευασμένο για να διαρκεί για χρόνια. Τα ρυθμιζόμενα πόδια του εξασφαλίζουν σταθερότητα σε ελαφρώς ανώμαλα δάπεδα [Ευέλικτο] Είτε το χρειάζεστε για τραπεζαρία, σαλόνι, κουζίνα, μπαρ ή καφετέρια, αυτό το τραπέζι λειτουργεί άψογα. Εξαρτάται από εσάς να αποφασίσετε πού θα το τοποθετήσετε! [Εύκολη και Γρήγορη Συναρμολόγηση] Με απλή δομή, εύκολες στην παρακολούθηση οδηγίες και αριθμημένα μέρη, αυτό το βιομηχανικό τραπέζι φαγητού μπορεί να συναρμολογηθεί αβίαστα σε χρόνο μηδέν</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7700110361</SKU>
 		<EAN>0194343035024</EAN>
 		<Name>Vasagle Μπουφές Τραπεζαρίας Ξύλινος με Μεταλλικό Σκελετό Μ100xΠ33xΥ80cm, σε Μαύρο/Φυσικό Χρώμα LSC092B50</Name>
@@ -17578,6 +17647,29 @@ Brand: Viosarp</Description>
 1 x Κιτ αξεσουάρ
 1 x Οδηγίες</Description>
 		<Quantity>7</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001104041</SKU>
+		<EAN>0194343189963</EAN>
+		<Name>Vasagle σετ 2 Σκαμπό μπαρ με Ραμένο Τεχνητό Δέρμα και ατσάλινο σκελετό, ύψος καθίσματος 63 cm, σε Μαύρο Χρώμα Μαύρο LBC080B01</Name>
+		<URL>https://www.skroutz.gr/s/51831648/Skampo-Mpar-Dermatino-Ink-Black-2tmch-49-5x49-5x63ek-LBC080B01.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/125020/125020997/fixedratio_20260416163730_9ee963b4.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-4-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-5-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-6-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-7-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-8-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC080B01/LBC080B01-9-DE.jpg </Additional_Image>
+		<Price>89.34975</Price>
+		<Category>Σκαμπό</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC080B01</MPN>
+		<Description>[Ενισχύστε τον Χώρο σας] Δείτε το μείγμα συνθετικού δέρματος, εκλεπτυσμένων ραφών και κομψών κωνικών ποδιών σε αυτά τα σκαμπό μπαρ από τη συλλογή VASAGLE EKHO, έναν απτό φόρο τιμής στο πνεύμα της χειροτεχνίας, που ανεβάζει το σπίτι σας σε νέα ύψη κομψότητας.
+
+[Άνεση σε κάθε κάθισμα] Γλιστρήστε το χέρι σας πάνω από το λείο κάλυμμα και στη συνέχεια χαλαρώστε στην υποστηρικτική πολυτέλεια του χυτευμένου αφρού 58D πάχους 3,1". Αυτά τα σκαμπό μπαρ προσφέρουν μια άνετη εμπειρία καθίσματος που διαρκεί, αντέχοντας στη δοκιμασία του χρόνου.
+
+[Προσαρμόσιμη Κομψότητα] Αυτό το σετ 2 σκαμπό μπαρ, με μοναδικά κλιμακωτά υποπόδια, είναι η απόλυτη καινοτομία. Χωράνε εύκολα φίλους όλων των υψών, προσφέροντας έναν απαράμιλλο συνδυασμό άνεσης και ευελιξίας.
+
+[Σταθερή Σταθερότητα, Απαλή στα Δάπεδα] Με τα μεταλλικά πόδια που ανοίγουν και σχηματίζουν μια στιβαρή βάση, σε συνδυασμό με τα περιστρεφόμενα πόδια ισοπέδωσης, αυτά τα σκαμπό κουζίνας όχι μόνο προσφέρουν ακλόνητη σταθερότητα σε ανώμαλες επιφάνειες, αλλά υπόσχονται και επαφή χωρίς γρατσουνιές.
+
+Αβίαστα καθαρό και κομψό] Περιστασιακές διαρροές; Μην ανησυχείτε! Το αδιάβροχο κάλυμμα από συνθετικό δέρμα που μπορεί να σκουπιστεί στη στιγμή. Τα ματ ατσάλινα πόδια είναι ανθεκτικά στις γρατζουνιές, διατηρώντας την εκλεπτυσμένη γοητεία τους ακόμα και με καθημερινή χρήση.</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18780,7 +18872,7 @@ Brand: Viosarp</Description>
 - 1 x
 Κιτ προστασίας από ανατροπή
 - 1 x Οδηγίες</Description>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
