@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-18 11:05</created_at>
+	<created_at>2026-06-18 12:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -232,7 +232,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>496</Quantity>
+		<Quantity>350</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>312</Quantity>
+		<Quantity>311</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -292,7 +292,7 @@
 		<MPN>0733</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Quantity>155</Quantity>
+		<Quantity>154</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>241</Quantity>
+		<Quantity>239</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -322,7 +322,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>210</Quantity>
+		<Quantity>208</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -578,7 +578,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1014</Quantity>
+		<Quantity>1013</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -593,7 +593,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>190</Quantity>
+		<Quantity>188</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -723,7 +723,7 @@
     Coca-Cola Original Taste
 
 </Description>
-		<Quantity>112</Quantity>
+		<Quantity>111</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -765,7 +765,7 @@
     Coke Zero Sugar
 
 </Description>
-		<Quantity>58</Quantity>
+		<Quantity>57</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -959,7 +959,7 @@
 		<Manufacturer>Βίκος</Manufacturer>
 		<MPN>ΑΝ-13011</MPN>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>540</Quantity>
+		<Quantity>538</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1064,7 +1064,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>1241</Quantity>
+		<Quantity>1235</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1079,7 +1079,7 @@
 		<MPN>0034</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
-		<Quantity>1569</Quantity>
+		<Quantity>1566</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1094,7 +1094,7 @@
 		<MPN>0699</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
-		<Quantity>542</Quantity>
+		<Quantity>539</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1124,7 +1124,7 @@
 		<MPN>0312</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
-		<Quantity>1125</Quantity>
+		<Quantity>1122</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1550,7 +1550,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0198</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
-		<Quantity>217</Quantity>
+		<Quantity>205</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1873,7 +1873,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 pH = 7,6
 ΑΓΩΓΙΜΟΤΗΤΑ = 556 μS/cm
 ΟΛΙΚΗ ΣΚΛΗΡΟΤΗΤΑ = 308 mg/l CaCO3</Description>
-		<Quantity>5098</Quantity>
+		<Quantity>5065</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1927,7 +1927,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1255</Quantity>
+		<Quantity>1252</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1955,7 +1955,7 @@ pH = 7,6
 		<Manufacturer>Αυρα</Manufacturer>
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
-		<Quantity>61</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2559,7 +2559,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>632</Quantity>
+		<Quantity>626</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2694,7 +2694,7 @@ pH = 7,6
 		<MPN>0606</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
-		<Quantity>51</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2741,7 +2741,7 @@ pH = 7,6
 		<MPN>0854</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
-		<Quantity>151</Quantity>
+		<Quantity>150</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3309,7 +3309,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1318</MPN>
 		<Description>Λευκός Οίνος από τον συνδυασμό δύο ελληνικών ποικιλιών, της Μαλαγουζιάς και του Ασύρτικου.Μετά την προζυμωτική κρυοεκχύλιση, η οινοποίηση εκτυλίσσεται σε ανοξείδωτες ψυχόμενες δεξαμενές σε θερμοκρασία γύρω στους 18°C. Το κρασί έχει λαμπερό αχνόξανθο χρώμα με πρασινωπές ανταύγειες. Η «μύτη» του είναι εκφραστική με εναλλασσόμενες εντυπώσεις, καθώς δίπλα στα εξωτικά φρούτα περνούν νότες πιπεριάς, γιασεμιού, πορτοκαλιού, πεπονιού, βοτάνων και λεμονιού.Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.Σερβίρεται στους 8-10°C.</Description>
-		<Quantity>102</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5891,7 +5891,7 @@ Xώρα: Γαλλία
 		<Manufacturer>JOHNNIE WALKER</Manufacturer>
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
-		<Quantity>105</Quantity>
+		<Quantity>104</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8601,7 +8601,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0813</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως με 2 λεπίδες και λιπαντική ταινία από αλόη βέρα, για την προστασία του δέρματος από ερεθισμούς. Διαθέτει κινούμενη κεφαλή που προσαρμόζεται στις καμπύλες του προσώπου για ευκολία κινήσεων.</Description>
-		<Quantity>1966</Quantity>
+		<Quantity>1961</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9604,7 +9604,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>LUX</Manufacturer>
 		<MPN>1488</MPN>
 		<Description>Σαπούνι χεριών velvet touch της Lux με νότες από γιασεμί και αιθέριο έλαιο αμυγδάλου, με άρωμα που διαρκεί για ώρες.</Description>
-		<Quantity>55</Quantity>
+		<Quantity>52</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11512,7 +11512,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-2683</MPN>
 		<Description>Χρωμοπροστασία η οποία προσφέρει εξαιρετική βοήθεια σε κάθε σας πλύση. Το πακέτο περιέχει 12 φύλλα. </Description>
-		<Quantity>130</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11732,7 +11732,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>TUBOFLO</Manufacturer>
 		<MPN>0628</MPN>
 		<Description>Το Tuboflo ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις μόνο με την προσθήκη κρύου νερού.</Description>
-		<Quantity>1949</Quantity>
+		<Quantity>1944</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11746,7 +11746,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>TUBOFLO</Manufacturer>
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
-		<Quantity>4118</Quantity>
+		<Quantity>4103</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12758,7 +12758,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα.
 Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα.
 Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>97</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12784,7 +12784,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Πλενόμενη: Πλένεται στο πλυντήριο για επαναλαμβανόμενη χρήση και υγιεινή.
 
 Ιδανική για όλους τους τύπους δαπέδων: Ξύλο, πλακάκι, μάρμαρο, laminate</Description>
-		<Quantity>104</Quantity>
+		<Quantity>103</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13194,7 +13194,7 @@ Super-απορροφητική.
 		<Manufacturer>Sidirela</Manufacturer>
 		<MPN> Ε-0917</MPN>
 		<Description>Η λούφα σιλικόνης είναι ιδανική για τον καθαρισμό και τον απολέπιση του δέρματος. Εξαιρετικά μαλακή στην επαφή με το δέρμα, βοηθά στην απομάκρυνση νεκρών κυττάρων και την προώθηση της κυκλοφορίας του αίματος. Το στρογγυλό σχήμα της διευκολύνει την πρόσβαση σε διάφορες περιοχές του σώματος. Σε διάφορα χρώματα.</Description>
-		<Quantity>138</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23093,7 +23093,7 @@ laptop, βιβλία ή σημειώσεις,
     Υποαλλεργικό - αντιμικροβιακό
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
-		<Quantity>124</Quantity>
+		<Quantity>122</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23113,7 +23113,7 @@ laptop, βιβλία ή σημειώσεις,
     Υποαλλεργικό - αντιμικροβιακό
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
-		<Quantity>242</Quantity>
+		<Quantity>241</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25670,7 +25670,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0136</MPN>
 		<Description>Πλαστικό σκεύος μιας χρήσης χωρητικότητας 750ml με αποσπώμενο καπάκι, ιδανικό για συσκευασία ζεστών φαγητών. Μπορεί να χρησιμοποιηθεί για να ζεσταθεί σε φούρνο μικροκυμμάτων. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25684,7 +25684,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0674</MPN>
 		<Description>Πλαστικό σκεύος μιας χρήσης χωρητικότητας 1000ml με αποσπώμενο καπάκι, ιδανικό για συσκευασία ζεστών φαγητών. Μπορεί να χρησιμοποιηθεί για να ζεσταθεί σε φούρνο μικροκυμμάτων. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
-		<Quantity>328</Quantity>
+		<Quantity>326</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34488,7 +34488,7 @@ Silicon Power - USB Stick Silicon Power</Description>
     Μίνι Led φακός.
     Τροφοδοσία: Επαναφορτιζόμενη μπαταρία.
 </Description>
-		<Quantity>23</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
