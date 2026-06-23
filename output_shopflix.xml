@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-23 14:05</created_at>
+	<created_at>2026-06-23 15:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -13,7 +13,7 @@
 		<MPN>0461</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -232,7 +232,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>173</Quantity>
+		<Quantity>165</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>196</Quantity>
+		<Quantity>183</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>140</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -322,7 +322,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>174</Quantity>
+		<Quantity>161</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -352,7 +352,7 @@
 		<MPN>0836</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
-		<Quantity>45</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -578,7 +578,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>900</Quantity>
+		<Quantity>898</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -593,7 +593,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>113</Quantity>
+		<Quantity>111</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1004,7 +1004,7 @@
 		<MPN>0165</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>2040</Quantity>
+		<Quantity>2004</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1019,7 +1019,7 @@
 		<MPN>0752</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
-		<Quantity>1097</Quantity>
+		<Quantity>1091</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0036</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
-		<Quantity>361</Quantity>
+		<Quantity>355</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1049,7 +1049,7 @@
 		<MPN>0306</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
-		<Quantity>492</Quantity>
+		<Quantity>486</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1079,7 +1079,7 @@
 		<MPN>0034</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
-		<Quantity>1415</Quantity>
+		<Quantity>1376</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1124,7 +1124,7 @@
 		<MPN>0312</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
-		<Quantity>1013</Quantity>
+		<Quantity>1004</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1154,7 +1154,7 @@
 		<MPN>0476</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
-		<Quantity>487</Quantity>
+		<Quantity>481</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1169,7 +1169,7 @@
 		<MPN>0137</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
-		<Quantity>267</Quantity>
+		<Quantity>264</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1260,7 +1260,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0264</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ποτό από Ανθρακούχο φυσικό Μεταλλικό Νερό Σουρωτή με φυσικά αρώματα Pink Grapefruit. Χωρίς ζάχαρη και με λιγότερο από 1 θερμίδα ανά 100ml προϊόντος. Το νερό Σουρωτή συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού, με την αναζωογονητική γεύση των ροζ γκρεϊπφρουτ.</Description>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1415,7 +1415,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>3655</Quantity>
+		<Quantity>3574</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1430,7 +1430,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0584</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
-		<Quantity>390</Quantity>
+		<Quantity>363</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1445,7 +1445,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0803</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
-		<Quantity>397</Quantity>
+		<Quantity>370</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1460,7 +1460,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0000</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>2080</Quantity>
+		<Quantity>1999</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1535,7 +1535,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>1493</Quantity>
+		<Quantity>1481</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1795,7 +1795,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>541</Quantity>
+		<Quantity>316</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1814,7 +1814,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>732</Quantity>
+		<Quantity>576</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1833,7 +1833,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1773</Quantity>
+		<Quantity>1689</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1873,7 +1873,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 pH = 7,6
 ΑΓΩΓΙΜΟΤΗΤΑ = 556 μS/cm
 ΟΛΙΚΗ ΣΚΛΗΡΟΤΗΤΑ = 308 mg/l CaCO3</Description>
-		<Quantity>4771</Quantity>
+		<Quantity>4763</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1927,7 +1927,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>2696</Quantity>
+		<Quantity>2692</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1969,7 +1969,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
-		<Quantity>506</Quantity>
+		<Quantity>436</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2011,7 +2011,7 @@ pH = 7,6
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
-		<Quantity>1380</Quantity>
+		<Quantity>1368</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2316,7 +2316,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>1096</Quantity>
+		<Quantity>1078</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2559,7 +2559,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>455</Quantity>
+		<Quantity>443</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7022,7 +7022,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 - Σε ένα ηλεκτρικό μπλέντερ, προσθέστε 2 κουταλιές της σούπας ζάχαρη, το χυμό μισού lime, μερικές σταγόνες λικέρ Μαρασκίνο, θρυμματισμένο πάγο και 60ml Havana Club 3 Ετών.
 
 - Ανακατέψτε τα συστατικά σας μέχρι να γίνουν παχύρρευστα και σερβίρετε.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7916,7 +7916,7 @@ Bitter Fig Fizz
 		<MPN>1186</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι ένα λικέρ κατασκευασμένο από τους διάσημους ειδικούς λικέρ Bols, αυτό είναι ένα δημοφιλές πράσινο λικέρ μπανάνας αρωματισμένο με μια ποικιλία από βότανα.</Description>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8008,7 +8008,7 @@ Bitter Fig Fizz
 		<Manufacturer>Passoa </Manufacturer>
 		<MPN>1770</MPN>
 		<Description>Το Λικέρ Passoa με κύριο συστατικό τα φρούτα του πάθους από τη Βραζιλία,  κρατάει καλά κρυμμένες τις εξωτικές γεύσεις του από την Κεντρική Αμερική εδώ και 20 χρόνια. Tο Passoa Passion Fruit με το ιδιαίτερο μαύρο μπουκάλι του γίνεται η ψυχή του party.</Description>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10192,7 +10192,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1006</MPN>
 		<Description>Κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει ελαιόλαδο και βάλσαμο, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Είναι δερματολογικά ελεγμένη και κατάλληλη για όλες τις ηλικίες και τους τύπους δέρματος.</Description>
-		<Quantity>3</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10248,7 +10248,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1219</MPN>
 		<Description>Γαλάκτωμα σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά του εμπεριέχει αλόη βέρα και ρόδι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Το γαλάκτωμα σώματος είναι δερματολογικά ελεγμένο και κατάλληλο για όλες τις ηλικίες και τους τύπους δέρματος.</Description>
-		<Quantity>8</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10287,7 +10287,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1262</MPN>
 		<Description>Κρέμα απολέπισης της Aroma κατάλληλη. Καθαρίζει και αποτοξινώνει την επιδερμίδα από τα νεκρά κύτταρα, αφήνοντας την απαλή και λαμπερή. Μετά την απολέπιση, το δέρμα είναι ανανεωμένο και έτοιμο να δεχθεί όποια ενυδατική κρέμα και να την απορροφήσει σε μεγαλύτερο ποσοστό, με αποτέλεσμα να είναι πιο απαλό και λαμπερό.•Τύπος: Κρέμα•Περιοχή Χρήσης: Για όλο το Σώμα, Πρόσωπο</Description>
-		<Quantity>9</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10371,7 +10371,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1767</MPN>
 		<Description>Η κρέμα Arnica leg therapy, με Arnica &amp; Tea Tree oil είναι ιδανική για μώλωπες, και μυϊκούς πόνους. Ανακουφίζει και δροσίζει τα κουρασμένα και πρησμένα πόδια από την έντονη άσκηση και ορθοστασία, έχει πολύ ωραίο άρωμα.</Description>
-		<Quantity>9</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10399,7 +10399,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1263</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Περιοχή Χρήσης: Για όλο το σώμα•Είδη: Κρέμα•Χρήση: Κυτταρίτιδα, Σύσφιξη</Description>
-		<Quantity>8</Quantity>
+		<Quantity>50</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10725,7 +10725,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.
 
 Με πιστοποίηση CE.</Description>
-		<Quantity>315</Quantity>
+		<Quantity>303</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10772,7 +10772,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
-		<Quantity>12031</Quantity>
+		<Quantity>12013</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10831,7 +10831,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
-		<Quantity>2181</Quantity>
+		<Quantity>2169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11466,7 +11466,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
     Ελέγχετε πάντα τη σταθερότητα του χρώματος πριν από την προεπεξεργασία των λεκέδων με καθαρό υγρό.
     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.
     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία. </Description>
-		<Quantity>114</Quantity>
+		<Quantity>112</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13048,7 +13048,7 @@ Super-απορροφητική.
 		<Manufacturer>MADONA</Manufacturer>
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
-		<Quantity>428</Quantity>
+		<Quantity>416</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13765,7 +13765,7 @@ Super-απορροφητική.
 		<MPN>0953</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
-		<Quantity>869</Quantity>
+		<Quantity>849</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14323,7 +14323,7 @@ Barcode: 5206753033363
 		<MPN>0480</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Μπρικέτα Κάρβουνου A’ Grade (διάρκεια καύσης 6-7 ώρες). Η μπρικέτα κάρβουνο είναι η καλύτερη λύση σε μεγαλύτερη διάρκεια από τα κοινά κάρβουνα.•100% φυσικό προϊόν, το οποίο είναι πεπιεσμένο πριονίδι.•Υψηλή θερμιδική αξία.•Δεν καπνίζει, δεν βγάζει σπινθήρες και δεν αφήνει οσμές.•Έχει μεγάλη αντοχή.•Συσκευασία 10kg σε χάρτινο κουτί.</Description>
-		<Quantity>176</Quantity>
+		<Quantity>173</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25996,7 +25996,7 @@ Brand: Sidirela
     Χωρητικότητα: 940ml
 
 Η τιμή αφορά τα 100 τεμάχια.</Description>
-		<Quantity>11</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26010,7 +26010,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1692</MPN>
 		<Description>Το καπάκι έχει κατασκευαστεί έτσι ώστε από την μια πλευρά να είναι χαρτόνι λευκό δίνοντας την δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει και από την άλλη μεριά να είναι επενδυμένο με αλουμίνιο σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
-		<Quantity>10</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26124,7 +26124,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0587</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 750ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία κρύων φαγητών. Η συσκευασία περιλαμβάνει 100 τεμάχια.</Description>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26258,7 +26258,7 @@ Brand: Sidirela
 103 x 148 mm   Outside Bottom Dimensions
 60 mm        Filling depth
 1000 cm3       Capacity</Description>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26547,7 +26547,7 @@ Brand: Sidirela
 		<MPN>1564</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>97</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29799,7 +29799,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 Βάρος: 3.0gr
 Volt: 3V
 ΜΠΑΤ. PKCELL CR2032-5B</Description>
-		<Quantity>163</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29819,7 +29819,7 @@ Volt: 3V
 Διάμετρος: 20.0 mm
 Βάρος: 2.5 gr
 Volt: 3V</Description>
-		<Quantity>116</Quantity>
+		<Quantity>115</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31290,7 +31290,7 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
     Επιφάνεια εφαρμογής: 100 m²
     Μήκος καλωδίου: 120 cm
     Μέγεθος προϊόντος: 48,5 x 7,5 x 25,0 [cm]</Description>
-		<Quantity>0</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36462,7 +36462,7 @@ VeganΌχι
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>212</Quantity>
+		<Quantity>203</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36522,7 +36522,7 @@ VeganΌχι
 		<MPN>1514</MPN>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
-		<Quantity>359</Quantity>
+		<Quantity>335</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
