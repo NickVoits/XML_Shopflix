@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-07-09 14:05</created_at>
+	<created_at>2026-07-09 15:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>65</Quantity>
+		<Quantity>62</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>400</Quantity>
+		<Quantity>394</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1169,7 +1169,7 @@
 		<MPN>0711</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Tuborg Lemon Soda, είναι ένα μοναδικό ανθρακούχο αναψυκτικό, που προσφέρει φυσική δροσιά, γιατί φτιάχνεται με φυσικό χυμό λεμονιού, χωρίς προσθήκη ζάχαρης.Οι ευχάριστες έντονες φυσαλίδες της Tuborg Soda, συναντούν τον αναζωογονητικό φυσικό χυμό λεμονιού, σε ένα μοναδικό συνδυασμό, που απευθύνεται σε όσους αναζητούν κάτι γευστικό, αλλά και πιο φυσικό για να τους ξεδιψάσει.</Description>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1843,7 +1843,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 pH = 7,6
 ΑΓΩΓΙΜΟΤΗΤΑ = 556 μS/cm
 ΟΛΙΚΗ ΣΚΛΗΡΟΤΗΤΑ = 308 mg/l CaCO3</Description>
-		<Quantity>4112</Quantity>
+		<Quantity>4108</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1897,7 +1897,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>2368</Quantity>
+		<Quantity>2363</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1925,7 +1925,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
-		<Quantity>41</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1953,7 +1953,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>295</Quantity>
+		<Quantity>289</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2667,7 +2667,7 @@ pH = 7,6
 		<MPN>0044</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>182</Quantity>
+		<Quantity>180</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7262,7 +7262,7 @@ Bitter Fig Fizz
 		<Manufacturer>Jagermeister</Manufacturer>
 		<MPN>55500-20</MPN>
 		<Description>Ο δημιουργός του Jagermeister, Curt Mast,  συνδύασε αποτελεσματικά πενήντα έξι φυσικά συστατικά για να δημιουργήσει ένα λικέρ βοτάνων, πλούσιο στην υφή και έντονο στη γεύση. Ο πλήρης κατάλογος των βοτάνων που συνθέτουν αυτό το πολύπλοκο λικέρ είναι ένα μυστικό που φυλάσσεται πολύ καλά κρυμμένο. Παλαιώνεται για ένα χρόνο σε γερμανικά δρύινα βαρέλια και στη συνέχεια εμφιαλώνεται. Γευστικά, δίνει μια αμυδρή γλυκύτητα στον ουρανίσκο μαζί με νότες από εσπεριδοειδή και μπαχαρικά, ενώ στο τελείωμα του αφήνει μια πικρή αίσθηση.</Description>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11723,7 +11723,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
-		<Quantity>85</Quantity>
+		<Quantity>325</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11823,7 +11823,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Πλάκα καθαρισμού με δυνατότητα πλυσίματος για εύκολη συντήρηση.
 Ιδανικό για καθημερινή χρήση ώστε να διατηρείτε το σπίτι σας καθαρό και τακτοποιημένο.
 Προϊόντα Vileda - αναγνωρίσιμη γκάμα για την ποιότητα και την καινοτομία τους.</Description>
-		<Quantity>109</Quantity>
+		<Quantity>107</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11841,7 +11841,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
 Διατίθεται σε ένα τεμάχιο, ιδανικό για καθημερινή χρήση.
 Η ποιότητα κατασκευής του πανιού εξασφαλίζει ότι μπορείτε να διατηρείτε τα δάπεδά σας πάντα καθαρά και φρέσκα, χωρίς να βλάπτετε την επιφάνειά τους.</Description>
-		<Quantity>134</Quantity>
+		<Quantity>132</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11863,7 +11863,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα.
 Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα.
 Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>33</Quantity>
+		<Quantity>249</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12083,7 +12083,7 @@ Super-απορροφητική.
 		<Manufacturer>MADONA</Manufacturer>
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
-		<Quantity>311</Quantity>
+		<Quantity>291</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13527,7 +13527,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
-		<Quantity>1890</Quantity>
+		<Quantity>1885</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13655,7 +13655,7 @@ Barcode: 5206753033363
 		<Description>Σακούλες απορριμμάτων για καλαθάκια μπάνιου, γραφείου και μικρούς κάδους.
 
 Εξαιρετικής αντοχής.</Description>
-		<Quantity>9175</Quantity>
+		<Quantity>9174</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35397,7 +35397,7 @@ VeganΌχι
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>1330</Quantity>
+		<Quantity>1329</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35427,7 +35427,7 @@ VeganΌχι
 		<MPN>1024</MPN>
 		<Weight>4 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.• Κυρίως συστατικό: Κρέας• Συσκευασία: 4kg</Description>
-		<Quantity>160</Quantity>
+		<Quantity>159</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35442,7 +35442,7 @@ VeganΌχι
 		<MPN>1025</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή από την Morando•Συσκευασία: Κονσέρβα•Ποσότητα: 1τμχ•Βάρος: 405gr</Description>
-		<Quantity>3336</Quantity>
+		<Quantity>3300</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35502,7 +35502,7 @@ VeganΌχι
 		<MPN>1028</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
-		<Quantity>4852</Quantity>
+		<Quantity>4840</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 </mywebstore>
