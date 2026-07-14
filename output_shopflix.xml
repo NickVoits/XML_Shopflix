@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-07-14 15:05</created_at>
+	<created_at>2026-07-14 16:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>12</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>102</Quantity>
+		<Quantity>246</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -262,7 +262,7 @@
 		<MPN>0733</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Quantity>29</Quantity>
+		<Quantity>101</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>269</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>92</Quantity>
+		<Quantity>164</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>117</Quantity>
+		<Quantity>189</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2257,7 +2257,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>659</Quantity>
+		<Quantity>653</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5377,7 +5377,7 @@ pH: 3.45
 		<MPN>0483</MPN>
 		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
-		<Quantity>1550</Quantity>
+		<Quantity>1556</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5978,7 +5978,7 @@ pH: 3.45
 		<MPN>55110-01</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Η Ursus Roter είναι ένα λικέρ το οποίο βασίζεται στη vodka και στα sloe berries. Πρόκειται για μια γλυκιά vodka, με έντονη φρουτώδη γεύση κόκκινων φρούτων του δάσους. Ιδανική για σφηνάκι, μπορείτε ωστόσο να την απολαύσετε και σκέτη με πάγο, με σόδα ή ως συστατικό σε κάποιο κοκτέιλ.</Description>
-		<Quantity>24</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8774,7 +8774,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>TEO</Manufacturer>
 		<MPN>0037</MPN>
 		<Description>Το TEO Soap Luscious Vanilla είναι ένα σαπούνι που περιέχει εκλεπτυσμένο άρωμα βανίλιας. Με την απαλή του σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Η αρωματική νότα της βανίλιας δημιουργεί μια ευχάριστη αίσθηση φρεσκάδας και ευεξίας κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
-		<Quantity>4216</Quantity>
+		<Quantity>4215</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8788,7 +8788,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>TEO</Manufacturer>
 		<MPN>0422</MPN>
 		<Description>Το TEO Soap Ylang Ylang είναι ένα σαπούνι που περιέχει το αρωματικό έλαιο Ylang Ylang. Με την απαλή του σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Το Ylang Ylang είναι γνωστό για τις αναζωογονητικές και ηρεμιστικές του ιδιότητες, προσφέροντας μια αίσθηση χαλάρωσης και ευεξίας κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
-		<Quantity>4396</Quantity>
+		<Quantity>4395</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8802,7 +8802,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>TEO</Manufacturer>
 		<MPN>0999</MPN>
 		<Description>Το TEO Soap Midnight Jasmine είναι ένα σαπούνι με το αρωματικό άρωμα του γιασεμιού. Με μια απαλή σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Το άρωμα του Midnight Jasmine δημιουργεί μια αίσθηση ευεξίας και χαλάρωσης κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
-		<Quantity>3470</Quantity>
+		<Quantity>3469</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8816,7 +8816,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>TEO</Manufacturer>
 		<MPN>0618</MPN>
 		<Description>Το TEO Soap Irresistible Fig είναι ένα σαπούνι με το αρωματικό άρωμα του φρούτου σύκου, δημιουργώντας μια εκλεπτυσμένη αίσθηση φρεσκάδας και ευεξίας. Η απαλή του σύνθεση καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
-		<Quantity>5415</Quantity>
+		<Quantity>5414</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9410,7 +9410,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1266</MPN>
 		<Description>Η κρέμα χεριών και νυχιών Bio Hand &amp; Nail, της εταιρείας Aroma, χάρη στην ενυδατική και αναπλαστική της δράση, επανορθώνει και προστατεύει τα ξηρά, σκασμένα και ταλαιπωρημένα χέρια.Τα χέρια επανορθώνονται και ανακτούν την απαλότητά τους ενώ ταυτόχρονα η επιδερμίδα προστατεύεται καλύτερα από τις μελλοντικές εξωτερικές επιθέσεις.•Δράση: Ανάπλαση, ΕνυδάτωσηΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>27</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9424,7 +9424,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1267</MPN>
 		<Description>Η κρέμα χεριών και νυχιών Bio Hand &amp; Nail, της εταιρείας Aroma, χάρη στην ενυδατική και αναπλαστική της δράση, επανορθώνει και προστατεύει τα ξηρά, σκασμένα και ταλαιπωρημένα χέρια. Ακόμα, στη σύνθεσή της περιέχει ουρία, ένα συστατικό που δρα κατά της ξηρότητας και του έντονου κνησμού. Η κερατολυτική, μαλακτική, αντιβακτηριακή και ενυδατική δράση που προσφέρει στην κεράτινη στιβάδα της επιδερμίδας την καθιστούν σύμμαχο για ένα ταλαιπωρημένο και πολύ ξηρό δέρμα. Με την χρήση ουρίας το δέρμα αποκτά ξανά την ελαστικότητα του και ενισχύεται ενάντια στους αλλεργιογόνους παράγοντες που μπορούν να επιτείνουν το πρόβλημα και να ερεθίσουν ακόμη περισσότερο μία ευαίσθητη και εύθραυστη επιδερμίδα.Τα χέρια επανορθώνονται και ανακτούν την απαλότητά τους ενώ ταυτόχρονα η επιδερμίδα προστατεύεται καλύτερα από τις μελλοντικές εξωτερικές επιθέσεις.•Δράση: Ανάπλαση, Ενυδάτωση•Συστατικό: ΟυρίαΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>38</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10353,7 +10353,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
-		<Quantity>11595</Quantity>
+		<Quantity>11593</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10383,7 +10383,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1306</Quantity>
+		<Quantity>1300</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10398,7 +10398,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>RK.T2.2X330G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point διαθέτει δύο φύλλα και μικρό περφορέ. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού και στον καθημερινό σας βίο.</Description>
-		<Quantity>968</Quantity>
+		<Quantity>966</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10440,7 +10440,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
-		<Quantity>1139</Quantity>
+		<Quantity>1121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10454,7 +10454,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
-		<Quantity>1586</Quantity>
+		<Quantity>1585</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10557,7 +10557,7 @@ Melaleuca Alternifolia (Tea Tree)
     Υλικό: πλαστικό
     Μονόφυλλη ή Δίφυλλη
     Διαστάσεις: 25x9x21cm</Description>
-		<Quantity>48</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12326,7 +12326,7 @@ Melaleuca Alternifolia (Tea Tree)
 Πλάκα καθαρισμού με δυνατότητα πλυσίματος για εύκολη συντήρηση.
 Ιδανικό για καθημερινή χρήση ώστε να διατηρείτε το σπίτι σας καθαρό και τακτοποιημένο.
 Προϊόντα Vileda - αναγνωρίσιμη γκάμα για την ποιότητα και την καινοτομία τους.</Description>
-		<Quantity>165</Quantity>
+		<Quantity>164</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12957,7 +12957,7 @@ Super-απορροφητική.
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>VC469</MPN>
 		<Description>Κόλλα σε πιατάκι για κατσαρίδες, οι οποίες περνώντας από το σημείο εφαρμογής παγιδεύονται, με αποτέλεσμα την εξολόθρευσή τους.</Description>
-		<Quantity>207</Quantity>
+		<Quantity>203</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13184,7 +13184,7 @@ Super-απορροφητική.
 		<Manufacturer>BIC</Manufacturer>
 		<MPN>1123</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Μήκος: 6cm•Mε παιδική ασφάλεια•Χώρα παραγωγής: Γαλλία</Description>
-		<Quantity>843</Quantity>
+		<Quantity>841</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13198,7 +13198,7 @@ Super-απορροφητική.
 		<Manufacturer>BIC</Manufacturer>
 		<MPN>1124</MPN>
 		<Description>•Μη αναγωμόσιμοι  •Χρησιμοποιούν αέριο•Διαστάσεις : 8.5cm x 2.5cm (maxi)•Με πέτρα και λάμα ασφαλείας•Κατασκευάζονται στη Γαλλία</Description>
-		<Quantity>512</Quantity>
+		<Quantity>510</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15576,7 +15576,7 @@ Brand: Sidirela</Description>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3772</MPN>
 		<Description>Πτυσσόμενος δίσκος κατασκευασμένος από ξύλο μπαμπού, ιδανικός για πρωινό στο κρεβάτι. Διπλώνεται και αποθηκεύεται εξοικονομώντας χώρο. Πρακτικός σχεδιασμός για άνετη απόλαυση γεύματος.</Description>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18484,7 +18484,7 @@ Brand: Viosarp</Description>
 1 x Πάγκος παπουτσιών 
 1 x Κιτ αξεσουάρ 
 1 x εγχειρίδιο χρήστη (η αγγλική γλώσσα δεν είναι εγγυημένη).</Description>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19826,7 +19826,7 @@ Brand: Viosarp</Description>
     Μέγιστη χωρητικότητα κάθε κρεμάστρας: 5 Kg 
     Πάχος: 0.6 cm 
     Διαστάσεις: 42 x 21.5 x 0.6 cm</Description>
-		<Quantity>112</Quantity>
+		<Quantity>111</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26340,7 +26340,7 @@ mini markets
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
-		<Quantity>271</Quantity>
+		<Quantity>268</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27346,7 +27346,7 @@ Barcode: 5206753044598
 Μέγεθος C6, ιδανικό για έγγραφα διαστάσεων 11.4x16.2 εκ.
 Συσκευασία περιλαμβάνει 250 τεμάχια, προσφέροντας πλούσιο απόθεμα για τις ανάγκες σου.
 Διαθέτουν αυτοκόλλητη πίσω πλευρά, που διευκολύνει την τοποθέτηση τους σε φακέλους ή άλλες επιφάνειες, χωρίς να χρειάζεται επιπλέον κόλληση. Ιδανικές για οργανωμένες αποστολές και αρχειοθέτηση εγγράφων, θα είναι απαραίτητο εργαλείο στην καθημερινότητά σου.</Description>
-		<Quantity>10</Quantity>
+		<Quantity>8</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32809,7 +32809,7 @@ USB-A2: 5V - 2,4A
 * Το κιτ περιέχει καλώδιο Type-C - Type-C.
 * Μέγεθος: 131 x 54 x 50,8 mm.
 * Βάρος: 592 g.</Description>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33545,7 +33545,7 @@ Silicon Power - USB Stick Silicon Power</Description>
 * Προστασία από υπέρταση, υπερφόρτωση και βραχυκύκλωμα.
 * Διαστάσεις: 74 x 20 x 11 mm.
 * Κατάλληλο για φορητούς υπολογιστές, smartphones, tablet και άλλες συσκευές με θύρες USB-C ή USB-A.</Description>
-		<Quantity>47</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
