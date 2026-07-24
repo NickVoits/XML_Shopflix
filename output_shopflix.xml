@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-07-24 17:05</created_at>
+	<created_at>2026-07-24 17:08</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -9164,6 +9164,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 Μην χρησιμοποιείτε για να καθαρίσετε εσωτερικά τη μύτη, τα μάτια ή στο εσωτερικό των αυτιών.
 Χρησιμοποιείστε στο εξωτερικό του αυτιού.
 Μη σωστή χρήση μπορεί να προκαλέσει τραυματισμό ή μόλυνση του αυτιού.</Description>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15016,7 +15017,7 @@ Barcode: 5206753033363
 		<Description>Σακούλες απορριμμάτων για καλαθάκια μπάνιου, γραφείου και μικρούς κάδους.
 
 Εξαιρετικής αντοχής.</Description>
-		<Quantity>9153</Quantity>
+		<Quantity>9152</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30092,6 +30093,7 @@ Made in Germany
 Τεχνολογία: Alkaline
 Ποσότητα συσκευασίας: 4 τεμάχια
 Χώρα κατασκευής: Γερμανία</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
