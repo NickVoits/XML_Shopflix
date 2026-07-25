@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-07-25 11:19</created_at>
+	<created_at>2026-07-25 11:22</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -30093,6 +30093,7 @@ Made in Germany
 Τεχνολογία: Alkaline
 Ποσότητα συσκευασίας: 4 τεμάχια
 Χώρα κατασκευής: Γερμανία</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
