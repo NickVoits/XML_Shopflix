@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-07-30 11:05</created_at>
+	<created_at>2026-07-30 12:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -217,7 +217,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>2054</Quantity>
+		<Quantity>2042</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2428</Quantity>
+		<Quantity>2410</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1654</Quantity>
+		<Quantity>1642</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -596,7 +596,7 @@
 		<MPN>122901</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Το πασίγνωστο αναψυκτικό Coca-Cola, κλέβει εντυπώσεις με μία μοναδική παραλλαγή χωρίς καφεΐνη. Απολαύστε την ακαταμάχητη γεύση της Coca-Cola, χωρίς να φοβάστε για την επίδραση που μπορεί να έχει στην καθημερινότητά σας και στον ύπνο σας.</Description>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -735,7 +735,7 @@
     Coke Zero Sugar
 
 </Description>
-		<Quantity>116</Quantity>
+		<Quantity>115</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1169,7 +1169,7 @@
 		<MPN>0711</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Tuborg Lemon Soda, είναι ένα μοναδικό ανθρακούχο αναψυκτικό, που προσφέρει φυσική δροσιά, γιατί φτιάχνεται με φυσικό χυμό λεμονιού, χωρίς προσθήκη ζάχαρης.Οι ευχάριστες έντονες φυσαλίδες της Tuborg Soda, συναντούν τον αναζωογονητικό φυσικό χυμό λεμονιού, σε ένα μοναδικό συνδυασμό, που απευθύνεται σε όσους αναζητούν κάτι γευστικό, αλλά και πιο φυσικό για να τους ξεδιψάσει.</Description>
-		<Quantity>34</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>324</Quantity>
+		<Quantity>308</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1784,7 +1784,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>134</Quantity>
+		<Quantity>85</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1803,7 +1803,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1851</Quantity>
+		<Quantity>1849</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1857,7 +1857,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>2451</Quantity>
+		<Quantity>2441</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2520,7 +2520,7 @@ pH = 7,6
 		<MPN>0743</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>1185</Quantity>
+		<Quantity>1183</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5007,7 +5007,7 @@ pH: 3.45
 		<MPN>0322</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Quantity>1909</Quantity>
+		<Quantity>1861</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5067,7 +5067,7 @@ pH: 3.45
 		<MPN>0638</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>2332</Quantity>
+		<Quantity>2284</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8801,7 +8801,7 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 		<Description>Το NIVEA Men Sensitive After Shave Recovery Balsam προσφέρει άμεση ανακούφιση μετά το ξύρισμα. Είναι ένα καταπραϋντικό γαλάκτωμα που ηρεμεί τους ερεθισμούς και ανακουφίζει από τις κοκκινίλες. Ιδανικό για ευαίσθητες επιδερμίδες, αυτό το προϊόν δεν περιέχει αλκοόλη.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί κάνει ό,τι υπόσχεται.</Description>
-		<Quantity>84</Quantity>
+		<Quantity>85</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9143,7 +9143,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>J&amp;J</Manufacturer>
 		<MPN>1679</MPN>
 		<Description>Παιδικές Μπατονέτες ειδικά σχεδιασμένες για τον απαλό καθαρισμό των ευαίσθητων περιοχών γύρω από τα μάτια και στο εξωτερικό των αυτιών.    Από 100% αγνό βαμβάκι για φυσική απορροφητικότητα.    Απαλή και ήπια σύνθεση για την ευαίσθητη επιδερμίδα.    Καθαρίζουν ανάμεσα στα δάχτυλα και άλλες πτυχώσεις στην επιδερμίδα του μωρού.    Κατάλληλες και για την εφαρμογή και την αφαίρεση προϊόντων μακιγιάζ.</Description>
-		<Quantity>30</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9880,7 +9880,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>ULTREX</Manufacturer>
 		<MPN>1285</MPN>
 		<Description>Σαμπουάν κατά της τριχόπτωσης με εκχύλισμα λεμονιού για λιπαρά μαλλιά. Βοηθά στην ενδυνάμωσητης εξωτερικής προστατευτικής στιβάδας της επιδερμίδας. Χωρίς ορατές νιφάδες, με συχνή χρήση.Δράση: Η σύνθεση περιέχει το Nutrium 10, ένα πλούσιο μείγμα 10 θρεπτικών στοιχείων και ενεργών συστατικών από βότανα.</Description>
-		<Quantity>132</Quantity>
+		<Quantity>137</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10454,7 +10454,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 ✔ Με βιταμίνη Ε και βιοενεργά μεταλλικά στοιχεία
 ✔ Δερματολογικά ελεγμένη
 ✔ Περιεκτικότητα: 100ml</Description>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10903,7 +10903,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>589</Quantity>
+		<Quantity>588</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11093,7 +11093,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.
 
 Με πιστοποίηση CE.</Description>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11355,7 +11355,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1530</MPN>
 		<Description>Χαρτοπετσέτες της εταιρίας Endless, 2 φύλλων, πολλαπλών χρήσεων. Είναι ανθεκτικές και απορροφητικές, ιδανικές για καθημερινή χρήση.    Συνολικός Αριθμός Χαρτοπετσετών: 100</Description>
-		<Quantity>116</Quantity>
+		<Quantity>110</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11383,7 +11383,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1340</MPN>
 		<Description>Ιδανικές για επαγγελματική και οικιακή χρήση, προσφέροντας απορροφητικότητα και ανθεκτικότητα. Κατασκευασμένες από 1 φύλλο λευκού χαρτιού υψηλής ποιότητας, σε διαστάσεις 21x25cm, είναι κατάλληλες για καθημερινή υγιεινή και καθαριότητα. Η συσκευασία των 200 τεμαχίων προσφέρει μεγάλη διάρκεια και πρακτική χρήση, ιδανική για χώρους με αυξημένες ανάγκες καθαριότητας.</Description>
-		<Quantity>3338</Quantity>
+		<Quantity>3335</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11542,7 +11542,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1532</MPN>
 		<Description>Απαλά Χαρτομάντηλα σε κραφτ χάρτινο κουτί. 2 φύλλων απαλά απορροφητικά σε πρακτική συσκευασία ιδανικά για χρήση στο σπίτι, το γραφείο, το αυτοκίνητο, κ.α.</Description>
-		<Quantity>1737</Quantity>
+		<Quantity>1732</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11568,7 +11568,7 @@ Melaleuca Alternifolia (Tea Tree)
 
 
 </Description>
-		<Quantity>1149</Quantity>
+		<Quantity>1148</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11742,7 +11742,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<MPN>0900</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα.</Description>
-		<Quantity>245</Quantity>
+		<Quantity>244</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11936,7 +11936,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ARIEL</Manufacturer>
 		<MPN>1652</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
-		<Quantity>101</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11994,7 +11994,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-2683</MPN>
 		<Description>Χρωμοπροστασία η οποία προσφέρει εξαιρετική βοήθεια σε κάθε σας πλύση. Το πακέτο περιέχει 12 φύλλα. </Description>
-		<Quantity>91</Quantity>
+		<Quantity>270</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12022,7 +12022,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>CALGON</Manufacturer>
 		<MPN>0548</MPN>
 		<Description>• Προστατεύει από τα Άλατα• Διατηρεί το Πλυντήριο Καθαρό• Προστατεύει τα Εξαρτήματα• Συμβάλλει στην Απαλότητα των Ρούχων• Δρα Ενάντια στις Δυσάρεστες Οσμές• Ασφαλές για όλα τα Υφάσματα• Χωρίς Φωσφορικά</Description>
-		<Quantity>1547</Quantity>
+		<Quantity>1545</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12050,7 +12050,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>FAIRY</Manufacturer>
 		<MPN>1100101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
-		<Quantity>2709</Quantity>
+		<Quantity>2708</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12200,7 +12200,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>FAIRY</Manufacturer>
 		<MPN>1105</MPN>
 		<Description>Οι κάψουλες All in One από την Fairy για το πλυντήριο πιάτων συνδυάζουν τις εξής δράσεις, χαρίζοντας εξαιρετική καθαριότητα για τα πιάτα σας:•Iσχυρή καθαριστική δράση ακόμα και στο σύντομο πρόγραμμα διαλύει τα λίπη και αφαιρεί τους δύσκολους λεκέδες•Εξαιρετική λάμψη•Προστασία υαλικών &amp; ασημικών•Πρόληψη σχηματισμού αλάτων - δράση αλατιού - δράση εκθαμβωτικού</Description>
-		<Quantity>702</Quantity>
+		<Quantity>701</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12618,7 +12618,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>REX</Manufacturer>
 		<MPN>0962</MPN>
 		<Description>Το Υγρό γενικού καθαρισμού REX Gold Ανθή Γιασεμιού με ελεγχόμενο αφρό &amp; συστατικά που δεσμεύουν τα άλατα.δημιουργεί προστατευτικό φιλμ και προσφέρει επιπλέον γυαλάδα.Με τα ειδικά συστατικά που περιέχει διευκολύνει το σφουγγάρισμα. Με πολύ δυνατό άρωμα που διαρκεί.</Description>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12646,7 +12646,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>KLINEX</Manufacturer>
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
-		<Quantity>3790</Quantity>
+		<Quantity>3789</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12848,7 +12848,7 @@ Melaleuca Alternifolia (Tea Tree)
 Κατάλληλη για ποικιλία επιφανειών, συνδυάζοντας λειτουργικότητα και στυλ.
 Έρχεται σε τεμάχιο, προσφέροντας όλα όσα χρειάζεται για μια ολοκληρωμένη εμπειρία καθαρισμού.
 Με την σφουγγαρίστρα αυτή, το σκούπισμα και το σφουγγάρισμα γίνονται πιο ευχάριστα και αποτελεσματικά, κάνοντάς την τον κατάλληλο σύμμαχο για το σπίτι σας.</Description>
-		<Quantity>101</Quantity>
+		<Quantity>281</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13071,7 +13071,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
-		<Quantity>70</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13085,7 +13085,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
-		<Quantity>281</Quantity>
+		<Quantity>282</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13485,7 +13485,7 @@ Super-απορροφητική.
 
 Για τον καθαρισμό επίμονων λεκέδων, καμένων λαδιών ή υπολειμμάτων τροφίμων, αγοράστε το ειδικό σφουγγάρι PowerInox από ανοξείδωτο ατσάλι και καθαρίστε γρήγορα και εύκολα τη βρωμιά.
 </Description>
-		<Quantity>2367</Quantity>
+		<Quantity>2366</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13689,7 +13689,7 @@ Super-απορροφητική.
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0309</MPN>
 		<Description>Το Oskar εντομοκτόνο spray καταπολεμά τα ιπτάμενα έντομα όπως μύγες, κουνούπια και σκνίπες. Περιέχει δραστικά συστατικά που βοηθούν στην άμεση καταπολέμηση του προβλήματος. Χρησιμοποιείστε τα εντομοκτόνα με ασφαλή τρόπο. Να διαβάζετε πάντα την ετικέτα και τις πληροφορίες για το προϊόν πριν από τη χρήση.</Description>
-		<Quantity>1719</Quantity>
+		<Quantity>1717</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13703,7 +13703,7 @@ Super-απορροφητική.
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0100</MPN>
 		<Description>Εντομοκτόνο για βαδιστικά έντομα. Καταπολεμά κατσαρίδες, μυρμήγκια, τσιμπούρια, κοριούς, ψύλλους, σκόρους και αράχνες.</Description>
-		<Quantity>365</Quantity>
+		<Quantity>364</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13816,7 +13816,7 @@ Super-απορροφητική.
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>VC469</MPN>
 		<Description>Κόλλα σε πιατάκι για κατσαρίδες, οι οποίες περνώντας από το σημείο εφαρμογής παγιδεύονται, με αποτέλεσμα την εξολόθρευσή τους.</Description>
-		<Quantity>187</Quantity>
+		<Quantity>184</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14347,7 +14347,7 @@ Super-απορροφητική.
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>Ε-0922</MPN>
 		<Description>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών με Μπαταρία και Διάσταση 6x9x15 εκ.</Description>
-		<Quantity>44</Quantity>
+		<Quantity>164</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14765,7 +14765,7 @@ Barcode: 5206753033363
     Διπλό Zipper για τέλεια συντήρηση
     Ιδανικό για κατάψυξη και ψυγείο
     Ανοίγουν και κλείνουν πολλές φορές</Description>
-		<Quantity>77</Quantity>
+		<Quantity>257</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14811,7 +14811,7 @@ Barcode: 5206753033363
 		<Manufacturer>ELEF</Manufacturer>
 		<MPN>0530</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 28x33cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
-		<Quantity>1125</Quantity>
+		<Quantity>1122</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16092,7 +16092,7 @@ Brand: Sidirela</Description>
 Γυάλινο καπάκι
 Πάχος 4 mm
 Εξαιρετική ποιότητα για υγιεινό μαγείρεμα</Description>
-		<Quantity>24</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16466,7 +16466,7 @@ Brand: Sidirela</Description>
 		<Description>Συλλέκτης υγρασίας σχεδιασμένος ώστε να απορροφά και να παγιδεύει την υγρασία στην ατμόσφαιρα του δωματίου. Μειώνει την υγρασία από κάθε κλειστό χώρο, από δυσάρεστες οσμές, αποτρέποντας την ανάπτυξη μούχλας, βακτηριδίων και μικροοργανισμών. 
 
 Οι ειδικοί κρύσταλλοι απορροφούν την υγρασία από την ατμόσφαιρα και την παγιδεύουν, ενώ ταυτόχρονα αρωματίζει τον χώρο με άρωμα λεβάντας. Ιδανικό για μικρούς κλειστούς χώρους ή υπόγεια και αποθήκες. Μπορεί να τοποθετηθεί σε ντουλάπες, συρτάρια και διάφορα δωμάτια.</Description>
-		<Quantity>438</Quantity>
+		<Quantity>437</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20769,7 +20769,7 @@ Brand: Viosarp</Description>
 		<Manufacturer>Sidirela</Manufacturer>
 		<MPN>Ε-0948</MPN>
 		<Description>Ξύλινη κρεμάστρα δαπέδου, πολύ ανθεκτική, ελαφριά και εύκολη στην συναρμολόγηση. Διαστάσεις: 90x43x152cm</Description>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20975,7 +20975,7 @@ Brand: Viosarp</Description>
 Διαστάσεις ανοιχτή: 66x41x51.5εκ.
 Διαστάσεις κλειστή: 66x9x66εκ.
 Ιδανική για ξενοδοχείo ή ενοικιαζόμενα δωμάτια</Description>
-		<Quantity>1</Quantity>
+		<Quantity>51</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21392,7 +21392,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Περιεχόμενα συσκευασίας:
 - 1 x Κουτί ρολογιού</Description>
-		<Quantity>175</Quantity>
+		<Quantity>174</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23139,7 +23139,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Τοποθετείται στο δάπεδο και εκτός του αποθηκευτικού χώρου που θα σας προσφέρει, θα προσθέσει κομψότητα στη διακόσμηση του μπάνιου σας.
 
 Κατασκευάζεται από πλαστικό, το οποίο αποτελεί μία πολύ πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι πολύ ανθεκτικό στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>50</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23350,7 +23350,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Υλικό: Πλαστικό
 Χρώμα: Λευκό
 Μηχανισμός: Soft Close (φρένο αργού κλεισίματος)</Description>
-		<Quantity>0</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23369,7 +23369,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Υψηλής ποιότητας ηλεκτροστατική βαφή σε μαύρο
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί μετακινείται εύκολα και κλείνει και ανοίγει με ευκολία.</Description>
-		<Quantity>15</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23554,7 +23554,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Κατάλληλη για Σίδερο Ατμού: Η επιφάνειά της είναι σχεδιασμένη για να υποστηρίζει τη χρήση ατμού, βελτιώνοντας την αποτελεσματικότητα του σιδερώματος.
 Εύκολη Αποθήκευση: Διπλώνει ή αποθηκεύεται όρθια, χωρώντας άνετα σε ντουλάπια, κάτω από το κρεβάτι ή πίσω από πόρτες.
 Πρακτική για Γρήγορο Σιδέρωμα: Ιδανική για το σιδέρωμα λίγων ρούχων, όπως πουκάμισα, μπλούζες ή παιδικά ενδύματα, χωρίς την ανάγκη να ανοίξετε τη μεγάλη, ογκώδη σιδερώστρα.</Description>
-		<Quantity>8</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23936,7 +23936,7 @@ laptop, βιβλία ή σημειώσεις,
     Υποαλλεργικό - αντιμικροβιακό
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
-		<Quantity>119</Quantity>
+		<Quantity>219</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24085,7 +24085,7 @@ laptop, βιβλία ή σημειώσεις,
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-0513</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους. </Description>
-		<Quantity>6</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24885,7 +24885,7 @@ laptop, βιβλία ή σημειώσεις,
 ℹ️ Σημείωση
 
 Λόγω της φυσικής προέλευσης του μπαμπού, ενδέχεται να υπάρχουν μικρές διαφοροποιήσεις στην απόχρωση ή την υφή, χωρίς να επηρεάζεται η ποιότητα ή η λειτουργικότητα του προϊόντος.</Description>
-		<Quantity>150</Quantity>
+		<Quantity>270</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27383,7 +27383,7 @@ mini markets
 		<Manufacturer>Θαλασσινός</Manufacturer>
 		<MPN>ΠΡ3654</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας Θαλασσινός, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη._x000D__x000D_Χαρακτηριστικά_x000D__x000D_    Πλάτος: 38εκ._x000D_    Μήκος(εκατοστά): 42εκ._x000D_    Τεμάχια: 18τμχ</Description>
-		<Quantity>194</Quantity>
+		<Quantity>193</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29683,7 +29683,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
     Γωνία Δέσμης: 270°
     Διάρκεια Ζωής: 25000h
     Σχήμα: G120</Description>
-		<Quantity>27</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30533,7 +30533,7 @@ Volt: 3V</Description>
     Κουμπί εναλλαγής: στο επάνω μέρος της λάμπας
     Αδιάβροχο: Όχι
 </Description>
-		<Quantity>41</Quantity>
+		<Quantity>161</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30657,7 +30657,7 @@ Volt: 3V</Description>
     Επαναφορτιζόμενη
     1200mah μπαταρία
     Περιλαμβάνεται USB καλώδιο φόρτισης</Description>
-		<Quantity>217</Quantity>
+		<Quantity>220</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30674,7 +30674,7 @@ Volt: 3V</Description>
     Επαναφορτιζόμενη
     1200mah μπαταρία
     Περιλαμβάνεται USB καλώδιο φόρτισης</Description>
-		<Quantity>63</Quantity>
+		<Quantity>123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31721,7 +31721,7 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
 Ιδανικό για το σπίτι, κήπο, camping κ.α.
 Με αλυσίδα κρεμάσματος
 Αποσπώμενο δοχείο υπολειμμάτων για εύκολο καθάρισμα</Description>
-		<Quantity>137</Quantity>
+		<Quantity>138</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33248,7 +33248,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 Αποτελεσματική φόρτιση iWatch: Χάρη στη λειτουργία επαγωγικού φορτιστή, το iWatch φορτίζεται πλήρως σε μόλις 1.5 ώρες, ώστε να είναι πάντα έτοιμο για δράση.
 Φόρτιση δύο συσκευών ταυτόχρονα: Μια πρακτική λύση που εξαλείφει την ταλαιπωρία διαχείρισης πολλαπλών καλωδίων. Το Joyroom S-IW011 σας επιτρέπει να φορτίζετε το iPhone/iPad και το Apple Watch ταυτόχρονα, διατηρώντας το γραφείο σας τακτοποιημένο ή ενώ είστε καθ' οδόν.
 Ανθεκτική κατασκευή: Κατασκευασμένο από υψηλής ποιότητας αλουμίνιο, ABS και πλεγμένο νάιλον, το καλώδιο Joyroom είναι όχι μόνο λειτουργικό, αλλά και ανθεκτικό, προσφέροντας 10 φορές μεγαλύτερη αντοχή από τα στάνταρ καλώδια.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35699,7 +35699,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 
 Εκτύπωση από οπουδήποτε
 Με την εφαρμογή Brother Mobile Connect, μπορείτε να χρησιμοποιείτε τον εκτυπωτή Brother με ευκολία. Εκτυπώστε και σαρώστε έγγραφα, παραγγείλετε αυθεντικά αναλώσιμα Brother απευθείας από το smartphone σας. Μπορείτε επίσης να προσαρμόσετε συχνά χρησιμοποιούμενες λειτουργίες.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37066,7 +37066,7 @@ VeganΌχι
 		<MPN>1025</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή από την Morando•Συσκευασία: Κονσέρβα•Ποσότητα: 1τμχ•Βάρος: 405gr</Description>
-		<Quantity>3050</Quantity>
+		<Quantity>3026</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37081,7 +37081,7 @@ VeganΌχι
 		<MPN>1514</MPN>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
-		<Quantity>1785</Quantity>
+		<Quantity>1809</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
