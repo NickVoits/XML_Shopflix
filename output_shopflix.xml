@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-07-31 16:05</created_at>
+	<created_at>2026-07-31 16:22</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -1857,7 +1857,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>2311</Quantity>
+		<Quantity>2308</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1885,7 +1885,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
-		<Quantity>647</Quantity>
+		<Quantity>635</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1913,7 +1913,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>820</Quantity>
+		<Quantity>808</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3609,7 +3609,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>132701</MPN>
 		<Description>Ξηρό κρασί με χρώμα έντονο ροζέ και ανταύγειες saumon. Μύτη φρουτώδης με πλούσια αρωματική έκφραση και ιδιαίτερα ισορροπημένο στόμα γεμάτο και λιπαρό, με εκφραστική επίγευση. Συνδυάζεται αρμονικά με Ελληνικές γεύσεις, σαλάτες, ζυμαρικά σε ελαφρές κόκκινες σάλτσες, πίτσες, αλλά και με εξωτικές κουζίνες και κρύες σούπες.</Description>
-		<Quantity>67</Quantity>
+		<Quantity>70</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5741,7 +5741,7 @@ pH: 3.45
 Μύτη: Πλούσια και ζεστή. Κυριαρχούν το θυμαρίσιο μέλι, η βανίλια και τα φρέσκα φρούτα (μήλο, αχλάδι), με μια πολύ διακριτική υποψία καπνού στο βάθος.
 Στόμα: Βελούδινη αίσθηση. Γεύσεις σταφίδας, καραμέλας βουτύρου και βύνης, που "αγκαλιάζονται" από γλυκά μπαχαρικά.
 Επίγευση: Μεσαίας διάρκειας, απαλή και γλυκιά, αφήνοντας μια κομψή επίγευση ξύλου και μελιού.</Description>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7400,7 +7400,7 @@ Bitter Fig Fizz
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0433</MPN>
 		<Description>Οδοντόκρεμα της Colgate για την καθαριότητα και τη διατήρηση της υγιεινής των δοντιών.</Description>
-		<Quantity>865</Quantity>
+		<Quantity>864</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7461,7 +7461,7 @@ Bitter Fig Fizz
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0622</MPN>
 		<Description>Οδοντόβουρτσα με μέτρια σκληρότητα της εταιρείας Colgate, η οποία καθαρίζει αποτελεσματικά τα δόντια και τα ούλα από υπολείμματα τροφίμων, βακτήρια και πλάκα, ενώ μπορεί να χρησιμοποιηθεί και από άτομα που συγκεντρώνουν σε μικρό χρονικό διάστημα μετά τον καθαρισμό οδοντική πέτρα.</Description>
-		<Quantity>2797</Quantity>
+		<Quantity>2796</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8670,7 +8670,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Manufacturer>BIC</Manufacturer>
 		<MPN>0575</MPN>
 		<Description>Ξυραφάκια υψηλής ποιότητας από ανοξείδωτο ατσάλι μονής λεπίδας με επικάλυψη πολυμερούς και χρωμίου. Στενή και σταθερή κεφαλή που φτάνει με ακρίβεια στις ευαίσθητες περιοχές τις επιδερμίδας. Περιέχει προστατευτική μπάρα από ανοξείδωτο ατσάλι και μαύρη πολυεστερική λαβή, μεγαλύτερη για καλύτερο έλεγχο στο ξύρισμα.</Description>
-		<Quantity>306</Quantity>
+		<Quantity>305</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9178,7 +9178,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>COTONI</Manufacturer>
 		<MPN>1248</MPN>
 		<Description>Μπατονέτες της εταιρείας Cotoni για τον καθαρισμό των αυτιών και την απομάκρυνση της κυψελίδας που βρίσκεται στον ακουστικό πόρο.Χρησιμοποιήστε τις με εξαιρετική φροντίδα και προσοχή στην εξωτερική επιφάνεια του αυτιού, χωρίς να εισέρχονται βαθιά στον ακουστικό πόρο. Για περισσότερες λεπτομέρειες συμβουλευτείτε το γιατρό σας.</Description>
-		<Quantity>36</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9188,7 +9188,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<URL>https://www.skroutz.gr/s/65444303/sensimed-mpatonetes-chartino-mpastounaki-100-temachia.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/065444/65444303/xlarge_20260213131000_sensimed_mpatonetes_chartino_mpastounaki_100_temachia.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/122428/122428113/xlarge_20260213131002_5601fd0e.jpeg</Additional_Image>
-		<Price>0.86</Price>
+		<Price>0.79</Price>
 		<Category>Μπατονέτες</Category>
 		<Manufacturer>Sensi</Manufacturer>
 		<MPN>Sensi-312100</MPN>
@@ -9252,7 +9252,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<URL>https://www.skroutz.gr/s/65444302/sensimed-mpatonetes-chartino-mpastounaki-200-temachia.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/065444/65444302/xlarge_20260213131000_sensimed_mpatonetes_chartino_mpastounaki_200_temachia.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/122428/122428114/xlarge_20260213131003_72e920d6.jpeg</Additional_Image>
-		<Price>1.41</Price>
+		<Price>1.21</Price>
 		<Category>Μπατονέτες</Category>
 		<Manufacturer>Sensi</Manufacturer>
 		<MPN>Sensi-312200</MPN>
@@ -9321,7 +9321,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<URL>https://www.skroutz.gr/s/65444304/sensimed-set-peripoiisis-mpatonetes-chartino-mpastounaki-300-temachia-150-otokatharistes-150-eidikes-makigiaz.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/065444/65444304/xlarge_20260213131000_sensimed_set_peripoiisis_mpatonetes_chartino_mpastounaki_300_temachia_150_otokatharistes_150_eidikes_makigiaz.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/122428/122428115/xlarge_20260213131003_b8378e82.jpeg</Additional_Image>
-		<Price>2.16</Price>
+		<Price>2.13</Price>
 		<Category>Μπατονέτες</Category>
 		<Manufacturer>Sensi</Manufacturer>
 		<MPN>Sensi-312300</MPN>
@@ -9705,7 +9705,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<MPN>6551201-01</MPN>
 		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.
 Σε οικονομική συσκευασία 4τμχ.</Description>
-		<Quantity>1217</Quantity>
+		<Quantity>1216</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10903,7 +10903,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>586</Quantity>
+		<Quantity>591</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11341,7 +11341,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>TOP FEEL</Manufacturer>
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
-		<Quantity>1283</Quantity>
+		<Quantity>1281</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11817,7 +11817,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<MPN>1092</MPN>
 		<Weight>2.5 kg</Weight>
 		<Description>Η σκόνη Skip Active Clean καθαρίζει δύσκολους λεκέδες ακόμη και στο σύντομο πρόγραμμα. Με τεχνολογία Wash Boosters απομακρύνει δύσκολους λεκέδες όπως λίπος, λάδι, λάσπη, γρασίδι και παγωτό σοκολάτα, χαρίζοντας στα ρούχα σας καθαριότητα.</Description>
-		<Quantity>177</Quantity>
+		<Quantity>176</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12078,7 +12078,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>FAIRY</Manufacturer>
 		<MPN>1101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
-		<Quantity>319</Quantity>
+		<Quantity>318</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12422,7 +12422,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>BREF</Manufacturer>
 		<MPN>1272</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
-		<Quantity>352</Quantity>
+		<Quantity>350</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12464,7 +12464,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1750</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Oceanic 40gr είναι ένας αποδοτικός καθαριστικός δίσκος που προσφέρει ισχυρή προστασία κατά των αλάτων και των ακαθαρσιών, ενώ διατηρεί τη λεκάνη της τουαλέτας φρέσκια και καθαρή. Το άρωμα Oceanic δημιουργεί μια αίσθηση δροσιάς και καθαριότητας, ενώ η μακράς διάρκειας δράση του εξασφαλίζει καθαριότητα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση.</Description>
-		<Quantity>167</Quantity>
+		<Quantity>165</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12863,7 +12863,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-2492</MPN>
 		<Description>Σφουγγαρίστρα  microfiber πολύ μεγάλης απορροφητικότητας , άκοπη, σε διάφορες αποχρώσεις. Εξαιρετικά απορροφητική και η πιο κατάλληλη για ευαίσθητα δάπεδα όπως ξύλο, μάρμαρο, γρανίτης, πορσελάνη ή παρκέ καθώς δεν χαράσσει και δεν αφήνει ίχνη. Πλένεται στο πλυντήριο στους 30°C.</Description>
-		<Quantity>101</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13066,7 +13066,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Name>Vileda Περιστρεφόμενη Αυτοστιβόμενη Σετ Κουβάς με Σφουγγαρίστρα Turbo Smart 173861</Name>
 		<URL>https://www.skroutz.gr/s/22961590/Vileda-Peristrefomeni-Aytostivomeni-Set-Kouvas-me-Sfougaristra-Turbo-Smart.html#reviews</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022961/22961590/20211025100102_vileda_set_kouvas_me_sfougaristra_turbo_smart.jpeg</Image>
-		<Price>23.81814916998</Price>
+		<Price>25.8</Price>
 		<Category>Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category>
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>1505</MPN>
@@ -13675,7 +13675,7 @@ Super-απορροφητική.
 		<Manufacturer>Sidirela</Manufacturer>
 		<MPN> Ε-0917</MPN>
 		<Description>Η λούφα σιλικόνης είναι ιδανική για τον καθαρισμό και τον απολέπιση του δέρματος. Εξαιρετικά μαλακή στην επαφή με το δέρμα, βοηθά στην απομάκρυνση νεκρών κυττάρων και την προώθηση της κυκλοφορίας του αίματος. Το στρογγυλό σχήμα της διευκολύνει την πρόσβαση σε διάφορες περιοχές του σώματος. Σε διάφορα χρώματα.</Description>
-		<Quantity>93</Quantity>
+		<Quantity>91</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16903,7 +16903,7 @@ Brand: Viosarp</Description>
 Μήκος : 22,00cm
 Πλάτος : 14,00cm
 Ύψος : 10,00cm</Description>
-		<Quantity>57</Quantity>
+		<Quantity>56</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16987,7 +16987,7 @@ Brand: Viosarp</Description>
 Μήκος : 42,00cm
 Πλάτος : 27,00cm
 Ύψος : 18,00cm</Description>
-		<Quantity>61</Quantity>
+		<Quantity>60</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27369,7 +27369,7 @@ mini markets
 		<Manufacturer>VELER</Manufacturer>
 		<MPN>1569</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας HOMie, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 38εκ.    Μήκος(εκατοστά): 42εκ.    Τεμάχια: 18τμχ</Description>
-		<Quantity>77</Quantity>
+		<Quantity>76</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29864,7 +29864,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
-		<Quantity>315</Quantity>
+		<Quantity>314</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34099,7 +34099,7 @@ USB-A - Lightning: 5V/2.4A
 		<Manufacturer>XO</Manufacturer>
 		<MPN>X33-56725</MPN>
 		<Description>Υποστηρίζουν την τεχνολογία TWS (True Wireless Stereo), επιτρέποντας τα ακουστικά να συνδέονται μεταξύ τους για τη δημιουργία ενός ασύρματου στερεοφωνικού συνόλου. Η φορητή θήκη με ενσωματωμένη μπαταρία, εκτός από τη λειτουργία φόρτισης, επιτρέπει την ασφαλή αποθήκευση των ακουστικών στην τσέπη, την τσάντα ή το σακίδιο. Απελευθερώστε τα χέρια σας και απολαύστε μουσική ή διαδικτυακό ραδιόφωνο κατά την εργασία, τη βόλτα, την προπόνηση ή την οδήγηση. Τα ακουστικά XO X33 TWS αποτελούν ιδανική λύση για χρήστες smartphone, υπολογιστών, notebooks, tablets και άλλων συσκευών με δυνατότητα Bluetooth. Είναι συμβατά με τις περισσότερες συσκευές Android και iOS. Διαθέτουν επίσης μικρόφωνο, καθιστώντας εύκολη την πραγματοποίηση φωνητικών κλήσεων. Η διάρκεια κλήσεων/ακρόασης μουσικής με πλήρη φόρτιση είναι περίπου 240 λεπτά (ανάλογα με τη στάθμη έντασης), χάρη στη χρήση της ενεργειακά αποδοτικής τεχνολογίας Bluetooth 5.3.</Description>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36317,7 +36317,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<MPN>0927</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Rio Mare τόνος σε ελαιόλαδο με το χαρακτηριστικό ροζ χρώμα του και τη συμπαγή υφή του. Ο τόνος κονσερβοποιείται με μοναδική προσθήκη το ελαιόλαδο και το θαλασσινό αλάτι. Ιδανικό για όλες τις συνταγές, από σαλάτες μέχρι κυρίως πιάτα.</Description>
-		<Quantity>214</Quantity>
+		<Quantity>210</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
