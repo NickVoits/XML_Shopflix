@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-08-01 11:05</created_at>
+	<created_at>2026-08-01 12:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -262,7 +262,7 @@
 		<MPN>0733</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Quantity>61</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>250</Quantity>
+		<Quantity>249</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>490</Quantity>
+		<Quantity>378</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>68</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1825</Quantity>
+		<Quantity>1685</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2520,7 +2520,7 @@ pH = 7,6
 		<MPN>0743</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>1178</Quantity>
+		<Quantity>1174</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6168,7 +6168,7 @@ pH: 3.45
 		<Manufacturer>GORDONS</Manufacturer>
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
-		<Quantity>99</Quantity>
+		<Quantity>98</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9411,7 +9411,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>J&amp;J</Manufacturer>
 		<MPN>1068</MPN>
 		<Description>•Υποαλλεργικό, με ισορροπημένο pH για την επιδερμίδα•Ελεγμένο από παιδίατρους και δερματολόγους•Χωρίς χρωστικές ουσίες, parabens, φθαλικές ενώσεις και αλκοόλη•Κλινικά αποδεδειγμένα απαλή σύνθεση που έχει αναπτυχθεί ειδικά για την ευαίσθητη επιδερμίδα των μωρών•Ενυδατώνει και προστατεύει την ευαίσθητη επιδερμίδα από την ξηρότητα</Description>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10339,7 +10339,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1263</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Περιοχή Χρήσης: Για όλο το σώμα•Είδη: Κρέμα•Χρήση: Κυτταρίτιδα, Σύσφιξη</Description>
-		<Quantity>42</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11242,7 +11242,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1272</Quantity>
+		<Quantity>1257</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11313,7 +11313,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
-		<Quantity>1524</Quantity>
+		<Quantity>1504</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12236,7 +12236,7 @@ pH: Φιλικό προς το δέρμα
 		<MPN>0996</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
-		<Quantity>1472</Quantity>
+		<Quantity>1471</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13348,7 +13348,7 @@ pH: Φιλικό προς το δέρμα
 Μήκος: 37cm
 Πλάτος: 32cm
 Ύψος: 4cm</Description>
-		<Quantity>56</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13952,7 +13952,7 @@ Super-απορροφητική.
 Δουλεύει σε όλες τις στεγνές επιφάνειες χωρίς να αφήνει υπολείμματα
 Ιδανικό για το καθάρισμα των τριχών του κατοικίδιού σας
 Συσκευασία: 1 Χειρολαβή &amp; 5 Ανταλλακτικά Μαγικά Φτερά</Description>
-		<Quantity>26</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14014,7 +14014,7 @@ Super-απορροφητική.
 		<Manufacturer>MADONA</Manufacturer>
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
-		<Quantity>204</Quantity>
+		<Quantity>194</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14437,7 +14437,7 @@ Super-απορροφητική.
 		<Manufacturer>PETRORAT</Manufacturer>
 		<MPN>1757</MPN>
 		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
-		<Quantity>284</Quantity>
+		<Quantity>282</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20440,7 +20440,7 @@ Brand: Viosarp</Description>
 Συντήρηση
 
 Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
-		<Quantity>27</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20600,7 +20600,7 @@ Brand: Viosarp</Description>
 1 x Πάνελ καλωδίων με 5 γάντζους
 1 x Λαστιχένιο Σφυρί
 1 x Οδηγίες</Description>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21929,7 +21929,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Περιεχόμενα συσκευασίας:
 - 1 x Κουτί ρολογιού</Description>
-		<Quantity>114</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24545,7 +24545,7 @@ laptop, βιβλία ή σημειώσεις,
     Υποαλλεργικό - αντιμικροβιακό
     Απαλό ύφασμα που αναπνέει
     Πλένεται στο πλυντήριο</Description>
-		<Quantity>384</Quantity>
+		<Quantity>383</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24588,7 +24588,7 @@ laptop, βιβλία ή σημειώσεις,
 Η Sidirela Ε-3445 μαξιλαροθήκη είναι η τέλεια επιλογή για την καθημερινή σας χρήση, συνδυάζοντας πρακτικότητα και στυλ.
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί έχει ωραία αίσθηση όταν ξαπλώνεις και είναι όπως φαίνεται στη φωτογραφία.</Description>
-		<Quantity>79</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37590,7 +37590,7 @@ VeganΌχι
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>1121</Quantity>
+		<Quantity>1119</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
