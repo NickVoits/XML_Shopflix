@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-08-11 16:05</created_at>
+	<created_at>2026-08-11 16:46</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>1176</Quantity>
+		<Quantity>1172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -232,7 +232,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>1275</Quantity>
+		<Quantity>1269</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>204</Quantity>
+		<Quantity>203</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>198</Quantity>
+		<Quantity>197</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1385,7 +1385,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>4099</Quantity>
+		<Quantity>4072</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1843,7 +1843,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 pH = 7,6
 ΑΓΩΓΙΜΟΤΗΤΑ = 556 μS/cm
 ΟΛΙΚΗ ΣΚΛΗΡΟΤΗΤΑ = 308 mg/l CaCO3</Description>
-		<Quantity>2478</Quantity>
+		<Quantity>2467</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2217,7 +2217,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>697</Quantity>
+		<Quantity>685</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2520,7 +2520,7 @@ pH = 7,6
 		<MPN>0743</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>1122</Quantity>
+		<Quantity>1120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2701,7 +2701,7 @@ pH = 7,6
 		<MPN>0793</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Κρασί ΦΙΛΙΚΟΣ Λευκό Ξηρό σε ασκό, από Μοσχάτο Μαύρο Τυρνάβου. Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
-		<Quantity>17</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3256,7 +3256,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1320</MPN>
 		<Description>Λευκό κρασί το οποίο προέρχεται από την ποικιλία Chardonnay, που καλλιεργείται στο Κτήμα από το 1983. Μετά την προζυμωτική κρυοεκχύλιση, το κρασί ζυμώνεται σε δρύινα γαλλικά βαρέλια. Παραμένει για χρονικό διάστημα μερικών μηνών σε επαφή με τις οινολάσπες του, κερδίζοντας έτσι σε σώμα και πλουτίζοντας σε ποικιλιακά αρώματα. Το χρώμα του είναι έντονο χρυσοκίτρινο και χαρακτηρίζεται από αρώματα μελιού, βανίλιας, ώριμων εσπεριδοειδών σε φόντο καπνού και ξηρών καρπών. Έχει γεμάτη, πλούσια και μεστή γεύση και επιδέχεται παλαίωση. Συνοδεύει ψάρια με λιπαρή σάρκα, καπνιστά ή ακόμη και ψάρια με λευκή σάλτσα, μαλάκια και οστρακοειδή και συνθέσεις από χαβιάρι. Σερβίρεται ιδανικά στους 10–12 °C.</Description>
-		<Quantity>40</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11281,6 +11281,23 @@ Melaleuca Alternifolia (Tea Tree)
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>68215103</SKU>
+		<EAN>5203642132077</EAN>
+		<Name>Sidirela Ανατομικά Υποπτέρνια από Σιλικόνη για Άντρες E-3207 2τμχ</Name>
+		<URL>https://www.skroutz.gr/s/35080072/Sidirela-Anatomika-Ypopternia-apo-Silikoni-gia-Antres-E-3207-2tmch.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/035080/35080072/xlarge_20230302135242_sidirela_ypopternia_silikonis_gia_andres_2tmch.jpeg</Image>
+		<Additional_Image>https://sidirela.gr/soft1/4653/%CE%95-3207-%CE%A0%CE%91%CE%A4%CE%9F%CE%A3-%CE%A3%CE%99%CE%9B%CE%99%CE%9A%CE%9F%CE%9D%CE%97%CE%A3.jpg</Additional_Image>
+		<Price>2.33</Price>
+		<Category>Ανατομικοί Πάτοι Παπουτσιών</Category>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN>E-3207</MPN>
+		<Description>Ανδρικά υποπτέρνια της εταιρείας Sidi Home, τα οποία είναι κατασκευασμένα από σιλικόνη και σχεδιασμένα να ανυψώνουν την πτέρνα ώστε να ανακουφίζουν αποτελεσματικά την περιοχή, απορροφώντας τους κραδασμούς και τα φορτία. Επιπλέον βοηθούν στη μείωση της πίεσης που δέχονται οι αστράγαλοι, τα γόνατα και οι αρθρώσεις της σπονδυλικής στήλης.
+
+Υλικό: Σιλικόνης</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>70003</SKU>
 		<EAN>5200100281629</EAN>
 		<Name>Pro Soft απαλό Χαρτί Υγείας 3φυλλο 10 Ρολά x 90gr</Name>
@@ -14856,7 +14873,7 @@ Super-απορροφητική.
 		<Manufacturer>HOMIE</Manufacturer>
 		<MPN>1621</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Η συσκευασία περιλαμβάνει 50 τμχ    Λευκό    Διάρκεια καύσης 4 ωρών.</Description>
-		<Quantity>479</Quantity>
+		<Quantity>467</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21334,7 +21351,7 @@ Brand: Viosarp</Description>
     Μέγιστη χωρητικότητα κάθε κρεμάστρας: 5 Kg 
     Πάχος: 0.6 cm 
     Διαστάσεις: 42 x 21.5 x 0.6 cm</Description>
-		<Quantity>57</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26124,7 +26141,7 @@ Brand: Sidirela
 ℹ️ Σημείωση Χρήσης
 
 Η ψησταριά προορίζεται για χρήση σε εξωτερικό χώρο. Συνιστάται σωστός καθαρισμός μετά από κάθε χρήση και αποθήκευση σε στεγασμένο σημείο για μεγαλύτερη διάρκεια ζωής.</Description>
-		<Quantity>55</Quantity>
+		<Quantity>56</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26959,7 +26976,7 @@ Brand: Sidirela
 Η ποσότητα περιλαμβάνει 50 καπάκια, εξασφαλίζοντας ότι θα έχετε πάντα στη διάθεσή σας αρκετά για κάθε ανάγκη.
 Είναι τύπου πιπίλα, ιδανικά για χρήση σε ποτήρια, προσφέροντας ευκολία στον χρήστη.
 Η χρώμα τους είναι μαύρο, προσδίδοντας μια κομψή και μοντέρνα εμφάνιση.</Description>
-		<Quantity>19</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27658,7 +27675,7 @@ Brand: Sidirela
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1775</MPN>
 		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
-		<Quantity>1033</Quantity>
+		<Quantity>1021</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27746,7 +27763,7 @@ Brand: Sidirela
 		<MPN>0842</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34632,7 +34649,7 @@ USB-C
 	<product>
 		<SKU>7995116043</SKU>
 		<EAN>6956116758622</EAN>
-		<Name>Joyroom Braided 4in1 USB-A to Lightning / 2 Type-C / micro USB Cable 3.5A 1.2m Μαύρο A18 </Name>
+		<Name>Joyroom Braided 4in1 USB-A to 2x Lightning / Type-C / micro USB Cable 3.5A 1.2m Μαύρο A18 </Name>
 		<URL>https://www.skroutz.gr/s/44506320/Joyroom-S-1T4018A18-Braided-USB-to-Lightning-Type-C-micro-USB-Cable-3-5A-Mayro-1-2m-USB-A.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/044506/44506320/xlarge_20230725173345_joyroom_metatropeas_usb_a_usb_c_lightning_micro_usb_male_se_usb_a_usb_c_lightning_micro_usb_female_hu_6956116758639.jpeg</Image>
 		<Additional_Image>https://static2.eu.hurtel.com/hpeciai/68c9de56a41d51e75dbccc736bb8b653/eng_pm_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_2.jpg https://static4.eu.hurtel.com/hpeciai/1a604e7451344988c99b4362455a104a/eng_pm_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_3.jpg https://static4.eu.hurtel.com/hpeciai/621ce1d44c50e26d500758e2630b72ee/eng_pm_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_5.jpg https://static1.eu.hurtel.com/hpeciai/0b4feaa18b8e7625ca6c80d22b745126/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_4.jpg https://static2.eu.hurtel.com/hpeciai/b0643604b2d1147066349bea089705da/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_6.jpg https://static1.eu.hurtel.com/hpeciai/5d2872e4fe3f879ec825b6d6351aa441/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_7.jpg https://static3.eu.hurtel.com/hpeciai/82b25dc27ea3e38b63f085859de932b5/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_8.jpg https://static3.eu.hurtel.com/hpeciai/fcd41cafc1882cecd49143a3d2d483bf/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_9.jpg https://static2.eu.hurtel.com/hpeciai/89717cf93a876a009770c92c8abd4a02/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_10.jpg https://static5.eu.hurtel.com/hpeciai/2b2297b8284fefe44a41f31887d7207a/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_11.jpg </Additional_Image>
@@ -36951,7 +36968,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<MPN>0177</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Τα μανιτάρια Frescon είναι συντηρημένα με τις πιο προηγμένες μεθόδους κονσερβοποίησης, ώστε να διατηρηθεί η ποιότητα και η γεύση της πρώτης ύλης, όσο πιο φρέσκια γίνεται και για όσο περισσότερο καιρό γίνεται.</Description>
-		<Quantity>1456</Quantity>
+		<Quantity>1450</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37730,7 +37747,7 @@ VeganΌχι
 		<MPN>1514</MPN>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
-		<Quantity>1581</Quantity>
+		<Quantity>1557</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
