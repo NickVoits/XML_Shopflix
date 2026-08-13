@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-08-13 16:05</created_at>
+	<created_at>2026-08-13 16:47</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -116,7 +116,7 @@
 		<MPN>1239</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
-		<Quantity>2283</Quantity>
+		<Quantity>2355</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>1047</Quantity>
+		<Quantity>1049</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -232,7 +232,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>1005</Quantity>
+		<Quantity>999</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>82</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>37</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>108</Quantity>
+		<Quantity>109</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1468</Quantity>
+		<Quantity>1462</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1634</Quantity>
+		<Quantity>2684</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1784,7 +1784,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>793</Quantity>
+		<Quantity>1493</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1803,7 +1803,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>2865</Quantity>
+		<Quantity>3705</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1843,7 +1843,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 pH = 7,6
 ΑΓΩΓΙΜΟΤΗΤΑ = 556 μS/cm
 ΟΛΙΚΗ ΣΚΛΗΡΟΤΗΤΑ = 308 mg/l CaCO3</Description>
-		<Quantity>2280</Quantity>
+		<Quantity>2288</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5810,7 +5810,7 @@ Prosciutto και αλλαντικά
 		<Description>Το Laphroaig 10 Years Old είναι ένα malt σκωτσέζικο ουίσκι από το νησί Islay στα δυτικά της Σκωτίας.  Κατά τη παραγωγή του, το malted κριθάρι ξεραίνεται σε φωτιά τύρφης. Ο καπνός από αυτήν την τύρφη, βγαίνει μόνο στο Islay, και δίνει στο Laphroaig την ιδιαίτερα πλούσια γεύση του. Πίνεται καλύτερα σκέτο ή με λίγο δροσερό νερό. Η γεύση του κυριεύει τη γλώσσα σας, καθώς απελευθερώνει το πικάντικο, γήινο άρωμα του μπλε καπνού τύρφης, τη γλυκιά αίσθηση ξηρών καρπών του κριθαριού και το εξευγενισμένο άρωμα ρεικιού των ποταμιών του Islay. 
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11324,7 +11324,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>2174</Quantity>
+		<Quantity>2173</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12513,7 +12513,7 @@ pH: Φιλικό προς το δέρμα
 		<MPN>1094</MPN>
 		<Weight>2.5 kg</Weight>
 		<Description>Απορρυπαντικό πλυντηρίου ρούχων Omo σε σκόνη, με άρωμα λεβάντας. Προσφέρει καθαριότητα σε κάθε πλύση εισχωρώντας σε βάθος στις ίνες των ρούχων. Τα εμπλουτισμένα με αιθέρια έλαια αρώματα που περιέχει έχουν επιλεχτεί ειδικά για φρεσκάδα που διαρκεί όλη μέρα.</Description>
-		<Quantity>182</Quantity>
+		<Quantity>181</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13891,7 +13891,7 @@ pH: Φιλικό προς το δέρμα
 Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα.
 Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα.
 Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>328</Quantity>
+		<Quantity>327</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14929,7 +14929,7 @@ Super-απορροφητική.
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> Ε-3487</MPN>
 		<Description>Κερί μνήμης διάρκειας 5 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
-		<Quantity>194</Quantity>
+		<Quantity>200</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20178,7 +20178,7 @@ Brand: Viosarp</Description>
     Βάρος: 1.6 Kg
     Μέγιστο βάρος: 15 Kg
     Διαστάσεις: 92 x 30.5 x 55 cm</Description>
-		<Quantity>35</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31408,7 +31408,7 @@ Volt: 3V</Description>
 Δυνατότητες
 
 Φωτιστικό με σφιγκτήρα για να στερεώνεται, και βραχίονα τύπου σπιράλ που προσαρμόζεται ανάλογα με τις ανάγκες σας. Εκπέμπει φυσικό λευκό φως με Led ισχύος 3 Watt με διακόπτη αφής. Το καλώδιο τροφοδοσίας του έχει μήκος 1 μέτρο, το οποίο περιλαμβάνεται στη συσκευασία του χωρίς τον φορτιστή.</Description>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37752,7 +37752,7 @@ VeganΌχι
 		<MPN>1025</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή από την Morando•Συσκευασία: Κονσέρβα•Ποσότητα: 1τμχ•Βάρος: 405gr</Description>
-		<Quantity>2676</Quantity>
+		<Quantity>2700</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
