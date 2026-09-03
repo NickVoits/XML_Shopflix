@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-03 16:05</created_at>
+	<created_at>2026-09-03 16:23</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -232,7 +232,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>1307</Quantity>
+		<Quantity>1301</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1065</Quantity>
+		<Quantity>1047</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>318</Quantity>
+		<Quantity>316</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1154,7 +1154,7 @@
 		<MPN>0831</MPN>
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
-		<Quantity>205</Quantity>
+		<Quantity>204</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1803,7 +1803,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>130</Quantity>
+		<Quantity>125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28952,7 +28952,7 @@ Barcode: 5206753044598
     Μήκος καλωδίου: περίπου 154 cm
     Διαστάσεις: 345 x 140 x 65 mm
     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29015,7 +29015,7 @@ Barcode: 5206753044598
     Εγγράψιμα
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
-		<Quantity>44</Quantity>
+		<Quantity>43</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
