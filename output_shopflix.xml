@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-15 12:05</created_at>
+	<created_at>2026-09-15 13:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>321</Quantity>
+		<Quantity>314</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -217,7 +217,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>1518</Quantity>
+		<Quantity>1476</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -232,7 +232,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>736</Quantity>
+		<Quantity>718</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -262,7 +262,7 @@
 		<MPN>0733</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Quantity>96</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>101</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1352</Quantity>
+		<Quantity>1340</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>419</Quantity>
+		<Quantity>413</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>263</Quantity>
+		<Quantity>259</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>185</Quantity>
+		<Quantity>182</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -693,7 +693,7 @@
     Coca-Cola Original Taste
 
 </Description>
-		<Quantity>134</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -735,7 +735,7 @@
     Coke Zero Sugar
 
 </Description>
-		<Quantity>33</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>523</Quantity>
+		<Quantity>520</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1281,7 +1281,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0419</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
-		<Quantity>390</Quantity>
+		<Quantity>366</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1490,7 +1490,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0341</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>147</Quantity>
+		<Quantity>123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1505,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>853</Quantity>
+		<Quantity>841</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1550,7 +1550,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0788</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>7</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1580,7 +1580,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0510</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>429</Quantity>
+		<Quantity>417</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>146</Quantity>
+		<Quantity>129</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1803,7 +1803,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>839</Quantity>
+		<Quantity>829</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1857,7 +1857,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1218</Quantity>
+		<Quantity>1210</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1885,7 +1885,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
-		<Quantity>396</Quantity>
+		<Quantity>386</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1913,7 +1913,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>672</Quantity>
+		<Quantity>668</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2627,7 +2627,7 @@ pH = 7,6
 		<MPN>0044</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>508</Quantity>
+		<Quantity>506</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3813,7 +3813,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Manufacturer>LA TOUR MELAS</Manufacturer>
 		<MPN>1527</MPN>
 		<Description>Το "Idylle D' Achinos"  αποτελεί μία από τις καινούργιες δημιουργίες του οινοποιείου La Tour Melas.</Description>
-		<Quantity>211</Quantity>
+		<Quantity>216</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5356,7 +5356,7 @@ Prosciutto και αλλαντικά
 		<MPN>0454</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα.</Description>
-		<Quantity>639</Quantity>
+		<Quantity>591</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5533,7 +5533,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>Cutty Sark</Manufacturer>
 		<MPN>167102</MPN>
 		<Description>Δημιουργήθηκε το 1923, φέρνοντας μια επανάσταση στην παράδοση των ουίσκι αφού είναι το πρώτο που φτιάχτηκε για να αναμειγνύεται, οδηγώντας τους barmen σε μια περιπέτεια ανακάλυψης νέων cocktails. Απλό και ισορροπημένο, το Cutty Sark είναι το τέλειο blended whisky για πριν το φαγητό. Ζωηρό με αρώματα βοτάνων και ξηρών φρούτων και καρπών. Ελαφρύ και δροσερό με νότες καραμέλας στην επίγευση.</Description>
-		<Quantity>105</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5547,7 +5547,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
-		<Quantity>97</Quantity>
+		<Quantity>92</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5566,7 +5566,7 @@ Prosciutto και αλλαντικά
     Περιεχόμενο: 700ml 
     Χώρα προέλευσης: Σκωτία 
     Αλκοόλ: 40%</Description>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5608,7 +5608,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>HAIG</Manufacturer>
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
-		<Quantity>91</Quantity>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5622,7 +5622,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>JAMESON</Manufacturer>
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
-		<Quantity>138</Quantity>
+		<Quantity>136</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5956,7 +5956,7 @@ Prosciutto και αλλαντικά
 Παρασκευάζεται στη Σουηδία, αποκλειστικά από φυσικά συστατικά και δεν περιέχει προσθήκη ζάχαρης.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>56</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5972,7 +5972,7 @@ Prosciutto και αλλαντικά
 		<Description>Η αυθεντική ρωσική βότκα Stolichnaya είναι διπλής απόσταξης και φιλτράρεται τέσσερις φορές σύμφωνα με την παραδοσιακή ρωσική μέθοδο. Έχει ισορροπημένη, μεταξένια γεύση και παράγεται από επιλεγμένα σιτηρά ανώτερης ποιότητας.
 
 Ο σίτος και το νερό διυλίζονται τριπλά με χρήση φιλτραρίσματος χαλαζία και ενεργού άνθρακα ώστε να δημιουργηθεί το τελικό απόσταγμα της Stolichnaya.</Description>
-		<Quantity>133</Quantity>
+		<Quantity>131</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6002,7 +6002,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>55105</Manufacturer>
 		<MPN>55105-01</MPN>
 		<Description>Η Serkova Βότκα είναι μια βότκα που υφίσταται τριπλή απόσταξη με αποτέλεσμα να έχουμε μια εξαιρετικά ποιοτική βότκα. Η ίδρυση της έχει γίνει το 1879 στο ιστορικό αποστακτήριο της Πολωνίας. Η βότκα Serkova δημιουργείται αποκλειστικά από δημητριακά (100% pure grain).</Description>
-		<Quantity>63</Quantity>
+		<Quantity>62</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6262,7 +6262,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>GORDONS</Manufacturer>
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
-		<Quantity>61</Quantity>
+		<Quantity>55</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7494,7 +7494,7 @@ Bitter Fig Fizz
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0433</MPN>
 		<Description>Οδοντόκρεμα της Colgate για την καθαριότητα και τη διατήρηση της υγιεινής των δοντιών.</Description>
-		<Quantity>818</Quantity>
+		<Quantity>817</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9021,7 +9021,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>OLD SPICE</Manufacturer>
 		<MPN>1059</MPN>
 		<Description>Αποσμητικό σε μορφή στικ που αρωματίζει διακριτικά με την κλασική μυρωδιά Old Spice.</Description>
-		<Quantity>15</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9049,7 +9049,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>AXE</Manufacturer>
 		<MPN>1246</MPN>
 		<Description>Ανδρικό αποσμητικό που προσφέρει 24 ώρες προστασίας με αρωμα φρεσκάδας και εσπεριδοειδών. - Δερματολογικά ελεγμένο.</Description>
-		<Quantity>26</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9100,7 +9100,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 
     Εφαρμόστε το προϊόν σε πρόσωπο, σώμα, χέρια και οπουδήποτε αλλού η επιδερμίδα σας χρειάζεται ενυδάτωση.
     Πριν την πρώτη χρήση οποιουδήποτε δερμοκαλλυντικού προϊόντος εφαρμόστε μια σταγόνα πίσω από το αυτί σας ή στην εσωτερική περιοχή του αγκώνα. Με αυτό τον τρόπο αν εκδηλώσετε αλλεργία στο προϊόν αυτή θα είναι περιορισμένης έκτασης και θα γίνει αμέσως αντιληπτή.</Description>
-		<Quantity>246</Quantity>
+		<Quantity>247</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9601,7 +9601,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 Η σωστή διαδικασία περιποίησης μιας πληγής περιλαμβάνει αρχικά το πλύσιμο των χεριών σου με σαπούνι και νερό ή την απολύμανση με τη λοσιόν οινοπνεύματος για να εξασφαλιστεί η καθαριότητα. Αν η πληγή αιμορραγεί, πίεσε απαλά με μια γάζα ή καθαρό πανί για να σταματήσεις την αιμορραγία. Στη συνέχεια, ξέπλυνε την πληγή με φυσιολογικό ορό ή καθαρό νερό για να απομακρυνθούν τυχόν ακαθαρσίες. Αφού σταματήσει η αιμορραγία και καθαρίσει η πληγή, μπορείς να την καλύψεις με αποστειρωμένο επίθεμα ή γάζα, αφού πρώτα απολυμάνεις την περιοχή.
 
 Η λοσιόν έρχεται σε ποσότητα 410ml, προσφέροντάς σου αρκετό προϊόν για πολλές χρήσεις. Είναι ιδανική επιλογή για κάθε σπίτι, προκειμένου να διατηρείς την υγειά σου και την υγιεινή των πληγών σου.</Description>
-		<Quantity>308</Quantity>
+		<Quantity>307</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9685,7 +9685,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>1249</MPN>
 		<Description>Το κρεμοσάπουνο Natura Vanilla Caramel με φυτικό εκχύλισμα καλέντουλας, λειτουργεί σαν ένα φυσικό μαλακτικό για τα χέρια, ενώ παράλληλα τα προστατεύει από ερεθισμούς.</Description>
-		<Quantity>76</Quantity>
+		<Quantity>77</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10997,7 +10997,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>535</Quantity>
+		<Quantity>530</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11011,7 +11011,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>519</Quantity>
+		<Quantity>516</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11492,7 +11492,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
-		<Quantity>1322</Quantity>
+		<Quantity>1323</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12330,7 +12330,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
-		<Quantity>17</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12445,7 +12445,7 @@ pH: Φιλικό προς το δέρμα
 		<MPN>0915</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
-		<Quantity>358</Quantity>
+		<Quantity>359</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12580,7 +12580,7 @@ pH: Φιλικό προς το δέρμα
 		<MPN>1093</MPN>
 		<Weight>2.5 kg</Weight>
 		<Description>Απορρυπαντικό πλυντηρίου ρούχων Omo σε σκόνη, με άρωμα τροπικών λουλουδιών. Προσφέρει καθαριότητα σε κάθε πλύση εισχωρώντας σε βάθος στις ίνες των ρούχων. Τα εμπλουτισμένα με αιθέρια έλαια αρώματα που περιέχει έχουν επιλεχτεί ειδικά για φρεσκάδα που διαρκεί όλη μέρα.</Description>
-		<Quantity>284</Quantity>
+		<Quantity>285</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12756,7 +12756,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BIO SHOUT</Manufacturer>
 		<MPN>1271</MPN>
 		<Description>Το καθαριστικό λεκέδων της εταιρείας Shout είναι ιδανικό για πολύ λερωμένα ρούχα ή για μία έξτρα δόση καθαριότητας σε κάθε πλύση μαζί με το απορρυπαντικό σας. Σε περίπτωση πολύ σκληρών λεκέδων μπορεί να εφαρμοστεί απευθείας στο σημείο, πριν το πλύσιμο.Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.Προφυλάξεις: Μακριά από παιδιά.</Description>
-		<Quantity>874</Quantity>
+		<Quantity>875</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12859,7 +12859,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>AVA</Manufacturer>
 		<MPN>1102</MPN>
 		<Description>Υγρό απορρυπαντικό για πιάτα AVA με απαλή υφή, εμπλουτισμένο με εκχύλισμα χαμομηλιού. Ξεβγάζεται εύκολα χωρίς να αφήνει κατάλοιπα χρησιμοποιώντας λιγότερο νερό.</Description>
-		<Quantity>1730</Quantity>
+		<Quantity>1731</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12976,7 +12976,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>TUBOFLO</Manufacturer>
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
-		<Quantity>3591</Quantity>
+		<Quantity>3596</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13184,7 +13184,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BREF</Manufacturer>
 		<MPN>1273</MPN>
 		<Description>Με 40% περισσότερο άρωμα και καθαριστική δράση στον πυρήνα κάθε μπάλας συγκριτικά με το εξωτερικό περίβλημα, το νέο Bref WC Escapes αποτελεί την ιδανική επιλογή για την υγιεινή της τουαλέτας. Η μοναδική του σύνθεση 4 λειτουργειών το καθιστά ως την πρώτη επιλογή, καθώς αποτρέπει τον σχηματισμό αλάτων, απελευθερώνει καθαριστικό αφρό, παρέχει ένα σύστημα ενεργής προστασίας, αποτρέποντας την συσσώρευση υπολειμμάτων και προσφέρει περισσότερη φρεσκάδα. Απλά τοποθετήστε το προϊόν στο χείλος της λεκάνης, προσαρμόστε το σύμφωνα με τη ροή του νερού και απολαύστε μέγιστη καθαριότητα και φρεσκάδα αρώματος εξωτικών λουλουδιών σε κάθε χρήση!</Description>
-		<Quantity>205</Quantity>
+		<Quantity>208</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13338,7 +13338,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>AJAX</Manufacturer>
 		<MPN>0214</MPN>
 		<Description>Άρωμα: Αιθέρια Έλαια Άνθη ΠασχαλιάςΠοσότητα: 1ltΤεμάχια: 1</Description>
-		<Quantity>85</Quantity>
+		<Quantity>86</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13352,7 +13352,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>AJAX</Manufacturer>
 		<MPN>0937</MPN>
 		<Description>Το Ajax ανανεώνεται με καινούργια σύνθεση, αποτελεσματικότερη και φιλικότερη προς τον πλανήτη μας με 24ωρο Άρωμα Φρεσκάδας! Το Ajax εξελίσσεται όπως και εσείς. Ανώτερη αποτελεσματικότητα σε σύγκριση με την προηγούμενη σύνθεση. 96% βιοδιασπώμενη σύνθεση. Ανακυκλώσιμο μπουκάλι και καπάκι. Μπουκάλι από 100% ανακυκλωμένο πλαστικό. Παρασκευάζεται σε πιστοποιημένο εργοστάσιο μηδενικών αποβλήτων. Παράγεται υπεύθυνα με άρωμα από φυσικά εκχυλίσματα. Με 99% συστατικά φυσικής προέλευσης και 100% καθαριστική δύναμη.</Description>
-		<Quantity>298</Quantity>
+		<Quantity>299</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13394,7 +13394,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>KLINEX</Manufacturer>
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
-		<Quantity>3721</Quantity>
+		<Quantity>3715</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13422,7 +13422,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>REX</Manufacturer>
 		<MPN>0540</MPN>
 		<Description>Αυτό που θέλουν οι καταναλωτές είναι ένα χλώριο που να αφήνει πίσω του:1. καθαριότητα, 2. φρεσκάδα, 3. χρήματα στην τσέπη τους.Η πραγματικά παχύρρευστη και δυνατή σύνθεση της σειράς προϊόντων REX ULTRA έχει αποτέλεσμα το χλώριο να παραμένει περισσότερο χρόνο στην επιφάνεια και επομένως να καθαρίζει και να απολυμαίνει πιο καλά και πιο σίγουρα! Και πάντα πιο οικονομικά!</Description>
-		<Quantity>321</Quantity>
+		<Quantity>322</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13684,7 +13684,7 @@ EAN: 4023103173118
 Κατάλληλη για ποικιλία επιφανειών, συνδυάζοντας λειτουργικότητα και στυλ.
 Έρχεται σε τεμάχιο, προσφέροντας όλα όσα χρειάζεται για μια ολοκληρωμένη εμπειρία καθαρισμού.
 Με την σφουγγαρίστρα αυτή, το σκούπισμα και το σφουγγάρισμα γίνονται πιο ευχάριστα και αποτελεσματικά, κάνοντάς την τον κατάλληλο σύμμαχο για το σπίτι σας.</Description>
-		<Quantity>174</Quantity>
+		<Quantity>175</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13743,7 +13743,7 @@ EAN: 4023103173118
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>100124</MPN>
 		<Description>Κοντάρι μεταλλικό, με χοντρό σπείρωμα, σε χρωμέ απόχρωση, για οικιακές σφουγγαρίστρες και σκούπες, ύψους 130 cm.</Description>
-		<Quantity>28</Quantity>
+		<Quantity>18</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13980,7 +13980,7 @@ EAN: 4023103173118
     Μπορεί να χρησιμοποιηθεί στεγνό ή βρεγμένο. Μπορεί να χρησιμοποιηθεί ταυτόχρονα για να σφουγγαρίσετε το πάτωμα και μετά να το στεγνώσετε ή και αντίθετα - πρώτα να το σκουπίσετε και μετά να το σφουγγαρίσετε
     Η δεξαμενή πάνω στο κοντάρι, εξασφαλίζει γρήγορη και αποτελεσματική καθαριότητα χωρίς την χρήση κουβά. Μπορείτε να προσθέσετε στην δεξαμενή το απορρυπαντικό της επιλογής σας χρησιμοποιώντας τον ειδικό δοσομετρητή
     Πανί 100% μικροϊνών που προσφέρουν απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)</Description>
-		<Quantity>189</Quantity>
+		<Quantity>191</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13997,7 +13997,7 @@ EAN: 4023103173118
 
     Οι γκρί και κόκκινες μικροΐνες προσφέρουν βαθύ καθαρισμό ακόμα και της πιο επίμονης βρωμιάς, ενώ οι λευκές μικροΐνες εξασφαλίζουν μέγιστη καθαριστική απόδοση και αστραφτερά πατώματα
     Η σύνθεσή του από 100% μικροΐνες προσφέρουν μέγιστη απορροφητικότητα, καθαριστή απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας).</Description>
-		<Quantity>146</Quantity>
+		<Quantity>148</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14039,7 +14039,7 @@ EAN: 4023103173118
 
 Διατίθεται σε ένα τεμάχιο, ιδανικό για καθημερινή χρήση.
 Η ποιότητα κατασκευής του πανιού εξασφαλίζει ότι μπορείτε να διατηρείτε τα δάπεδά σας πάντα καθαρά και φρέσκα, χωρίς να βλάπτετε την επιφάνειά τους.</Description>
-		<Quantity>108</Quantity>
+		<Quantity>109</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14525,7 +14525,7 @@ Super-απορροφητική.
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0309</MPN>
 		<Description>Το Oskar εντομοκτόνο spray καταπολεμά τα ιπτάμενα έντομα όπως μύγες, κουνούπια και σκνίπες. Περιέχει δραστικά συστατικά που βοηθούν στην άμεση καταπολέμηση του προβλήματος. Χρησιμοποιείστε τα εντομοκτόνα με ασφαλή τρόπο. Να διαβάζετε πάντα την ετικέτα και τις πληροφορίες για το προϊόν πριν από τη χρήση.</Description>
-		<Quantity>1312</Quantity>
+		<Quantity>1313</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14567,7 +14567,7 @@ Super-απορροφητική.
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0421</MPN>
 		<Description>Τα αντικουνουπικά spiral της OSKAR προσφέρουν αποτελεσματική προστασία από τα κουνούπια. Κάθε συσκευασία περιλαμβάνει 10 σπιράλ για επαναλαμβανόμενη προστασία. Ιδανικά για χρήση σε εξωτερικούς χώρους καθώς και σε διακοπές και εκδρομές.</Description>
-		<Quantity>4</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14609,7 +14609,7 @@ Super-απορροφητική.
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0933</MPN>
 		<Description>Ανταλλακτικό υγρό Oskar Set Υγρό Εντομοαπωθητικό 45 Νύχτες + Συσκευή Διπλής Χρήσης ηλεκτρικής συσκευής, το οποίο απωθεί κουνούπια και σκνίπες από το χώρο σας. Περιλαμβάνει ένα αντικουνουπικό συσκευασίας και το υγρό που χρησιμοποιείται με αυτό.</Description>
-		<Quantity>73</Quantity>
+		<Quantity>74</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14623,7 +14623,7 @@ Super-απορροφητική.
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0446</MPN>
 		<Description>Υγρό εντομοαπωθητικό για ηλεκτρική συσκευήΔιώχνει σκνίπες και κουνούπιαΗ συσκευασία περιέχει 30mlΔιαρκεί 45 νύχτες</Description>
-		<Quantity>178</Quantity>
+		<Quantity>179</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15012,7 +15012,7 @@ Super-απορροφητική.
 		<MPN>0953</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
-		<Quantity>558</Quantity>
+		<Quantity>559</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15183,7 +15183,7 @@ Super-απορροφητική.
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>Ε-0922</MPN>
 		<Description>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών με Μπαταρία και Διάσταση 6x9x15 εκ.</Description>
-		<Quantity>128</Quantity>
+		<Quantity>121</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15351,7 +15351,7 @@ Barcode: 5206753041689
 ℹ️ Οδηγίες Χρήσης
 
 Αφαιρέστε τη διάφανη προστατευτική μεμβράνη και τοποθετήστε το προϊόν στον επιθυμητό χώρο. Για καλύτερη διάρκεια, αποφύγετε την άμεση έκθεση σε ήλιο ή υψηλή θερμοκρασία.</Description>
-		<Quantity>100</Quantity>
+		<Quantity>105</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15556,7 +15556,7 @@ Barcode: 5206753033363
 		<MPN>0480</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Μπρικέτα Κάρβουνου A’ Grade (διάρκεια καύσης 6-7 ώρες). Η μπρικέτα κάρβουνο είναι η καλύτερη λύση σε μεγαλύτερη διάρκεια από τα κοινά κάρβουνα.•100% φυσικό προϊόν, το οποίο είναι πεπιεσμένο πριονίδι.•Υψηλή θερμιδική αξία.•Δεν καπνίζει, δεν βγάζει σπινθήρες και δεν αφήνει οσμές.•Έχει μεγάλη αντοχή.•Συσκευασία 10kg σε χάρτινο κουτί.</Description>
-		<Quantity>166</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15661,7 +15661,7 @@ Barcode: 5206753033363
 		<Manufacturer>ELEF</Manufacturer>
 		<MPN>0409</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεγάλου μεγέθους της εταιρείας Elef σε διάσταση 28x43cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
-		<Quantity>1122</Quantity>
+		<Quantity>1123</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15697,7 +15697,7 @@ Barcode: 5206753033363
     Συσκευασία 2 τεμαχίων ανά πακέτο
     Από υλικό HDPE μεγάλης αντοχής, έξτρα ενισχυμένη
 </Description>
-		<Quantity>204</Quantity>
+		<Quantity>206</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15725,7 +15725,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
-		<Quantity>1500</Quantity>
+		<Quantity>1503</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15959,7 +15959,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-2496</MPN>
 		<Description>Μανταλάκια ρούχων με σιλικόνη για να μην αφήνει σημάδι στα ρούχα. Διαθέτουν ανοξείδωτο ελατήριο, σετ 10 τμχ σε διάφορα Χρώματα.</Description>
-		<Quantity>17</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16404,7 +16404,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>Ε-3806</MPN>
 		<Description>ο μαχαίρι steak της εταιρείας Sidirela με μήκος λεπίδας 12cm, χρησιμοποιείται για μαγειρεμένο φαγητό και σας εξασφαλίζει ευκολότερο κόψιμο σε αντίθεση με τα μαχαίρια φαγητού. Διαθέτει λεπίδα με μυτερή άκρη. Είναι ιδανικό για μπριζόλες, κοτόπουλο, παϊδάκια και ψάρι. Είναι κατασκευασμένο από ανοξείδωτο ατσάλι, ένα δημοφιλές υλικό για μαχαίρια, είναι ιδιαίτερα ανθεκτικό και δεν διαβρώνεται. Αποτελεί ένα συνδυασμό από άνθρακα και σίδηρο ως βάση και προστίθεται χρώμιο για να απωθεί τους λεκέδες και να δώσει στη λεπίδα ένα γυαλιστερό φινίρισμα.</Description>
-		<Quantity>29</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20798,7 +20798,7 @@ Brand: Viosarp</Description>
 Κατασκευή από μασίφ ξύλο κέδρου
 Φέρει 2 ράφια για τακτοποίηση των παπουτσιών σας
 Διαστάσεις: 74x26x30εκ.</Description>
-		<Quantity>35</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24500,7 +24500,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Ύψος: 95 cm
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί μετακινείται εύκολα και κλείνει και ανοίγει με ευκολία.</Description>
-		<Quantity>82</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25417,7 +25417,7 @@ laptop, βιβλία ή σημειώσεις,
     Πλύσιμο στο χέρι με μέγιστη θερμοκρασία 40°C
 
 Απαγορεύεται η χρήση λευκαντικού, η τοποθέτηση σε στεγνωτήριο, το στεγνό καθάρισμα ή το σιδέρωμα.</Description>
-		<Quantity>6</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27238,7 +27238,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1677</MPN>
 		<Description>Ιδανικά για κρυό καφέ και κρύα ροφήματα.</Description>
-		<Quantity>112</Quantity>
+		<Quantity>110</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27852,7 +27852,7 @@ Brand: Sidirela
 103 x 148 mm   Outside Bottom Dimensions
 60 mm        Filling depth
 1000 cm3       Capacity</Description>
-		<Quantity>12</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27945,7 +27945,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0936</MPN>
 		<Description>Πλαστικό σωσάκι μιας χρήσης χωρητικότητας 180ml με ενσωματωμένο καπάκι,. Η συσκευασία περιλαμβάνει 50 τεμάχια. Κατάλληλο και για μνημόσυνα.</Description>
-		<Quantity>182</Quantity>
+		<Quantity>186</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28159,7 +28159,7 @@ Brand: Sidirela
 		<MPN>0817</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28300,7 +28300,7 @@ Brand: Sidirela
 Μήκος: 40cm
 Πλάτος: 30cm
 Πλαστικές σακούλες τύπου φανελάκι. Διαθέτουν 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας και είναι ιδανικές για χρήση σε καταστήματα λιανικής πώλησης, όπως super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>18</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28420,7 +28420,7 @@ mini markets
 
     Μήκος(μέτρα): 20μ.
     Πλάτος: 29εκ.</Description>
-		<Quantity>339</Quantity>
+		<Quantity>341</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28573,7 +28573,7 @@ Air-fryer με τετράγωνο κάδο
 ℹ️ Σημείωση
 
 Το προϊόν προορίζεται για μία χρήση. Συνιστάται να τοποθετείται πάντα μαζί με τρόφιμα, ώστε να αποφεύγεται η άμεση έκθεση σε υψηλή θερμοκρασία χωρίς βάρος.</Description>
-		<Quantity>100</Quantity>
+		<Quantity>103</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28662,7 +28662,7 @@ Barcode: 5206753044598
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1571</MPN>
 		<Description>Μεμβράνη της εταιρίας Θαλασσινός, για να προστατεύει τη φρεσκάδα και τη γεύση των τροφίμων χάρη στην ικανότητα να κλείνει αεροστεγώς πάνω σε στεγνές επιφάνειες και να εμποδίζει τη μεταφορά των οσμών μεταξύ των τροφίμων στο ψυγείο.Χαρακτηριστικά    Μήκος(μέτρα): 30μ.    Πλάτος: 30εκ.    Τεμάχια: 1τμχ</Description>
-		<Quantity>1260</Quantity>
+		<Quantity>1261</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28861,7 +28861,7 @@ Barcode: 5206753044598
 		<MPN>4034</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>• Μέγεθος: Β5• Δέσιμο: Καρφίτσα• Αριθμός φύλλων: 50• Διαστάσεις: 17x25cm</Description>
-		<Quantity>64</Quantity>
+		<Quantity>76</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28964,7 +28964,7 @@ Barcode: 5206753044598
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>4601-1</MPN>
 		<Description>Το σπιράλ σημειωματάριο Micro είναι πολύ πρακτικό χάρη στο μικρό του μέγεθος, το δέσιμο σπιράλ και τη ριγέ γραμμογράφηση που σας επιτρέπουν να κρατάτε άνετα τις απαραίτητες σημειώσεις! Κάθε σεμειωματάριο διαθέτει 80 φύλλα και σκληρό οπισθόφυλλο για να μπορείς να γράφεις σταθερά. Έχει 2 θέματα, εξώφυλλο από χαρτί Pressboard και διατίθεται σε πάκετο 12 τεμαχίων.</Description>
-		<Quantity>4</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29079,7 +29079,7 @@ Barcode: 5206753044598
 		<MPN>TGL4035</MPN>
 		<Weight>0.25 kg</Weight>
 		<Description>Κόλλα σχολική / παιδική από την Typotrust σε μορφή gel 35ml για εύκολη εφαρμογή. Αποτελεί ασφαλή επιλογή για χρήση από παιδιά σε χειροτεχνίες στο σχολείο αλλά και στο σπίτι. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30231,7 +30231,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1573</MPN>
 		<Description>Λάμπα LED με απόδοση φωτεινότητας 480 lumen και διάμετρο 60mm. Κατάλληλη για τοποθέτηση σε φωτιστικά με εφαρμογή E27.</Description>
-		<Quantity>56</Quantity>
+		<Quantity>57</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32113,7 +32113,7 @@ Volt: 3V</Description>
 Δυνατότητα αποθήκευσης σε κάθετη θέση
 Αντιολισθητικά πόδια
 Θερμική ασφάλεια</Description>
-		<Quantity>11</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -38110,7 +38110,7 @@ VeganΌχι
 		<MPN>1024</MPN>
 		<Weight>4 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.• Κυρίως συστατικό: Κρέας• Συσκευασία: 4kg</Description>
-		<Quantity>241</Quantity>
+		<Quantity>237</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -38170,7 +38170,7 @@ VeganΌχι
 		<MPN>1027</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
-		<Quantity>849</Quantity>
+		<Quantity>845</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
