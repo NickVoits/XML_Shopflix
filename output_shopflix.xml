@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-15 16:18</created_at>
+	<created_at>2026-09-15 16:33</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>241</Quantity>
+		<Quantity>238</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5161,7 +5161,7 @@ Prosciutto και αλλαντικά
 		<MPN>0638</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>2286</Quantity>
+		<Quantity>2262</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5176,7 +5176,7 @@ Prosciutto και αλλαντικά
 		<MPN>0722</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>278</Quantity>
+		<Quantity>254</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9551,6 +9551,66 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>640520101</SKU>
+		<EAN>5200377800011</EAN>
+		<Name>I&amp;B Φωτιστικό Οινόπνευμα 93° 430ml</Name>
+		<URL>https://www.skroutz.gr/s/31532566/Syndesmos-Fotistiko-Oinopneyma-I-V-Fildisi-93-430ml.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/057440/57440321/xlarge_20220311163751_5bd3caed.jpeg</Image>
+		<Price>1.2</Price>
+		<Category>Αντισηπτικά Τραύματος</Category>
+		<Manufacturer>Ι&amp;Β </Manufacturer>
+		<MPN>ΦΡΟΝΤ-80011</MPN>
+		<Description>Περιγραφή
+
+Φωτιστικό οινόπνευμα I&amp;B 93°, σε συσκευασία 430 ml, κατάλληλο για οικιακή και επαγγελματική χρήση. Πρόκειται για μετουσιωμένη αιθυλική αλκοόλη γεωργικής προέλευσης, η οποία μπορεί να χρησιμοποιηθεί ως καύσιμη ύλη σε κατάλληλες συσκευές, καθώς και για διάφορες εργασίες καθαρισμού.
+
+Χάρη στην υψηλή περιεκτικότητά του σε αλκοόλη, είναι κατάλληλο για την απομάκρυνση λεκέδων και υπολειμμάτων από επιφάνειες όπου επιτρέπεται η χρήση οινοπνεύματος.
+
+Χαρακτηριστικά:
+
+Μάρκα: I&amp;B
+Τύπος: Φωτιστικό οινόπνευμα
+Βαθμοί: 93°
+Περιεχόμενο: 430 ml
+Μετουσιωμένη αιθυλική αλκοόλη γεωργικής προέλευσης
+Κατάλληλο για χρήση ως καύσιμη ύλη σε κατάλληλες συσκευές
+Κατάλληλο για εργασίες καθαρισμού και αφαίρεση λεκέδων
+Μη πόσιμο</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>640520202</SKU>
+		<EAN>5200377800080</EAN>
+		<Name>I&amp;B Αλκοολούχος Λοσιόν 95° 430ml</Name>
+		<URL>https://www.skroutz.gr/s/10255899/Alkoolouchos-Losion-95-430ml.html</URL>
+		<Image>https://d.scdn.gr/images/sku_images/057520/57520325/xlarge_20220314162910_5dd71da6.jpeg</Image>
+		<Price>1.64</Price>
+		<Category>Αντισηπτικά Τραύματος</Category>
+		<Manufacturer>Ι&amp;Β </Manufacturer>
+		<MPN>ΦΡΟΝΤ-80080</MPN>
+		<Description>Περιγραφή
+
+Αλκοολούχος λοσιόν I&amp;B 95° με μετουσιωμένη αιθυλική αλκοόλη, κατάλληλη για την καθημερινή προσωπική υγιεινή και περιποίηση.
+
+Χρησιμοποιείται ως ήπιο αντισηπτικό και είναι κατάλληλη για εντριβές και καθαρισμό προσώπου και χεριών. Η ειδική σύνθεσή της είναι σχεδιασμένη ώστε να μην ξηραίνει το δέρμα κατά τη χρήση.
+
+Χαρακτηριστικά:
+
+Μάρκα: I&amp;B
+Τύπος: Αλκοολούχος λοσιόν
+Περιεκτικότητα αλκοόλης: 95°
+Περιεχόμενο: 430 ml
+Περιέχει μετουσιωμένη αιθυλική αλκοόλη
+Κατάλληλη για εντριβές
+Κατάλληλη για καθαρισμό προσώπου και χεριών
+Ήπια αντισηπτική δράση
+Δεν ξηραίνει το δέρμα
+</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>64162</SKU>
 		<EAN>5206991031312</EAN>
 		<Name>Iasis Λοσιόν Οινοπνεύματος 93° 230ml</Name>
@@ -11406,7 +11466,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1717</Quantity>
+		<Quantity>1696</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19286,7 +19346,7 @@ Brand: Viosarp</Description>
 Με βάρος μόλις 9,3 kg, είναι επίσης εύκολο στη μετακίνηση, επιτρέποντας ευέλικτη χρήση. 
 Το γραφείο της Vasagle συνδυάζει λειτουργικότητα και σχεδιασμό, καθιστώντας το μια πρακτική λύση για όποιον θέλει να δημιουργήσει 
 έναν κομψό χώρο εργασίας.</Description>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24595,7 +24655,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 		<URL>https://www.skroutz.gr/s/63301695/thiki-plysimatos-papoutsion-plyntiriou-microfiber-vc3166-40x19cm.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/063301/63301695/xlarge_20251001135224_thiki_plysimatos_papoutsion_plyntiriou_microfiber_vc3166_40x19cm.jpeg</Image>
 		<Additional_Image>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_0.jpg?itok=AKjvoqeI https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_1.jpg?itok=VImHJcZy https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_2.jpg?itok=FkE1Ghc5 https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_3.jpg?itok=rhmO_wag</Additional_Image>
-		<Price>4.11</Price>
+		<Price>3.99</Price>
 		<Category>Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category>
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>VC3166</MPN>
@@ -27314,7 +27374,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0782</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 240ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
-		<Quantity>103</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28490,7 +28550,7 @@ mini markets
 		<Manufacturer>Θαλασσινός</Manufacturer>
 		<MPN>ΠΡ3654</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας Θαλασσινός, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη._x000D__x000D_Χαρακτηριστικά_x000D__x000D_    Πλάτος: 38εκ._x000D_    Μήκος(εκατοστά): 42εκ._x000D_    Τεμάχια: 18τμχ</Description>
-		<Quantity>178</Quantity>
+		<Quantity>172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31849,7 +31909,7 @@ Volt: 3V</Description>
 Δυνατότητες
 
 Φωτιστικό με σφιγκτήρα για να στερεώνεται, και βραχίονα τύπου σπιράλ που προσαρμόζεται ανάλογα με τις ανάγκες σας. Εκπέμπει φυσικό λευκό φως με Led ισχύος 3 Watt με διακόπτη αφής. Το καλώδιο τροφοδοσίας του έχει μήκος 1 μέτρο, το οποίο περιλαμβάνεται στη συσκευασία του χωρίς τον φορτιστή.</Description>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34610,6 +34670,80 @@ USB6 QC: 5V/3A, 9V/2A, 12V/1,5A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799510802</SKU>
+		<EAN>5200149949740</EAN>
+		<Name>ATC Universal Τροφοδοτικό Ρυθμιζόμενης Τάσης 3V-12V 2.5A με Ισχύ 30W με σετ 6 Κεφαλών</Name>
+		<URL>https://www.skroutz.gr/s/30010352/ATC-Universal-Trofodotiko-Rythmizomenis-Tasis-12V-2-5A-me-Ischy-30W-me-set-vysmaton-05-007-0034.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/030010/30010352/xlarge_20220131135238_atc_universal_trofodotiko_switching_12v_2_5a_with_6_tips.jpeg</Image>
+		<Additional_Image>https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/1/61j_pixeeml._ac_sl1000_.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/1/61q67xmj16l._ac_sl1000_.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/5/1/51guovprvdl._ac_sl1000_.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/5/1/515s_c0btml._ac_sl1000_.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/3/0/30w_3.jpg </Additional_Image>
+		<Price>10.46</Price>
+		<Category>Τροφοδοτικά</Category>
+		<Manufacturer>Atc</Manufacturer>
+		<MPN>ATC-30W</MPN>
+		<Description>Το ATC-30W είναι universal τροφοδοτικό AC/DC ισχύος έως 30W, σχεδιασμένο για την τροφοδοσία διαφορετικών ηλεκτρονικών και ηλεκτρικών συσκευών. Διαθέτει 7 επιλογές τάσης εξόδου από 3V έως 12V και μέγιστη ένταση έως 2,5A, προσφέροντας ευελιξία για διαφορετικές απαιτήσεις τροφοδοσίας.
+
+Στη συσκευασία περιλαμβάνονται 6 διαφορετικά βύσματα DC, ώστε να μπορεί να χρησιμοποιηθεί με μεγάλο εύρος συμβατών συσκευών. Η επιλογή της κατάλληλης τάσης πραγματοποιείται από τον ενσωματωμένο επιλογέα στο σώμα του τροφοδοτικού.
+
+Υποστηρίζει είσοδο AC 100–240V, 50/60Hz, ενώ διαθέτει προστασίες SCP, OVP, OCP και OTP για προστασία από βραχυκύκλωμα, υπέρταση, υπερένταση και υπερθέρμανση. Το περίβλημα είναι κατασκευασμένο από πυράντοχο υλικό ABS + PC.
+
+Τεχνικά χαρακτηριστικά
+Μοντέλο: ATC-30W
+Τύπος: Universal Switching AC/DC Adapter
+Μέγιστη ισχύς: 30W
+Είσοδος: AC 100–240V, 0,2A, 50/60Hz
+Επιλογές εξόδου: DC 3V / 4,5V / 5V / 6V / 7,5V / 9V / 12V
+Μέγιστη ένταση εξόδου: 2,5A
+Αριθμός βυσμάτων: 6
+Διαστάσεις βυσμάτων DC: 5,5×2,5 mm, 5,5×2,1 mm, 4,0×1,7 mm, 3,5×1,35 mm, 3,0×1,0 mm, 2,5×0,7 mm
+Υλικό περιβλήματος: ABS + PC, πυράντοχο
+Προστασίες: SCP / OVP / OCP / OTP
+Σημαντική επισήμανση
+
+Πριν από τη σύνδεση, πρέπει να επιβεβαιώνονται η απαιτούμενη τάση (V), η ένταση (A), το κατάλληλο βύσμα και η πολικότητα της συσκευής. Η λανθασμένη επιλογή τάσης ή πολικότητας μπορεί να προκαλέσει βλάβη στη συσκευή.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799510803</SKU>
+		<EAN>5200149949757</EAN>
+		<Name>ATC-41W Universal Τροφοδοτικό Ρυθμιζόμενης Τάσης 6V-24V με Ισχύ 41W με σετ 8 Εναλλάξιμων Κεφαλών</Name>
+		<URL>https://www.skroutz.gr/s/39949947/Rythmizomeno-Universal-Trofodotiko-6-Eos-24v-41w-8-Vysmata-05-007-0053.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/039949/39949947/xlarge_20221212094856_rythmizomeno_universal_trofodotiko_6_eos_24v_6_8a_41w_me_8_vysmata_05_007_0053.jpeg</Image>
+		<Additional_Image>https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/s/w/switching_41w_with_8_tips.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/_/_/__viber_2023-01-20_12-13-41-178.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/_/-/_-41w.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/4/1/41w.png </Additional_Image>
+		<Price>12.37</Price>
+		<Category>Τροφοδοτικά</Category>
+		<Manufacturer>Atc</Manufacturer>
+		<MPN>ATC-41W</MPN>
+		<Description>Το ATC Universal Τροφοδοτικό 41W είναι ένα ρυθμιζόμενο τροφοδοτικό γενικής χρήσης, σχεδιασμένο για την τροφοδοσία πολλών διαφορετικών ηλεκτρονικών συσκευών. Διαθέτει επιλογή τάσης εξόδου από 6V έως 24V και συνοδεύεται από 8 εναλλάξιμα βύσματα, προσφέροντας ευρεία δυνατότητα προσαρμογής σε διαφορετικές συσκευές.
+
+Υποστηρίζει έξοδο 6V–12V έως 2A και 15V–24V έως 1,5A, με μέγιστη ισχύ 41W. Μπορεί να χρησιμοποιηθεί, εφόσον συμφωνούν οι απαιτήσεις τροφοδοσίας και η πολικότητα της συσκευής, με διάφορες ηλεκτρονικές εφαρμογές όπως routers, ηχεία, LED συσκευές, κάμερες CCTV και άλλες συμβατές συσκευές DC.
+
+Το σετ περιλαμβάνει έξι βύσματα διαφορετικών διαστάσεων, καθώς και βύσμα Micro USB και βύσμα/αντάπτορα LED, ώστε να καλύπτει διαφορετικούς τύπους σύνδεσης.
+
+Το καλώδιο DC έχει μήκος 1,2 m, ενώ το περίβλημα είναι κατασκευασμένο από ABS + PC. Διαθέτει πιστοποιήσεις CE, FCC και RoHS.
+
+Σημαντικό: Πριν από τη σύνδεση, πρέπει να επιβεβαιώνονται η απαιτούμενη τάση (V), ένταση ρεύματος (A), πολικότητα και διάσταση βύσματος της συσκευής.
+
+Τεχνικά χαρακτηριστικά
+Τύπος: Universal ρυθμιζόμενο τροφοδοτικό AC/DC
+Μέγιστη ισχύς: 41W
+Τάσεις εξόδου: 6V–24V
+Έξοδος 6V–12V: έως 2A
+Έξοδος 15V–24V: έως 1,5A
+Αριθμός βυσμάτων: 8
+Βύσματα DC: 2,5 × 0,7 mm, 4,0 × 1,7 mm, 3,0 × 1,1 mm, 5,5 × 2,1 mm, 3,5 × 1,35 mm, 5,5 × 2,5 mm
+Επιπλέον βύσματα: Micro USB και αντάπτορας LED
+Μήκος καλωδίου DC: 1,2 m
+Υλικό: ABS + PC
+Ψύξη: Φυσική
+Θερμοκρασία λειτουργίας: -10°C έως +40°C
+Θερμοκρασία αποθήκευσης: -20°C έως +85°C
+Πιστοποιήσεις: CE / FCC / RoHS
+Χρώμα: Μαύρο</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7995113</SKU>
 		<EAN>5205308277719</EAN>
 		<Name>Lime  USB 2.0 Cable USB-C male - USB-C male Λευκό 1m</Name>
@@ -35187,20 +35321,6 @@ USB-A - Lightning: 5V/2.4A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7995121</SKU>
-		<EAN>5205308297038</EAN>
-		<Name>NSP HN25 In-ear Handsfree με Βύσμα 3.5mm Μαύρο</Name>
-		<URL>https://www.skroutz.gr/s/33576319/NSP-HN25-In-ear-Handsfree-me-Vysma-3-5mm-Mayro.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/033576/33576319/20220124124439_nsp_hn25_in_ear_handsfree_me_vysma_3_5mm_mayro.jpeg</Image>
-		<Price>8.227207800000002</Price>
-		<Category>Handsfree Ακουστικά</Category>
-		<Manufacturer>NSP</Manufacturer>
-		<MPN>1548</MPN>
-		<Description>Τα HN25 είναι in-ear handsfree με βύσμα 3.5 mm, γνωστό και ως “καρφί”, ώστε να συνδέονται με κάθε συσκευή που διαθέτει την κλασική υποδοχή mini jack.    Τύπος: In-ear    Συνδεσιμότητα: 3.5mm</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7995122</SKU>
 		<EAN>5205308315350</EAN>
 		<Name>NSP HN28 In-ear Handsfree με Βύσμα USB-C Μαύρο</Name>
@@ -35215,31 +35335,44 @@ USB-A - Lightning: 5V/2.4A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799513103</SKU>
-		<EAN>6920680856725</EAN>
-		<Name>XO HF TWS Bluetooth Handsfree Ακουστικά με Θήκη Φόρτισης Μπεζ X33-56725</Name>
-		<URL>https://www.skroutz.gr/s/50821945/XO-X33-Tws-In-ear-Bluetooth-Handsfree-Akoustika-me-THiki-Fortisis-Mpez.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/050821/50821945/xlarge_20240227164556_xo_x33_tws_in_ear_bluetooth_handsfree_akoustika_mpez.jpeg</Image>
-		<Additional_Image>https://cdn.omax.bg/images/products/full/5/5/0/1/0/c/omax.bg-xo-x33-beige.jpg https://cdn.omax.bg/images/products/full/5/5/0/1/0/c/skyphone.bg-xo-tws-x33-beige-2.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/0/c/skyphone.bg-xo-tws-x33-beige-3.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/0/c/skyphone.bg-xo-tws-x33-beige-4.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/0/c/skyphone.bg-xo-tws-x33-beige-5.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/0/c/skyphone.bg-xo-tws-x33-1.jpeg</Additional_Image>
-		<Price>7.394116589999999</Price>
+		<SKU>799513104</SKU>
+		<EAN>5200149945100</EAN>
+		<Name>ATC-25 In-ear Bluetooth Handsfree Ακουστικά με Θήκη Φόρτισης Λευκά </Name>
+		<URL>https://a.scdn.gr/images/sku_images/089432/89432200/xlarge_20240205103358_787a651c.jpeg</URL>
+		<Image>https://a.scdn.gr/images/sku_images/089432/89432200/xlarge_20240205103358_787a651c.jpeg</Image>
+		<Additional_Image>https://a.scdn.gr/images/sku_images/089432/89432200/xlarge_20240205103358_787a651c.jpeg</Additional_Image>
+		<Price>7.92</Price>
 		<Category>Bluetooth Handsfree</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>X33-56725</MPN>
-		<Description>Υποστηρίζουν την τεχνολογία TWS (True Wireless Stereo), επιτρέποντας τα ακουστικά να συνδέονται μεταξύ τους για τη δημιουργία ενός ασύρματου στερεοφωνικού συνόλου. Η φορητή θήκη με ενσωματωμένη μπαταρία, εκτός από τη λειτουργία φόρτισης, επιτρέπει την ασφαλή αποθήκευση των ακουστικών στην τσέπη, την τσάντα ή το σακίδιο. Απελευθερώστε τα χέρια σας και απολαύστε μουσική ή διαδικτυακό ραδιόφωνο κατά την εργασία, τη βόλτα, την προπόνηση ή την οδήγηση. Τα ακουστικά XO X33 TWS αποτελούν ιδανική λύση για χρήστες smartphone, υπολογιστών, notebooks, tablets και άλλων συσκευών με δυνατότητα Bluetooth. Είναι συμβατά με τις περισσότερες συσκευές Android και iOS. Διαθέτουν επίσης μικρόφωνο, καθιστώντας εύκολη την πραγματοποίηση φωνητικών κλήσεων. Η διάρκεια κλήσεων/ακρόασης μουσικής με πλήρη φόρτιση είναι περίπου 240 λεπτά (ανάλογα με τη στάθμη έντασης), χάρη στη χρήση της ενεργειακά αποδοτικής τεχνολογίας Bluetooth 5.3.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7995141</SKU>
-		<EAN>5205308340000</EAN>
-		<Name>NSP BN550 Earbud Bluetooth Handsfree Ακουστικά με Αντοχή στον Ιδρώτα και Θήκη Φόρτισης Λευκά</Name>
-		<URL>https://www.skroutz.gr/s/48803506/NSP-BN550-Earbud-Bluetooth-Handsfree-Akoustika-me-Antochi-ston-Idrota-kai-THiki-Fortisis-Leyka.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/048803/48803506/20231214145946_nsp_bn550_earbud_bluetooth_handsfree_akoustika_me_thiki_fortisis_leyka.jpeg</Image>
-		<Price>32.64765</Price>
-		<Category>Bluetooth Handsfree</Category>
-		<Manufacturer>NSP</Manufacturer>
-		<MPN>1550</MPN>
-		<Description>Πρόκειται για καινοτόμα earbuds true wireless stereo ακουστικά, τα οποία συνδέονται εύκολα μέσω ασύρματης τεχνολογίας Bluetooth v5.3 για καθαρό και αδιάλειπτο ήχο, με χαμηλότερη κατανάλωση ενέργειας για εκτεταμένη ακρόαση. Και τα δύο ακουστικά είναι εξοπλισμένα με μικρόφωνο υψηλής απόδοσης, το οποίο βρίσκεται στο κάτω μέρος των ακουστικών.</Description>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>ATC-25 WHITE</MPN>
+		<Description>Περιγραφή
+
+Τα ATC-25 TWS είναι ασύρματα ακουστικά Bluetooth 5.3 με θήκη φόρτισης, κατάλληλα για μουσική, τηλεφωνικές κλήσεις και καθημερινή χρήση με smartphone, tablet και άλλες συμβατές συσκευές Bluetooth.
+
+Χάρη στην τεχνολογία TWS (True Wireless Stereo), τα δύο ακουστικά λειτουργούν ασύρματα ως στερεοφωνικό ζευγάρι, χωρίς καλώδιο μεταξύ τους. Διαθέτουν ενσωματωμένο μικρόφωνο για πραγματοποίηση και διαχείριση κλήσεων, ενώ από τα πλήκτρα τους μπορείτε να ελέγχετε την αναπαραγωγή μουσικής και τις κλήσεις.
+
+Η θήκη διαθέτει ενσωματωμένη μπαταρία 180 mAh και λειτουργεί ταυτόχρονα ως προστατευτική θήκη μεταφοράς και ως φορτιστής των ακουστικών. Κάθε ακουστικό διαθέτει μπαταρία 30 mAh, με χρόνο ομιλίας περίπου 5 ώρες. Η φόρτιση της θήκης πραγματοποιείται μέσω USB Type-C.
+
+Χαρακτηριστικά
+Μοντέλο: ATC-25
+Τύπος: TWS ασύρματα ακουστικά
+Bluetooth: 5.3
+Chipset Bluetooth: Jerry JL6983D2
+Πρωτόκολλα: A2DP, AVRCP, HSP, HFP
+Ενσωματωμένο μικρόφωνο
+Μπαταρία θήκης φόρτισης: 180 mAh
+Μπαταρία ακουστικών: 2 × 30 mAh
+Χρόνος ομιλίας: περίπου 5 ώρες
+Χρόνος φόρτισης ακουστικών: περίπου 1,5 ώρα
+Χρόνος φόρτισης θήκης: περίπου 2 ώρες
+Αναμονή με πλήρη φόρτιση: 4–6 μήνες
+Φόρτιση θήκης: USB Type-C
+Λειτουργίες: αναπαραγωγή/παύση, προηγούμενο/επόμενο τραγούδι, απάντηση και τερματισμός κλήσης
+Διαστάσεις: 46 × 46 × 23,5 mm
+Υλικό: PC + ABS
+Χρώμα: Λευκό
+
+Σημείωση συμβατότητας: Σύμφωνα με τα στοιχεία του προμηθευτή, δεν υποστηρίζονται iPhone 14 και νεότερα μοντέλα.</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -36597,6 +36730,54 @@ Aluminum Case Better for heat dissipation </Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799652104</SKU>
+		<EAN>6981200010002</EAN>
+		<Name>ATC-10 Ασύρματο Ηχείο Karaoke Bluetooth 5.3 10W με 2 Ασύρματα Μικρόφωνα και Εφέ Φωτισμού σε Μπεζ Χρώμα</Name>
+		<URL>https://www.skroutz.gr/s/50347184/ATC-Icheio-Karaoke-me-Asyrmata-Mikrofona-kai-Efe-Fotismou-20-001-0002-Mpez.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/050347/50347184/xlarge_20240208100803_atc_icheio_me_leitourgia_karaoke_se_mpez_chroma.jpeg</Image>
+		<Additional_Image>https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/m/o/mobile_copy.jpg</Additional_Image>
+		<Price>32.4</Price>
+		<Category>Karaoke</Category>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>ATC-10</MPN>
+		<Description>Το ATC-10 είναι ένα φορητό ασύρματο ηχείο karaoke με δύο ασύρματα μικρόφωνα, ιδανικό για μουσική, karaoke, πάρτι και διασκέδαση στο σπίτι ή στις διακοπές. Διαθέτει Bluetooth 5.3, ονομαστική ισχύ 10W και ενσωματωμένο ηχείο 2,5", συνδυάζοντας μικρές διαστάσεις με ευέλικτες δυνατότητες αναπαραγωγής.
+
+Τα 2 ασύρματα μικρόφωνα επιτρέπουν τη χρήση του από δύο άτομα ταυτόχρονα, ενώ η ασύρματη σύνδεση Bluetooth έχει εμβέλεια έως περίπου 10 μέτρα σε χώρο χωρίς εμπόδια.
+
+Εκτός από Bluetooth, το ATC-10 υποστηρίζει αναπαραγωγή μέσω κάρτας TF, USB και AUX, ώστε να μπορείτε να ακούτε μουσική από διαφορετικές πηγές.
+
+Ο ενσωματωμένος RGB φωτισμός με 6 λειτουργίες δημιουργεί φωτεινά εφέ και μπορεί να ακολουθεί τον ρυθμό της μουσικής, προσθέτοντας ιδιαίτερη ατμόσφαιρα κατά τη χρήση.
+
+Η επαναφορτιζόμενη μπαταρία 18650 1800mAh / 3,7V προσφέρει χρόνο αναπαραγωγής έως περίπου 8 ώρες σε ένταση 80%, ενώ η φόρτιση πραγματοποιείται μέσω USB-C και ολοκληρώνεται σε περίπου 3 ώρες.
+
+Χάρη στις compact διαστάσεις και το βάρος μόλις 428 g, μεταφέρεται εύκολα και αποτελεί πρακτική επιλογή για το σπίτι, πάρτι, εκδρομές και διακοπές.
+
+Τεχνικά χαρακτηριστικά
+Μοντέλο: ATC-10
+Τύπος: Φορητό ηχείο Karaoke
+Μικρόφωνα: 2 ασύρματα
+Bluetooth: V5.3 – Jelly 6966B
+Πρωτόκολλα: A2DP 1.3, AVRCP 1.5
+Συχνότητα Bluetooth: 2,402–2,480 GHz
+Εμβέλεια Bluetooth: έως 10 m χωρίς εμπόδια
+Ονομαστική ισχύς: 10W
+Ηχείο: 2,5" / 66 mm
+Αναπαραγωγή: Bluetooth / USB / TF Card / AUX
+RGB φωτισμός: 6 λειτουργίες
+Μπαταρία: 18650, 1800mAh / 3,7V
+Αυτονομία: έως περίπου 8 ώρες σε ένταση 80%
+Φόρτιση: USB-C, DC 5V/0,5A
+Χρόνος φόρτισης: περίπου 3 ώρες
+Υλικό: Πλαστικό
+Χρώμα: Μπεζ
+Διαστάσεις: 11,22 × 7,8 × 11,3 cm
+Βάρος: 428 g
+
+Στη συσκευασία περιλαμβάνονται: ηχείο ATC-10 και 2 ασύρματα μικρόφωνα.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>799652901</SKU>
 		<EAN>8011000000244</EAN>
 		<Name>Trevi Δυναμικό Μικρόφωνο Χειρός για Φωνητικά με 3M Καλώδιο 6.35mm/3,5mm EM24</Name>
@@ -36662,6 +36843,149 @@ Aluminum Case Better for heat dissipation </Description>
 		<MPN>03.005.0046</MPN>
 		<Description>Τηλεχειριστήριο αντικατάστασης για τηλεοράσεις LG</Description>
 		<Quantity>6</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799663101</SKU>
+		<EAN>5200149946138</EAN>
+		<Name>ATC-3780 Επιτοίχια Βάση Τηλεόρασης Full Motion 37"-80" έως 40kg VESA 600x400</Name>
+		<URL>https://www.skroutz.gr/s/26086677/ATC-ATC-3780-Vasi-Tileorasis-Toichou-me-Vrachiona-eos-80-kai-40kg.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/026086/26086677/xlarge_20241024121728_atc_atc_3780_vasi_tileorasis_toichou_me_vrachiona_eos_80_kai_40kg.jpeg</Image>
+		<Additional_Image>https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/p/lpa63-466-05_1.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/p/lpa63-466-03_1.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/p/lpa63-466-04_1.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/3/7/3780lumi.jpg https://www.youtube.com/watch?v=8COA_iegOmA&amp;t=5s</Additional_Image>
+		<Price>30.61</Price>
+		<Category>Βάσεις Τηλεοράσεων</Category>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>ATC-3780</MPN>
+		<Description>Η ATC-3780 είναι επιτοίχια βάση τηλεόρασης Full Motion με διπλό αρθρωτό βραχίονα, κατάλληλη για τηλεοράσεις από 37" έως 80" και μέγιστο βάρος έως 40 kg. Ο ευέλικτος σχεδιασμός της επιτρέπει την προσαρμογή της θέσης της τηλεόρασης, προσφέροντας άνετη θέαση από διαφορετικά σημεία του χώρου.
+
+Διαθέτει δυνατότητα κλίσης από +5° έως -15° και περιστροφής έως ±60°, ενώ ο επεκτεινόμενος βραχίονας επιτρέπει ρύθμιση της απόστασης της τηλεόρασης από τον τοίχο από 62 έως 468 mm. Έτσι, η οθόνη μπορεί να παραμένει κοντά στον τοίχο ή να απομακρύνεται και να στρέφεται ανάλογα με τις ανάγκες του χώρου.
+
+Η στιβαρή μεταλλική κατασκευή από χάλυβα προσφέρει σταθερή στήριξη, ενώ η ηλεκτροστατική βαφή πούδρας εξασφαλίζει ανθεκτικό φινίρισμα.
+
+Χαρακτηριστικά
+Μοντέλο: ATC-3780
+Τύπος: Επιτοίχια βάση τηλεόρασης Full Motion
+Μέγεθος τηλεόρασης: 37"–80"
+Μέγιστο βάρος τηλεόρασης: 40 kg
+Συμβατά VESA: 75×75, 100×100, 200×100, 200×200, 300×300, 400×200, 400×400 και 600×400 mm
+Κλίση: +5° έως -15°
+Περιστροφή: έως ±60°
+Απόσταση από τον τοίχο: 62–468 mm
+Υλικό: Χάλυβας
+Χρώμα: Μαύρο
+Φινίρισμα: Ηλεκτροστατική βαφή πούδρας
+Διαστάσεις βάσης: 468 × 655 × 420 mm
+Βάρος προϊόντος: 5,25 kg
+
+
+Σημαντικό: Πριν από την αγορά, ελέγξτε ότι το βάρος της τηλεόρασης δεν υπερβαίνει τα 40 kg και ότι οι οπές στερέωσής της αντιστοιχούν σε ένα από τα υποστηριζόμενα πρότυπα VESA.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799663151</SKU>
+		<EAN>5200149950180</EAN>
+		<Name>ATC-Y609S-2 Επιδαπέδια Βάση TV 32'' - 55'' έως 25kg VESA 100x100mm έως 400x400mm</Name>
+		<URL>https://www.skroutz.gr/s/55431125/ATC-Epidapedia-Vasi-Tv-32-55-Atc-y609s-2.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/055431/55431125/xlarge_20240813102040_stirixis_y609s_2_vasi_tileorasis_dapedou_eos_25kg.jpeg</Image>
+		<Additional_Image>https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/i/m/image_2025_02_20t09_56_13_708z.png https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/_/_/__viber_2025-01-20_11-18-21-769.jpg </Additional_Image>
+		<Price>39.25</Price>
+		<Category>Βάσεις Τηλεοράσεων</Category>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>ATC-Y609S-2 </MPN>
+		<Description>Η ATC-Y609S-2 είναι επιδαπέδια τροχήλατη βάση τηλεόρασης, σχεδιασμένη για οθόνες από 32" έως 55" και μέγιστο βάρος έως 25 kg. Αποτελεί πρακτική λύση για χώρους όπου απαιτείται εύκολη μετακίνηση της τηλεόρασης χωρίς μόνιμη τοποθέτηση στον τοίχο.
+
+Διαθέτει τροχούς για εύκολη μεταφορά, καθώς και φρένο για ασφαλή και σταθερή τοποθέτηση στο επιθυμητό σημείο. Είναι κατάλληλη για χρήση σε σπίτι, γραφείο, αίθουσες παρουσιάσεων, επαγγελματικούς και εκπαιδευτικούς χώρους.
+
+Υποστηρίζει πρότυπα στερέωσης VESA από 100×100 έως 400×400 mm, καλύπτοντας μεγάλο εύρος τηλεοράσεων και οθονών. Η μεταλλική κατασκευή και η φαρδιά βάση προσφέρουν σταθερότητα κατά τη χρήση και τη μετακίνηση.
+
+Χαρακτηριστικά
+Μοντέλο: ATC-Y609S-2
+Τύπος: Επιδαπέδια τροχήλατη βάση TV
+Κατάλληλη για τηλεοράσεις: 32"–55"
+Μέγιστο φορτίο: 25 kg
+VESA: από 100×100 έως 400×400 mm
+Τροχοί: Ναι
+Φρένο τροχών: Ναι
+Διαστάσεις: 1450 × 504 × 440 mm
+Βάρος βάσης: 6,75 kg
+Χρώμα: Μαύρο
+Συσκευασία: 1 τεμάχιο
+
+Σημαντικό: Πριν από την αγορά, συνιστάται να ελεγχθούν το βάρος, οι διαστάσεις και το πρότυπο VESA της τηλεόρασης ώστε να είναι συμβατά με τις προδιαγραφές της βάσης.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799663191</SKU>
+		<EAN>5200149946268</EAN>
+		<Name>ATC-2370 Επιτραπέζια Βάση TV 23'' - 70'' έως 50kg VESA 75x75mm έως 800x400mm</Name>
+		<URL>https://www.skroutz.gr/s/39478854/ATC-ATC-2370-Epitrapezia-Vasi-Tileorasis-eos-70-kai-50kg.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/039478/39478854/xlarge_20221117143749_atc_atc_2370_epitrapezia_vasi_tileorasis_eos_70_kai_50kg.jpeg</Image>
+		<Additional_Image>https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/2/62f645ff327ffa0002ab956f.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/2/62f652cc327ffa0002aba75e.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/2/62f6559f327ffa0002abab39.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/2/62f64050327ffa0002ab8da6.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/2/62f64466327ffa0002ab930a.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/6/2/62f99510327ffa00020fab8b.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/7/6/76179b94-2048-419e-8c92-75f100d84cde.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/d/ldt03-15l-detail_01.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/d/ldt03-15l-detail_02.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/d/ldt03-15l-detail_03.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/d/ldt03-15l-detail_04.jpg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/l/d/ldt03-15l-detail_05.jpg </Additional_Image>
+		<Price>18.54</Price>
+		<Category>Βάσεις Τηλεοράσεων</Category>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>ATC-2370</MPN>
+		<Description>Η ATC-2370 είναι μια στιβαρή επιτραπέζια βάση τηλεόρασης, κατάλληλη για τηλεοράσεις και οθόνες από 23" έως 70" και βάρος έως 50 kg. Αποτελεί πρακτική λύση για την τοποθέτηση της τηλεόρασης επάνω σε έπιπλο ή πάγκο, ιδιαίτερα όταν η εργοστασιακή βάση δεν είναι διαθέσιμη ή όταν απαιτείται διαφορετική θέση τοποθέτησης.
+
+Η βάση είναι κατασκευασμένη από ατσάλι με μαύρη ηλεκτροστατική βαφή πούδρας και διαθέτει δύο ανεξάρτητα στηρίγματα με φαρδιά πέλματα για σταθερή στήριξη. Παρέχει δυνατότητα ρύθμισης ύψους κατά 120 mm, επιτρέποντας την προσαρμογή της τηλεόρασης στο επιθυμητό επίπεδο.
+
+Υποστηρίζει μεγάλο εύρος προτύπων VESA από 75×75 έως 800×400 mm, προσφέροντας συμβατότητα με πολλές τηλεοράσεις διαφορετικών κατασκευαστών.
+
+Χαρακτηριστικά
+Μοντέλο: ATC-2370
+Τύπος: Επιτραπέζια βάση τηλεόρασης
+Κατάλληλη για οθόνες: 23"–70"
+Μέγιστο βάρος: 50 kg
+Ρύθμιση ύψους: 120 mm
+Υλικό: Ατσάλι
+Χρώμα: Μαύρο
+Φινίρισμα: Ηλεκτροστατική βαφή πούδρας
+Διαστάσεις: 350 × 944 × 767 mm
+Διαχείριση καλωδίων: Όχι
+Συσκευασία: 6 τεμάχια/κιβώτιο
+
+Συμβατότητα VESA:
+75×75, 100×100, 100×150, 150×100, 100×200, 200×100, 150×150, 200×200, 300×200, 400×200, 300×300, 400×300, 400×400, 600×400 και 800×400 mm.
+
+Σημαντικό: Πριν από την αγορά, ελέγξτε ότι το μέγεθος, το βάρος και το πρότυπο VESA της τηλεόρασής σας βρίσκονται εντός των προδιαγραφών της βάσης.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799663201</SKU>
+		<EAN>5200149940006</EAN>
+		<Name>ATC-826 Εσωτερική Κεραία TV 28dB με Ενισχυτή &amp; Φίλτρο 5G LTE με Τροφοδοτικό 5V και Σύνδεση με Ομοαξονικό (Coaxial) Καλώδιο σε Μαύρο Χρώμα</Name>
+		<URL>https://www.skroutz.gr/s/32176463/ATC-826-5G-LTE-28dB-Esoteriki-Keraia-Tileorasis-apaitei-trofodosia-se-Mayro-CHroma-Syndesi-me-Omoaxoniko-Coaxial-Kalodio.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/032176/32176463/xlarge_20220113163557_atc_826_5g_lte_28db_esoteriki_keraia_tileorasis_den_apaitei_trofodosia_se_mayro_chroma_syndesi_me_omoaxoniko_coaxial_kalodio.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/059571/59571718/xlarge_20220429140535_2dfe9c85.jpeg https://a.scdn.gr/images/sku_images/059571/59571717/xlarge_20220429140535_5f29fc32.jpeg https://d.scdn.gr/images/sku_images/059571/59571719/xlarge_20220429140535_4119232d.jpeg https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/a/t/atc826.jpg </Additional_Image>
+		<Price>22.68</Price>
+		<Category>Κεραίες Τηλεόρασης</Category>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>ATC-826</MPN>
+		<Description>Η ATC-826 είναι εσωτερική κεραία τηλεόρασης με ενσωματωμένο ενισχυτή έως 30 dB και φίλτρο 5G LTE, σχεδιασμένη για αξιόπιστη λήψη επίγειου τηλεοπτικού σήματος σε εσωτερικούς χώρους.
+
+Καλύπτει τις περιοχές συχνοτήτων 87,5–230 MHz και 470–694 MHz και υποστηρίζει λήψη FM/VHF/UHF. Το ενσωματωμένο φίλτρο 5G LTE συμβάλλει στον περιορισμό παρεμβολών που μπορεί να προκαλούνται από σύγχρονα δίκτυα κινητής τηλεφωνίας, βοηθώντας στη διατήρηση καθαρότερου και σταθερότερου τηλεοπτικού σήματος.
+
+Η κεραία μπορεί να χρησιμοποιηθεί και χωρίς εξωτερική τροφοδοσία, ως παθητική κεραία. Για περιοχές όμως με ασθενέστερο σήμα μπορεί να χρησιμοποιηθεί η τροφοδοσία 5V, ώστε να αξιοποιείται η ενίσχυση της κεραίας και να βελτιώνεται η ποιότητα λήψης. Στη συσκευασία περιλαμβάνεται τροφοδοτικό 5V.
+
+Η σύνδεση με την τηλεόραση ή τον αποκωδικοποιητή πραγματοποιείται μέσω ομοαξονικού καλωδίου, καθιστώντας την ATC-826 μια πρακτική επιλογή για σπίτι, γραφείο, εξοχικό ή άλλους εσωτερικούς χώρους.
+
+Τεχνικά χαρακτηριστικά
+Μοντέλο: ATC-826
+Τύπος: Εσωτερική κεραία TV με ενισχυτή
+Εύρος συχνοτήτων: 87,5–230 MHz / 470–694 MHz
+Λήψη: FM / VHF / UHF
+Απολαβή: 30 dB
+Φίλτρο παρεμβολών: 5G LTE
+Επίπεδο εξόδου: 100 dBμV max.
+Αντίσταση: 75 Ω
+Σχήμα θορύβου: ≤3 dB
+Τροφοδοσία: DC 5V / 50mA μέσω προσαρμογέα AV/DC ή DC 5V / 40mA μέσω συμβατού αποκωδικοποιητή DTV
+Λειτουργία χωρίς εξωτερική τροφοδοσία: Ναι, ως παθητική κεραία
+Τροφοδοτικό 5V: Περιλαμβάνεται</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -38140,7 +38464,7 @@ VeganΌχι
 		<MPN>1514</MPN>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
-		<Quantity>1059</Quantity>
+		<Quantity>1047</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
