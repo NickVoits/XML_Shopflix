@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-22 16:05</created_at>
+	<created_at>2026-09-22 16:35</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>528</Quantity>
+		<Quantity>525</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1385,7 +1385,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>998</Quantity>
+		<Quantity>971</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1426</Quantity>
+		<Quantity>1496</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12385,7 +12385,7 @@ pH: Φιλικό προς το δέρμα
 		<Name>My Heart Μωρομάντηλα με καπάκι 100τμχ</Name>
 		<URL>https://www.skroutz.gr/s/55538785/My-Heart-Moromantila-100tmch-1091.html?product_id=215518798</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/040091/40091468/20231109094451_my_heart_moromantila_100tmch.jpeg</Image>
-		<Price>0.9</Price>
+		<Price>1.02</Price>
 		<Category>Μωρομάντηλα</Category>
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1091</MPN>
@@ -12905,7 +12905,7 @@ pH: Φιλικό προς το δέρμα
 
     Σύνθεση: 5-15% ανιονικά επιφανειοδραστικά.
 </Description>
-		<Quantity>277</Quantity>
+		<Quantity>271</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14066,7 +14066,7 @@ EAN: 4023103173118
 		<Name>Vileda Σετ Κουβάς με Σφουγγαρίστρα H2Pro Flat 175775</Name>
 		<URL>https://www.skroutz.gr/s/60522418/vileda-set-kouvas-me-sfougaristra-h2pro-175775.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/060522/60522418/xlarge_20250521142656_vileda_sfougaristra_parketeza_175775.jpeg</Image>
-		<Price>36.71</Price>
+		<Price>35.3</Price>
 		<Category>Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category>
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>175775</MPN>
@@ -14108,7 +14108,7 @@ EAN: 4023103173118
 		<Name>Vileda Περιστρεφόμενη Σετ Κουβάς με Σφουγγαρίστρα H2Pro Spin 178333</Name>
 		<URL>https://www.skroutz.gr/s/60601638/vileda-peristrefomeni-set-kouvas-me-sfougaristra-h2pro-178333.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/060601/60601638/xlarge_20250526111312_vileda_peristrefomeni_sfougaristra_178333.jpeg</Image>
-		<Price>36.49</Price>
+		<Price>35.88</Price>
 		<Category>Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category>
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>178333</MPN>
@@ -18117,10 +18117,62 @@ Brand: Viosarp</Description>
 		<Image>https://b.scdn.gr/images/sku_main_images/033065/33065546/fixedratio_20220510155647_sidi_home_diskos_krevatiou_xylinos_kafe.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/109005/109005803/fixedratio_20250403162055_3cdec4e0.jpeg</Additional_Image>
 		<Price>13.92</Price>
-		<Category>Δίσκοι Σερβιρίσματος</Category>
+		<Category>Βάσεις Laptop</Category>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3772</MPN>
 		<Description>Πτυσσόμενος δίσκος κατασκευασμένος από ξύλο μπαμπού, ιδανικός για πρωινό στο κρεβάτι. Διπλώνεται και αποθηκεύεται εξοικονομώντας χώρο. Πρακτικός σχεδιασμός για άνετη απόλαυση γεύματος.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700100111</SKU>
+		<EAN>0194343628059</EAN>
+		<Name>Songmics  Πτυσσόμενο Τραπεζάκι Φορητών Υπολογιστών από Πλαστκό &amp; Αλουμίνιο, Βάση για Tablet με Ποτηροθήκη 56x40x22.5-36cm σε Μαύρο Χρώμα LLD113BC01</Name>
+		<URL>https://www.skroutz.gr/s/69041672/songmics-trapezaki-gia-laptop-eos-17-3-lld113bc01.html</URL>
+		<Image>https://a.scdn.gr/images/sku_images/131314/131314144/xlarge_20260819125153_7a0ec2aa.jpeg</Image>
+		<Additional_Image>https://m.media-amazon.com/images/I/81+OnPu6+aL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71fcQ2YCA2L._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81yvQINYzdL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71jsZyYhIGL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71gSutcWI1L._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71wy5LsacNL._AC_SL1500_.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/75eb0ae1-d002-482a-97f2-013fe64eada5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/d1d467f1-5ebe-4f3d-ae8d-cbd8d7935157.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/d1d467f1-5ebe-4f3d-ae8d-cbd8d7935157.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/8626a65d-3e66-49ce-81f0-7b2a99fc8211.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/8626a65d-3e66-49ce-81f0-7b2a99fc8211.__CR0,0,1464,600_PT0_SX1464_V1___.jpg </Additional_Image>
+		<Price>30.45</Price>
+		<Category>Βάσεις Laptop</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LLD113BC01</MPN>
+		<Description>Περιγραφή
+
+Το πτυσσόμενο τραπεζάκι laptop SONGMICS LLD113BC01 προσφέρει έναν πρακτικό και ευέλικτο χώρο για εργασία, διάβασμα ή ψυχαγωγία από το κρεβάτι, τον καναπέ ή το πάτωμα. Διαθέτει μεγάλη επιφάνεια 56 x 40 cm, κατάλληλη για laptop, tablet, βιβλία και άλλα αντικείμενα καθημερινής χρήσης.
+
+Το ύψος του ρυθμίζεται σε 8 επίπεδα από 25,5 έως 36 cm, ώστε να προσαρμόζεται στη θέση και στις ανάγκες του χρήστη. Παράλληλα, η επιφάνεια εργασίας μπορεί να ρυθμιστεί σε κλίση έως 120°, επιτρέποντας πιο άνετη στάση κατά την εργασία, την ανάγνωση ή την παρακολούθηση περιεχομένου.
+
+Δύο μετακινούμενα αντιολισθητικά στοπ βοηθούν στη συγκράτηση laptop, tablet ή βιβλίων όταν η επιφάνεια βρίσκεται υπό κλίση. Διαθέτει επίσης περιστρεφόμενη ποτηροθήκη, η οποία μπορεί να χρησιμοποιηθεί και ως βάση κινητού τηλεφώνου, καθώς και συρόμενο πλαϊνό συρτάρι για μικροαντικείμενα.
+
+Η κατασκευή συνδυάζει επιφάνεια MDF, ενισχυμένα πόδια αλουμινίου και ανθεκτικά εξαρτήματα ABS, προσφέροντας σταθερότητα και μέγιστη στατική αντοχή έως 25 kg.
+
+Όταν δεν χρησιμοποιείται, διπλώνει σε πάχος περίπου 6 cm, ώστε να αποθηκεύεται εύκολα κάτω από κρεβάτι ή καναπέ ή σε περιορισμένο χώρο.
+
+Χαρακτηριστικά
+Μεγάλη επιφάνεια εργασίας 56 x 40 cm
+8 επίπεδα ρύθμισης ύψους, από 25,5 έως 36 cm
+Ρυθμιζόμενη κλίση επιφάνειας έως 120°
+2 μετακινούμενα αντιολισθητικά στοπ
+Περιστρεφόμενη ποτηροθήκη με δυνατότητα χρήσης ως βάση κινητού
+Συρόμενο πλαϊνό συρτάρι για μικροαντικείμενα
+Ενισχυμένα πόδια αλουμινίου
+Επιφάνεια από MDF και εξαρτήματα ABS
+Πτυσσόμενος σχεδιασμός για εύκολη αποθήκευση και μεταφορά
+Κατάλληλο για laptop, tablet, διάβασμα, εργασία και μελέτη
+Χρήση σε κρεβάτι, καναπέ ή πάτωμα
+Μέγιστη στατική αντοχή: 25 kg
+Τεχνικά χαρακτηριστικά
+
+Μάρκα: SONGMICS
+Κωδικός: LLD113BC01
+Χρώμα: Μαύρο (Ink Black)
+Διαστάσεις επιφάνειας: 56 x 40 cm
+Ρυθμιζόμενο ύψος: 25,5–36 cm
+Μέγιστη κλίση επιφάνειας: 120°
+Υλικά: MDF, αλουμίνιο, ABS
+Μέγιστο στατικό φορτίο: 25 kg
+Βάρος προϊόντος: περίπου 3 kg
+Πτυσσόμενο: Ναι
+Πάχος σε αναδιπλωμένη θέση: περίπου 6 cm</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -18155,36 +18207,6 @@ Brand: Viosarp</Description>
 		<MPN>LNT52BX</MPN>
 		<Description>Το βοηθητικό τραπεζάκι σαλονιού της εταιρείας Vasagle είναι ιδανικό για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. Είναι ορθογώνιο, αποτελείται από μέταλλο και μοριοσανίδα και αντέχει βάρος έως 25 κιλά.</Description>
 		<Quantity>42</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>77001101022</SKU>
-		<EAN>5203642145480-bez</EAN>
-		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Μπεζ Σετ 2τμχ (Μ37,5xΠ37,5xΥ40cm &amp; Μ33,5xΠ33,5xΥ36cm) E-4548</Name>
-		<URL>https://www.sidirela.gr/nea-proionta/trapezaki-quot-side-table-quot/</URL>
-		<Image>https://www.sidirela.gr/uploads/2025/06/e-4548-99-trapezaki-side-table-2-tem-set-web.jpg</Image>
-		<Price>20.42</Price>
-		<Category>Έπιπλα Σαλονιού</Category>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-4548-2</MPN>
-		<Description>Τα βοηθητικά τραπεζάκια σαλονιού της εταιρείας Sidirela είναι ιδανικά για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού 
-προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. 
-Είναι τετράγωνα σετ 2 τεμαχίων, αποθηκεύεται το ένα κάτω από το άλλο και αποτελείται από μέταλλο και μοριοσανίδα σε μαύρο και μπεζ χρώμα. 
-
-
-Διαστάσεις 1ου τραπεζιού:
-
-    Μήκος: 37,5εκ.
-    Πλάτος: 37,5εκ.
-    Ύψος: 40εκ.
-
-
-Διαστάσεις 2ου τραπεζιού:
-
-    Μήκος: 33,5εκ.
-    Πλάτος: 33,5εκ.
-    Ύψος: 36εκ.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18300,6 +18322,48 @@ Brand: Viosarp</Description>
 - 1 x τσάντα αξεσουάρ
 - 1 x Οδηγίες</Description>
 		<Quantity>49</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001102004</SKU>
+		<EAN>0194343462400</EAN>
+		<Name>Vasagle Βοηθητικό Τραπεζάκι Καναπέ με Ρυθμιζόμενο Ύψος για Σαλόνι ή Υπνοδωμάτιο, από Ξύλο &amp; Μέταλλο Μ40xΠ30xΥ43-60cm σε Μαύρο &amp; Ρουστίκ Καφέ Χρώμα LET363M101</Name>
+		<URL>https://www.skroutz.gr/s/69311981/voithitiko-trapezaki-xylino-kafe-m30xp40xy69ek.html</URL>
+		<Image>https://c.scdn.gr/images/sku_images/132220/132220399/xlarge_20260911142926_e6f5e7a0.jpeg</Image>
+		<Additional_Image>https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LET363M101/Amazon/UK/LET363M101-2-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LET363M101/Amazon/UK/LET363M101-3-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LET363M101/Amazon/UK/LET363M101-4-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LET363M101/Amazon/UK/LET363M101-5-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LET363M101/Amazon/UK/LET363M101-6-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LET363M101/Amazon/UK/LET363M101-7-UK.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/1556f895-144f-4f1d-83e1-1f6364151f00.__CR0,0,650,350_PT0_SX650_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/87eb634b-eaa1-4375-a986-97717b4feaeb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/30dc53ab-e683-499e-af3b-00362d2bf56f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/782c8001-af7a-4104-bd97-b0408ca5f277.__CR0,0,1464,600_PT0_SX1464_V1___.jpg </Additional_Image>
+		<Price>39.71</Price>
+		<Category>Έπιπλα Σαλονιού</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LET363M101</MPN>
+		<Description>Συμπαγής και απλός σχεδιασμός: Αυτό το μινιμαλιστικό βοηθητικό τραπεζάκι σε σχήμα C έχει διαστάσεις 30 x 40 x 69 εκ. και χωράει εύκολα κάτω από καναπέδες ή κρεβάτια. Αυτό το μικρό τραπέζι με καθαρές γραμμές ταιριάζει σε κάθε εσωτερικό χώρο σε μικρούς χώρους.
+
+Ρυθμιζόμενο ύψος και ευέλικτο: Με 4 ρυθμιζόμενα ύψη, αυτό το τραπεζάκι είναι ιδανικό για να απολαμβάνετε το πρωινό σας στο κρεβάτι, να εργάζεστε στον φορητό υπολογιστή σας ή να έχετε τα ποτά σας σε κοντινή απόσταση δίπλα στον καναπέ.
+
+Προσεγμένος σχεδιασμός, εύκολος καθαρισμός: Ο επάνω δίσκος έχει ένα χείλος που εμποδίζει αποτελεσματικά την πτώση των σνακ, των φλιτζανιών και άλλων αντικειμένων. Οι λεκέδες στην επιφάνεια μπορούν εύκολα να σκουπιστούν.
+
+Ανθεκτικό και στιβαρό: Χάρη στα πάνελ υψηλής ποιότητας και τον στιβαρό ατσάλινο σκελετό του, αυτός ο καναπές-τραπεζάκι μπορεί να στηρίξει σταθερά τα βιβλία, τον φορητό υπολογιστή και τα επιτραπέζια σκεύη σας και θα σας εξυπηρετήσει άψογα για τα επόμενα χρόνια.
+
+Εύκολη συναρμολόγηση: Αυτό το κομοδίνο μπορεί να συναρμολογηθεί γρήγορα χάρη στην απλή δομή του, τα αριθμημένα μέρη και τις σαφείς οδηγίες.
+
+Κύρια χαρακτηριστικά αυτού του μικρού τραπεζιού σαλονιού: 
+- Συμπαγής σχεδιασμός: Ταιριάζει αρμονικά σε μικρούς χώρους και γλιστράει εύκολα κάτω από τον καναπέ ή το κρεβάτι. 
+- Ρυθμιζόμενο ύψος &amp; πολλαπλές χρήσεις: Το ρυθμιζόμενο ύψος καλύπτει τις διάφορες απαιτήσεις σας στο σαλόνι, την κρεβατοκάμαρά σας. 
+- Πρακτική επιφάνεια τραπεζιού: Η υπερυψωμένη άκρη εμποδίζει την πτώση αντικειμένων και η επιφάνεια καθαρίζεται εύκολα. 
+- Ανθεκτική δομή: Κατασκευασμένη από συμπαγές χάλυβα και πάνελ υψηλής ποιότητας, εξασφαλίζει σταθερότητα και ανθεκτικότητα. 
+- Γρήγορη και εύκολη συναρμολόγηση: Εύκολη συναρμολόγηση χάρη στα αριθμημένα εξαρτήματα και τις σαφείς οδηγίες. 
+
+Προδιαγραφές: 
+- Χρώμα: Καφέ καρυδιάς, Μαύρο 
+- Υλικά: Ατσάλι, Μοριοσανίδα, MDF 
+- Μέγεθος προϊόντος: 11,8"Β x 15,7"Π x 27,2"Υ (30 x 40 x 69 εκ.) 
+- Βάρος προϊόντος: 8,2 lb (3,7 kg) 
+- Μέγιστη στατική ικανότητα φορτίου: 44 lb (20 kg) 
+
+Περιεχόμενα συσκευασίας: 
+- 1 x Πλαϊνό τραπέζι σε σχήμα C 
+- 1 x Κιτ συναρμολόγησης 
+- 1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18492,12 +18556,12 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>77001102101</SKU>
 		<EAN>6955880392858</EAN>
-		<Name>Vasagle Έπιπλο Τηλεόρασης από Μέταλλο και Ξύλο Μ110xΠ40xΥ50cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα LTV43BX</Name>
+		<Name>Vasagle Έπιπλο Τηλεόρασης για τηλεοράσεις έως 43", από Μέταλλο και Ξύλο Μ110xΠ40xΥ50cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα LTV43BX</Name>
 		<URL>https://www.skroutz.gr/s/24411991/Epiplo-Tileorasis-Xylino-Kafe-M110xP40xY50cm-LTV43BX.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024411/24411991/fixedratio_20220509152533_epiplo_tileorasis_110x40x50cm_ltv43bx.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LTV43BX/2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV43BX/3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV43BX/4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV43BX/5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV43BX/6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV43BX/7.jpg</Additional_Image>
 		<Price>79.13835</Price>
-		<Category>Έπιπλα Σαλονιού</Category>
+		<Category>Έπιπλα Τηλεόρασης</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LTV43BX</MPN>
 		<Description>Πίσω από τις Πόρτες: Οι αγαπημένες σας ταινίες; Μια συλλογή από βιντεοπαιχνίδια; Βιβλία που λατρεύετε να διαβάζετε; Αυτή η βάση τηλεόρασης κάνει περισσότερα από το να κρατάει απλώς την τηλεόρασή σας—οι ελκυστικές πόρτες με περσίδες προσφέρουν επιπλέον λειτουργία αποθήκευσης στο σαλόνι σας και ξεχειλίζουν από στυλ.
@@ -18522,6 +18586,73 @@ Brand: Viosarp</Description>
 - 1 x Έπιπλο τηλεόρασης
 - 1 x Κιτ συναρμολόγησης
 - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001102102</SKU>
+		<EAN>0194343107127</EAN>
+		<Name>Vasagle Ξύλινο Έπιπλο Τηλεόρασης για Τηλεοράσεις έως 65" Μ140xΠ40xΥ50cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα LTV027X01</Name>
+		<URL>https://www.skroutz.gr/s/31119535/Epiplo-Tileorasis-apo-Masif-Xylo-Karydi-M140xP40xY50cm-LTV027X01.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/031119/31119535/xlarge_20260331121235_epiplo_tileorasis_apo_masif_xylo_karydi_m140xp40xy50cm_ltv027x01.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LTV027X01/LTV027X01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027X01/LTV027X01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027X01/LTV027X01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027X01/LTV027X01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027X01/LTV027X01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027X01/LTV027X01-7-eu.jpg https://b.scdn.gr/images/sku_images/061242/61242909/fixedratio_20220615105008_9ec1f275.jpeg https://d.scdn.gr/images/sku_images/061242/61242911/fixedratio_20220615105009_2c546789.jpeg https://c.scdn.gr/images/sku_images/061242/61242908/fixedratio_20220615105008_675bc6d9.jpeg</Additional_Image>
+		<Price>99.56</Price>
+		<Category>Έπιπλα Τηλεόρασης</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LTV027X01</MPN>
+		<Description>Όπως στην τηλεόραση: Αυτό το κομψό ρουστίκ καφέ έπιπλο τηλεόρασης θα προσθέσει μια νέα γοητεία στο σαλόνι σας. Με αυτό, δεν θα ζηλεύετε πλέον όσους ανακαινίζουν το σπίτι τους σε τηλεοπτικές εκπομπές.
+
+Αρκετά μεγάλη, είναι: Αυτή τη φορά, δεν υπάρχει περίπτωση τα πόδια της τηλεόρασής σας να προεξέχουν από το ντουλάπι. Αυτή η βάση χωράει τηλεοράσεις έως και 65 ίντσες. Μικρή τηλεόραση; Επωφεληθείτε από αυτήν την ευκαιρία για να τοποθετήσετε τα φυτά στα πλάγια.
+
+Όλα έτοιμα: Θα προβληθεί η αγαπημένη σας ταινία στην τηλεόραση; Απολαύστε την με διαφορετικό τρόπο από ό,τι σε μια ζούγκλα από καλώδια και αξεσουάρ τηλεόρασης! Τοποθετήστε τις κονσόλες και τα κουτιά σας στα 2 ανοιχτά ράφια και αποθηκεύστε τα DVD σας πίσω από τις πόρτες. Ας ξεκινήσει η εκπομπή!
+
+Όσκαρ Απλότητας: Αριθμημένα εξαρτήματα και λεπτομερείς, εύκολες στην κατανόηση οδηγίες σας συνοδεύουν, ώστε η συναρμολόγηση αυτής της βάσης τηλεόρασης να μην μετατραπεί σε ταινία τρόμου.
+
+3, 2, 1, ΔΡΑΣΗ! Αυτό το ρουστίκ καφέ έπιπλο τηλεόρασης θα γίνει ο καλύτερος σύμμαχος σας την Κυριακή το βράδυ. Διαλέξτε ένα πακέτο πατατάκια κρυμμένο πίσω από τις μαγνητικές του πόρτες και απολαύστε την κινηματογραφική σας βραδιά με την οικογένεια ή τους φίλους σας.
+
+Προδιαγραφές:
+
+Χρώμα: Ρουστίκ Καφέ
+Υλικό: Μοριοσανίδα
+Μέγεθος προϊόντος: 140 x 40 x 50 εκ. (Μ x Π x Υ)
+Βάρος προϊόντος: 26,2 kg
+Μέγιστη στατική ικανότητα φορτίου: 50 kg
+
+Περιεχόμενα συσκευασίας:
+
+1 x Έπιπλο τηλεόρασης
+1 x Κιτ συναρμολόγησης
+1 x Οδηγίες (EN, FR, DE, ES, IT)
+</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001102103</SKU>
+		<EAN>194343046976</EAN>
+		<Name>Vasagle Ξύλινο Έπιπλο Τηλεόρασης για Τηλεοράσεις έως 65" Μ140xΠ40xΥ50cm σε Λευκό Χρώμα LTV027T46</Name>
+		<URL>https://www.skroutz.gr/s/56516543/Epiplo-Tileorasis-Leyko-M140xP40xY50cm-LTV027T46.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/056516/56516543/xlarge_20240927171331_epiplo_tileorasis_xylino_leyko_ltv027t46.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LTV027T46/LTV027T46-3-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027T46/LTV027T46-4-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027T46/LTV027T46-5-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027T46/LTV027T46-6-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027T46/LTV027T46-7-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027T46/LTV027T46-8-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LTV027T46/LTV027T46-DE.jpg </Additional_Image>
+		<Price>99.56</Price>
+		<Category>Έπιπλα Τηλεόρασης</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LTV027T46</MPN>
+		<Description>[Όπως στην τηλεόραση] Αυτό το κομψό λευκό έπιπλο τηλεόρασης θα δώσει μια νέα γοητεία στο σαλόνι σας. Με αυτό, δεν θα ζηλεύετε πλέον όσους ανακαινίζουν το σπίτι τους σε τηλεοπτικές εκπομπές [Αρκετά μεγάλο, είναι] Αυτή τη φορά, δεν υπάρχει περίπτωση τα πόδια της τηλεόρασής σας να προεξέχουν από το έπιπλο. Αυτή η βάση χωράει τηλεοράσεις έως 65 ίντσες. Μικρή τηλεόραση; Επωφεληθείτε από αυτήν την ευκαιρία για να τακτοποιήσετε τα φυτά στα πλάγια [Όλα είναι έτοιμα] Θα προβληθεί η αγαπημένη σας ταινία στην τηλεόραση; Απολαύστε την με διαφορετικό τρόπο από ό,τι σε μια ζούγκλα από καλώδια και αξεσουάρ τηλεόρασης! Τοποθετήστε τις κονσόλες και τα κουτιά σας στα 2 ανοιχτά ράφια και αποθηκεύστε τα DVD σας πίσω από τις πόρτες. Ας ξεκινήσει η εκπομπή! [Το Όσκαρ για Απλότητα] Αριθμημένα μέρη και λεπτομερείς, εύκολες στην κατανόηση οδηγίες σας συνοδεύουν, ώστε η συναρμολόγηση αυτής της βάσης τηλεόρασης να μην μετατραπεί σε ταινία τρόμου [3, 2, 1, Δράση!] Αυτό το λευκό έπιπλο τηλεόρασης θα γίνει ο σύμμαχός σας την Κυριακή το βράδυ. Διαλέξτε ένα πακέτο τσιπς κρυμμένο πίσω από τις μαγνητικές πόρτες του και απολαύστε την κινηματογραφική σας βραδιά με την οικογένεια ή τους φίλους σας.
+
+Προδιαγραφές:
+
+Χρώμα: Λευκό
+Υλικό: Μοριοσανίδα
+Μέγεθος προϊόντος: 40 x 140 x 50 εκ. (Β x Π x Υ)
+Βάρος προϊόντος: 26,2 kg
+Μέγιστη στατική ικανότητα φορτίου: 50 kg
+
+Περιεχόμενα συσκευασίας:
+
+1 x Έπιπλο τηλεόρασης
+1 x Κιτ Συναρμολόγησης
+1 x Οδηγίες</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -18598,7 +18729,7 @@ Brand: Viosarp</Description>
 		<URL>https://www.skroutz.gr/s/64035210/skampo-saloniou-ependymeno-me-veloudo-leyko-28-6x45x45ek-rds001w01.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/125019/125019360/fixedratio_20260416163124_3020509e.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-2.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-3.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-4.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-5.jpg https://static.eu.distributor.songmics.com/skuImgs/250613/RDS001W01/RDS001W01-6.jpg</Additional_Image>
-		<Price>34.46</Price>
+		<Price>38.29</Price>
 		<Category>Σκαμπό</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>RDS001W01</MPN>
@@ -18611,6 +18742,85 @@ Brand: Viosarp</Description>
 Εύκολη συναρμολόγηση: με σαφείς οδηγίες (η αγγλική γλώσσα δεν είναι εγγυημένη) και σημειωμένα μέρη, αυτό το σκαμπό μπορεί να συναρμολογηθεί γρήγορα και αβίαστα σε λίγα μόνο απλά βήματα. Σε ελάχιστο χρόνο, μπορείτε να απολαύσετε αυτήν την καρέκλα μπουντουάρ.
 
 Κομψός σχεδιασμός: με τον μινιμαλιστικό σχεδιασμό και τις καθαρές γραμμές του, αυτό το σκαμπό για το μπουντουάρ εντυπωσιάζει με την κομψή του εμφάνιση και ομορφαίνει τη συνολική εμφάνιση του δωματίου σας.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001102601</SKU>
+		<EAN>0194343335087</EAN>
+		<Name>Songmics Ξύλινο Σκαμπό - Υποπόδιο με Υφασμάτινη Επένδυση και Στατική ικανότητα φορτίου 150 κιλά, σε Ανθρακί χρώμα 40x32x26cm LOM502G01</Name>
+		<URL>https://www.skroutz.gr/s/69447791/skampo-saloniou-me-apothikeytiko-choro-ependymeno-me-yfasma-gray-40x32x26ek-lom502g01.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/069447/69447791/xlarge_20260918102018_skampo_saloniou_me_apothikeytiko_choro_ependymeno_me_yfasma_gray_40x32x26ek_lom502g01.jpeg</Image>
+		<Additional_Image>https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LOM502G01/Amazon/US/LOM502G01-2-US.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LOM502G01/Amazon/US/LOM502G01-3-US.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LOM502G01/Amazon/US/LOM502G01-4-US.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LOM502G01/Amazon/US/LOM502G01-5-US.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LOM502G01/Amazon/US/LOM502G01-6-US.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/ada88779-2acf-4544-95cd-3db66e70f254.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/6866f281-400d-4595-bd3d-d6fcbeb783f3.__CR0,0,650,350_PT0_SX650_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/7dc0faed-3186-477a-a65a-9f31c8b2e32a.__CR0,0,650,350_PT0_SX650_V1___.jpg</Additional_Image>
+		<Price>26.95</Price>
+		<Category>Σκαμπό</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LOM502G01</MPN>
+		<Description>Απόλυτη άνεση: Η υφασμάτινη επιφάνεια με εμφάνιση λινού είναι αναπνεύσιμη. Η επένδυση αφρού υψηλής πυκνότητας πάχους 5 εκατοστών εξασφαλίζει μακροχρόνια άνεση καθίσματος.
+
+Ισχυρό και σταθερό: Τα γωνιακά πόδια παρέχουν στιβαρή στήριξη για έως και 150 κιλά, ενώ τα αντιολισθητικά μαξιλαράκια προστατεύουν τα δάπεδα από γρατσουνιές και διατηρούν το υποπόδιο σταθερά στη θέση του.
+
+Βέλτιστο Ύψος, Μεγαλύτερο Κάθισμα: Με διαστάσεις 15,7" Β x 12,6" Π x 10,2" Υ, αυτό το υποπόδιο είναι ψηλότερο και μεγαλύτερο από τα τυπικά μοντέλα, παρέχοντας άνετη στήριξη για να σηκώνετε τα πόδια σας και δίνοντάς σας περισσότερο χώρο όταν κάθεστε.
+
+Ευέλικτη χρήση: Χάρη στην κομψή του εμφάνιση, αυτό το σκαμπό με αποθηκευτικό χώρο ταιριάζει απόλυτα σε διάφορα δωμάτια—ιδανικό ως σκαμπό για τα πόδια, σκαλοπάτι για κατοικίδια ή κομοδίνο. Η λαβή μεταφοράς διευκολύνει τη μετακίνηση του σκαμπό όπου το χρειάζεστε.
+
+Γρήγορη συναρμολόγηση &amp; κρυφός χώρος: Απλώς βγάλτε τα πόδια από μέσα, βιδώστε τα και στερεώστε τα μαξιλαράκια. Φυλάξτε τα μικρά απαραίτητα αντικείμενα τακτοποιημένα στο κρυφό διαμέρισμα.
+
+Χαρακτηριστικά με μια ματιά: 
+- Άνετο: Η υφασμάτινη επιφάνεια με εμφάνιση λινού είναι αναπνεύσιμη και η εξαιρετικά παχιά επένδυση από αφρό παρέχει υψηλό επίπεδο άνεσης καθίσματος. 
+- Στιβαρό &amp; Σταθερό: Τα κωνικά πόδια υποστηρίζουν έως και 150 κιλά. 
+- Ευρύχωρο κάθισμα, βέλτιστο ύψος: Μεγαλύτερο και ψηλότερο από τα τυπικά σκαμπό για περισσότερο χώρο και βελτιωμένη άνεση. 
+- Ευέλικτο: Ιδανικό ως υποπόδιο, σκαλοπάτι για κατοικίδιο ή κομοδίνο. 
+- Εύκολη συναρμολόγηση: Αφαιρέστε τα 4 πόδια από το εσωτερικό του υποπόδιου και, στη συνέχεια, τοποθετήστε τα πόδια και τα αντιολισθητικά υποπόδια. 
+
+Προδιαγραφές: 
+- Χρώμα: Σκούρο γκρι 
+- Υλικό: Ύφασμα με όψη λινού, Αφρός, MDF (Ινοσανίδα μέσης πυκνότητας), Πλαστικό PP (Πολυπροπυλένιο) 
+- Μέγεθος προϊόντος: 40 x 32 x 26 εκ. Β x 40 x 32 x 26 εκ. Π 
+- Μέγιστη στατική αντοχή βάρους: 150 κιλά 
+
+Περιεχόμενα συσκευασίας: 
+- 1 x Υποπόδιο 
+- 1 x Οδηγίες Σημειώσεις SONGMICS: 
+- Ανοίξτε το φερμουάρ στην κάτω πλευρά του υποποδίου και αφαιρέστε τα 4 πόδια από μέσα πριν από τη συναρμολόγηση. 
+- Μην χρησιμοποιείτε το υποπόδιο σε εξωτερικό χώρο. 
+- Μην σέρνετε το υποπόδιο στο πάτωμα.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001102701</SKU>
+		<EAN>6955880335879</EAN>
+		<Name>Songmics Κουνιστή Πολυθρόνα χαλάρωσης από Ξύλο Σημύδας με Ρυθμιζόμενο Υποπόδιο Π55xΒ115xΥ91cm με Μέγιστο φορτίο 150 kg σε Σκούρο Γκρι Χρώμα LYY10G</Name>
+		<URL>https://www.skroutz.gr/s/26347705/Polythrona-Kounisti-me-Ypopodio-Skouro-Gri-LYY10G-67x91x115cm.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/026347/26347705/xlarge_20260406170652_polythrona_kounisti_me_ypopodio_skouro_gri_lyy10g_67x91x115cm.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LYY10G/Schaukelstuhl-Birkenholz-Dunkelgrau-LYY10G-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LYY10G/Schaukelstuhl-Birkenholz-Dunkelgrau-LYY10G-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LYY10G/Schaukelstuhl-Birkenholz-Dunkelgrau-LYY10G-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LYY10G/Schaukelstuhl-Birkenholz-Dunkelgrau-LYY10G-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LYY10G/Schaukelstuhl-Birkenholz-Dunkelgrau-LYY10G-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LYY10G/Schaukelstuhl-Birkenholz-Dunkelgrau-LYY10G-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LYY10G/Schaukelstuhl-Birkenholz-Dunkelgrau-LYY10G-8.jpg https://d.scdn.gr/images/sku_images/036957/36957095/xlarge_20201222093006_00e4b494.jpeg https://c.scdn.gr/images/sku_images/131403/131403850/xlarge_20260820160908_bae0c988.jpeg https://b.scdn.gr/images/sku_images/131403/131403842/xlarge_20260820160908_86308e83.jpeg </Additional_Image>
+		<Price>112.62</Price>
+		<Category>Πολυθρόνες</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LYY10G</MPN>
+		<Description>Καλή ικανότητα μεταφοράς βάρους – Η κουνιστή πολυθρόνα είναι κατασκευασμένη από ανθεκτικό ξύλο υψηλής ποιότητας και 100% βαμβάκι. Το συμπαγές πλαίσιο είναι κατασκευασμένο από ξύλο σημύδας και βερνικωμένο σε φυσικό χρώμα, εξασφαλίζοντας έτσι την υψηλότερη σταθερότητα. Υλικό: Ξύλο σημύδας + Γέμισμα αφρού και βαμβάκι. Μέγιστη ικανότητα μεταφοράς βάρους 150 kg
+
+Ρυθμιζόμενο πόδι 5 θέσεων – Το πόδι μπορεί να ρυθμιστεί με 5 γωνίες, ώστε να μπορείτε να μεταφέρετε τη στολή σας σε καθιστή θέση. Η καρέκλα με πρόβολο σας προσφέρει την ευκαιρία να καθίσετε εργονομικά και χαλαρωτικά.
+
+Άνετο: γέμισμα από αφρό υψηλής πυκνότητας, καλή ελαστικότητα και καλύτερη εφαρμογή. Σκληρό πλαίσιο με σμίλευση στις άκρες - Εργονομικό, επιτρέποντας έτσι βέλτιστη άνεση και άνετη στάση του σώματος. Το ενσωματωμένο μαξιλάρι στηρίζει τον αυχένα σας, ώστε να μπορείτε να καθίσετε αναπαυτικά. Ο σχεδιασμός του καθίσματος είναι πολύ καλά μελετημένος, ώστε να μπορείτε να το κάνετε ακόμα και μετά από παρατεταμένο κάθισμα με πόνο στην πλάτη.
+
+Όμορφη αίσθηση δέρματος – Το υφασμάτινο κάλυμμα είναι κατασκευασμένο από 100% βαμβάκι, έχει ωραία αίσθηση στο δέρμα και καλή διαπερατότητα αέρα. Το ύφασμα, το κάλυμμα, δεν έχει υποστεί χημική επεξεργασία και δεν έχει λευκανθεί. Το υλικό είναι καθαρά φυσικό (τα Small Black Dots είναι βαμβακερά μανίκια). Χάρη στο φερμουάρ στο πίσω μέρος, το κάλυμμα αφαιρείται εύκολα, πλένεται και εγγυάται υψηλό βαθμό άνεσης.
+
+Εύκολη εφαρμογή – στη συσκευασία υπάρχουν σαφείς οδηγίες συναρμολόγησης, η καρέκλα είναι εύκολη στην τοποθέτηση και αναδίπλωση σε μια στιγμή. Χάρη σε αυτήν την όμορφη εμφάνιση και το μέτριο πλαίσιο, η κουνιστή πολυθρόνα ταιριάζει σε μια ξεχωριστή θέση στα έπιπλα.
+
+Προδιαγραφές:
+- Υλικό: Ξύλο Brich, Σφουγγάρι, Βαμβάκι
+- Συνολικές διαστάσεις: 55 x 80 x 91 εκ. (Π x Β x Υ)
+- Μήκος πλάτης: 73 εκ.
+- Βάθος καθίσματος: 48 εκ.
+- Πλάτος καθίσματος: 55 εκ
+- Μήκος υποποδίου: 33 εκ.
+- Μέγιστη ικανότητα φόρτωσης: 150 κιλά
+
+Περιεχόμενα συσκευασίας:
+- 1 x Κουνιστή πολυθρόνα
+- 1 x Οδηγίες (EN, DE, FR, IT, ES)</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -18816,6 +19026,41 @@ Brand: Viosarp</Description>
 Ανθεκτική κατασκευή: Κατασκευασμένη από ανοξείδωτο ατσάλι 304 υψηλής ποιότητας και πλαστικό PP, αυτή η θήκη πιάτων είναι στιβαρή, ανθεκτική στη σκουριά και εύκολη στο καθάρισμα - κατασκευασμένη για μακροχρόνια χρήση.
 
 Ευέλικτο &amp; Γρήγορο στη συναρμολόγηση: Κατάλληλο για κουζίνες, μπάνια ή πλυσταριό, αυτό το καθαριστικό νεροχύτη διευκολύνει τον καθαρισμό σε διάφορους χώρους. Συναρμολογείται σε χρόνο μηδέν, χωρίς να απαιτούνται εργαλεία, για άμεση οργάνωση.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001103105</SKU>
+		<EAN>0194343331904</EAN>
+		<Name>Songmics Πτυσσόμενος Οργανωτής Νεροχύτη με Αποστράγγιση από Ατσάλι 30,2-46,5x29,6x14 cm σε Μαύρο Χρώμα KCS556BH01</Name>
+		<URL>https://www.skroutz.gr/s/67480249/songmics-stragistiri-nerochyti-inox-mayro-29-6x14x14cm.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/067480/67480249/xlarge_20260525160015_songmics_stegnotiras_nerochyti_apo_anoxeidoto_atsali_se_mayro_chroma_29_6x14cm_kcs556bh01.jpeg</Image>
+		<Additional_Image>https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS556BH01/Amazon/UK/KCS556BH01-1.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS556BH01/Amazon/UK/KCS556BH01-2-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS556BH01/Amazon/UK/KCS556BH01-3-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS556BH01/Amazon/UK/KCS556BH01-4-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS556BH01/Amazon/UK/KCS556BH01-5-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS556BH01/Amazon/UK/KCS556BH01-6-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/KCS556BH01/Amazon/UK/KCS556BH01-7-UK.jpg</Additional_Image>
+		<Price>24.82</Price>
+		<Category>Προϊόντα Οργάνωσης Νεροχύτη</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>KCS556BH01</MPN>
+		<Description>Ιδανικό για μικρούς χώρους: Με συμπαγές πλάτος 30,2 cm και δυνατότητα επέκτασης έως 46,5 cm, αυτό το ράφι στεγνώματος πιάτων ταιριάζει απόλυτα σε μικρές κουζίνες, διαμερίσματα ή σπίτια με 1-2 άτομα.
+
+Ευρύχωρο: Αυτή η θήκη πιάτων χωράει έως και 6 πιάτα, μπολ, ποτήρια, 3 μαχαίρια και πολλά πιρούνια και κουτάλια. 2 διευρυμένες υποδοχές μπορούν να χωρέσουν 2 βαθιά πιάτα ή τηγάνια, καλύπτοντας τις καθημερινές σας ανάγκες.
+
+Αποτελεσματική αποστράγγιση: Το περιστρεφόμενο και επεκτεινόμενο στόμιο 360° αυτής της πιατοθήκης κατευθύνει εύκολα το νερό στον νεροχύτη από οποιαδήποτε κατεύθυνση. Η θήκη για τα μαχαιροπίρουνα οδηγεί το νερό στην επιφάνεια αποστράγγισης.
+
+Αντιολισθητικό και ανθεκτικό στις γρατσουνιές: Τα πόδια με λαστιχένια καλύμματα αποτρέπουν την ολίσθηση, μειώνουν τον θόρυβο και προστατεύουν την επιφάνεια από γρατσουνιές
+
+Ανθεκτικό στη σκουριά και ασφαλές: Κατασκευασμένο από πλαστικό PP και ποιοτικό χάλυβα με ανθεκτική στη σκουριά επίστρωση πούδρας, αυτό το στεγνωτήριο πιάτων κουζίνας είναι κατασκευασμένο για να διαρκεί για χρόνια. Τα πλαστικά εξαρτήματα PP είναι χωρίς BPA, εξασφαλίζοντας ασφαλή χρήση.
+
+Τα κυριότερα χαρακτηριστικά αυτής της βάσης στεγνώματος πιάτων με μια ματιά: - Εξοικονόμηση χώρου: Επεκτάσιμη δομή που προσαρμόζεται σε κάθε χώρο κουζίνας. - Μεγάλη χωρητικότητα: Βελτιστοποιημένα διαμερίσματα για την οργάνωση κάθε είδους επιτραπέζιων σκευών. - Αποστράγγιση 360°: Περιστρεφόμενο στόμιο για γρήγορη και αποτελεσματική αποστράγγιση του νερού. - Αντιολισθητικό: Πόδια με λαστιχένια καπάκια για σταθερότητα και αντοχή στις γρατσουνιές. - Ανθεκτικό στη σκουριά: Ανθεκτικά υλικά για μακροχρόνια αντοχή. - Εύκολος καθαρισμός: Αφαιρούμενος δίσκος συλλογής υγρών και θήκη για μαχαιροπίρουνα για εύκολο καθάρισμα. 
+
+Προδιαγραφές: 
+- Χρώμα: Μαύρο - Υλικό: Πλαστικό PP (Πολυπροπυλένιο), Ατσάλι
+ - Μέγεθος προϊόντος: (11,9"-18,3") Β x 11,7"Π x 5,5"Υ (30,2-46,5 x 29,6 x 14 εκ.) 
+- Βάρος προϊόντος: 2,7 lb (1,2 kg) 
+- Μέγιστη στατική χωρητικότητα φορτίου: 22 lb (10 kg) 
+
+Περιεχόμενα συσκευασίας: 
+- 1 x βάση στεγνώματος πιάτων 
+- 1 x Οδηγίες</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -19873,6 +20118,64 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7700113108</SKU>
+		<EAN>6955880387175</EAN>
+		<Name>Vasagle Ξύλινη Βιβλιοθήκη 10 Διαμερισμάτων, Διαχωριστικό δωματίου, Ελεύθερο ράφι, για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 129,5x29x129,5 cm σε Ρουστίκ Καφέ Χρώμα LBC10BX</Name>
+		<URL>https://www.skroutz.gr/s/23795138/Vivliothiki-Kafe-129-5x29x129-5ek-LBC10BX.html</URL>
+		<Image>https://b.scdn.gr/images/sku_images/122827/122827900/fixedratio_20260225154704_7cb03b9e.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-6.jpg </Additional_Image>
+		<Price>86.23</Price>
+		<Category>Βιβλιοθήκες &amp; Ράφια</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC10BX</MPN>
+		<Description>Κομψή Ράφι Αποθήκευσης: Αυτή η θήκη οργάνωσης σε σχήμα κύβου θα μπορούσε να φυλάξει όλα τα βιβλία σας, να αναδείξει τα αγαπημένα σας μπιχλιμπίδια ή απλώς να χρησιμεύσει ως διαχωριστικό δωματίου στο σαλόνι ή σε μια γωνία.
+
+Εξοικονόμηση χώρου αλλά και ευρύχωρο: 129,5 x 29 x 129,5 εκ. (Μ x Π x Υ), οι 10 κύβοι προσφέρουν μεγάλο χώρο για βιβλία, CD, DVD. Το μέγεθος κάθε κύβου είναι στάνταρ, το οποίο σας επιτρέπει να τοποθετείτε κουτιά αποθήκευσης ή καλάθια.
+
+Κατασκευασμένο για να αντέχει: μοριοσανίδα πάχους 15 mm, κάθε κύβος αντέχει έως και 10 kg. Η αντιανατρεπτική διάταξη προσθέτει σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.
+
+Επαγγελματικό φινίρισμα: Όλες οι άκρες αυτής της βιβλιοθήκης είναι σφραγισμένες, λείες στην αφή και λεπτή στην εμφάνιση. Κάθε βίδα συνοδεύεται από ένα αυτοκόλλητο για να την κρύβει για ομορφιά.
+
+Τι αποκτάτε: Μια θήκη αποθήκευσης με σχέδιο σκάλας, εύκολες οδηγίες και έναν κομψό, πρακτικό τρόπο για να εκθέτετε και να αποθηκεύετε όμορφα διακοσμητικά.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001131081</SKU>
+		<EAN>5903332073665</EAN>
+		<Name>Vasagle Ξύλινη Βιβλιοθήκη 10 Διαμερισμάτων, Διαχωριστικό δωματίου, Ελεύθερο ράφι, για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 129,5x29x129,5 cm σε Λευκό Χρώμα LBC10WTV1</Name>
+		<URL>https://www.skroutz.gr/s/23781050/Vivliothiki-Leyko-129-5x29x129-5ek-LBC10WTV1.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/023781/23781050/xlarge_20260218160738_vivliothiki_leyki_129_5x29x129_5ek_lbc10wtv1.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-1.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-7.jpg </Additional_Image>
+		<Price>86.23</Price>
+		<Category>Βιβλιοθήκες &amp; Ράφια</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC10WTV1</MPN>
+		<Description>Εκλεπτυσμένο ράφι: χρησιμοποιήστε το για τα βιβλία σας, εκθέστε τα αγαπημένα σας συλλεκτικά αντικείμενα ή χρησιμοποιήστε το ως διαχωριστικό δωματίου
+
+Εξοικονομεί χώρο και παράλληλα είναι ευρύχωρο: με 129,5 x 129,5 x 29 cm (Π x Υ x Β) και 10 κυβικά τμήματα, προσφέρει άφθονο χώρο για αρχεία ή βιβλία. Ανοιχτό ράφι για εύκολη χρήση και από τις δύο πλευρές.
+
+ΡΑΦΙΑ ΔΑΠΕΔΟΥ ΒΑΡΕΩΣ ΧΡΗΣΗΣ - Η μοριοσανίδα 15 χιλιοστών εξασφαλίζει ότι κάθε κύβος μπορεί να αντέξει έως και 10 κιλά. Η ενσωματωμένη προστασία από κλίση εξασφαλίζει επίσης ακόμη μεγαλύτερη σταθερότητα και ασφάλεια. Η επιφάνεια είναι επίσης ανθεκτική στις γρατσουνιές και τη φθορά.
+
+Επαγγελματικό φινίρισμα: όλες οι άκρες είναι σφραγισμένες, λείες στην αφή και λεπτή στην εμφάνιση. Κάθε βίδα διαθέτει αυτοκόλλητο για να την κρύβει.
+
+100% ικανοποίηση: Η Vasagle σας προσφέρει εξυπηρέτηση πελατών πριν και μετά την παραγγελία. Μην το σκέφτεστε πολύ, απλώς δοκιμάστε το!
+
+Προδιαγραφές:
+- Χρώμα: Λευκό
+- Υλικό: Μοριοσανίδα
+- Μέγεθος προϊόντος: 129,5 x 29 x 129,5 εκ. (Μ x Π x Υ)
+- Βάρος προϊόντος: 27,3 kg
+- Μέγιστη στατική χωρητικότητα κάθε κύβου: 10 kg
+
+Περιεχόμενα συσκευασίας:
+- 1 x Βιβλιοθήκη
+- 1 x Τσάντα αξεσουάρ
+- 1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7700114101</SKU>
 		<EAN>6955880359080</EAN>
 		<Name>Vasagle Βιβλιοθήκη Μεταλλική/Ξύλινη σε Μαύρο/Ρουστίκ Καφέ Χρώμα με 4 Ράφια 74x30x154.5cm LBC12BXV1</Name>
@@ -19938,7 +20241,7 @@ Brand: Viosarp</Description>
 		<URL>https://www.skroutz.gr/s/23330637/Vivliothiki-Kafe-50x25x141-5ek-LBC11BX.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/122827/122827081/fixedratio_20260225150641_4359c27b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/Buecherregal-in-Baumform-8-Faecher-LBC11BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/Buecherregal-in-Baumform-8-Faecher-LBC11BX-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/LBC11BX1R3A1303.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/LBC11BX1R3A1438.jpg </Additional_Image>
-		<Price>41.293395</Price>
+		<Price>44.99</Price>
 		<Category>Βιβλιοθήκες &amp; Ράφια</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LBC11BX</MPN>
@@ -19954,6 +20257,42 @@ Brand: Viosarp</Description>
 - Χρώμα: Ρουστίκ Καφέ
 - Υλικό: Μοριοσανίδα
 - Μέγεθος προϊόντος: 50 x 25 x 141,5 εκ. (Μ x Π x Υ)
+- Βάρος προϊόντος: 13 kg
+- Μέγιστη στατική χωρητικότητα ανά ράφι: 10 kg
+
+Περιεχόμενα συσκευασίας:
+- 1 x Βιβλιοθήκη
+- 1 x Κιτ συναρμολόγησης
+- 1 x Κιτ προστασίας από ανατροπή
+- 1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>77001141031</SKU>
+		<EAN>5903332062324</EAN>
+		<Name>Vasagle Ξύλινη Επιδαπέδια Βιβλιοθήκη "Δέντρο" 8 Επιπέδων 50x25x141.5cm σε Λευκό Χρώμα LBC11WTV1</Name>
+		<URL>https://www.skroutz.gr/s/23797081/Vivliothiki-Leyko-50x25x141-5ek-LBC11WTV1.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/023797/23797081/xlarge_20260225161012_vivliothiki_white_50x25x141_5ek_lbc11wtv1.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-7.jpg </Additional_Image>
+		<Price>44.99</Price>
+		<Category>Βιβλιοθήκες &amp; Ράφια</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC11WTV1</MPN>
+		<Description>ΒΙΒΛΙΟΘΗΚΗ ΓΙΑ ΒΙΒΛΙΟΦΙΛΟΥΣ: Με γεωμετρική σιλουέτα και εξαιρετική λειτουργικότητα, αυτή η βιβλιοθήκη σε σχήμα δέντρου αποτελεί ένα φωτεινό στοιχείο στο γραφείο σας στο σπίτι. Γεμίστε τα κλαδιά με τα αγαπημένα σας βιβλία για να δημιουργήσετε μια εντυπωσιακή βιτρίνα.
+
+ΓΙΑ ΜΙΚΡΟΥΣ ΧΩΡΟΥΣ: Η βιβλιοθήκη διαθέτει 8 ανοιχτά ράφια και μπορεί να φιλοξενήσει πολλά βιβλία (μέγεθος A4 και A5) και άλλα διακοσμητικά, καταλαμβάνοντας μόνο μια μικρή επιφάνεια δαπέδου. Διαστάσεις 50 x 25 x 141,5 εκ. (Μ x Π x Υ), ιδανική για διαμερίσματα, στενούς χώρους, αίθουσες διδασκαλίας ή γωνίες.
+
+ΕΞΑΙΡΕΤΙΚΗ ΣΤΑΘΕΡΟΤΗΤΑ: Η ποιοτική μοριοσανίδα και τα μεταλλικά μέρη εξασφαλίζουν μια στιβαρή και ανθεκτική κατασκευή. Περιλαμβάνει συσκευή κατά της ανατροπής για πρόσθετη σταθερότητα, κάθε ράφι αντέχει έως και 10 κιλά.
+
+ΕΥΚΟΛΗ ΣΥΝΑΡΜΟΛΟΓΗΣΗ: Διαθέτει αριθμημένα μέρη και εικονογραφημένες οδηγίες, ώστε να είναι εύκολο να συναρμολογηθεί από ένα άτομο χωρίς βοήθεια.
+
+100% ΙΚΑΝΟΠΟΙΗΣΗ: Παρέχουμε πάντα επαγγελματική εξυπηρέτηση πελατών πριν και μετά την αγορά σας, οπότε μην περιμένετε άλλο και απολαύστε το τώρα
+
+Προδιαγραφές:
+- Χρώμα: Λευκό
+- Υλικό: Μοριοσανίδα
+- Μέγεθος προϊόντος: 50 x 25 x 141,5 cm (Μ x Π x Υ)
 - Βάρος προϊόντος: 13 kg
 - Μέγιστη στατική χωρητικότητα ανά ράφι: 10 kg
 
@@ -20112,29 +20451,6 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7700113108</SKU>
-		<EAN>6955880387175</EAN>
-		<Name>Vasagle Ξύλινη Βιβλιοθήκη 10 Διαμερισμάτων, Διαχωριστικό δωματίου, Ελεύθερο ράφι, για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 129,5x29x129,5 cm σε Ρουστίκ Καφέ Χρώμα LBC10BX</Name>
-		<URL>https://www.skroutz.gr/s/23795138/Vivliothiki-Kafe-129-5x29x129-5ek-LBC10BX.html</URL>
-		<Image>https://b.scdn.gr/images/sku_images/122827/122827900/fixedratio_20260225154704_7cb03b9e.jpeg</Image>
-		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-6.jpg </Additional_Image>
-		<Price>96.44</Price>
-		<Category>Βιβλιοθήκες &amp; Ράφια</Category>
-		<Manufacturer>Vasagle</Manufacturer>
-		<MPN>LBC10BX</MPN>
-		<Description>Κομψή Ράφι Αποθήκευσης: Αυτή η θήκη οργάνωσης σε σχήμα κύβου θα μπορούσε να φυλάξει όλα τα βιβλία σας, να αναδείξει τα αγαπημένα σας μπιχλιμπίδια ή απλώς να χρησιμεύσει ως διαχωριστικό δωματίου στο σαλόνι ή σε μια γωνία.
-
-Εξοικονόμηση χώρου αλλά και ευρύχωρο: 129,5 x 29 x 129,5 εκ. (Μ x Π x Υ), οι 10 κύβοι προσφέρουν μεγάλο χώρο για βιβλία, CD, DVD. Το μέγεθος κάθε κύβου είναι στάνταρ, το οποίο σας επιτρέπει να τοποθετείτε κουτιά αποθήκευσης ή καλάθια.
-
-Κατασκευασμένο για να αντέχει: μοριοσανίδα πάχους 15 mm, κάθε κύβος αντέχει έως και 10 kg. Η αντιανατρεπτική διάταξη προσθέτει σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.
-
-Επαγγελματικό φινίρισμα: Όλες οι άκρες αυτής της βιβλιοθήκης είναι σφραγισμένες, λείες στην αφή και λεπτή στην εμφάνιση. Κάθε βίδα συνοδεύεται από ένα αυτοκόλλητο για να την κρύβει για ομορφιά.
-
-Τι αποκτάτε: Μια θήκη αποθήκευσης με σχέδιο σκάλας, εύκολες οδηγίες και έναν κομψό, πρακτικό τρόπο για να εκθέτετε και να αποθηκεύετε όμορφα διακοσμητικά.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7700120801</SKU>
 		<EAN>0194343411460</EAN>
 		<Name>Vasagle Έπιπλο Εισόδου με Καθρέπτη / Κρεμάστρα &amp; Παπουτσοθήκη 98x36x185cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR050B0 (HSR415B01)</Name>
@@ -20211,7 +20527,7 @@ Brand: Viosarp</Description>
 		<URL>https://www.skroutz.gr/s/55730559/Vasagle-Hall-Tree-Bench-Shoe-Storage-Hallway-Coat-Rack-Shoe-Bench-5-Storage-Shelves-9-Coat-Hooks-6-Side-Hooks-140-X-120-X-190-Cm-Vintage-Brown-Ink-Black-Hsr426b01.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/108103/108103706/fixedratio_20250314165410_111faa58.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-8.jpg </Additional_Image>
-		<Price>125.13</Price>
+		<Price>139.04</Price>
 		<Category> Έπιπλα Εισόδου</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>HSR426B01</MPN>
@@ -20313,6 +20629,46 @@ Brand: Viosarp</Description>
 - 1 x Ράφι Hall
 - 1 x Οδηγίες (EN, DE, ES, FR, IT)</Description>
 		<Quantity>49</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700120806</SKU>
+		<EAN>6955880328475</EAN>
+		<Name>Vasagle Έπιπλο Εισόδου με Κρεμάστρα &amp; Παπουτσοθήκη 72x33.7x183cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR40B</Name>
+		<URL>https://www.skroutz.gr/s/32853137/Epiplo-Eisodou-me-Kremastra-Papoutsothiki-Mayro-72x33-7x183ek-HSR40B.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/032853/32853137/xlarge_20260423173300_epiplo_eisodou_me_kremastra_papoutsothiki_mayro_72by33_7x183ek_hsr40b.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-7.jpg</Additional_Image>
+		<Price>55.47</Price>
+		<Category> Έπιπλα Εισόδου</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>HSR40B</MPN>
+		<Description>[Ράφι για Παλτό 4 σε 1] Αυτή η μονάδα αποθήκευσης στο διάδρομο συνδυάζει μια ράγα κρέμασης, έναν πάγκο για παπούτσια, μια ράμπα για παπούτσια και γάντζους για να καλύψει τις διάφορες ανάγκες σας—από το κρέμασμα ρούχων, την οργάνωση των παπουτσιών και το να κάθεστε άνετα μέχρι την αλλαγή παπουτσιών.
+
+[Πρακτική Ράγα Κρεμάστρας] Η στιβαρή και σταθερή επάνω ράγα ρούχων αυτής της βάσης για παλτά μεγιστοποιεί τον κατακόρυφο χώρο, επιτρέποντάς σας να κρεμάτε κασκόλ και ομπρέλες ή να προσθέτετε κρεμάστρες για να κρεμάτε περισσότερα ρούχα.
+
+[9 ποιοτικοί, αφαιρούμενοι γάντζοι] Αυτή η βάση παλτών για διάδρομο διαθέτει 9 αφαιρούμενους γάντζους σε 2 σειρές, που σας βοηθούν να συνδέετε αντικείμενα διαφορετικών μεγεθών. Κατασκευασμένες από στιβαρό, ανθεκτικό στη σκουριά μέταλλο, είναι για μακροχρόνια χρήση.
+
+[Στιβαρό και Ανθεκτικό] Το στιβαρό ατσάλινο πλαίσιο, τα πόδια πλάτους 3,8 cm και η ποιοτική μοριοσανίδα δημιουργούν αυτή την στιβαρή βάση παλτών, της οποίας ο πάγκος αποθήκευσης παπουτσιών αντέχει βάρος έως και 90 κιλά, ώστε να κάθεστε με ηρεμία. Το κιτ αντι-ανατροπής προσθέτει στη συνολική σταθερότητα.
+
+[Εύκολη συναρμολόγηση] Χάρη στα αριθμημένα μέρη, τις σαφείς οδηγίες και το βίντεο με οδηγίες συναρμολόγησης, μπορείτε να συναρμολογήσετε αυτήν την κρεμάστρα ρούχων με χώρο αποθήκευσης παπουτσιών χωρίς κανένα πρόβλημα.
+
+[Σημείωση] Για λόγους ασφαλείας, φροντίστε να ασφαλίσετε το προϊόν στον τοίχο με το παρεχόμενο κιτ προστασίας από ανατροπή
+
+Προδιαγραφές:
+- Χρώμα: Ρουστίκ Καφέ, Μαύρο
+- Υλικό: Μοριοσανίδα, Ατσάλι
+- Μέγεθος προϊόντος: 72 x 33,7 x 183 εκ. (Μ x Π x Υ)
+- Βάρος προϊόντος: 9,8 kg
+- Μέγιστη στατική ικανότητα φορτίου κάθε γάντζου: 3 kg
+- Μέγιστη στατική ικανότητα φορτίου του καθίσματος: 80 kg
+
+Περιεχόμενα συσκευασίας:
+- 1 x Ράφι ρούχων
+- 1 x Κιτ συναρμολόγησης
+- 1 x
+Κιτ αντιανατροπής
+- 1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22094,6 +22450,214 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7700127203</SKU>
+		<EAN>0194343194172</EAN>
+		<Name>Vasagle Ξύλινο Κομοδίνο, με Συρτάρι και Ανοιχτό Τμήμα Μ39xΠ28xΥ41cm, σε Λευκό Χρώμα LET619T14</Name>
+		<URL>https://www.skroutz.gr/s/52795956/Komodino-Xylino-Leyko-28x39x41cm-LET619T14.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/052795/52795956/xlarge_20260406144150_komodino_xylino_leyko_28x39x41cm_let619t14.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-5.jpg </Additional_Image>
+		<Price>23.63</Price>
+		<Category>Κομοδίνα</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LET619T14</MPN>
+		<Description>[Μοντέρνα εμφάνιση] Με τον μινιμαλιστικό σχεδιασμό και τις καθαρές γραμμές του, αυτό το κομοδίνο αποπνέει μια μοντέρνα ατμόσφαιρα στον χώρο σας και μπορεί εύκολα να ενσωματωθεί στην εσωτερική σας διακόσμηση.
+
+[Στιβαρό &amp; Ανθεκτικό] Η ανθεκτική μοριοσανίδα, τα εξαρτήματα υψηλής ποιότητας και η στιβαρή κατασκευή προσφέρουν σε κάθε βοηθητικό τραπέζι υψηλή σταθερότητα. Μπορεί να αντέξει έως και 75 κιλά συνολικά και το συρτάρι μπορεί να αντέξει έως και 5 κιλά.
+
+[Εύκολη συναρμολόγηση] Ετικετοποιημένα εξαρτήματα, ένα κιτ αξεσουάρ που περιλαμβάνεται, εύκολες στην παρακολούθηση οδηγίες και ακριβείς προ-τρυπημένες τρύπες. Όλα αυτά κάνουν τη συναρμολόγηση αυτού του τραπεζιού παιχνιδάκι.
+
+[Ομαλό Συρτάρι] Το συρτάρι γλιστράει ομαλά και αθόρυβα στις premium ολισθήσεις, ανοίγοντας αθόρυβα κατά την πρόσβαση στο εσωτερικό
+
+[Τι Αποκτάτε] Ένα στιβαρό και κομψό μικρό τραπέζι πολλαπλών χρήσεων που λειτουργεί άψογα ως κομοδίνο, βοηθητικό τραπεζάκι ή αρχειοθήκη. Επιπλέον, θα ζωντανέψει τον χώρο σας
+
+Προδιαγραφές: 
+Χρώμα: Κλασικό λευκό 
+Υλικό: Μοριοσανίδα 
+Μέγεθος προϊόντος: 11"Β x 15,4"Π x 16,2"Υ (28 x 39 x 41 εκ.) 
+Βάρος προϊόντος: 12,5 lb (5,7 kg) 
+Μέγιστη στατική χωρητικότητα συρταριού: 11 lb (5 kg) 
+Μέγιστη συνολική στατική χωρητικότητα: 165 lb (75 kg) 
+
+Περιεχόμενα συσκευασίας: 
+1 x Πλαϊνό τραπέζι 
+1 x Κιτ αξεσουάρ 
+1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700128101</SKU>
+		<EAN>0194343029467</EAN>
+		<Name>Vasagle Siren Συρταριέρα Κρεβατοκάμαρας με 6 Συρτάρια, Ξύλινη σε Vintage Λευκό και Μελί Καφέ Χρώμα Μ120xΠ40xΥ78cm LTS663WJ01</Name>
+		<URL>https://www.amazon.it/-/en/VASAGLE-Collection-LTS663WJ01-Versatile-Organizer/dp/B0G4QYLWFN?th=1</URL>
+		<Image>https://m.media-amazon.com/images/I/71G7FeUuS7L._AC_SL1500_.jpg</Image>
+		<Additional_Image>https://m.media-amazon.com/images/I/61DVjdaktcL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71GzkkH2RiL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81kJrmB7a1L._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81szaIPN5bL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71R563XJHML._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81cS4f-Q0-L._AC_SL1500_.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ebb548e-a6e9-40c6-8622-b51931cb5f8a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/4fecc012-b33f-41af-a34a-81cc95c550d0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/d9cc76e6-407b-4e2b-8bfe-f0cb1941ed04.__CR0,0,1464,600_PT0_SX1464_V1___.jpg </Additional_Image>
+		<Price>171.71</Price>
+		<Category>Συρταριέρες</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LTS663WJ01</MPN>
+		<Description>Η συρταριέρα VASAGLE SIREN Collection συνδυάζει τη διαχρονική αισθητική του ρουστίκ σχεδιασμού με τη λειτουργικότητα που απαιτεί η σύγχρονη κατοικία. Η αρμονική αντίθεση ανάμεσα στο Vintage Λευκό σώμα και την επιφάνεια σε απόχρωση Μελί Καφέ, σε συνδυασμό με τα στρογγυλά μεταλλικά πόμολα και τις διακοσμητικές λεπτομέρειες τύπου shaker, δημιουργούν ένα έπιπλο που ταιριάζει ιδανικά σε κλασικούς, farmhouse, vintage αλλά και modern rustic χώρους.
+
+Με έξι ευρύχωρα συρτάρια και επιφάνεια μήκους 120 cm, προσφέρει άφθονο χώρο αποθήκευσης, διατηρώντας το υπνοδωμάτιο ή το σαλόνι οργανωμένο και καλαίσθητο.
+
+Κομψός σχεδιασμός που ταιριάζει παντού
+
+Η συλλογή SIREN ξεχωρίζει για τις καθαρές γραμμές, τις διακριτικές κορνίζες στις προσόψεις των συρταριών και τη ζεστή διχρωμία της.
+
+Αποτελεί ιδανική επιλογή για:
+
+Υπνοδωμάτιο
+Σαλόνι
+Τραπεζαρία
+Δωμάτιο επισκεπτών
+Γραφείο
+Χωλ εισόδου
+Εξοχική κατοικία
+
+Η επάνω επιφάνεια μπορεί να διακοσμηθεί με φωτιστικά, κορνίζες, βάζα, βιβλία ή άλλα διακοσμητικά αντικείμενα, προσθέτοντας χαρακτήρα στον χώρο.
+
+Έξι μεγάλα συρτάρια αποθήκευσης
+
+Τα έξι ευρύχωρα συρτάρια προσφέρουν οργανωμένο χώρο για καθημερινή χρήση.
+
+Ιδανικά για αποθήκευση:
+
+Ρούχων
+Εσωρούχων
+Πλεκτών
+Πετσετών
+Σεντονιών
+Κουβερτών
+Αξεσουάρ
+Παιδικών ρούχων
+Εγγράφων
+Διαφόρων αντικειμένων του σπιτιού
+
+Η διάταξη των συρταριών διευκολύνει την οργάνωση και την εύκολη πρόσβαση στα αντικείμενα.
+
+Πολυχρηστικό έπιπλο
+
+Χάρη στον διαχρονικό σχεδιασμό της, η συρταριέρα μπορεί να χρησιμοποιηθεί ως:
+
+Συρταριέρα υπνοδωματίου
+Έπιπλο σαλονιού
+Μπουφές
+Έπιπλο εισόδου
+Έπιπλο αποθήκευσης
+Έπιπλο διαδρόμου
+Βοηθητικό έπιπλο γραφείου
+Χώρος προβολής διακοσμητικών αντικειμένων
+Ανθεκτική κατασκευή
+
+Η κατασκευή από υψηλής ποιότητας μηχανικά επεξεργασμένο ξύλο (Engineered Wood / Particle Board) προσφέρει εξαιρετική αντοχή και σταθερότητα στην καθημερινή χρήση.
+
+Η ανθεκτική βαφή προστατεύει την επιφάνεια και καθαρίζεται εύκολα με ένα ελαφρώς νωπό πανί.
+
+Σχεδιασμένη για ασφαλή χρήση
+
+Η συρταριέρα συνοδεύεται από κιτ στερέωσης στον τοίχο (anti-tip kit), το οποίο συμβάλλει στην αποφυγή ανατροπής, ιδιαίτερα σε σπίτια με παιδιά ή κατοικίδια.
+
+Η χρήση του συνιστάται για μέγιστη ασφάλεια.
+
+Διακοσμητική επιφάνεια 120 cm
+
+Η μεγάλη επιφάνεια προσφέρει άνετο χώρο για:
+
+Επιτραπέζιο φωτιστικό
+Καθρέφτη
+Βάζα
+Κορνίζες
+Βιβλία
+Κεριά
+Διακοσμητικά αντικείμενα
+Φυτά εσωτερικού χώρου
+
+Με αυτόν τον τρόπο λειτουργεί τόσο ως αποθηκευτικό όσο και ως διακοσμητικό έπιπλο.
+
+Γιατί να επιλέξετε τη VASAGLE SIREN
+
+✔ Κομψός ρουστίκ σχεδιασμός
+
+✔ Vintage Λευκό &amp; Μελί Καφέ
+
+✔ 6 μεγάλα συρτάρια
+
+✔ Μεγάλη επιφάνεια 120 cm
+
+✔ Μεταλλικά πόμολα
+
+✔ Υψηλή σταθερότητα
+
+✔ Περιλαμβάνεται κιτ στερέωσης στον τοίχο
+
+✔ Εύκολος καθαρισμός
+
+✔ Ιδανική για κάθε χώρο του σπιτιού
+
+Τεχνικά χαρακτηριστικά
+Brand: VASAGLE
+Σειρά: SIREN Collection
+Μοντέλο: LTS663WJ01
+Τύπος: Συρταριέρα
+Αριθμός συρταριών: 6
+Υλικό: Μηχανικά επεξεργασμένο ξύλο (Engineered Wood / Particle Board)
+Χρώμα: Vintage Λευκό &amp; Μελί Καφέ
+Φινίρισμα: Βαμμένη επιφάνεια
+Σχήμα: Ορθογώνιο
+Τοποθέτηση: Δαπέδου
+Διαστάσεις: 120 × 40 × 78 cm
+Βάρος προϊόντος: 28,8 kg
+Κιτ αντι-ανατροπής: Περιλαμβάνεται
+Απαιτείται συναρμολόγηση: Ναι
+Οδηγίες συναρμολόγησης: Περιλαμβάνονται
+Περιεχόμενα συσκευασίας
+1 × Συρταριέρα VASAGLE SIREN
+1 × Κιτ στερέωσης στον τοίχο (Anti-Tip Kit)
+1 × Σετ εξαρτημάτων συναρμολόγησης
+1 × Αναλυτικές οδηγίες εγκατάστασης</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7700128102</SKU>
+		<EAN>0194343628066</EAN>
+		<Name>Vasagle Συρταριέρα Κρεβατοκάμαρας με 4 Συρτάρια, Ξύλινη σε Λευκό Χρώμα Μ60xΠ40xΥ97,4cm LTS614WE02</Name>
+		<URL>https://www.amazon.de/-/en/VASAGLE-Drawers-Cabinet-Collection-LTS614WE02/dp/B0F8HTZZ62?th=1</URL>
+		<Image>https://m.media-amazon.com/images/I/71OoNI3bwlL._AC_SL1500_.jpg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-2-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-3-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-4-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-5-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-6-DE.jpg </Additional_Image>
+		<Price>98.23</Price>
+		<Category>Συρταριέρες</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LTS614WE02</MPN>
+		<Description>Μοντέρνο και Μινιμαλιστικό: Εξερευνήστε τη Συλλογή KAILYN! Ένας έξυπνος συνδυασμός φωτεινού λευκού χρώματος, λείων επιφανειών και συρταριών χωρίς λαβές. Με τα διαφορετικά κομμάτια της, μπορείτε να δημιουργήσετε έναν ζεστό και αρμονικό εσωτερικό χώρο που ταιριάζει στο στυλ σας! Ταξινόμηση με ευκολία: Διαθέτοντας 4 ευρύχωρα συρτάρια, αυτό το ντουλάπι αποθήκευσης διευκολύνει την ταξινόμηση και την αποθήκευση ρούχων, εγγράφων, αξεσουάρ και άλλων, διατηρώντας τα πάντα τακτοποιημένα στη θέση τους. Βελτιστοποιήστε τον Χώρο σας: Αυτή η λεπτή αλλά ευρύχωρη συρταριέρα αξιοποιεί πλήρως τον κάθετο χώρο, εφαρμόζοντας άψογα σε μικρά διαμερίσματα, σαλόνια, υπνοδωμάτια, γραφεία ή κουζίνες. Προσεγμένες Λεπτομέρειες: Οι λοξοτμημένες προσόψεις των συρταριών επιτρέπουν το εύκολο άνοιγμα και κλείσιμο, προσθέτοντας παράλληλα μια μοντέρνα πινελιά. Οι επίπεδες επιφάνειες βοηθούν στη μείωση του κινδύνου χτυπημάτων, ενισχύοντας την ασφάλεια. Ανθεκτική Κατασκευή, Διπλή Ασφάλεια: Κατασκευασμένη από μοριοσανίδες υψηλής ποιότητας και πάνελ MDF, αυτή η μονάδα συρταριών είναι κατασκευασμένη για να διαρκεί. Περιλαμβάνονται 2 κιτ αντιανατροπής για βελτιωμένη σταθερότητα και πρόσθετη ασφάλεια.
+
+Προδιαγραφές:
+
+Χρώμα: Λευκό του Χιονιού
+
+Υλικό: Μοριοσανίδα, MDF (Ινοσανίδα Μέσης Πυκνότητας)
+
+Μέγεθος προϊόντος: 15,7" Β x 23,6" Π x 38,3" Υ (40 x 60 x 97,4 εκ.)
+
+Βάρος προϊόντος: 26,4 κιλά (58,2 λίβρες)
+
+Μέγιστη στατική ικανότητα φορτίου της επιφάνειας του τραπεζιού: 75 κιλά (165 λίβρες)
+
+Μέγιστη στατική χωρητικότητα κάθε συρταριού: 15 lb (6,8 kg)
+
+Περιεχόμενα συσκευασίας:
+
+1 x Συρταριέρα για Υπνοδωμάτιο
+
+2 x Κιτ κατά της ανατροπής
+
+1 x Κιτ αξεσουάρ
+
+1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7700130101</SKU>
 		<EAN>0194343107776</EAN>
 		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Ρυθμιζόμενο Φωτισμό 80x40x145cm RDT114W01</Name>
@@ -22657,6 +23221,40 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7700130601</SKU>
+		<EAN>0194343033525</EAN>
+		<Name>Songmics Καθρέπτης Τοίχου με Μαύρο Μεταλλικό Πλαίσιο Διαμέτρου 61cm LWM102B01</Name>
+		<URL>https://www.skroutz.gr/s/52795273/Songmics-LWM102B01-Kathreptis-Toichou-me-Mayro-Metalliko-Plaisio-Diametrou-61cm.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/052795/52795273/xlarge_20260401154608_songmics_lwm102b01_kathreptis_toichou_me_mayro_metalliko_plaisio_diametrou_61cm.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-8.jpg </Additional_Image>
+		<Price>39</Price>
+		<Category>Καθρέπτες</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LWM102B01</MPN>
+		<Description>Δώστε την τελική πινελιά: τραπέζι κονσόλας; Ξεκρεμασμένη βάση για παλτό; Έτοιμο. Νιώθετε ότι λείπει κάτι; Αυτός ο στρογγυλός καθρέφτης! Χαλαρώνει το περιβάλλον και κάνει κάθε δωμάτιο να λάμπει.
+
+Ο χρόνος περνάει, η ποιότητα παραμένει: όπως και η διαχρονική κλασική εμφάνισή του, η ποιότητα αυτού του επιτοίχιου καθρέφτη θα αντέξει στη δοκιμασία του χρόνου. Με πλαίσιο από κράμα αλουμινίου και στρώμα γυαλιού πάχους 5 mm, θα σας εξυπηρετεί χρόνο με το χρόνο.
+
+Πίσω από την πρόσοψη: Φοβάστε ότι ο καθρέφτης του μπάνιου θα σκουριάσει σε περίπτωση υγρασίας; Για να αποφευχθεί αυτό, το πίσω μέρος του γυαλιού είναι επικαλυμμένο με ασήμι. Ταυτόχρονα, η σανίδα MDF συγκρατεί τα κομμάτια σταθερά μεταξύ τους, ακόμα κι αν σπάσει το γυαλί.
+
+Εύκολη εγκατάσταση: επιλέξτε έναν στιβαρό τοίχο και ανοίξτε μια τρύπα για να στερεώσετε τον πείρο. Στη συνέχεια, κρεμάστε τον καθρέφτη στον τοίχο με τη βίδα. Εξαιρετικά εύκολο!
+
+Τι λαμβάνετε: έναν καθρέφτη μπάνιου διαμέτρου 61 cm με κομψό μαύρο πλαίσιο και στρογγυλό σχήμα που εξασφαλίζει μέγιστη ορατότητα και ολοκληρώνει κάθε δωμάτιο.
+
+Λεπτομέρειες προϊόντος:
+Χρώμα: Χρυσό
+Υλικά: κράμα αλουμινίου, βάση από MDF, γυαλί με ασημί επίστρωση
+Διάμετρος καθρέφτη: 61 cm
+Πάχος καθρέφτη: 3,6 cm
+Βάρος: 4,3kg
+
+Περιεχόμενα συσκευασίας:
+1 * Στρογγυλός καθρέφτης
+1 * Οδηγίες χρήσης</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7700131101</SKU>
 		<EAN>6955880347742</EAN>
 		<Name>Songmics Υφασμάτινη Ντουλάπα Ρούχων με Μεταλλικό Σκελετό, Φερμουάρ και Ράφια σε Γκρι Χρώμα 150x45x175cm LSF03G</Name>
@@ -22797,6 +23395,115 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 1 x Κιτ αξεσουάρ 
 1 x Εγχειρίδιο οδηγιών</Description>
 		<Quantity>50</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7702251401</SKU>
+		<EAN>0194343676036</EAN>
+		<Name>Vasagle Premium Υβριδικό Στρώμα Αφρού Μνήμης Gel με Ελατήρια σε Θήκες Μεσαίου Σκληρού H3, με 7 Ζώνες Υποστήριξης, Απομόνωση Κίνησης, Αναπνεύσιμο Κάλυμμα 140x200x25cm σε Μπλε Χρώμα RMZ234Q101</Name>
+		<URL>https://www.skroutz.gr/s/69301165/vasagle-diplo-anatomiko-stroma-roll-pack-140x200x25cm-me-anexartita-elatiria.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/069301/69301165/xlarge_20260909095653_vasagle_diplo_anatomiko_stroma_roll_pack_140x200x25cm_me_anexartita_elatiria.jpeg</Image>
+		<Additional_Image>https://i.imgur.com/Wgi4FPd.jpeg https://i.imgur.com/zDZ834D.jpeg https://i.imgur.com/aXqfIiH.jpeg https://i.imgur.com/oU2RLVh.jpeg https://i.imgur.com/AYpbv1x.jpeg https://i.imgur.com/jfpiKaf.jpeg https://i.imgur.com/3hgFUpx.jpeg https://i.imgur.com/RMLwDzZ.jpeg https://i.imgur.com/DA5rIgK.jpeg https://i.imgur.com/ItVAvDk.jpeg https://i.imgur.com/QNRqKc6.jpeg https://i.imgur.com/tBCWrPA.jpeg https://i.imgur.com/GmtGqph.jpeg https://i.imgur.com/pmV2eP0.jpeg https://i.imgur.com/5FtgvgW.jpeg https://i.imgur.com/JfItfL0.jpeg https://i.imgur.com/P5H2zrh.jpeg https://i.imgur.com/LnqHXiQ.jpeg https://i.imgur.com/rYfGAeT.jpeg https://i.imgur.com/Df7fXjV.jpeg</Additional_Image>
+		<Price>202.1</Price>
+		<Category>Στρώματα Ύπνου</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>RMZ234Q101</MPN>
+		<Description>Ανακαλύψτε την ιδανική ισορροπία άνεσης, στήριξης και δροσερού ύπνου
+
+Το VASAGLE Premium Hybrid Mattress 140x200x25cm συνδυάζει προηγμένη τεχνολογία ανεξάρτητων Pocket Springs με στρώσεις Gel Memory Foam υψηλής ποιότητας, προσφέροντας εξαιρετική εργονομική στήριξη και ξεκούραστο ύπνο κάθε βράδυ.
+
+Η υβριδική κατασκευή του προσαρμόζεται φυσικά στο σώμα και κατανέμει ομοιόμορφα το βάρος, μειώνοντας τα σημεία πίεσης σε ώμους, μέση, γοφούς και πόδια. Το σύστημα εργονομικής υποστήριξης 7 ζωνών προσφέρει στοχευμένη στήριξη σε κάθε σημείο του σώματος, συμβάλλοντας στη σωστή ευθυγράμμιση της σπονδυλικής στήλης και στη βελτίωση της ποιότητας του ύπνου.
+
+Η στρώση Gel Memory Foam σε συνδυασμό με το αναπνεύσιμο πλεκτό ύφασμα βοηθά στη διατήρηση ιδανικής θερμοκρασίας κατά τη διάρκεια της νύχτας. Η βελτιωμένη κυκλοφορία αέρα απομακρύνει τη θερμότητα και την υγρασία, δημιουργώντας ένα πιο δροσερό και ευχάριστο περιβάλλον ύπνου όλες τις εποχές του χρόνου.
+
+Τα ανεξάρτητα ελατήρια Pocket Springs λειτουργούν αυτόνομα, απορροφώντας τους κραδασμούς και περιορίζοντας σημαντικά τη μεταφορά κίνησης από τη μία πλευρά του στρώματος στην άλλη. Έτσι, οι κινήσεις του συντρόφου σας δεν επηρεάζουν τον δικό σας ύπνο, προσφέροντας αδιάκοπη ξεκούραση καθ' όλη τη διάρκεια της νύχτας.
+
+Με σκληρότητα H3 Medium Firm, το στρώμα προσφέρει την ιδανική ισορροπία ανάμεσα στην υποστήριξη και την άνεση, αποτελώντας εξαιρετική επιλογή για καθημερινή χρήση.
+
+Ενισχυμένη Περιμετρική Στήριξη (Strong Edge Support)
+
+Η ειδικά ενισχυμένη περιμετρική κατασκευή προσφέρει μεγαλύτερη σταθερότητα στις άκρες του στρώματος, μειώνει την αίσθηση βύθισης όταν κάθεστε ή ξαπλώνετε κοντά στο άκρο και αυξάνει την ωφέλιμη επιφάνεια ύπνου.
+
+Κατασκευάζεται από πιστοποιημένα υλικά OEKO-TEX® και CertiPUR-US®, διασφαλίζοντας υψηλά πρότυπα ποιότητας και ασφάλειας. Παραδίδεται συμπιεσμένο και τυλιγμένο σε ρολό (Roll Pack) για εύκολη μεταφορά και τοποθέτηση. Μετά το άνοιγμα, απαιτούνται 48-72 ώρες ώστε να ανακτήσει πλήρως το αρχικό του σχήμα και τις ιδιότητές του.
+
+Χαρακτηριστικά
+
+✔ Διαστάσεις: 140 x 200 x 25 cm
+✔ Υβριδική κατασκευή Pocket Springs &amp; Gel Memory Foam
+✔ Εργονομική υποστήριξη 7 ζωνών
+✔ Σκληρότητα H3 Medium Firm
+✔ Τεχνολογία απομόνωσης κίνησης (Motion Isolation)
+✔ Αναπνεύσιμο ύφασμα υψηλής ποιότητας
+✔ Βελτιωμένη κυκλοφορία αέρα και θερμορύθμιση
+✔ Ανεξάρτητα ελατήρια Pocket Springs
+✔ Πιστοποιήσεις OEKO-TEX® &amp; CertiPUR-US®
+✔ Rolled &amp; Compressed Packaging (Roll Pack)
+✔ Χρώμα: Quartz Blue
+
+Ιδανικό για
+Ημίδιπλα κρεβάτια 140x200cm
+Ζευγάρια που αναζητούν άνετο και αθόρυβο ύπνο
+Χρήστες που προτιμούν μεσαία προς σκληρή αίσθηση (H3)
+Καθημερινή χρήση σε κύρια κατοικία
+Ξενοδοχεία, ενοικιαζόμενα καταλύματα και premium φιλοξενία
+Περιεχόμενο συσκευασίας
+1 x Στρώμα VASAGLE Premium Hybrid 140x200x25cm (Roll Pack)</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7702251601</SKU>
+		<EAN>0194343160726</EAN>
+		<Name>Vasagle Premium Υβριδικό Στρώμα Αφρού Μνήμης Gel με Ελατήρια σε Θήκες Μεσαίου Σκληρού H3, με 7 Ζώνες Υποστήριξης, Απομόνωση Κίνησης, Αναπνεύσιμο Κάλυμμα 160x200x25cm σε Μπλε Χρώμα RMZ235Q101</Name>
+		<URL>https://songmicshome.co.uk/products/vasagle-hybrid-mattress-with-pocket-springs-and-gel-memory-foam-ukrmz221?variant=57081437585790</URL>
+		<Image>https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKRMZ221QZ03/UKRMZ221QZ03-2.jpg</Image>
+		<Additional_Image>https://i.imgur.com/YFfKM8r.jpeg https://i.imgur.com/lI3I0m0.jpeg https://i.imgur.com/Ojn3HAU.jpeg https://i.imgur.com/fR7BC4M.jpeg https://i.imgur.com/QVK33Px.jpeg https://i.imgur.com/SUZ3Pym.jpeg https://i.imgur.com/sI5jSi9.jpeg https://i.imgur.com/BPUIeV1.jpeg https://i.imgur.com/qHe6iTy.jpeg https://i.imgur.com/dtmqEmT.jpeg https://i.imgur.com/amrvIqY.jpeg https://i.imgur.com/2CigHQW.jpeg https://i.imgur.com/gngHxQX.jpeg https://i.imgur.com/msWOIsd.jpeg https://i.imgur.com/rCH6szo.jpeg https://i.imgur.com/t6QYCXl.jpeg https://i.imgur.com/x7VkOhU.jpeg https://i.imgur.com/rWcNQI1.jpeg https://i.imgur.com/k026tpD.jpeg https://i.imgur.com/QGBmFKC.jpeg</Additional_Image>
+		<Price>229.05</Price>
+		<Category>Στρώματα Ύπνου</Category>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>RMZ235Q101</MPN>
+		<Description>Ανακαλύψτε την ιδανική ισορροπία άνεσης, στήριξης και δροσερού ύπνου
+
+Το VASAGLE Premium Hybrid Mattress 160x200x25cm συνδυάζει προηγμένη τεχνολογία ανεξάρτητων Pocket Springs με στρώσεις Gel Memory Foam υψηλής ποιότητας, προσφέροντας εξαιρετική εργονομική στήριξη και ξεκούραστο ύπνο κάθε βράδυ. Η μεγαλύτερη επιφάνεια ύπνου το καθιστά ιδανική επιλογή για ζευγάρια που αναζητούν άνεση, ελευθερία κινήσεων και κορυφαία ποιότητα ύπνου.
+
+Η υβριδική κατασκευή του προσαρμόζεται φυσικά στο σώμα και κατανέμει ομοιόμορφα το βάρος, μειώνοντας τα σημεία πίεσης σε ώμους, μέση, γοφούς και πόδια. Το σύστημα εργονομικής υποστήριξης 7 ζωνών προσφέρει στοχευμένη στήριξη σε κάθε σημείο του σώματος, συμβάλλοντας στη σωστή ευθυγράμμιση της σπονδυλικής στήλης και στη βελτίωση της ποιότητας του ύπνου.
+
+Η στρώση Gel Memory Foam σε συνδυασμό με το αναπνεύσιμο πλεκτό ύφασμα βοηθά στη διατήρηση ιδανικής θερμοκρασίας κατά τη διάρκεια της νύχτας. Η βελτιωμένη κυκλοφορία αέρα απομακρύνει τη θερμότητα και την υγρασία, δημιουργώντας ένα πιο δροσερό και ευχάριστο περιβάλλον ύπνου όλες τις εποχές του χρόνου.
+
+Τα ανεξάρτητα ελατήρια Pocket Springs λειτουργούν αυτόνομα, απορροφώντας τους κραδασμούς και περιορίζοντας σημαντικά τη μεταφορά κίνησης από τη μία πλευρά του στρώματος στην άλλη. Έτσι, οι κινήσεις του συντρόφου σας δεν επηρεάζουν τον δικό σας ύπνο, προσφέροντας αδιάκοπη ξεκούραση καθ’ όλη τη διάρκεια της νύχτας.
+
+Με σκληρότητα H3 Medium Firm, το στρώμα προσφέρει την ιδανική ισορροπία ανάμεσα στην υποστήριξη και την άνεση, αποτελώντας εξαιρετική επιλογή για καθημερινή χρήση. Παράλληλα, η ενισχυμένη περιμετρική στήριξη συμβάλλει στη μεγαλύτερη σταθερότητα και ανθεκτικότητα του στρώματος στον χρόνο.
+
+Ενισχυμένη Περιμετρική Στήριξη (Strong Edge Support)
+
+Η ειδικά ενισχυμένη περιμετρική κατασκευή προσφέρει μεγαλύτερη σταθερότητα στις άκρες του στρώματος, μειώνει την αίσθηση βύθισης όταν κάθεστε ή ξαπλώνετε κοντά στο άκρο και αυξάνει την ωφέλιμη επιφάνεια ύπνου.
+
+Κατασκευάζεται από πιστοποιημένα υλικά OEKO-TEX® και CertiPUR-US®, διασφαλίζοντας υψηλά πρότυπα ποιότητας και ασφάλειας. Παραδίδεται συμπιεσμένο και τυλιγμένο σε ρολό (Roll Pack) για εύκολη μεταφορά και τοποθέτηση. Μετά το άνοιγμα, απαιτούνται 48-72 ώρες ώστε να ανακτήσει πλήρως το αρχικό του σχήμα και τις ιδιότητές του.
+
+Χαρακτηριστικά
+
+✔ Διαστάσεις: 160 x 200 x 25 cm
+✔ Υβριδική κατασκευή Pocket Springs &amp; Gel Memory Foam
+✔ Εργονομική υποστήριξη 7 ζωνών
+✔ Σκληρότητα H3 Medium Firm
+✔ Τεχνολογία απομόνωσης κίνησης (Motion Isolation)
+✔ Ανεξάρτητα ελατήρια Pocket Springs
+✔ Ενισχυμένη περιμετρική στήριξη
+✔ Αναπνεύσιμο ύφασμα υψηλής ποιότητας
+✔ Βελτιωμένη κυκλοφορία αέρα και θερμορύθμιση
+✔ Πιστοποιήσεις OEKO-TEX® &amp; CertiPUR-US®
+✔ Rolled &amp; Compressed Packaging (Roll Pack)
+✔ Χρώμα: Quartz Blue
+
+Ιδανικό για
+Διπλά κρεβάτια 160x200cm
+Ζευγάρια που αναζητούν άνετο και αθόρυβο ύπνο
+Χρήστες που προτιμούν μεσαία προς σκληρή αίσθηση (H3)
+Καθημερινή χρήση σε κύρια κατοικία
+Ξενοδοχεία, ενοικιαζόμενα καταλύματα και premium φιλοξενία
+Περιεχόμενο συσκευασίας
+1 x Στρώμα VASAGLE Premium Hybrid 160x200x25cm (Roll Pack)</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24431,6 +25138,267 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>771500752</SKU>
+		<EAN>0194343045603</EAN>
+		<Name>Songmics Κάθισμα Τουαλέτας Οβάλ (O-Shape) 44,3x37,2x4,9cm Εύκολης Αφαίρεσης με Soft Close και Αποσπώμενη Λαβή Ανύψωσης σε Λευκό Χρώμα BTL001WZ01</Name>
+		<URL>https://www.amazon.de/-/en/Songmics-Toilet-Soft-Close-Mechanism-Handle/dp/B0FY1B988B?th=1</URL>
+		<Image>https://m.media-amazon.com/images/I/61AtwW1WVnL._AC_SX679_.jpg</Image>
+		<Additional_Image>https://m.media-amazon.com/images/I/71OHFxBTXrL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/61jOpo8EeIL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71ml5iKuGeL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71+JNB+RDBL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71E9mCkYTAL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71ZrP3TZVTL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71Ok-q-hs8L._AC_SL1500_.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/0643240d-46e5-4feb-a771-cf2a750dcb9f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/d803e557-efd0-41c1-aba8-3067ac0a3f66.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef83e78c-6334-48fc-b3dc-4a60945ee38f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg </Additional_Image>
+		<Price>21.39</Price>
+		<Category>Καπάκια Λεκάνης</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>BTL001WZ01</MPN>
+		<Description>Αναβαθμίστε την άνεση, την υγιεινή και τη λειτουργικότητα του μπάνιου σας με το SONGMICS BTL001WZ01, ένα ποιοτικό κάθισμα τουαλέτας σε κλασικό οβάλ (O Shape) σχεδιασμό, κατασκευασμένο από ανθεκτικό πλαστικό PP υψηλής ποιότητας.
+
+Συνδυάζει προηγμένες λειτουργίες όπως Soft Close, Quick Release και αποσπώμενη εργονομική λαβή ανύψωσης, προσφέροντας μεγαλύτερη άνεση στην καθημερινή χρήση, εύκολο καθαρισμό και υψηλότερο επίπεδο υγιεινής.
+
+Η στιβαρή κατασκευή του, σε συνδυασμό με τα μεταλλικά εξαρτήματα στερέωσης νέας γενιάς, εξασφαλίζει εξαιρετική σταθερότητα και μεγάλη διάρκεια ζωής ακόμη και σε καθημερινή εντατική χρήση.
+
+Soft Close – Αθόρυβο και ασφαλές κλείσιμο
+
+Ο ενσωματωμένος μηχανισμός Soft Close επιτρέπει στο καπάκι και στο κάθισμα να κλείνουν αργά και αθόρυβα, χωρίς απότομα χτυπήματα.
+
+Πλεονεκτήματα
+Αποτρέπει τον θόρυβο κατά το κλείσιμο.
+Προστατεύει το κάθισμα και τους μεντεσέδες από φθορές.
+Αυξάνει τη διάρκεια ζωής του προϊόντος.
+Ιδανικό για οικογένειες και χρήση οποιαδήποτε ώρα της ημέρας ή της νύχτας.
+
+Ο μηχανισμός έχει δοκιμαστεί για έως 200.000 κύκλους ανοίγματος και κλεισίματος, προσφέροντας αξιόπιστη λειτουργία για πολλά χρόνια.
+
+Αποσπώμενη λαβή ανύψωσης για μεγαλύτερη υγιεινή
+
+Ένα από τα σημαντικότερα πλεονεκτήματα του SONGMICS BTL001WZ01 είναι η εργονομική αποσπώμενη λαβή, η οποία επιτρέπει την ανύψωση του καθίσματος χωρίς άμεση επαφή με την επιφάνειά του.
+
+Η πρακτική αυτή λύση συμβάλλει στη διατήρηση καλύτερης υγιεινής στην καθημερινή χρήση, περιορίζοντας την επαφή των χεριών με το κάθισμα.
+
+Η λαβή μπορεί να αφαιρεθεί ή να τοποθετηθεί εύκολα, ανάλογα με τις ανάγκες και τις προτιμήσεις του χρήστη.
+
+Πλεονεκτήματα
+
+✔ Μεγαλύτερη υγιεινή
+
+✔ Πιο άνετη καθημερινή χρήση
+
+✔ Διακριτικός εργονομικός σχεδιασμός
+
+✔ Εύκολη αφαίρεση και επανατοποθέτηση
+
+Quick Release – Αφαίρεση με ένα κλικ
+
+Το σύστημα Quick Release επιτρέπει την άμεση αφαίρεση του καθίσματος από τη λεκάνη, ώστε να καθαρίζεται εύκολα ακόμη και στα δύσκολα σημεία γύρω από τους μεντεσέδες.
+
+Η επανατοποθέτηση γίνεται εξίσου γρήγορα και απλά.
+
+Έτσι εξασφαλίζεται υψηλότερο επίπεδο καθαριότητας και υγιεινής σε καθημερινή βάση.
+
+Ανθεκτική κατασκευή από PP
+
+Το κάθισμα είναι κατασκευασμένο από PP (Polypropylene), ένα υλικό γνωστό για:
+
+υψηλή αντοχή,
+μικρό βάρος,
+αντοχή στην υγρασία,
+εύκολο καθαρισμό,
+μεγάλη διάρκεια ζωής,
+λεία επιφάνεια που διατηρείται καθαρή.
+
+Η στιβαρή κατασκευή του αντέχει φορτίο έως 300 kg, σύμφωνα με τις προδιαγραφές του κατασκευαστή.
+
+Σταθερή εφαρμογή χωρίς μετακινήσεις
+
+Οι μεταλλικοί μεντεσέδες νέας γενιάς προσφέρουν ασφαλή και σταθερή εφαρμογή στη λεκάνη.
+
+Προσφέρουν:
+
+υψηλή αντοχή στη διάβρωση,
+ελάχιστες μετακινήσεις,
+μεγάλη σταθερότητα,
+ασφαλή χρήση για πολλά χρόνια.
+
+Είναι κατάλληλοι για εγκατάσταση τόσο από επάνω όσο και από κάτω, ανάλογα με τον τύπο της λεκάνης.
+
+Εργονομικός σχεδιασμός
+
+Το κλασικό οβάλ (O Shape) σχήμα εξασφαλίζει άνετο κάθισμα και είναι συμβατό με τις περισσότερες λεκάνες του συγκεκριμένου τύπου.
+
+Πριν από την αγορά συνιστάται η επιβεβαίωση των διαστάσεων της υπάρχουσας λεκάνης.
+
+Εύκολη εγκατάσταση
+
+Το προϊόν συνοδεύεται από όλα τα απαραίτητα εξαρτήματα στερέωσης και αναλυτικές οδηγίες, ώστε η εγκατάσταση να ολοκληρώνεται εύκολα μέσα σε λίγα λεπτά, χωρίς εξειδικευμένες γνώσεις.
+
+Γιατί να επιλέξετε το SONGMICS BTL001WZ01
+
+✔ Soft Close αργού και αθόρυβου κλεισίματος
+
+✔ Quick Release για εύκολη αφαίρεση
+
+✔ Αποσπώμενη εργονομική λαβή για μεγαλύτερη υγιεινή
+
+✔ Αντοχή έως 300 kg
+
+✔ Υψηλής ποιότητας πλαστικό PP
+
+✔ Μεταλλικοί μεντεσέδες μεγάλης αντοχής
+
+✔ Σταθερή εφαρμογή χωρίς μετακινήσεις
+
+✔ Εύκολος καθαρισμός
+
+✔ Γρήγορη εγκατάσταση
+
+✔ Κομψός λευκός σχεδιασμός
+
+Τεχνικά χαρακτηριστικά
+Brand: SONGMICS
+Μοντέλο: BTL001WZ01
+SKU: BTL001
+Τύπος: Κάθισμα τουαλέτας
+Σχήμα: Οβάλ (O Shape)
+Χρώμα: Λευκό
+Υλικό: PP Plastic (Πολυπροπυλένιο)
+Μηχανισμός κλεισίματος: Soft Close
+Σύστημα αφαίρεσης: Quick Release
+Λαβή ανύψωσης: Αποσπώμενη
+Μέγιστο φορτίο: 300 kg
+Διαστάσεις: 44,3 × 37 × 4,9 cm
+Τρόπος λειτουργίας: Χειροκίνητος
+Στερέωση: Με μεταλλικά εξαρτήματα υψηλής αντοχής
+Συμβατότητα: Για λεκάνες οβάλ (O Shape)
+Περιεχόμενα συσκευασίας
+1 × Κάθισμα τουαλέτας SONGMICS
+1 × Καπάκι
+1 × Αποσπώμενη εργονομική λαβή
+1 × Σετ μεταλλικών εξαρτημάτων στερέωσης
+1 × Οδηγίες εγκατάστασης</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>771500753</SKU>
+		<EAN>0194343147024</EAN>
+		<Name>Songmics Κάθισμα Τουαλέτας  D-Shape 46,2x36,2x4,9cm Εύκολης Αφαίρεσης με Soft Close και Αποσπώμενη Λαβή Ανύψωσης σε Λευκό Χρώμα BTL003WZ01</Name>
+		<URL>https://www.amazon.com.be/-/en/SONGMICS-BTL003WZ01-Clipsable-Universal-Installation/dp/B0FY1J8NVW</URL>
+		<Image>https://m.media-amazon.com/images/I/61AG5hBergL._AC_SL1500_.jpg</Image>
+		<Additional_Image>https://m.media-amazon.com/images/I/71LJWzyKVjL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/61nZd112oLL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71xRStCztPL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/619S58EnaSL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71-G6cs2+hL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/713LGQeH0ML._AC_SL1500_.jpg https://m.media-amazon.com/images/I/61Yxck5-JeL._AC_SL1500_.jpg </Additional_Image>
+		<Price>24.96</Price>
+		<Category>Καπάκια Λεκάνης</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>BTL003WZ01</MPN>
+		<Description>Αναβαθμίστε το μπάνιο σας με το SONGMICS BTL003WZ01, ένα υψηλής ποιότητας κάθισμα τουαλέτας σε μοντέρνο σχήμα D (D-Shape), σχεδιασμένο για άνεση, υγιεινή και μεγάλη διάρκεια ζωής.
+
+Κατασκευασμένο από ανθεκτικό πλαστικό PP (Polypropylene), διαθέτει μηχανισμό Soft Close για αθόρυβο κλείσιμο, σύστημα Quick Release για εύκολη αφαίρεση κατά τον καθαρισμό και εργονομική αποσπώμενη λαβή ανύψωσης, που επιτρέπει την ανύψωση του καθίσματος χωρίς άμεση επαφή με τα χέρια.
+
+Με στιβαρή κατασκευή και μεταλλικούς μεντεσέδες υψηλής αντοχής, προσφέρει εξαιρετική σταθερότητα και αντέχει φορτίο έως 300 kg, αποτελώντας ιδανική επιλογή για καθημερινή χρήση.
+
+Αθόρυβο κλείσιμο Soft Close
+
+Ο προηγμένος μηχανισμός Soft Close επιτρέπει στο καπάκι και στο κάθισμα να κλείνουν ομαλά και αθόρυβα, χωρίς χτυπήματα.
+
+Πλεονεκτήματα
+Αθόρυβη λειτουργία.
+Προστασία από φθορές.
+Μεγαλύτερη διάρκεια ζωής.
+Ιδανικό για οικογένειες και χρήση οποιαδήποτε ώρα της ημέρας.
+
+Ο μηχανισμός έχει δοκιμαστεί για έως 200.000 κύκλους ανοίγματος και κλεισίματος.
+
+Αποσπώμενη εργονομική λαβή – Μεγαλύτερη υγιεινή
+
+Το SONGMICS BTL003WZ01 διαθέτει αποσπώμενη εργονομική λαβή, ώστε να σηκώνετε το κάθισμα χωρίς να αγγίζετε την επιφάνειά του.
+
+Έτσι μειώνεται σημαντικά η επαφή με σημεία που συγκεντρώνουν μικρόβια, βελτιώνοντας την υγιεινή στην καθημερινή χρήση.
+
+Η λαβή αφαιρείται και επανατοποθετείται εύκολα, ανάλογα με τις ανάγκες του χρήστη.
+
+Quick Release για εύκολο καθάρισμα
+
+Με το σύστημα Quick Release, το κάθισμα αφαιρείται με ένα κλικ από τη λεκάνη, ώστε να καθαρίζονται εύκολα ακόμη και τα δυσπρόσιτα σημεία γύρω από τους μεντεσέδες.
+
+Η επανατοποθέτηση γίνεται εξίσου γρήγορα και εύκολα.
+
+Ανθεκτική κατασκευή από PP
+
+Το κάθισμα είναι κατασκευασμένο από υψηλής ποιότητας PP (Polypropylene), ένα υλικό που προσφέρει:
+
+μεγάλη μηχανική αντοχή,
+αντοχή στην υγρασία,
+εύκολο καθαρισμό,
+χαμηλό βάρος,
+μεγάλη διάρκεια ζωής.
+
+Η ανθεκτική κατασκευή του υποστηρίζει φορτίο έως 300 kg, σύμφωνα με τις προδιαγραφές του κατασκευαστή.
+
+Μεταλλικοί μεντεσέδες υψηλής αντοχής
+
+Οι μεταλλικοί μεντεσέδες νέας γενιάς εξασφαλίζουν:
+
+σταθερή εφαρμογή,
+μεγάλη αντοχή στη διάβρωση,
+ασφαλή χρήση,
+περιορισμό των μετακινήσεων του καθίσματος.
+
+Είναι κατάλληλοι για εγκατάσταση τόσο από επάνω όσο και από κάτω, ανάλογα με τον τύπο της λεκάνης.
+
+Σύγχρονος σχεδιασμός D-Shape
+
+Το μοντέρνο D Shape ταιριάζει σε πολλές σύγχρονες λεκάνες τουαλέτας, προσφέροντας εργονομία, κομψή αισθητική και άνετη χρήση.
+
+Πριν από την αγορά συνιστάται η επιβεβαίωση της συμβατότητας με τις διαστάσεις της λεκάνης.
+
+Εύκολη εγκατάσταση
+
+Η συσκευασία περιλαμβάνει όλα τα απαραίτητα εξαρτήματα στερέωσης και αναλυτικές οδηγίες, ώστε η τοποθέτηση να ολοκληρώνεται εύκολα μέσα σε λίγα λεπτά.
+
+Γιατί να το επιλέξετε
+
+✔ Μοντέρνος σχεδιασμός D-Shape
+
+✔ Soft Close αθόρυβου κλεισίματος
+
+✔ Quick Release για εύκολη αφαίρεση
+
+✔ Αποσπώμενη εργονομική λαβή για μεγαλύτερη υγιεινή
+
+✔ Αντοχή έως 300 kg
+
+✔ Ανθεκτικό πλαστικό PP υψηλής ποιότητας
+
+✔ Μεταλλικοί μεντεσέδες μεγάλης αντοχής
+
+✔ Εύκολος καθαρισμός
+
+✔ Γρήγορη εγκατάσταση
+
+✔ Κομψό λευκό φινίρισμα
+
+Τεχνικά χαρακτηριστικά
+Brand: SONGMICS
+Μοντέλο: BTL003WZ01
+SKU: BTL003
+Τύπος: Κάθισμα τουαλέτας
+Σχήμα: D Shape
+Χρώμα: Λευκό
+Υλικό: PP Plastic (Πολυπροπυλένιο)
+Μηχανισμός: Soft Close
+Σύστημα αφαίρεσης: Quick Release
+Λαβή ανύψωσης: Αποσπώμενη
+Μέγιστο φορτίο: 300 kg
+Διαστάσεις: 46,2 × 36 × 4,9 cm
+Τρόπος λειτουργίας: Χειροκίνητος
+Στερέωση: Μεταλλικοί μεντεσέδες
+Συμβατότητα: Για λεκάνες τύπου D Shape
+Περιεχόμενα συσκευασίας
+1 × Κάθισμα τουαλέτας SONGMICS
+1 × Καπάκι
+1 × Αποσπώμενη εργονομική λαβή
+1 × Σετ μεταλλικών εξαρτημάτων στερέωσης
+1 × Οδηγίες εγκατάστασης</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>771501101</SKU>
 		<EAN>5203642133982</EAN>
 		<Name>Sidirela Vitra Πτυσσόμενη Μεταλλική Απλώστρα Δαπέδου σε Μαύρο Χρώμα με Βάρος 2800gr και Μήκος Απλώματος 20m E-3398</Name>
@@ -25213,6 +26181,86 @@ laptop, βιβλία ή σημειώσεις,
 		<MPN>Ε-1537</MPN>
 		<Description>Το μαξιλάρι ύπνου της εταιρείας Sidirela προσφέρει μεσαία σκληρότητα, εξασφαλίζοντας άνετο και υποστηρικτικό ύπνο. Η γέμιση από βαμβάκι το καθιστά ανθεκτικό και ικανό να απορροφά και να απελευθερώνει εύκολα την υγρασία, προσφέροντας έτσι μία ευχάριστη αίσθηση κατά τη διάρκεια της νύχτας. Οι διαστάσεις του, 50x70cm, το καθιστούν ιδανικό για κάθε κρεβάτι, ενώ οι δύο τεμάχια που περιλαμβάνονται προσφέρουν επιπλέον αξία και ευκολία.</Description>
 		<Quantity>12</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>772100201</SKU>
+		<EAN>0194343432717</EAN>
+		<Name>Songmics Εργονομικό Μαξιλάρι Αφρού Μνήμης με 5 Ζώνες Στήριξης και Ρυθμιζόμενο Ύψος 59×40×14cm, Cloud White/Grey TBP051GZ02</Name>
+		<URL>https://www.amazon.de/-/en/SONGMICS-Ergonomic-Height-Adjustable-Sleeping-TBP051GZ02/dp/B0F6MTK3Z6?th=1</URL>
+		<Image>https://m.media-amazon.com/images/I/81aRZW2tIbL._AC_SX679_.jpg</Image>
+		<Additional_Image>https://m.media-amazon.com/images/I/81aRZW2tIbL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81KV899d+5L._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71pOFCZjpSL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81R+WmNiaQL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81MSoih-LGL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71XCBPxTVsL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71v5QD9TouL._AC_SL1500_.jpg </Additional_Image>
+		<Price>32.02</Price>
+		<Category>Μαξιλάρια Ύπνου</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>TBP051GZ02</MPN>
+		<Description>Απόλαυσε ξεκούραστο και άνετο ύπνο κάθε βράδυ με το εργονομικό μαξιλάρι ύπνου SONGMICS TBP051GZ02. Ο ειδικά σχεδιασμένος πυρήνας από Memory Foam προσαρμόζεται φυσικά στο σχήμα του κεφαλιού και του αυχένα, προσφέροντας ισορροπημένη στήριξη και υψηλή άνεση κατά τη διάρκεια του ύπνου. Το εργονομικό του σχήμα βοηθά στη σωστή ευθυγράμμιση κεφαλιού, αυχένα και ώμων, ενώ η δυνατότητα ρύθμισης του ύψους επιτρέπει την προσαρμογή στις προσωπικές ανάγκες κάθε χρήστη.
+
+Είναι κατάλληλο για όσους κοιμούνται στο πλάι, ανάσκελα ή μπρούμυτα, προσφέροντας άνεση ανεξάρτητα από τη στάση ύπνου.
+
+Εργονομικός σχεδιασμός 5 ζωνών στήριξης
+
+Η ειδική κυματοειδής μορφή του μαξιλαριού διαθέτει πολλαπλές ζώνες στήριξης που αγκαλιάζουν φυσικά:
+
+το κεφάλι
+τον αυχένα
+τους ώμους
+την περιοχή κάτω από τον λαιμό
+
+Η σχεδίαση αυτή συμβάλλει στη σταθερή και άνετη θέση του σώματος κατά τη διάρκεια του ύπνου, προσφέροντας φυσική υποστήριξη χωρίς υπερβολική πίεση.
+
+Ρυθμιζόμενο ύψος
+
+Το μαξιλάρι διαθέτει αφαιρούμενο εσωτερικό ένθετο, ώστε να μπορεί να προσαρμοστεί το συνολικό ύψος του κατά περίπου 2 cm, επιτρέποντας στον χρήστη να επιλέξει το επίπεδο στήριξης που τον εξυπηρετεί περισσότερο.
+
+Memory Foam υψηλής ποιότητας
+
+Ο πυρήνας από αφρό μνήμης:
+
+προσαρμόζεται στο περίγραμμα του κεφαλιού
+κατανέμει ομοιόμορφα την πίεση
+επανέρχεται σταδιακά στο αρχικό του σχήμα
+προσφέρει σταθερή στήριξη καθ' όλη τη διάρκεια της νύχτας.
+Αναπνεύσιμο και αφαιρούμενο κάλυμμα
+
+Το εξωτερικό κάλυμμα είναι κατασκευασμένο από πολυεστερικές ίνες (Polyester Fiber), με απαλή υφή και καλή διαπνοή.
+
+αφαιρείται εύκολα
+πλένεται στο πλυντήριο
+βοηθά στη διατήρηση της υγιεινής του μαξιλαριού
+κατάλληλο για καθημερινή χρήση.
+Ιδανικό για
+Ύπνο στο πλάι
+Ύπνο ανάσκελα
+Ύπνο μπρούμυτα
+Καθημερινή χρήση
+Ενήλικες που αναζητούν εργονομική στήριξη και υψηλή άνεση κατά τον ύπνο
+Χαρακτηριστικά
+Brand: SONGMICS
+Μοντέλο: TBP051GZ02
+Τύπος: Εργονομικό μαξιλάρι ύπνου Memory Foam
+Διαστάσεις: 59 × 40 × 14 cm
+Ρυθμιζόμενο ύψος: Ναι (αφαιρούμενο ένθετο περίπου 2 cm)
+Πυρήνας: Memory Foam (αφρός μνήμης)
+Κάλυμμα: Πολυεστερικές ίνες (Polyester Fiber)
+Χρώμα: Cloud White / Grey
+Κατάλληλο για ύπνο στο πλάι, ανάσκελα και μπρούμυτα
+Αφαιρούμενο και πλενόμενο κάλυμμα
+Συσκευασία: 1 τεμάχιο
+Γιατί να το επιλέξετε
+
+✔ Εργονομικός σχεδιασμός πολλαπλών ζωνών στήριξης
+
+✔ Πυρήνας από ποιοτικό Memory Foam
+
+✔ Ρυθμιζόμενο ύψος για εξατομικευμένη άνεση
+
+✔ Κατάλληλο για όλες τις βασικές στάσεις ύπνου
+
+✔ Αφαιρούμενο και πλενόμενο κάλυμμα
+
+✔ Σύγχρονος σχεδιασμός σε Cloud White / Grey που ταιριάζει σε κάθε υπνοδωμάτιο</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26303,6 +27351,135 @@ laptop, βιβλία ή σημειώσεις,
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>775000302</SKU>
+		<EAN>0194343029498</EAN>
+		<Name>Songmics Πτυσσόμενη Ατσάλινη Σκάλα - Σκαλοσκαμπό με 3 Φαρδιά Αντιολισθητικά Σκαλοπάτια, για Φορτίο Έως 150kg, Εύκολη στην Αποθήκευση, σε Μαύρο Χρώμα, 73,5x43,5x85,5cm GSL103BZ01</Name>
+		<URL>https://www.amazon.se/-/en/SONGMICS-Folding-Load-Up-Household-GSL103BZ01/dp/B0FZ9W84PD?th=1</URL>
+		<Image>https://m.media-amazon.com/images/I/61QbTekoncL._AC_SL1500_.jpg</Image>
+		<Additional_Image>https://m.media-amazon.com/images/I/71fVKdGKb9L._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71Fc8Q0dJaL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71Yq8C0wQVL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71uDCiT7T9L._AC_SL1500_.jpg https://m.media-amazon.com/images/I/61gHg0tHAKL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81FxrZeK4LL._AC_SL1500_.jpg</Additional_Image>
+		<Price>45.38</Price>
+		<Category>Σκαλοσκαμπό</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>GSL103BZ01</MPN>
+		<Description>Αποκτήστε ασφαλή πρόσβαση σε ψηλά σημεία του σπιτιού ή του επαγγελματικού σας χώρου με την πτυσσόμενη σκάλα SONGMICS GSL103BZ01. Κατασκευασμένη από ανθεκτικό ατσάλι υψηλής ποιότητας, συνδυάζει στιβαρότητα, ασφάλεια και εργονομικό σχεδιασμό, αποτελώντας την ιδανική επιλογή για κάθε καθημερινή εργασία.
+
+Με τρία φαρδιά αντιολισθητικά σκαλοπάτια, σταθερή κατασκευή σε σχήμα Α και μέγιστη αντοχή έως 150 kg, προσφέρει ασφαλή και άνετη χρήση σε κάθε χώρο. Όταν ολοκληρώσετε την εργασία σας, διπλώνει σε ελάχιστα δευτερόλεπτα, καταλαμβάνοντας πολύ μικρό χώρο αποθήκευσης.
+
+Σταθερότητα και ασφάλεια
+
+Η σκάλα είναι σχεδιασμένη ώστε να προσφέρει μέγιστη σταθερότητα κατά τη χρήση.
+
+Η κατασκευή σε σχήμα Α κατανέμει ομοιόμορφα το βάρος, ενώ το χαλύβδινο πλαίσιο υψηλής αντοχής εξασφαλίζει εξαιρετική στιβαρότητα ακόμη και σε συχνή χρήση.
+
+Τα αντιολισθητικά πέλματα συμβάλλουν στη σταθερή επαφή με το δάπεδο και βοηθούν στη μείωση της ολίσθησης κατά τη χρήση.
+
+Άνετα και αντιολισθητικά σκαλοπάτια
+
+Τα τρία σκαλοπάτια διαθέτουν μεγάλη επιφάνεια με αντιολισθητική υφή, προσφέροντας ασφαλές πάτημα και μεγαλύτερη άνεση ακόμη και κατά τη διάρκεια παρατεταμένων εργασιών.
+
+Η εργονομική διάταξη των σκαλοπατιών διευκολύνει την άνοδο και την κάθοδο.
+
+Πτυσσόμενος σχεδιασμός
+
+Μετά τη χρήση, η σκάλα διπλώνει εύκολα και γίνεται ιδιαίτερα λεπτή, ώστε να αποθηκεύεται χωρίς να καταλαμβάνει πολύ χώρο.
+
+Μπορεί να τοποθετηθεί εύκολα:
+
+πίσω από πόρτα
+δίπλα σε ντουλάπα
+σε αποθήκη
+στο γκαράζ
+σε βοηθητικούς χώρους
+
+Αποτελεί ιδανική λύση ακόμη και για μικρά διαμερίσματα.
+
+Ιδανική για δεκάδες καθημερινές εργασίες
+
+Η SONGMICS GSL103BZ01 είναι κατάλληλη για:
+
+αλλαγή λαμπτήρων
+καθαρισμό φωτιστικών
+καθαρισμό τζαμιών
+βάψιμο
+μικροεπισκευές
+πρόσβαση σε ψηλά ντουλάπια
+οργάνωση αποθηκών
+τακτοποίηση παταριού
+τοποθέτηση κουρτινών
+κρέμασμα διακοσμητικών
+εργασίες σε κουζίνα
+εργασίες σε γραφείο
+καταστήματα
+αποθήκες
+βιβλιοθήκες
+επαγγελματικούς χώρους
+Ανθεκτική κατασκευή
+
+Το πλαίσιο είναι κατασκευασμένο από υψηλής ποιότητας κράμα χάλυβα, ενώ τα σκαλοπάτια από ανθεκτικό πλαστικό υψηλής αντοχής.
+
+Η στιβαρή κατασκευή προσφέρει μεγάλη διάρκεια ζωής ακόμη και σε συχνή χρήση.
+
+Εύκολη μεταφορά
+
+Με βάρος περίπου 6,6 kg, η σκάλα μεταφέρεται εύκολα από χώρο σε χώρο χωρίς ιδιαίτερη προσπάθεια.
+
+Γιατί να επιλέξετε τη SONGMICS
+
+✔ Ανθεκτικό χαλύβδινο πλαίσιο
+
+✔ Μέγιστη αντοχή 150 kg
+
+✔ Αντιολισθητικά σκαλοπάτια
+
+✔ Αντιολισθητικά πέλματα
+
+✔ Σταθερή κατασκευή σε σχήμα Α
+
+✔ Πτυσσόμενος σχεδιασμός
+
+✔ Εύκολη αποθήκευση
+
+✔ Κατάλληλη για σπίτι και επαγγελματική χρήση
+
+✔ Σύγχρονος μαύρος σχεδιασμός
+
+Τεχνικά χαρακτηριστικά
+Brand: SONGMICS
+Μοντέλο: GSL103BZ01
+Τύπος: Πτυσσόμενη σκάλα
+Αριθμός σκαλοπατιών: 3
+Υλικό πλαισίου: Κράμα χάλυβα
+Υλικό σκαλοπατιών: Πλαστικό υψηλής αντοχής
+Χρώμα: Μαύρο
+Μέγιστο φορτίο: 150 kg
+Διαστάσεις ανοικτής σκάλας: 73,5 × 43,5 × 85,5 cm
+Διαστάσεις κλειστής σκάλας: 95 × 43,5 × 5 cm
+Βάρος προϊόντος: 6,6 kg
+Αντιολισθητικά σκαλοπάτια: Ναι
+Αντιολισθητικά πέλματα: Ναι
+Πτυσσόμενη: Ναι
+Ιδανική για
+Κατοικίες
+Διαμερίσματα
+Εξοχικές κατοικίες
+Γραφεία
+Καταστήματα
+Αποθήκες
+Συνεργεία
+Βιβλιοθήκες
+Κουζίνες
+Ντουλάπες
+Πατάρια
+Επαγγελματικούς χώρους
+Σημαντικές οδηγίες χρήσης
+Χρησιμοποιείτε τη σκάλα μόνο σε επίπεδη, σταθερή και στεγνή επιφάνεια.
+Βεβαιωθείτε ότι η σκάλα έχει ανοίξει πλήρως και έχει ασφαλίσει πριν από κάθε χρήση.
+Μην υπερβαίνετε το μέγιστο επιτρεπόμενο φορτίο των 150 kg.
+Δεν προορίζεται για επαγγελματικές εργασίες μεγάλης διάρκειας ή χρήση ως σκαλωσιά.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>775000401</SKU>
 		<EAN>5206753000143</EAN>
 		<Name>Viosarp Σιδερένια Σκάλα με 3+1 Σκαλοπάτια </Name>
@@ -26827,6 +28004,156 @@ Brand: Sidirela
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>775250102</SKU>
+		<EAN>0194343029504</EAN>
+		<Name>Songmics Πτυσσόμενο Καρότσι 90L με Ρόδες, Ρυθμιζόμενη Λαβή, 4 Ενισχυμένους Τροχούς, Κατάλληλο για Ψώνια, Πικνίκ, Κήπο, Δέχεται Φορτίο έως 180 kg, 67x42x90.5cm σε Μαύρο Χρώμα, GFW909B01</Name>
+		<URL>https://www.amazon.co.uk/SONGMICS-Foldable-Reinforced-Universal-GFW909B01/dp/B0DHGP5KSM?th=1</URL>
+		<Image>https://m.media-amazon.com/images/I/81Uoa1P7cNL._AC_SL1500_.jpg</Image>
+		<Additional_Image>https://m.media-amazon.com/images/I/81xbnMo6vOL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81brvoTMyjL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71oz5DgydaL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81oXZ2QQlpL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81ZrCtIvRuL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/61mSoQ1BCxL._AC_SL1500_.jpg </Additional_Image>
+		<Price>39.93</Price>
+		<Category>Καρότσια Κήπου</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>GFW909B01</MPN>
+		<Description>Κάντε κάθε μεταφορά πιο εύκολη με το πτυσσόμενο καρότσι μεταφοράς SONGMICS GFW909B01, έναν πρακτικό και ανθεκτικό βοηθό για την καθημερινότητα, τις εξορμήσεις και τις υπαίθριες δραστηριότητες. Με μεγάλη χωρητικότητα 90 λίτρων, ανθεκτικό χαλύβδινο πλαίσιο, υφασμάτινο κάδο από Oxford 600D και μέγιστο φορτίο έως 180 kg, αποτελεί την ιδανική λύση για τη μεταφορά ψώνιων, εργαλείων, εξοπλισμού και κάθε είδους αντικειμένων.
+
+Ο πτυσσόμενος σχεδιασμός του επιτρέπει να αποθηκεύεται εύκολα όταν δεν χρησιμοποιείται, ενώ οι περιστρεφόμενοι τροχοί 360° και η ρυθμιζόμενη λαβή προσφέρουν άνετη και ξεκούραστη μετακίνηση σε κάθε διαδρομή.
+
+Ένα καρότσι για κάθε χρήση
+
+Το SONGMICS Folding Wagon είναι σχεδιασμένο για να καλύπτει δεκάδες καθημερινές ανάγκες.
+
+Είναι ιδανικό για:
+
+Ψώνια από supermarket
+Λαϊκή αγορά
+Μεταφορά τροφίμων και εμφιαλωμένων νερών
+Camping
+Picnic
+Παραλία
+Κήπο και αυλή
+Μεταφορά εργαλείων
+Μεταφορά γλαστρών και φυτών
+Εκδρομές
+Φεστιβάλ και υπαίθριες εκδηλώσεις
+Μεταφορά αθλητικού εξοπλισμού
+Εξοχικές κατοικίες
+Αγροτικές εργασίες
+Εκθέσεις και επαγγελματική χρήση
+Μεταφορά ξύλων για BBQ ή τζάκι
+Οικογενειακές εξορμήσεις
+
+Χάρη στη μεγάλη χωρητικότητα και την υψηλή αντοχή του, μπορεί να αντικαταστήσει πολλά διαφορετικά μέσα μεταφοράς αντικειμένων.
+
+Ανθεκτική κατασκευή υψηλής ποιότητας
+
+Το καρότσι διαθέτει στιβαρό πλαίσιο από χάλυβα υψηλής αντοχής που εξασφαλίζει μεγάλη σταθερότητα ακόμη και όταν μεταφέρει μεγάλο βάρος.
+
+Ο υφασμάτινος κάδος είναι κατασκευασμένος από Oxford 600D, ένα ιδιαίτερα ανθεκτικό ύφασμα που παρουσιάζει μεγάλη αντοχή στη φθορά και στην καθημερινή χρήση.
+
+Η ενισχυμένη κατασκευή προσφέρει μέγιστη στατική αντοχή έως 180 kg, καθιστώντας το ιδανικό ακόμη και για βαριά αντικείμενα.
+
+Πτυσσόμενος σχεδιασμός για εξοικονόμηση χώρου
+
+Με έναν απλό μηχανισμό, το καρότσι διπλώνει σε λίγα δευτερόλεπτα χωρίς να απαιτείται αποσυναρμολόγηση.
+
+Έτσι μπορεί εύκολα να αποθηκευτεί:
+
+στο πορτμπαγκάζ του αυτοκινήτου
+στην αποθήκη
+στο γκαράζ
+στην αποθήκη εξοχικού
+σε μικρούς αποθηκευτικούς χώρους
+
+Η αναδίπλωση το καθιστά ιδιαίτερα πρακτικό για μεταφορά και αποθήκευση.
+
+Τροχοί 360° για άνετη μετακίνηση
+
+Οι τέσσερις τροχοί εξασφαλίζουν ομαλή κύλιση ακόμη και όταν το καρότσι είναι πλήρως φορτωμένο.
+
+Οι εμπρός τροχοί περιστρέφονται 360°, προσφέροντας:
+
+εύκολους ελιγμούς
+σταθερή πορεία
+καλύτερο έλεγχο
+άνετη μεταφορά σε διαφορετικές επιφάνειες
+
+Οι τροχοί είναι αφαιρούμενοι και αντικαθίστανται εύκολα όταν χρειαστεί.
+
+Ρυθμιζόμενη εργονομική λαβή
+
+Η εργονομική λαβή μπορεί να ρυθμιστεί ανάλογα με το ύψος και τις ανάγκες του χρήστη, προσφέροντας μεγαλύτερη άνεση κατά τη μεταφορά.
+
+Ο σχεδιασμός της επιτρέπει ασφαλές κράτημα ακόμη και όταν το καρότσι μεταφέρει μεγάλο φορτίο.
+
+Μεγάλη χωρητικότητα
+
+Ο ευρύχωρος κάδος των 90 λίτρων προσφέρει άφθονο χώρο για καθημερινές μεταφορές.
+
+Μπορεί να φιλοξενήσει εύκολα:
+
+σακούλες supermarket
+κιβώτια
+ψυγεία παραλίας
+εργαλεία
+γλάστρες
+παιχνίδια
+εξοπλισμό camping
+προμήθειες για εκδρομές
+Γιατί να το επιλέξετε
+
+✔ Μεγάλη χωρητικότητα 90 λίτρων
+
+✔ Ανθεκτικό χαλύβδινο πλαίσιο
+
+✔ Ύφασμα Oxford 600D υψηλής αντοχής
+
+✔ Μέγιστο φορτίο έως 180 kg
+
+✔ Πτυσσόμενος σχεδιασμός για εύκολη αποθήκευση
+
+✔ Περιστρεφόμενοι τροχοί 360°
+
+✔ Ρυθμιζόμενη εργονομική λαβή
+
+✔ Ιδανικό για ψώνια, παραλία, camping, κήπο και καθημερινή χρήση
+
+✔ Εύκολη μεταφορά και αποθήκευση
+
+Τεχνικά χαρακτηριστικά
+Brand: SONGMICS
+Μοντέλο: GFW909B01
+Τύπος: Πτυσσόμενο καρότσι μεταφοράς
+Χωρητικότητα: 90 L
+Μέγιστο φορτίο: 180 kg
+Διαστάσεις ανοιχτό: 42 × 67 × 90,5 cm
+Βάρος προϊόντος: 5 kg
+Υλικό πλαισίου: Κράμα χάλυβα
+Υλικό κάδου: Ύφασμα Oxford 600D
+Αριθμός τροχών: 4
+Εμπρός τροχοί: Περιστροφή 360°
+Λαβή: Ρυθμιζόμενη
+Χρώμα: Μαύρο
+Αναδιπλούμενο: Ναι
+Ιδανικό για
+Super Market
+Λαϊκή αγορά
+Παραλία
+Camping
+Picnic
+Κήπο
+Αγροτικές εργασίες
+Εκδρομές
+Εξοχικό
+Μεταφορά εργαλείων
+Μεταφορά φυτών
+Μεταφορά αθλητικού εξοπλισμού
+Φεστιβάλ
+Επαγγελματικές εκθέσεις
+Καθημερινή χρήση</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>775250201</SKU>
 		<EAN>5203642136921</EAN>
 		<Name>Sidirela Ψεκαστήρας Υψηλής Πίεσης 2000ml σε Πράσινο Χρώμα E-3692</Name>
@@ -26989,6 +28316,45 @@ Brand: Sidirela
 
 Η δικτυωτή προσωπίδα προστατεύει από μεγάλα σωματίδια και θραύσματα, δεν προσφέρει όμως προστασία από λεπτή σκόνη, υγρά ή πιτσιλίσματα χημικών. Για τέτοιες εφαρμογές απαιτείται κατάλληλη διάφανη προσωπίδα ή άλλο εξειδικευμένο μέσο προστασίας.</Description>
 		<Quantity>5</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>776100100</SKU>
+		<EAN>0194343507439</EAN>
+		<Name>Feandrea Ονυχοδρόμιο Δέντρο Γάτας, με 2 Κρεβάτια, Στήλους Ξυσίματος και Ράμπα για μικρές και Μεσαίες Γάτες, 60,2x40x85,8cm Ανοιχτό Γκρι PCT013GD01</Name>
+		<URL>https://www.skroutz.gr/s/68240697/feandrea-onychodromio-gatodentro-gri-60-2x40x85-8ek-pct013gd01.html</URL>
+		<Image>https://d.scdn.gr/images/sku_images/129193/129193226/fixedratio_20260630134855_18e56cd0.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/products/PCT013GD01/PCT013GD01-2-DE.jpg https://static.eu.distributor.songmics.com/products/PCT013GD01/PCT013GD01-3-DE.jpg https://static.eu.distributor.songmics.com/products/PCT013GD01/PCT013GD01-4-DE.jpg https://static.eu.distributor.songmics.com/products/PCT013GD01/PCT013GD01-5-DE.jpg https://static.eu.distributor.songmics.com/products/PCT013GD01/PCT013GD01-6-DE.jpg https://static.eu.distributor.songmics.com/products/PCT013GD01/PCT013GD01-7-DE.jpg </Additional_Image>
+		<Price>45.06</Price>
+		<Category>Ονυχοδρόμια Γάτας</Category>
+		<Manufacturer>Feandrea</Manufacturer>
+		<MPN>PCT013GD01</MPN>
+		<Description>Ιδανικό για οικογένειες με πολλές γάτες: 2 άνετα κρεβάτια για γάτες, μια άνετη σπηλιά και ένα άνετο καλάθι δίνουν σε κάθε γάτα ένα μέρος για να χαλαρώσει, να κουλουριαστεί και να διεκδικήσει τη δική της γωνιά σε αυτό το δέντρο για γάτες. Ξύσιμο, Τέντωμα, Επανάληψη: Με 2 θέσεις για ξύσιμο και μια σανίδα ξυσίματος, αυτός ο πύργος για γάτες προσφέρει στις γάτες σας ειδικά σημεία για να σκάψουν τα νύχια τους, διατηρώντας παράλληλα τα έπιπλά σας ασφαλή. Άνεση παντού: Πλήρως τυλιγμένος σε απαλό βελούδινο ύφασμα και άνετου μεγέθους για μικρές έως μεσαίες γάτες, αυτός ο πύργος για δέντρο για γάτες δημιουργεί ζεστά, φιλόξενα σημεία όπου μπορούν να εγκατασταθούν για πραγματική χαλάρωση. Εύκολη αναρρίχηση για όλες τις γάτες: Σχεδιασμένο με πολλαπλά επίπεδα, προσεγμένα μονοπάτια και μια σανίδα ξυσίματος που λειτουργεί και ως σκάλα, ακόμη και γατάκια και ηλικιωμένες γάτες μπορούν να σκαρφαλώσουν και να εξερευνήσουν αυτήν την παιδική χαρά για γάτες με ευκολία. Σταθερό και ασφαλές: Κατασκευασμένο από στιβαρή μοριοσανίδα και ασφαλισμένο με κιτ αντι-ανατροπής, αυτό το διαμέρισμα για γάτες εσωτερικού χώρου προσφέρει έναν ασφαλή, σταθερό χώρο για τους γατόφιλους φίλους σας να πηδούν, να κυνηγούν και να παίζουν.
+
+Προδιαγραφές:
+
+
+
+
+
+Χρώμα: Γκρι
+
+Υλικό: Μοριοσανίδα, Λούτρινο, Σιζάλ
+
+Μέγεθος προϊόντος: 23,7"Μ x 15,7"Π x 33,8"Υ (60,2 x 40 x 85,8 εκ.)
+
+Βάρος προϊόντος: 18 λίβρες (8,2 κιλά)
+
+Περιεχόμενα συσκευασίας:
+
+1 x Δέντρο για γάτες
+
+1 x Κιτ αξεσουάρ
+
+1 x Κιτ κατά της ανατροπής
+
+1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27271,6 +28637,108 @@ Brand: Sidirela
 1 x Κιτ αξεσουάρ
 1 x Οδηγίες</Description>
 		<Quantity>28</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>776100201</SKU>
+		<EAN>0194343329819</EAN>
+		<Name>Feandrea Ορθοπεδικό Κρεβάτι Σκύλου Medium, με Αδιάβροχο Εσωτερικό Στρώμα, Υπερυψωμένες Άκρες, Αφαιρούμενο Πλενόμενο Κάλυμμα, Αντιολισθητικό 76x51x18cm σε Ανοιχτό Γκρι Χρώμα PGW281G01</Name>
+		<URL>https://www.skroutz.gr/s/68228767/feandrea-kalymma-gia-krevati-skylou-orthopediko-gri-76x51ek-pgw281g01.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/068228/68228767/fixedratio_20260630120921_feandrea_kalymma_gia_krevati_skylou_orthopediko_gri_76x51ek_pgw281g01.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/products/PGW281G01/PGW281G01-2-DE.jpg https://static.eu.distributor.songmics.com/products/PGW281G01/PGW281G01-3-DE.jpg https://static.eu.distributor.songmics.com/products/PGW281G01/PGW281G01-4-DE.jpg https://static.eu.distributor.songmics.com/products/PGW281G01/PGW281G01-5-DE.jpg https://static.eu.distributor.songmics.com/products/PGW281G01/PGW281G01-6-DE.jpg </Additional_Image>
+		<Price>30.78</Price>
+		<Category>Κρεβάτια Σκύλων</Category>
+		<Manufacturer>Feandrea</Manufacturer>
+		<MPN>PGW281G01</MPN>
+		<Description>ΑΝΕΤΗ ΕΠΕΝΔΥΣΗ - Η επένδυση από αφρώδες υλικό για σπυράκια του μαξιλαριού για σκύλους είναι αναπνεύσιμη και παρέχει βέλτιστη στήριξη. Ανακουφίζει τις αρθρώσεις της γούνινης μύτης σας και δημιουργεί ένα άνετο σημείο ανάπαυσης για το κατοικίδιό σας. Υπερυψωμένες άκρες σε σχήμα C: Οι υπερυψωμένες άκρες του κρεβατιού για σκύλους με γέμιση PP στηρίζουν το κεφάλι και τον λαιμό του τετράποδου φίλου σας και του δίνουν μια αίσθηση ασφάλειας. Η χαμηλή πίεση επιτρέπει την εύκολη πρόσβαση. ΠΟΙΟΤΙΚΑ ΥΛΙΚΑ. Καλύπτεται με απαλή φανέλα και βελούδο, αυτό το μαλακό καλάθι για σκύλους προσφέρει απόλυτη άνεση μόλις ξαπλώσει ο γούνινος φίλος σας, προωθώντας έναν βαθύτερο και πιο ξεκούραστο ύπνο. Εύκολη φροντίδα και αδιάβροχο: το κάλυμμα είναι αφαιρούμενο και πλένεται χάρη στο φερμουάρ, το γέμισμα δεν πλένεται. το μεσαίο κάλυμμα φανέλας με αδιάβροχη στρώση TPU προστατεύει από μικρά ατυχήματα. ΕΥΕΛΙΚΤΟ &amp; ΑΝΤΙΟΛΙΣΘΗΤΙΚΟ: Το κρεβάτι για σκύλους είναι ιδανικό για διαφορετικά μέρη, σε εσωτερικούς χώρους, σε καμπίνες ή σε κλουβιά. Ο αντιολισθητικός πάτος διατηρεί το κρεβάτι σταθερό και παρέχει στον σκύλο σας μεγαλύτερη ασφάλεια.
+
+Λεπτομέρειες προϊόντος:
+
+
+
+Χρώμα: Ανοιχτό γκρι
+
+
+
+Υλικό: Φανέλα, βελούδο, μεμβράνη TPU, αντιολισθητικό ύφασμα, αφρός με καμπύλες, γέμιση PP
+
+
+
+Μέγεθος: 76 x 51 x 18 εκ. (Μ x Π x Υ)
+
+
+
+Βάρος: 1,5 κιλά
+
+Περιεχόμενα συσκευασίας:
+
+1 x Κρεβάτι σκύλου</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>776100202</SKU>
+		<EAN>0194343329826</EAN>
+		<Name>Feandrea Ορθοπεδικό Κρεβάτι Σκύλου Large, με Αδιάβροχο Εσωτερικό Στρώμα, Υπερυψωμένες Άκρες, Αφαιρούμενο Πλενόμενο Κάλυμμα, Αντιολισθητικό 91x68x18cm σε Ανοιχτό Γκρι Χρώμα PGW282G01</Name>
+		<URL>https://www.skroutz.gr/s/68228768/feandrea-kanapes-krevati-skylou-orthopedikos-gri-91x68ek-pgw282g01.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/068228/68228768/fixedratio_20260630120921_feandrea_kanapes_krevati_skylou_orthopedikos_gri_91x68ek_pgw282g01.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/products/PGW282G01/PGW282G01-2-DE.jpg https://static.eu.distributor.songmics.com/products/PGW282G01/PGW282G01-3-DE.jpg https://static.eu.distributor.songmics.com/products/PGW282G01/PGW282G01-4-DE.jpg https://static.eu.distributor.songmics.com/products/PGW282G01/PGW282G01-5-DE.jpg https://static.eu.distributor.songmics.com/products/PGW282G01/PGW282G01-6-DE.jpg </Additional_Image>
+		<Price>39.17</Price>
+		<Category>Κρεβάτια Σκύλων</Category>
+		<Manufacturer>Feandrea</Manufacturer>
+		<MPN>PGW282G01</MPN>
+		<Description>Ορθοπεδικό Κρεβάτι, Καταπραϋντική Άνεση: Επενδυμένο με αφρώδες υλικό για το κλουβί αυγών, το κρεβάτι σκύλου παρέχει σταθερή, ομοιόμορφη στήριξη και βελτιώνει τη ροή του αέρα και την αναπνοή, δημιουργώντας ένα άνετο καταφύγιο για τον σκύλο σας. Υπερυψωμένες άκρες σε σχήμα C, Βέλτιστη Υποστήριξη: Οι υπερυψωμένες άκρες με επένδυση PP υψηλής ποιότητας προσφέρουν τέλεια στήριξη κεφαλιού και αυχένα, δημιουργώντας έναν άνετο και ασφαλή χώρο. Η χαμηλωμένη μπροστινή είσοδος διευκολύνει τον σκύλο σας να μπαίνει και να βγαίνει. Μαλακά Υλικά, Καλύτερος Ύπνος: Καλύπτεται από απαλή φανέλα και βελούδο, αυτό το χαλαρωτικό κρεβάτι σκύλου προσφέρει άνεση σαν σύννεφο τη στιγμή που ο σκύλος σας ξαπλώνει, προωθώντας έναν βαθύτερο και πιο ξεκούραστο ύπνο. Εύκολο στον καθαρισμό και την αδιάβροχη προστασία: Το κεντρικό κάλυμμα από φανέλα διαθέτει αδιάβροχη επένδυση TPU για προστασία από μικρά ατυχήματα. Το κάλυμμα είναι αφαιρούμενο και πλένεται στο πλυντήριο για εύκολο καθάρισμα. Σημείωση: Μην πλένετε την επένδυση. Ευέλικτο και αντιολισθητικό: Αυτό το κρεβάτι κατοικίδιων ζώων είναι κατάλληλο για χρήση στο σπίτι, σε κλουβιά ή σε κλουβιά σκύλων. Οι αντιολισθητικές λαστιχένιες κουκκίδες στο κάτω μέρος εμποδίζουν την ολίσθηση, εξασφαλίζοντας την ασφάλεια του σκύλου σας όπου κι αν κοιμάται.
+
+Προδιαγραφές:
+
+
+
+
+
+Χρώμα: Ανοιχτό γκρι
+
+Υλικό: Φανέλα, Βελούδο, Αδιάβροχη επένδυση TPU, Αντιολισθητικό ύφασμα, Αφρός για κιβωτό αυγών, Γέμιση PP
+
+Μέγεθος προϊόντος: 91 x 68 x 18 εκ. (36" Μ x 27" Π x 7" Υ)
+
+Βάρος προϊόντος: 2,1 κιλά (4,6 λίβρες)
+
+Περιεχόμενα συσκευασίας:
+
+1 x Κρεβάτι σκύλου</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>776100301</SKU>
+		<EAN>6955880387557</EAN>
+		<Name>Feandrea Πτυσσόμενη Αδιάβροχη Τσάντα Χειρός για Μεταφορά Κατοικιδίων Μ60xΠ42xΥ42cm σε Γκρι Χρώμα PDC60GY</Name>
+		<URL>https://www.skroutz.gr/s/40539012/Feandrea-Dog-Kennel-Adiavrochi-Tsanta-CHeiros-gia-Metafora-Skylou-Gri-M60xP40xY40ek-PDC60GY.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/040539/40539012/xlarge_20230201093158_dog_kennel_tsanta_cheiros_gia_metafora_skylou_gri_m60xp40xy40ek.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/PDC60GY/PDC60GY-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/PDC60GY/PDC60GY-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/PDC60GY/PDC60GY-2.jpg https://c.scdn.gr/images/sku_images/071229/71229731/xlarge_20230201093157_8a4e5f37.jpeg https://b.scdn.gr/images/sku_images/071229/71229732/xlarge_20230201093158_0e8b53a4.jpeg https://b.scdn.gr/images/sku_images/071229/71229733/xlarge_20230201093158_f86353f6.jpeg https://c.scdn.gr/images/sku_images/071229/71229734/xlarge_20230201093158_64015b6b.jpeg https://a.scdn.gr/images/sku_images/071229/71229735/xlarge_20230201093158_c455de0c.jpeg </Additional_Image>
+		<Price>41.97</Price>
+		<Category>Τσάντες Μεταφοράς Σκύλων</Category>
+		<Manufacturer>Feandrea</Manufacturer>
+		<MPN>PDC60GY</MPN>
+		<Description>Πάρτε μαζί σας τον τετράποδο φίλο σας: Θέλετε να πάρετε τον τετράποδο φίλο σας στις διακοπές; Ή μήπως χρειάζεστε έναν ασφαλή τρόπο για να τον μεταφέρετε στον κτηνίατρο; Ξεδιπλώστε και συναρμολογήστε εύκολα αυτόν τον φορέα κατοικίδιων και είναι έτοιμος να προστατεύσει το κατοικίδιό σας στο δρόμο—σε λίγα μόνο λεπτά!
+
+«Τι συμβαίνει έξω;» Με παράθυρα από πλέγμα στην τσάντα κατοικίδιων και ευρύχωρο χώρο στο εσωτερικό, ο περίεργος τετράποδος φίλος σας μπορεί να κρυφοκοιτάξει έξω και να απολαύσει τα αξιοθέατα καθώς και τον καθαρό αέρα, ώστε να μην ανησυχείτε μήπως νιώθει μόνος και στριμωγμένος.
+
+Ταξιδεύει μακριά: Για να βοηθήσετε το κατοικίδιό σας να ταξιδέψει μακριά μαζί σας και να δει έναν μεγαλύτερο κόσμο, η ανθεκτικότητα και η άνεση είναι απαραίτητες. Με μεταλλικό σκελετό, ανθεκτικό στη φθορά ύφασμα Oxford και ένα αφράτο χαλάκι στο εσωτερικό, ο φίλος σας θα νιώθει ασφαλής και άνετος στο δρόμο.
+
+Όταν τελειώσει το ταξίδι: Καθαρίστε εύκολα τη βρωμιά και τους λεκέδες με μια μαλακή βούρτσα, διπλώστε το κλουβί του σκύλου σε επίπεδη επιφάνεια, τοποθετήστε το στη γωνία του σαλονιού σας και περιμένετε το επόμενο χαρούμενο ταξίδι!
+
+Ελέγξτε το μέγεθος: Το μέγεθος αυτού του κλουβιού για σκύλους είναι 60 x 42 x 42 εκ. Αλλά για να βεβαιωθείτε ότι ταιριάζει στο κατοικίδιό σας, το μέγεθος του κατοικίδιου ζώου σας έχει επίσης σημασία. Επομένως, μετρήστε το ύψος και το μήκος του σκύλου σας για να βεβαιωθείτε ότι έχετε επιλέξει το σωστό μέγεθος.
+
+Προδιαγραφές:
+- Χρώμα: Γκρι
+- Υλικό: Μεταλλικό πλαίσιο, ύφασμα Oxford, επίστρωση PVC, τεχνητό φλις
+- Μέγεθος προϊόντος: 60 x 42 x 42 εκ. (Μ x Π x Υ)
+- Βάρος προϊόντος: 2,8 κιλά
+
+Περιεχόμενα συσκευασίας:
+- 1 x Μεταφορέας κατοικίδιων</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31164,7 +32632,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 
 Αξιόπιστη Ενέργεια για Καθημερινή Χρήση
 Οι αλκαλικές μπαταρίες Maxell AAA είναι η βέλτιστη επιλογή για συσκευές που απαιτούν συνεχή και σταθερή τροφοδοσία. Με τάση 1.5V, προσφέρουν την απαραίτητη ισχύ για τη σωστή λειτουργία των αγαπημένων σας αντικειμένων, από τηλεκοντρόλ και ασύρματα ποντίκια μέχρι φακούς και ψηφιακά ρολόγια. Η Maxell, ως ηγέτης στον τομέα της ενέργειας, κατασκευάζει αυτές τις μπαταρίες με αυστηρά ποιοτικά πρότυπα, διασφαλίζοντας ότι κάθε μία από τις 32 μπαταρίες της συσκευασίας θα αποδώσει στο μέγιστο των δυνατοτήτων της, προσφέροντας σας την ηρεμία που αναζητάτε στην καθημερινότητά σας.</Description>
-		<Quantity>28</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35047,7 +36515,7 @@ USB-C
 Ελέγχει την ισχύ φόρτισης. Δεν χρειάζεται να ανησυχείτε για υπερθέρμανση ή υπέρταση.
 Σας επιτρέπει να μεταφέρετε γρήγορα φωτογραφίες και βίντεο. Έχει υψηλή ταχύτητα μετάδοσης 480 Mbps.
 Έχει υψηλή αντοχή στη φθορά. Ο πυρήνας είναι τυλιγμένος σε ανθεκτικό νάιλον.</Description>
-		<Quantity>40</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36554,7 +38022,7 @@ Aluminum Case Better for heat dissipation </Description>
     Μίνι Led φακός.
     Τροφοδοσία: Επαναφορτιζόμενη μπαταρία.
 </Description>
-		<Quantity>23</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36953,7 +38421,7 @@ VESA: από 100×100 έως 400×400 mm
 Συσκευασία: 1 τεμάχιο
 
 Σημαντικό: Πριν από την αγορά, συνιστάται να ελεγχθούν το βάρος, οι διαστάσεις και το πρότυπο VESA της τηλεόρασης ώστε να είναι συμβατά με τις προδιαγραφές της βάσης.</Description>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -38504,7 +39972,7 @@ VeganΌχι
 		<MPN>1514</MPN>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
-		<Quantity>891</Quantity>
+		<Quantity>879</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
