@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-24 11:05</created_at>
+	<created_at>2026-09-24 12:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>86</Quantity>
+		<Quantity>85</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -735,7 +735,7 @@
     Coke Zero Sugar
 
 </Description>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1094,7 +1094,7 @@
 		<MPN>0312</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
-		<Quantity>409</Quantity>
+		<Quantity>421</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1139,7 +1139,7 @@
 		<MPN>0137</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
-		<Quantity>92</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1385,7 +1385,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>956</Quantity>
+		<Quantity>2900</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1400,7 +1400,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0584</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>648</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1415,7 +1415,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0803</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>648</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>679</Quantity>
+		<Quantity>673</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1803,7 +1803,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1575</Quantity>
+		<Quantity>1560</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1857,7 +1857,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5326,7 +5326,7 @@ Prosciutto και αλλαντικά
 		<MPN>0232</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
-		<Quantity>874</Quantity>
+		<Quantity>862</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13036,7 +13036,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>TUBOFLO</Manufacturer>
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
-		<Quantity>3472</Quantity>
+		<Quantity>3422</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13803,7 +13803,7 @@ EAN: 4023103173118
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>100124</MPN>
 		<Description>Κοντάρι μεταλλικό, με χοντρό σπείρωμα, σε χρωμέ απόχρωση, για οικιακές σφουγγαρίστρες και σκούπες, ύψους 130 cm.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23217,7 +23217,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 - 2 x Γάντζοι Κρεμάστρας
 - 1 x Κιτ Αξεσουάρ
 - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24904,7 +24904,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-1942</MPN>
 		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
-		<Quantity>29</Quantity>
+		<Quantity>28</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26274,7 +26274,7 @@ Brand: SONGMICS
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-0513</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους. </Description>
-		<Quantity>14</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26420,7 +26420,7 @@ Brand: SONGMICS
     Πλύσιμο στο χέρι με μέγιστη θερμοκρασία 40°C
 
 Απαγορεύεται η χρήση λευκαντικού, η τοποθέτηση σε στεγνωτήριο, το στεγνό καθάρισμα ή το σιδέρωμα.</Description>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27522,7 +27522,7 @@ Brand: SONGMICS
 Ύψος πλατύσκαλου: 1,60 m
 Συνολικό ύψος: 2,10 m
 Βάρος: 6,930 kg</Description>
-		<Quantity>2</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31022,7 +31022,7 @@ Barcode: 5206753044598
 Μέγεθος C6, ιδανικό για έγγραφα διαστάσεων 11.4x16.2 εκ.
 Συσκευασία περιλαμβάνει 250 τεμάχια, προσφέροντας πλούσιο απόθεμα για τις ανάγκες σου.
 Διαθέτουν αυτοκόλλητη πίσω πλευρά, που διευκολύνει την τοποθέτηση τους σε φακέλους ή άλλες επιφάνειες, χωρίς να χρειάζεται επιπλέον κόλληση. Ιδανικές για οργανωμένες αποστολές και αρχειοθέτηση εγγράφων, θα είναι απαραίτητο εργαλείο στην καθημερινότητά σου.</Description>
-		<Quantity>24</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32511,7 +32511,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1660</MPN>
 		<Description>Αλκαλικές μπαταρίες μεγέθους AAA, ιδανικές για τηλεχειριστήρια, φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
-		<Quantity>188</Quantity>
+		<Quantity>187</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -40015,7 +40015,7 @@ VeganΌχι
 		<MPN>1025</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή από την Morando•Συσκευασία: Κονσέρβα•Ποσότητα: 1τμχ•Βάρος: 405gr</Description>
-		<Quantity>1687</Quantity>
+		<Quantity>1675</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -40075,7 +40075,7 @@ VeganΌχι
 		<MPN>1028</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
-		<Quantity>2184</Quantity>
+		<Quantity>2172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 </mywebstore>
