@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-24 16:05</created_at>
+	<created_at>2026-09-24 16:27</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -780,7 +780,7 @@
 		<MPN>1134</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση πορτοκάλι, βερίκοκο και μήλο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
-		<Quantity>391</Quantity>
+		<Quantity>385</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -795,7 +795,7 @@
 		<MPN>1135</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
-		<Quantity>1941</Quantity>
+		<Quantity>1935</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -810,7 +810,7 @@
 		<MPN>1136</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση βύσσινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
-		<Quantity>350</Quantity>
+		<Quantity>344</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8750,7 +8750,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
     Με Λεπίδα Ακριβείας στο Πίσω Μέρος
     Με Λιπαντική Ταινία που Ξεθωριάζει
     Για Απαλό Ξύρισμα</Description>
-		<Quantity>111</Quantity>
+		<Quantity>110</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11135,10 +11135,10 @@ Melaleuca Alternifolia (Tea Tree)
 	<product>
 		<SKU>680600101</SKU>
 		<EAN>4003790006661</EAN>
-		<Name>Vileda Γάντια Καθαριότητας Dermo Plus Νιτριλίου Large Πράσινα 177722</Name>
+		<Name>Vileda Γάντια Κουζίνας/Καθαριότητας Dermo Plus Νιτριλίου Large Πράσινα 177722</Name>
 		<URL>https://www.skroutz.gr/s/24507303/Vileda-Gantia-Kathariotitas-Dermo-Plus-Nitriliou-Large-166563-Prasina.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024507/24507303/xlarge_20210303112135_vileda_gantia_nitriliou_dermo_plus_large.jpeg</Image>
-		<Price>2.24</Price>
+		<Price>1.86</Price>
 		<Category>Γάντια Κουζίνας</Category>
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>177722</MPN>
@@ -11176,10 +11176,10 @@ Powder Free: Ναι
 	<product>
 		<SKU>680600102</SKU>
 		<EAN>4003790006654</EAN>
-		<Name>Vileda Γάντια Καθαριότητας Dermo Plus Νιτριλίου Medium Πράσινα 177720</Name>
+		<Name>Vileda Γάντια Κουζίνας/Καθαριότητας Dermo Plus Νιτριλίου Medium Πράσινα 177720</Name>
 		<URL>https://www.skroutz.gr/s/24507309/Vileda-Gantia-Kathariotitas-Dermo-Plus-Nitriliou-Medium-166562-Prasina.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024507/24507309/xlarge_20210303112316_vileda_gantia_nitriliou_dermo_plus_medium.jpeg</Image>
-		<Price>2.24</Price>
+		<Price>1.86</Price>
 		<Category>Γάντια Κουζίνας</Category>
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>177720</MPN>
@@ -11212,6 +11212,68 @@ Powder Free: Ναι
 
 Τα γάντια προορίζονται για συνήθεις εργασίες οικιακού καθαρισμού. Δεν πρέπει να χρησιμοποιούνται με επικίνδυνα ή ιδιαίτερα επιθετικά χημικά.</Description>
 		<Quantity>60</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>680600111</SKU>
+		<EAN>8410435841031</EAN>
+		<Name>Vileda Γάντια Κουζίνας/Καθαριότητας Universal Πλαστικά Large Ροζ 177520</Name>
+		<URL>https://www.skroutz.gr/s/34156169/Vileda-Gantia-Kathariotitas-Universal-Plastika-Large-166566-Roz.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/034156/34156169/xlarge_20220509151055_vileda_gantia_kathariotitas_universal_large_roz_plastika_2tmch.jpeg</Image>
+		<Additional_Image>https://b.scdn.gr/images/sku_images/080724/80724295/xlarge_20260112174143_2fa767e3.jpeg https://d.scdn.gr/images/sku_images/080724/80724294/xlarge_20260112174147_0a9f24bf.jpeg https://b.scdn.gr/images/sku_images/080724/80724296/xlarge_20260112174152_017563cd.jpeg https://a.scdn.gr/images/sku_images/080724/80724293/xlarge_20260112174157_c4219aca.jpeg </Additional_Image>
+		<Price>1.21</Price>
+		<Category>Γάντια Κουζίνας</Category>
+		<Manufacturer>Vileda</Manufacturer>
+		<MPN>177520</MPN>
+		<Description>Τα Vileda Universal Large είναι γάντια οικιακής χρήσης σχεδιασμένα για καθημερινές εργασίες καθαρισμού στο σπίτι. Διαθέτουν εσωτερική επένδυση από 100% βαμβάκι, η οποία προσφέρει απαλή αίσθηση και μεγαλύτερη άνεση κατά τη χρήση, βοηθώντας παράλληλα στην απορρόφηση της υγρασίας από τα χέρια.
+
+Η υψηλή ελαστικότητά τους επιτρέπει άνετη εφαρμογή και ελευθερία κινήσεων, ενώ η ανάγλυφη επιφάνεια προσφέρει καλύτερο κράτημα τόσο σε στεγνές όσο και σε υγρές επιφάνειες.
+
+Είναι κατάλληλα για ένα ευρύ φάσμα οικιακών εργασιών, όπως πλύσιμο πιάτων και γενικό καθάρισμα, προστατεύοντας τα χέρια κατά την καθημερινή χρήση.
+
+Χαρακτηριστικά
+Μάρκα: Vileda
+Σειρά: Universal
+Μέγεθος: Large (L)
+Χρήση: Οικιακή / Καθαρισμός
+Εσωτερική επένδυση: 100% βαμβάκι
+Υψηλή ελαστικότητα για άνετη εφαρμογή
+Ανάγλυφη επιφάνεια για καλύτερο κράτημα
+Κατάλληλα για στεγνές και υγρές επιφάνειες
+Φυσικό latex
+Συσκευασία: 1 ζευγάρι</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>680600112</SKU>
+		<EAN>8410435841024</EAN>
+		<Name>Vileda Γάντια Καθαριότητας Universal Πλαστικά Medium Ροζ 177518</Name>
+		<URL>https://www.skroutz.gr/s/36984299/Vileda-Gantia-Kathariotitas-Universal-Plastika-Medium-166565-Roz.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/036984/36984299/xlarge_20260112174139_vileda_zeygos_gantion_kathariotitas_plastika_166565_roz.jpeg</Image>
+		<Additional_Image>https://b.scdn.gr/images/sku_images/080724/80724295/xlarge_20260112174143_2fa767e3.jpeg https://d.scdn.gr/images/sku_images/080724/80724294/xlarge_20260112174147_0a9f24bf.jpeg https://b.scdn.gr/images/sku_images/080724/80724296/xlarge_20260112174152_017563cd.jpeg https://a.scdn.gr/images/sku_images/080724/80724293/xlarge_20260112174157_c4219aca.jpeg </Additional_Image>
+		<Price>1.21</Price>
+		<Category>Γάντια Κουζίνας</Category>
+		<Manufacturer>Vileda</Manufacturer>
+		<MPN>177518</MPN>
+		<Description>Τα Vileda Universal Medium είναι γάντια οικιακής χρήσης σχεδιασμένα για καθημερινές εργασίες καθαρισμού στο σπίτι. Διαθέτουν εσωτερική επένδυση από 100% βαμβάκι, η οποία προσφέρει απαλή αίσθηση και μεγαλύτερη άνεση κατά τη χρήση, βοηθώντας παράλληλα στην απορρόφηση της υγρασίας από τα χέρια.
+
+Η υψηλή ελαστικότητά τους προσφέρει άνετη εφαρμογή και ελευθερία κινήσεων, ενώ η ανάγλυφη επιφάνεια εξασφαλίζει καλύτερο κράτημα τόσο σε στεγνές όσο και σε υγρές επιφάνειες.
+
+Είναι κατάλληλα για ένα ευρύ φάσμα οικιακών εργασιών, όπως πλύσιμο πιάτων και γενικό καθάρισμα, προσφέροντας προστασία στα χέρια κατά την καθημερινή χρήση.
+
+Χαρακτηριστικά
+Μάρκα: Vileda
+Σειρά: Universal
+Μέγεθος: Medium (M)
+Χρήση: Οικιακή / Καθαρισμός
+Εσωτερική επένδυση: 100% βαμβάκι
+Υψηλή ελαστικότητα για άνετη εφαρμογή
+Ανάγλυφη επιφάνεια για καλύτερο κράτημα
+Κατάλληλα για στεγνές και υγρές επιφάνειες
+Φυσικό latex
+Συσκευασία: 1 ζευγάρι</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11481,7 +11543,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1066</Quantity>
+		<Quantity>1056</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11552,7 +11614,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
-		<Quantity>1274</Quantity>
+		<Quantity>1254</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12520,7 +12582,7 @@ pH: Φιλικό προς το δέρμα
 		<MPN>0792</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
-		<Quantity>323</Quantity>
+		<Quantity>315</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12886,7 +12948,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>FAIRY</Manufacturer>
 		<MPN>1101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
-		<Quantity>255</Quantity>
+		<Quantity>254</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14099,7 +14161,7 @@ EAN: 4023103173118
 
 Διατίθεται σε ένα τεμάχιο, ιδανικό για καθημερινή χρήση.
 Η ποιότητα κατασκευής του πανιού εξασφαλίζει ότι μπορείτε να διατηρείτε τα δάπεδά σας πάντα καθαρά και φρέσκα, χωρίς να βλάπτετε την επιφάνειά τους.</Description>
-		<Quantity>80</Quantity>
+		<Quantity>79</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14121,7 +14183,7 @@ EAN: 4023103173118
 Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα.
 Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα.
 Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>290</Quantity>
+		<Quantity>289</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14161,7 +14223,7 @@ EAN: 4023103173118
 		<Manufacturer>MORBIDO</Manufacturer>
 		<MPN>1116</MPN>
 		<Description>Απορροφητική σπογγοπετσέτα Wettex. Απορροφάει έως και 15 φορές το βάρος του Σε 4 διαφορετικά σχέδια και χρώματα.</Description>
-		<Quantity>341</Quantity>
+		<Quantity>340</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14195,7 +14257,7 @@ EAN: 4023103173118
 		<Manufacturer>Wettex</Manufacturer>
 		<MPN>1116002</MPN>
 		<Description>Η πετσέτα μικροϊνών Vileda Colors χρησιμοποιείτε υγρή ή στεγνή, κατάλληλη για όλες τις επιφάνειες. Μπορεί να πλυθεί στο πλυντήριο ή στο χέρι έως τους 60° βαθμούς.​ Κάθε συσκευασία περιέχει 4 χρώματα. ​</Description>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14430,7 +14492,7 @@ Super-απορροφητική.
     Κατάλληλο για Όλα τα Σκεύη
     Καθαρίζει τους Δύσκολους Λεκέδες
     Βάρος 17gr</Description>
-		<Quantity>16</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20760,7 +20822,7 @@ Brand: Viosarp</Description>
 1 x Πάγκος παπουτσιών 
 1 x Κιτ αξεσουάρ 
 1 x εγχειρίδιο χρήστη (η αγγλική γλώσσα δεν είναι εγγυημένη).</Description>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24416,7 +24478,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7715006016</SKU>
 		<EAN>6955880341337</EAN>
-		<Name>Songmics Ψάθινο, Πτυσσόμενο Καλάθι Απλύτων με Καπάκι και Αφαιρούμενο Υφασμάτινο Κάδο 46x33x60cm σε Καφέ Χρώμα LCB51NL</Name>
+		<Name>Songmics Ψάθινο, Πτυσσόμενο Καλάθι Απλύτων με Καπάκι και Αφαιρούμενο Υφασμάτινο Κάδο 46x33x60cm σε Καφέ Χρώμα LCB51NL / LCB051N01V1</Name>
 		<URL>https://www.skroutz.gr/s/24345962/Songmics-LCB51NL-Kalathi-Aplyton-PSathino-Ptyssomeno-me-Kapaki-46x33x60cm-Kafe.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024345/24345962/fixedratio_20200811095510_songmics_lcb51nl.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-2-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-3-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-4-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-5-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-6-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-7-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-8-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB51NL/LCB51NL-9-DE.jpg</Additional_Image>
@@ -27819,7 +27881,7 @@ Brand: Sidirela
 ℹ️ Σημείωση Χρήσης
 
 Η ψησταριά προορίζεται για χρήση σε εξωτερικό χώρο. Συνιστάται σωστός καθαρισμός μετά από κάθε χρήση και αποθήκευση σε στεγασμένο σημείο για μεγαλύτερη διάρκεια ζωής.</Description>
-		<Quantity>41</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28868,7 +28930,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0095</MPN>
 		<Description>Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
-		<Quantity>66</Quantity>
+		<Quantity>65</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28966,7 +29028,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1290</MPN>
 		<Description>Καπάκι πιπίλα λευκό "Tube" για ποτήρι χάρτινο 8oz.</Description>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29274,7 +29336,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0136</MPN>
 		<Description>Πλαστικό σκεύος μιας χρήσης χωρητικότητας 750ml με αποσπώμενο καπάκι, ιδανικό για συσκευασία ζεστών φαγητών. Μπορεί να χρησιμοποιηθεί για να ζεσταθεί σε φούρνο μικροκυμμάτων. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -40045,7 +40107,7 @@ VeganΌχι
 		<MPN>1026</MPN>
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
-		<Quantity>208</Quantity>
+		<Quantity>206</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -40060,7 +40122,7 @@ VeganΌχι
 		<MPN>1027</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
-		<Quantity>732</Quantity>
+		<Quantity>731</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
