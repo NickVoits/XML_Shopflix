@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-29 16:05</created_at>
+	<created_at>2026-09-29 16:40</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -217,7 +217,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>1278</Quantity>
+		<Quantity>1260</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -232,7 +232,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>310</Quantity>
+		<Quantity>292</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -262,7 +262,7 @@
 		<MPN>0733</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Quantity>198</Quantity>
+		<Quantity>196</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>239</Quantity>
+		<Quantity>234</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>208</Quantity>
+		<Quantity>203</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2072</Quantity>
+		<Quantity>2054</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>90</Quantity>
+		<Quantity>89</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -626,7 +626,7 @@
 		<MPN>57101</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Σόδα Schweppes γκρέιπφρουτ με μέντα.</Description>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1281,7 +1281,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0419</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
-		<Quantity>140</Quantity>
+		<Quantity>130</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1311,7 +1311,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>1304</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:•Ενεργειακό Ποτό•Υψηλή Περιεκτικότητα σε Καφεΐνη•Περιέχει Ταυρίνη &amp; L-Καρνιτίνη•Πλούσιο σε Βιταμίνες B</Description>
-		<Quantity>686</Quantity>
+		<Quantity>662</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>380</Quantity>
+		<Quantity>240</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1899,7 +1899,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10180</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
-		<Quantity>1219</Quantity>
+		<Quantity>1204</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1913,7 +1913,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>1432</Quantity>
+		<Quantity>1417</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2217,7 +2217,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>764</Quantity>
+		<Quantity>752</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2595,7 +2595,7 @@ pH = 7,6
 		<MPN>0606</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5101,7 +5101,7 @@ Prosciutto και αλλαντικά
 		<MPN>0322</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Quantity>1706</Quantity>
+		<Quantity>1682</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9135,7 +9135,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>HANSAPLAST</Manufacturer>
 		<MPN>1067</MPN>
 		<Description>Τα Hansaplast Universal είναι αυτοκόλλητα επιθέματα ανθεκτικά στο νερό.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11684,7 +11684,7 @@ Powder Free: Ναι
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1340</MPN>
 		<Description>Ιδανικές για επαγγελματική και οικιακή χρήση, προσφέροντας απορροφητικότητα και ανθεκτικότητα. Κατασκευασμένες από 1 φύλλο λευκού χαρτιού υψηλής ποιότητας, σε διαστάσεις 21x25cm, είναι κατάλληλες για καθημερινή υγιεινή και καθαριότητα. Η συσκευασία των 200 τεμαχίων προσφέρει μεγάλη διάρκεια και πρακτική χρήση, ιδανική για χώρους με αυξημένες ανάγκες καθαριότητας.</Description>
-		<Quantity>3225</Quantity>
+		<Quantity>3215</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12967,7 +12967,7 @@ pH: Φιλικό προς το δέρμα
 
     Σύνθεση: 5-15% ανιονικά επιφανειοδραστικά.
 </Description>
-		<Quantity>271</Quantity>
+		<Quantity>270</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13334,7 +13334,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1750</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Oceanic 40gr είναι ένας αποδοτικός καθαριστικός δίσκος που προσφέρει ισχυρή προστασία κατά των αλάτων και των ακαθαρσιών, ενώ διατηρεί τη λεκάνη της τουαλέτας φρέσκια και καθαρή. Το άρωμα Oceanic δημιουργεί μια αίσθηση δροσιάς και καθαριότητας, ενώ η μακράς διάρκειας δράση του εξασφαλίζει καθαριότητα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση.</Description>
-		<Quantity>151</Quantity>
+		<Quantity>146</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13362,7 +13362,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1752</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Bouquet 40gr προσφέρει άμεση και διαρκή καθαριότητα στη λεκάνη της τουαλέτας, ενώ το άρωμα bouquet γεμίζει το μπάνιο με ευχάριστες και λουλουδένιες νότες. Προστατεύει από τα άλατα και τις ακαθαρσίες, ενώ εξασφαλίζει φρεσκάδα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση, χαρίζοντας μακροχρόνια καθαριότητα και αρωματισμένο περιβάλλον.</Description>
-		<Quantity>125</Quantity>
+		<Quantity>120</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14375,7 +14375,7 @@ Super-απορροφητική.
 2. Αντιβακτηριδιακή επεξεργασία
 
 Η φίμπρα περιέχει ιόντα αργύρου ένα αντιβακτηριδιακό συστατικό που προλαμβάνει την ανάπτυξη των βακτηρίων.</Description>
-		<Quantity>1467</Quantity>
+		<Quantity>1461</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14492,7 +14492,7 @@ Super-απορροφητική.
     Κατάλληλο για Όλα τα Σκεύη
     Καθαρίζει τους Δύσκολους Λεκέδες
     Βάρος 17gr</Description>
-		<Quantity>12</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15847,7 +15847,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
-		<Quantity>1428</Quantity>
+		<Quantity>1422</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15889,7 +15889,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
-		<Quantity>758</Quantity>
+		<Quantity>752</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15959,7 +15959,7 @@ Barcode: 5206753033363
 		<Manufacturer>Softline</Manufacturer>
 		<MPN>ΣΑΚ-760100122</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
-		<Quantity>658</Quantity>
+		<Quantity>656</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18309,7 +18309,7 @@ Brand: Viosarp</Description>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LNT50X</MPN>
 		<Description>Το βοηθητικό τραπεζάκι σαλονιού της εταιρείας Vasagle είναι ιδανικό για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. Είναι ορθογώνιο και αποτελείται από μέταλλο και μοριοσανίδα. Διαθέτει 4 τροχούς για εύκολη μετακίνηση και αντέχει βάρος έως 25 κιλά.</Description>
-		<Quantity>47</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18920,7 +18920,7 @@ Brand: Viosarp</Description>
 		<URL>https://www.skroutz.gr/s/22917135/Vasagle-Trolei-Kouzinas-Metalliko-Mayro-3-THeseon-60x40x89cm-KKS60XV1.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022917/22917135/fixedratio_20220510183103_vasagle_trolei_kouzinas_metalliko_se_mayro_chroma_3_theseon_kks60xv1_60x40x89cm.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/032129/32129267/fixedratio_20220510183110_99f662bd.jpeg</Additional_Image>
-		<Price>67.37</Price>
+		<Price>58.5</Price>
 		<Category>Ράφια Τροφίμων</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>KKS60XV2</MPN>
@@ -20855,7 +20855,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120902</SKU>
 		<EAN>0194343195223</EAN>
-		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο Χρώμα 80x30x50cm LSB054B01</Name>
+		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο Χρώμα 80x30x50cm LSB054B01 / LSB054BH01</Name>
 		<URL>https://www.skroutz.gr/s/49146606/Metalliki-Papoutsothiki-me-2-Rafia-Mayri-M80xP30xY50cm-LSB054B01.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/049146/49146606/fixedratio_20240109094736_metalliki_papoutsothiki_80x30x50cm_lsb054b01.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-3.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-4.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-5.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-6.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-7.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-8.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-9.jpg </Additional_Image>
@@ -21543,7 +21543,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700121141</SKU>
 		<EAN>0194343016320</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 9 Ράφια, με Υφασμάτινο Κάλυμμα Προστασίας από τη Σκόνη, έως 45 Ζεύγη Παπουτσιών, Μ88xΠ28xΥ160cm Μαύρη RXJ36H</Name>
+		<Name>Songmics Μεταλλική Παπουτσοθήκη με 9 Ράφια, με Υφασμάτινο Κάλυμμα Προστασίας από τη Σκόνη, έως 45 Ζεύγη Παπουτσιών, Μ88xΠ28xΥ160cm Μαύρη RXJ036H / RXJ036BZ03</Name>
 		<URL>https://www.skroutz.gr/s/23813674/Yfasmatini-Papoutsothiki-me-9-Rafia-Mayri-M88xP28xY160cm-RXJ36H.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023813/23813674/fixedratio_20200629154850_papoutsothiki_rxj36h_88x28x160cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-2.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-3.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-4.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-5.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-6.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-7.jpg</Additional_Image>
@@ -23276,7 +23276,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130551</SKU>
 		<EAN>6955880315895</EAN>
-		<Name>Songmics Ξύλινη Κρεμαστή/Επιτοίχια Μπιζουτιέρα που Κλειδώνει με  Βελούδινη Επένδυση, 2 Συρτάρια &amp; Καθρέφτη 37x10x120cm σε Λευκό Χρώμα JBC93W / JJC62WT</Name>
+		<Name>Songmics Ξύλινη Κρεμαστή/Επιτοίχια Μπιζουτιέρα που Κλειδώνει με  Βελούδινη Επένδυση, 2 Συρτάρια &amp; Καθρέφτη 37x10x120cm σε Λευκό Χρώμα JJC93W / JBC93W</Name>
 		<URL>https://www.skroutz.gr/s/23387864/Songmics-Mpizoutiera-Kouti-Xylini-me-Syrtari-Kathrefti-37x10x120cm-JBC93W.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/023387/23387864/fixedratio_20250916194708_songmics_kremasti_kosmimatothiki_mpizoutiera_me_kathrepti_kai_fotismo_led_37_x_120_x_9_5_cm_mpizoutiera_kouti_xylini_me_syrtari_kathrefti_37x10x120cm_.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-1.1.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-2-.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-31.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-5-ou.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-6%20-ou.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-8-ou.jpg</Additional_Image>
@@ -28881,7 +28881,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
-		<Quantity>230</Quantity>
+		<Quantity>229</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33976,7 +33976,7 @@ Esperanza - Ατμομάγειρες Esperanza
     Από ανοξείδωτο ατσάλι.
     Καλυμμένη αντίσταση.
     Δυνατότητα περιστροφής 360°.</Description>
-		<Quantity>47</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34382,6 +34382,83 @@ Rotating frothing wand για cappuccino ή ζεστό γάλα
 Ενδεικτική λυχνία λειτουργίας
 Μήκος καλωδίου: 1.2 m</Description>
 		<Quantity>38</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799202101</SKU>
+		<EAN>5207227003257</EAN>
+		<Name>Eurolamp Σόμπα Υγραερίου Μανιτάρι με Ισχύ 13.5kW &amp; Κατανάλωση 945gr/h 81x81x221cm για Χώρους έως 20m² σε Μαύρο Χρώμα 147-29600</Name>
+		<URL>https://www.skroutz.gr/s/13028307/Eurolamp-Sompa-Ygraeriou-Manitari-me-Ischy-13-5kW-Katanalosi-945gr-h-81x81x221cm-147-29600.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/013028/13028307/xlarge_20250307160712_eurolamp_sompa_manitari_ygraeriou_me_apodosi_13_5kw_147_29600.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/083316/83316062/xlarge_20231006084726_8d8eebf3.jpeg https://b.scdn.gr/images/sku_images/069733/69733383/xlarge_20221227092513_f4a2cf0c.jpeg https://d.scdn.gr/images/sku_images/069733/69733380/xlarge_20221227092513_201e3356.jpeg </Additional_Image>
+		<Price>119.35</Price>
+		<Category>Θερμάστρες</Category>
+		<Manufacturer>Eurolamp</Manufacturer>
+		<MPN>147-29600</MPN>
+		<Description>Ισχυρή θερμάστρα υγραερίου εξωτερικού χώρου τύπου μανιτάρι, με μέγιστη θερμική ισχύ 13kW, ιδανική για τη δημιουργία ενός άνετου και ζεστού περιβάλλοντος σε εξωτερικούς χώρους κατά τους ψυχρότερους μήνες.
+Αποτελεί πρακτική λύση για βεράντες, αυλές, κήπους και άλλους κατάλληλους εξωτερικούς χώρους, ενώ μπορεί να χρησιμοποιηθεί και σε επαγγελματικές εφαρμογές εξωτερικού χώρου, όπως χώρους εστίασης και φιλοξενίας, σύμφωνα πάντα με τις προβλεπόμενες συνθήκες εγκατάστασης και χρήσης.
+Ο ψηλός σχεδιασμός τύπου μανιταριού επιτρέπει τη διάχυση της παραγόμενης θερμότητας γύρω από τη συσκευή, ενώ το μαύρο φινίρισμα προσφέρει μοντέρνα και διακριτική εμφάνιση που συνδυάζεται εύκολα με διαφορετικές διαμορφώσεις εξωτερικού χώρου.
+Η συσκευή λειτουργεί με υγραέριο LPG (Butane/Propane) και διαθέτει πιεζοηλεκτρική ανάφλεξη, προσφέροντας εύκολη εκκίνηση χωρίς την ανάγκη εξωτερικής ηλεκτρικής παροχής για την ανάφλεξη.
+Χαρακτηριστικά
+- Θερμάστρα υγραερίου εξωτερικού χώρου
+- Σχεδιασμός τύπου μανιτάρι
+- Μέγιστη θερμική ισχύς: 13kW
+- Καύσιμο: LPG / υγραέριο (βουτάνιο ή προπάνιο)
+- Πιεζοηλεκτρική ανάφλεξη
+- Χρώμα: Μαύρο
+- Κατάλληλη για οικιακούς και επαγγελματικούς εξωτερικούς χώρους
+- Ιδανική για βεράντες, αυλές, κήπους και εξωτερικούς χώρους εστίασης
+- Ελεύθερη τοποθέτηση στο δάπεδο
+- Κατασκευαστής: Eurolamp
+Ιδανική για: όσους θέλουν να αξιοποιούν περισσότερο τον εξωτερικό τους χώρο και τις ημέρες με χαμηλότερη θερμοκρασία, χωρίς να απαιτείται μόνιμη εγκατάσταση ηλεκτρικού συστήματος θέρμανσης.
+Σημαντική σημείωση ασφαλείας: Η συσκευή προορίζεται για χρήση σύμφωνα με τις οδηγίες του κατασκευαστή και τις προβλεπόμενες απαιτήσεις αερισμού και ασφαλών αποστάσεων. Η χρήση συσκευών υγραερίου πρέπει να γίνεται με κατάλληλη φιάλη, ρυθμιστή και εξαρτήματα σύμφωνα με τις προδιαγραφές της συσκευής. Να ακολουθούνται πάντοτε οι οδηγίες εγκατάστασης, λειτουργίας και ασφάλειας του κατασκευαστή.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799202102</SKU>
+		<EAN>5207227028847</EAN>
+		<Name>Eurolamp Σόμπα Υγραερίου Μανιτάρι με Ισχύ 13.5kW &amp; Κατανάλωση 945gr/h 81x81x221cm για Χώρους έως 20m² σε Γκρι Χρώμα 147-29601</Name>
+		<URL>https://www.skroutz.gr/s/16589171/Eurolamp-Sompa-Ygraeriou-Manitari-me-Ischy-13kW-Katanalosi-945gr-h-81x81x221cm-147-29601.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/016589/16589171/xlarge_20181121155559_eurolamp_147_29601.jpeg</Image>
+		<Additional_Image>https://d.scdn.gr/images/sku_images/083316/83316062/xlarge_20231006084726_8d8eebf3.jpeg https://b.scdn.gr/images/sku_images/069733/69733383/xlarge_20221227092513_f4a2cf0c.jpeg https://d.scdn.gr/images/sku_images/069733/69733380/xlarge_20221227092513_201e3356.jpeg </Additional_Image>
+		<Price>119.35</Price>
+		<Category>Θερμάστρες</Category>
+		<Manufacturer>Eurolamp</Manufacturer>
+		<MPN>147-29601</MPN>
+		<Description>Η θερμάστρα υγραερίου Eurolamp τύπου μανιτάρι αποτελεί μία ισχυρή και πρακτική λύση θέρμανσης για εξωτερικούς χώρους, προσφέροντας ρυθμιζόμενη απόδοση από 5kW έως 13kW και δυνατότητα κάλυψης χώρου έως 20m². Είναι κατάλληλη για βεράντες, αυλές, κήπους αλλά και επαγγελματικούς εξωτερικούς χώρους, όπως χώρους εστίασης και φιλοξενίας. Eurolamp
+Λειτουργεί με βουτάνιο ή προπάνιο, σε πίεση 30mbar, και δέχεται φιάλη υγραερίου έως 15kg. Ανάλογα με την επιλεγμένη απόδοση, η κατανάλωση κυμαίνεται από 450 έως 945g/h, επιτρέποντας την προσαρμογή της θέρμανσης στις εκάστοτε ανάγκες. Eurolamp
+Η πιεζοηλεκτρική ανάφλεξη διευκολύνει την εκκίνηση, ενώ ο ελεγκτής βαλβίδας αερίου επιτρέπει τη ρύθμιση της λειτουργίας. Διαθέτει επίσης διακόπτη ασφαλείας για μεγαλύτερη προστασία κατά τη χρήση. Eurolamp
+Για ευκολότερη μετακίνηση, η θερμάστρα είναι εξοπλισμένη με λαβές και ροδάκια μεταφοράς. Στη συσκευασία περιλαμβάνονται λάστιχο παροχής αερίου μήκους 1,4m και ρυθμιστής, ώστε να διαθέτει τα βασικά εξαρτήματα σύνδεσης που προβλέπει ο κατασκευαστής. Eurolamp
+Με ύψος 221cm, διαστάσεις 81 × 81cm και βάση διαμέτρου 46cm, ο χαρακτηριστικός σχεδιασμός τύπου μανιταριού είναι κατάλληλος για τοποθέτηση σε ανοιχτούς χώρους όπου απαιτείται ισχυρή πηγή θερμότητας. Το ασημί φινίρισμα προσφέρει ουδέτερη, σύγχρονη εμφάνιση που μπορεί να ενταχθεί εύκολα τόσο σε οικιακό όσο και σε επαγγελματικό περιβάλλον. Eurolamp
+Τεχνικά χαρακτηριστικά
+- Τύπος: Θερμάστρα υγραερίου τύπου μανιτάρι
+- Μέγιστη ισχύς: 13kW
+- Ρυθμιζόμενη απόδοση: 5–13kW
+- Κάλυψη χώρου: έως 20m²
+- Καύσιμο: Βουτάνιο ή Προπάνιο
+- Πίεση αερίου: 30mbar
+- Κατανάλωση: 450–945g/h
+- Μέγιστη φιάλη υγραερίου: 15kg
+- Ανάφλεξη: Πιεζοηλεκτρική
+- Ελεγκτής βαλβίδας αερίου: Ναι
+- Διακόπτης ασφαλείας: Ναι
+- Λαβές μεταφοράς: Ναι
+- Ροδάκια μεταφοράς: Ναι
+- Ύψος: 221cm
+- Διαστάσεις: 81 × 81cm
+- Διάμετρος βάσης: 46cm
+- Καθαρό βάρος: 14,5kg
+- Μεικτό βάρος: 17,5kg
+- Χρώμα: Ασημί
+- Υλικό: Μεταλλικό με ηλεκτροστατική πούδρα
+- Λάστιχο αερίου: 1,4m, Ø8mm
+- Ρυθμιστής: Περιλαμβάνεται
+- Πιστοποίηση CE: Ναι
+- Εγγύηση Eurolamp: 2 έτη
+- Κωδικός Eurolamp: 147-29601
+Σημαντικές πληροφορίες χρήσης: Η θερμάστρα υγραερίου πρέπει να εγκαθίσταται και να χρησιμοποιείται σύμφωνα με τις οδηγίες του κατασκευαστή, με την κατάλληλη φιάλη και σύνδεση αερίου και με τήρηση των προβλεπόμενων αποστάσεων και απαιτήσεων αερισμού. Πριν από τη χρήση συνιστάται η προσεκτική ανάγνωση του εγχειριδίου.</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37190,7 +37267,7 @@ USB-A2: 5V - 2,4A
 Παρέχει ολοκληρωμένη προστασία . Εξοπλισμένο με προστατευτικά μέτρα κατά της υπερφόρτισης, της υπερβολικής εκφόρτισης, της υπέρτασης, της υπερθέρμανσης και των βραχυκυκλωμάτων.
 Είναι ιδανικό για ταξίδια . Είναι συμπαγές και συμμορφώνεται με τα πρότυπα αεροπορίας.
 Παρέχει μεγάλους χρόνους λειτουργίας μεταξύ των φορτίσεων . Η χωρητικότητά του στα 10.000 mAh σάς επιτρέπει να φορτίζετε μια ποικιλία συσκευών: smartphones, tablet και ασύρματα ακουστικά.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -38959,7 +39036,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<MPN>1289</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Η λευκή ζάχαρη της εταιρείας Royal Sugar σε κρυσταλλική μορφή, είναι το γλυκό προϊόν που προκύπτει μετά απο επεξεργασία, προκειμένου να αφαιρεθεί εντελώς η μελάσα και να μείνουν μόνο οι λευκοί καθαροί κρύσταλλοι. Ένα κουταλάκι του γλυκού (5 γραμμάρια) αποδίδει 16 θερμίδες.</Description>
-		<Quantity>4420</Quantity>
+		<Quantity>4410</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39616,7 +39693,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Description>Κυματιστά πατατάκια Ruffles με ρίγανη.
 Συστατικά
 Πατάτες, αραβοσιτέλαιο, γεύση ρίγανης [κρεμμύδι, μαϊντανός, σκόρδο, ρίγανη (0,04%), ορός γάλακτος σε σκόνη (περιέχει πρωτείνη γάλακτος, λακτόζη), φρυγανιά σε σκόνη (περιέχει γλουτένη από σιτάρι), δεξτρόζη, ενισχυτικό γεύσης (όξινο γλουταμινικό νάτριο), ρυθμιστής οξύτητας (κιτρικό οξύ), αρωματικές ύλες (περιέχουν λάδι από σπόρους σέλινου)], αλάτι.</Description>
-		<Quantity>85</Quantity>
+		<Quantity>82</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -40149,7 +40226,7 @@ VeganΌχι
 		<MPN>1027</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
-		<Quantity>655</Quantity>
+		<Quantity>651</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
