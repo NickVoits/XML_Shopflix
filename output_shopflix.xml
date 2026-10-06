@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-06 16:05</created_at>
+	<created_at>2026-10-06 16:36</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>245</Quantity>
+		<Quantity>241</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>434</Quantity>
+		<Quantity>433</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>188</Quantity>
+		<Quantity>187</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -974,7 +974,7 @@
 		<MPN>0165</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>929</Quantity>
+		<Quantity>926</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>666</Quantity>
+		<Quantity>663</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1857,7 +1857,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1139</Quantity>
+		<Quantity>1138</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2595,7 +2595,7 @@ pH = 7,6
 		<MPN>0606</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
-		<Quantity>61</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11513,7 +11513,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
-		<Quantity>9798</Quantity>
+		<Quantity>9789</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11528,7 +11528,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1530</Quantity>
+		<Quantity>1523</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11543,7 +11543,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1018</Quantity>
+		<Quantity>1011</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11698,7 +11698,7 @@ Powder Free: Ναι
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
-		<Quantity>4088</Quantity>
+		<Quantity>4094</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11787,7 +11787,7 @@ Powder Free: Ναι
 Σχολεία &amp; ιατρεία
 
 Οικιακή χρήση</Description>
-		<Quantity>29</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19741,7 +19741,7 @@ Brand: Viosarp</Description>
 2 x γάντζους 
 1 x πακέτο αξεσουάρ 
 1 x εγχειρίδιο οδηγιών (η αγγλική γλώσσα δεν είναι εγγυημένη)</Description>
-		<Quantity>13</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22394,7 +22394,7 @@ Brand: Viosarp</Description>
 Περιεχόμενα συσκευασίας:
 1 x Ράφι ρούχων
 1 x Οδηγίες (EN, DE, FR, IT, ES)</Description>
-		<Quantity>45</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22490,7 +22490,7 @@ Brand: Viosarp</Description>
 		<Name>Συρταριέρα-Κομοδίνο από Ξύλο, Μέταλλο &amp; Ύφασμα με 3 Συρτάρια Μ45xΠ29xΥ70εκ. E-3919</Name>
 		<URL>https://www.skroutz.gr/s/33080457/Syrtariera-Apothikeysis-apo-Xylo-Metallo-Yfasma-me-3-Syrtaria-E-3919-M45xP29xY70ek.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/073670/73670678/fixedratio_20230330113756_d511dd6e.jpeg</Image>
-		<Price>35.952722595</Price>
+		<Price>35.78</Price>
 		<Category>Συρταριέρες</Category>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3919</MPN>
@@ -23794,7 +23794,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>770500201</SKU>
 		<EAN>0194343027425</EAN>
-		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Μαύρος με Πεντάλ 60lt LTB60BK</Name>
+		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Μαύρος με Πεντάλ 60lt LTB60BK / LTB060BH02</Name>
 		<URL>https://www.skroutz.gr/s/25984963/Songmics-Kados-Aporrimmaton-apo-Anoxeidoto-Atsali-Mayros-me-Pental-60lt-LTB60BK.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/025984/25984963/fixedratio_20201202093304_songmics_inox_kados_aporrimmaton_me_pental_ltb60bk_60lt.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/036225/36225785/fixedratio_20201202093304_7099f7c7.jpeg https://d.scdn.gr/images/sku_images/036225/36225787/fixedratio_20201202093305_c0e14a3e.jpeg https://b.scdn.gr/images/sku_images/036225/36225788/fixedratio_20201202093305_ef335291.jpeg</Additional_Image>
@@ -23809,7 +23809,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>770500202</SKU>
 		<EAN>0194343027395</EAN>
-		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Ασημί  με Πεντάλ 60lt LTB60NL</Name>
+		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Ασημί  με Πεντάλ 60lt LTB60NL / LTB060EB02</Name>
 		<URL>https://www.skroutz.gr/s/25562860/Songmics-Soft-Close-Kados-Anakyklosis-Metallikos-Asimi-me-Pental-60lt-LTB60NL.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/025562/25562860/fixedratio_20201108145201_songmics_metallikos_kados_aporrimmaton_me_systima_soft_close_me_pental_ltb60nl_60lt.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/035738/35738632/fixedratio_20201108145202_60148fec.jpeg https://b.scdn.gr/images/sku_images/035738/35738635/fixedratio_20201108145202_99d7799f.jpeg https://b.scdn.gr/images/sku_images/035738/35738633/fixedratio_20201108145202_abfd4297.jpeg  https://c.scdn.gr/images/sku_images/035738/35738636/fixedratio_20201108145202_1467bbae.jpeg</Additional_Image>
@@ -24477,7 +24477,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Διαθέτει καπάκι ώστε τα ρούχα σας να μένουν κρυμμένα και μακριά από αδιάκριτα βλέμματα, ενώ παράλληλα αποτρέπεται η διάχυση άσχημων οσμών στον χώρο. Μεγάλο του πλεονέκτημα αποτελεί το γεγονός ότι όταν δεν το χρησιμοποιείτε μπορείτε να το αναδιπλώσετε, εξοικονομώντας έτσι χώρο μέχρι την επόμενη χρήση του.
 
 Κατασκευάζεται από μπαμπού, το οποίο είναι φιλικό προς το περιβάλλον υλικό. Το μπαμπού έχει μεγάλη αντοχή και παραμένει όμορφο για χρόνια. Είναι επίσης πιο ανθεκτικό από τα άλλα παραδοσιακά ξύλα και είναι πολύ φιλικό προς το περιβάλλον, αφού αναπτύσσεται φυσικά χωρίς τη χρήση χημικών και λιπασμάτων. Είναι λιγότερο επιρρεπές σε φούσκωμα και μπορεί να καθαριστεί εύκολα.</Description>
-		<Quantity>190</Quantity>
+		<Quantity>189</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31081,7 +31081,7 @@ Barcode: 5206753044598
 		<URL>https://www.skroutz.gr/s/34903474/Typotrust-Plastikes-Zelatines-gia-Egrafa-Typou-P-A4-me-Trypes-100tmch-202314.html</URL>
 		<Image>https://d.scdn.gr/images/sku_images/059712/59712703/xlarge_20220504165052_38922163.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/059712/59712702/xlarge_20220504165052_639fb083.jpeg https://a.scdn.gr/images/sku_main_images/034903/34903474/xlarge_20220504165052_typotrust_plastikes_zelatines_gia_egrafa_typou_p_a4_me_trypes_100tmch_202314.jpeg</Additional_Image>
-		<Price>2.31</Price>
+		<Price>2.84</Price>
 		<Category>Ζελατίνες Αρχειοθέτησης</Category>
 		<Manufacturer>Typotrust</Manufacturer>
 		<MPN>FP20140</MPN>
@@ -36530,7 +36530,7 @@ USB6 QC: 5V/3A, 9V/2A, 12V/1,5A
     Plug: A-C / A-L / C-C / C-L
 
 </Description>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
