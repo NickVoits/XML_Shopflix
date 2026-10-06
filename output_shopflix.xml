@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-06 13:05</created_at>
+	<created_at>2026-10-06 14:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>249</Quantity>
+		<Quantity>245</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>450</Quantity>
+		<Quantity>448</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -262,7 +262,7 @@
 		<MPN>0733</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Quantity>178</Quantity>
+		<Quantity>177</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>197</Quantity>
+		<Quantity>195</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>172</Quantity>
+		<Quantity>167</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>120</Quantity>
+		<Quantity>118</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>286</Quantity>
+		<Quantity>266</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>40</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -929,7 +929,7 @@
 		<Manufacturer>Βίκος</Manufacturer>
 		<MPN>ΑΝ-13011</MPN>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>17</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -989,7 +989,7 @@
 		<MPN>0752</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
-		<Quantity>168</Quantity>
+		<Quantity>165</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1154,7 +1154,7 @@
 		<MPN>0831</MPN>
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
-		<Quantity>119</Quantity>
+		<Quantity>116</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1490,7 +1490,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0341</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>14</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1505,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>657</Quantity>
+		<Quantity>654</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1535,7 +1535,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0035</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
-		<Quantity>347</Quantity>
+		<Quantity>344</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1670,7 +1670,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0701</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
-		<Quantity>46</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1456</Quantity>
+		<Quantity>1386</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1784,7 +1784,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>1094</Quantity>
+		<Quantity>1084</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2460,7 +2460,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>109</Quantity>
+		<Quantity>553</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2475,7 +2475,7 @@ pH = 7,6
 		<MPN>0691</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ρετσίνα προσφέρει ένα δροσιστικό και αρωματικό λευκό κρασί με τις χαρακτηριστικές νότες της ρετσίνας. Με το φρέσκο άρωμά της και τη δροσερή γεύση της, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε μοναδικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>85</Quantity>
+		<Quantity>79</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2505,7 +2505,7 @@ pH = 7,6
 		<MPN>0387</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
-		<Quantity>117</Quantity>
+		<Quantity>231</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2595,7 +2595,7 @@ pH = 7,6
 		<MPN>0606</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
-		<Quantity>21</Quantity>
+		<Quantity>61</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3399,7 +3399,7 @@ Ph: 3,55</Description>
 		<MPN>1154</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Λαμπερό υποκίτρινο χρώμα με πράσινες ανταύγειες. Σύνθετη αρωματική παλέτα όπου οι φυτικοί χαρακτήρες του σπαραγγιού και της πιπεριάς συνυπάρχουν με νότες ώριμων φρούτων (πεπόνι, ροδάκινο, ανανάς). Πλούσιο στη γεύση, διακρίνεται για τη δροσερή οξύτητα, τη λιπαρότητα, τη γευστική πολυπλοκότητα και την επίμονη, φρουτώδη επίγευση.</Description>
-		<Quantity>88</Quantity>
+		<Quantity>70</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5326,7 +5326,7 @@ Prosciutto και αλλαντικά
 		<MPN>0232</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
-		<Quantity>478</Quantity>
+		<Quantity>934</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7644,7 +7644,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1010</MPN>
 		<Description>Σερβιέτες με φτερά Sensitive with Cotton Normal από την εταιρεία Every Day, κατασκευασμένες από απορροφητικό υλικό ώστε να προσφέρουν ασφάλεια κατά τις δύσκολες μέρες της περιόδου. Χάρη στα φτερά που διαθέτουν, αποτρέπουν τη μετακίνηση της σερβιέτας και προστατεύουν από τυχόν διαρροές. Κατάλληλες για γυναικές με μέτρια ροή, για να προσφέρουν μεγαλύτερη άνεση και προστασία.</Description>
-		<Quantity>603</Quantity>
+		<Quantity>579</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7658,7 +7658,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1011</MPN>
 		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
-		<Quantity>255</Quantity>
+		<Quantity>231</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8702,7 +8702,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0979</MPN>
 		<Description>Ανδρικά ξυραφάκια μίας χρήσης Gillette Blue II Slalom Sensitive Skin. Διαθέτουν κινούμενη κεφαλή και μια καταπραϋντική λιπαντική ταινία για να σας παρέχει ένα απαλό και ακριβές ξύρισμα.</Description>
-		<Quantity>520</Quantity>
+		<Quantity>517</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9859,7 +9859,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<MPN>6551201-01</MPN>
 		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.
 Σε οικονομική συσκευασία 4τμχ.</Description>
-		<Quantity>1182</Quantity>
+		<Quantity>1180</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11043,7 +11043,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1078</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>397</Quantity>
+		<Quantity>394</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11071,7 +11071,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>540</Quantity>
+		<Quantity>537</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11315,7 +11315,7 @@ Powder Free: Ναι
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1086</MPN>
 		<Description>Γάντια καθαριότητας της εταιρίας Θαλασσινός, σε μέγεθος medium, χρήσιμα για την προστασία των χεριών σας, καθώς τα προστατεύουν κατά τη διάρκεια των καθαριστικών εργασιών. Είναι κατασκευασμένα από πλαστικό, ιδανικό για τις καθημερινές δουλειές του σπιτιού και της κουζίνας.</Description>
-		<Quantity>176</Quantity>
+		<Quantity>170</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11345,7 +11345,7 @@ Powder Free: Ναι
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.
 
 Με πιστοποίηση CE.</Description>
-		<Quantity>134</Quantity>
+		<Quantity>124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13320,7 +13320,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1749</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Lemon 40gr είναι ένας αποδοτικός καθαριστικός δίσκος για τη λεκάνη της τουαλέτας, που προσφέρει μακροχρόνια φρεσκάδα και καθαριότητα. Το άρωμα λεμόνι δημιουργεί μια ευχάριστη και φρέσκια ατμόσφαιρα, ενώ ταυτόχρονα προστατεύει από τα άλατα και τις ακαθαρσίες. Ιδανικό για καθημερινή χρήση και εύκολο στην τοποθέτηση.</Description>
-		<Quantity>81</Quantity>
+		<Quantity>75</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13334,7 +13334,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1750</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Oceanic 40gr είναι ένας αποδοτικός καθαριστικός δίσκος που προσφέρει ισχυρή προστασία κατά των αλάτων και των ακαθαρσιών, ενώ διατηρεί τη λεκάνη της τουαλέτας φρέσκια και καθαρή. Το άρωμα Oceanic δημιουργεί μια αίσθηση δροσιάς και καθαριότητας, ενώ η μακράς διάρκειας δράση του εξασφαλίζει καθαριότητα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση.</Description>
-		<Quantity>146</Quantity>
+		<Quantity>140</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13348,7 +13348,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1751</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Pine 40gr προσφέρει ισχυρή καθαριότητα και φρεσκάδα στη λεκάνη της τουαλέτας. Το άρωμα πεύκου δημιουργεί μια φυσική αίσθηση καθαριότητας και φρεσκάδας, ενώ ταυτόχρονα προστατεύει από τα άλατα και τις ακαθαρσίες. Ιδανικό για καθημερινή χρήση, εξασφαλίζοντας μακροχρόνια καθαριότητα και ευχάριστη ατμόσφαιρα στο μπάνιο.</Description>
-		<Quantity>183</Quantity>
+		<Quantity>177</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13362,7 +13362,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1752</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Bouquet 40gr προσφέρει άμεση και διαρκή καθαριότητα στη λεκάνη της τουαλέτας, ενώ το άρωμα bouquet γεμίζει το μπάνιο με ευχάριστες και λουλουδένιες νότες. Προστατεύει από τα άλατα και τις ακαθαρσίες, ενώ εξασφαλίζει φρεσκάδα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση, χαρίζοντας μακροχρόνια καθαριότητα και αρωματισμένο περιβάλλον.</Description>
-		<Quantity>119</Quantity>
+		<Quantity>113</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13516,7 +13516,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>KLINEX</Manufacturer>
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
-		<Quantity>3366</Quantity>
+		<Quantity>3364</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14492,7 +14492,7 @@ Super-απορροφητική.
     Κατάλληλο για Όλα τα Σκεύη
     Καθαρίζει τους Δύσκολους Λεκέδες
     Βάρος 17gr</Description>
-		<Quantity>6</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15305,7 +15305,7 @@ Super-απορροφητική.
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>Ε-0922</MPN>
 		<Description>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών με Μπαταρία και Διάσταση 6x9x15 εκ.</Description>
-		<Quantity>120</Quantity>
+		<Quantity>114</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15633,7 +15633,7 @@ Barcode: 5206753033363
 		<MPN>0158</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Εξαίρετο κάρβουνο από σκληρό ξύλο με μεγάλη διάρκεια. Είναι η ιδανική επιλογή για όσους εκτιμούν την παράδοση και επιθυμούν να προσθέσουν έναν παραδοσιακό χαρακτήρα στο ψήσιμό τους. Με τα παραδοσιακά ξυλοκάρβουνα, μπορείτε να δημιουργήσετε την τέλεια φλόγα και την ιδανική θερμοκρασία για να αναδείξετε τη γεύση των ψητών σας εδεσμάτων.</Description>
-		<Quantity>374</Quantity>
+		<Quantity>368</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15783,7 +15783,7 @@ Barcode: 5206753033363
 		<Manufacturer>ELEF</Manufacturer>
 		<MPN>0409</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεγάλου μεγέθους της εταιρείας Elef σε διάσταση 28x43cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
-		<Quantity>1101</Quantity>
+		<Quantity>1096</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15847,7 +15847,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
-		<Quantity>1398</Quantity>
+		<Quantity>1393</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21626,7 +21626,7 @@ Brand: Viosarp</Description>
     Με μεγάλη σταθερότητα
     Με προστατευτικά από καουτσούκ
     Διαστάσεις: 44 x 182 cm</Description>
-		<Quantity>47</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25033,7 +25033,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Τοποθετείται στο δάπεδο και εκτός του αποθηκευτικού χώρου που θα σας προσφέρει, θα προσθέσει κομψότητα στη διακόσμηση του μπάνιου σας.
 
 Κατασκευάζεται από πλαστικό, το οποίο αποτελεί μία πολύ πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι πολύ ανθεκτικό στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.</Description>
-		<Quantity>129</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29137,7 +29137,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 200ml.</Description>
-		<Quantity>755</Quantity>
+		<Quantity>745</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30126,7 +30126,7 @@ mini markets
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
-		<Quantity>188</Quantity>
+		<Quantity>186</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31485,7 +31485,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 Πλάτος ταινίας: 57 mm 
 Μήκος ταινίας: 15 m
 Βάρος: 48 gr/m²</Description>
-		<Quantity>4323</Quantity>
+		<Quantity>4321</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31505,7 +31505,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 Εξωτερική Διάμετρος: 50mm
 Πλάτος: 57mm
 Μήκος: 24m</Description>
-		<Quantity>2490</Quantity>
+		<Quantity>2492</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -40157,7 +40157,7 @@ VeganΌχι
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>1142</Quantity>
+		<Quantity>1137</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
