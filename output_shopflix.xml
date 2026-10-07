@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-07 16:44</created_at>
+	<created_at>2026-10-07 16:46</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -5220,6 +5220,7 @@ Prosciutto και αλλαντικά
 		<Description>Το Johnnie Walker Gold Label Reserve είναι αδιάψευστος μάρτυρας της τέχνης του Master Blender Johnnie Walker που παραμένει ζωντανή επί 190 συναπτά έτη. Το Johnnie Walker Gold Label Reserve δημιουργήθηκε γύρω από τον πυρήνα των single malt ουίσκι του Clynelish.
 
 Γλυκό, δελεαστικό άρωμα του μελιού - γίνεται characterful από λεπτές νότες από πιο ξυλώδεις νότες. Στρώματα ζωντανών και τροπικών φρούτων, με ξεχωριστή κρεμώδη γεύση βανίλιας</Description>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5243,6 +5244,7 @@ Prosciutto και αλλαντικά
 Άρωμα: Φρεσκοκομμένο γρασίδι, φρέσκα φρούτα, βαθιά βανίλια και διακριτικές νότες καπνού από ξύλο και σανταλόξυλο.
 Γεύση: Πλούσια και σύνθετη. Εξωτική φλούδα πορτοκαλιού, ροδάκινο κομπόστα και μαύρα φρούτα, που "δένουν" με το πιπέρι και τη θαλασσινή αύρα.
 Επίγευση: Μακρά και πικάντικη, με την κάπνα και τη γλυκύτητα της βελανιδιάς να παραμένουν στον ουρανίσκο.</Description>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5259,6 +5261,7 @@ Prosciutto και αλλαντικά
 
 Προέλευση: Σκωτία
 Αλκοόλ: 40%</Description>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
