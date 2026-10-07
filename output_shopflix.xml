@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-07 15:05</created_at>
+	<created_at>2026-10-07 16:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>228</Quantity>
+		<Quantity>664</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -232,7 +232,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>40</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>420</Quantity>
+		<Quantity>416</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>177</Quantity>
+		<Quantity>174</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>157</Quantity>
+		<Quantity>154</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>107</Quantity>
+		<Quantity>106</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1861</Quantity>
+		<Quantity>1855</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>693</Quantity>
+		<Quantity>687</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -929,7 +929,7 @@
 		<Manufacturer>Βίκος</Manufacturer>
 		<MPN>ΑΝ-13011</MPN>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>20</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -974,7 +974,7 @@
 		<MPN>0165</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>851</Quantity>
+		<Quantity>839</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -989,7 +989,7 @@
 		<MPN>0752</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
-		<Quantity>151</Quantity>
+		<Quantity>145</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1004,7 +1004,7 @@
 		<MPN>0036</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
-		<Quantity>51</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1019,7 +1019,7 @@
 		<MPN>0306</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
-		<Quantity>136</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>603</Quantity>
+		<Quantity>588</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1064,7 +1064,7 @@
 		<MPN>0699</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
-		<Quantity>135</Quantity>
+		<Quantity>132</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1079,7 +1079,7 @@
 		<MPN>0299</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικά με κύριο συστατικό το Φυσικό Μεταλλικό Νερό, από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ, αλλά και χυμούς από ελληνικά φρούτα, που δημιουργούν τα πιο ξεχωριστές γεύσεις του καλοκαιριού μας και υπόσχονται πραγματική απόλαυση χάρη στη μοναδική τους γεύση.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1094,7 +1094,7 @@
 		<MPN>0312</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
-		<Quantity>641</Quantity>
+		<Quantity>638</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1109,7 +1109,7 @@
 		<MPN>0300</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Τα μόνα αναψυκτικά με Φυσικό Μεταλλικό Νερό από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ.Με φυσικά γλυκαντικά από το φυτό στέβια.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>51</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1124,7 +1124,7 @@
 		<MPN>0476</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
-		<Quantity>194</Quantity>
+		<Quantity>191</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1355,7 +1355,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0977</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>767</Quantity>
+		<Quantity>740</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1385,7 +1385,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>2349</Quantity>
+		<Quantity>2214</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1475,7 +1475,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0310</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>364</Quantity>
+		<Quantity>352</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1505,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>642</Quantity>
+		<Quantity>558</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1535,7 +1535,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0035</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
-		<Quantity>332</Quantity>
+		<Quantity>320</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1765,7 +1765,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1044</Quantity>
+		<Quantity>904</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1927,7 +1927,7 @@ pH = 7,6
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
-		<Quantity>2808</Quantity>
+		<Quantity>2806</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2172,7 +2172,7 @@ pH = 7,6
 		<MPN>0989</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
-		<Quantity>1400</Quantity>
+		<Quantity>1394</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2187,7 +2187,7 @@ pH = 7,6
 		<MPN>0429</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
-		<Quantity>55</Quantity>
+		<Quantity>43</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2217,7 +2217,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>838</Quantity>
+		<Quantity>808</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2460,7 +2460,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>517</Quantity>
+		<Quantity>511</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2505,7 +2505,7 @@ pH = 7,6
 		<MPN>0387</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
-		<Quantity>198</Quantity>
+		<Quantity>192</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2520,7 +2520,7 @@ pH = 7,6
 		<MPN>0743</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>652</Quantity>
+		<Quantity>648</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5533,7 +5533,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>Cutty Sark</Manufacturer>
 		<MPN>167102</MPN>
 		<Description>Δημιουργήθηκε το 1923, φέρνοντας μια επανάσταση στην παράδοση των ουίσκι αφού είναι το πρώτο που φτιάχτηκε για να αναμειγνύεται, οδηγώντας τους barmen σε μια περιπέτεια ανακάλυψης νέων cocktails. Απλό και ισορροπημένο, το Cutty Sark είναι το τέλειο blended whisky για πριν το φαγητό. Ζωηρό με αρώματα βοτάνων και ξηρών φρούτων και καρπών. Ελαφρύ και δροσερό με νότες καραμέλας στην επίγευση.</Description>
-		<Quantity>76</Quantity>
+		<Quantity>75</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8750,7 +8750,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
     Με Λεπίδα Ακριβείας στο Πίσω Μέρος
     Με Λιπαντική Ταινία που Ξεθωριάζει
     Για Απαλό Ξύρισμα</Description>
-		<Quantity>82</Quantity>
+		<Quantity>81</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10953,7 +10953,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1074</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
-		<Quantity>47</Quantity>
+		<Quantity>42</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10967,7 +10967,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
-		<Quantity>92</Quantity>
+		<Quantity>82</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10995,7 +10995,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1077</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
-		<Quantity>30</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11012,7 +11012,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Description>Εξεταστικά αμφιδέξια γάντια νιτριλίου μιας χρήσης χωρίς πούδρα και μη αποστειρωμένα.
 
 Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί έχουν καλή εφαρμογή.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11043,7 +11043,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1078</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>394</Quantity>
+		<Quantity>389</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11057,7 +11057,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>538</Quantity>
+		<Quantity>533</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11071,7 +11071,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>537</Quantity>
+		<Quantity>532</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11287,7 +11287,7 @@ Powder Free: Ναι
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1084</MPN>
 		<Description>Γάντια πολυαιθυλενίου μιας χρήσης σε διάφανο χρώμα, τα οποία έχουν χαλαρή φόρμα για εύκολη εφαρμογή, είναι φιλικά προς το δέρμα και είναι ιδανικά κυρίως για χρήση σε εργασίες που απαιτούν συχνές αλλαγές γαντιών όπως η επαφή με μπογιές, χρώματα ή τρόφιμα.</Description>
-		<Quantity>1375</Quantity>
+		<Quantity>1355</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13056,7 +13056,7 @@ pH: Φιλικό προς το δέρμα
 Γεμίστε τη μονάδα αποσκλήρυνσης του πλυντηρίου σας σύμφωνα με τις οδηγίες του κατασκευαστή. 
 Για καλύτερα αποτελέσματα ελέγχετε συχνά το επίπεδο αλατιού ώστε να είναι πάντα γεμάτο.
 Συνίσταται ειδικά για περιοχές με σκληρό νερό. </Description>
-		<Quantity>515</Quantity>
+		<Quantity>509</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13098,7 +13098,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>TUBOFLO</Manufacturer>
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
-		<Quantity>3403</Quantity>
+		<Quantity>3373</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15076,7 +15076,7 @@ Super-απορροφητική.
 		<Manufacturer>Alfa</Manufacturer>
 		<MPN>1620001</MPN>
 		<Description>Λευκά Προσάναμμα κηροζίνης σε 48 κομμάτια για να ανάβετε εύκολα και γρήγορα τα κάρβουνα και τα ξύλα.</Description>
-		<Quantity>7182</Quantity>
+		<Quantity>7150</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24778,7 +24778,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Περιεχόμενα συσκευασίας:
 - 1 x Καλάθι πλυντηρίου
 - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
-		<Quantity>192</Quantity>
+		<Quantity>193</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25244,7 +25244,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Υλικό: Πλαστικό
 Χρώμα: Λευκό
 Μηχανισμός: Soft Close (φρένο αργού κλεισίματος)</Description>
-		<Quantity>38</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29766,7 +29766,7 @@ Brand: Sidirela
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1773</MPN>
 		<Description>Κουταλάκι γλυκού συσκευασμένο σε διάφανο πλαστικό 11cm επαναχρησιμοποιούμενο. Ιδανικό για παγωτό ή γλυκό. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
-		<Quantity>2196</Quantity>
+		<Quantity>2186</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29780,7 +29780,7 @@ Brand: Sidirela
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1774</MPN>
 		<Description>Κουτάλι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
-		<Quantity>1132</Quantity>
+		<Quantity>1122</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29794,7 +29794,7 @@ Brand: Sidirela
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1775</MPN>
 		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
-		<Quantity>675</Quantity>
+		<Quantity>665</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29867,7 +29867,7 @@ Brand: Sidirela
 		<MPN>1564</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>98</Quantity>
+		<Quantity>97</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32649,7 +32649,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
-		<Quantity>86</Quantity>
+		<Quantity>74</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32663,7 +32663,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
-		<Quantity>328</Quantity>
+		<Quantity>316</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32721,7 +32721,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Description>Αλκαλικές μπαταρίες Maxell AAA κατάλληλες για τηλεχειριστήρια, ρολόγια, φακούς, αριθμομηχανές κ.ά.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
-		<Quantity>1003</Quantity>
+		<Quantity>991</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32756,7 +32756,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>1776</MPN>
 		<Description>Αλκαλικές μπαταρίες ΑΑ της Maxell κατάλληλες για φακούς, παιχνίδια, τηλεχειριστήρια, αριθμομηχανές κι άλλες μικροσυσκευές.</Description>
-		<Quantity>433</Quantity>
+		<Quantity>421</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39072,7 +39072,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<MPN>1655</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Είναι μια φυσική και ακατέργαστη ζάχαρη, που παράγεται από το χυμό ζαχαροκάλαμου ή ζαχαρότευτλου. Διατηρεί τα θρεπτικά της στοιχεία και τη χαρακτηριστική της υγρασία, προσφέροντας πλούσια γεύση με ελαφρύ άρωμα καραμέλας. Ιδανική για γλυκά, ροφήματα ή ως γαρνιτούρα σε διάφορες συνταγές.</Description>
-		<Quantity>824</Quantity>
+		<Quantity>823</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
