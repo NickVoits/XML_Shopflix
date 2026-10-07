@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-07 16:05</created_at>
+	<created_at>2026-10-07 16:44</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>664</Quantity>
+		<Quantity>663</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>416</Quantity>
+		<Quantity>415</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>174</Quantity>
+		<Quantity>173</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1004,7 +1004,7 @@
 		<MPN>0036</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
-		<Quantity>45</Quantity>
+		<Quantity>42</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1019,7 +1019,7 @@
 		<MPN>0306</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
-		<Quantity>127</Quantity>
+		<Quantity>124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1064,7 +1064,7 @@
 		<MPN>0699</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
-		<Quantity>132</Quantity>
+		<Quantity>129</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1094,7 +1094,7 @@
 		<MPN>0312</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
-		<Quantity>638</Quantity>
+		<Quantity>635</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1216,36 +1216,6 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<Weight>2 kg</Weight>
 		<Description>Η souroti με το απαλό φυσικό άρωμα του λεμονιού-λάιμ συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την φρεσκάδα και την ασύγκριτη δροσιά των εσπεριδοειδών. Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία.Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
 		<Quantity>103</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>14124</SKU>
-		<EAN>5201277251347</EAN>
-		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Pink Grapefruit</Name>
-		<URL>https://www.skroutz.gr/s/46343301/Souroti-Anthrakoucho-Nero-me-Geysi-Pink-Grapefruit-6x0-33lt.html?product_id=204993897</URL>
-		<Image>https://souroti.gr/wp-content/uploads/2023/07/souroti-grapefruit-removebg-preview.png</Image>
-		<Price>4.326693722168222</Price>
-		<Category>Εμφιαλωμένα Νερά</Category>
-		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
-		<MPN>0264</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Ποτό από Ανθρακούχο φυσικό Μεταλλικό Νερό Σουρωτή με φυσικά αρώματα Pink Grapefruit. Χωρίς ζάχαρη και με λιγότερο από 1 θερμίδα ανά 100ml προϊόντος. Το νερό Σουρωτή συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού, με την αναζωογονητική γεύση των ροζ γκρεϊπφρουτ.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>14125</SKU>
-		<EAN>5201277250708</EAN>
-		<Name>Σουρωτή Ανθρακούχο Φυσικό Μεταλλικό Νερό 6τμχ x330ml σε Κουτί με Γεύση Μαστίχα</Name>
-		<URL>https://www.skroutz.gr/s/36774603/Souroti-Anthrakoucho-Nero-me-Geysi-Masticha-6x0-33lt.html?product_id=204993899</URL>
-		<Image>https://www.362grocery.com/api/Images/ProductImageList?ImageID=bf00751e-6778-40ec-bc1b-21e5b04a87e9</Image>
-		<Price>4.326693722168222</Price>
-		<Category>Εμφιαλωμένα Νερά</Category>
-		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
-		<MPN>0132</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Ποτό από Ανθρακούχο Φυσικό Μεταλλικό νερό Σουρωτή με φυσικά αρώματα Μαστίχα. Χωρίς ζάχαρη και με λιγότερο από 1 θερμίδα ανά 100ml προιόντος. Το νερό Σουρωτή συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την αναζωογονητική και ενυδατική γεύση της μαστίχας.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1434,36 +1404,6 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>17060</SKU>
-		<EAN>5202908000150</EAN>
-		<Name>Agros Χυμός Ρόδι 250ml</Name>
-		<URL>https://www.skroutz.gr/s/23812176/Agros-CHymos-Rodi-250ml.html?product_id=204993910</URL>
-		<Image>https://panora.gr/pub/media/catalog/product/cache/e661dd810c922a0d4384fc34046b950e/1/0/10789.jpg</Image>
-		<Price>0.489516</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0626</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
-		<Quantity>19</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>17062</SKU>
-		<EAN>5202908000174</EAN>
-		<Name>Agros Χυμός Πορτοκάλι / Μήλο / Βερίκοκο / Ροδάκινο 250ml</Name>
-		<URL>https://www.skroutz.gr/s/23812151/Agros-CHymos-Portokali-Milo-Verikoko-Rodakino-250ml.html?product_id=204993911</URL>
-		<Image>https://lianiki.mrpanda.gr/107712-large_default/agros-%CF%87%CF%85%CE%BC%CF%8C%CF%82-4-%CF%86%CF%81%CE%BF%CF%8D%CF%84%CE%B1-250ml.jpg</Image>
-		<Price>0.4528023</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0578</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>17071</SKU>
 		<EAN>5202908110019</EAN>
 		<Name>Agros Χυμός Πορτοκάλι 100% Φυσικός 1000ml</Name>
@@ -1475,7 +1415,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0310</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>352</Quantity>
+		<Quantity>340</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1445,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>558</Quantity>
+		<Quantity>546</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1539,21 +1479,6 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>17076</SKU>
-		<EAN>5202908101000</EAN>
-		<Name>Agros Χυμός Μήλο 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/27224039/Agros-CHymos-Milo-Milo-1000ml.html?product_id=204993916</URL>
-		<Image>https://captain-hellas.gr/media/catalog/product/cache/7f8f0dadd9024ab92d0921af5c41888f/P/a/Page_1009_1.jpg</Image>
-		<Price>1.3584069</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0788</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>17077</SKU>
 		<EAN>5202908001072</EAN>
 		<Name>Agros Φρουτοποτό Μπανάνα / Βύσσινο 1000ml</Name>
@@ -1584,81 +1509,6 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>17080</SKU>
-		<EAN>5202908000143</EAN>
-		<Name>Agros Χυμός Ρόδι 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/23812072/Agros-CHymos-Rodi-1000ml.html?product_id=204993917</URL>
-		<Image>https://imageproxy.wolt.com/menu/menu-images/64253711538dc3031d335d2d/c97f3a06-e439-11ed-97ba-c21da986045d_4519edb0_cf94_11ed_bc66_be0762469d7c_sok_market_88_photoroom.jpeg</Image>
-		<Price>1.3584069</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0424</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>17081</SKU>
-		<EAN>5202908100003</EAN>
-		<Name>Agros Χυμός Ανανά 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/29884041/Agros-CHymos-Anana-1000ml.html</URL>
-		<Image>https://grmarket.dk/wp-content/uploads/2023/07/Agros-juice-pineapple-ananas-greek-market-graesk-grmarket.dk_.webp</Image>
-		<Price>1.7622576</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0246</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Ένας φυσικός χυμός από την Agros με γεύση ανανά από συμπυκνωμένο χυμό.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>17083</SKU>
-		<EAN>5202908000099</EAN>
-		<Name>Agros Φρουτοποτό Λεμόνι 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/33065686/Agros-Froutopoto-Lemoni-1000ml.html</URL>
-		<Image>https://www.bioscoop.gr/wp-content/uploads//2020/08/5202908000099.jpg</Image>
-		<Price>1.101411</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0742</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Φρεσκάδα και αυθεντική γεύση λεμονιού σε κάθε γουλιά. Με φυσική γεύση και απαλό άρωμα, είναι ιδανικός για αναζωογόνηση και απόλαυση σε κάθε περίσταση.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>17084</SKU>
-		<EAN>5202908000273</EAN>
-		<Name>Agros Χυμός 4 Φρούτα Πορτοκάλι / Μήλο / Βερίκοκο / Ροδάκινο 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/29585006/Agros-CHymos-4-Frouta-Portokali-Milo-Verikoko-Rodakino-1000ml.html?product_id=204993921</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/029585/29585006/20210621111226_agros_chymos_4_frouta_1000ml.jpeg</Image>
-		<Price>1.3584069</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0972</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>17085</SKU>
-		<EAN>5202908000228</EAN>
-		<Name>Agros Φρουτοποτό Cranberry 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/29883966/Agros-Froutopoto-Cranberry-1000ml.html</URL>
-		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/a/g/agros-froutopoto-cranberry-1lt_eryucfo752ylj8ok.jpg</Image>
-		<Price>1.7622576</Price>
-		<Category>Χυμοί</Category>
-		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
-		<MPN>0726</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Φυσικός χυμός cranberry από συμπυκνωμένο φυσικό χυμό.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>18021</SKU>
 		<EAN>5201156030261</EAN>
 		<Name>Lipton Κουτί Ice Tea Λεμόνι Χωρίς Ανθρακικό 6x330ml</Name>
@@ -1685,50 +1535,6 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0654</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>18023</SKU>
-		<EAN>5201156030285</EAN>
-		<Name>Lipton Ice Tea Λεμόνι Χωρίς Ανθρακικό &amp; Ζάχαρη σε Κουτί 6x330ml</Name>
-		<URL>https://www.skroutz.gr/s/51773111/Lipton-Ice-Tea-Lemoni-CHoris-Anthrakiko-Zachari-se-Kouti-6x330ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/051773/51773111/xlarge_20250310161153_lipton_ice_tea_lemon_se_kouti_6x330ml.jpeg</Image>
-		<Price>3.96</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>LIPTON</Manufacturer>
-		<MPN>655</MPN>
-		<Description>Το Lipton Ice Tea Green Lemon είναι η πιο αναζωογονητική επιλογή. Προσφέρει μία καθημερινή, απολαυστική πρόταση πράσινου τσαγιού αναδίδοντας μια υπέροχη αίσθηση δροσιάς και αναζωογόνησης, στοιχεία απαραίτητα για τους δύσκολους ρυθμούς της σύγχρονης καθημερινότητας. Είναι δροσιστικό χωρίς ζάχαρη και θερμίδες.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>18301</SKU>
-		<EAN>5200128720049</EAN>
-		<Name>Yamas Ice Tea με Λεμόνι και Μέλι 355ml</Name>
-		<URL>https://www.skroutz.gr/s/54166622/Yamas-Ice-Tea-Lemoni-CHoris-Anthrakiko-Mpoukali-355ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/054166/54166622/20240605141902_yamas_ice_tea_lemoni_choris_anthrakiko_mpoukali_355ml.jpeg</Image>
-		<Price>1.84</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>YAMAS</Manufacturer>
-		<MPN>1237</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>18302</SKU>
-		<EAN>5200128720070</EAN>
-		<Name>Yamas Ice Black Tea με Ροδάκινο και Μέλι 355ml</Name>
-		<URL>https://www.skroutz.gr/s/54166623/Yamas-Ice-Tea-Rodakino-CHoris-Anthrakiko-Mpoukali-355ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/054166/54166623/20240605141904_yamas_ice_tea_rodakino_choris_anthrakiko_mpoukali_355ml.jpeg</Image>
-		<Price>1.84</Price>
-		<Category>Αναψυκτικά</Category>
-		<Manufacturer>YAMAS</Manufacturer>
-		<MPN>1238</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
@@ -1857,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1095</Quantity>
+		<Quantity>1093</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2187,7 +1993,7 @@ pH = 7,6
 		<MPN>0429</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
-		<Quantity>43</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2720,20 +2526,6 @@ pH = 7,6
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>57031</SKU>
-		<EAN>5201214100127</EAN>
-		<Name>Ζοίνος Ζίτσα Κρασί Ορεινές Διαδρομές Λευκό Ξηρό 187ml Chardonnay</Name>
-		<URL>https://www.skroutz.gr/s/21081822/Zitsa-Krasi-Oreines-Diadromes-Leyko-Xiro-187ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/021081/21081822/20191121165824_zitsa_oreines_diadromes_leyko_187ml.jpeg</Image>
-		<Price>1.529416</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
-		<MPN>1315</MPN>
-		<Description>Λαμπερό αχυρένιο χρώμα με πρασινωπές ανταύγειες . Μύτη κομψή με αρώματα εσπεριδοειδών και λευκού ροδάκινου. Στο στόμα πλούσιο και γεμάτο με τραγανή οξύτητα. Μεγάλη αρωματική διάρκεια.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>57032</SKU>
 		<EAN>5201214100431</EAN>
 		<Name>Ζοίνος Ζίτσα Κρασί Ορεινές Διαδρομές Ερυθρό Ημίγλυκο 187ml Αγιωργίτικο</Name>
@@ -2915,27 +2707,6 @@ Ph: 3,55</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>46001</SKU>
-		<EAN>5200101770054</EAN>
-		<Name>Κτήμα Αβαντίς Κρασί Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4746500/Ktima-Avantis-Krasi-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/004746/4746500/xlarge_20200413105843_ktima_avantis_sauvignon_blanc_leyko_750ml.jpeg</Image>
-		<Price>9.99</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
-		<MPN>1666001</MPN>
-		<Description>Οι αμπελώνες του Κτήματος βρίσκονται στην κεντρική Εύβοια, στην ημιορεινή περιοχή Αφράτι και στο χωριό Μύτικας. Το Αφράτι επηρεάζεται κλιματολογικά από το Όρος Δίρφη (1743 m). Οι αμπελώνες νότια της Δίρφης απολαμβάνουν τον κρύο άνεμο και την δροσιά που κατεβαίνει από το βουνό και τον βορρά. Ο κρύος χειμώνας, το ζεστό καλοκαίρι και το ξηρό φθινόπωρο βοηθούν την άριστη φαινολική ωρίμανση των σταφυλιών, τα οποία συνθέτουν ένα μοναδικό terroir.
-
-Π.Γ.Ε. Εύβοια
-
-    Sauvignon Βlanc 100%
-    Προζυμωτική κρυοεκχύλιση για την ανάδειξη των ποικιλιακών αρωμάτων
-    Ανάδευση των οινολασπών (battonage)
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>46004</SKU>
 		<EAN>5200101770030</EAN>
 		<Name>Κτήμα Αβαντίς Κρασί Syrah Ερυθρό Ξηρό 750ml</Name>
@@ -2955,7 +2726,7 @@ Ph: 3,55</Description>
 		<Name>Κτήμα Αβαντίς Άγιος Χρόνος Viognier Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/23160444/Ktima-Avantis-Krasi-Agios-CHronos-Viognier-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/023160/23160444/20211019161128_ktima_avantis_krasi_leyko_xiro_agios_chronos_750ml.jpeg</Image>
-		<Price>14.99</Price>
+		<Price>15.81</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616</MPN>
@@ -3019,7 +2790,7 @@ Ph: 3,55</Description>
 		<Name>Κατώγι Αβέρωφ Κρασί Chardonnay/Ροδίτης/Μοσχάτο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4713730/Katogi-Averof-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004713/4713730/xlarge_20211019154916_katogi_averof_leyko_750ml.jpeg</Image>
-		<Price>7.778943616924481</Price>
+		<Price>7.43</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΑΤΩΓΙ</Manufacturer>
 		<MPN>1640001</MPN>
@@ -3039,20 +2810,6 @@ Ph: 3,55</Description>
 		<MPN>1641</MPN>
 		<Description>Παλαίωση 12 μήνες σε γαλλικά  δρύινα βαρέλιαΓηγενής ποικιλία της Ηπείρου, με ευχάριστη οξύτητα, μαλακές τανίνες και αρωματικές νότες πιπεριών. Rossiu di Munte σημαίνει “κόκκινο του βουνού” στη τοπική βλάχικη διάλεκτο. Κρασί περιορισμένης κυκλοφορίας..Κρασί με διαυγές κόκκινο χρώμα και με εντυπωσιακό αρωματικό μπουκέτο, στο οποίο κυριαρχούν οι νότες φρεσκοτριμένου πιπεριού. Έχει καλή οξύτητα και στρογγυλές μαλακές ταννίνες που σβήνουν ήρεμα στον ουρανίσκο. Ελαφρύ και αρμονικό, διακρίνεται για την πιπεράτη επίγευσή του.</Description>
 		<Quantity>4</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>46150101</SKU>
-		<EAN>5200323012703</EAN>
-		<Name>Κτήμα Αργυρού Κρασί Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4747674/Ktima-Argyrou-Krasi-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004747/4747674/xlarge_20200204124856_ktima_argyrou_asyrtiko_leyko_750ml.jpeg</Image>
-		<Price>37.021043696</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΑΡΓΥΡΟΥ</Manufacturer>
-		<MPN>1642101</MPN>
-		<Description>Το Ασύρτικο είναι η κληρονομιά μας. Αυτή η ξεχωριστή ποικιλία κυριαρχεί στους αμπελώνες του κτήματος Αργυρού και συνδυάζει αρμονικά φινέτσα και ορυκτότητα. Η οινοποίηση γίνεται σε ανοξείδωτες δεξαμενές, δημιουργώντας ένα κρασί που αντανακλά τον πιο αυθεντικό χαρακτήρα της ποικιλίας. Κρασί με κρυστάλλινο κίτρινο διαυγές χρώμα, με σύνθετα αρώματα εσπεριδοειδών, λεμονανθού και πέτρας. Καλό σώμα, τραγανό, με έντονη και μακριά επίγευση. Σερβίρεται στους 8-10°C και συνοδεύει ψάρια, θαλασσινά, sushi και λαχανικά. Μπορεί να παλαιώσει για 5 με 8 χρόνια.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3294,40 +3051,6 @@ Ph: 3,55</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>46308</SKU>
-		<EAN>5204222575161</EAN>
-		<Name>Κτήμα Γεροβασιλείου Κρασί Ξινόμαυρο Ροζέ Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/16442884/Ktima-Gerovasileiou-Krasi-Xinomayro-Roze-Xiro-750ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/016442/16442884/xlarge_20211102142933_ktima_gerovasileiou_krasi_roze_xiro_xinomayro_750ml.jpeg</Image>
-		<Price>15.3359876923008</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
-		<MPN>46308-01</MPN>
-		<Description>Ροζέ κρασί από 100% ξινόμαυρο το οποίο παραμένει με τις οινολάσπες του για μερικούς μήνες, κερδίζοντας σε δομή και σώμα. Έχει απαλό ροζ- σομόν χρώμα και έντονο αρωματικό χαρακτήρα με αρώματα εσπεριδοειδών, φρούτων του δάσους, κερασιού και φράουλας. 
-
-Στο στόμα είναι πλούσιο με νότες από κόκκινα φρούτα σε συνδυασμό με ελαφριές νότες από ραβέντι. Έχει καλή οξύτητα και ισορροπία, αλλά και μία έντονα αρωματική επίγευση από βύσσινο και κεράσι. 
-
-Σερβίρεται ώστε να συνοδέψει αστακομακαρανόδα, γαρίδες σαγανάκι με ντομάτα, ζυμαρικά με κιμά, λαδερά, καλοκαιρινές μεσογειακές και εξωτικές γεύσεις.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>46340101</SKU>
-		<EAN>5204734000090</EAN>
-		<Name>Δουλουφάκης Κρασί Άσπρος Λαγός Βιδιανό Λευκό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4724951/Douloufakis-Krasi-Aspros-Lagos-Vidiano-Leyko-Xiro-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004724/4724951/xlarge_20211102192507_douloufakis_aspros_lagos_leykos_750ml.jpeg</Image>
-		<Price>15.6068108658</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Δουλουφάκης</Manufacturer>
-		<MPN>1684002</MPN>
-		<Description>Λευκός οίνος ο οποίος παράγεται από την κρητική ποικιλία Βιδιανό, φυτεμένη στον αμπελώνα "Άσπρος Λαγός". Η παραγωγή του γίνεται αποκλειστικά με την ποικιλία σταφυλιού Βιδιανό, στις Δαφνές του Ηρακλείου Κρήτης, σε υψόμετρο 350 μέτρων. 
-
-Κλασσική λευκή οινοποίηση στους 20°C, με ζύμωση που γίνεται σε βαρέλι, ωριμάζει σε καινούργια και δεύτερης χρήσης βαρέλια για πέντε μήνες και έχει δυναμικό παλαίωσης 7 χρόνια. Έχει χρυσαφί χρώμα, με κιτρινοπράσινες ανταύγειες και αρώματα λευκών λουλουδιών και εσπεριδοειδών. Πλούσια γεύση με ένα πυκνό χαρακτήρα βερίκοκου, μια νότα ορυκτών και επίγευση μακράς διαρκείας.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>46350101</SKU>
 		<EAN>5200107840072</EAN>
 		<Name>Κτήμα Δύο Ύψη Κρασί Dialogos Ασύρτικο/Κυδωνίτσα Λευκό Ξηρό 750ml</Name>
@@ -3450,31 +3173,6 @@ Ph: 3,55</Description>
 
 Ταιριάζει άψογα με αρνί στο φούρνο ή στη σούβλα, μαγειρευτά κρέατα κατσαρόλας, ψαρονέφρι με σάλτσα από μανιτάρια και κόκκινο κρασί.</Description>
 		<Quantity>3</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47017</SKU>
-		<EAN>5200372900136</EAN>
-		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Pink Pull Sangiovese Ροζέ Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/23180661/Ktima-Karipidi-Viologiko-Krasi-Pink-Pull-Sangiovese-Roze-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/023180/23180661/xlarge_20200825132506_ktima_karipidi_pink_pull_roze_750ml.jpeg</Image>
-		<Price>10.19</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
-		<MPN>166802</MPN>
-		<Description>Ένα ελκυστικό ανοιχτόχρωμο ροζ από την ιταλική ποικιλία Sangiovese. Αρώματα κυδωνόπαστας, λίτσι, και φλούδας πορτοκαλιού κυριαρχούν στη μύτη. Ο αρωματικός χαρακτήρας μύτης ακολουθεί το στόμα που είναι λιπαρό με ισορροπημένη οξύτητα. Έχει δροσερό τελείωμα. Ταιριάζει με γεμιστά, ζυμαρικά με κιμά, μανιτάρια σοτέ και κίτρινα τυριά.
-Χαρακτηριστικά
-
-    Παραγωγός: Κτήμα Καριπίδη
-    Χρώμα: Ροζέ
-    Περιεχόμενο: 750ml
-    Χώρα προέλευσης: Ελλάδα
-    Γλυκύτητα: Ξηρός
-    Κατάσταση: Ήσυχος
-    Βιολογική καλιέργεια: Ναι
-    Αλκοόλ: 13%
-    Ποικιλιακή σύνθεση: Sangioves</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3627,50 +3325,6 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>47083103</SKU>
-		<EAN>5205243323144</EAN>
-		<Name>Κτήμα ΑΛΦΑ Κρασί Fumé Sauvignon Blanc Λευκό Ξηρό Αμυνταίου 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4707585/Ktima-ALFA-Krasi-Fume-Sauvignon-Blanc-Leyko-Xiro-Amyntaiou-750ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707585/xlarge_20220524145913_ktima_alfa_krasi_fum_sauvignon_blanc_leyko_xiro_750ml.jpeg</Image>
-		<Price>19.19916309676596</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
-		<MPN>132703</MPN>
-		<Description>Ξηρό κρασί Sauvignon Blanc Fumé με κρυστάλλινο υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες. Μύτη έντονη με αρώματα εσπεριδοειδών, φρούτων του πάθους και με γλυκιά χροιά πεπονιού στο τέλος σε φόντο βανίλιας. Στο στόμα είναι ιδιαίτερα γεμάτο, ηδύ, λιπαρό, με ισορροπία και μακράς διάρκειας επίγευση.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47083104</SKU>
-		<EAN>5205243320037</EAN>
-		<Name>Κτήμα ΑΛΦΑ Κρασί Ασύρτικο Λευκό Ξηρό Αμυνταίου 750ml</Name>
-		<URL>https://www.skroutz.gr/s/16939453/Ktima-ALFA-Krasi-Asyrtiko-Leyko-Xiro-Amyntaiou-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/016939/16939453/xlarge_20211018155951_ktima_alfa_krasi_leyko_xiro_asyrtiko_750ml.jpeg</Image>
-		<Price>19.19916309676596</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
-		<MPN>132704</MPN>
-		<Description>Ξηρό κρασί ασύρτικο με αρώματα εσπεριδοειδών, φλούδας πορτοκαλιού, κίτρινου μήλου, άσπρων λουλουδιών και τσακμακόπετρας που συνδυάζονται με αρώματα μελιού και κυρήθρας. Ισορροπημένο στο στόμα με ευχάριστη επίγευση. Η λιπαρότητα και η οξύτητα συντελούν στη διάρκεια των αρωμάτων και της επίγευσης.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47083105</SKU>
-		<EAN>5205243321690</EAN>
-		<Name>Κτήμα ΑΛΦΑ Κρασί Reserve Ξινόμαυρο Ερυθρό Ξηρό Αμυνταίου 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4707584/Ktima-ALFA-Krasi-Reserve-Xinomayro-Erythro-Xiro-Amyntaiou-750ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707584/xlarge_20211019160013_ktima_alfa_krasi_erythro_xiro_reserve_750ml.jpeg</Image>
-		<Price>20.40777914310521</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
-		<MPN>132705</MPN>
-		<Description>Το ξινόμαυρο Reserve κρασί του κτήματος Άλφα έχει λαμπερό ρουμπινί χρώμα με έντονα ερυθρές ανταύγειες. Έχει πλούσια χαρακτηριστικά αρώματα μπαχαρικών, αποξηραμένου δαμάσκηνου και ντομάτας. Η 24μηνη παλαίωση σε γαλλικά δρύινα βαρέλια σε συνδυασμό με τη δωδεκάμηνη αναγωγική παλαίωση στη φιάλη δίνουν μια εξαιρετική υφή στις τανίνες, όπου μαζί με την οξύτητα θα σπάσουν τη λιπαρότητα του κρέατος. Το αποτέλεσμα είναι μια γεμάτη και βελούδινη αίσθηση στο στόμα μας που πραγματικά αγγίζει την τελειότητα.
-
-Συνδυάζεται με πλούσια κρέατα ψητά ή μαγειρεμένα σε πλούσια σάλτσα ντομάτας. Ψητά λουκάνικα, κρεατόπιτες και ώριμα τυριά λιπαρά, ελαφρώς πικάντικα.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>47092</SKU>
 		<EAN>5203888160100</EAN>
 		<Name>Κυρ Γιάννη Κρασί Παράγκα Ροδίτης Λευκό Ξηρό 750ml</Name>
@@ -3741,28 +3395,12 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>4709905</SKU>
-		<EAN>5203888220552</EAN>
-		<Name>Κυρ Γιάννη Κρασί The Fallen Oak Merlot/Syrah/Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/21375718/Kyr-Gianni-Krasi-The-Fallen-Oak-Erythro-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/021375/21375718/xlarge_20211018112529_kyr_gianni_krasi_erythro_xiro_the_fallen_oak_750ml.jpeg</Image>
-		<Price>11.96963785248</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
-		<MPN>1334001</MPN>
-		<Description>Ερυθρό, ξηρό κρασί με πλούσιο και γεμάτο σώμα, με δυναμικές αλλά απαλές τανίνες και κόκκινο βαθύ στην όψη χρώμα, με μπλε ανταύγειες. Έχει αρώματα κόκκινων μικρών φρούτων, φραγκοστάφυλου και νότες βανίλιας και καφέ.
-
-Το στόμα ακολουθεί αρωματικά, με φρούτα, διακριτική οξύτητα και στρόγγυλές τανίνες,σε αρμονία των τριών ποικιλιών, που το καθιστούν ως ένα ευκολόπιοτο και αρωματικό κρασί.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>4709906</SKU>
 		<EAN>5203888184021</EAN>
 		<Name>Κυρ Γιάννη Κρασί Ράμνιστα Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705911/Kyr-Gianni-Krasi-Ramnista-Xinomayro-Erythro-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004705/4705911/xlarge_20211018160808_kyr_gianni_krasi_erythro_xiro_ramnista_750ml.jpeg</Image>
-		<Price>16.29</Price>
+		<Price>15.99</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1334002</MPN>
@@ -3771,28 +3409,12 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>4709907</SKU>
-		<EAN>5203888140041</EAN>
-		<Name>Κυρ Γιάννη Κρασί Δύο Ελιές Merlot/Syrah/Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4706255/Kyr-Gianni-Krasi-Dyo-Elies-Erythro-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/004706/4706255/xlarge_20211018141721_kyr_gianni_krasi_erythro_xiro_dyo_elies_750ml.jpeg</Image>
-		<Price>16.3222334352</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
-		<MPN>1334003</MPN>
-		<Description>Ερυθρό κρασί του κτήματος Κυρ Γιάννη με αρωματικό χαρακτήρα και συνδυασμό από νότες καπνού, βανίλιας και καραμέλας. Έχει πικάντικη επίγευση, στην οποία ξεχωρίζουν τα κόκκινα φρούτα και η σοκολάτα.
-
-Συνοδεύει κόκκινο κρέας και φαγητά έντονα σε γεύση και με πλούσια υφή.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>4709908</SKU>
 		<EAN>5203888150989</EAN>
 		<Name>Κυρ Γιάννη Κρασί Διάπορος Ξινόμαυρο/Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707557/Kyr-Gianni-Krasi-Diaporos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707557/xlarge_20211019154243_kyr_gianni_krasi_erythro_xiro_diaporos_750ml.jpeg</Image>
-		<Price>33.99</Price>
+		<Price>33.49</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1334004</MPN>
@@ -4046,49 +3668,6 @@ pH: 3.45
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>47106122</SKU>
-		<EAN>5203708130085</EAN>
-		<Name>Nico Lazaridi Κρασί Το Μαύρο Πρόβατο Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4712406/Nico-Lazaridi-Krasi-To-Mayro-Provato-Erythro-Xiro-750ml.html</URL>
-		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2020/04/%CE%9C%CE%A0-%CE%95-2022.png</Image>
-		<Price>11.65223815</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Nico Lazaridi</Manufacturer>
-		<MPN>1527006</MPN>
-		<Description>Το Μαύρο Πρόβατο, ένα όνομα εκκεντρικό για ένα προϊόν που τονίζει τη διαφορετικότητα και την ιδιαιτερότητα του. Η νεοκοσμήτικη φιλοσοφία του διαφαίνεται τόσο από το βιδωτό του πώμα,την trendy εμφάνισή του αλλά και την φρεσκάδα που το χαρακτηρίζει. Παράγεται στο Οινοποιείο Μακεδών στον Πλατανότοπο Καβάλας ενώ οι αμπελώνες βρίσκονται σε μικρή απόσταση από το οινοποιείο.
-
-Για το Μαύρο Πρόβατο ερυθρό επιλέξαμε τις ποικιλίες Syrah και Merlot, των οποίων η καλλιέργεια στους πρόποδες του Παγγαίου όρους έχει φέρει πολύ καλά αποτελέσματα.
-
-    Ποικιλίες: 60% Syrah, 40% Merlot.
-    Αμπελώνες: Πρόποδες Παγγαίου Όρους.
-    Οινοποίηση – Ωρίμανση: Kλασσική οινοποίηση ερυθρού οίνου με παραμονή 4-6 μήνες σε κομμάτια ξύλου δρυός.
-    Οινολογικές Αναλύσεις: Αλκοολικός Τίτλος: 14,5%, Ολική Οξύτητα: 5,25g/l, Ανάγοντα Σάκχαρα: 2,5 g/l, pH: 3,58 
-
-Τύπος: Οίνος Ερυθρός Ξηρός.
-
-Κατηγορία: Προστατευόμενη Γεωγραφική Ένδειξη Παγγαίο.
-
-Ποικιλίες: 60% Syrah, 40% Merlot.
-
-Αμπελώνες: Πρόποδες Παγγαίου Όρους.
-
-Οινοποίηση – Ωρίμαση: Kλασσική οινοποίηση ερυθρού οίνου με παραμονή 4-6 μήνες σε κομμάτια ξύλου δρυός.
-
-Οινολογικές Αναλύσεις:
-Αλκοολικός Τίτλος: 12,5%
-Ολική Οξύτητα: 5,75g/l
-Ανάγοντα Σάκχαρα:  2.3g/l
-
-Οργανοληπτικά Χαρακτηριστικά: Ζωηρό ρουμπινί χρώμα με μωβ ανταύγειες. Έντονα αρώματα ώριμων κόκκινων φρούτων, δαμάσκηνου και νότες πιπεριού. Βελούδινο στόμα, με μαλακές τανίνες και μια αρωματική, φρουτώδη επίγευση.
-
-Φύλαξη – Παλαίωση: Πίνεται ευχάριστα για τα επόμενα 5 χρόνια από τον τρύγο.
-
-Γευστικό ταίριασμα: Σερβίρεται στους 16-18°C, συνοδεύοντας κόκκινα κρέατα, πικάντικα τυριά και πράσινες δροσερές σαλάτες.
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>47106123</SKU>
 		<EAN>5203708130108</EAN>
 		<Name>Nico Lazaridi Κρασί Ρήγας Κούπα Ερυθρό Syrah/Merlot Ξηρό 750ml</Name>
@@ -4170,28 +3749,6 @@ pH: 3.45
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<Quantity>445</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47291101</SKU>
-		<EAN>5214002108014</EAN>
-		<Name>Navitas Winery Κρασί Terre De Zeus Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/29112239/Navitas-Winery-Krasi-Terre-De-Zeus-Malagouzia-Leyko-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/029112/29112239/xlarge_20210526131350_navitas_winery_krasi_leyko_xiro_terre_de_zeus_malagouzia_750ml.jpeg</Image>
-		<Price>15.09052235625</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Navitas Winery</Manufacturer>
-		<MPN>1790</MPN>
-		<Description>Το λευκό κρασί της ετικέτας Navitas Winery είναι ξηρό και αρωματικό με νότες από λευκά άνθη (γιασεμί, άνθη εσπεριδοειδών), ώριμα πυρηνόκαρπα (ροδάκινο, βερύκοκο) και εσπεριδοειδή (λάιμ, γκρέιπφρουτ, λεμόνι). Η Μαλαγουζιά έχει έντονο αρωματικό χαρακτήρα και ιδιαίτερη λιπαρή υφή.
-
-Είναι ιδανική για συνδυασμούς με:
-
-    Τρυφερά μαλάκια όπως η σουπιά και το καλαμάρι, ψητά ή σωτέ.
-    Πράσινες σαλάτες.
-    Ζυμαρικά με ελαφριές σάλτσες λαχανικών ή πέστο.
-
-Αν συνοδευτεί από αρωματική σάλτσα με βάση τα εσπεριδοειδή και τα βότανα, ο συνδυασμός γίνεται ιδανικός.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4467,30 +4024,12 @@ pH: 3.45
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>47761103</SKU>
-		<EAN>837048004727</EAN>
-		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Cabernet Sauvignon/Merlot/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4765594/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Erythro-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/004765/4765594/xlarge_20210311132413_ktima_techni_oinou_techni_alypias_erythro_750ml.jpeg</Image>
-		<Price>15.16825629</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Κτήμα Τέχνη Οίνου</Manufacturer>
-		<MPN>1789002</MPN>
-		<Description>Τέχνη Αλυπίας ερυθρός, με σταφύλια Cabernet Sauvignon, Αγιωργίτικο και Merlot σε μια ποικιλιακή σύνθεση του κρασιού όπου οινοποιούνται ξεχωριστά και το χαρμάνι ωριμάζει τουλάχιστον έναν χρόνο σε δρύινα βαρέλια γαλλικής προέλευσης.
-
-Παράγεται με την κλασσική ερυθρή οινοποίηση. Το κρασί έχει σκούρο πορφυρό χρώμα. Στο πολύπλοκο και όμορφα εξελιγμένο μπουκέτο κυριαρχούν τα κεράσια και τα δαμάσκηνα, μετά εμφανίζεται η βανίλια, το πιπέρι. Στο στόμα είναι πλούσιο, μεστό και σαρκώδες, με τανίνες μαλακωμένες και καλή δομή. 
-
-Ένα κρασί με γοητευτικό χαρακτήρα που προτείνεται για μακρόχρονη παλαίωση.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>47762121</SKU>
 		<EAN>5200101710708</EAN>
 		<Name>Μικρό Κτήμα Τίτου Κρασί Γουμένισσα Ξινόμαυρο/Νεγκόσκα Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/31773118/Ktima-Vivlia-CHora-Krasi-Goumenissa-Mikro-Ktima-Titou-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/031773/31773118/xlarge_20211018161819_ktima_vivlia_chora_krasi_goumenissa_mikro_ktima_titou_erythro_xiro_750ml.jpeg</Image>
-		<Price>13.58503762</Price>
+		<Price>12.35</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Βιβλία Χώρα</Manufacturer>
 		<MPN>1791</MPN>
@@ -4504,7 +4043,7 @@ pH: 3.45
 		<Name>Τσιλιλής Κρασί Ασκητικός Chardonnay/Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774782/Tsililis-Krasi-Askitikos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774782/20200316163151_tsililis_askitikos_leyko_750ml.jpeg</Image>
-		<Price>6.8</Price>
+		<Price>5.91</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1336</MPN>
@@ -4518,7 +4057,7 @@ pH: 3.45
 		<Name>Τσιλιλής Κρασί Ασκητικός Cabernet Sauvignon/Merlot/Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774788/Tsililis-Krasi-Askitikos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004774/4774788/20200314141442_tsililis_askitikos_erythro_750ml.jpeg</Image>
-		<Price>7.5</Price>
+		<Price>6.52</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1337</MPN>
@@ -4546,7 +4085,7 @@ pH: 3.45
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Λημνιώνα Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774738/Tsililis-Viologiko-Krasi-Theopetra-Estate-Limniona-Erythro-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774738/20200314141120_tsililis_ktima_theopetra_limniona_erythro_750ml.jpeg</Image>
-		<Price>16.64</Price>
+		<Price>15.85</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339</MPN>
@@ -4560,7 +4099,7 @@ pH: 3.45
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Syrah/Λημνιώνα Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4774768/Tsililis-Viologiko-Krasi-Theopetra-Estate-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774768/xlarge_20200314141219_tsililis_ktima_theopetra_750ml.jpeg</Image>
-		<Price>11.44</Price>
+		<Price>9.95</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339002</MPN>
@@ -4574,7 +4113,7 @@ pH: 3.45
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Ξινόμαυρο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18928621/Tsililis-Viologiko-Krasi-Theopetra-Estate-Xinomayro-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/018928/18928621/xlarge_20200804102238_tsililis_theopetra_xinomayro_roze_750ml.jpeg</Image>
-		<Price>12.21</Price>
+		<Price>11.63</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339001</MPN>
@@ -4657,7 +4196,7 @@ pH: 3.45
 		<Name>Chateau Miraval Κρασί Côtes de Provence Cinsaut/Grenache Rouge/Syrah Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7248450/Chateau-Miraval-Krasi-Cotes-de-Provence-Roze-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/059324/59324422/xlarge_20220421175004_b1bf32a2.jpeg</Image>
-		<Price>19.10677560000001</Price>
+		<Price>16.49</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Chateau Miraval</Manufacturer>
 		<MPN>180001</MPN>
@@ -4673,7 +4212,7 @@ pH: 3.45
 		<Name>Chateau Motte Maucourt Κρασί Cabernet Sauvignon/Merlot Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/15058781/Chateau-Motte-Maucourt-Krasi-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/015058/15058781/xlarge_20211018104559_chateau_motte_maucourt_palaiosi_vareli_2014_erythro_750ml.jpeg</Image>
-		<Price>13.978446238848</Price>
+		<Price>12.73</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Chateau Motte Maucourt</Manufacturer>
 		<MPN>48004-01</MPN>
@@ -4694,7 +4233,7 @@ pH: 3.45
 		<Name>Divin Origine Λευκό Ξηρό Χωρίς Αλκοόλ 750ml Sauvignon Blanc</Name>
 		<URL>https://www.divinnolow.com/products/divin-sauvignon-blush-blanc-0-0/</URL>
 		<Image>https://www.bonnebouffe.co.uk/wp-content/uploads/2025/05/852bba6f-ff31-4574-8a76-bf3739c0348e.png</Image>
-		<Price>11.9943685092</Price>
+		<Price>10.56</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Divin  </Manufacturer>
 		<MPN>4801001-01</MPN>
@@ -4708,7 +4247,7 @@ pH: 3.45
 		<Name>Divin Origine Ροζέ Ξηρό Χωρίς Αλκοόλ 750ml Blend</Name>
 		<URL>https://www.divinnolow.com/products/divin-rose-0-0/</URL>
 		<Image>https://cdn11.bigcommerce.com/s-oyi93ews/images/stencil/original/products/19234/14965/2024-08-19-15.11.20__35097.1724175089.png?c=2</Image>
-		<Price>11.9943685092</Price>
+		<Price>10.56</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Divin  </Manufacturer>
 		<MPN>4801002-01</MPN>
@@ -4883,22 +4422,6 @@ Prosciutto και αλλαντικά
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>58031</SKU>
-		<EAN>3185370000335</EAN>
-		<Name>Σαμπάνια Moet &amp; Chandon Imperial Brut Ξηρή Λευκή 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4709792/Moet-Chandon-Sampania-Imperial-Brut-Xiri-Leyki-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_images/086516/86516583/xlarge_20231213172050_f50c01d1.jpeg</Image>
-		<Price>40.99</Price>
-		<Category>Σαμπάνιες</Category>
-		<Manufacturer>Moet &amp; Chandon</Manufacturer>
-		<MPN>ΚΡ-58031</MPN>
-		<Description>Ποικιλιακή σύνθεση: Chardonnay, Pinot Meunier, Pinot Noir
-Περιοχή: Γαλλία
-Γευστικά χαρακτηριστικά: Χρώμα χρυσοκίτρινο με αρώματα ζωηρά από κίτρο και πράσινο μήλο. Φρέσκια γεύση με νότες από ξηρούς καρπούς και λευκόσαρκα φρούτα όπως ροδάκινο, αχλάδι και αλλά και κίτρο</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>58104</SKU>
 		<EAN>8052190350061</EAN>
 		<Name>Marco Bianco Leggenda Moscato D'Asti Λευκό Ημίγλυκο Ημιαφρώδες 750ml</Name>
@@ -4911,21 +4434,6 @@ Prosciutto και αλλαντικά
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
 		<Quantity>240</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>58108</SKU>
-		<EAN>8000570552505</EAN>
-		<Name>Martini Prosecco Λευκό Ξηρό Αφρώδες 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4809453/Martini-Krasi-Prosecco-Leyko-Xiro-D-Asti-Afrodes-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004809/4809453/20200314140937_martini_spumante_prosecco_leyko_750ml.jpeg</Image>
-		<Price>9.0779715675</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>MARTINI</Manufacturer>
-		<MPN>1166</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Prosecco είναι ένα αφρώδες κρασί που παράγεται στην περιοχή Βένετο της Ιταλίας γύρω από την πόλη του Τρεβίζο περίπου 15 μίλια (24 χιλιόμετρα) βόρεια της Βενετίας. Φτιάχνεται με σταφύλια Prosecco (γνωστά και ως Glera). Παράγεται χρησιμοποιώντας μια οικονομική μέθοδο που ονομάζεται «Μέθοδος Δεξαμενής» (‘Tank Method’).</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5021,26 +4529,12 @@ Prosciutto και αλλαντικά
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>51501</SKU>
-		<EAN>5201319103047</EAN>
-		<Name>Ούζο Βαρβαγιάννη 46% Μπλε 200ml </Name>
-		<URL>https://www.skroutz.gr/s/5269425/Varvagianni-Ouzo-46-200ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/005269/5269425/xlarge_20210210125255_varvagianni_ouzo_mple_200ml.jpeg</Image>
-		<Price>3.98</Price>
-		<Category>ΟΥΖΑ</Category>
-		<Manufacturer>Βαρβαγιάννη</Manufacturer>
-		<MPN>1421103</MPN>
-		<Description>Το γλυκό άρωμα του γλυκάνισου και των βοτάνων δίνουν στο κλασικό ούζο Βαρβαγιάννη Μπλε ευχάριστη και απαλή γεύση. Πέντε γενιές της οικογένειας Βαρβαγιάννη δημιουργούν με αγάπη και γνώση, το κλασικό ούζο Μπλε, με σεβασμό στην παράδοση που απαιτεί την 100% απόσταξη του ούζου και με την οικογενειακή συνταγή που έφερε ο Ευστάθιος Βαρβαγιάννης το 1860 από τη Ρωσία. Γνήσιο απόσταγμα γλυκάνισου και αρωματικών φυτών, που παράγεται στους 46% Vol. με το μοναδικό νερό του Πλωμαρίου. Το φημισμένο και αγνό Ούζο Βαρβαγιάννη Μπλε έχει ευχάριστο άρωμα, διάφανο χρώμα και απαλή γεύση που χαρίζει στον ουρανίσκο αισθήσεις από ανοιξιάτικη αύρα και ηλιόλουστη θάλασσα.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>520100102</SKU>
 		<EAN>5200106350725</EAN>
 		<Name>Καρδάση Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/19999037/Kardasi-Tyrnavou-Tsipouro-me-Glykaniso-42-100ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/019999/19999037/xlarge_20210210124802_kardasi_tyrnavou_me_glykaniso_tsipouro_100ml.jpeg</Image>
-		<Price>2.34</Price>
+		<Price>2.53</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Καρδάση</Manufacturer>
 		<MPN>520100-102</MPN>
@@ -5054,7 +4548,7 @@ Prosciutto και αλλαντικά
 		<Name>Καρδάση Τσίπουρο Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<URL>https://www.skroutz.gr/s/19999057/Kardasi-Tyrnavou-Tsipouro-choris-Glykaniso-40-100ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/019999/19999057/xlarge_20210210124802_kardasi_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image>
-		<Price>2.29</Price>
+		<Price>2.48</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Καρδάση</Manufacturer>
 		<MPN>520100-112</MPN>
@@ -5455,7 +4949,7 @@ Prosciutto και αλλαντικά
 		<Name>Μπαμπατζίμ Τσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<URL>https://www.skroutz.gr/s/5265223/Mpampatzim-Me-glykaniso-Tsipouro-200ml.html</URL>
 		<Image>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%BC%CF%80%CE%B1%CE%BC%CF%80%CE%B1%CF%84%CE%B6%CE%B9%CE%BC-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-200-premium.jpg</Image>
-		<Price>4.333394720725</Price>
+		<Price>3.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
 		<MPN>0981</MPN>
@@ -5645,7 +5139,7 @@ Prosciutto και αλλαντικά
 		<Name>Bushmills Ουίσκι Ιρλανδίας Blended Original 5 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4957073/Bushmills-Oyiski-Irlandias-Blended-Original-5-Eton-40-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004957/4957073/xlarge_20200215210257_bushmills_original_oyiski_700ml.jpeg</Image>
-		<Price>21.39926094</Price>
+		<Price>19.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Bushmills</Manufacturer>
 		<MPN>1494002</MPN>
@@ -5714,6 +5208,60 @@ Prosciutto και αλλαντικά
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>550511</SKU>
+		<EAN>5000267117560</EAN>
+		<Name>Johnnie Walker Gold Label Reserve Blended Whisky Σκωτίας 40% 700m</Name>
+		<URL>https://www.skroutz.gr/s/4782338/Johnnie-Walker-Gold-Label-Blended-Oyiski-Skotias-40-700ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/004782/4782338/xlarge_johnnie_walker_gold_reserve_70cl_1.jpg</Image>
+		<Price>44.95</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Johnnie Walker</Manufacturer>
+		<MPN>WHIS-550511</MPN>
+		<Description>Το Johnnie Walker Gold Label Reserve είναι αδιάψευστος μάρτυρας της τέχνης του Master Blender Johnnie Walker που παραμένει ζωντανή επί 190 συναπτά έτη. Το Johnnie Walker Gold Label Reserve δημιουργήθηκε γύρω από τον πυρήνα των single malt ουίσκι του Clynelish.
+
+Γλυκό, δελεαστικό άρωμα του μελιού - γίνεται characterful από λεπτές νότες από πιο ξυλώδεις νότες. Στρώματα ζωντανών και τροπικών φρούτων, με ξεχωριστή κρεμώδη γεύση βανίλιας</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>550515</SKU>
+		<EAN>5000267134710</EAN>
+		<Name>Johnnie Walker Green Label Blended Ουίσκι 15 Ετών Σκωτίας 43% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/8800216/Johnnie-Walker-Green-Label-Blended-Oyiski-15-Eton-Skotias-43-700ml.html?product_id=190199563&amp;sponsored=listing</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/008800/8800216/xlarge_20200215205250_johnnie_walker_green_label_15_years_old_oyiski_700ml.jpeg</Image>
+		<Price>49.49</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Johnnie Walker</Manufacturer>
+		<MPN>WHIS-550515</MPN>
+		<Description>Ανακάλυψε το πιο "φυσικό" και πλούσιο blend του οίκου Johnnie Walker. Το Green Label 15 Years Old δεν είναι ένα συνηθισμένο ουίσκι· είναι ένα σπάνιο Blended Malt, ένας αριστοτεχνικός συνδυασμός αποκλειστικά από single malts, που ωρίμασαν για τουλάχιστον 15 χρόνια για να φέρουν στο ποτήρι σου όλη τη Σκωτία.
+
+Γιατί το Green Label είναι η επιλογή των γνωστών:
+100% Malt Ουίσκι: Σε αντίθεση με τα κλασικά blends, το Πράσινο Label αποτελείται μόνο από single malts. Είναι η "Dream Team" της Σκωτίας, προσφέροντας βάθος και ένταση που κανένα single malt δεν μπορεί να πετύχει μόνο του.
+Η Τετράδα των Θρύλων: Στην καρδιά του χτυπούν τέσσερα εμβληματικά αποστακτήρια: Το καπνιστό Talisker (Skye), το φρουτώδες Linkwood (Speyside), το αρωματικό Cragganmore (Speyside) και το θαλασσινό Caol Ila (Islay).
+15 Έτη Υπομονής: Κάθε σταγόνα έχει ωριμάσει για τουλάχιστον 15 χρόνια σε δρύινα βαρέλια, αποκτώντας έναν χαρακτήρα που ισορροπεί ανάμεσα στη ζωντάνια της φύσης και την κομψή ωριμότητα του ξύλου.
+Μια Γευστική Επιστροφή: Μετά από μια σύντομη απουσία που έκανε τους φίλους του να το αναζητούν μανιωδώς, επέστρεψε το 2016 για να θυμίσει σε όλους γιατί θεωρείται ένα από τα πιο ποιοτικά ουίσκι στον κόσμο.
+Το Γευστικό σου Ταξίδι:
+Άρωμα: Φρεσκοκομμένο γρασίδι, φρέσκα φρούτα, βαθιά βανίλια και διακριτικές νότες καπνού από ξύλο και σανταλόξυλο.
+Γεύση: Πλούσια και σύνθετη. Εξωτική φλούδα πορτοκαλιού, ροδάκινο κομπόστα και μαύρα φρούτα, που "δένουν" με το πιπέρι και τη θαλασσινή αύρα.
+Επίγευση: Μακρά και πικάντικη, με την κάπνα και τη γλυκύτητα της βελανιδιάς να παραμένουν στον ουρανίσκο.</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>55056</SKU>
+		<EAN>5000277002450</EAN>
+		<Name>Dewar's Blended Whisky 12 Ετών Σκωτίας 40% 700ml</Name>
+		<URL>https://www.skroutz.gr/s/4901702/Dewar-s-Blended-Oyiski-12-Eton-Skotias-40-700ml.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/004901/4901702/xlarge_20200909093958_dewar_s_12_years_old_oyiski_700ml.jpeg</Image>
+		<Price>29.9</Price>
+		<Category>Ποτά</Category>
+		<Manufacturer>Dewar's </Manufacturer>
+		<MPN>WHIS-55056</MPN>
+		<Description>Το Dewar's 12 Year Old Special Reserve ετών είναι πλούσιο και μελένιο στον ουρανίσκο, έχοντας ένα ολοκληρωμένο, μεσαίο προς γεμάτο σώμα με μια μακριά επίγευση, που συστηματικά υπερτερεί σε σχέση με τον ανταγωνισμό σε «τυφλές» γευσιγνωσίες. Κάθε φιάλη Dewar's 12 Year Old Special Reserve είναι αριθμημένη και αντικατοπτρίζει την ποιότητα και την υπεροχή του. Το Dewar's 12 Year Old Special Reserve κυκλοφορεί σε περιορισμένο αριθμό. Κάθε μπουκάλι είναι αριθμημένο και κυκλοφορεί μαρκαρισμένο ως αποκλειστικό, με την εγγυημένη ποιότητα του Dewar's. Χρώμα: Βαθύ, πλούσιο κεχριμπαρί χρώμα. Οσμή: Μια πλήρως φρουτώδη μυρωδιά, αναμιγνύοντας μαζί σουλτανίνα και σταφίδα με τόνους σκωτσέζικου ρεικιού. Όλα αυτά τα αρώματα πλάθουν ένα τέλεια ισορροπημένο, μεστωμένο ουίσκι. Γεύση: Μια πλούσια, φρουτώδη γλυκύτητα που οδηγεί σε μια ολοκληρωμένη αίσθηση θερμότητας στο στόμα με τόνους οξιάς. Ολοκληρωμένο, μέτρια προς πλήρη περιεκτικότητα σε γευστικότητα και αλκοόλ. Μια πλήρως γευστική αίσθηση στο τελείωμα που διαρκεί.
+
+Προέλευση: Σκωτία
+Αλκοόλ: 40%</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>550581</SKU>
 		<EAN>5011007024000</EAN>
 		<Name>Jameson Black Barrel Blended Whisky Ιρλανδίας 40% 700ml</Name>
@@ -5766,24 +5314,6 @@ Prosciutto και αλλαντικά
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>550631</SKU>
-		<EAN>5010314302863</EAN>
-		<Name>Macallan Double Cask Single Malt Whisky 12 Ετών Σκωτίας 40% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/16817978/Macallan-Double-Cask-Single-Malt-Whisky-12-Eton-Skotias-40-700ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/016817/16817978/xlarge_20210329133123_macallan_12_years_old_double_cask_oyiski_700ml.jpeg</Image>
-		<Price>102.5719227</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Macallan</Manufacturer>
-		<MPN>55063-01</MPN>
-		<Description>Το Macallan 12 Year Old Double Cask έχει παλαιωθεί τόσο σε βαρέλια αμερικανικής βελανιδιάς, όσο και sherry. Αποτελεί μέρος της σειράς Double Cask που συνδυάζει το κλασσικό στυλ Macallan και την αδιαμφισβήτητη γλυκύτητα του Αμερικάνικου βαρελιού.
-
-Πρόκειται για ένα ολοκληρωμένο single malt σε τέλεια ισορροπία. Κρεμώδης γεύση με κανέλα και ζεστά γλυκά. Φινίρισμα, φρουτώδες με βανίλια.
-
-Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55065</SKU>
 		<EAN>5055966820037</EAN>
 		<Name>Bushmills Single Malt Whisky 10 Ετών Ιρλανδίας σε Κουτί 40% 700ml</Name>
@@ -5795,47 +5325,6 @@ Prosciutto και αλλαντικά
 		<MPN>55065-01</MPN>
 		<Description>Το Bushmills Single Malt 10 ετών είναι ένα Single Malt που παράγεται από τα παλαιότερα πιστοποιημένα αποστακτήρια ουίσκι στον κόσμο, με αρχική άδεια το 1608. Κάθε σταγόνα του αποστάζεται προσεκτικά τρεις φορές για καθαρότητα και ομαλότητα. Το Bushmills στη συνέχεια αφήνεται να ωριμάσει για τουλάχιστον δέκα χρόνια σε επιλεγμένα βαρέλια από ξύλο βελανιδιάς και βαρέλια sherry Oloroso. Το αποτέλεσμα είναι ένα λείο, πλούσιο Single Malt με απαλούς τόνους βανίλιας, μέλι και sherry.</Description>
 		<Quantity>12</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55072</SKU>
-		<EAN>5010019640260</EAN>
-		<Name>Laphroaig Single Malt Whisky 10 Ετών Σκωτίας 40% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5692207/Laphroaig-Single-Malt-Whisky-10-Eton-Skotias-40-700ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/005692/5692207/xlarge_20250702175423_laphroaig_oyiski_skotias_single_malt_10_eton_40_700ml.jpeg</Image>
-		<Price>44.45</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Laphroaig</Manufacturer>
-		<MPN>55072-01</MPN>
-		<Description>Το Laphroaig 10 Years Old είναι ένα malt σκωτσέζικο ουίσκι από το νησί Islay στα δυτικά της Σκωτίας.  Κατά τη παραγωγή του, το malted κριθάρι ξεραίνεται σε φωτιά τύρφης. Ο καπνός από αυτήν την τύρφη, βγαίνει μόνο στο Islay, και δίνει στο Laphroaig την ιδιαίτερα πλούσια γεύση του. Πίνεται καλύτερα σκέτο ή με λίγο δροσερό νερό. Η γεύση του κυριεύει τη γλώσσα σας, καθώς απελευθερώνει το πικάντικο, γήινο άρωμα του μπλε καπνού τύρφης, τη γλυκιά αίσθηση ξηρών καρπών του κριθαριού και το εξευγενισμένο άρωμα ρεικιού των ποταμιών του Islay. 
-
-Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55074</SKU>
-		<EAN>5000277000982</EAN>
-		<Name>Aberfeldy Single Malt Ουίσκι 12 Ετών Σκωτίας σε Κουτί 40% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5691363/Aberfeldy-Single-Malt-Oyiski-12-Eton-Skotias-se-Kouti-40-700ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_images/070890/70890193/xlarge_20230124113652_f3856c8b.jpeg</Image>
-		<Price>39.66</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Aberfeldy</Manufacturer>
-		<MPN>WHIS-55074</MPN>
-		<Description>Περιγραφή
-Ανακαλύψτε το «Χρυσό Ουίσκι» των Σκωτσέζικων Highlands. Το Aberfeldy 12 ετών είναι ένα Single Malt που ξεχωρίζει για τον πλούσιο, μελωμένο χαρακτήρα του και την απαράμιλλη απαλότητά του, αποτελώντας ένα διαχρονικό ορόσημο στην καρδιά της Σκωτίας.
-
-Γιατί το Aberfeldy 12 είναι μια χρυσή επιλογή για την κάβα σας:
-Το Νερό του Χρυσού: Είναι το μοναδικό αποστακτήριο που αντλεί νερό από τις πηγές Pitilie Burn, γνωστές για τα φυσικά κοιτάσματα χρυσού. Αυτή η καθαρότητα αντανακλάται στον κρυστάλλινο και «φωτεινό» χαρακτήρα του αποστάγματος.
-Η Τέχνη της Αργής Απόσταξης: Το Aberfeldy αποστάζεται με υπομονή σε ψηλούς χάλκινους άμβυκες, μια διαδικασία που του χαρίζει τη χαρακτηριστική κρεμώδη υφή και τις έντονες νότες μελιού.
-Πολυδιάστατη Ωρίμανση: Η 12ετής παραμονή του σε έναν συνδυασμό από βαρέλια Bourbon, Sherry και επανακαπνισμένα δρύινα βαρέλια, δημιουργεί ένα «πάντρεμα» γεύσεων όπου η βανίλια, τα μπαχαρικά και τα φρούτα συνυπάρχουν σε απόλυτη αρμονία.
-Ο Ιδανικός «Πρεσβευτής»: Χάρη στον ήπιο και γλυκό του χαρακτήρα, είναι το τέλειο ουίσκι για να μυήσετε κάποιον στον κόσμο των Single Malts, παραμένοντας ταυτόχρονα ένα αγαπημένο "dram" για τους έμπειρους συλλέκτες.
-Το Γευστικό σου Ταξίδι:
-Μύτη: Πλούσια και ζεστή. Κυριαρχούν το θυμαρίσιο μέλι, η βανίλια και τα φρέσκα φρούτα (μήλο, αχλάδι), με μια πολύ διακριτική υποψία καπνού στο βάθος.
-Στόμα: Βελούδινη αίσθηση. Γεύσεις σταφίδας, καραμέλας βουτύρου και βύνης, που "αγκαλιάζονται" από γλυκά μπαχαρικά.
-Επίγευση: Μεσαίας διάρκειας, απαλή και γλυκιά, αφήνοντας μια κομψή επίγευση ξύλου και μελιού.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5851,20 +5340,6 @@ Prosciutto και αλλαντικά
 		<Weight>0.8 kg</Weight>
 		<Description>Το Jack Daniel's παράγεται με τον ίδιο παραδοσιακό τρόπο εδώ και 140 χρόνια. Έχει πλούσιο κεχριμπαρένιο χρώμα και ισορροπημένη γεύση με στοιχεία καπνισμένου ξύλου, καραμέλας και βανίλιας.</Description>
 		<Quantity>29</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>550811</SKU>
-		<EAN>5099873001370</EAN>
-		<Name>Jack Daniel'sHoney Tennessee Whisky από Η.Π.Α. 35% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5760888/Jack-Daniel-s-Honey-Tennessee-Whisky-apo-I-P-A-35-700ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/005760/5760888/xlarge_20200215205250_jack_daniel_s_honey_liker_700ml.jpeg</Image>
-		<Price>29.52537588</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>JACK DANIELS</Manufacturer>
-		<MPN>55081-01</MPN>
-		<Description>Το Jack Daniel’s Honey είναι ένα λικέρ ουίσκι που αποτελείται από ένα μείγμα με μπαχαρικά και μέλι. Στα οργανοληπτικά  του χαρακτηριστικά απατώνται  αρώματα καραμέλας και σφενδάμου, άνθεων πορτοκαλιάς &amp; βανίλιας. Στο στόμα έχει κρεμώδη υφή, είναι πιο παχύρευστο από τα συνηθισμένα ουίσκι και προσφέρει μακρά επίγευση. Μπορεί να καταναλωθεί μόνο του με πάγο αλλά και να προστεθεί στον καφέ ή σε άλλο ρόφημα.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5909,7 +5384,7 @@ Prosciutto και αλλαντικά
 		<Name>Jim Beam White Label Bourbon Whisky 4 Ετών από Η.Π.Α. 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/48876979/Jim-Beam-White-Label-Bourbon-Whisky-4-Eton-apo-I-P-A-40-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/048876/48876979/xlarge_20231218165424_jim_beam_oyiski_jim_beam_700_ml.jpeg</Image>
-		<Price>23.06007808119</Price>
+		<Price>19.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Jim Beam</Manufacturer>
 		<MPN>55083-01</MPN>
@@ -5927,7 +5402,7 @@ Prosciutto και αλλαντικά
 		<Name>Wild Turkey 81 Bourbon Whisky 8 Ετών από Η.Π.Α. 40.5% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/24671546/Wild-Turkey-81-Bourbon-Whisky-8-Eton-apo-I-P-A-40-5-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/024671/24671546/xlarge_20200909125010_wild_turkey_oyiski_700ml.jpeg</Image>
-		<Price>28.27180098000001</Price>
+		<Price>24.98</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Wild Turkey</Manufacturer>
 		<MPN>55085-01</MPN>
@@ -6006,21 +5481,6 @@ Prosciutto και αλλαντικά
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55108</SKU>
-		<EAN>6412709021776</EAN>
-		<Name>Finlandia Βότκα 40% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5438655/Finlandia-Votka-700ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/005438/5438655/20211102201527_finlandia_votka_700ml.jpeg</Image>
-		<Price>15.69</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>FILANDIA</Manufacturer>
-		<MPN>1169</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Μια πολύ καλή βότκα από τη Φινλανδία, η Finlandia είναι μια εξαιρετική βότκα υψηλής ποιότητας, κατασκευασμένη με παγωμένο νερό.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55110</SKU>
 		<EAN>5000281020297</EAN>
 		<Name>Ursus Roter Vodka 21% 700ml</Name>
@@ -6033,20 +5493,6 @@ Prosciutto και αλλαντικά
 		<Weight>0.8 kg</Weight>
 		<Description>Η Ursus Roter είναι ένα λικέρ το οποίο βασίζεται στη vodka και στα sloe berries. Πρόκειται για μια γλυκιά vodka, με έντονη φρουτώδη γεύση κόκκινων φρούτων του δάσους. Ιδανική για σφηνάκι, μπορείτε ωστόσο να την απολαύσετε και σκέτη με πάγο, με σόδα ή ως συστατικό σε κάποιο κοκτέιλ.</Description>
 		<Quantity>7</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55122</SKU>
-		<EAN>080480280017</EAN>
-		<Name>Grey Goose Vodka 40% 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/21195501/Grey-Goose-Vodka-40-1000ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/021195/21195501/xlarge_20200723125707_grey_goose_votka_1000ml.jpeg</Image>
-		<Price>49.9</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Grey Goose</Manufacturer>
-		<MPN>55122-01</MPN>
-		<Description>Η βότκα Grey Goose παράγεται από γαλλικά σιτάρια με νερό φιλτραρισμένο μέσα από ασβεστόλιθους σαμπάνιας. Η απόσταξη γίνεται με βάση το παραδοσιακό τρόπο  της περιοχής Cognac. Έχει στρογγυλεμένο άρωμα με μια νότα γλυκύτητας, η οποία θυμίζει εκλεκτά γαλλικά αμυγδαλωτά. Η γεύση της είναι μεστή και απαλή, ενώ η ομαλή υφή της προσφέρει μια βουτυρένια και στρογγυλεμένη αίσθηση. </Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6105,7 +5551,7 @@ Prosciutto και αλλαντικά
 		<Name>Beluga Noble Vodka 30 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5439845/Beluga-Noble-Vodka-30-Eton-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005439/5439845/xlarge_20220419092824_beluga_votka_700ml.jpeg</Image>
-		<Price>36.36</Price>
+		<Price>35.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Beluga</Manufacturer>
 		<MPN>55126-01</MPN>
@@ -6225,7 +5671,7 @@ Prosciutto και αλλαντικά
 		<Name>Cazadores Blanco Tequila 12 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5692265/Cazadores-Blanco-Tequila-12-Eton-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005692/5692265/xlarge_20210210144025_cazadores_blanco_tekila_700ml.jpeg</Image>
-		<Price>28.7283972024</Price>
+		<Price>26.6</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Cazadores</Manufacturer>
 		<MPN>55209-06</MPN>
@@ -6241,7 +5687,7 @@ Prosciutto και αλλαντικά
 		<Name>Cazadores Reposado Tequila 12 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5692266/Cazadores-Reposado-Tequila-12-Eton-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/005692/5692266/xlarge_20211026170640_cazadores_reposado_tekila_700ml.jpeg</Image>
-		<Price>30.931403185368</Price>
+		<Price>28.64</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Cazadores</Manufacturer>
 		<MPN>55209-07</MPN>
@@ -6417,34 +5863,6 @@ Prosciutto και αλλαντικά
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>5531501</SKU>
-		<EAN>4971980260776</EAN>
-		<Name>Etsu Handcrafted Gin 43% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/17486812/Etsu-Handcrafted-Gin-43-700ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/017486/17486812/xlarge_20190225155305_etsu_handcrafted_tzin_700ml.jpeg</Image>
-		<Price>38.22</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Etsu</Manufacturer>
-		<MPN>55300-1501</MPN>
-		<Description>Gin από τη νήσο Hokkaido της Ιαπωνίας, με ιδιαίτερα ανθικό και spicy χαρακτήρα. Περιέχει εκχυλίσματα από βότανα της Ιαπωνικής χλωρίδας, όπως φύλλα τσαγιού, yuzu, lemongrass και γλυκόριζα. Πίνεται με tonic αλλά και σκέτο με πάγο και προσθήκη φύλλων μέντας.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55316</SKU>
-		<EAN>42213277</EAN>
-		<Name>Monkey 47 Gin 47% 500ml</Name>
-		<URL>https://www.skroutz.gr/s/5829979/Schwarzwald-Monkey-47-Gin-47-500ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/005829/5829979/xlarge_20211102195637_schwarzwald_monkey_47_dry_tzin_500ml.jpeg</Image>
-		<Price>38.52</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Monkey 47</Manufacturer>
-		<MPN>55300-16</MPN>
-		<Description>Το Monkey 47, είναι ένα πολύπλοκο και αφιλτράριστο Gin. Το νούμερο 47 δηλώνει τον αριθμό των αρωματικών που χρησιμοποιούνται σε αυτό, καθώς και τον αλκοολικό βαθμό του. Αρκετά πολυσύνθετο με καλή ισορροπία όλων των στοιχείων και ένα πικάντικο τελείωμα με φρεσκάδα. Μπορείτε να το απολαύστε σκέτο ή να αποτελέσει μια εξαιρετική βάση για άψογα Martini.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>553161</SKU>
 		<EAN>42213291</EAN>
 		<Name>Monkey 47 Sloe Sloe Gin 29% 500ml</Name>
@@ -6503,7 +5921,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Name>Bacardi Anejo 4 Years Old Ρούμι 700ml</Name>
 		<URL>https://www.skroutz.gr/s/20022842/Bacardi-Anejo-Old-Rum-4-Eton-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/020022/20022842/xlarge_20200713135417_bacardi_anejo_4_years_old_roumi_700ml.jpeg</Image>
-		<Price>23.2878821364</Price>
+		<Price>22.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Bacardi</Manufacturer>
 		<MPN>55400-14</MPN>
@@ -6593,27 +6011,12 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55405</SKU>
-		<EAN>8414771860626</EAN>
-		<Name>Ron Varadero Rum 37.5% 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/5032084/Ron-Varadero-Silver-Dry-1lt.html</URL>
-		<Image>https://www.go-drink.gr/image/cache/catalog/ron%20varadero/varadero_siver_dry_1_litro-500x500.jpg</Image>
-		<Price>19.990341072</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>RON VARADERO</Manufacturer>
-		<MPN>1180</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Η Κούβα στο ποτήρι σας, καθώς παλαιωμένα αποστάγματα μετά από μία αρκετά σύνθετη διαδικασία διαδοχικών φιλτραρισμάτων δημιουργούν ένα μοναδικής καθαρότητας κρυστάλλινο ρούμι. Xρώμα: Κρυστάλλινα διάφανο. Άρωμα: Μαλακό, γλυκό με διακριτή την αίσθηση των παλιωμένων αποσταγμάτων. Γεύση: Απόλυτα ισορροπημένη γεύση με γλυκές νότες παλαίωσης. Ιδανικό για την δημιουργία μοναδικών κοκτέιλ όπως Mojito, Daquiri, CubaLibre κτλ</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55410</SKU>
 		<EAN>7460855204450</EAN>
 		<Name>Brugal Blanco White Rum 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/19888427/Brugal-Blanco-Roumi-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/019888/19888427/xlarge_20190829095925_brugal_blanco_roumi_700ml.jpeg</Image>
-		<Price>19.56729050632062</Price>
+		<Price>18.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BRUGAL</Manufacturer>
 		<MPN>1182</MPN>
@@ -6628,29 +6031,13 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Name>Brugal Anejo Rum 5 Ετών 38% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5807585/Brugal-Anejo-Roumi-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005807/5807585/xlarge_20210210144025_brugal_anejo_roumi_700ml.jpeg</Image>
-		<Price>19.59106368894899</Price>
+		<Price>18.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>BRUGAL</Manufacturer>
 		<MPN>1183</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Ένα μοναδικό παλαιωμένο ρούμι που δημιουργεί τέλεια ισορροπημένα cocktails.</Description>
 		<Quantity>3</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55411</SKU>
-		<EAN>7401005008580</EAN>
-		<Name>Ron Zacapa Solera Old Dark Rum 23 Ετών 40% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5003925/Ron-Zacapa-Old-Dark-Rum-23-Eton-40-700ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/005003/5003925/xlarge_20210830142050_ron_zacapa_23_years_old_roumi_700ml.jpeg</Image>
-		<Price>41.99</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Ron Zacapa </Manufacturer>
-		<MPN>55400-11</MPN>
-		<Description>Τo Ron Zacapa 23 είναι ένα βραβευμένο ρούμι από τη Γουατεμάλα, που δημιουργήθηκε για να γιορτάσει την ίδρυση της πόλης Zacapa. Αποτελεί μείγμα από ρούμι που έχει αποσταχθεί μόνο από το πιο γλυκό μέλι ζαχαροκάλαμου και έχει ωριμάσει για 6 έως 23 χρόνια με τη διαδικασία της Sistema Solera- βαρέλια δηλαδή, στα οποία έχουν προηγουμένως φιλοξενηθεί αμερικάνικα ουίσκι, sherry και το κρασί Pedro Ximenez. Έχει κεχριμπαρένιο χρώμα &amp; αρώματα καραμελωμένων φρούτων, μπαχαρικών, μελιού &amp; κακάο. Μπορείτε να το απολαύσετε με λίγο πάγο, παρέα με πικρή σοκολάτα, αποξηραμένα φρούτα ή ξηρούς καρπούς.
-
-</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6857,20 +6244,6 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55606</SKU>
-		<EAN>8000570006046</EAN>
-		<Name>Martini Bitter Aperitivo 18% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/17904413/Martini-Bitter-Aperitivo-18-700ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/017904/17904413/xlarge_20200817170252_martini_bitter_aperitif_700ml.jpeg</Image>
-		<Price>21.75348461</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Martini</Manufacturer>
-		<MPN>55600-06</MPN>
-		<Description>Προσεκτικά κατασκευασμένο στην αρχική συνταγή του Μαρτινί του 1872, αυτό το πικρό απεριτίφ αποτελεί το ένα τρίτο του ως το «τέλειο Negroni». Τα άλλα δύο συστατικά είναι η Bombay Sapphire Gin και η Riserva Speciale Vermouth του Τορίνο της Martini. Τα βοτανικά που χρησιμοποιούνται για την παρασκευή του Riserva Speciale Bitter περιλαμβάνουν τον κρόκο, την αγγουστρά και την Columba, καθώς και την ιταλική αρτεμισία - κάτι που εξασφαλίζει ότι συμπληρώνει το προφίλ γεύσης του βερμούτ του Martini.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55607</SKU>
 		<EAN>5010677633581</EAN>
 		<Name>Martini Riserva Speciale Rubino Vermouth 18% 750ml</Name>
@@ -6911,34 +6284,6 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Weight>0.05 kg</Weight>
 		<Description>To Underberg συνδυάζει, εδώ και παραπάνω από 150 χρόνια, αρωματικά βότανα από 43 διαφορετικές χώρες και εξάγεται σε 200 χώρες. Αναγνωρίζεται διεθνώς ως το πιο αποτελεσματικό χωνευτικό. Η ατομική του συσκευασία εξασφαλίζει τη φρεσκάδα του και την αποτελεσματικότητά του. Πικρό απόσταγμα που παρασκευάζεται με τη μυστική συνταγή της οικογένειας Underberg.</Description>
 		<Quantity>239</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55620</SKU>
-		<EAN>075496002005</EAN>
-		<Name>Angostura Aromatic Bitters 44% 200ml</Name>
-		<URL>https://www.skroutz.gr/s/6931590/Angostura-Aromatic-Bitters-44-200ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/006931/6931590/xlarge_20230210145047_angostura_aromatic_bitters_200ml.jpeg</Image>
-		<Price>14.99</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Angostura</Manufacturer>
-		<MPN>55600-20</MPN>
-		<Description>ο πιο φημισμένο bitters παγκοσμίως παράγεται με την ίδια μυστική συνταγή από το 1824 και αποτελεί ένα κλασικό συστατικό για κοκτέιλς και ένα εργαλείο στα χέρια των bartenders παντρεύοντας και αναδεικνύοντας μοναδικά τη γεύση των διαφορετικών συστατικών που τα απαρτίζουν.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55621</SKU>
-		<EAN>075496331075</EAN>
-		<Name>Angostura Orange Bitters 28% 100ml</Name>
-		<URL>https://www.skroutz.gr/s/5375768/Angostura-Orange-Bitters-28-100ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/005375/5375768/xlarge_20200427120214_angostura_orange_bitters_100ml.jpeg</Image>
-		<Price>9.99</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Angostura</Manufacturer>
-		<MPN>55600-21</MPN>
-		<Description>Το Angostura Orange Bitters είναι ένα μείγμα τροπικών πορτοκαλιών και μπαχαρικών. Οι ζεστές νότες εσπεριδοειδών το καθιστούν ιδανικό για χρήση σε καθαρά αποστάγματα όπως το Gin, η Vodka και το λευκό Ρούμι.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7023,7 +6368,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Name>Remy Martin V.S.O.P. Κονιάκ 20 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5690124/Remy-Cointreau-Martin-V-S-O-P-Koniak-20-Eton-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005690/5690124/xlarge_20211227084041_remy_cointreau_martin_v_s_o_p_koniak_700ml.jpeg</Image>
-		<Price>44.9</Price>
+		<Price>42.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Remy Martin</Manufacturer>
 		<MPN>55700-51</MPN>
@@ -7044,7 +6389,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Name>Courvoisier V.S. Κονιάκ 2 Ετών 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5693509/Courvoisier-V-S-Koniak-2-Eton-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/005693/5693509/xlarge_20211014133302_courvoisier_v_s_koniak_700ml.jpeg</Image>
-		<Price>33.95</Price>
+		<Price>32.49</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Courvoisier</Manufacturer>
 		<MPN>55700-52</MPN>
@@ -7058,7 +6403,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Name>Hennessy V.S. Κονιάκ 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/21439628/Hennessy-Koniak-se-Kouti-40-700ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/021439/21439628/xlarge_20201125113245_hennessy_v_s_gift_box_koniak_700ml.jpeg</Image>
-		<Price>44.13</Price>
+		<Price>41.99</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Hennessy</Manufacturer>
 		<MPN>55700-53</MPN>
@@ -7195,21 +6540,6 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>555103</SKU>
-		<EAN>8004160750111</EAN>
-		<Name>Aurelia Amaretto Λικέρ 21.5% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/55567887/Amaretto-Liker-5-700ml.html</URL>
-		<Image>https://cdn.shopify.com/s/files/1/0531/9193/4116/files/AmarettoAureliaLiqueur1.jpg</Image>
-		<Price>9.1679613125</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>AMARETTO</Manufacturer>
-		<MPN>1202</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Amaretto Aurelia Λικέρ 21,5% Vol 700ml είναι ένα εκλεπτυσμένο λικέρ με έντονη γεύση αμυγδάλου και νότες βανίλιας. Ιδανικό για απόλαυση σκέτο, με πάγο ή ως συστατικό σε κοκτέιλ, προσφέρει μια ισορροπημένη και γλυκιά εμπειρία, που αναδεικνύει την κλασική γεύση του amaretto.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>555104</SKU>
 		<EAN>5203156001647</EAN>
 		<Name>Atelier Amaretto Λικέρ 21% 700ml</Name>
@@ -7222,73 +6552,6 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Weight>0.8 kg</Weight>
 		<Description>Το Amaretto Atelier Λικέρ 21% Vol 700ml είναι ένα γλυκόπιοτο λικέρ με έντονη γεύση αμυγδάλου και λεπτές νότες βανίλιας και καραμέλας. Με πλούσιο άρωμα και ισορροπημένη γεύση, είναι ιδανικό για απόλαυση σκέτο, με πάγο, ή ως βάση σε κοκτέιλ.</Description>
 		<Quantity>26</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55513</SKU>
-		<EAN>7610594454399</EAN>
-		<Name>Kahlua Λικέρ Καφέ 20% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5346419/Kahlua-Liker-Kafe-20-700ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/005346/5346419/xlarge_20200224093728_kahlua_liker_700ml.jpeg</Image>
-		<Price>18.4158073</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Kahlua</Manufacturer>
-		<MPN>55500-13</MPN>
-		<Description>Το λικέρ της εταιρείας Kahlua είναι φτιαγμένο από Arabica κόκκους καφέ, βανίλια και καραμέλα.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55514</SKU>
-		<EAN>5200101983010</EAN>
-		<Name>Στουπάκη Miss Tic Mastiha Λικέρ 28% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/35080359/Stoupaki-Miss-Tic-Mastiha-Liker-28-700ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/035080/35080359/xlarge_20220330155021_stoupaki_miss_tic_mastiha_liker_28_700ml.jpeg</Image>
-		<Price>18.98614755587</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Στουπάκη</Manufacturer>
-		<MPN>55500-14</MPN>
-		<Description>MissTic….μυστηριώδης και έτοιμη να την ανακαλύψετε. Ο αιώνιος ρητινώδης χυμός που βγαίνει αποκλειστικά από τα μαστιχόδεντρα της Νότιας Χίου, χαρίζει τη μοναδική γεύση και το ξεχωριστό άρωμα που μόνο η Ποτοποιία Χίου Στουπάκη μπορεί να δημιουργήσει και να χαρίσει στο εκλεκτό απόσταγμα του Miss Tic.
-
-Γέμισέ το! Κέρασέ το!
-
-Από λικέρ σε κοκτέιλ Συνδυασμοί που θα απογειώσουν τους γευστικούς σου κάλυκες…
-
-Bitter Fig Fizz
-40ml Miss Tic Μαστίχα
-10ml Marendry Bitter λικέρ
-10ml σιρόπι σύκο
-15ml αγουρίδα
-Απογεμίζουμε με σόoda. Χτυπάμε όλα τα υλικά στο shaker και τα διπλο-σουρώνουμε. Σερβίρουμε το ποτό μας σε ένα ποτήρι Collins. Γαρνίρουμε με μια φλούδα πορτοκάλι και γλυκό σύκο.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55515</SKU>
-		<EAN>3035542004206</EAN>
-		<Name>Cointreau Λικέρ Πορτοκάλι 40% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5354171/Cointreau-Liker-Portokali-40-700ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/005354/5354171/xlarge_20200215210815_cointreau_liker_700ml.jpeg</Image>
-		<Price>26.802906156</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Cointreau</Manufacturer>
-		<MPN>55500-15</MPN>
-		<Description>Το Cointreau είναι ένα λικέρ με γεύση πορτοκάλι, που οφείλεται στην πικρή ποικιλία Bigarade της Καραϊβικής, στις γλυκές Comuna, Cadanera, Salustiana από την Ισπανία και στην πλούσια σε αρωματικά αιθέρια έλαια Pera από την Βραζιλία. Κλασικό, με κρυστάλλινα χρώματα που βασίζεται στο μείγμα γλυκών και πικρών φλουδών πορτοκαλιού.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>55516</SKU>
-		<EAN>8410024700015</EAN>
-		<Name>Malibu Λικέρ με Ρούμι και Καρύδα 21% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5392925/Malibu-Liker-21-700ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/005392/5392925/xlarge_20211014132705_malibu_liker_700ml.jpeg</Image>
-		<Price>16.48819692</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Malibu</Manufacturer>
-		<MPN>55500-16</MPN>
-		<Description>​Το Malibu φτιάχνεται από αποστάγματα φρούτων, μαζί με ρούμι, καρύδα και Curaçao.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7325,7 +6588,7 @@ Bitter Fig Fizz
 		<Name>Lucas Bois Pisang Ambon Λικέρ Μπανάνας 20% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5388436/Lucas-Bois-Pisang-Ambon-Liker-700ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/005388/5388436/xlarge_20210210132003_lucas_bois_pisang_ambon_liker_700ml.jpeg</Image>
-		<Price>12.99</Price>
+		<Price>12.49</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>LUCAS BOIS</Manufacturer>
 		<MPN>1186</MPN>
@@ -7340,7 +6603,7 @@ Bitter Fig Fizz
 		<Name>Sourz Apple Λικέρ 15% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/5427090/Sourz-Apple-Liker-15-700ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/005427/5427090/xlarge_20211014132333_sourz_apple_liker_700ml.jpeg</Image>
-		<Price>14.34974562</Price>
+		<Price>10.49</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Sourz</Manufacturer>
 		<MPN>55500-25</MPN>
@@ -7410,20 +6673,6 @@ Bitter Fig Fizz
 Διατίθεται σε ποσότητα 700 ml, αρκετή για να απολαύσετε πολλές όμορφες στιγμές.
 Το αλκοόλ του ανέρχεται σε 30%, προσφέροντας μια ισχυρή γεύση χωρίς να είναι υπερβολικά βαρύ.</Description>
 		<Quantity>21</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>555512</SKU>
-		<EAN>3041311028427</EAN>
-		<Name>Marie Brizard Creme De Cassis Λικέρ 16% 700ml</Name>
-		<URL>https://www.skroutz.gr/s/5371788/Marie-Brizard-Creme-De-Cassis-Liker-me-Glykaniso-16-700ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/005371/5371788/xlarge_20211014132705_marie_brizard_creme_de_cassis_liker_700ml.jpeg</Image>
-		<Price>11.8675171075</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Marie Brizard</Manufacturer>
-		<MPN>55500-512</MPN>
-		<Description>Αυτό το λικέρ είναι διάσημο για το άρωμά του που συνδυάζει δύναμη και στρογγυλότητα στον ουρανίσκο. Με χρώμα εξαιρετικα πορφυρό, άρωμα λεπτό, χαρακτηριστικό του χυμού φραγκοστάφυλου και γεύση γλυκιά, ομαλή και έντονη, ελαφρώς όξινη.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7509,25 +6758,6 @@ Bitter Fig Fizz
 		<MPN>0806</MPN>
 		<Description>Οδοντόκρεμα καθημερινής χρήσης με προηγμένη φόρμουλα με μικροκρυστάλλους. Σχεδιασμένη για να αποκαθιστά τη φυσική λευκότητα των δοντιών δύο φορές καλύτερα από ότι μια συνηθισμένη οδοντόκρεμα.</Description>
 		<Quantity>286</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>60009</SKU>
-		<EAN>6920354812866</EAN>
-		<Name>Colgate Οδοντόκρεμα 50ml με Γεύση Bubble Fruit για 2+ χρονών</Name>
-		<URL>https://www.skroutz.gr/s/7857038/Colgate-Odontokrema-50ml-me-Geysi-Bubble-Fruit-gia-2-chronon.html</URL>
-		<Image>https://b.scdn.gr/images/sku_images/051215/51215305/xlarge_20211021092232_2834ea4c.jpeg</Image>
-		<Price>1.042789275173611</Price>
-		<Category>Οδοντόκρεμες</Category>
-		<Manufacturer>COLGATE</Manufacturer>
-		<MPN>6009-01</MPN>
-		<Description>Η παιδική οδοντόκρεμα Colgate Junior 2-5 Bubble Fruit τώρα και σε mini travel size συσκευασία των 50ml. Χάρις στο μικρό και βολικό της μέγεθος, χωράει σε κάθε τσάντα και νεσεσέρ.
-
-Διατηρεί το φυσικό pH στη στοματική κοιλότητα
-Ενισχύει το σμάλτο των δοντιών
-Προλαμβάνει την τερηδόνα
-Αφαιρεί την οδοντική πλάκα</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9272,7 +8502,7 @@ Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limone
 		<Manufacturer>COTONI</Manufacturer>
 		<MPN>1248</MPN>
 		<Description>Μπατονέτες της εταιρείας Cotoni για τον καθαρισμό των αυτιών και την απομάκρυνση της κυψελίδας που βρίσκεται στον ακουστικό πόρο.Χρησιμοποιήστε τις με εξαιρετική φροντίδα και προσοχή στην εξωτερική επιφάνεια του αυτιού, χωρίς να εισέρχονται βαθιά στον ακουστικό πόρο. Για περισσότερες λεπτομέρειες συμβουλευτείτε το γιατρό σας.</Description>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9759,7 +8989,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>1250</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>36</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11513,7 +10743,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
-		<Quantity>9731</Quantity>
+		<Quantity>9730</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11528,7 +10758,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1523</Quantity>
+		<Quantity>1516</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11586,7 +10816,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T3.450G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
-		<Quantity>1305</Quantity>
+		<Quantity>1299</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13362,7 +12592,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1752</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Bouquet 40gr προσφέρει άμεση και διαρκή καθαριότητα στη λεκάνη της τουαλέτας, ενώ το άρωμα bouquet γεμίζει το μπάνιο με ευχάριστες και λουλουδένιες νότες. Προστατεύει από τα άλατα και τις ακαθαρσίες, ενώ εξασφαλίζει φρεσκάδα με κάθε χρήση. Ιδανικό για καθημερινή φροντίδα και εύκολη τοποθέτηση, χαρίζοντας μακροχρόνια καθαριότητα και αρωματισμένο περιβάλλον.</Description>
-		<Quantity>113</Quantity>
+		<Quantity>112</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13544,7 +12774,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>REX</Manufacturer>
 		<MPN>0540</MPN>
 		<Description>Αυτό που θέλουν οι καταναλωτές είναι ένα χλώριο που να αφήνει πίσω του:1. καθαριότητα, 2. φρεσκάδα, 3. χρήματα στην τσέπη τους.Η πραγματικά παχύρρευστη και δυνατή σύνθεση της σειράς προϊόντων REX ULTRA έχει αποτέλεσμα το χλώριο να παραμένει περισσότερο χρόνο στην επιφάνεια και επομένως να καθαρίζει και να απολυμαίνει πιο καλά και πιο σίγουρα! Και πάντα πιο οικονομικά!</Description>
-		<Quantity>317</Quantity>
+		<Quantity>315</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18309,7 +17539,7 @@ Brand: Viosarp</Description>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LNT50X</MPN>
 		<Description>Το βοηθητικό τραπεζάκι σαλονιού της εταιρείας Vasagle είναι ιδανικό για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. Είναι ορθογώνιο και αποτελείται από μέταλλο και μοριοσανίδα. Διαθέτει 4 τροχούς για εύκολη μετακίνηση και αντέχει βάρος έως 25 κιλά.</Description>
-		<Quantity>43</Quantity>
+		<Quantity>42</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32176,7 +31406,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1587</MPN>
 		<Description>Αποδοτική λάμπα LED 8W με βάση B22, που παρέχει ζεστό λευκό φωτισμό (2700K) και φωτεινότητα 650lm. Ιδανική για οικονομικό και αξιόπιστο φωτισμό σε οικιακούς και επαγγελματικούς χώρους. Λειτουργεί στα 240V.</Description>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
