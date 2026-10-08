@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-08 10:05</created_at>
+	<created_at>2026-10-08 11:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -232,7 +232,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>28</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>173</Quantity>
+		<Quantity>171</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1837</Quantity>
+		<Quantity>1819</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>687</Quantity>
+		<Quantity>669</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>244</Quantity>
+		<Quantity>242</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>21</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -974,7 +974,7 @@
 		<MPN>0165</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>806</Quantity>
+		<Quantity>797</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -989,7 +989,7 @@
 		<MPN>0752</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
-		<Quantity>145</Quantity>
+		<Quantity>139</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1004,7 +1004,7 @@
 		<MPN>0036</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
-		<Quantity>42</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1019,7 +1019,7 @@
 		<MPN>0306</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
-		<Quantity>124</Quantity>
+		<Quantity>118</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>588</Quantity>
+		<Quantity>579</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1049,7 +1049,7 @@
 		<MPN>0034</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
-		<Quantity>376</Quantity>
+		<Quantity>370</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1139,7 +1139,7 @@
 		<MPN>0137</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
-		<Quantity>402</Quantity>
+		<Quantity>399</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1215,7 +1215,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0712</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η souroti με το απαλό φυσικό άρωμα του λεμονιού-λάιμ συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την φρεσκάδα και την ασύγκριτη δροσιά των εσπεριδοειδών. Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία.Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
-		<Quantity>103</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1251,7 +1251,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0419</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1400,7 +1400,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0000</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>1479</Quantity>
+		<Quantity>1452</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1505,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0510</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>235</Quantity>
+		<Quantity>232</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1571,7 +1571,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>809</Quantity>
+		<Quantity>734</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1590,7 +1590,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>992</Quantity>
+		<Quantity>942</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1609,7 +1609,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1095</Quantity>
+		<Quantity>1082</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1070</Quantity>
+		<Quantity>1052</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1733,7 +1733,7 @@ pH = 7,6
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
-		<Quantity>2806</Quantity>
+		<Quantity>2785</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1918,7 +1918,7 @@ pH = 7,6
 		<MPN>1150</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ξηρή γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
-		<Quantity>55</Quantity>
+		<Quantity>51</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2266,7 +2266,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>502</Quantity>
+		<Quantity>500</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2326,7 +2326,7 @@ pH = 7,6
 		<MPN>0743</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>648</Quantity>
+		<Quantity>647</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2433,7 +2433,7 @@ pH = 7,6
 		<MPN>0044</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>416</Quantity>
+		<Quantity>412</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5711,7 +5711,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>GORDONS</Manufacturer>
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
-		<Quantity>131</Quantity>
+		<Quantity>130</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7935,7 +7935,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0979</MPN>
 		<Description>Ανδρικά ξυραφάκια μίας χρήσης Gillette Blue II Slalom Sensitive Skin. Διαθέτουν κινούμενη κεφαλή και μια καταπραϋντική λιπαντική ταινία για να σας παρέχει ένα απαλό και ακριβές ξύρισμα.</Description>
-		<Quantity>517</Quantity>
+		<Quantity>512</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7983,7 +7983,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
     Με Λεπίδα Ακριβείας στο Πίσω Μέρος
     Με Λιπαντική Ταινία που Ξεθωριάζει
     Για Απαλό Ξύρισμα</Description>
-		<Quantity>79</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12805,7 +12805,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>00100312</MPN>
 		<Description>Σκούπα καθαρισμού της εταιρείας Cyclops, η οποία είναι ένα πολύ χρήσιμο είδος για τον καθαρισμό του χώρου, αφού η χρήση ηλεκτρικής σκούπας δεν είναι πάντα πρακτική ή εφικτή. Πολλές ηλεκτρικές σκούπες δεν μπορούν να απορροφήσουν γυαλιά κάτι που με την συμβατική σκούπα μπορεί να επιτευχθεί. Επίσης, η σκούπα είναι πολύ χρήσιμη για να πλύνετε το μπαλκόνι και να απομακρύνετε τα νερά. Καλό είναι ανά τακτά χρονικά διαστήματα πλένετε τη σκούπα ώστε να επιτυγχάνεται η μέγιστη υγιεινή στον επόμενο καθαρισμό.</Description>
-		<Quantity>130</Quantity>
+		<Quantity>129</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14911,7 +14911,7 @@ Barcode: 5206753033363
 		<MPN>0480</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Μπρικέτα Κάρβουνου A’ Grade (διάρκεια καύσης 6-7 ώρες). Η μπρικέτα κάρβουνο είναι η καλύτερη λύση σε μεγαλύτερη διάρκεια από τα κοινά κάρβουνα.•100% φυσικό προϊόν, το οποίο είναι πεπιεσμένο πριονίδι.•Υψηλή θερμιδική αξία.•Δεν καπνίζει, δεν βγάζει σπινθήρες και δεν αφήνει οσμές.•Έχει μεγάλη αντοχή.•Συσκευασία 10kg σε χάρτινο κουτί.</Description>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15222,7 +15222,7 @@ Barcode: 5206753033363
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-0759</MPN>
 		<Description>Πλαστικά μανταλάκια για ρούχα σε σετ 24τμχ με 4 διαφορετικά χρώματα.</Description>
-		<Quantity>100</Quantity>
+		<Quantity>90</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15342,7 +15342,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>00400324</MPN>
 		<Description>Σχοινί 10 μέτρων σε γκρι χρώμα, της εταιρίας Cyclops, κατάλληλο για το εύκολο και βολικό άπλωμα των ρούχων στο μπαλκόνι ή την αυλή σας.</Description>
-		<Quantity>16</Quantity>
+		<Quantity>11</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15356,7 +15356,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>00400325</MPN>
 		<Description>Συρματόσχοινο 20 μέτρων σε γκρι χρώμα, της εταιρίας Cyclops, κατάλληλο για το εύκολο και βολικό άπλωμα των ρούχων στο μπαλκόνι ή την αυλή σας. Έχει μεγαλύτερη αντοχή στο χρόνο, καθώς προσφέρει ανθεκτικότητα στη διάβρωση, αλλά και στις καιρικές συνθήκες.</Description>
-		<Quantity>30</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16311,7 +16311,7 @@ Brand: Sidirela</Description>
 Διάμετρος: 24εκ.
 Χωρητικότητα: 4.3lt
 Διάμετρος καλαθιού: 21εκ.</Description>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16868,7 +16868,7 @@ Brand: Viosarp</Description>
 Διαθέτει Γαντζάκι Κρεμάσματος
 Αποτρέπει τη Μούχλα
 Χωρίς Άρωμα</Description>
-		<Quantity>409</Quantity>
+		<Quantity>389</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20610,7 +20610,7 @@ Brand: Viosarp</Description>
 Συντήρηση
 
 Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21318,7 +21318,7 @@ Brand: Viosarp</Description>
     Ανθεκτικότητα στη Χρήση
     Εγκοπές για Φούστες
     Μεταλλικά, Περιστρεφόμενα Άγκιστρα</Description>
-		<Quantity>85</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24477,7 +24477,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Υλικό: Πλαστικό
 Χρώμα: Λευκό
 Μηχανισμός: Soft Close (φρένο αργού κλεισίματος)</Description>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28135,7 +28135,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
-		<Quantity>212</Quantity>
+		<Quantity>202</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30156,7 +30156,7 @@ Barcode: 5206753044598
     Διαστάσεις: 216x403mm
     Εγγράψιμες / Aδιάβροχες
 </Description>
-		<Quantity>17</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30174,7 +30174,7 @@ Barcode: 5206753044598
     Μέγεθος: Α3
     Πάχος: 80 micron
     Συσκευασία: 100 τεμάχια</Description>
-		<Quantity>11</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30197,7 +30197,7 @@ Barcode: 5206753044598
     Εγγράψιμα
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
-		<Quantity>20</Quantity>
+		<Quantity>70</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30211,7 +30211,7 @@ Barcode: 5206753044598
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>LP04080</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης κατάλληλα για κάθε συσκευή πλαστικοποίησης. Με τα δίφυλλα πλαστικοποίησης της εταιρείας Typotrust, έχετε αποτέλεσμα και αντοχή στον χρόνο.</Description>
-		<Quantity>52</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30229,7 +30229,7 @@ Barcode: 5206753044598
     Πάχος: 125 micron
     Συσκευασία: 100 τεμάχια
     Διαστάσεις: 154x216mm (Α5)</Description>
-		<Quantity>24</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30265,7 +30265,7 @@ Barcode: 5206753044598
     Μέγεθος: Α7
     Πάχος: 125 micron
     Συσκευασία: 100 τεμάχια</Description>
-		<Quantity>0</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30365,7 +30365,7 @@ Barcode: 5206753044598
 Μέγεθος C6, ιδανικό για έγγραφα διαστάσεων 11.4x16.2 εκ.
 Συσκευασία περιλαμβάνει 250 τεμάχια, προσφέροντας πλούσιο απόθεμα για τις ανάγκες σου.
 Διαθέτουν αυτοκόλλητη πίσω πλευρά, που διευκολύνει την τοποθέτηση τους σε φακέλους ή άλλες επιφάνειες, χωρίς να χρειάζεται επιπλέον κόλληση. Ιδανικές για οργανωμένες αποστολές και αρχειοθέτηση εγγράφων, θα είναι απαραίτητο εργαλείο στην καθημερινότητά σου.</Description>
-		<Quantity>22</Quantity>
+		<Quantity>42</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30385,7 +30385,7 @@ Barcode: 5206753044598
 Μέγεθος DL, ιδανικό για έγγραφα διαστάσεων 12x22.8 εκ.
 Συσκευασία περιλαμβάνει 250 τεμάχια, προσφέροντας πλούσιο απόθεμα για τις ανάγκες σου.
 Διαθέτουν αυτοκόλλητη πίσω πλευρά, που διευκολύνει την τοποθέτηση τους σε φακέλους ή άλλες επιφάνειες, χωρίς να χρειάζεται επιπλέον κόλληση. Ιδανικές για οργανωμένες αποστολές και αρχειοθέτηση εγγράφων, θα είναι απαραίτητο εργαλείο στην καθημερινότητά σου.</Description>
-		<Quantity>24</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39390,7 +39390,7 @@ VeganΌχι
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>1128</Quantity>
+		<Quantity>1127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39450,7 +39450,7 @@ VeganΌχι
 		<MPN>1514</MPN>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
-		<Quantity>780</Quantity>
+		<Quantity>768</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39465,7 +39465,7 @@ VeganΌχι
 		<MPN>1026</MPN>
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
-		<Quantity>170</Quantity>
+		<Quantity>169</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39495,7 +39495,7 @@ VeganΌχι
 		<MPN>1028</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
-		<Quantity>1921</Quantity>
+		<Quantity>1873</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 </mywebstore>
