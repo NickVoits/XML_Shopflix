@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-08 16:05</created_at>
+	<created_at>2026-10-08 16:20</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -3578,7 +3578,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 Οινοποίηση
 
 Αλκοολική ζύμωση σε χαμηλές θερμοκρασίες με σκοπό την ενίσχυση των πρωτογενών αρωμάτων. Σύντομη επαφή με τις φίνες οινολάσπες.</Description>
-		<Quantity>4</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6217,22 +6217,6 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>55603</SKU>
-		<EAN>3011932000805</EAN>
-		<Name>Martini Rosso Aperitivo 16% 1000ml</Name>
-		<URL>https://www.skroutz.gr/s/5351886/Martini-Rosso-Aperitivo-16-1000ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/005351/5351886/xlarge_20231220145905_martini_rosso_aperitif_1000ml.jpeg</Image>
-		<Price>12.225116089368</Price>
-		<Category>Ποτά</Category>
-		<Manufacturer>Martini</Manufacturer>
-		<MPN>55600-03</MPN>
-		<Description>Το Martini Rosso είναι ένα παγκοσμίου φήμης κόκκινο βερμούτ από την Ιταλία, που δημιουργήθηκε για πρώτη φορά το 1863.Με γλυκόπικρο χαρακτήρα είναι το πιο περίπλοκο από τα υπόλοιπα Martini. 
-
-Το ήλεκτρο-καφέ χρώμα του οφείλεται στην προσθήκη καραμέλας. Βότανα και μπαχαρικά βρεγμένα στο κρασί το οποίο στη συνέχεια εμπλουτίζεται με οινόπνευμα. Ένα βερμούτ με γλυκό ύφος και φυτικές νότες.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>55604</SKU>
 		<EAN>5010677935005</EAN>
 		<Name>Martini Extra Dry Vermouth Aperitivo 10 Ετών 18% 1000ml</Name>
@@ -6849,7 +6833,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Manufacturer>EVERYDAY</Manufacturer>
 		<MPN>1037</MPN>
 		<Description>Ανατομικά σχεδιασμένα σερβιετάκια, κανονικού μεγέθους, για καθημερινή προστασία, άνεση και σιγουριά. Με έξτρα στεγνό κάλυμμα και εκχύλισμα χαμομηλιού.</Description>
-		<Quantity>565</Quantity>
+		<Quantity>559</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11158,7 +11142,7 @@ Powder Free: Ναι
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1532</MPN>
 		<Description>Απαλά Χαρτομάντηλα σε κραφτ χάρτινο κουτί. 2 φύλλων απαλά απορροφητικά σε πρακτική συσκευασία ιδανικά για χρήση στο σπίτι, το γραφείο, το αυτοκίνητο, κ.α.</Description>
-		<Quantity>1462</Quantity>
+		<Quantity>1454</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
