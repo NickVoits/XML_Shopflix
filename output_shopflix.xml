@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-19 16:05</created_at>
+	<created_at>2026-10-19 16:41</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -974,7 +974,7 @@
 		<MPN>0165</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>470</Quantity>
+		<Quantity>464</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1004,7 +1004,7 @@
 		<MPN>0036</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
-		<Quantity>120</Quantity>
+		<Quantity>117</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1064,7 +1064,7 @@
 		<MPN>0699</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
-		<Quantity>215</Quantity>
+		<Quantity>212</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1079,7 +1079,7 @@
 		<MPN>0299</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικά με κύριο συστατικό το Φυσικό Μεταλλικό Νερό, από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ, αλλά και χυμούς από ελληνικά φρούτα, που δημιουργούν τα πιο ξεχωριστές γεύσεις του καλοκαιριού μας και υπόσχονται πραγματική απόλαυση χάρη στη μοναδική τους γεύση.</Description>
-		<Quantity>47</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1109,7 +1109,7 @@
 		<MPN>0300</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Τα μόνα αναψυκτικά με Φυσικό Μεταλλικό Νερό από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ.Με φυσικά γλυκαντικά από το φυτό στέβια.</Description>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1415,7 +1415,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0310</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>2877</Quantity>
+		<Quantity>2865</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1445,7 +1445,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>2798</Quantity>
+		<Quantity>2786</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1505,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0510</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>1104</Quantity>
+		<Quantity>1092</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>2158</Quantity>
+		<Quantity>2153</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2023,7 +2023,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>853</Quantity>
+		<Quantity>847</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2266,7 +2266,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>161</Quantity>
+		<Quantity>155</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10477,7 +10477,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
-		<Quantity>1132</Quantity>
+		<Quantity>1130</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12753,7 +12753,7 @@ EAN: 4023103173118
 		<Name>Vileda Περιστρεφόμενη Σετ Κουβάς με Σφουγγαρίστρα H2Pro Spin 178333</Name>
 		<URL>https://www.skroutz.gr/s/60601638/vileda-peristrefomeni-set-kouvas-me-sfougaristra-h2pro-178333.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/060601/60601638/xlarge_20250526111312_vileda_peristrefomeni_sfougaristra_178333.jpeg</Image>
-		<Price>35.88</Price>
+		<Price>37.99</Price>
 		<Category>Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category>
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>178333</MPN>
@@ -13561,7 +13561,7 @@ Super-απορροφητική.
 		<Manufacturer>IRMA</Manufacturer>
 		<MPN>1620</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλουν στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστοι. Σημαντικό πλεονέκτημα τους είναι το γεγονός πως δεν αφήνουν οσμή, ενώ διακρίνονται για την ασφαλή τους χρήση.    Τεμάχια: 48τμχ</Description>
-		<Quantity>531</Quantity>
+		<Quantity>528</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13575,7 +13575,7 @@ Super-απορροφητική.
 		<Manufacturer>Alfa</Manufacturer>
 		<MPN>1620001</MPN>
 		<Description>Λευκά Προσάναμμα κηροζίνης σε 48 κομμάτια για να ανάβετε εύκολα και γρήγορα τα κάρβουνα και τα ξύλα.</Description>
-		<Quantity>6667</Quantity>
+		<Quantity>6666</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30010,6 +30010,121 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>793501</SKU>
+		<EAN>5203358301415</EAN>
+		<Name>Typotrust Κάρτες Επισκεπτηρίου σε Πλαστικό Κουτί 9,5x5.5cm 3014-1</Name>
+		<URL>https://www.skroutz.gr/s/30208594/Typotrust-Vasi-Epagelmatikon-Karton-Card-Visit-se-Plastiko-Kouti-9-5x5-5cm-198323-20tmch.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/030208/30208594/xlarge_20210726112430_typotrust_card_visit_se_plastiko_kouti_9_5x5_5cm.jpeg</Image>
+		<Price>3.06</Price>
+		<Category>Φάκελοι Αλληλογραφίας</Category>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>ΤΥΠ-793501</MPN>
+		<Description>Κάρτες Λευκές Επισκεπτηρίου 5x9cm πλαστικό κουτί 100 τεμαχίων (Κάρτ Βιζίτ) είναι η ιδανική λύση για κάθε είδους χρήση, από επαγγελματική έως προσωπική και μπορείτε να το χρησιμοποιήσετε μαζί με τον φάκελο διαστάσεων 7.5×11.5cm.
+
+ 
+
+Με διαστάσεις 5x9cm, είναι εύκολες στη μεταφορά και αποθήκευση, καθιστώντας τις κατάλληλες για κάθε περίσταση όπου χρειάζεται να μοιραστείτε πληροφορίες αφού έχουν το μέγεθος πιστωτικής κάρτας.
+
+ 
+
+Τα επιπλέον χαρακτηριστικά για τις Λευκές Κάρτες Επισκεπτηρίου είναι τα παρακάτω:
+Μπορούν να τοποθετηθούν στον αντίστοιχο φάκελο διαστάσεων 7.5×11.5cm και να γίνει ο τέλειος συνδυασμός
+Η καθαρή, λευκή επιφάνεια των καρτών προσφέρει απεριόριστες δυνατότητες για εκτύπωση ή χειρόγραφη σημείωση.
+Μπορούν να χρησιμοποιηθούν για επαγγελματικές κάρτες, κάρτες σημειώσεων, προσκλήσεις ή ευχαριστήριες κάρτες, επιτρέποντάς σας να εκφράσετε την προσωπικότητά σας ή το μήνυμά σας με κομψότητα και στυλ.
+
+ 
+
+Το ανθεκτικό πλαστικό κουτί που συνοδεύει τις κάρτες, προσφέρει εξαιρετική προστασία και οργάνωση. Διασφαλίζει ότι οι κάρτες παραμένουν καθαρές και άθικτες, έτοιμες για χρήση ανά πάσα στιγμή. Με 100 κάρτες ανά κουτί, έχετε επαρκή ποσότητα για να καλύψετε πολλές ανάγκες, είτε πρόκειται για επαγγελματική παρουσίαση είτε για προσωπική χρήση.
+
+ 
+
+Αυτές οι λευκές κάρτες επισκεπτηρίου είναι ιδανικές για όσους θέλουν να δημιουργήσουν μοναδικές κάρτες που αντανακλούν την ατομικότητά τους. Είναι εξαιρετικές για DIY έργα, καλλιτεχνικές δημιουργίες, καθώς και για ειδικές εκδηλώσεις όπως γάμους και γενέθλια.
+
+ 
+
+Αποκτήστε τις λευκές κάρτες επισκεπτηρίου 5x9cm σε πλαστικό κουτί 100 τεμαχίων και απολαύστε την ευελιξία και την ποιότητα που προσφέρουν. Είναι η τέλεια επιλογή για κάθε είδους χρήση, συνδυάζοντας πρακτικότητα και κομψότητα.</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>79351</SKU>
+		<EAN>5203358300555</EAN>
+		<Name>Typotrust Σετ Φάκελος Λευκός Καρέ Αυτοκόλλητος 11.4x22.9εκ. σε Λευκό Χρώμα 10τμχ 3005-10</Name>
+		<URL>https://www.skroutz.gr/s/26206012/Typotrust-Set-Fakeloi-Allilografias-me-Aytokollito-10tmch-11-4x22-9ek-Leyko-3005-3005-10.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/026206/26206012/xlarge_20201211114014_typotrust_fakeloi_leykoi_11_4_x_22_9cm_karre_aytokollitoi_90gr_10_tmch.jpeg</Image>
+		<Price>0.66</Price>
+		<Category>Φάκελοι Αλληλογραφίας</Category>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>ΤΥΠ-79351</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+Διαστάσεις: 11.4 x 22.9 cm
+Συσκευασία 10 τεμαχίων</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>79352</SKU>
+		<EAN>5203358302115</EAN>
+		<Name>Typotrust Σετ Φάκελος Λευκός Καρέ Αυτοκόλλητος 16.2x22.9εκ. σε Λευκό Χρώμα 10τμχ 3008-10</Name>
+		<URL>https://www.skroutz.gr/s/64585046/fakeloi-leykoi-sakoula-typotrust-16-2x22-9cm-10tem-3021-10.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/064585/64585046/xlarge_20251209172505_fakeloi_leykoi_sakoula_typotrust_16_2x22_9cm_10tem_3021_10.jpeg</Image>
+		<Price>0.92</Price>
+		<Category>Φάκελοι Αλληλογραφίας</Category>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>ΤΥΠ-79352</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+Συσκευασία: 10 τεμάχια
+Διαστάσεις: 162x229mm</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>79353</SKU>
+		<EAN>5203358302610</EAN>
+		<Name>Typotrust Σετ Φάκελος Λευκός Καρέ Αυτοκόλλητος 23Χ32,5 10τεμ 3026-10</Name>
+		<URL>https://www.skroutz.gr/s/60359379/typotrust-set-fakeloi-allilografias-a4-me-aytokollito-10tmch-229x324ek-leyko.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/060359/60359379/xlarge_20250513102644_typotrust_set_fakeloi_allilografias_a4_me_aytokollito_10tmch_229x324ek_se_leyko_chroma.jpeg</Image>
+		<Price>1.55</Price>
+		<Category>Φάκελοι Αλληλογραφίας</Category>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>ΤΥΠ-79353</MPN>
+		<Description>Σετ 10 τμχ Φάκελοι Αλληλογραφίας 22,9x32,4cm
+
+Σε λευκό χρώμα, με αυτοκόλλητο ασφαλείας.</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>79362</SKU>
+		<EAN>5203358304119</EAN>
+		<Name>Typotrust Σετ Φάκελος Kraft Αυτοκόλλητος 16,2Χ23 10τεμ 3041-10</Name>
+		<URL>https://www.skroutz.gr/s/29673851/Typotrust-Set-Fakeloi-Typou-Sakoula-A5-me-Aytokollito-10tmch-16-2x22-9ek-Kafe-3041-10.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/029673/29673851/xlarge_20221102165630_typotrust_set_fakeloi_typou_sakoula_a5_me_aytokollito_10tmch_16_2x22_9ek_se_leyko_chroma_3041e.jpeg</Image>
+		<Price>0.81</Price>
+		<Category>Φάκελοι Αλληλογραφίας</Category>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>ΤΥΠ-79362</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+Συσκευασία: 10 τεμάχια
+Διαστάσεις: 162x229mm</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>79363</SKU>
+		<EAN>5203358304614</EAN>
+		<Name>Typotrust Σετ Φάκελος Kraft Αυτοκόλλητος 23Χ32,5 10τεμ 3046-10</Name>
+		<URL>https://www.skroutz.gr/s/25760219/Typotrust-Set-Fakeloi-Typou-Sakoula-A4-me-Aytokollito-10tmch-22-9x32-4ek-Kafe-3046-10.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/025760/25760219/xlarge_20201120164726_typotrust_fakeloi_sakoules_kraft_22_9x32_4cm_10tmch_3046a.jpeg</Image>
+		<Price>1.34</Price>
+		<Category>Φάκελοι Αλληλογραφίας</Category>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>ΤΥΠ-79363</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+Συσκευασία 10 τεμαχίων
+Διαστάσεις: 22.9x32.4cm</Description>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>79401</SKU>
 		<EAN>5203358035013</EAN>
 		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 Μαύρο</Name>
@@ -30230,46 +30345,6 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<MPN>1682</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές με πλάτος 80mm και μήκος 65 τρεχούμενα μέτρα. Κατασκευασμένη από άριστης ποιότητας χαρτί.</Description>
 		<Quantity>408</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>794991101</SKU>
-		<EAN>5203358002503</EAN>
-		<Name>Typotrust Δελτίο Παραγγελίας Εστιατορίου Μπλοκ Παραγγελιών Διπλότυπο (2x50 Φύλλα) 250</Name>
-		<URL>https://www.skroutz.gr/s/64757409/typotrust-mplok-paragelion-250.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/064757/64757409/xlarge_20251218114329_typotrust_mplok_paragelion_250.jpeg</Image>
-		<Price>0.74</Price>
-		<Category>Λογιστικά Έντυπα</Category>
-		<Manufacturer>Typotrust</Manufacturer>
-		<MPN>250</MPN>
-		<Description>Έντυπο παραγγελίας για εστιατόρια
-
-Κωδικός : 250
-Διάσταση : 9 x 21
-Πολλαπλότητα : 50 x 2
-Αντίγραφα : 2 (Λευκό - Κίτρινο)
-Χαρτί : Αυτογραφικό</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>794991102</SKU>
-		<EAN>5203358002282</EAN>
-		<Name>Typotrust Απόδειξη Είσπραξης Μπλοκ Αποδείξεων Διπλότυπο (2x50 Φύλλα) 228</Name>
-		<URL>https://www.skroutz.gr/s/19126764/Typotrust-Apodeixi-Eispraxis-Mplok-Apodeixeon-Diplotypo-2x50-Fylla-228.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/019126/19126764/xlarge_20190620135539_typotrust_apodeixi_eispraxis_228.jpeg</Image>
-		<Additional_Image>https://d.scdn.gr/images/sku_images/062926/62926280/xlarge_20220804102251_bc8eed05.jpeg</Additional_Image>
-		<Price>1.47</Price>
-		<Category>Λογιστικά Έντυπα</Category>
-		<Manufacturer>Typotrust</Manufacturer>
-		<MPN>228</MPN>
-		<Description>Αποδεικτικό είσπραξης ποσού (χωρίς ανάλυση μετρητών ή αξιογράφων).
-
-Διάσταση : 10 x 18 cm
-Πολλαπλότητα : 50 x 2
-Αντίγραφα : 2 (Λευκό - Κίτρινο)
-Χαρτί : Αυτογραφικό</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30665,104 +30740,6 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7971053</SKU>
-		<EAN>5207227113017</EAN>
-		<Name>Eurolamp Κοινή  Λάμπα LED 8,8W για Ντουί Β22 6500K 175-250V Φυσικό Λευκό 810lm (147-77042)</Name>
-		<URL>https://www.skroutz.gr/s/27132028/Eurolamp-Lampa-LED-gia-Ntoui-B22-PSychro-Leyko-810lm-147-77042.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/027132/27132028/xlarge_20210615122351_eurolamp_lampa_led_gia_ntoui_b22_psychro_leyko_810lm_147_77042.jpeg</Image>
-		<Price>0.8459125</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>147-77042</MPN>
-		<Description>
-
-Λάμπα LED Κοινή 8,8W
-
-    Τάση Τροφοδοσίας: 175-250V
-    Ονομαστική Ισχύς: 8,8W
-    Θερμοκρασία Χρώματος: 6500K
-    Συχνότητα Λειτουργίας: 50/60Hz
-    Ένταση Ρεύματος: 72mA
-    Απόδοση σε Lumen: 810lm
-    Βαθμός Στεγανότητας: IP20
-    Συντελεστής Άεργου Ισχύος: &gt;0,65
-    Χρωματική Απόδοση CRI: &gt;80
-    Διάρκεια Ζωής: 25000h
-    Θερμοκρασία Λειτουργίας: -30°C - +45°C
-    Ενεργειακή κλάση: F
-    Ντουί Λαμπτήρα: B22
-    Τύπος: Led SMD2835
-    Σχήμα Λαμπτήρα: A60
-    Κύκλοι Μεταγωγής: 25000
-    Ρύθμιση Έντασης: Όχι
-    Χρόνος Έναυσης: 0,5 sec
-    Υδράργυρος: 0,00%
-    Γωνία Δέσμης: 300°
-    Διάμετρος: 60mm
-    Ύψος: 107mm
-    Μεικτό Βάρος: 0,039 Kg
-    Υλικό Προϊόντος: Πλαστικό με Ψύκτρα Αλουμινίου
-    Χρώμα Καλύμματος: Frost
-    Τεμάχια ανά συσκευασία: 1
-    Συσκευασία: Paper Window B.Pack
-    Κιβωτοποίηση (τεμ): 1\10\50
-    Πιστοποιητικά: Ναι
-    Ένδειξη CE: Ναι
-    Αριθμός Καταχώρησης EPREL: 761867
-
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971054</SKU>
-		<EAN>5207227113222</EAN>
-		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί Β22 6500K 175-250V Φυσικό Λευκό 1055lm (147-77043)</Name>
-		<URL>https://www.skroutz.gr/s/27390785/Eurolamp-Lampa-LED-12W-gia-Ntoui-B22-kai-Schima-A60-PSychro-Leyko-1055lm-147-77043.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/027390/27390785/xlarge_20210512172745_eurolamp_lampa_led_gia_ntoui_b22_kai_schima_a60_psychro_leyko_1055lm_147_77043.jpeg</Image>
-		<Price>1.0964316375</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>147-77043</MPN>
-		<Description>
-
-Λάμπα LED Κοινή με χαρακτηριστικά:
-
-    Τάση Τροφοδοσίας: 175-250V
-    Ονομαστική Ισχύς: 11,1W
-    Θερμοκρασία Χρώματος: 6500K
-    Ένταση Ρεύματος: 75mA
-    Απόδοση σε Lumen: 1055lm
-    Βαθμός Στεγανότητας: IP20
-    Χρωματική Απόδοση CRI: &gt;80
-    Διάρκεια Ζωής: 25000h
-    Θερμοκρασία Λειτουργίας: -30°C - +45°C
-    Ενεργειακή Κλάση: F
-    Ντουί Λαμπτήρα: B22
-    Τύπος: Led SMD2835
-    Σχήμα Λαμπτήρα: A60
-    Κύκλοι Μεταγωγής: 25000
-    Ρύθμιση Έντασης: Όχι
-    Χρόνος Έναυσης: 0,5 sec
-    Υδράργυρος: 0,00%
-    Γωνία Δέσμης: 300°
-    Διάμετρος: 60mm
-    Ύψος: 110mm
-    Μεικτό Βάρος Προϊόντος: 0,045Kg
-    Υλικό: Πλαστικό με Ψύκτρα Αλουμινίου
-    Χρώμα Καλύμματος: Frost
-    Τεμάχια ανά Συσκευασία: 1
-    Συσκευασία: Paper Window B.Pack
-    Κιβωτοποίηση: 1/10/50
-    Πιστοποιητικά: Ναι
-    Ένδειξη CE: Ναι
-    Αριθμός Καταχώρησης EPREL: 761868
-
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7971055</SKU>
 		<EAN>5207227113253</EAN>
 		<Name>Eurolamp Κοινή  Λάμπα LED 15W για Ντουί Β22 6500K 175-250V Φυσικό Λευκό 1521lm (147-77044)</Name>
@@ -30954,62 +30931,6 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7971102</SKU>
-		<EAN>5207227113437</EAN>
-		<Name>Eurolamp Μινιόν Λάμπα LED 7W για Ντουί Ε14 6500K 220-240V Ψυχρό Λευκό 630lm (147-77211)</Name>
-		<URL>https://www.skroutz.gr/s/27003495/Eurolamp-Lampa-LED-7W-gia-Ntoui-E14-kai-Schima-C37-PSychro-Leyko-630lm-147-77211.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/027003/27003495/20211221095817_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_psychro_leyko_630lm_147_77211.jpeg</Image>
-		<Price>0.8342130999999999</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1590</MPN>
-		<Description>Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 6 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 50 μέχρι 58 watt ή μια αλογόνου από 30 μέχρι 34 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971111</SKU>
-		<EAN>5207227113376</EAN>
-		<Name>Eurolamp Μινιόν  Λάμπα LED 5W για Ντουί Ε14 4000K 220-240V Φυσικό Λευκό 400lm (147-77204)</Name>
-		<URL>https://www.skroutz.gr/s/27003382/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-C37-Fysiko-Leyko-400lm-147-77204.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/027003/27003382/20210721150352_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_fysiko_leyko_400lm_147_77204.jpeg</Image>
-		<Price>0.7523173000000001</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1591</MPN>
-		<Description>Ισχύς: 5W    Τάση: 220V    Lumen: 400lm    Χρώμα: Φυσικό Λευκό    Εφαρμογή: E14    Σχήμα: C37</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971121</SKU>
-		<EAN>5207227113406</EAN>
-		<Name>Eurolamp Μινιόν  Λάμπα LED 5W για Ντουί Ε14 2700K 220-240V Θερμό Λευκό 400lm (147-77206)</Name>
-		<URL>https://www.skroutz.gr/s/27003444/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-C37-THermo-Leyko-400lm-147-77206.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/027003/27003444/20210721150352_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_thermo_leyko_400lm_147_77206.jpeg</Image>
-		<Price>0.7523173000000001</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1593</MPN>
-		<Description>Το θερμό χρώμα που διαθέτει η λάμπα είναι πιο κοντά σε αυτό της φωτιάς το οποίο θα προσδώσει μια ζεστή αίσθηση στο χώρο που θα σας βοηθήσει να χαλαρώσετε.    Ισχύς: 5W    Τάση: 220V    Lumen: 400lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: E14    Σχήμα: C37</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971122</SKU>
-		<EAN>5207227113499</EAN>
-		<Name>Eurolamp Μινιόν  Λάμπα LED 7W για Ντουί Ε14 2700K 220-240V Θερμό Λευκό 630lm (147-77214)</Name>
-		<URL>https://www.skroutz.gr/s/27003644/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-C37-THermo-Leyko-630lm-147-77214.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/027003/27003644/20211228125924_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_thermo_leyko_630lm_147_77214.jpeg</Image>
-		<Price>0.8342130999999999</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1594</MPN>
-		<Description>Το θερμό χρώμα που διαθέτει η λάμπα είναι πιο κοντά σε αυτό της φωτιάς το οποίο θα προσδώσει μια ζεστή αίσθηση στο χώρο που θα σας βοηθήσει να χαλαρώσετε.    Ισχύς: 7W    Τάση: 220V    Lumen: 630lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: E14    Σχήμα: C37</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7971151</SKU>
 		<EAN>5207227113529</EAN>
 		<Name>Eurolamp Σφαιρική Λάμπα LED 4,9W για Ντουί Ε14 6500K 175-250V Ψυχρό Λευκό 400lm (147-77310)</Name>
@@ -31035,34 +30956,6 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<MPN>1597</MPN>
 		<Description>Ισχύς: 5W    Τάση: 220V    Lumen: 400lm    Χρώμα: Φυσικό Λευκό    Εφαρμογή: E14    Σχήμα: G45</Description>
 		<Quantity>3</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971162</SKU>
-		<EAN>5207227113673</EAN>
-		<Name>Eurolamp Σφαιρική Λάμπα LED 7W για Ντουί Ε14 4000K 175-250V Φυσικό Λευκό 630lm 147-77331</Name>
-		<URL>https://www.skroutz.gr/s/27169411/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-G45-Fysiko-Leyko-630lm-147-77331.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/027169/27169411/20220208142908_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_g45_fysiko_leyko_630lm_147_77331.jpeg</Image>
-		<Price>0.8342130999999999</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1598</MPN>
-		<Description>Ισχύς: 7W    Τάση: 220V    Lumen: 630lm    Χρώμα: Φυσικό Λευκό    Εφαρμογή: E14    Σχήμα: G45</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971171</SKU>
-		<EAN>5207227113550</EAN>
-		<Name>Eurolamp Σφαιρική  Λάμπα LED 4,9W για Ντουί Ε14 2700K 175-250V Θερμό Λευκό 400lm (147-77313)</Name>
-		<URL>https://www.skroutz.gr/s/27391104/Eurolamp-Lampa-LED-5W-gia-Ntoui-E14-kai-Schima-G45-THermo-Leyko-400lm-147-77313.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/027391/27391104/20210927211954_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_g45_thermo_leyko_400lm_147_77313.jpeg</Image>
-		<Price>0.7406178999999999</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1599</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Ισχύς: 5W    Τάση: 220V    Lumen: 400lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: E14    Σχήμα: G45</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31100,66 +30993,6 @@ Courier &amp; εταιρείες μεταφορών</Description>
     Διάρκεια ζωής: 25.000 ώρες
 </Description>
 		<Quantity>3</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971502</SKU>
-		<EAN>5207227115752</EAN>
-		<Name>Eurolamp Γλόμπος Φ120 Λάμπα LED 24W για Ντουί Ε27 6500K 175-250V Ψυχρό Λευκό 2800lm (147-77412)</Name>
-		<URL>https://www.skroutz.gr/s/27442732/Eurolamp-Lampa-LED-25W-gia-Ntoui-E27-kai-Schima-G120-PSychro-Leyko-2400lm-147-77412.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/027391/27391225/xlarge_20211221100443_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_g120_psychro_leyko_1500lm_147_77406.jpeg</Image>
-		<Price>6.216381562500001</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>147-77412</MPN>
-		<Description>Το ψυχρό λευκό χρώμα που διαθέτει η λάμπα θα προσδώσει μια "καθαρή" αίσθηση στο χώρο σας κάνοντας την ιδανική επιλογή για κουζίνες, μπάνια και εξωτερικούς χώρους. Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μεγάλο χώρο από 20 τ.μ. και πάνω. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 166 watt και πάνω ή μια αλογόνου από 100 watt και πάνω, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.
-
-    Ισχύς: 25W
-    Τάση: 220V
-    Lumen: 2400lm
-    Χρώμα: Ψυχρό Λευκό
-    Εφαρμογή: E27
-    Σχήμα: G120</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7971511</SKU>
-		<EAN>5207227064357</EAN>
-		<Name>Eurolamp Γλόμπος Φ120 Λάμπα LED 13,8W για Ντουί Ε27 4000K 175-250V Φυσικό Λευκό 1500lm (147-77407)</Name>
-		<URL>https://www.skroutz.gr/s/23582061/Eurolamp-Lampa-LED-13-8W-gia-Ntoui-E27-kai-Schima-G120-Fysiko-Leyko-1521lm-147-77407.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/027391/27391225/xlarge_20211221100443_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_g120_psychro_leyko_1500lm_147_77406.jpeg</Image>
-		<Price>4.380529206249999</Price>
-		<Category>Λάμπες LED</Category>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>147-77407</MPN>
-		<Description>    Σειρά Προϊόντων:PLUS
-    Τάση Τροφοδοσίας (V):175-250V
-    Ονομαστική Ισχύς (W):13,8W
-    Θερμοκρασία Χρώματος (K):4000K
-    Συχνότητα Λειτουργίας (Hz):50/60Hz
-    Ένταση Ρεύματος (Α):118mA
-    Απόδοση σε Lumen (lm):1521lm
-    Ισοδυναμία Ισχύος (W):100W
-    Βαθμός Στεγανότητας (IP):IP20
-    Συντελεστής Άεργου Ισχύος (PF):&gt;0,65
-    Χρωματική Απόδοση CRI (Ra):&gt;80
-    Διάρκεια Ζωής (h):25000h
-    Θερμοκρασία Λειτουργίας °C:-30°C - +45°C
-    Ενεργειακή κλάση (από Σεπτ. 2021):E
-    Ντουί Λαμπτήρα:E27
-    Τύπος Led:SMD2835
-    Σχήμα Λαμπτήρα:G120
-    Κύκλοι Μεταγωγής (ON/ OFF):25000
-    Ρύθμιση Έντασης:Όχι/ No
-    Χρόνος Έναυσης (sec):0,5 sec
-    Υδράργυρος (Hg):0,00%
-    Γωνία Δέσμης:270°
-    Διάμετρος (mm):120mm
-    Ύψος (mm):165mm
-    Υλικό Προϊόντος:Πλαστικό με Ψύκτρα Αλουμινίου/ Plastic with Aluminium Heatsink
-    Χρώμα Καλύμματος:Frost</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31441,20 +31274,6 @@ Barcode
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>79725201</SKU>
-		<EAN>6920075776591</EAN>
-		<Name>Sonoff Εξωτερικός Διακόπτης Τοίχου 8 Εντολών με Πλαίσιο - Τηλεχειριστήριο RF 433MHz Λευκός  RM433R2</Name>
-		<URL>https://www.skroutz.gr/s/37478248/Sonoff-RM433-R2-Exoterikos-Diakoptis-Toichou-Entolon-me-Plaisio-Leykos-RM433R2.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/037478/37478248/xlarge_20220804131515_sonoff_rm433_r2_exoterikos_diakoptis_toichou_entolon_me_plaisio_leykos_80074.jpeg</Image>
-		<Price>6.46</Price>
-		<Category>Διακόπτες Τοίχου</Category>
-		<Manufacturer>Sonoff</Manufacturer>
-		<MPN>RM433R2</MPN>
-		<Description>Εξωτερικός διακόπτης τοίχου της Sonoff με βάση τοίχου. Προγραμματίζεται ώστε να στέλνει εντολές ανάλογα με τις ανάγκες της συσκευής με την οποία είναι συνδεμένος.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>797253101</SKU>
 		<EAN> 6972391282140</EAN>
 		<Name>Gosund Έξυπνη Εξωτερική Πρίζα WiFi, 3680W 16A, Tuya 2τμχ Λευκό SP111-2</Name>
@@ -31585,7 +31404,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Name>Eurolamp Extreme Μπαταρία Λιθίου CR2016 3V</Name>
 		<URL>https://www.skroutz.gr/s/51772775/Eurolamp-Mpataria-Lithiou-Rologion-CR2016-3V-1tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/051772/51772775/20240809142117_eurolamp_mpataria_lithiou_rologion_cr2016_3v_1tmch.jpeg</Image>
-		<Price>0.3916570060638001</Price>
+		<Price>0.36</Price>
 		<Category>Μπαταρίες Ρολογιών</Category>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1614</MPN>
@@ -31619,48 +31438,6 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<Quantity>260</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7975023</SKU>
-		<EAN>5410853039303</EAN>
-		<Name>Panasonic Alkaline Power Μπαταρία 9V 1τμχ</Name>
-		<URL>https://www.skroutz.gr/s/9004704/Panasonic-Alkaline-Power-Mpataria-9V-1tmch.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/009004/9004704/20200304150311_panasonic_alkaline_power_9v_1tmch.jpeg</Image>
-		<Price>1.606250828571429</Price>
-		<Category>Αλκαλικές Μπαταρίες</Category>
-		<Manufacturer>PANASONIC</Manufacturer>
-		<MPN>1401</MPN>
-		<Description>Αλκαλικές μπαταρίες της Panasonic μεγέθους 9V, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχουν ικανοποιητική διάρκεια και αξίζουν τα χρήματά τους.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7975024</SKU>
-		<EAN>5410853039242</EAN>
-		<Name>Panasonic Alkaline Power Μπαταρίες C 1.5V 2τμχ</Name>
-		<URL>https://www.skroutz.gr/s/51484084/Panasonic-Power-Alkalikes-Mpataries-C-1-5V-2tmch-PAN-APLR14.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/051484/51484084/xlarge_20240320173054_panasonic_power_alkalikes_mpataries_c_1_5v_4tmch_pan_aplr14.jpeg</Image>
-		<Price>1.8414</Price>
-		<Category>Αλκαλικές Μπαταρίες</Category>
-		<Manufacturer>PANASONIC</Manufacturer>
-		<MPN>PAN9004750</MPN>
-		<Description>Αλκαλικές μπαταρίες μεγέθους C, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7975025</SKU>
-		<EAN>5410853039211</EAN>
-		<Name>Panasonic Alkaline Power Bronze Μπαταρίες D 1.5V 2τμχ</Name>
-		<URL>https://www.skroutz.gr/s/9004755/Panasonic-Alkaline-Power-Bronze-Mpataries-D-1-5V-2tmch.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/009004/9004755/20211122150148_panasonic_alkaline_power_mpataries_d_1_5v_2tmch.jpeg</Image>
-		<Price>2.651958409090909</Price>
-		<Category>Αλκαλικές Μπαταρίες</Category>
-		<Manufacturer>PANASONIC</Manufacturer>
-		<MPN>1403</MPN>
-		<Description>Αλκαλικές μπαταρίες D ιδανικές για χρήση σε ραδιορολόγια, παιχνίδια και φακούς. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31907,29 +31684,6 @@ Made in Germany
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7975043</SKU>
-		<EAN>4008496626656</EAN>
-		<Name>Varta Energy Αλκαλική Μπαταρία 9V 1τμχ</Name>
-		<URL>https://www.skroutz.gr/s/9092903/Varta-Energy-Alkaliki-Mpataria-9V-1tmch.html#reviews</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/009092/9092903/xlarge_20220209091356_varta_energy_alkaliki_mpataria_9v_1tmch.jpeg</Image>
-		<Price>1.66005</Price>
-		<Category>Αλκαλικές Μπαταρίες</Category>
-		<Manufacturer>Varta</Manufacturer>
-		<MPN>10010123</MPN>
-		<Description>
-    Τέλεια λύση για συσκευές με χαμηλή κατανάλωση ενέργειας
-    "Made in Germany - made to last", εγγύηση ποιότητας από τη VARTA
-    Εγγυημένη περίοδος αποθήκευσης 5 ετών
-    Συσκευασία με νέα, κομψή εμφάνιση και ιδιαίτερες απτικές αισθήσεις: εκλεπτυσμένη με μεταλλικό αποτέλεσμα
-    Ο μοναδικός σχεδιασμός θα σας επιτρέψει να βρείτε εύκολα τις βρύσες μας στο ράφι
-
-
-Συσκευασία: 10 blister
-Κουτί: 50 blister</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>797505111</SKU>
 		<EAN>7638900393330</EAN>
 		<Name>Energizer Αλκαλικές Μπαταρίες A27 12V 2τμχ</Name>
@@ -31950,7 +31704,7 @@ Made in Germany
 		<URL>https://www.skroutz.gr/s/60799503/esperanza-mpataria-zinc-aa-1-5v-10tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/060799/60799503/xlarge_20250603163855_esperanza_mpataria_zinc_aa_1_5v_10tmch.jpeg</Image>
 		<Additional_Image>https://b2b.esperanza.pl/zdjecie-produktu/05/EZB201</Additional_Image>
-		<Price>1.630091338182332</Price>
+		<Price>1.52</Price>
 		<Category> Μπαταρίες Zinc</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EZB201</MPN>
@@ -32145,40 +31899,6 @@ Volt: 3V</Description>
 
 Μέγεθος: 138x96x178</Description>
 		<Quantity>13</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>797510301</SKU>
-		<EAN>6920680835560</EAN>
-		<Name>XO Επαναφορτιζόμενος Φακός Κεφαλής LED Μαύρο YH01</Name>
-		<URL>https://www.skroutz.gr/s/42368545/XO-Epanafortizomenos-Fakos-Kefalis-LED-Mayro-16-001-0136.html#description</URL>
-		<Image>https://a.scdn.gr/images/sku_images/075896/75896725/xlarge_20230511113854_5ed9f630.jpeg</Image>
-		<Price>2.543798</Price>
-		<Category>Φακοί Φωτισμού</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>YH01</MPN>
-		<Description>Μπαταρία: 600mA/μπαταρία λιθίου
-
-Διάρκεια φωτισμού (ώρες):
-
-    Δυνατό φως: &gt;= 2 ώρες
-    Αδύναμο φως: &gt;= 4 ώρες
-    Φλας: &gt;= 12 ώρες
-
-Υλικό: PP πλαστικό + γυάλινος οπτικός φακός
-
-Παράμετροι φορτιστή και χρόνος φόρτισης:
-
-    3,5*1,35 κεφαλές/5V/400mA
-
-Λίστα εξαρτημάτων:
-
-    Προβολέας φόρτισης γραμμής x1
-    Καλώδιο φόρτισης USB x1
-    Λουρί κεφαλής x1
-
-Ο φορητός φακός YH01 600mAh έχει διάρκεια ζωής μπαταρίας έως 4 ώρες, μπορεί να φορτιστεί μέσω της θύρας micro USB και διαθέτει καλώδιο φόρτισης USB. Διαθέτει διάφορες λειτουργίες φωτισμού, συμπεριλαμβανομένης της ρύθμισης της φωτεινότητας και της αλλαγής του χρώματος του φωτός. Είναι ελαφρύς και εύκολος στη μεταφορά, ιδανικός για τσέπες ή τσάντες.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32621,54 +32341,6 @@ Volt: 3V</Description>
     Aνοξείδωτος αναδευτήρας
 </Description>
 		<Quantity>17</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799120201</SKU>
-		<EAN>5901299914151</EAN>
-		<Name>Esperanza Ψηφιακή Ζυγαριά Κουζίνας 1gr/5kg Black ΕKS002K</Name>
-		<URL>https://www.skroutz.gr/s/8024883/Esperanza-EKS002K-PSifiaki-Zygaria-Kouzinas-1gr-5kg-Black.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/008024/8024883/xlarge_20211110121521_esperanza_eks002k_psifiaki_zygaria_kouzinas_5kg_black_lemon.jpeg</Image>
-		<Price>5.984992395833333</Price>
-		<Category>Ζυγαριές Κουζίνας</Category>
-		<Manufacturer>Esperanza</Manufacturer>
-		<MPN>ΕKS002K</MPN>
-		<Description>Η ζυγαρία της Esperanza είναι κατάλληλη για την κουζίνα. Το μικρό της μέγεθος είναι ιδανικό για εύκολη αποθήκευση. Είναι κατασκευασμένη από γυαλί σε μοντέρνο design. Διαθέτει ψηφιακό κέντρο ελέγχου και μπορεί να ζυγίσει εως 5kg. Είναι κατάλληλο για τη ζύγιση όλων των ξηρών και υγρών τροφίμων.
-
-    Μεγάλη οθόνη LCD: 53 * 21.6mm 
-    Μέγεθος προϊόντος: 20.5 * 16.5 * 2cm 
-    Εξοπλισμένη με μέτρηση υψηλής ακρίβειας. 
-    Μέγιστη μέτρηση βάρους: 5000g 
-    Διαίρεση: 1g 
-    Τέσσερις μονάδες μέτρησης: g / lb / oz / kg 
-    Λειτουργία απόβαρου 
-    Ένδειξη υπερφόρτωσης 
-    Ένδειξη χαμηλής μπαταρίας</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799120202</SKU>
-		<EAN>5901299914168</EAN>
-		<Name>Esperanza Ψηφιακή Ζυγαριά Κουζίνας 1gr/5kg White EKS002W</Name>
-		<URL>https://www.skroutz.gr/s/8024873/Esperanza-EKS002W-PSifiaki-Zygaria-Kouzinas-1gr-5kg-White.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/008024/8024873/xlarge_20200214135318_esperanza_eks002w_lemon_white.jpeg</Image>
-		<Price>5.984992395833333</Price>
-		<Category>Ζυγαριές Κουζίνας</Category>
-		<Manufacturer>Esperanza</Manufacturer>
-		<MPN>EKS002W</MPN>
-		<Description>Η ζυγαρία της Esperanza είναι κατάλληλη για την κουζίνα. Το μικρό της μέγεθος είναι ιδανικό για εύκολη αποθήκευση. Είναι κατασκευασμένη από γυαλί σε μοντέρνο design. Διαθέτει ψηφιακό κέντρο ελέγχου και μπορεί να ζυγίσει εως 5kg. Είναι κατάλληλο για τη ζύγιση όλων των ξηρών και υγρών τροφίμων.
-
-Μεγάλη οθόνη LCD: 53 * 21.6mm 
-Μέγεθος προϊόντος: 20.5 * 16.5 * 2cm 
-Εξοπλισμένη με μέτρηση υψηλής ακρίβειας. 
-Μέγιστη μέτρηση βάρους: 5000g 
-Διαίρεση: 1g 
-Τέσσερις μονάδες μέτρησης: g / lb / oz / kg 
-Λειτουργία απόβαρου 
-Ένδειξη υπερφόρτωσης 
-Ένδειξη χαμηλής μπαταρίας</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33403,20 +33075,6 @@ Esperanza - Ατμομάγειρες Esperanza
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799171101</SKU>
-		<EAN>5901299949849</EAN>
-		<Name>Esperanza Seine Βραστήρας με LED Φωτισμό 1.8lt 2200W Black/Inox EKK026</Name>
-		<URL>https://www.skroutz.gr/s/18251467/Esperanza-Vrastiras-1-7lt-2200W-Asimi-EKK026.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/018251/18251467/xlarge_20190419093702_esperanza_ekk026.jpeg</Image>
-		<Price>26.989778</Price>
-		<Category>Βραστήρες</Category>
-		<Manufacturer>Esperanza</Manufacturer>
-		<MPN>EKK026</MPN>
-		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7991711011</SKU>
 		<EAN>5901299949863</EAN>
 		<Name>Esperanza Loire Βραστήρας με LED Φωτισμό 1.7lt 2200W Μαύρος EKK027</Name>
@@ -33545,7 +33203,7 @@ Esperanza - Ατμομάγειρες Esperanza
 		<URL>https://www.skroutz.gr/s/10641965/Esperanza-Robusta-EKC006-Kafetiera-Filtrou-650W-Black.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/010641/10641965/xlarge_20230731104854_esperanza_ekc006_robusta_kafetiera_filtrou_650w_black.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/033562/33562575/xlarge_20200706142620_a4f43683.jpeg https://a.scdn.gr/images/sku_images/033562/33562577/xlarge_20200706142623_74706629.jpeg https://c.scdn.gr/images/sku_images/113629/113629324/xlarge_20250704104249_b366e579.jpeg</Additional_Image>
-		<Price>13.16</Price>
+		<Price>12.94</Price>
 		<Category>Καφετιέρες Φίλτρου</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKC006</MPN>
@@ -34413,30 +34071,6 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
     Διαστάσεις: 33 x 20 x 50.5 cm
     Ισχύς συντήρησης (Λειτουργία αδράνειας, ταχύτητα ανεμιστήρα 1/2/3): (30W / 30W / 36W / 43W)</Description>
 		<Quantity>38</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799210501</SKU>
-		<EAN>5901299955529</EAN>
-		<Name>Esperanza Ηλεκτρική Εντομοπαγίδα Led 30W EHQ007</Name>
-		<URL>https://www.skroutz.gr/s/35733108/Esperanza-Ilektriki-Entomopagida-Led-30W-EHQ007.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/035733/35733108/xlarge_20240702161543_esperanza_ilektriki_entomopagida_led_30w_ehq007.jpeg</Image>
-		<Price>33.76</Price>
-		<Category>Ηλεκτρικές Εντομοπαγίδες</Category>
-		<Manufacturer>Esperanza</Manufacturer>
-		<MPN>EHQ007</MPN>
-		<Description>Η λάμπα εντομοκτόνου Esperanza είναι πολύ αποτελεσματική στο να προσελκύει έντομα όπως μύγες, σκώρους, κουνούπια και άλλα ιπτάμενα έντομα και στη συνέχεια να τα σκοτώνει σιωπηλά.
-
-Δεν χρησιμοποιεί χημικά, σπρέι και δεν εκπέμπει οσμές. Δεν είναι επιβλαβές για τον άνθρωπο ή τα κατοικίδια. Είναι ιδανικό για χρήση στο σπίτι, κήπους, εργοστάσια, χώρους επεξεργασίας τροφίμων, ψυκτικές αποθήκες και νοσοκομεία κ.λπ. Απολαύστε τη καλοκαιρινή σας νύχτα χωρίς ενόχληση από έντομα!
-
-    Ονομαστική τάση: 220V-240V~/50Hz-60HZ
-    Τύπος λαμπτήρα: Λάμπα UV-A BL T8 F15W x 2 τεμάχια
-    Ισχύς εξόδου: 30 W
-    Εσωτερική τάση δικτύου: 2500 V
-    Επιφάνεια εφαρμογής: 100 m²
-    Μήκος καλωδίου: 120 cm
-    Μέγεθος προϊόντος: 48,5 x 7,5 x 25,0 [cm]</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35337,7 +34971,7 @@ Airbnb
 		<Name>Esperanza Παλμικό Οξύμετρο Δακτύλου Μαύρο ECO001</Name>
 		<URL>https://www.skroutz.gr/s/11875610/Esperanza-ECO001-Palmiko-Oxymetro-Daktylou-Mayro.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/011875/11875610/xlarge_20211022121832_esperanza_palmiko_oxymetro_daktylou_eco001.jpeg</Image>
-		<Price>14.17</Price>
+		<Price>1.61</Price>
 		<Category>Οξύμετρα</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>ECO001</MPN>
@@ -35534,50 +35168,12 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799400153</SKU>
-		<EAN>5901299914946</EAN>
-		<Name>Esperanza Zephyr Νεφελοποιητής, Συσκευή Εισπνοών για Άσθμα, Αλλεργίες ή Αναπνευστικές Διαταραχές  ECN002</Name>
-		<URL>https://www.skroutz.gr/s/12701851/Esperanza-Zephyr-Nefelopoiitis-ECN002.html#sofos-entrypoint</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/012701/12701851/xlarge_20230214112951_esperanza_zephyr_nefelopoiitis_ecn002.jpeg</Image>
-		<Additional_Image>https://b.scdn.gr/images/sku_images/071866/71866557/xlarge_20230214112951_da494053.jpeg</Additional_Image>
-		<Price>22.52688625</Price>
-		<Category>Νεφελοποιητές</Category>
-		<Manufacturer>Esperanza</Manufacturer>
-		<MPN>ECN002</MPN>
-		<Description>Εκνεφωτής που συμβάλλει στη θεραπεία του άσθματος, των αλλεργιών και άλλων αναπνευστικών διαταραχών.
-
-Χαρακτηριστικά
-Επιτρέπει αποτελεσματικά την παροχή αερολυμένων δόσεων με κλινική ακρίβεια. 
-Εξαιρετικά εύκολο στη χρήση, απλώς πατήστε ένα κουμπί για να ξεκινήσετε.
-Αποτελεσματικό, ανθεκτικό και αθόρυβο στη χρήση. 
-Συμπεριλαμβάνει δύο μάσκες διαφορετικών μεγεθών και επιπλέον επιστόμιο που επιτρέπει τη χρήση του νεφελοποιητή σε βρέφη και παιδιά.
-Τεχνικά Χαρακτηριστικά
-Ισχύς: 220V, 50 Hz
-Ρεύμα: 0,8Α
-Χωρητικότητα φαρμάκου: 10 ml
-Μέγεθος σωματιδίων: 0,5 έως 10 um
-Επίπεδο ήχου ≤ 55 dBA
-Μέσος ρυθμός νεφελοποίησης ≤ 0,4 ml / λεπτό
-Εύρος πίεσης συμπιεστή: 29 έως 55 Psi (200 έως 380 KPa / 2 έως 3,8 bar)
-Εύρος πίεσης λειτουργίας: 9 έως 19 Psi (60 έως 130KPa / 0,6 έως 1,3 bar)
-Εύρος ροής λίτρου ≤ 8L / Min
-Εύρος θερμοκρασίας λειτουργίας: 10o C έως 40o C
-Εύρος λειτουργίας υγρασίας: 10 έως 95% RH
-Εύρος θερμοκρασίας αποθήκευσης: -20o C έως 70o C 
-Περιεχόμενα Συσκευασίας
-Νεφελοποιητής
-Ακροστόμιο
-2 μάσκες διαφορετικών μεγεθών (ενηλίκων και βρεφική/παιδική)</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799400161</SKU>
 		<EAN>5901299954935</EAN>
 		<Name>Βρεφική Ψηφιακή Ζυγαριά Esperanza, έως 20 kg, οθόνη LCD, 545x320x30mm, Λευκή EBS019</Name>
 		<URL>https://www.skroutz.gr/s/21332059/Esperanza-PSifiakos-Vrefozygos-EBS019.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/077339/77339157/xlarge_20230615153501_b805031c.jpeg</Image>
-		<Price>21.96764625</Price>
+		<Price>19.95</Price>
 		<Category>Βρεφοζυγοί</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EBS019</MPN>
@@ -35606,7 +35202,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Name>Smart Ζυγαριά με Λιπομετρητή &amp; Bluetooth σε Μαύρο χρώμα 01958</Name>
 		<URL>https://www.skroutz.gr/s/40034240/Smart-Zygaria-me-Lipometriti-Bluetooth-se-Mayro-chroma-01958.html#reviews</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/040034/40034240/xlarge_20221216131346_smart_zygaria_me_lipometriti_bluetooth_se_mayro_chroma_01958.jpeg</Image>
-		<Price>7.12</Price>
+		<Price>6.99</Price>
 		<Category>Ζυγαριές Μπάνιου</Category>
 		<Manufacturer>ControlBios</Manufacturer>
 		<MPN>1958</MPN>
@@ -35624,7 +35220,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Name>Esperanza Ψηφιακή Ζυγαριά σε χρώμα Χακί Sunshine EBS006</Name>
 		<URL>https://www.skroutz.gr/s/12134940/Esperanza-EBS006-PSifiaki-Zygaria-se-chroma-CHaki-Sunshine.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/012134/12134940/xlarge_20250715090420_esperanza_ebs006_psifiaki_zygaria_se_chroma_chaki_sunshine.jpeg</Image>
-		<Price>6.99</Price>
+		<Price>5.93</Price>
 		<Category>Ζυγαριές Μπάνιου</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EBS006</MPN>
@@ -35663,73 +35259,6 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799500102</SKU>
-		<EAN>6941876236688</EAN>
-		<Name>Ugreen GaN Φορτιστής Χωρίς Καλώδιο 65W 1xUSB-A 2xUSB-C PDx2+QC4.0 Grey/Black CD361 (25685Β)</Name>
-		<URL>https://www.skroutz.gr/s/56688617/Ugreen-Fortistis-CHoris-Kalodio-GaN-me-THyra-USB-A-kai-2-THyres-USB-C-65W-Power-Delivery-Quick-Charge-4-0-Gri-Robot.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/056688/56688617/20241007141342_ugreen_fortistis_choris_kalodio_gan_me_thyra_usb_a_kai_2_thyres_usb_c_65w_power_delivery_quick_charge_4_0_gri_robot.jpeg</Image>
-		<Price>31.3560253125</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>UGREEN</Manufacturer>
-		<MPN>1699</MPN>
-		<Description>Μικρός και χαριτωμένος, ο φορτιστής Ugreen CD361 Robot GaN σε γκρι χρώμα διαθέτει:
-
-    Ικανότητα φόρτισης 65W
-    Τρεις θύρες φόρτισης (2x USB-C και 1x USB-A)
-
-Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικός.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799500103</SKU>
-		<EAN>6941876230433</EAN>
-		<Name>Ugreen Φορτιστής GaN Χωρίς Καλώδιο με Θύρα USB-A και 3 Θύρες USB-C 100W Power Delivery / Quick Charge 2.0 / Quick Charge 3.0 / Quick Charge 4.0 Grey/Black X565/35043</Name>
-		<URL>https://www.skroutz.gr/s/55643422/Ugreen-Fortistis-CHoris-Kalodio-GaN-me-THyra-USB-A-kai-3-THyres-USB-C-100W-Power-Delivery-Quick-Charge-2-0-Quick-Charge-3-0-Quick-Charge-4-0-Gri-Nexode-S.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/055643/55643422/xlarge_20241217144133_ugreen_fortistis_choris_kalodio_gan_me_thyra_usb_a_kai_3_thyres_usb_c_100w_power_delivery_quick_charge_2_0_quick_charge_3_0_quick_charge_4_0_gri_nexod.jpeg</Image>
-		<Additional_Image>https://cdn.omax.bg/images/products/full/5/8/3/2/0/c/omax.bg-ugree-220v-charger-x565-35043-2.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/0/c/omax.bg-ugree-220v-charger-x565-35043-3.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/0/c/omax.bg-ugree-220v-charger-x565-35043-4.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/0/c/omax.bg-ugree-220v-charger-x565-35043-5.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/0/c/omax.bg-ugree-220v-charger-x565-35043-6.jpeg</Additional_Image>
-		<Price>39.9106884375</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>UGREEN</Manufacturer>
-		<MPN>35043</MPN>
-		<Description>* Γρήγορος φορτιστής εξοπλισμένος με προηγμένο τσιπ GaNInfinity, χάρη στο οποίο επιτρέπει γρήγορη φόρτιση με ισχύ έως 100W.
-* Ρεύμα εισόδου: 100-240V 50/60 Hz 2,3A.
-* Ισχύς εξόδου: 100W Μέγ.
-* Διαθέσιμες θύρες:
-  - 1xUSB-A - 4,5V/5A, 5V/4,5A, 5V/3A, 9V/2A, 12V/1,5A, Προσαρμοστική φόρτιση (μέγ. 22,5W).
-  - USB-C1/2: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3,3-21V/5A, Προσαρμοστική φόρτιση PPS (μέγ. 100W).
-  - USB-C3 - 5V/3A, 9V/2.5A, 12V/1.88A, 3.3-5.9V/3A, 3.3-11V/2A, Προσαρμοστική φόρτιση (μέγιστο 22.5W).
-* Πρωτόκολλα γρήγορης φόρτισης: PD 3.0/2.0; QC 4.0+/4.0/3.0/2.0; 5V1A; 5V/2.4A; AFC; SCP; PPS.
-* Υλικό: Πυράντοχος υπολογιστής.
-* Ενσωματωμένη προστασία από βραχυκύκλωμα, υπέρταση, υπερθέρμανση, υπερένταση και άλλα. Χρησιμοποιεί επίσης ειδικά σχεδιασμένη τεχνολογία Thermal Guard που παρακολουθεί τη θερμοκρασία σε πραγματικό χρόνο.
-* Μέγεθος: 6.9 x 6.9 x 3.3 cm.
-* Βάρος: 245 g.
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799500111</SKU>
-		<EAN>6941876247752</EAN>
-		<Name>Ugreen Ασύρματος Φορτιστής Robot Disign 2-in-1 Magnetic Charging Station Qi2 15W iPhone + 5W AirPods + USB-C 5W with 70° Angle Adjustment - Γκρι/Μαύρος W709 / 45775</Name>
-		<URL>https://www.skroutz.gr/s/58252030/Ugreen-Asyrmatos-Fortistis-Qi2-15W-Power-Delivery-Mayros-W709.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/058252/58252030/xlarge_20250207170503_ugreen_asyrmatos_fortistis_qi2_15w_power_delivery_mayros_w709.jpeg</Image>
-		<Additional_Image>https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-4.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-2.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-3.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-5.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-6.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-7.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-8.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-9.jpg https://d.scdn.gr/images/sku_images/105915/105915043/xlarge_20250110123809_d74f91e6.jpeg </Additional_Image>
-		<Price>35.57</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>Ugreen</Manufacturer>
-		<MPN>W709 / 45775</MPN>
-		<Description>* Μαγνητικός ασύρματος φορτιστής 2 σε 1 UGREEN W709.
-* Πιστοποιημένος Qi2 φορτιστής 15W.
-* Συμβατός με τα πρότυπα MagSafe και Qi2, σχεδιασμένος για γρήγορη και αποτελεσματική φόρτιση iPhone και AirPods.
-* Πιστοποιημένη Qi2 γρήγορη φόρτιση: Υποστηρίζει ασύρματη φόρτιση έως και 15W για iPhone σειράς 12-17.
-* Επιτρέπει την ταυτόχρονη φόρτιση iPhone (έως 15W) και AirPods (έως 5W).
-* Ο συμπαγής και ελαφρύς σχεδιασμός επιτρέπει την εύκολη μεταφορά και η ρυθμιζόμενη γωνία έως 70° παρέχει άνεση κατά τη χρήση.
-* Ενσωματωμένη προστασία από υπέρταση, υπερθέρμανση, βραχυκύκλωμα και ξένα αντικείμενα, εξασφαλίζοντας ασφαλή φόρτιση.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799500112</SKU>
 		<EAN>6941876233168</EAN>
 		<Name>Ugreen Φορτιστής Magsafe 2-in-1 Magnetic Charging Station Qi2 15W με Θύρα USB-C Γκρι/Μαύρος W702 / 35316</Name>
@@ -35747,20 +35276,6 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 * Οι ενσωματωμένοι μαγνήτες N52*18 διασφαλίζουν την ασφαλή στερέωση της συσκευής κατά τη φόρτιση.
 * Ενσωματωμένες προστασίες από υπέρταση, υπερθέρμανση, βραχυκύκλωμα και ξένα αντικείμενα, εξασφαλίζοντας ασφαλή φόρτιση.</Description>
 		<Quantity>30</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799500202</SKU>
-		<EAN>6957303849147</EAN>
-		<Name>Ugreen GaN II Φορτιστής Με Καλώδιο 200W 2xUSB-A 4xUSB-C PDx4 &amp; QC4.0x2 Grey/Black CD271 (40914)</Name>
-		<URL>https://www.skroutz.gr/s/38305046/Ugreen-Vasi-Fortisis-me-2-THyres-USB-A-kai-4-THyres-USB-C-200W-Power-Delivery-Quick-Charge-2-0-se-Mayro-chroma-Nexode-GaN-CD271.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/038305/38305046/20220922144007_ugreen_vasi_fortisis_me_2_thyres_usb_a_kai_4_thyres_usb_c_power_delivery_quick_charge_2_0_se_mayro_chroma_cd271.jpeg</Image>
-		<Price>78.13</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>UGREEN</Manufacturer>
-		<MPN>1701</MPN>
-		<Description>Η βάση φόρτισης της εταιρείας Ugreen επιτρέπει την ταυτόχρονη φόρτιση συσκευών χάρη στις θύρες που διαθέτει. Αφού η βάση συνδεθεί στο ρεύμα, μπορούμε να συνδέσουμε το καλώδιο φόρτισης του κινητού μας στη βάση για να φορτίσουμε το κινητό. Υποστηρίζει γρήγορη φόρτιση Power Delivery, Quick Charge 2.0, η οποία θα πρέπει να είναι συμβατή με το κινητό σας. Σε αντίθετη περίπτωση, το κινητό σας θα φορτίσει αργά, όπως με ένα συμβατικό φορτιστή.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35828,27 +35343,6 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799510391</SKU>
-		<EAN>6920680826049</EAN>
-		<Name>XO Πολύπριζο EU Smart Τοίχου με Βάση Κινητού και Νυχτερινό Φώς (2AC+2USB 2.4A) Άσπρο WL09-26049</Name>
-		<URL>https://www.skroutz.gr/s/36336918/XO-WL09-EU-Taf-2-THeseon-me-2-USB-A-16-006-0159.html</URL>
-		<Image>https://b.scdn.gr/images/sku_images/060690/60690438/xlarge_20220601101422_b3fb867f.jpeg</Image>
-		<Price>12.83958</Price>
-		<Category>Πολύπριζα &amp; Ταφ</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>16.006.0159</MPN>
-		<Description>Χαρακτηριστικά:
-
-    Ευρωπαϊκό πολύμπριζο 2AC+2USB
-    Με φως
-    Με ράφι στήριξης κινητού
-    Βάρος: 265g
-    Μέγεθος ραφιού: 179,9 x 90,8mm
-    Διαστάσεις: 91x77.5x97.6mm</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799510501</SKU>
 		<EAN>6920680871322</EAN>
 		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο USB-C Λευκός L65EU (L109EU)</Name>
@@ -35864,32 +35358,6 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 
 Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε USB-C με μήκος 1 μέτρο.</Description>
 		<Quantity>98</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799510503</SKU>
-		<EAN>6920680827923</EAN>
-		<Name>XO Φορτιστής 2.4A με Θύρα USB-A και Καλώδιο Lightning  Λευκός L99-27923</Name>
-		<URL>https://www.skroutz.gr/s/37745489/XO-Fortistis-me-THyra-USB-A-kai-Kalodio-Lightning-Leykos-L99.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/037745/37745489/xlarge_20240129092707_xo_fortistis_me_thyra_usb_a_kai_kalodio_lightning_leykos_l99.jpeg</Image>
-		<Additional_Image>https://a.scdn.gr/images/sku_images/066138/66138118/xlarge_20221017170718_4ad6a2e5.jpeg https://d.scdn.gr/images/sku_images/066138/66138125/xlarge_20221017170718_1367fcc8.jpeg https://a.scdn.gr/images/sku_images/066138/66138114/xlarge_20221017170718_a24bc140.jpeg https://d.scdn.gr/images/sku_images/066138/66138106/xlarge_20221017170718_b4d9b1cd.jpeg https://d.scdn.gr/images/sku_images/066138/66138105/xlarge_20221017170718_a989920b.jpeg https://d.scdn.gr/images/sku_images/087625/87625962/xlarge_20240129092708_5aae7d09.jpeg</Additional_Image>
-		<Price>2.0365151625</Price>
-		<Category>Φορτιστές Κινητών</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>L99-27923</MPN>
-		<Description>Φορτιστής τοίχου XO L99 με καλώδιο Lightning NB103 2.4A (λευκό)
-
-Ρεύμα εισόδου: AC 110-240V, 50/60 Hz, 0.3A
-Ρεύμα εξόδου: DC 5V/2.4A
-Υλικό: ABS
-Διαστάσεις: 75 x 37 x 22.5 mm
-Βάρος: 30 g
-Μήκος καλωδίου: 1 m
-Διεπαφή καλωδίου: USB-A προς Lightning
-Ο φορτιστής διαθέτει προηγμένο PWM chip που παρακολουθεί και ρυθμίζει τη ροή του ρεύματος, εξασφαλίζοντας βέλτιστες συνθήκες φόρτισης και ελαχιστοποιώντας τον κίνδυνο υπερθέρμανσης, υπερτάσης ή υπερφόρτωσης.
-
-Συμπεριλαμβάνεται φορτιστής τοίχου και καλώδιο USB-A προς Lightning.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36063,59 +35531,6 @@ Watt: 12W
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799510792</SKU>
-		<EAN>6941237165121</EAN>
-		<Name>Joyroom JR-CL06 Φορτιστής Αυτοκινήτου 154W 3A Γρήγορης Φόρτισης με Θύρες: 5xUSB 1xType-C 3xΑναπτήρα Μαύρο Χρώμα</Name>
-		<URL>https://www.skroutz.gr/s/32539076/Joyroom-JR-CL06-Fortistis-Aytokinitou-154W-3A-Grigoris-Fortisis-me-THyres-5xUSB-1xType-C-3xAnaptira-Mayro-CHroma-277540.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/032539/32539076/xlarge_20211123112309_joyroom_fortistis_aytokinitou_mayros_jr_cl06_3_0a_me_thyres_5xusb_1xtype_c_3xanaptira_277540.jpeg</Image>
-		<Additional_Image>https://static3.eu.hurtel.com/hpeciai/323f9f4e339a0ea294fe396a39da27e0/eng_pm_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_11.jpg https://static3.eu.hurtel.com/hpeciai/864609a8e4a6db26031d803eebc306f2/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_12.jpg https://static4.eu.hurtel.com/hpeciai/215936fbfe9fd01ee11085c26565df1e/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_13.jpg https://static2.eu.hurtel.com/hpeciai/f67ffabc8cdf305a65b6d0652ebd36de/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_14.jpg https://static3.eu.hurtel.com/hpeciai/cdc57477d538b3241b41a50465b148d3/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_15.jpg https://static5.eu.hurtel.com/hpeciai/7f32716555a8905f2e9719b0afba54fb/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_16.jpg https://static4.eu.hurtel.com/hpeciai/992b41b4b3af8bd95453bdb27bd7a45d/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_8.jpg https://static3.eu.hurtel.com/hpeciai/f889f4e6d8b268214c816abd04a81a5b/eng_pl_Joyroom-JR-CL06-9in1-car-charger-154W-5x-USB-A-USB-C-3x-cigarette-lighter-socket-PD-QC-PPS-black-81323_9.jpg </Additional_Image>
-		<Price>14.821875</Price>
-		<Category>Φορτιστές Αναπτήρα Αυτοκινήτου</Category>
-		<Manufacturer>Joyroom</Manufacturer>
-		<MPN>79951079-02</MPN>
-		<Description>Φορτιστής αυτοκινήτου Joyroom με διαχωριστή θύρας αναπτήρα (3 x 12V, PD USB Type C, QC3.0 USB-A, 4 x USB-A) 154W μαύρο (JR-CL06)
-
-Ένας φορτιστής για πολλές συσκευές στο όχημά σας. Χωρίς υπερβολικό αριθμό καλωδίων, χωρίς ακαταστασία ή ανησυχία για το αν θα λειτουργήσει με ένα συγκεκριμένο smartphone ή άλλο εξοπλισμό. Ακούγεται υπέροχο; Ευτυχώς, είναι δυνατό και διαθέσιμο στα χέρια σας. Ο φορτιστής Joyroom JR-CL06 θα σας επιτρέψει να τροφοδοτείτε γρήγορα πολλές διαφορετικές συσκευές ταυτόχρονα, επεκτείνοντας τη λειτουργικότητα κάθε οχήματος . Μια επιλογή ιδανική για ταξιδιώτες με οικογένεια ή μια μεγαλύτερη ομάδα φίλων και την ανάγκη τροφοδοσίας πολλών συσκευών με ισχύ έως και 154W.
-
-Προσδιορισμός:
-
-Μάρκα: Joyroom
-Μοντέλο: JR-CL06
-Υλικό: αλουμίνιο + PC
-USB1: 5V=3A, 9V=2A, 12V=1.5A
-USB2 Τύπου-C: 5V/3A, 9V/2,22A, 12V/1,67 A
-USB3 + USB4 + USB5: 5V/3.6A
-USB6 QC: 5V/3A, 9V/2A, 12V/1,5A
-Μέγιστο φορτίο: έως 154 W
-Οθόνη LED
-Συμβατό με συσκευές: iOS, Android
-Μήκος καλωδίου: 100 εκ.
-Καθαρό βάρος: 195 γρ.
-Διαστάσεις φορτιστή αυτοκινήτου: 74,5x38x23,3 mm
-Διαστάσεις φορτιστή αναπτήρα: 70x125x31,5 mm
-Συμβατότητα: επιβατικά αυτοκίνητα (12V), φορτηγά (24V)
-Μαύρο χρώμα
-Τα σημαντικότερα πλεονεκτήματα του φορτιστή αυτοκινήτου Joyroom JR-CL06:
-
-Το όχημά σας αποκτά νέες δυνατότητες. Εκτός από τη σύνδεση συσκευών σε θύρες USB, μπορείτε να χρησιμοποιήσετε 3 επιπλέον υποδοχές αναπτήρα. Αυτός ο φορτιστής μπορεί να λειτουργήσει με φορτίο έως και 154W!
-Μια ασφαλής επιλογή για τους οδηγούς. Έως και 6 τύποι προστασίας σας εγγυώνται ότι δεν θα προκληθούν ζημιές ή ατυχήματα που σχετίζονται με υπερβολική τάση ή υπερθέρμανση.
-Μπορείτε να παρακολουθείτε την κατάσταση των συσκευών σας σε συνεχή βάση. Η ευκρινής οθόνη LED εμφανίζει την κατάσταση της μπαταρίας σε πραγματικό χρόνο. Έχετε τον πλήρη έλεγχο.
-Για επιβατικά αυτοκίνητα και άλλα. Χρησιμοποιήστε το αξεσουάρ σε οποιοδήποτε όχημα, ανεξάρτητα από το αν οδηγείτε SUV, μικρό επιβατικό αυτοκίνητο ή ισχυρό φορτηγό.
-Μακρύ καλώδιο. Το
-καλώδιο μήκους έως και 100 cm σάς επιτρέπει να χρησιμοποιείτε ελεύθερα τον φορτιστή οπουδήποτε, σε οποιαδήποτε θέση. Η πλεξούδα από νάιλον διασφαλίζει ότι το καλώδιο στο εσωτερικό δεν θα υποστεί ζημιά .
-
-Ευρεία συμβατότητα
-Ένας φορτιστής αυτοκινήτου 3 σε 1, έως και 5 επιπλέον θύρες USB και 1 είσοδος Type C μπορούν να τροφοδοτήσουν τις συσκευές σας ταυτόχρονα . Μπορούν να λειτουργούν ταυτόχρονα με μια κάμερα που καταγράφει τη διαδρομή, θερμαντήρες καθισμάτων, μια ηλεκτρική σκούπα και ένα κινητό ψυγείο. Όλα αυτά με ταχύτητα αστραπής.
-
-Εύκολο στη χρήση
-Δεν χρειάζεται να ανησυχείτε για περίπλοκη εγκατάσταση ή να περιηγείστε σε πολυσέλιδα εγχειρίδια χρήσης. Ο φορτιστής αυτοκινήτου Joyroom JR-CL06 λειτουργεί σε λειτουργία plug &amp; play - αμέσως μετά τη σύνδεσή του στην πρίζα.
-
-Γρήγορη και ασφαλής φόρτιση.
-Θα μπορεί αυτός ο φορτιστής να τροφοδοτεί γρήγορα το smartphone μου; Δεν χρειάζεται πλέον να αναρωτιέστε, επειδή το μοντέλο Joyroom υποστηρίζει τα πρότυπα γρήγορης φόρτισης Power Delivery, Quick Charge, PPS, FCP, AFC , ώστε να είστε σίγουροι όχι μόνο για την εξοικονόμηση χρόνου, αλλά και για την προστασία του εξοπλισμού σας. Δεν θα υποστεί ζημιά από υπέρταση ή υπερθέρμανση.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799510801</SKU>
 		<EAN>6981050070052</EAN>
 		<Name>ATC Universal Τροφοδοτικό 5V 2A 10W 5.5 x 2.1mm (05.007.0052)</Name>
@@ -36234,81 +35649,6 @@ USB6 QC: 5V/3A, 9V/2A, 12V/1,5A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799511501</SKU>
-		<EAN>6941027651605</EAN>
-		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Black 1.2m (WDC-50) 250847</Name>
-		<URL>https://www.skroutz.gr/s/58249391/WK-Braided-USB-A-to-Lightning-Cable-240W-Mayro-1-2m.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/058249/58249391/20250113123843_wk_braided_usb_a_to_lightning_cable_240w_mayro_1_2m.jpeg</Image>
-		<Price>7.454056075799999</Price>
-		<Category>Καλώδια Lightning</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1710</MPN>
-		<Description>Το καλώδιο Lightning 240W Super Fast Charging διαθέτει θήκη από ψευδάργυρο, ανθεκτική και στιβαρή. Υποστηρίζει έξοδο ισχύος 240W και ενσωματώνει 6 πυρήνες για καλύτερη απόδοση. Συμβατό με πολλαπλά πρωτόκολλα, προσφέρει ευκολία στη χρήση και διαθέτει σχεδίαση 4-σε-1 με εναλλάξιμους συνδέτες για πολλές συνδυαστικές επιλογές.
-
-Η σχεδίαση του εμπνέεται από το υβριδικό στυλ, συνδυάζοντας την τεχνολογία με την αισθητική, ενώ το καλώδιο είναι κατασκευασμένο από υλικά υψηλής πυκνότητας που αυξάνουν την αντοχή του στην φθορά. Τα υλικά περιλαμβάνουν ψευδάργυρο και υγρό σιλικόνη.
-
-    Μήκος καλωδίου: 1200mm
-    Διάμετρος: φ6.0mm
-    Χωρητικότητα μετάδοσης: 480Mbps / 5A-240W Max
-    Plug: A-C / A-L / C-C / C-L
-
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799511502</SKU>
-		<EAN>6941027651124</EAN>
-		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Grey 1m Μαγνητικής τύλιξης (WDC-48) 250846</Name>
-		<URL>https://www.skroutz.gr/s/58281901/WK-Braided-USB-C-to-Lightning-Cable-240W-Gri-1m.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/058281/58281901/20250115114716_wk_braided_usb_c_to_lightning_cable_240w_gri_1m.jpeg</Image>
-		<Price>10.5000282342</Price>
-		<Category>Καλώδια Lightning</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1711</MPN>
-		<Description>Αυτόματο μάζεμα για εύκολη αποθήκευση, απαλλαγείτε από την ακαταστασία.
-
-Μινιμαλιστικός σχεδιασμός που συνδυάζει μόδα και πρακτικότητα.
-
-Ικανό να φορτίσει διάφορες συσκευές, πολυλειτουργικό 4-σε-1 (A-C/A-L/C-C/C-L).
-
-Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
-
-240W (Μέγ.) υψηλή ισχύς εξόδου.
-
-    Υλικό: Αλουμίνιο, TPE
-    Μήκος καλωδίου: 1000mm
-    Μετάδοση: 480Mbps/5A 240W Max
-    Τύπος: USB / Type-C προς iPhone / Type-C
-    Χρώμα: Γκρι
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799511512</SKU>
-		<EAN>6941027606759</EAN>
-		<Name>WK Charging-Data Cable USB to Lightning 2.4A Λευκό 1m (WDC-092) 250608</Name>
-		<URL>https://www.skroutz.gr/s/33360048/WK-WDC-092-USB-to-Lightning-Cable-Leyko-1m.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/033360/33360048/20220510163943_wk_wdc_092_usb_to_lightning_cable_leyko_1m.jpeg</Image>
-		<Price>1.7904888798</Price>
-		<Category>Καλώδια Lightning</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1713</MPN>
-		<Description>WDC-092 Full Speed Pro Cable
-
-    Γρήγορη φόρτιση 2.4A
-    Υψηλή αποδοτικότητα ταχύτητας δεδομένων
-    Φόρτιση και μεταφορά δεδομένων 2 σε 1
-    Υλικό: Εσωτερικό PE, Εξωτερικό PVC
-    Έξοδος: 2.4A Μέγιστο
-    Βάρος: 36g
-    Μήκος: 1000mm
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799511513</SKU>
 		<EAN>6941027606803</EAN>
 		<Name>WK Charging-Data Cable USB to USB-C 2.4A Μαύρο 1m (WDC-092) 250613</Name>
@@ -36328,48 +35668,6 @@ Premium αλουμίνιο + κομψό πλεγμένο καλώδιο.
     Μήκος: 1000mm
 </Description>
 		<Quantity>3</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799511514</SKU>
-		<EAN>6941027606797</EAN>
-		<Name>WK Charging-Data Cable USB to USB-C 2.4A Λευκό 1m (WDC-092) 606797</Name>
-		<URL>https://www.skroutz.gr/s/33358430/WK-WDC-092-USB-2-0-Cable-USB-C-male-USB-A-male-Leyko-1m.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/033358/33358430/20220817152229_wk_wdc_092_usb_2_0_cable_usb_c_male_usb_a_male_leyko_1m.jpeg</Image>
-		<Price>1.7904888798</Price>
-		<Category>Καλώδια USB Type-C</Category>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1715</MPN>
-		<Description>Καλώδιο WDC-092 Full Speed Pro, κατάλληλο για γρήγορη φόρτιση με 2.4A και υψηλή αποδοτικότητα. Υποστηρίζει ταυτόχρονη φόρτιση και μεταφορά δεδομένων 2 σε 1.
-
-    Υλικό: PE εσωτερικά, PVC εξωτερικά
-    Έξοδος: 2.4A Max
-    Βάρος: 36g
-    Μήκος: 1000mm
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7995115202</SKU>
-		<EAN>6920680858729</EAN>
-		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Λευκό NB280-58729</Name>
-		<URL>https://www.skroutz.gr/s/57567267/XO-Nb280-USB-2-0-Cable-USB-C-male-USB-A-Leyko-1m-16-005-0348.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/057567/57567267/xlarge_20241120122340_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_leyko_1m_16_005_0348.jpeg</Image>
-		<Price>0.7570348800000001</Price>
-		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN> 16.005.0348</MPN>
-		<Description>Μοντέλο: XO NB280
-
-Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C
-
-Μήκος: 1M
-
-Ρεύμα: 3A
-
-Χρώμα: Λευκό</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36524,28 +35822,6 @@ USB-C
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7995115301</SKU>
-		<EAN>6920680858675</EAN>
-		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Μαύρο NB280-58675</Name>
-		<URL>https://www.skroutz.gr/s/57566704/XO-USB-A-to-Lightning-Cable-Mayro-1m-16-005-0341.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/057566/57566704/xlarge_20241120121547_xo_usb_a_to_lightning_cable_mayro_1m_16_005_0341.jpeg</Image>
-		<Price>0.543678</Price>
-		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN> 16.005.0341</MPN>
-		<Description>Μοντέλο: XO NB280
-
-Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Lightning
-
-Μήκος: 1M
-
-Ρεύμα: 3A
-
-Χρώμα: Μαύρο</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>79951153022</SKU>
 		<EAN>6920680833412</EAN>
 		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 2,4A Λευκό NB230-33412</Name>
@@ -36615,50 +35891,6 @@ USB-C
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7995115401</SKU>
-		<EAN>6920680858705</EAN>
-		<Name>XO Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Μαύρο 1m NB280-58705</Name>
-		<URL>https://www.skroutz.gr/s/57567270/XO-Nb280-Regular-USB-2-0-to-micro-USB-Cable-Mayro-1m-16-005-0344-1tmch.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/057567/57567270/xlarge_20241120122340_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_mayro_1m_16_005_0344.jpeg</Image>
-		<Price>0.528984</Price>
-		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN> 16.005.0344</MPN>
-		<Description>Μοντέλο: XO NB280
-
-Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C
-
-Μήκος: 1M
-
-Ρεύμα: 3A
-
-Χρώμα: Μαύρο</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7995115402</SKU>
-		<EAN>6920680858699</EAN>
-		<Name>XO Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Λευκό 1m NB280-58699</Name>
-		<URL>https://www.skroutz.gr/s/57567263/XO-Nb280-Regular-USB-2-0-to-micro-USB-Cable-Leyko-1m-16-005-0345-1tmch.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/057567/57567263/xlarge_20241120122339_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_leyko_1m_16_005_0345.jpeg</Image>
-		<Price>0.528984</Price>
-		<Category>Καλώδια Φόρτισης και Μεταφοράς Δεδομένων</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN> 16.005.0345</MPN>
-		<Description>Μοντέλο: XO NB280
-
-Τύπος Καλωδίου: Καλώδιο Δεδομένων Type-C
-
-Μήκος: 1M
-
-Ρεύμα: 3A
-
-Χρώμα: Λευκό</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>7995116043</SKU>
 		<EAN>6956116758622</EAN>
 		<Name>Joyroom Braided 4in1 USB-A to 2x Lightning / Type-C / micro USB Cable 3.5A 1.2m Μαύρο A18 </Name>
@@ -36686,55 +35918,6 @@ USB-C
 
 Η καλά σχεδιασμένη κατασκευή του καλωδίου παρέχει τη δυνατότητα άνετης χρήσης, ακόμη και όταν η πρίζα είναι σε μεγαλύτερη απόσταση. Το σύστημα έξυπνης διαχείρισης ρυθμίζει το ρεύμα ανάλογα με τη συσκευή, εξασφαλίζοντας βέλτιστη και σταθερή τροφοδοσία ενέργειας.</Description>
 		<Quantity>134</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7995116044</SKU>
-		<EAN>5907769308819</EAN>
-		<Name>Wozinsky Charging/Data Cable 60W 4in1 USBA to USBC to Lightning  to USBC Black 1.2m WNBAA </Name>
-		<URL>https://www.skroutz.gr/s/53682743/Wozinsky-Regular-USB-to-Type-C-Lightning-Cable-Mayro-1m-HU-5907769308819.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/053682/53682743/xlarge_20240522163744_wozinsky_regular_usb_to_type_c_lightning_cable_mayro_1m_hu_5907769308819.jpeg</Image>
-		<Additional_Image>https://static4.eu.hurtel.com/hpeciai/489c554ced77e73b2df5736176107d2e/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_1.jpg https://static4.eu.hurtel.com/hpeciai/4d53831d0f63a4ab5c66a9de12615127/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_2.jpg https://static4.eu.hurtel.com/hpeciai/d93e56060d3c06029f7eab319aa8144f/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_3.jpg https://static3.eu.hurtel.com/hpeciai/8bfd5996dc99dd1c03eb63368d292d57/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_8.jpg https://static2.eu.hurtel.com/hpeciai/f4d76302f4162170ca8206118cb0af9d/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_4.jpg https://static4.eu.hurtel.com/hpeciai/b6610ee7935c9f2642c2dca284aedb5c/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_5.jpg https://static5.eu.hurtel.com/hpeciai/fd52d1a1c863525723608df32062b97f/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_6.jpg https://static2.eu.hurtel.com/hpeciai/6e851beec8d587cf53b1f99f30dceb1f/eng_pm_Wozinsky-WNBAA-4in1-cable-2x-USB-C-1x-USB-A-1x-Lightning-60W-1-m-black-156337_7.jpg </Additional_Image>
-		<Price>5.657190000000001</Price>
-		<Category>Καλώδια Multi Port</Category>
-		<Manufacturer>Wozinsky</Manufacturer>
-		<MPN>WNBAA</MPN>
-		<Description>Το καλώδιο Wozinsky WNBAA 4in1 είναι μια καθολική λύση για όσους εκτιμούν την ταχύτητα, την αξιοπιστία και την αισθητική. Με τη βοήθειά του, μπορείτε να φορτίζετε συσκευές με ισχύ έως και 60W, η οποία θα μειώσει σημαντικά τον χρόνο που απαιτείται για την πλήρη φόρτιση. Η ευελιξία του καλωδίου αντικατοπτρίζεται στη δυνατότητα σύνδεσης διαφόρων συσκευών: τρεις τύποι υποδοχών (2x USB-C, USB-A και Lightning) μπορούν να συνδεθούν με έως και τέσσερις τρόπους. Η εξαιρετικά ανθεκτική κατασκευή εξασφαλίζει μακροχρόνια χρήση χωρίς τον κίνδυνο μηχανικής βλάβης, ενώ η κομψή μαύρη πλεξούδα προσθέτει στυλ. Η ασφαλής μεταφορά δεδομένων με ταχύτητα 480 Mb/s σάς επιτρέπει να ανταλλάσσετε γρήγορα αρχεία μεταξύ συσκευών.
-
-Τα σημαντικότερα πλεονεκτήματα του καλωδίου Wozinsky WNBAA:
-
-Επιτρέπει γρήγορη και αποτελεσματική φόρτιση:  με ισχύ έως 60W (USB-C / USB-C) ή 20W (USB-C / Lightning).
-Σας επιτρέπει να χρησιμοποιήσετε τέσσερις διαφορετικές συνδέσεις. Το καλώδιο είναι συμβατό με πολλές συσκευές.
-Είναι ανθεκτικό στην τριβή και τη διάβρωση. Διαθέτει κομψό και ανθεκτικό σχεδιασμό, κατασκευασμένο από υλικά υψηλής ποιότητας.
-Παρέχει άνεση στη χρήση. Διαθέτει ανθεκτική και αισθητική πλέξη.
-Επιτρέπει την ασφαλή και γρήγορη μεταφορά δεδομένων  – με ταχύτητα 480 Mb/s.
-Προσδιορισμός:
-
-Μάρκα: Wozinsky
-Μοντέλο: WNBAA
-Τύπος σύνδεσης :
-USB-C - USB-C: 60 W
-USB-C - Lightning: 20 W
-USB-A - USB-C: 5V/3A, 9V/3A
-USB-A - Lightning: 5V/2.4A
-Μήκος : 1 μ.
-Υλικό: πλαστικό
-Μαύρο χρώμα
-Γρήγορη και αποτελεσματική φόρτιση
-Το καλώδιο Wozinsky WNBAA 4in1 εγγυάται γρήγορη φόρτιση με ισχύ έως 60W για συνδέσεις USB-C / USB-C και 20W για USB-C / Lightning. Αυτή είναι η ιδανική λύση για άτομα που χρειάζονται να φορτίζουν γρήγορα τις συσκευές τους.
-
-Υψηλή ευελιξία
-Χάρη στη συμβατότητά του με πολλούς τύπους συσκευών, το καλώδιο Wozinsky WNBAA 4in1 είναι ένα πραγματικά καθολικό αξεσουάρ. Η δυνατότητα χρήσης μιας ποικιλίας συνδέσεων (USB-C/USB-C, USB-C/Lightning, USB-A/USB-C, USB-A/Lightning) το καθιστά το μόνο καλώδιο που θα χρειαστείτε - ανεξάρτητα από τον τύπο του εξοπλισμού σας.
-
-Κομψός και ανθεκτικός σχεδιασμός
-Κατασκευασμένο από υλικά υψηλής ποιότητας, το καλώδιο Wozinsky WNBAA 4in1 είναι ανθεκτικό στην τριβή και τη διάβρωση, γεγονός που διασφαλίζει την ανθεκτικότητά του. Η κομψή μαύρη πλεξούδα όχι μόνο προστατεύει το καλώδιο από ζημιές, αλλά προσθέτει και στυλ και κομψότητα.
-
-Ανθεκτική και αισθητική πλεξούδα
-Η πλεξούδα του καλωδίου Wozinsky WNBAA 4in1 όχι μόνο αυξάνει την ανθεκτικότητά του, αλλά εξασφαλίζει και άνεση στη χρήση. Χάρη σε αυτήν τη λύση, το καλώδιο δεν μπερδεύεται και είναι πιο εύκολο στη χρήση, ενώ παράλληλα φαίνεται αισθητικά όμορφο και επαγγελματικό.
-
-Ασφαλής μεταφορά δεδομένων
-Το καλώδιο Wozinsky WNBAA 4in1 επιτρέπει τη μεταφορά δεδομένων με ταχύτητες έως και 480 Mb/s, γεγονός που επιτρέπει την γρήγορη και ασφαλή ανταλλαγή αρχείων μεταξύ συσκευών. Αυτή η λειτουργία είναι εξαιρετικά σημαντική τόσο για επαγγελματίες όσο και για οικιακούς χρήστες που χρειάζονται έναν αξιόπιστο τρόπο μεταφοράς σημαντικών δεδομένων.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36814,7 +35997,7 @@ Chipset Bluetooth: Jerry JL6983D2
 		<Name>Ugreen Car Audio Receiver Bluetooth 5.4 MIC/AUX/USB-A CM723 (35002)</Name>
 		<URL>https://www.skroutz.gr/s/55813121/Ugreen-Bluetooth-Aytokinitou-CM723-gia-to-Tamplo-35002.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/055813/55813121/20240909133505_ugreen_bluetooth_aytokinitou_gia_to_tamplo.jpeg</Image>
-		<Price>16.554416175</Price>
+		<Price>14.99</Price>
 		<Category>Bluetooth Car Kit</Category>
 		<Manufacturer>UGREEN</Manufacturer>
 		<MPN>1724</MPN>
@@ -36902,7 +36085,7 @@ Chipset Bluetooth: Jerry JL6983D2
 		<URL>https://www.skroutz.gr/s/56880597/Joyroom-JR-PBF12-Power-Bank-10000mAh-12W-me-2-THyres-USB-A-kai-THyra-USB-C-Mayro.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/056880/56880597/xlarge_20241016150827_joyroom_power_bank_10000mah_12w_me_2_thyres_usb_a_kai_thyra_usb_c_mayro.jpeg</Image>
 		<Additional_Image>https://static5.eu.hurtel.com/hpeciai/4a19d50c37c47711b4cceac96563e91c/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_2.jpg https://static4.eu.hurtel.com/hpeciai/ebab8c96259d537cfb3be320c2f7ebc9/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_3.jpg https://static5.eu.hurtel.com/hpeciai/52e1959a2723611000267760b6e886cd/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_4.jpg https://static4.eu.hurtel.com/hpeciai/5ecca5a0eda9b077179666db7a2acc9b/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_6.jpg https://static2.eu.hurtel.com/hpeciai/9d0451bbf67ac1f28f83d38a7ff82027/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_8.jpg https://static3.eu.hurtel.com/hpeciai/3985e314e3203b69a171f750a73138a5/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_9.jpg https://static5.eu.hurtel.com/hpeciai/02fb6b5c53574c868b816e9a02303bce/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_10.jpg https://static4.eu.hurtel.com/hpeciai/877585227984daf40cd921b467dbb3b2/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_11.jpg https://static1.eu.hurtel.com/hpeciai/3418e8816f9b5517c58c363648da1ac0/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_12.jpg https://static5.eu.hurtel.com/hpeciai/923c7605f409211fdc05abbfd1b3cc54/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_13.jpg https://static1.eu.hurtel.com/hpeciai/14471d7d8338de7ddcbbd1b8449dbdb3/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_14.jpg https://static3.eu.hurtel.com/hpeciai/16b620a0c76fc78f186729407d97efcc/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_15.jpg https://static2.eu.hurtel.com/hpeciai/4a10320fd1b4b419272ce9b4c10d19d8/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_16.jpg </Additional_Image>
-		<Price>8.349075000000001</Price>
+		<Price>8.91</Price>
 		<Category>Power Banks</Category>
 		<Manufacturer>Joyroom</Manufacturer>
 		<MPN>JR-PBF12</MPN>
@@ -36932,37 +36115,6 @@ USB-A2: 5V - 2,4A
 Είναι ιδανικό για ταξίδια . Είναι συμπαγές και συμμορφώνεται με τα πρότυπα αεροπορίας.
 Παρέχει μεγάλους χρόνους λειτουργίας μεταξύ των φορτίσεων . Η χωρητικότητά του στα 10.000 mAh σάς επιτρέπει να φορτίζετε μια ποικιλία συσκευών: smartphones, tablet και ασύρματα ακουστικά.</Description>
 		<Quantity>27</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7995191112</SKU>
-		<EAN>6941876242931</EAN>
-		<Name>Ugreen Power Bank 25000mAh 200W με Θύρα USB-A και 2 Θύρες USB-C Quick Charge 3.0 Space Gray PB722 / 35525B</Name>
-		<URL>https://www.skroutz.gr/s/56696332/Ugreen-PB722-Power-Bank-25000mAh-200W-me-THyra-USB-A-kai-2-THyres-USB-C-Quick-Charge-3-0-Polychromo.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/056696/56696332/xlarge_20241007154611_ugreen_pb722_power_bank_25000mah_200w_me_thyra_usb_a_kai_2_thyres_usb_c_quick_charge_3_0_polychromo.jpeg</Image>
-		<Additional_Image>https://b.scdn.gr/images/sku_images/103050/103050916/xlarge_20241007154614_eaac4f05.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-2.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-3.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-4.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-5.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-6.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-7.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-8.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-9.jpeg</Additional_Image>
-		<Price>72.19</Price>
-		<Category>Power Banks</Category>
-		<Manufacturer>Ugreen</Manufacturer>
-		<MPN>PB722 / 35525B</MPN>
-		<Description>* UGREEN PB722/35525B Power Bank;
-* Χωρητικότητα: 25.000 mAh;
-* Μέγιστη ισχύς: 200W;
-* Διεπαφή εισόδου:
-  - USB-C1/2: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A, 65W μέγ.;
-* Διεπαφή εξόδου:
-  - USB-C1: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 28V/5A, 140W μέγ.;
-  - USB-C2: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 100W μέγ.;
-  - USB-A: 5V/3A, 9V/2A, 12V/1.5A, 10V/2.25A, 22.5W;
-* Υποστηριζόμενα πρωτόκολλα γρήγορης εκκίνησης:
-  - USB-C: PD3.0/PD2.0/PPS/QC4+/QC3.0/QC2.0/AFC/APPLE 5V2.4A/BC1.2.
-  - USB-A: SCP/QC3.0/QC2.0/FCP/AFC/APPLE 5V2.4A/BC1.2.
-* Οθόνη LED.
-* Προστασία από υπερφόρτιση, υπερβολική εκφόρτιση, υπέρταση, υπερφόρτωση, βραχυκύκλωμα.
-* Το κιτ περιέχει καλώδιο Type-C - Type-C.
-* Μέγεθος: 131 x 54 x 50,8 mm.
-* Βάρος: 592 g.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37025,27 +36177,6 @@ USB-A2: 5V - 2,4A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7995453033</SKU>
-		<EAN>8011000027081-black</EAN>
-		<Name>Trevi Επιτραπέζιο Ρολόι Μπαταρίας με Φως και Ξυπνητήρι Snooze Αυξανόμενης Έντασης 80x75x35mm Μαύρο SL3056</Name>
-		<URL>https://www.trevi.it/catalog/articolo/149-orologi-sveglie/alkijwwkec-sl-3056-sveglia-al-quarzo-mix-colour.html</URL>
-		<Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20black%20front.jpg</Image>
-		<Additional_Image>https://www.trevi.it/dms/zidi/TREVI/SL%203056%20foto%20gruppo.jpg</Additional_Image>
-		<Price>11.4479125</Price>
-		<Category>Επιτραπέζια Ρολόγια</Category>
-		<Manufacturer>Trevi</Manufacturer>
-		<MPN>SL3056</MPN>
-		<Description>Με το Trevi SL 3056 Quartz Clock με Ξυπνητήρι μπορείτε εύκολα να σημειώσετε τις στιγμές της ημέρας σας και να αποφύγετε δυσάρεστες καθυστερήσεις.
-
-Η παρουσία της αθόρυβης κίνησης Sweep με συνεχόμενα δευτερόλεπτα κάνει το SL 3056 κατάλληλο για περιβάλλοντα όπου η σιωπή είναι πιο ευχάριστη, όπως το υπνοδωμάτιο, για να ξεκουραστεί χωρίς το ενοχλητικό χτύπημα των χεριών στο βάθος. Ο μεγάλος επιλογέας ανάβει για να επιτρέπει τη συμβουλή του ρολογιού ακόμα και τη νύχτα.
-
-Το ξυπνητήρι Trevi σάς επιτρέπει να ρυθμίσετε ένα ξυπνητήρι, το οποίο θα ενεργοποιείται τη στιγμή που υποδεικνύετε με έναν ηλεκτρονικό ήχο κλήσης με Αύξοντα ήχο και το οποίο μπορείτε εύκολα να σταματήσετε να χρησιμοποιείτε το ειδικό κουμπί ή να το αναβάλλετε με τη λειτουργία Αναβολή.
-
-Το Trevi SL 3056 Quartz Clock με Ξυπνητήρι τροφοδοτείται από μπαταρία «AA» (δεν περιλαμβάνεται).</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799551123</SKU>
 		<EAN>6957303843930</EAN>
 		<Name>Ugreen Βάση Tablet Γραφείου έως 12,9" Multi-Angle Holder Space Gray LP134 / 40393</Name>
@@ -37102,26 +36233,6 @@ USB-A2: 5V - 2,4A
 Θα σας φανεί χρήσιμο στο σπίτι, την εργασία και τα ταξίδια . Πτυσσόμενο, ελαφρύ σχεδιασμό και συμπαγές μέγεθος.
 Θα ξεχάσετε τους πόνους στην πλάτη και τον αυχένα. Ρυθμίζοντας το ύψος και τη γωνία κλίσης, θα αποφύγετε περιττά προβλήματα υγείας.</Description>
 		<Quantity>19</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799551151</SKU>
-		<EAN>6920680859177</EAN>
-		<Name>XO Μεταλλική 360° Περιστρεφόμενη Επιτραπέζια Βάση Κινητού Μαύρη C151-59177</Name>
-		<URL>https://www.skroutz.gr/s/55660347/Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma-C151.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/055660/55660347/xlarge_20240830100819_vasi_grafeiou_gia_kinito_se_mayro_chroma_c151.jpeg</Image>
-		<Price>1.856652</Price>
-		<Category>Βάσεις Στήριξης Κινητών</Category>
-		<Manufacturer>XO</Manufacturer>
-		<MPN> 16.006.0287</MPN>
-		<Description>Τύπος: Επιτραπέζια βάση
-
-Χρώμα: Μαύρο
-
-Βάση επιφάνειας εργασίας που παρέχει υποστήριξη και σταθερότητα στη συσκευή σας, ώστε να μπορείτε να παρακολουθείτε ένα βίντεο, να διαβάζετε ένα κείμενο ή να πραγματοποιείτε μια βιντεοκλήση με ευκολία, χωρίς να χρειάζεται να κρατάτε τη συσκευή σας.
-
-</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37288,77 +36399,6 @@ USB-A2: 5V - 2,4A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>799613102</SKU>
-		<EAN>6941876217281</EAN>
-		<Name>Ugreen CM678 Web Camera Full HD 1080p Ασημί CM678</Name>
-		<URL>https://www.skroutz.gr/s/51120712/Ugreen-CM678-Web-Camera-Full-HD-1080p-Asimi-15728.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/051120/51120712/xlarge_20240809153355_ugreen_cm678_web_camera_full_hd_1080p_asimi_15728.jpeg</Image>
-		<Additional_Image>https://static1.eu.hurtel.com/hpeciai/2cddf18b941a2cffe096b6710479cea4/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_2.jpg https://static3.eu.hurtel.com/hpeciai/a0b620daab55f6b8ef9da211d06d9dc4/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_3.jpg https://static5.eu.hurtel.com/hpeciai/09b75f9b04890d962be33eda39d5128b/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_11.jpg https://static4.eu.hurtel.com/hpeciai/74bbd8765e50394805be5f2196db654d/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_4.jpg https://static1.eu.hurtel.com/hpeciai/e84ee11aad65acfa3419525f24f54952/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_5.jpg https://static4.eu.hurtel.com/hpeciai/69da46f207c0f7314c911f5372d2ad17/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_6.jpg https://static4.eu.hurtel.com/hpeciai/677b1eb3d24c717963476c658230a6f3/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_7.jpg https://static2.eu.hurtel.com/hpeciai/fd7990059340359159993486fcca4471/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_8.jpg https://static5.eu.hurtel.com/hpeciai/6d74df564a51e2fe1dc3d76855f9183c/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_9.jpg https://static1.eu.hurtel.com/hpeciai/7b76e9e823b10701831e9b0381a0a161/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_10.jpg </Additional_Image>
-		<Price>26.86</Price>
-		<Category>Web Cameras</Category>
-		<Manufacturer>Ugreen</Manufacturer>
-		<MPN>CM678</MPN>
-		<Description>Κάμερα Web Ugreen CM678 USB HD - Γκρι
-Η κάμερα web Ugreen CM678 εγγυάται εξαιρετική ποιότητα για τις βιντεοδιασκέψεις και τις ηχογραφήσεις σας. Χάρη στην τεχνολογία full HD 1080p, κάθε λεπτομέρεια θα είναι απόλυτα ορατή. Η αυτόματη διόρθωση χαμηλού φωτισμού διασφαλίζει ότι η εικόνα είναι πάντα φωτεινή, ανεξάρτητα από τις συνθήκες. Τα διπλά μικρόφωνα εξαλείφουν τον περιττό θόρυβο, εξασφαλίζοντας καθαρό ήχο. Η εστίαση του φακού διασφαλίζει ότι η εικόνα είναι πάντα σταθερή και ευκρινής. Η ευρεία γωνία θέασης 85 μοιρών σάς επιτρέπει να χωρέσετε περισσότερα άτομα στο κάδρο, ενώ η περιστροφή 360 μοιρών και οι τρεις επιλογές εγκατάστασης προσφέρουν απαράμιλλη ευελιξία και ευκολία.
-
-Βασικά πλεονεκτήματα της κάμερας web Ugreen CM678:
-
-Οι ηχογραφήσεις και οι βιντεοκλήσεις σας θα είναι υψηλής ποιότητας . Η κάμερα παρέχει ποιότητα βίντεο full HD 1080p.
-Είναι ιδανικό για άβολες συνθήκες . Διαθέτει δύο ενσωματωμένα μικρόφωνα και διορθώνει αυτόματα το χαμηλό φωτισμό.
-Μπορείτε να προσαρμόσετε τη γωνία θέασης στις ανάγκες σας . Η κάμερα διαθέτει ρύθμιση 360 μοιρών.
-Δεν απαιτεί εγκατάσταση προγράμματος οδήγησης . Χαρακτηρίζεται από ευρεία συμβατότητα χάρη στη λειτουργία plug and play.
-Παρέχει ευελιξία και ευκολία χρήσης . Προσφέρει τρεις τύπους εγκατάστασης: σε τραπέζι, σε τρίποδο ή τοποθετημένο πάνω στον υπολογιστή.
-Προσδιορισμός:
-
-Μάρκα: Ugreen
-Μοντέλο: CM678
-Ανάλυση : Full HD (1920×1080)
-Τύπος σύνδεσης : USB-A (αρσενικό)
-Ενσωματωμένο μικρόφωνο : ναι
-Ρυθμιζόμενο : Ναι
-Μήκος καλωδίου : 2 μ.
-Υλικό: πλαστικό
-Χρώμα: γκρι
-Ασύγκριτη ποιότητα εικόνας σε full HD
-Η τεχνολογία Full HD 1080p της Ugreen CM678 αποτυπώνει κάθε λεπτομέρεια, προσφέροντάς σας επαγγελματική ποιότητα εικόνας κάθε φορά. Είτε πραγματοποιείτε μια σημαντική επαγγελματική συνάντηση είτε απλώς θέλετε να συνομιλήσετε με φίλους, η Ugreen CM678 διασφαλίζει ότι θα σας δουν με τον καλύτερο δυνατό τρόπο.
-
-Φωτεινή εικόνα ακόμα και στη σκιά
-Η αυτόματη διόρθωση φωτισμού προσαρμόζει τις ρυθμίσεις της κάμερας σε πραγματικό χρόνο, εξασφαλίζοντας φωτεινές και καθαρές εικόνες ακόμη και σε δωμάτια με χαμηλό φωτισμό. Έτσι, μπορείτε να είστε σίγουροι ότι οι βιντεοδιασκέψεις και οι ηχογραφήσεις σας θα φαίνονται πάντα επαγγελματικές, ανεξάρτητα από τις συνθήκες φωτισμού.
-
-Καθαρός ήχος χάρη στα διπλά μικρόφωνα
-Η κάμερα web Ugreen CM678 είναι εξοπλισμένη με δύο μικρόφωνα υψηλής ποιότητας που διασφαλίζουν ότι η φωνή σας θα ακούγεται φυσική και καθαρή, χωρίς παρεμβολές. Η τεχνολογία μείωσης θορύβου εξαλείφει αποτελεσματικά τον ανεπιθύμητο θόρυβο του περιβάλλοντος, επιτρέποντας ομαλή και καθαρή επικοινωνία.
-
-Σταθερότητα και ακρίβεια εικόνας
-Ο φακός σταθερής εστίασης στο Ugreen CM678 διασφαλίζει ότι η εικόνα είναι πάντα ευκρινής και σταθερή. Αυτή η λειτουργία σάς επιτρέπει να εστιάζετε γρήγορα και με ακρίβεια σε άτομα, δημιουργώντας σταθερές και λεπτομερείς εικόνες χωρίς την ανάγκη χειροκίνητων ρυθμίσεων. Αυτό είναι εξαιρετικά χρήσιμο σε δυναμικές καταστάσεις όπως η διαδικτυακή διδασκαλία ή οι παρουσιάσεις.
-
-Ευρεία γωνία θέασης και ευέλικτες ρυθμίσεις
-Η κάμερα Ugreen CM678 διαθέτει ευρεία γωνία θέασης 85 μοιρών - αποτελεί ιδανική λύση για ομαδικές συναντήσεις και οικογενειακές βιντεοκλήσεις. Επιπλέον, η δυνατότητα ρύθμισης 360 μοιρών και οι τρεις επιλογές εγκατάστασης (επιτραπέζια, τρίποδη ή οθόνη) προσφέρουν μεγάλη ευκολία, επιτρέποντάς σας να προσαρμόσετε τη ρύθμιση της κάμερας σε οποιαδήποτε περίσταση.
-
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799614121</SKU>
-		<EAN>6937096319355</EAN>
-		<Name>Uniarch Uho-S2 IP Κάμερα Παρακολούθησης 2MP Wi-Fi Full HD Αμφίδρομης Επικοινωνίας (380026)</Name>
-		<URL>https://www.skroutz.gr/s/58192910/Uniarch-Uho-S2-IP-Kamera-Parakolouthisis-Wi-Fi-Full-HD-1080p-me-Amfidromi-Epikoinonia.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/058192/58192910/20250107124916_uniarch_ip_kamera_parakolouthisis_wi_fi_full_hd_1080p_me_amfidromi_epikoinonia.jpeg</Image>
-		<Price>14.99</Price>
-		<Category>Κάμερες Παρακολούθησης</Category>
-		<Manufacturer>UNIARCH</Manufacturer>
-		<MPN>1738</MPN>
-		<Description>Βασικά χαρακτηριστικά:
-
-    Δικτυακή κάμερα IP
-    Ανάλυση εικόνας: 1080p
-    Κατάλληλη για εσωτερικούς χώρους
-    Ασύρματη σύνδεση μέσω Wi-Fi
-    Συμβατή με κάρτες SD (έως 256gb)</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>799614151</SKU>
 		<EAN>6937096336031</EAN>
 		<Name>Uniarch Uho-S3E-M5TD  IP Κάμερα Παρακολούθησης 5MP Wi-Fi Full HD Αμφίδρομης Επικοινωνίας (380027)</Name>
@@ -37450,7 +36490,7 @@ Chipset: MLC / TLC</Description>
 		<Name>Silicon Power 256GB USB 2.0 Stick με σύνδεση USB-A &amp; USB-C Γκρι 6155584</Name>
 		<URL>https://www.skroutz.gr/s/51688071/Silicon-Power-256GB-USB-2-0-Stick-me-syndesi-USB-A-USB-C-Gri.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/051688/51688071/xlarge_20240809141332_silicon_power_256gb_usb_2_0_stick_me_syndesi_usb_a_usb_c_gri.jpeg</Image>
-		<Price>44.11548</Price>
+		<Price>58.82</Price>
 		<Category>USB Stick</Category>
 		<Manufacturer>SP</Manufacturer>
 		<MPN>6155584</MPN>
@@ -37857,32 +36897,6 @@ Aluminum Case Better for heat dissipation </Description>
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει δυνατό ήχο και έχει καθαρό ήχο.</Description>
 		<Quantity>7</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>799650502</SKU>
-		<EAN>6923520286478</EAN>
-		<Name>Edifier RGB G200 Ηχείο Bluetooth 3W με Μαγνητική Βάση και Διάρκεια Μπαταρίας έως 7 ώρες Μαύρο 010354</Name>
-		<URL>https://www.skroutz.gr/s/54543108/Edifier-RGB-G200-Magnetic-Icheio-Bluetooth-3W-me-Diarkeia-Mpatarias-eos-7-ores-Mayro.html#description</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/054543/54543108/xlarge_20240620093315_edifier_rgb_g200_magnetic_icheio_bluetooth_3w_me_diarkeia_mpatarias_eos_7_ores_mayro.jpeg</Image>
-		<Price>25.33283981706099</Price>
-		<Category>Φορητά Ηχεία Bluetooth</Category>
-		<Manufacturer>Edifier</Manufacturer>
-		<MPN>010354</MPN>
-		<Description>Αυτό το μικρό ηχείο Bluetooth προσφέρει ήχο 3W και διαφορετικά RGB εφέ φωτισμού για να ενισχύσετε την gaming εμπειρία σας.
-
-    Χρώμα: Μαύρο
-    Τύπος Ηχείων: Portable
-    Σύνδεση Είδους: Bluetooth
-    Σύνδεση: Bluetooth 5.3
-    Συνολική Ισχύς Ηχείων: 3W
-    Συχνότητα Ηχείων: 250Hz - 15kHz
-    Τροφοδοσία: Επαναφορτιζόμενη Μπαταρία 500mA
-    Αυτονομία Μπαταρίας: έως 7 ώρες (Φώτα σβηστά/50% ένταση)
-    Πρόσθετα Χαρακτηριστικά: Αντίσταση 4Ω | Θύρα φόρτισης USB-C | RGB
-    Βάρος: 62.5 g
-    Διαστάσεις L x W x H: 56,85 x 43.36 x 35.9 mm</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -38584,25 +37598,6 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>79980105</SKU>
-		<EAN>5201964092055</EAN>
-		<Name>Power On UPS Line-Interactive 2000VA με 2 Schuko Πρίζες VLD-2000 με οθόνη</Name>
-		<URL>https://www.skroutz.gr/s/4008073/Power-On-VLD-2000-UPS-Line-Interactive-2000VA-me-4-Schuko-Prizes.html</URL>
-		<Image>https://c.scdn.gr/images/sku_images/050926/50926752/xlarge_20211015092351_acfc6e29.jpeg</Image>
-		<Additional_Image>https://a.scdn.gr/images/sku_main_images/004008/4008073/xlarge_20211015092350_power_on_vld_2000_ups_line_interactive_2000va_me_4_schuko_prizes.jpeg</Additional_Image>
-		<Price>206.092822887</Price>
-		<Category>UPS</Category>
-		<Manufacturer>POWER ON</Manufacturer>
-		<MPN>VLD-2000</MPN>
-		<Description>Το UPS της POWER ON VLD-2000, μια αξιόπιστη λύση Line Interactive, που παρέχει ισχύ 2000VA με είσοδο 230V. Με τέσσερις εξόδους Schuko, ενσωματώνεται άψογα στο σύστημά σου.
-
-Παρέχει σταθερή ενέργεια με προσομοιωμένη κυματομορφή ημίτονου (Simulated sine wave), υποστηριζόμενη από διπλές μπαταρίες 12V/10AH για μεγαλύτερη αξιοπιστία. Απόλαυσε γρήγορες μεταβάσεις με χρόνο μεταφοράς εξασφαλίζοντας ομαλή μετάβαση στην εφεδρική ισχύ κατά τη διάρκεια απρόσμενων διακοπών ρεύματος.
-
-Παρέχει επιλογές σύνδεσης όπως διεπαφή USB και προστασία RJ45/RJ11. Παρακολούθησε εύκολα την κατάσταση του UPS μέσω της οθόνης LCD, εξασφαλίζοντας αδιάκοπη διαχείριση ενέργειας και προστασία της συσκευής σου.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>79981108</SKU>
 		<EAN>4960999651729</EAN>
 		<Name>Canon Αριθμομηχανή Τσέπης LS-39E 8 Ψηφίων Μαύρη 116x70x8mm (CANLS39E) </Name>
@@ -38638,24 +37633,6 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>79981112</SKU>
-		<EAN>4549292108606</EAN>
-		<Name>Canon AS-120II Αριθμομηχανή 12 Ψηφίων Μαύρη 145x100x13mm (CANAS120II) </Name>
-		<URL>https://www.skroutz.gr/s/55742018/Canon-AS-120II-Arithmomichani-se-Mayro-CHroma-4722C003.html</URL>
-		<Image>https://b.scdn.gr/images/sku_images/100444/100444013/xlarge_20240904122046_6a753d3e.jpeg</Image>
-		<Price>5.491054800000001</Price>
-		<Category>Αριθμομηχανές</Category>
-		<Manufacturer>Canon</Manufacturer>
-		<MPN>CANAS120II</MPN>
-		<Description>    Τροφοδοσία: ηλιακη και μπαταριας
-    Αριθμος ψηφιων: 12
-    Αριθμος σειρων: 1
-    Λειτουργια αυτοματης απενεργοποιησης: 7 λεπτα
-    Διαστάσεις: 14,5 x 10.5 cm</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>79981121</SKU>
 		<EAN>5901299903568</EAN>
 		<Name>ESPERANZA Επιτραπέζια Αριθμομηχανή EULER με Οθόνη 12 Ψηφίων  15x19cm ECL103</Name>
@@ -38679,7 +37656,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Name>Funko Pop! Heroes: Batman The Animated Series - 1st Appearance 270 FNK72145</Name>
 		<URL>https://www.skroutz.gr/s/58349050/Funko-Pop-Heroes-Batman-The-Animated-Series-1st-Appearance-270.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/058349/58349050/fixedratio_20250120131953_funko_pop_heroes_batman_the_animated_series_1st_appearance_270.jpeg</Image>
-		<Price>12.99</Price>
+		<Price>9.99</Price>
 		<Category>Funko Pop!</Category>
 		<Manufacturer>Funko </Manufacturer>
 		<MPN>FNK72145</MPN>
@@ -38696,7 +37673,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Name>Funko Pop! Games: Pokemon - Pikachu Grumpy 598 FNK50434</Name>
 		<URL>https://www.skroutz.gr/s/37103861/Funko-Pop-Games-Pokemon-Pikachu-Grumpy-598.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/105290/105290729/fixedratio_20241211095759_ff539773.jpeg</Image>
-		<Price>12.99</Price>
+		<Price>9.99</Price>
 		<Category>Funko Pop!</Category>
 		<Manufacturer>Funko </Manufacturer>
 		<MPN>FNK50434</MPN>
@@ -38729,7 +37706,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<Name>ΖΑΧΑΡΗ καστανή LUX FARM 1kgr</Name>
 		<URL>https://kalavrytinos.gr/gr/pantopoleio/zachari-ypokatastata/lux-farm-kastani-zachari-1-kilo</URL>
 		<Image>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/1/1/110041_0_low.jpg</Image>
-		<Price>1.77</Price>
+		<Price>1.43</Price>
 		<Category>Ζάχαρη &amp; Υποκατάστατα</Category>
 		<Manufacturer>LUX FARM</Manufacturer>
 		<MPN>1655</MPN>
@@ -38778,66 +37755,6 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακρύσπερμο ρύζι που παίρνει το χρυσαφένιο χρώμα από τα συστατικά του εξωτερικού φλοιού του, κατά την υγροθερμική επεξεργασία, ο οποίος απομακρύνεται στη συνέχεια. Θεωρείται ιδανικό για πιλάφι λόγω του ότι παραμένει σπυρωτό.</Description>
 		<Quantity>132</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>81014</SKU>
-		<EAN>5212006201106</EAN>
-		<Name>Euricom Ελληνικό Ρύζι Χαλάστρας Νυχάκι 500 gr</Name>
-		<URL>https://www.euricom.gr/</URL>
-		<Image>https://www.euricom.gr/wp-content/uploads/2019/08/nyxaki_500gr.png</Image>
-		<Price>0.7085100000000001</Price>
-		<Category>Ρύζι</Category>
-		<Manufacturer>Euricom</Manufacturer>
-		<MPN>1507</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Ρύζι νυχάκι μακρύσπερμο.Ελληνικό προϊόν που παράγεται από τον αγροτικό συνεταιρισμό “Χαλάστρα” στη Θεσσαλονίκη.Συσκευασία των 500 γραμμαρίων.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>83124</SKU>
-		<EAN>5201013005197</EAN>
-		<Name>FAMIGLIA ΦΙΔΕΣ 500 gr</Name>
-		<URL>https://www.skroutz.gr/s/22874453/Famiglia-Fides-500gr.html?product_id=204994055</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/022874/22874453/20211014165917_famiglia_fides_500gr.jpeg</Image>
-		<Price>0.62</Price>
-		<Category>Ζυμαρικά</Category>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0532</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>O φιδές, είναι ένα ξεχωριστό είδος ζυμαρικού που αποτελείται από μακριά ψιλά ζυμαρικά. Για μια πιο ξεχωριστή συνταγή δοκιμάστε τον σε σούπα ντομάτας.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>84002</SKU>
-		<EAN>5202737200547</EAN>
-		<Name>JOHN TOP ΑΝΑΠΛΗΡΩΜΑ ΞΥΔΙΟΥ 400ml</Name>
-		<URL>https://www.skroutz.gr/s/54797171/John-Top-Anapliroma-Xydiou-400ml.html?product_id=204994072</URL>
-		<Image>https://e-nostos.eu/image/cache/J_XYDI_ANAPLHRWMA-500x500.jpg</Image>
-		<Price>0.2679456000000001</Price>
-		<Category>Ξίδι</Category>
-		<Manufacturer>JOHN TOP</Manufacturer>
-		<MPN>0455</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Το αναπλήρωμα ξύδιου John Top σε συσκευασία 400ml είναι ιδανικό για χρήση στη μαγειρική και στην παρασκευή σάλτσων, μαριναδών, σαλατών και dressings. Με το χαρακτηριστικό άρωμα και την έντονη γεύση του, προσδίδει ξεχωριστή γεύση στα φαγητά σας. Είναι ιδανικό για να δώσει μια ευχάριστη οξύτητα και αναδεικνύει τα αρώματα των υλικών που χρησιμοποιείτε.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>84021</SKU>
-		<EAN>8711200468782</EAN>
-		<Name>Knorr Κύβοι Μαγειρικής Ζωμός Βοδινού 120gr 12τμχ</Name>
-		<URL>https://www.skroutz.gr/s/22821679/Knorr-Kyvoi-Mageirikis-Zomos-Vodinou-120gr-12tmch.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/022821/22821679/20200416120730_knorr_kyvoi_mageirikis_zomou_vodinou_12tmch.jpeg</Image>
-		<Price>1.58445862575</Price>
-		<Category>Υλικά Μαγειρικής</Category>
-		<Manufacturer>KNORR</Manufacturer>
-		<MPN>1509</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Οι κύβοι χρησιμοποιούνται κυρίως για να ενισχύσουν τη γεύση του φαγητού σας και να αναδείξουν τα αρώματά του.Συσκευασία των 120 γραμμαρίων.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39165,66 +38082,6 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>85228</SKU>
-		<EAN>6111162001812</EAN>
-		<Name>JOLY ΦΙΛΕΤΟ ΣΚΟΥΜΠΡΙ ΠΙΚΑΝΤΙΚΟ ΣΕ ΗΛΙΕΛΑΙΟ 125gr</Name>
-		<URL>https://www.skroutz.gr/s/53903369/Skoumpri-Joly-Fileto-125gr.html</URL>
-		<Image>https://clickaway.gr/wp-content/uploads/2021/10/44-0022-620x620-1.jpg</Image>
-		<Price>1.71847575</Price>
-		<Category>Τρόφιμα Μακράς Συντήρησης</Category>
-		<Manufacturer>JOLY</Manufacturer>
-		<MPN>0111</MPN>
-		<Weight>0.1 kg</Weight>
-		<Description>Τα φιλέτα σκουμπριού JOLY σε αυτήν την κονσέρβα 125gr προσφέρουν μια πικάντικη εμπειρία γεύσης. Τα φιλέτα σκουμπριού παρασκευάζονται με ποιοτικά ψάρια και είναι εμποτισμένα σε ηλιέλαιο, που διατηρεί τη φρεσκάδα και τη γεύση τους. Η πικάντικη πινελιά προστίθεται με μια προσεκτική επιλογή μπαχαρικών και αρωμάτων, προσδίδοντας ένταση και ζωντάνια στη γεύση τους.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>85229</SKU>
-		<EAN>8850162101099</EAN>
-		<Name>Cavos Σκουμπρί Σε Πικάντικη Σάλτσα 155gr</Name>
-		<URL>https://www.skroutz.gr/s/22861814/Cavos-Skoumpri-Se-Pikantiki-Saltsa-155gr.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/022861/22861814/xlarge_20220902111801_cavos_skoumpri_se_pikantiki_saltsa_155gr.jpeg</Image>
-		<Price>1.241121375</Price>
-		<Category>Τρόφιμα Μακράς Συντήρησης</Category>
-		<Manufacturer>CAVOS</Manufacturer>
-		<MPN>0777</MPN>
-		<Weight>0.6 kg</Weight>
-		<Description>Φιλέτο σκουμπρί της εταιρείας Cavos σε σάλτσα τομάτας πικάντικη.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>85231</SKU>
-		<EAN>8714555000379</EAN>
-		<Name>Zwan Κονσέρβα Αλλαντικών Lunchion Meat 200gr</Name>
-		<URL>https://www.skroutz.gr/s/29849638/Zwan-Konserva-Allantikon-Lunchion-Meat-200gr.html?product_id=204994097</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/022817/22817312/xlarge_20200416095114_zwan_lantsion_mit_easy_open_200gr.jpeg</Image>
-		<Price>2.798327958680555</Price>
-		<Category>Τρόφιμα Μακράς Συντήρησης</Category>
-		<Manufacturer>ZWAN</Manufacturer>
-		<MPN>0109</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Το Luncheon Meat της Zwan αποτελείται από χοιρινό κρέας. Δοκιμάστε το στο sandwich, στο κολατσιό στο σχολείο, στο camping, στις εκδρομές, αλλά και στην καρμπονάρα, στην πίτσα, στις σάλτσες και στις σαλάτες.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>85232</SKU>
-		<EAN>8710581913966</EAN>
-		<Name>Midi Κονσέρβα Αλλαντικών Λαντσιον Μητ Χοιρινό 200gr</Name>
-		<URL>https://www.skroutz.gr/s/53903433/Midi-200gr.html?product_id=204994093</URL>
-		<Image>https://www.katerinasmarket.gr/image/cache/catalog/prod/catalog/midi-lantsion-mit-200gr-1280x1280h.jpg</Image>
-		<Price>2.055806175</Price>
-		<Category>Τρόφιμα Μακράς Συντήρησης</Category>
-		<Manufacturer>MIDI</Manufacturer>
-		<MPN>0541</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Μια νόστιμη επιλογή για ένα γρήγορο και γευστικό σνακ. Κατασκευάζεται με υψηλής ποιότητας χοιρινό κρέας και παραδοσιακές συνταγές, προσφέροντας έναν πλούσιο γευστικό συνδυασμό από αλεσμένο κρέας και μπαχαρικά. Ιδανικό για να απολαύσετε σε σαλάτες, σάντουιτς ή απευθείας από το πιάτο.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>85233</SKU>
 		<EAN>8705253502503</EAN>
 		<Name>Dany Κονσέρβα Αλλαντικών Λαντσιον Μητ Κοτόπουλο 200gr</Name>
@@ -39237,21 +38094,6 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Weight>0.2 kg</Weight>
 		<Description>Lancheon meat από κοτόπουλο που μπορεί να προστεθεί στο sandwich, στο κολατσιό στο σχολείο, αλλά και στη μαγειρική ως πρώτη ύλη.</Description>
 		<Quantity>155</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>85236</SKU>
-		<EAN>7790360000477</EAN>
-		<Name>Bello Corned Beef 200gr</Name>
-		<URL>https://www.skroutz.gr/s/53903375/Bello-Corned-Beef-200gr.html?product_id=204994098</URL>
-		<Image>https://imageproxy.wolt.com/menu/menu-images/639b03123b75ae8b6fdeff22/8b0f684c-dcb6-11ee-9c14-aefb1ab93eb7_0490599.jpg</Image>
-		<Price>3.76314365625</Price>
-		<Category>Τρόφιμα Μακράς Συντήρησης</Category>
-		<Manufacturer>BELLO</Manufacturer>
-		<MPN>0354</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Κατασκευασμένο από υψηλής ποιότητας βοδινό κρέας που έχει υποστεί επεξεργασία για να δημιουργηθεί ένας νόστιμος και θρεπτικός μπαλωμένος κιμάς. Είναι ιδανικός για δημιουργία σάντουιτς, σαλάτες ή γεύματα που απαιτούν γρήγορη προετοιμασία. Με τη χαρακτηριστική γεύση του, μπορεί να χρησιμοποιηθεί και σε πολλές κουζίνες ως βασικό συστατικό για πιάτα που απαιτούν κρέας.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39820,7 +38662,7 @@ VeganΌχι
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>1064</Quantity>
+		<Quantity>1063</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39835,7 +38677,7 @@ VeganΌχι
 		<MPN>1022</MPN>
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.Αποτελεί ιδανική επιλογή για σκύλους με υψηλές ενεργειακές απαιτήσεις.• Κυρίως συστατικό: Κοτόπουλο, Ρύζι• Συσκευασία: 15kg</Description>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39880,7 +38722,7 @@ VeganΌχι
 		<MPN>1514</MPN>
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
-		<Quantity>642</Quantity>
+		<Quantity>639</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
