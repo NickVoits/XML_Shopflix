@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-19 16:41</created_at>
+	<created_at>2026-10-19 16:44</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -30043,6 +30043,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
  
 
 Αποκτήστε τις λευκές κάρτες επισκεπτηρίου 5x9cm σε πλαστικό κουτί 100 τεμαχίων και απολαύστε την ευελιξία και την ποιότητα που προσφέρουν. Είναι η τέλεια επιλογή για κάθε είδους χρήση, συνδυάζοντας πρακτικότητα και κομψότητα.</Description>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30059,6 +30060,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 
 Διαστάσεις: 11.4 x 22.9 cm
 Συσκευασία 10 τεμαχίων</Description>
+		<Quantity>477</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30075,6 +30077,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 
 Συσκευασία: 10 τεμάχια
 Διαστάσεις: 162x229mm</Description>
+		<Quantity>50</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30090,6 +30093,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Description>Σετ 10 τμχ Φάκελοι Αλληλογραφίας 22,9x32,4cm
 
 Σε λευκό χρώμα, με αυτοκόλλητο ασφαλείας.</Description>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30106,22 +30110,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 
 Συσκευασία: 10 τεμάχια
 Διαστάσεις: 162x229mm</Description>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>79363</SKU>
-		<EAN>5203358304614</EAN>
-		<Name>Typotrust Σετ Φάκελος Kraft Αυτοκόλλητος 23Χ32,5 10τεμ 3046-10</Name>
-		<URL>https://www.skroutz.gr/s/25760219/Typotrust-Set-Fakeloi-Typou-Sakoula-A4-me-Aytokollito-10tmch-22-9x32-4ek-Kafe-3046-10.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/025760/25760219/xlarge_20201120164726_typotrust_fakeloi_sakoules_kraft_22_9x32_4cm_10tmch_3046a.jpeg</Image>
-		<Price>1.34</Price>
-		<Category>Φάκελοι Αλληλογραφίας</Category>
-		<Manufacturer>Typotrust</Manufacturer>
-		<MPN>ΤΥΠ-79363</MPN>
-		<Description>Βασικά χαρακτηριστικά:
-
-Συσκευασία 10 τεμαχίων
-Διαστάσεις: 22.9x32.4cm</Description>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
