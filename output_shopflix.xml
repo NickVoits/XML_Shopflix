@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-21 13:05</created_at>
+	<created_at>2026-10-21 14:06</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -13,7 +13,7 @@
 		<MPN>0461</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
-		<Quantity>277</Quantity>
+		<Quantity>276</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>416</Quantity>
+		<Quantity>344</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>287</Quantity>
+		<Quantity>286</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -307,7 +307,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>25</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1321</Quantity>
+		<Quantity>1315</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>297</Quantity>
+		<Quantity>291</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -735,7 +735,7 @@
     Coke Zero Sugar
 
 </Description>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -795,7 +795,7 @@
 		<MPN>1135</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
-		<Quantity>1242</Quantity>
+		<Quantity>1236</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>787</Quantity>
+		<Quantity>781</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1266,7 +1266,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>1143</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>•32 mg/100 ml καφεΐνη•Βιταμίνες Β2, Β3, Β5, Β6, Β12•Δεν περιέχει συντηρητικά•Φιλική για το περιβάλλον συσκευασία</Description>
-		<Quantity>7340</Quantity>
+		<Quantity>7330</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1415,7 +1415,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0310</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>2850</Quantity>
+		<Quantity>2844</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1445,7 +1445,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>2738</Quantity>
+		<Quantity>2726</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1505,7 +1505,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0510</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>1068</Quantity>
+		<Quantity>1062</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1571,7 +1571,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>600</Quantity>
+		<Quantity>522</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1609,7 +1609,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1569</Quantity>
+		<Quantity>1565</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1733,7 +1733,7 @@ pH = 7,6
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
-		<Quantity>2527</Quantity>
+		<Quantity>2526</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1918,7 +1918,7 @@ pH = 7,6
 		<MPN>1150</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ξηρή γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
-		<Quantity>256</Quantity>
+		<Quantity>253</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2023,7 +2023,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>767</Quantity>
+		<Quantity>755</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2522,7 +2522,7 @@ pH = 7,6
 		<MPN>0549</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Κρασί ΦΙΛΙΚΟΣ Ροζέ Ξηρό σε ασκό, από Μοσχάτο Μαύρο Τυρνάβου. Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
-		<Quantity>6</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3293,7 +3293,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1327</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες, με αρώματα λευκών λουλουδιών, εσπεριδοειδών και διακριτικών αρωματικών βοτάνων. Στο στόμα είναι γεμάτο με εξαιρετική ισορροπία και με μακράς διάρκειας επίγευση.</Description>
-		<Quantity>907</Quantity>
+		<Quantity>901</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3335,7 +3335,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
-		<Quantity>400</Quantity>
+		<Quantity>394</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3363,7 +3363,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1330</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
-		<Quantity>132</Quantity>
+		<Quantity>126</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3748,7 +3748,7 @@ pH: 3.45
 		<Manufacturer>ΚΤΗΜΑ ΜΠΑΡΑΦΑΚΑ</Manufacturer>
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
-		<Quantity>372</Quantity>
+		<Quantity>366</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6917,7 +6917,7 @@ Kατάλληλη για ηλικίες 24 μηνών και άνω.</Descriptio
 		<Manufacturer>ALWAYS</Manufacturer>
 		<MPN>1040</MPN>
 		<Description>Σερβιέτες με φτερά που προσφέρουν προστασία από τις διαρροές, εφαρμόζουν στο σώμα και εξουδετερώνουν τις οσμές.</Description>
-		<Quantity>76</Quantity>
+		<Quantity>70</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8610,7 +8610,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 Κατάλληλο για χρήση ως καύσιμη ύλη σε κατάλληλες συσκευές
 Κατάλληλο για εργασίες καθαρισμού και αφαίρεση λεκέδων
 Μη πόσιμο</Description>
-		<Quantity>1557</Quantity>
+		<Quantity>1537</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9962,7 +9962,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
-		<Quantity>520</Quantity>
+		<Quantity>510</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10376,7 +10376,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
-		<Quantity>9390</Quantity>
+		<Quantity>9381</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10449,7 +10449,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T3.450G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
-		<Quantity>1208</Quantity>
+		<Quantity>1202</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10463,7 +10463,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
-		<Quantity>359</Quantity>
+		<Quantity>353</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10505,7 +10505,7 @@ Powder Free: Ναι
 		<Manufacturer>TOP FEEL</Manufacturer>
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
-		<Quantity>1001</Quantity>
+		<Quantity>981</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10775,7 +10775,7 @@ Powder Free: Ναι
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
-		<Quantity>4790</Quantity>
+		<Quantity>4788</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10815,7 +10815,7 @@ Powder Free: Ναι
 
 
 </Description>
-		<Quantity>813</Quantity>
+		<Quantity>807</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12057,7 +12057,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>AJAX</Manufacturer>
 		<MPN>0448</MPN>
 		<Description>Το AJAX Λουλούδια Λίμνης χάρη στη μοναδική του σύνθεση που ενεργοποιείται με τον αέρα, απελευθερώνει σταδιακά ένα άρωμα φρεσκάδας για πάνω από 24 ώρες, όπως θα έκανε ένα λουλούδι. Επιπλέον, καθαρίζει σε βάθος, αφήνοντας τις επιφάνειες αστραφτερά καθαρές, χωρίς ξέβγαλμα.</Description>
-		<Quantity>216</Quantity>
+		<Quantity>210</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12127,7 +12127,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>ΡΕΧ</Manufacturer>
 		<MPN>0960</MPN>
 		<Description>Καθαριστικό παχύρρευστο υγρό χλωρίου της εταιρείας Rex Hellas, που συμβάλλει στην αφαίρεση δύσκολων λεκέδων, στην απολύμανση και στην λεύκανση επιφανειών του μπάνιου, ενώ ταυτόχρονα τους χαρίζει ένα ευχάριστο άρωμα. Να φυλάσσεται μακριά από παιδιά.Πριν τη χρήση, συμβουλευτείτε πάντα τις οδηγίες χρήσης του κατασκευαστή στο πίσω μέρος της συσκευασίας.</Description>
-		<Quantity>20</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12141,7 +12141,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>REX</Manufacturer>
 		<MPN>0540</MPN>
 		<Description>Αυτό που θέλουν οι καταναλωτές είναι ένα χλώριο που να αφήνει πίσω του:1. καθαριότητα, 2. φρεσκάδα, 3. χρήματα στην τσέπη τους.Η πραγματικά παχύρρευστη και δυνατή σύνθεση της σειράς προϊόντων REX ULTRA έχει αποτέλεσμα το χλώριο να παραμένει περισσότερο χρόνο στην επιφάνεια και επομένως να καθαρίζει και να απολυμαίνει πιο καλά και πιο σίγουρα! Και πάντα πιο οικονομικά!</Description>
-		<Quantity>313</Quantity>
+		<Quantity>307</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12348,7 +12348,7 @@ EAN: 4023103173118
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>Νο314</MPN>
 		<Description>Ορθοστατικό φαράσι με λάστιχο &amp; κοντάρι. Λόγω του μεγάλου κονταριού που διαθέτει, το μάζεμα των σκουπιδιών γίνεται παιχνίδι, μιάς και δεν χρειάζεται να σκύβετε για να τα μαζεύετε. </Description>
-		<Quantity>38</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13017,7 +13017,7 @@ Barcode
 		<Manufacturer>MORBIDO</Manufacturer>
 		<MPN>1116</MPN>
 		<Description>Απορροφητική σπογγοπετσέτα Wettex. Απορροφάει έως και 15 φορές το βάρος του Σε 4 διαφορετικά σχέδια και χρώματα.</Description>
-		<Quantity>315</Quantity>
+		<Quantity>310</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13183,7 +13183,7 @@ Super-απορροφητική.
 		<Manufacturer>MADONA</Manufacturer>
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
-		<Quantity>1116</Quantity>
+		<Quantity>1111</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13580,7 +13580,7 @@ Barcode
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0309</MPN>
 		<Description>Το Oskar εντομοκτόνο spray καταπολεμά τα ιπτάμενα έντομα όπως μύγες, κουνούπια και σκνίπες. Περιέχει δραστικά συστατικά που βοηθούν στην άμεση καταπολέμηση του προβλήματος. Χρησιμοποιείστε τα εντομοκτόνα με ασφαλή τρόπο. Να διαβάζετε πάντα την ετικέτα και τις πληροφορίες για το προϊόν πριν από τη χρήση.</Description>
-		<Quantity>1241</Quantity>
+		<Quantity>1233</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14025,7 +14025,7 @@ Barcode
 		<MPN>0953</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
-		<Quantity>490</Quantity>
+		<Quantity>482</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21114,7 +21114,7 @@ Brand: Viosarp</Description>
 
 
 </Description>
-		<Quantity>173</Quantity>
+		<Quantity>172</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21220,7 +21220,7 @@ Brand: Viosarp</Description>
 
 1 x Ράφι ρούχων
 1 x οδηγίες</Description>
-		<Quantity>121</Quantity>
+		<Quantity>118</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21965,7 +21965,7 @@ Barcode
 		<Description>Πολυχρηστικό έπιπλο για κάθε χώρο του σπιτιού!
 
 Κατασκευασμένη από ανθεκτικό μέταλλο και 2 ξύλινα ράφια MDF υψηλής αντοχής.</Description>
-		<Quantity>37</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24651,7 +24651,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-1942</MPN>
 		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
-		<Quantity>27</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28702,7 +28702,7 @@ Brand: Sidirela
 Φιλικά προς το περιβάλλον, αυτά τα καλαμάκια είναι ιδανικά για μια βιώσιμη ζωή.
 Η χρήση χάρτινου υλικού βοηθά στη μείωση της πλαστικής ρύπανσης.
 Η ποικιλία χρωμάτων θα ενθουσιάσει μικρούς και μεγάλους.</Description>
-		<Quantity>2609</Quantity>
+		<Quantity>2605</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29208,7 +29208,7 @@ Brand: Sidirela
 		<MPN>0534</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>365</Quantity>
+		<Quantity>355</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29703,7 +29703,7 @@ Barcode: 5206753044598
 		<Manufacturer>ΟΕΜ</Manufacturer>
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
-		<Quantity>5430</Quantity>
+		<Quantity>5405</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39209,7 +39209,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Description>Κυματιστά πατατάκια Ruffles με ρίγανη.
 Συστατικά
 Πατάτες, αραβοσιτέλαιο, γεύση ρίγανης [κρεμμύδι, μαϊντανός, σκόρδο, ρίγανη (0,04%), ορός γάλακτος σε σκόνη (περιέχει πρωτείνη γάλακτος, λακτόζη), φρυγανιά σε σκόνη (περιέχει γλουτένη από σιτάρι), δεξτρόζη, ενισχυτικό γεύσης (όξινο γλουταμινικό νάτριο), ρυθμιστής οξύτητας (κιτρικό οξύ), αρωματικές ύλες (περιέχουν λάδι από σπόρους σέλινου)], αλάτι.</Description>
-		<Quantity>136</Quantity>
+		<Quantity>135</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
