@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-30 16:05</created_at>
+	<created_at>2026-10-30 16:46</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>132</Quantity>
+		<Quantity>131</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1311</Quantity>
+		<Quantity>1299</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1576</Quantity>
+		<Quantity>1575</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1091</Quantity>
+		<Quantity>1079</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>841</Quantity>
+		<Quantity>838</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1074</Quantity>
+		<Quantity>1071</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1733,7 +1733,7 @@ pH = 7,6
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
-		<Quantity>2371</Quantity>
+		<Quantity>2368</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1755,7 +1755,7 @@ pH = 7,6
 Ολική Σκληρότητα: 98,49° F
 Στερεό Υπόλειμμα (180°): 1,25 g/L
 </Description>
-		<Quantity>98</Quantity>
+		<Quantity>74</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1855,7 +1855,7 @@ pH = 7,6
 👉🏻Από την ομώνυμη πηγή που βρίσκεται σε υψόμετρο 650 μέτρων στη Τοπική Κοινότητα Ξινού Νερού του Δήμου Αμυνταίου, ένα φυσικό μεταλλικό νερό με μοναδικές ιδιότητες.
 ❇️Το Ξινό Νερό, είναι ένα φυσικό ανθρακούχο νερό. Αυτό σημαίνει ότι η περιεκτικότητα σε διοξείδιο του άνθρακα μέσα στην φιάλη, είναι η ίδια με εκείνη που προέρχεται από την πηγή, χωρίς επιπλέον προσθήκη.
 ✅Η χαμηλή περιεκτικότητα του Ξινού Νερού σε νάτριο το καθιστά ιδανικό για εκείνους που ακολουθούν δίαιτα φτωχή σε νάτριο.</Description>
-		<Quantity>647</Quantity>
+		<Quantity>623</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4187,7 +4187,7 @@ pH: 3.45
 		<Description>Ερυθρός οίνος με σκούρο πορφυρό χρώμα και μωβ ανταύγειες. Στο στόμα είναι πλούσιο με αρώματα μαύρων φρούτων, γλυκόριζας και νότες από δέρμα και κασίς, όπου παράλληλα βγαίνουν και οι τανίνες, δημιουργώντας μια μακρά επίγευση. 
 
 Το Πεδίον Αγίου Σάββα παραμένει 12 μήνες σε γαλλικά δρύινα πεντάτονα βαρέλια, 12 μήνες σε δρύινα βαρέλια 225Lt. και 12 μήνες στην φιάλη.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5083,7 +5083,7 @@ Prosciutto και αλλαντικά
 		<Name>Dewar's Ουίσκι Σκωτίας Blended White Label 40% 700ml</Name>
 		<URL>https://www.skroutz.gr/s/4901695/Dewar-s-Oyiski-Skotias-Blended-White-Label-40-700ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004901/4901695/xlarge_20211101164517_dewar_s_white_label_oyiski_700ml.jpeg</Image>
-		<Price>20.26366956</Price>
+		<Price>21.77</Price>
 		<Category>Ποτά</Category>
 		<Manufacturer>Dewar's</Manufacturer>
 		<MPN>1492003</MPN>
@@ -8849,7 +8849,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>TEO</Manufacturer>
 		<MPN>0999</MPN>
 		<Description>Το TEO Soap Midnight Jasmine είναι ένα σαπούνι με το αρωματικό άρωμα του γιασεμιού. Με μια απαλή σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Το άρωμα του Midnight Jasmine δημιουργεί μια αίσθηση ευεξίας και χαλάρωσης κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
-		<Quantity>3179</Quantity>
+		<Quantity>3149</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10435,7 +10435,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
-		<Quantity>640</Quantity>
+		<Quantity>639</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12937,7 +12937,7 @@ Barcode
 Πλάκα καθαρισμού με δυνατότητα πλυσίματος για εύκολη συντήρηση.
 Ιδανικό για καθημερινή χρήση ώστε να διατηρείτε το σπίτι σας καθαρό και τακτοποιημένο.
 Προϊόντα Vileda - αναγνωρίσιμη γκάμα για την ποιότητα και την καινοτομία τους.</Description>
-		<Quantity>96</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17351,7 +17351,7 @@ Brand: Viosarp</Description>
 		<MPN>7673001-05</MPN>
 		<Description>Το κόκκαλο για παπούτσια της Viosarp, είναι κατασκευασμένο από μέταλλο και επομένως είναι πολύ πιο ανθεκτικό από τα αντίστοιχα ξύλινα ή πλαστικά κόκαλα της αγοράς.
 Επιλέξτε το επιθυμητό ύψος που σας ταιριάζει.</Description>
-		<Quantity>14</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17916,7 +17916,7 @@ Brand: Viosarp</Description>
     Υλικό επιφάνειας: Μοριοσανίδα
     Υλικό σκελετού: Μέταλλο
     Διαστάσεις: 40x30x60εκ.</Description>
-		<Quantity>96</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21237,7 +21237,7 @@ Brand: Viosarp</Description>
 		<Description>Ο καλόγερος της Viosarp φέρνει φυσική ζεστασιά και στυλ στον χώρο σας. Κατασκευασμένος από ξύλινο υλικό, συνδυάζει ανθεκτικότητα με φυσική ομορφιά. Με ύψος 175 εκατοστά, προσφέρει άφθονο χώρο για να κρεμάσετε ρούχα και αξεσουάρ, διατηρώντας τον χώρο σας οργανωμένο και τακτοποιημένο.
 
 Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί είναι σταθερή/στιβαρή κατασκευή.</Description>
-		<Quantity>8</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22743,7 +22743,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Περιεχόμενα συσκευασίας:
 - 1 x Κουτί ρολογιού</Description>
-		<Quantity>124</Quantity>
+		<Quantity>125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25561,7 +25561,7 @@ E-4749
 
 Κατάλληλη και για πλύσιμο εσωρούχων στο πλυντήριο.
 Διαστάσεις: 40x19 cm.</Description>
-		<Quantity>512</Quantity>
+		<Quantity>509</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28847,7 +28847,7 @@ Brand: Sidirela
     Ιδανικά για μεταφορά τροφίμων, αλλά και για ψήσιμο σε φούρνους έως 220 βαθμούς.
     Με υψηλές προδιαγραφές ποιότητας και υγιεινής.
     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28861,7 +28861,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1688</MPN>
 		<Description>Το καπάκι από το σκεύος αλουμινίου R-29 έχει διάσταση 22 x 17 εκατοστά ύψος. Το καπάκι έχει κατασκευαστεί έτσι ώστε από την μια πλευρά να είναι χαρτόνι λευκό δίνοντας την δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει και από την άλλη μεριά να είναι επενδυμένο με αλουμίνιο σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33586,7 +33586,7 @@ Barcode
     Τροφοδοσία: 220 - 240 V / 50-60 Hz
     Ισχύς: 2000W
     Βάρος: 2.3 κιλά</Description>
-		<Quantity>65</Quantity>
+		<Quantity>66</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35208,11 +35208,11 @@ Barcode
 	<product>
 		<SKU>799200301</SKU>
 		<EAN>5207227192852</EAN>
-		<Name>Eurolamp Περιστρεφόμενο Κεραμικό Αερόθερμο 1500W με Τηλεχειριστήριο, Οθόνη LED και Χρονοδιακόπτη, για Χώρους έως 25m² σε Μαύρο Χρώμα 300-41353 / 890-50019</Name>
+		<Name>Eurolamp Περιστρεφόμενο Κεραμικό Αερόθερμο 1500W με Τηλεχειριστήριο, Οθόνη LED και Χρονοδιακόπτη, για Χώρους έως 25m² σε Μαύρο Χρώμα 300-41353</Name>
 		<URL>https://www.skroutz.gr/s/38084223/Eurolamp-Keramiko-Aerothermo-Domatiou-Dapedou-Mayro-1500W.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/038084/38084223/xlarge_20230811110656_eurolamp_300_41353_keramiko_aerothermo_dapedou_1500w.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/089670/89670945/xlarge_20240212165757_7e7284e7.jpeg https://c.scdn.gr/images/sku_images/081159/81159765/xlarge_20230810105555_5975a4ae.jpeg https://i.ytimg.com/vi/OMJSzfuwgNw/hqdefault.jpg </Additional_Image>
-		<Price>36.64</Price>
+		<Price>32.58</Price>
 		<Category>Αερόθερμα</Category>
 		<Manufacturer>Eurolamp</Manufacturer>
 		<MPN>300-41353</MPN>
@@ -36819,6 +36819,279 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799500113</SKU>
+		<EAN>6941876281688</EAN>
+		<Name>UGREEN Nexode Pro X773 Φορτιστής Πρίζας GaN 100W με 4 USB-C, USB-A και Έξυπνη Οθόνη Γκρι X773 / 65620B</Name>
+		<URL>https://www.skroutz.gr/s/67741521/ugreen-fortistis-choris-kalodio-gan-me-thyra-usb-a-kai-4-thyres-usb-c-100w-power-delivery-gri-x773.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/067741/67741521/xlarge_20260609111237_ugreen_fortistis_choris_kalodio_gan_me_thyra_usb_a_kai_4_thyres_usb_c_100w_power_delivery_gri_x773.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b.jpg https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b-9.jpg https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b-8.jpg https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b-4.jpg https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b-2.jpg https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b-3.jpg https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b-5.jpg https://cdn.omax.bg/images/products/full/6/5/6/3/3/c/omax.bg-ugreen-charger-x773-65620b-6.jpg </Additional_Image>
+		<Price>49.99</Price>
+		<Category>Φορτιστές Κινητών</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>X773 / 65620B</MPN>
+		<Description>Ο UGREEN Nexode Pro X773 100W είναι ένας προηγμένος φορτιστής πρίζας με τεχνολογία GaN (Gallium Nitride), σχεδιασμένος για γρήγορη και αποτελεσματική φόρτιση πολλών ηλεκτρονικών συσκευών από μία μόνο πρίζα.
+
+Με 4 θύρες USB-C, 1 θύρα USB-A, συνολική ισχύ έως 100W και ενσωματωμένη έξυπνη οθόνη, αποτελεί μια ολοκληρωμένη λύση φόρτισης για smartphones, tablets, φορητούς υπολογιστές και άλλα συμβατά ηλεκτρονικά αξεσουάρ.
+
+Ο συνδυασμός υψηλής ισχύος, συμπαγούς κατασκευής και έξυπνης διαχείρισης ενέργειας τον καθιστά ιδανικό για το γραφείο, το σπίτι και τα ταξίδια.
+
+Ισχυρή φόρτιση έως 100W
+
+Ο φορτιστής UGREEN X773 προσφέρει συνολική ισχύ έως 100W, επιτρέποντας τη φόρτιση απαιτητικών συσκευών, όπως συμβατοί φορητοί υπολογιστές, αλλά και μικρότερων συσκευών όπως smartphones, tablets και ασύρματα ακουστικά.
+
+Οι τρεις πρώτες θύρες USB-C (C1, C2 και C3) υποστηρίζουν ισχύ έως 100W η καθεμία όταν χρησιμοποιούνται μεμονωμένα.
+
+Η τέταρτη θύρα USB-C (C4) παρέχει έως 30W, ενώ η θύρα USB-A υποστηρίζει έως 22,5W.
+
+Η πραγματική ισχύς φόρτισης εξαρτάται από τη συνδεδεμένη συσκευή, το καλώδιο και τον αριθμό των θυρών που χρησιμοποιούνται ταυτόχρονα.
+
+Φόρτιση έως 5 συσκευών ταυτόχρονα
+
+Χάρη στις πέντε διαθέσιμες θύρες, μπορείτε να φορτίζετε ταυτόχρονα:
+
+Έναν συμβατό φορητό υπολογιστή.
+
+Ένα smartphone.
+
+Ένα tablet.
+
+Ασύρματα ακουστικά.
+
+Μια επιπλέον συσκευή ή ηλεκτρονικό αξεσουάρ.
+
+Το ενσωματωμένο έξυπνο σύστημα κατανομής ισχύος διαχειρίζεται την παρεχόμενη ενέργεια μεταξύ των συνδεδεμένων συσκευών.
+
+Έτσι, ο φορτιστής μπορεί να εξυπηρετεί πολλαπλές ανάγκες φόρτισης χωρίς να απαιτούνται ξεχωριστοί φορτιστές και πολλές πρίζες.
+
+Σημείωση: Τα 100W αποτελούν τη μέγιστη συνολική ισχύ του φορτιστή και δεν παρέχονται ταυτόχρονα από κάθε θύρα.
+
+Τεχνολογία GaN για υψηλή απόδοση
+
+Η τεχνολογία GaN (νιτρίδιο του γαλλίου) επιτρέπει την κατασκευή φορτιστών υψηλής ισχύος με μικρότερο μέγεθος και αποτελεσματικότερη διαχείριση της ενέργειας σε σύγκριση με πολλές συμβατικές σχεδιάσεις φορτιστών πυριτίου.
+
+Τα βασικά πλεονεκτήματα περιλαμβάνουν:
+
+Συμπαγή κατασκευή παρά την υψηλή ισχύ των 100W.
+
+Βελτιωμένη ενεργειακή απόδοση.
+
+Περιορισμό των ενεργειακών απωλειών.
+
+Αποτελεσματικότερη θερμική διαχείριση.
+
+Ευκολότερη μεταφορά και εξοικονόμηση χώρου.
+
+Αποτελεί ιδανική επιλογή για χρήστες που χρειάζονται έναν ισχυρό φορτιστή χωρίς τον όγκο πολλών ξεχωριστών τροφοδοτικών.
+
+Έξυπνη οθόνη για παρακολούθηση της φόρτισης
+
+Ο UGREEN Nexode Pro X773 διαθέτει ενσωματωμένη έξυπνη ψηφιακή οθόνη, η οποία προσφέρει άμεση οπτική πληροφόρηση σχετικά με τη λειτουργία φόρτισης.
+
+Η οθόνη αποτελεί ένα ιδιαίτερα πρακτικό χαρακτηριστικό για χρήστες που επιθυμούν να παρακολουθούν τη λειτουργία του φορτιστή, αντί να βασίζονται αποκλειστικά στις ενδείξεις των συνδεδεμένων συσκευών.
+
+Έξυπνη διανομή ισχύος
+
+Το ενσωματωμένο σύστημα διαχείρισης ενέργειας κατανέμει την ισχύ ανάλογα με τις συνδεδεμένες συσκευές και τις ενεργές θύρες.
+
+Όταν χρησιμοποιείται μία μόνο από τις θύρες USB-C C1, C2 ή C3, μπορεί να διατεθεί ισχύς έως 100W σε συμβατή συσκευή.
+
+Όταν συνδέονται περισσότερες συσκευές, η διαθέσιμη ισχύς μοιράζεται μεταξύ των θυρών, με μέγιστη συνολική απόδοση 100W.
+
+Με αυτόν τον τρόπο, ο φορτιστής προσαρμόζεται στις διαφορετικές απαιτήσεις φόρτισης ενός σύγχρονου χώρου εργασίας ή ενός νοικοκυριού.
+
+Ενσωματωμένα συστήματα προστασίας
+
+Ο φορτιστής διαθέτει προστασίες από:
+
+Υπερθέρμανση.
+
+Υπέρταση.
+
+Υπερένταση.
+
+Βραχυκύκλωμα.
+
+Το ανθεκτικό στη θερμότητα περίβλημα συμβάλλει στην ασφαλέστερη καθημερινή χρήση.
+
+Ευρωπαϊκό φις και ευρεία συμβατότητα
+
+Ο UGREEN X773 διαθέτει ευρωπαϊκό φις (EU Plug) και λειτουργεί με τάση εισόδου 100–240V AC, καθιστώντας τον κατάλληλο για χρήση σε ηλεκτρικά δίκτυα διαφορετικών χωρών, με τον κατάλληλο προσαρμογέα όπου απαιτείται.
+
+Μπορεί να χρησιμοποιηθεί για τη φόρτιση συμβατών συσκευών USB-C και USB-A, όπως:
+
+Φορητοί υπολογιστές με υποστήριξη φόρτισης USB-C.
+
+Smartphones Android και iPhone.
+
+Tablets και iPad.
+
+Φορητές κονσόλες παιχνιδιών.
+
+Ασύρματα ακουστικά.
+
+Άλλα ηλεκτρονικά αξεσουάρ που φορτίζουν μέσω USB.
+
+Για φόρτιση στα 100W απαιτείται συμβατή συσκευή και κατάλληλο καλώδιο USB-C υψηλής ισχύος.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Σειρά
+
+Nexode Pro
+
+Μοντέλο
+
+X773 / 65620B
+
+Τύπος
+
+Φορτιστής πρίζας GaN
+
+Μέγιστη συνολική ισχύς
+
+100W
+
+Τεχνολογία
+
+GaN (Gallium Nitride)
+
+Θύρες USB-C
+
+4
+
+Θύρες USB-A
+
+1
+
+Σύνολο θυρών
+
+5
+
+Ταυτόχρονη φόρτιση
+
+Έως 5 συσκευές
+
+Ισχύς USB-C1 / C2 / C3
+
+Έως 100W ανά θύρα, σε μεμονωμένη χρήση
+
+Ισχύς USB-C4
+
+Έως 30W
+
+Ισχύς USB-A
+
+Έως 22,5W
+
+Τάση εισόδου
+
+AC 100–240V
+
+Συχνότητα
+
+50/60Hz
+
+Μέγιστο ρεύμα εισόδου
+
+1,8A
+
+Οθόνη
+
+Έξυπνη ψηφιακή οθόνη
+
+Διαχείριση ισχύος
+
+Έξυπνη κατανομή μεταξύ θυρών
+
+Προστασίες
+
+Υπερθέρμανση, υπέρταση, υπερένταση, βραχυκύκλωμα
+
+Περίβλημα
+
+Ανθεκτικό στη θερμότητα
+
+Τύπος φις
+
+EU Plug
+
+Χρώμα
+
+Space Gray
+
+Barcode
+
+6941876281688
+
+Αναλυτικές ηλεκτρικές έξοδοι
+
+USB-C1 / USB-C2 / USB-C3
+
+5V/3A
+
+9V/3A
+
+12V/3A
+
+15V/3A
+
+20V/5A
+
+Μέγιστη ισχύς: 100W
+
+USB-C4
+
+5V/3A
+
+9V/3A
+
+12V/2,5A
+
+15V/2A
+
+20V/1,5A
+
+Μέγιστη ισχύς: 30W
+
+USB-A
+
+5V/3A
+
+9V/2A
+
+12V/1,5A
+
+10V/2,25A
+
+Μέγιστη ισχύς: 22,5W
+
+Ιδανικό για
+
+Γραφεία με πολλαπλές ηλεκτρονικές συσκευές.
+
+Χρήστες laptop και smartphone.
+
+Οικογένειες που χρειάζονται κοινό σημείο φόρτισης.
+
+Επαγγελματικά ταξίδια.
+
+Χρήστες που επιθυμούν λιγότερους φορτιστές και καλώδια στον χώρο τους.
+
+Όσους αναζητούν ισχυρή φόρτιση με τεχνολογία GaN και ψηφιακή οθόνη.
+
+Σημαντικό: Ο φορτιστής δεν περιλαμβάνει καλώδιο φόρτισης. Για να αξιοποιήσετε τις υψηλές ισχείς USB-C, χρησιμοποιήστε κατάλληλο καλώδιο και συσκευή που υποστηρίζουν την απαιτούμενη ισχύ.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>799500203</SKU>
 		<EAN>6920680856152</EAN>
 		<Name>XO Φορτιστής GaN 75W με 3 Θύρες USB-A και 3 Θύρες USB-C σε Λευκό χρώμα L133-56152</Name>
@@ -37461,6 +37734,141 @@ USB-C
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799512101</SKU>
+		<EAN>6957303852833</EAN>
+		<Name>UGREEN Αντάπτορας USB-C Αρσενικό σε USB-A 3.0 Θηλυκό OTG 5Gbps Γκρι US270 / 50283</Name>
+		<URL>https://www.skroutz.gr/s/32830447/Ugreen-US270-Metatropeas-USB-C-male-se-USB-A-female-Gri-1tmch.html#description</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/032830/32830447/xlarge_20260225102743_ugreen_us270_metatropeas_usb_c_male_se_usb_a_female_gri_1tmch.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/5/6/8/c/omax.bg-ugreen-usb-a-to-type-c-us270-2.png https://cdn.omax.bg/images/products/full/6/5/5/6/8/c/omax.bg-ugreen-usb-a-to-type-c-us270-1.jpg https://cdn.omax.bg/images/products/full/6/5/5/6/8/c/omax.bg-ugreen-usb-a-to-type-c-us270-5.png https://cdn.omax.bg/images/products/full/6/5/5/6/8/c/omax.bg-ugreen-usb-a-to-type-c-us270-8.jpg https://cdn.omax.bg/images/products/full/6/5/5/6/8/c/omax.bg-ugreen-usb-a-to-type-c-us270-4.png https://cdn.omax.bg/images/products/full/6/5/5/6/8/c/omax.bg-ugreen-usb-a-to-type-c-us270-6.jpg https://cdn.omax.bg/images/products/full/6/5/5/6/8/c/omax.bg-ugreen-usb-a-to-type-c-us270-7.png </Additional_Image>
+		<Price>2.9</Price>
+		<Category>Μετατροπείς</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>US270 / 50283</MPN>
+		<Description>Ο UGREEN US270 (50283) είναι ένας συμπαγής αντάπτορας USB-C σε USB-A 3.0, σχεδιασμένος για την εύκολη σύνδεση συσκευών και περιφερειακών με βύσμα USB-A σε υπολογιστές, smartphones και tablets που διαθέτουν θύρα USB-C.
+
+Υποστηρίζει το πρότυπο USB 3.0 SuperSpeed, προσφέροντας ταχύτητες μεταφοράς δεδομένων έως 5Gbps, καθώς και λειτουργία OTG (On-The-Go) για απευθείας σύνδεση συμβατών περιφερειακών.
+
+Χάρη στο μικρό του μέγεθος και το ανθεκτικό περίβλημα από κράμα αλουμινίου, αποτελεί μια πρακτική λύση για καθημερινή χρήση στο γραφείο, στο σπίτι ή στις μετακινήσεις.
+
+Μετατρέψτε μια θύρα USB-C σε USB-A
+
+Ο UGREEN US270 επιτρέπει τη σύνδεση περιφερειακών USB-A σε συσκευές με διαθέσιμη θύρα USB-C.
+
+Μπορεί να χρησιμοποιηθεί για τη σύνδεση:
+
+USB flash drives και εξωτερικών μονάδων αποθήκευσης.
+
+Πληκτρολογίων και ποντικιών USB.
+
+Συμβατών χειριστηρίων παιχνιδιών.
+
+Άλλων περιφερειακών και αξεσουάρ USB-A.
+
+Η λειτουργικότητα εξαρτάται από τη συμβατότητα της συσκευής υποδοχής με το αντίστοιχο περιφερειακό.
+
+Γρήγορη μεταφορά δεδομένων έως 5Gbps
+
+Με υποστήριξη USB 3.0 SuperSpeed, ο αντάπτορας προσφέρει θεωρητική ταχύτητα μεταφοράς δεδομένων έως 5Gbps, διευκολύνοντας τη μεταφορά φωτογραφιών, βίντεο, εγγράφων και άλλων αρχείων.
+
+Είναι επίσης συμβατός με παλαιότερες συσκευές USB, με την ταχύτητα να προσαρμόζεται στις δυνατότητες της εκάστοτε σύνδεσης.
+
+Υποστήριξη OTG για smartphones και tablets
+
+Η λειτουργία USB OTG (On-The-Go) επιτρέπει σε συμβατά smartphones και tablets να αναγνωρίζουν και να χρησιμοποιούν εξωτερικές συσκευές USB.
+
+Έτσι, μπορείτε για παράδειγμα να συνδέσετε ένα USB flash drive για πρόσβαση σε αρχεία ή ένα πληκτρολόγιο για ευκολότερη πληκτρολόγηση.
+
+Σημείωση: Η συσκευή USB-C πρέπει να υποστηρίζει λειτουργία OTG ή USB Host.
+
+Ανθεκτική μεταλλική κατασκευή
+
+Το περίβλημα από κράμα αλουμινίου προσφέρει αντοχή στην καθημερινή χρήση και συμβάλλει στην αποτελεσματική απαγωγή θερμότητας.
+
+Ο μικρός και ελαφρύς σχεδιασμός επιτρέπει τη μεταφορά του αντάπτορα σε τσάντα υπολογιστή, θήκη αξεσουάρ ή ακόμη και στην τσέπη.
+
+Άμεση σύνδεση Plug &amp; Play
+
+Ο UGREEN US270 λειτουργεί με σύνδεση Plug &amp; Play, χωρίς να απαιτείται εγκατάσταση πρόσθετων οδηγών για τις συνήθεις συμβατές χρήσεις.
+
+Αρκεί να συνδέσετε το αρσενικό βύσμα USB-C στη συσκευή σας και στη συνέχεια το περιφερειακό USB-A στην υποδοχή του αντάπτορα.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+US270
+
+Κωδικός προϊόντος
+
+50283
+
+Τύπος
+
+Αντάπτορας USB-C σε USB-A
+
+Είσοδος
+
+USB-C αρσενικό (Male)
+
+Έξοδος
+
+USB-A 3.0 θηλυκό (Female)
+
+Πρότυπο USB
+
+USB 3.0 SuperSpeed
+
+Μέγιστη θεωρητική ταχύτητα
+
+5Gbps
+
+Λειτουργία OTG
+
+Ναι
+
+Ενσωματωμένη αντίσταση
+
+5,1kΩ
+
+Εγκατάσταση
+
+Plug &amp; Play
+
+Υλικό περιβλήματος
+
+Κράμα αλουμινίου
+
+Χρώμα
+
+Γκρι
+
+Barcode
+
+6957303852833
+
+Σημαντικές πληροφορίες
+
+Ο αντάπτορας μετατρέπει μια σύνδεση USB-C σε υποδοχή USB-A και όχι το αντίστροφο.
+
+Η μέγιστη ταχύτητα των 5Gbps προϋποθέτει ότι τόσο η συσκευή υποδοχής όσο και το συνδεδεμένο περιφερειακό υποστηρίζουν την αντίστοιχη ταχύτητα.
+
+Η χρήση εξωτερικών δίσκων και άλλων περιφερειακών εξαρτάται από την παροχή ισχύος και τις δυνατότητες της συσκευής USB-C.
+
+Δεν προορίζεται για μεταφορά σήματος εικόνας HDMI ή DisplayPort.
+
+Η υποστήριξη OTG εξαρτάται από το λειτουργικό σύστημα και τις δυνατότητες της συνδεδεμένης συσκευής.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7995122</SKU>
 		<EAN>5205308315350</EAN>
 		<Name>NSP HN28 In-ear Handsfree με Βύσμα USB-C Μαύρο</Name>
@@ -37598,7 +38006,7 @@ Chipset Bluetooth: Jerry JL6983D2
 		<URL>https://www.skroutz.gr/s/61479825/ugreen-cm816-apple-find-my-tracker-gri.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/061479/61479825/xlarge_20250805143928_ugreen_cm816_apple_find_my_tracker_gri.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/113640/113640010/xlarge_20250704140830_92dc10eb.jpeg https://b.scdn.gr/images/sku_images/118308/118308758/xlarge_20251014154055_f7fae4db.jpeg https://b.scdn.gr/images/sku_images/118308/118308743/xlarge_20251014154054_30688ec0.jpeg https://c.scdn.gr/images/sku_images/118308/118308744/xlarge_20251014154054_8950b6c4.jpeg https://cdn.omax.bg/images/products/full/6/1/9/6/9/c/omax.bg-ugreen-smart-tracker-cm816-2.jpg https://cdn.omax.bg/images/products/full/6/1/9/6/9/c/omax.bg-ugreen-smart-tracker-cm816-4.jpg https://cdn.omax.bg/images/products/full/6/1/9/6/9/c/omax.bg-ugreen-smart-tracker-cm816-5.jpg https://cdn.omax.bg/images/products/full/6/1/9/6/9/c/omax.bg-ugreen-smart-tracker-cm816-6.jpg https://cdn.omax.bg/images/products/full/6/1/9/6/9/c/omax.bg-ugreen-smart-tracker-cm816-7.jpg https://d.scdn.gr/images/sku_images/118308/118308752/xlarge_20251014154054_626f1f8c.jpeg https://c.scdn.gr/images/sku_images/118308/118308781/xlarge_20251014154056_b174eac3.jpeg https://a.scdn.gr/images/sku_images/118308/118308764/xlarge_20251014154055_d29bae0d.jpeg </Additional_Image>
-		<Price>14.99</Price>
+		<Price>12.7</Price>
 		<Category>Bluetooth Trackers</Category>
 		<Manufacturer>Ugreen</Manufacturer>
 		<MPN>CM816 / 45297</MPN>
@@ -37616,6 +38024,368 @@ Chipset Bluetooth: Jerry JL6983D2
 Διαστάσεις Κιβωτίου: 480x380x280 mm.
 Η συσκευή ενημερώνει και μεταδίδει τη θέση της μέσω ενεργών Apple συσκευών, παρέχοντας πρόσβαση στη θέση του αντικειμένου ανά πάσα στιγμή. Επιπλέον, διαθέτει ανθεκτικό περίβλημα και ενσωματωμένο κλειδί για εύκολη τοποθέτηση σε τσάντες, κλειδιά ή άλλα αντικείμενα.</Description>
 		<Quantity>13</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799515403</SKU>
+		<EAN>6941876276462</EAN>
+		<Name>UGREEN Bluetooth Smart Tracker Επαναφορτιζόμενο με Apple Find My και Google Find Hub Γκρι CM916 / 75646</Name>
+		<URL>https://www.skroutz.gr/s/68901121/ugreen-cm916-apple-find-my-google-find-hub-gri-epanafortizomeno.html#description</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/068901/68901121/xlarge_20260806091631_ugreen_cm916_apple_find_my_google_find_hub_gri_epanafortizomeno.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-2.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-6.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-5.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-0.jpeg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-3.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-7.jpeg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-8.jpeg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-9.jpeg https://cdn.omax.bg/images/products/full/6/5/5/8/4/c/omax.bg-ugreen-finder-pro-cm916-75646-4.jpg </Additional_Image>
+		<Price>13.59</Price>
+		<Category>Bluetooth Trackers</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>CM916 / 75646</MPN>
+		<Description>Το UGREEN CM916 Smart Tracker είναι ένας πρακτικός, επαναφορτιζόμενος έξυπνος εντοπιστής αντικειμένων, σχεδιασμένος για να σας βοηθά να βρίσκετε εύκολα προσωπικά αντικείμενα όπως κλειδιά, τσάντες, σακίδια και βαλίτσες.
+
+Με συμβατότητα Apple Find My και Google Find Hub, μπορεί να χρησιμοποιηθεί με συμβατές συσκευές iOS ή Android, προσφέροντας έναν εύχρηστο τρόπο εντοπισμού αντικειμένων μέσα από το κινητό σας.
+
+Διαθέτει ενσωματωμένη επαναφορτιζόμενη μπαταρία, φόρτιση μέσω USB-C, ηχητική ειδοποίηση και λειτουργίες ειδοποίησης απομάκρυνσης.
+
+Συμβατότητα με Apple Find My και Google Find Hub
+
+Το UGREEN CM916 υποστηρίζει δύο από τα σημαντικότερα δίκτυα εύρεσης συσκευών:
+
+Apple Find My: Για χρήση με συμβατές συσκευές Apple.
+
+Google Find Hub: Για χρήση με συμβατές συσκευές Android.
+
+Μέσω του αντίστοιχου δικτύου μπορείτε να αναζητήσετε το αντικείμενό σας και να δείτε την τελευταία διαθέσιμη τοποθεσία του.
+
+Σημαντικό: Ο εντοπιστής συνδέεται με ένα από τα δύο οικοσυστήματα κάθε φορά. Δεν υποστηρίζεται ταυτόχρονη σύνδεση ή συγχρονισμός τοποθεσίας μεταξύ Apple και Google.
+
+Εύκολη εύρεση αντικειμένων με ηχητική ειδοποίηση
+
+Δεν θυμάστε πού αφήσατε τα κλειδιά σας;
+
+Μέσα από τη συμβατή εφαρμογή μπορείτε να ενεργοποιήσετε τον ενσωματωμένο βομβητή του tracker, ώστε να το εντοπίσετε ευκολότερα όταν βρίσκεται κοντά σας.
+
+Ο βομβητής αποδίδει ηχητικό σήμα έντασης 80–100dB, σύμφωνα με τα στοιχεία του προμηθευτή.
+
+Η λειτουργία είναι ιδιαίτερα χρήσιμη όταν το αντικείμενο βρίσκεται μέσα σε τσάντα, κάτω από έπιπλα ή σε άλλο σημείο του σπιτιού ή του γραφείου.
+
+Έξυπνες ειδοποιήσεις απομάκρυνσης
+
+Το UGREEN CM916 υποστηρίζει ειδοποιήσεις απομάκρυνσης, ώστε να ενημερώνεστε όταν το συνδεδεμένο αντικείμενο απομακρύνεται ή χάνεται η σύνδεση, ανάλογα με τις δυνατότητες και τις ρυθμίσεις του δικτύου εντοπισμού.
+
+Έτσι, μπορείτε να μειώσετε την πιθανότητα να ξεχάσετε την τσάντα, τα κλειδιά ή κάποιο άλλο σημαντικό αντικείμενο.
+
+Επαναφορτιζόμενη μπαταρία με USB-C
+
+Σε αντίθεση με πολλούς εντοπιστές που χρησιμοποιούν αντικαταστάσιμες μπαταρίες, το CM916 διαθέτει ενσωματωμένη επαναφορτιζόμενη μπαταρία.
+
+Η φόρτιση πραγματοποιείται μέσω θύρας USB-C, χωρίς να απαιτείται αγορά μπαταριών μιας χρήσης.
+
+Η αυτονομία μπορεί να φτάσει έως 365 ημέρες ανά φόρτιση, σύμφωνα με τα αναφερόμενα χαρακτηριστικά του προϊόντος. Η πραγματική διάρκεια εξαρτάται από τη χρήση και τις συνθήκες λειτουργίας.
+
+Λειτουργία Lost Mode
+
+Σε περίπτωση απώλειας ενός αντικειμένου, μπορείτε να αξιοποιήσετε τη λειτουργία Lost Mode του συμβατού δικτύου εντοπισμού.
+
+Η λειτουργία επιτρέπει την καταχώριση στοιχείων επικοινωνίας, ώστε να διευκολυνθεί η επιστροφή του αντικειμένου όταν αυτό εντοπιστεί από τρίτο πρόσωπο, σύμφωνα με τις δυνατότητες της αντίστοιχης πλατφόρμας.
+
+Κοινή χρήση τοποθεσίας
+
+Το UGREEN CM916 υποστηρίζει δυνατότητες κοινής χρήσης του αντικειμένου με φίλους ή μέλη της οικογένειας, όπου αυτές παρέχονται από το επιλεγμένο δίκτυο και τις συμβατές συσκευές.
+
+Αποτελεί μια πρακτική δυνατότητα για αντικείμενα που χρησιμοποιούνται από περισσότερα από ένα άτομα, όπως κοινά κλειδιά ή αποσκευές.
+
+Μικρό μέγεθος και πρακτικός σχεδιασμός
+
+Χάρη στον συμπαγή σχεδιασμό του και το ενσωματωμένο σημείο ανάρτησης, το tracker μπορεί να τοποθετηθεί εύκολα σε:
+
+Κλειδιά σπιτιού ή αυτοκινήτου.
+
+Τσάντες και σακίδια.
+
+Βαλίτσες και ταξιδιωτικές αποσκευές.
+
+Θήκες εξοπλισμού.
+
+Άλλα προσωπικά αντικείμενα που θέλετε να βρίσκετε ευκολότερα.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+CM916
+
+Κωδικός προϊόντος
+
+75646
+
+Τύπος
+
+Bluetooth Smart Tracker
+
+Συμβατότητα
+
+Apple Find My / Google Find Hub
+
+Ταυτόχρονη χρήση Apple και Google
+
+Όχι
+
+Εντοπισμός
+
+Μέσω Bluetooth και συμβατού δικτύου εύρεσης
+
+Μπαταρία
+
+Ενσωματωμένη, επαναφορτιζόμενη
+
+Φόρτιση
+
+USB-C
+
+Αναφερόμενη αυτονομία
+
+Έως 365 ημέρες
+
+Ηχητικός εντοπισμός
+
+Ναι
+
+Ένταση βομβητή
+
+80–100dB
+
+Ειδοποιήσεις απομάκρυνσης
+
+Ναι
+
+Lost Mode
+
+Ναι
+
+Κοινή χρήση αντικειμένου
+
+Υποστηρίζεται, ανάλογα με την πλατφόρμα
+
+Χρώμα
+
+Γκρι
+
+Τεμάχια συσκευασίας
+
+1
+
+Barcode
+
+6941876276462
+
+Σημαντικές διευκρινίσεις
+
+Δεν διαθέτει αυτόνομο GPS ή σύνδεση κινητής τηλεφωνίας. Ο απομακρυσμένος εντοπισμός βασίζεται στο δίκτυο Apple Find My ή Google Find Hub και στη διαθεσιμότητα συμβατών συσκευών στην περιοχή.
+
+Η εμφάνιση της τοποθεσίας δεν είναι απαραίτητα συνεχής ή σε πραγματικό χρόνο.
+
+Δεν μπορεί να χρησιμοποιηθεί ταυτόχρονα με Apple Find My και Google Find Hub.
+
+Για την αρχική σύνδεση απαιτείται συμβατή συσκευή και η αντίστοιχη υπηρεσία εντοπισμού.
+
+Η ακρίβεια και η διαθεσιμότητα των λειτουργιών εξαρτώνται από το περιβάλλον, την πλατφόρμα και τις ρυθμίσεις της συσκευής.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799515411</SKU>
+		<EAN>6941876271214</EAN>
+		<Name>UGREEN Finder Slim 3 Bluetooth Smart Tracker με Apple Find My και Ασύρματη Φόρτιση Μαύρο CM921 / 75121</Name>
+		<URL>https://www.skroutz.gr/s/70272165/ugreen-finder-slim-3-apple-find-my-mayro.html</URL>
+		<Image>https://c.scdn.gr/images/sku_main_images/070272/70272165/xlarge_20261026170726_ugreen_finder_slim_3_apple_find_my_mayro.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-3.png https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-1.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-2.png https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-10.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-5.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-6.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-7.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-8.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-9.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-11.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/5/c/omax.bg-ugreen-locator-cm921-finder-slim-3-12.jpg </Additional_Image>
+		<Price>19.48</Price>
+		<Category>Bluetooth Trackers</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>CM921 / 75121</MPN>
+		<Description>Το UGREEN Finder Slim 3 CM921 είναι ένας λεπτός, επαναφορτιζόμενος έξυπνος εντοπιστής αντικειμένων σε μορφή κάρτας, σχεδιασμένος για να σας βοηθά να βρίσκετε εύκολα το πορτοφόλι, την τσάντα, τη βαλίτσα ή άλλα προσωπικά αντικείμενά σας.
+
+Χάρη στη συμβατότητα με το Apple Find My (Εύρεση), μπορείτε να παρακολουθείτε τη διαθέσιμη τοποθεσία του αντικειμένου σας μέσω του iPhone, του iPad ή του Mac σας.
+
+Ο λεπτός σχεδιασμός του επιτρέπει την εύκολη τοποθέτηση σε πορτοφόλια και θήκες, ενώ η επαναφορτιζόμενη μπαταρία με μαγνητική ασύρματη φόρτιση εξαλείφει την ανάγκη τακτικής αντικατάστασης μπαταριών.
+
+Εντοπισμός μέσω Apple Find My
+
+Το UGREEN Finder Slim 3 συνεργάζεται με το επίσημο δίκτυο Apple Find My, επιτρέποντάς σας να αναζητάτε τα αντικείμενά σας μέσα από την εφαρμογή «Εύρεση».
+
+Όταν το αντικείμενο βρίσκεται κοντά σας, μπορείτε να χρησιμοποιήσετε τις διαθέσιμες λειτουργίες εντοπισμού για να το βρείτε.
+
+Εάν βρίσκεται μακριά, το δίκτυο Apple Find My μπορεί να ενημερώσει τη διαθέσιμη τοποθεσία του μέσω κοντινών συμβατών συσκευών Apple που συμμετέχουν στο δίκτυο.
+
+Η διαθεσιμότητα ενημερώσεων εξαρτάται από την παρουσία τέτοιων συσκευών στην περιοχή.
+
+Λεπτός σχεδιασμός σε μορφή κάρτας
+
+Το Finder Slim 3 έχει σχεδιαστεί ώστε να τοποθετείται διακριτικά σε καθημερινά αντικείμενα χωρίς να καταλαμβάνει σημαντικό χώρο.
+
+Είναι ιδιαίτερα πρακτικό για:
+
+Πορτοφόλια και θήκες καρτών.
+
+Τσάντες και σακίδια.
+
+Βαλίτσες και ταξιδιωτικές αποσκευές.
+
+Θήκες εγγράφων.
+
+Άλλα προσωπικά αντικείμενα που θέλετε να εντοπίζετε ευκολότερα.
+
+Ο σχεδιασμός του το καθιστά μια διακριτική εναλλακτική στους συμβατικούς εντοπιστές τύπου μπρελόκ.
+
+Επαναφορτιζόμενη μπαταρία με μαγνητική ασύρματη φόρτιση
+
+Το UGREEN CM921 διαθέτει ενσωματωμένη επαναφορτιζόμενη μπαταρία πολυμερών λιθίου χωρητικότητας 80mAh.
+
+Η επαναφόρτιση πραγματοποιείται μέσω συμβατής μαγνητικής ασύρματης φόρτισης, χωρίς να χρειάζεται να αντικαθιστάτε μπαταρίες μιας χρήσης.
+
+Ο αναφερόμενος χρόνος φόρτισης είναι περίπου 2 ώρες.
+
+Ειδοποιήσεις απομάκρυνσης
+
+Το Finder Slim 3 υποστηρίζει ειδοποιήσεις μέσω του iPhone όταν απομακρύνεστε από το αντικείμενό σας, ανάλογα με τις ρυθμίσεις της εφαρμογής Apple Find My.
+
+Η λειτουργία είναι χρήσιμη όταν ξεχνάτε το πορτοφόλι ή την τσάντα σας σε κάποιον χώρο.
+
+Ηχητικός εντοπισμός
+
+Η συσκευή διαθέτει ενσωματωμένο βομβητή με μέγιστη αναφερόμενη ένταση ήχου έως 83dB.
+
+Μέσω της εφαρμογής «Εύρεση» μπορείτε να ενεργοποιήσετε τον ήχο όταν ο εντοπιστής βρίσκεται σε κοντινή απόσταση, διευκολύνοντας την αναζήτηση του αντικειμένου.
+
+Υποστήριξη Siri
+
+Το Finder Slim 3 υποστηρίζει χρήση μέσω Siri, επιτρέποντάς σας να ζητήσετε φωνητικά βοήθεια για τον εντοπισμό του αντικειμένου σας μέσω των λειτουργιών Apple Find My.
+
+Συμβατότητα με συσκευές Apple
+
+Το UGREEN CM921 είναι σχεδιασμένο αποκλειστικά για το οικοσύστημα Apple και υποστηρίζει:
+
+iPhone με iOS 14.5 ή νεότερο.
+
+iPad με iPadOS 14.5 ή νεότερο.
+
+Συμβατούς υπολογιστές Mac με macOS και υποστήριξη της εφαρμογής «Εύρεση».
+
+Δεν υποστηρίζει Android ή Google Find Hub.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+CM921
+
+Εμπορική ονομασία
+
+Finder Slim 3
+
+Κωδικός προϊόντος
+
+75121
+
+Τύπος
+
+Bluetooth Smart Tracker σε μορφή κάρτας
+
+Δίκτυο εντοπισμού
+
+Apple Find My
+
+Συμβατότητα Android
+
+Όχι
+
+Συχνότητα λειτουργίας
+
+2400–2483,5MHz
+
+Μπαταρία
+
+Ενσωματωμένη Li-ion polymer
+
+Χωρητικότητα μπαταρίας
+
+80mAh
+
+Τάση μπαταρίας
+
+3,7V
+
+Ενέργεια μπαταρίας
+
+0,296Wh
+
+Φόρτιση
+
+Μαγνητική ασύρματη
+
+Χρόνος φόρτισης
+
+Περίπου 2 ώρες
+
+Είσοδος φόρτισης
+
+5V / 80mA μέγιστο
+
+Ηχητικός εντοπισμός
+
+Ναι
+
+Μέγιστη αναφερόμενη ένταση ήχου
+
+83dB
+
+Ειδοποιήσεις απομάκρυνσης
+
+Ναι
+
+Φωνητικός έλεγχος
+
+Siri
+
+Υλικά κατασκευής
+
+ABS και Polycarbonate (PC)
+
+Χρώμα
+
+Μαύρο
+
+Barcode
+
+6941876271214
+
+Σημαντικές πληροφορίες
+
+Το προϊόν δεν διαθέτει αυτόνομο δέκτη GPS ή σύνδεση κινητής τηλεφωνίας. Ο εντοπισμός πραγματοποιείται μέσω Bluetooth και του δικτύου Apple Find My.
+
+Η τοποθεσία δεν ενημερώνεται απαραίτητα συνεχώς ή σε πραγματικό χρόνο.
+
+Απαιτείται συμβατή συσκευή Apple για τη σύνδεση και τη χρήση.
+
+Δεν είναι συμβατό με Android ή Google Find Hub.
+
+Η ασύρματη φόρτιση πρέπει να πραγματοποιείται με συμβατό εξοπλισμό, σύμφωνα με τις οδηγίες του κατασκευαστή.
+
+Ο χρόνος φόρτισης μπορεί να διαφοροποιείται ανάλογα με τον φορτιστή και τις συνθήκες χρήσης.</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37658,6 +38428,1117 @@ USB-A2: 5V - 2,4A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7995100201</SKU>
+		<EAN>6941876272846</EAN>
+		<Name>UGREEN PB507 Power Bank 10000mAh 20W με USB-C, USB-A και Ψηφιακή Ένδειξη Μπαταρίας Γκριι PB507 / 75131B</Name>
+		<URL>https://www.skroutz.gr/s/65863713/ugreen-pb507-power-bank-10000mah-22-5w-me-thyra-usb-a-kai-thyra-usb-c-power-delivery-quick-charge-pps-gri.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/065863/65863713/xlarge_20260306165751_ugreen_pb507_power_bank_10000mah_22_5w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_gri.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/omax.bg-ugreen-pb507---75131b-power-bank.png https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/omax.bg-ugreen-two-way-power-bank-pb507---75131b-8.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/omax.bg-ugreen-two-way-power-bank-pb507---75131b-7.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/img_omax.bg-ugreen-two-way-power-bank-pb507---75131b-34439.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/omax.bg-ugreen-two-way-power-bank-pb507---75131b-1.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/omax.bg-ugreen-two-way-power-bank-pb507---75131b-4.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/omax.bg-ugreen-two-way-power-bank-pb507---75131b-5.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/3/c/omax.bg-ugreen-two-way-power-bank-pb507---75131b-6.jpg </Additional_Image>
+		<Price>21.36</Price>
+		<Category>Power Banks</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>PB507 / 75131B</MPN>
+		<Description>Το UGREEN PB507 είναι ένα κομψό και πρακτικό Power Bank χωρητικότητας 10.000mAh, σχεδιασμένο για να προσφέρει επιπλέον αυτονομία στις φορητές ηλεκτρονικές συσκευές σας, όπου κι αν βρίσκεστε.
+
+Με μέγιστη ισχύ φόρτισης 20W μέσω USB-C, υποστήριξη τεχνολογιών γρήγορης φόρτισης και δυνατότητα ταυτόχρονης φόρτισης δύο συσκευών, αποτελεί ιδανική επιλογή για καθημερινές μετακινήσεις, εργασία, ταξίδια και εξωτερικές δραστηριότητες.
+
+Διαθέτει μία θύρα USB-C, μία USB-A και ψηφιακή ένδειξη LED που εμφανίζει το υπολειπόμενο ποσοστό της μπαταρίας.
+
+Γρήγορη φόρτιση έως 20W
+
+Το UGREEN PB507 υποστηρίζει γρήγορη φόρτιση με μέγιστη ισχύ 20W μέσω της θύρας USB-C, επιτρέποντας την αποτελεσματική επαναφόρτιση συμβατών smartphones και άλλων φορητών συσκευών.
+
+Υποστηρίζει πολλαπλά πρωτόκολλα γρήγορης φόρτισης:
+
+Power Delivery 3.0 (PD 3.0)
+
+Programmable Power Supply (PPS)
+
+Quick Charge (QC)
+
+SCP
+
+FCP
+
+AFC
+
+Η υποστήριξη διαφορετικών πρωτοκόλλων επιτρέπει τη συνεργασία με πολλές συσκευές Android, iPhone και άλλες συσκευές που φορτίζουν μέσω USB.
+
+Η πραγματική ταχύτητα φόρτισης εξαρτάται από τις δυνατότητες της συνδεδεμένης συσκευής και το καλώδιο που χρησιμοποιείται.
+
+Χωρητικότητα 10.000mAh για καθημερινή αυτονομία
+
+Με χωρητικότητα 10.000mAh και ενεργειακή χωρητικότητα 37Wh, το Power Bank προσφέρει πρόσθετη ενέργεια για τη φόρτιση κινητών τηλεφώνων, ασύρματων ακουστικών και άλλων φορητών ηλεκτρονικών συσκευών.
+
+Αποτελεί μια πρακτική λύση όταν βρίσκεστε μακριά από πρίζα, είτε κατά τη διάρκεια της εργασίας είτε σε ταξίδια και καθημερινές μετακινήσεις.
+
+Ο πραγματικός αριθμός φορτίσεων εξαρτάται από τη χωρητικότητα της μπαταρίας της συσκευής, την κατάστασή της και τις φυσιολογικές απώλειες ενέργειας κατά τη φόρτιση.
+
+Φόρτιση δύο συσκευών ταυτόχρονα
+
+Το UGREEN PB507 διαθέτει δύο θύρες εξόδου:
+
+USB-C: Μέγιστη ισχύς έως 20W.
+
+USB-A: Μέγιστη ισχύς έως 18W.
+
+Μπορείτε να φορτίζετε δύο συμβατές συσκευές ταυτόχρονα, όπως ένα smartphone και ένα ζευγάρι ασύρματα ακουστικά.
+
+Κατά την ταυτόχρονη χρήση των δύο θυρών, η συνολική ισχύς εξόδου περιορίζεται στα 5V/2,4A (12W), σύμφωνα με τις προδιαγραφές του προμηθευτή.
+
+Αμφίδρομη φόρτιση USB-C
+
+Η θύρα USB-C λειτουργεί τόσο ως έξοδος για τη φόρτιση άλλων συσκευών όσο και ως είσοδος για την επαναφόρτιση του ίδιου του Power Bank.
+
+Υποστηρίζει είσοδο έως 20W, όταν χρησιμοποιείται κατάλληλος συμβατός φορτιστής USB-C.
+
+Έτσι, δεν απαιτείται ξεχωριστή υποδοχή φόρτισης για την εσωτερική μπαταρία.
+
+Ψηφιακή ένδειξη στάθμης μπαταρίας
+
+Στην μπροστινή πλευρά του Power Bank υπάρχει ψηφιακή οθόνη LED που εμφανίζει το διαθέσιμο ποσοστό φόρτισης.
+
+Η ένδειξη επιτρέπει να παρακολουθείτε εύκολα την υπολειπόμενη ενέργεια, ώστε να γνωρίζετε πότε χρειάζεται επαναφόρτιση.
+
+Προστασίες για ασφαλέστερη λειτουργία
+
+Το UGREEN PB507 ενσωματώνει συστήματα προστασίας από:
+
+Υπερφόρτιση.
+
+Υπερβολική εκφόρτιση.
+
+Υπέρταση.
+
+Υπερφόρτωση.
+
+Βραχυκύκλωμα.
+
+Οι προστασίες αυτές συμβάλλουν στην ομαλή λειτουργία του Power Bank και στην ασφαλέστερη φόρτιση συμβατών ηλεκτρονικών συσκευών.
+
+Κομψός και φορητός σχεδιασμός
+
+Το λεπτό περίβλημα σε γκρι απόχρωση Graphite προσφέρει διακριτική εμφάνιση και διευκολύνει τη μεταφορά του Power Bank σε τσάντα, σακίδιο ή χειραποσκευή.
+
+Η χωρητικότητα των 37Wh βρίσκεται κάτω από το συνηθισμένο όριο των 100Wh για μεταφορά φορητών μπαταριών σε αεροπορικές πτήσεις. Η μεταφορά επιτρέπεται σύμφωνα με τους ισχύοντες κανόνες της αεροπορικής εταιρείας και γίνεται στη χειραποσκευή, όχι στις παραδιδόμενες αποσκευές.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+PB507 / 75131B
+
+Τύπος προϊόντος
+
+Power Bank
+
+Χωρητικότητα
+
+10.000mAh
+
+Ενεργειακή χωρητικότητα
+
+37Wh
+
+Μέγιστη ισχύς USB-C
+
+20W
+
+Μέγιστη ισχύς USB-A
+
+18W
+
+Θύρες
+
+1 × USB-C, 1 × USB-A
+
+Είσοδος USB-C
+
+5V/3A, 9V/2,22A, 12V/1,67A
+
+Έξοδος USB-C
+
+5V/3A, 9V/2,22A, 12V/1,67A
+
+Έξοδος USB-A
+
+5V/3A, 9V/2A, 10V/2,25A, 12V/1,5A
+
+Ταυτόχρονη έξοδος
+
+5V/2,4A, έως 12W συνολικά
+
+Πρωτόκολλα φόρτισης
+
+PD 3.0, PPS, QC, SCP, FCP, AFC
+
+Ταυτόχρονη φόρτιση
+
+Έως 2 συσκευές
+
+Ένδειξη μπαταρίας
+
+Ψηφιακή LED
+
+Χρώμα
+
+Γκρι Graphite
+
+Barcode
+
+6941876272846
+
+Ιδανικό για
+
+Καθημερινή φόρτιση smartphones.
+
+Ασύρματα ακουστικά και μικρές ηλεκτρονικές συσκευές.
+
+Επαγγελματικές μετακινήσεις και ταξίδια.
+
+Χρήση στο σχολείο, στο πανεπιστήμιο ή στο γραφείο.
+
+Εξωτερικές δραστηριότητες και εκδρομές.
+
+Χρήστες που προτιμούν ένα ελαφρύτερο και οικονομικότερο Power Bank αντί για μεγαλύτερα μοντέλα 20.000mAh.
+
+Σημαντική σημείωση: Το συγκεκριμένο Power Bank έχει μέγιστη ισχύ USB-C 20W και προορίζεται κυρίως για smartphones και μικρές φορητές συσκευές. Δεν αποτελεί κατάλληλη επιλογή για τη φόρτιση φορητών υπολογιστών που απαιτούν υψηλότερη ισχύ.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995200451</SKU>
+		<EAN>6941876269983</EAN>
+		<Name>UGREEN Power Bank 20000mAh 45W με Ενσωματωμένο Καλώδιο USB-C, Φόρτιση 3 Συσκευών και Ψηφιακή Ένδειξη Γκρι PB536  / 55988B</Name>
+		<URL>https://www.skroutz.gr/s/64451009/ugreen-pb536-power-bank-20000mah-45w-me-thyra-usb-a-kai-thyra-usb-c-power-delivery-quick-charge-pps-gri.html</URL>
+		<Image>https://a.scdn.gr/images/sku_main_images/064451/64451009/xlarge_20260818124011_ugreen_pb536_power_bank_20000mah_45w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_quick_charge_pps_gri.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536---55988b-power-bank.png https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-2.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-3.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-5.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-6.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-4.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-7.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-8.jpg https://cdn.omax.bg/images/products/full/6/5/6/6/9/c/omax.bg-ugreen-pb536-power-bank-6941876269983-9.jpg </Additional_Image>
+		<Price>35.07</Price>
+		<Category>Power Banks</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>PB536  / 55988B</MPN>
+		<Description>Το UGREEN PB536 είναι ένα πρακτικό και ισχυρό φορητό Power Bank, ιδανικό για όσους χρειάζονται αξιόπιστη φόρτιση των ηλεκτρονικών τους συσκευών στο σπίτι, στο γραφείο ή κατά τις μετακινήσεις τους.
+
+Με χωρητικότητα 20.000mAh (74Wh) και μέγιστη ισχύ εξόδου 45W, προσφέρει σημαντική αυτονομία και υποστηρίζει τεχνολογίες γρήγορης φόρτισης, όπως Power Delivery, PPS και Quick Charge.
+
+Το ενσωματωμένο καλώδιο USB-C, που χρησιμοποιείται και ως λουράκι μεταφοράς, εξαλείφει την ανάγκη να έχετε πάντα μαζί σας ξεχωριστό καλώδιο. Παράλληλα, οι πρόσθετες θύρες USB-C και USB-A επιτρέπουν την ταυτόχρονη φόρτιση έως τριών συσκευών.
+
+Γρήγορη φόρτιση έως 45W
+
+Το UGREEN PB536 υποστηρίζει ισχύ εξόδου έως 45W μέσω της θύρας USB-C ή του ενσωματωμένου καλωδίου USB-C.
+
+Χάρη στις τεχνολογίες γρήγορης φόρτισης, μπορεί να φορτίζει αποτελεσματικά συμβατά smartphones, tablets και άλλες ηλεκτρονικές συσκευές.
+
+Υποστηρίζει τα πρωτόκολλα:
+
+Power Delivery 3.0 (PD 3.0)
+
+Programmable Power Supply (PPS)
+
+Quick Charge 3.0 και 2.0
+
+FCP, AFC και SCP
+
+BC 1.2
+
+Η πραγματική ταχύτητα φόρτισης εξαρτάται από τις προδιαγραφές και τη συμβατότητα της συνδεδεμένης συσκευής.
+
+Μεγάλη χωρητικότητα 20.000mAh
+
+Η μπαταρία χωρητικότητας 20.000mAh / 74Wh παρέχει ενέργεια για πολλαπλές φορτίσεις κινητών τηλεφώνων και άλλων φορητών συσκευών.
+
+Σύμφωνα με τα ενδεικτικά στοιχεία που παρουσιάζονται για το προϊόν, η χωρητικότητα μπορεί να προσφέρει περίπου:
+
+4,5 φορτίσεις σε iPhone 15 Pro.
+
+3,2 φορτίσεις σε Xiaomi 12.
+
+3 φορτίσεις σε Samsung Galaxy S24 Ultra.
+
+Οι παραπάνω τιμές είναι ενδεικτικές και ενδέχεται να διαφέρουν ανάλογα με την κατάσταση της μπαταρίας, τη χρήση της συσκευής και τις απώλειες ενέργειας κατά τη φόρτιση.
+
+Ενσωματωμένο καλώδιο USB-C με διπλή λειτουργία
+
+Το UGREEN PB536 διαθέτει ενσωματωμένο πλεκτό καλώδιο USB-C, το οποίο λειτουργεί τόσο ως καλώδιο φόρτισης όσο και ως πρακτικό λουράκι μεταφοράς.
+
+Ο σχεδιασμός του προσφέρει σημαντικά πλεονεκτήματα:
+
+Δεν χρειάζεται να μεταφέρετε ξεχωριστό καλώδιο USB-C.
+
+Το πλεκτό περίβλημα διευκολύνει την καθημερινή χρήση.
+
+Το καλώδιο μπορεί να χρησιμοποιηθεί για φόρτιση συσκευών.
+
+Υποστηρίζει επίσης την επαναφόρτιση του ίδιου του Power Bank.
+
+Χρησιμοποιείται ως λουράκι για ευκολότερη μεταφορά.
+
+Η σχεδίαση με μαγνητική συγκράτηση του βύσματος βοηθά στην τακτοποιημένη αποθήκευση του καλωδίου όταν δεν χρησιμοποιείται.
+
+Ταυτόχρονη φόρτιση έως 3 συσκευών
+
+Το Power Bank διαθέτει τρεις εξόδους φόρτισης:
+
+Ενσωματωμένο καλώδιο USB-C: Έως 45W.
+
+Θύρα USB-C: Έως 45W.
+
+Θύρα USB-A: Έως 22,5W.
+
+Μπορείτε έτσι να συνδέσετε ταυτόχρονα έως τρεις συμβατές συσκευές, όπως smartphone, tablet, ασύρματα ακουστικά ή άλλες φορητές συσκευές.
+
+Η διαθέσιμη ισχύς κατανέμεται μεταξύ των συνδεδεμένων συσκευών και δεν παρέχεται η μέγιστη ονομαστική ισχύς κάθε εξόδου ταυτόχρονα.
+
+Γρήγορη επαναφόρτιση του Power Bank
+
+Το UGREEN PB536 υποστηρίζει υψηλή ισχύ εισόδου, επιτρέποντας τη γρήγορη επαναφόρτιση της ενσωματωμένης μπαταρίας.
+
+Σύμφωνα με τις προδιαγραφές του προμηθευτή:
+
+Είσοδος από θύρα USB-C: Έως 65W.
+
+Είσοδος από ενσωματωμένο καλώδιο USB-C: Έως 80W.
+
+Για την επίτευξη αυτών των επιδόσεων απαιτείται κατάλληλος φορτιστής USB-C με συμβατό πρωτόκολλο φόρτισης.
+
+Ψηφιακή ένδειξη στάθμης μπαταρίας
+
+Η ενσωματωμένη ψηφιακή ένδειξη LED εμφανίζει το διαθέσιμο ποσοστό φόρτισης της μπαταρίας.
+
+Έτσι μπορείτε να γνωρίζετε εύκολα πότε χρειάζεται να επαναφορτίσετε το Power Bank, χωρίς να βασίζεστε σε απλές ενδεικτικές λυχνίες.
+
+Ενσωματωμένα συστήματα προστασίας
+
+Το UGREEN PB536 διαθέτει προστασίες που συμβάλλουν στην ασφαλέστερη λειτουργία του, όπως:
+
+Προστασία από υπέρταση.
+
+Προστασία από υπερφόρτωση.
+
+Προστασία από βραχυκύκλωμα.
+
+Προστασία από υπερφόρτιση της μπαταρίας.
+
+Τα συστήματα αυτά βοηθούν στη σταθερή παροχή ενέργειας και στην προστασία του Power Bank κατά την καθημερινή χρήση.
+
+Πρακτικός σχεδιασμός για καθημερινή μεταφορά
+
+Με διαστάσεις 15,2 × 7,1 × 2,98cm και βάρος περίπου 468g, το UGREEN PB536 μεταφέρεται εύκολα σε τσάντα, σακίδιο ή χειραποσκευή.
+
+Η γκρι απόχρωση, το ενσωματωμένο καλώδιο και η ψηφιακή ένδειξη προσφέρουν έναν συνδυασμό διακριτικής εμφάνισης και λειτουργικότητας.
+
+Με ενεργειακή χωρητικότητα 74Wh, βρίσκεται κάτω από το συνήθως επιτρεπόμενο όριο των 100Wh για μεταφορά Power Banks στη χειραποσκευή αεροπλάνου, με την επιφύλαξη των κανονισμών της εκάστοτε αεροπορικής εταιρείας.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+PB536 / 55988B
+
+Τύπος
+
+Φορητή μπαταρία (Power Bank)
+
+Χωρητικότητα
+
+20.000mAh
+
+Ενεργειακή χωρητικότητα
+
+74Wh
+
+Μέγιστη ισχύς εξόδου
+
+45W
+
+Ενσωματωμένο καλώδιο
+
+USB-C, πλεκτό
+
+Λειτουργία καλωδίου
+
+Φόρτιση και λουράκι μεταφοράς
+
+Έξοδος ενσωματωμένου USB-C
+
+Έως 45W
+
+Έξοδος θύρας USB-C
+
+Έως 45W
+
+Έξοδος θύρας USB-A
+
+Έως 22,5W
+
+Είσοδος θύρας USB-C
+
+Έως 65W
+
+Είσοδος ενσωματωμένου USB-C
+
+Έως 80W
+
+Ταυτόχρονη φόρτιση
+
+Έως 3 συσκευές
+
+Ένδειξη μπαταρίας
+
+Ψηφιακή οθόνη LED
+
+Πρωτόκολλα φόρτισης
+
+PD 3.0, PPS, QC 3.0, QC 2.0, FCP, AFC, SCP, BC 1.2
+
+Διαστάσεις
+
+152 × 71 × 29,8mm
+
+Βάρος
+
+Περίπου 468g
+
+Χρώμα
+
+Γκρι
+
+Barcode
+
+6941876269983
+
+Κατάλληλο για
+
+Smartphones Android και iPhone με κατάλληλη σύνδεση USB-C.
+
+Tablets και άλλες φορητές συσκευές.
+
+Ασύρματα ακουστικά και αξεσουάρ USB.
+
+Φορητές κονσόλες παιχνιδιών με συμβατές απαιτήσεις φόρτισης.
+
+Φορητούς υπολογιστές που υποστηρίζουν φόρτιση USB-C έως 45W ή μπορούν να λειτουργήσουν με αυτή την παρεχόμενη ισχύ.
+
+Επαγγελματικές μετακινήσεις, ταξίδια και καθημερινή χρήση.
+
+Χρήσιμες πληροφορίες
+
+Η μέγιστη ισχύς εξόδου είναι 45W και εξαρτάται από τη συμβατότητα της συσκευής και το χρησιμοποιούμενο πρωτόκολλο φόρτισης.
+
+Παρότι υποστηρίζεται η φόρτιση συμβατών laptops, δεν είναι κατάλληλο για την πλήρη κάλυψη των ενεργειακών απαιτήσεων όλων των φορητών υπολογιστών, ιδιαίτερα όσων απαιτούν ισχύ 65W, 100W ή μεγαλύτερη.
+
+Η μέγιστη ισχύς εισόδου διαφέρει ανάλογα με το αν χρησιμοποιείται η ανεξάρτητη θύρα USB-C ή το ενσωματωμένο καλώδιο.
+
+Για αεροπορικά ταξίδια, το Power Bank μεταφέρεται στη χειραποσκευή σύμφωνα με τους κανόνες για μπαταρίες λιθίου και τις οδηγίες της αεροπορικής εταιρείας.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995201301</SKU>
+		<EAN>6941876263165</EAN>
+		<Name>UGREEN Power Bank 20000mAh 130W με Ενσωματωμένο Ανασυρόμενο Καλώδιο USB-C και Ψηφιακή Οθόνη Γκρι PB723 / 55365B</Name>
+		<URL>https://www.skroutz.gr/s/63241781/ugreen-pb723-power-bank-20000mah-130w-me-thyra-usb-a-kai-thyra-usb-c-power-delivery-quick-charge-pps-gri.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/063241/63241781/xlarge_20250929104442_ugreen_pb723_55365b_power_bank_20000mah_130w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_gri.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-pb723---55365b-power-bank.png https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-2.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-3.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-4.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-5.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-6.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-7.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-8.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-9.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/0/c/omax.bg-ugreen-power-bank-pb723-10.jpg </Additional_Image>
+		<Price>54.06</Price>
+		<Category>Power Banks</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>PB723 / 55365B</MPN>
+		<Description>Το UGREEN PB723 είναι ένα ισχυρό και πρακτικό φορητό Power Bank, σχεδιασμένο για γρήγορη φόρτιση smartphones, tablets, φορητών υπολογιστών και άλλων ηλεκτρονικών συσκευών, όπου κι αν βρίσκεστε.
+
+Με χωρητικότητα 20.000mAh, μέγιστη συνολική ισχύ εξόδου 130W και ενσωματωμένο ανασυρόμενο καλώδιο USB-C που υποστηρίζει έως 100W, προσφέρει έναν ολοκληρωμένο συνδυασμό αυτονομίας, ισχύος και ευκολίας μεταφοράς.
+
+Διαθέτει επιπλέον θύρες USB-C και USB-A, επιτρέποντας την ταυτόχρονη φόρτιση έως 3 συσκευών, καθώς και ψηφιακή οθόνη LED για την παρακολούθηση της κατάστασης λειτουργίας.
+
+Γρήγορη φόρτιση με συνολική ισχύ έως 130W
+
+Το UGREEN PB723 μπορεί να αποδώσει συνδυαστική ισχύ φόρτισης έως 130W, καλύπτοντας τις ανάγκες τόσο καθημερινών όσο και περισσότερο απαιτητικών ηλεκτρονικών συσκευών.
+
+Το ενσωματωμένο καλώδιο USB-C υποστηρίζει ισχύ εξόδου έως 100W, επιτρέποντας τη φόρτιση συμβατών laptops με USB-C Power Delivery, καθώς και smartphones, tablets και φορητών κονσολών.
+
+Η ανεξάρτητη θύρα USB-C παρέχει έως 30W, ενώ η θύρα USB-A υποστηρίζει έως 33W, ανάλογα με το πρωτόκολλο φόρτισης.
+
+Σημαντικό: Η μέγιστη ισχύς 130W αφορά τη συνολική συνδυαστική έξοδο. Η ισχύς που παρέχεται σε κάθε συσκευή εξαρτάται από τη συμβατότητα και τον αριθμό των ενεργών συνδέσεων.
+
+Ενσωματωμένο ανασυρόμενο καλώδιο USB-C
+
+Ένα από τα μεγαλύτερα πλεονεκτήματα του Power Bank είναι το ενσωματωμένο καλώδιο USB-C, το οποίο υποστηρίζει φόρτιση έως 100W.
+
+Το καλώδιο αποθηκεύεται στο σώμα της συσκευής, διευκολύνοντας τη μεταφορά και περιορίζοντας την ανάγκη να έχετε μαζί σας ξεχωριστό καλώδιο φόρτισης.
+
+Ο πρακτικός σχεδιασμός του επιτρέπει να χρησιμοποιείτε το Power Bank εύκολα στο γραφείο, στο αυτοκίνητο ως επιβάτης, κατά τις μετακινήσεις ή στα ταξίδια.
+
+Ταυτόχρονη φόρτιση έως 3 συσκευών
+
+Το UGREEN PB723 διαθέτει τρεις διαθέσιμες συνδέσεις εξόδου:
+
+Ενσωματωμένο καλώδιο USB-C: Έως 100W.
+
+Θύρα USB-C: Έως 30W.
+
+Θύρα USB-A: Έως 33W.
+
+Μπορείτε να συνδέσετε έως τρεις συσκευές ταυτόχρονα, αξιοποιώντας τη διαθέσιμη ισχύ σύμφωνα με τις ανάγκες τους.
+
+Αποτελεί ιδιαίτερα πρακτική λύση για όσους χρησιμοποιούν περισσότερες από μία συσκευές στην καθημερινότητά τους.
+
+Ψηφιακή οθόνη LED με πληροφορίες φόρτισης
+
+Η ενσωματωμένη ψηφιακή οθόνη LED επιτρέπει την παρακολούθηση βασικών πληροφοριών λειτουργίας.
+
+Εμφανίζει:
+
+Το υπολειπόμενο επίπεδο φόρτισης της μπαταρίας.
+
+Την ισχύ φόρτισης.
+
+Την τάση λειτουργίας.
+
+Την ένταση ρεύματος.
+
+Έτσι, μπορείτε να ελέγχετε ευκολότερα την κατάσταση του Power Bank και τη διαδικασία φόρτισης των συσκευών σας.
+
+Χωρητικότητα 20.000mAh για μεγαλύτερη αυτονομία
+
+Η μεγάλη χωρητικότητα των 20.000mAh επιτρέπει την επαναφόρτιση συμβατών ηλεκτρονικών συσκευών χωρίς άμεση πρόσβαση σε πρίζα.
+
+Είναι κατάλληλο για επαγγελματικές μετακινήσεις, ταξίδια, εκδρομές και καθημερινή χρήση.
+
+Ο πραγματικός αριθμός φορτίσεων εξαρτάται από τη χωρητικότητα της μπαταρίας κάθε συσκευής, την κατανάλωση ενέργειας και τις απώλειες μετατροπής κατά τη φόρτιση.
+
+Γρήγορη επαναφόρτιση έως 65W
+
+Το Power Bank υποστηρίζει ισχύ εισόδου έως 65W μέσω USB-C, επιτρέποντας ταχύτερη αναπλήρωση της μπαταρίας του σε σύγκριση με συμβατικούς φορτιστές χαμηλής ισχύος.
+
+Η φόρτιση μπορεί να πραγματοποιηθεί μέσω της ανεξάρτητης θύρας USB-C ή του ενσωματωμένου καλωδίου USB-C, με κατάλληλο φορτιστή Power Delivery.
+
+Ο χρόνος πλήρους φόρτισης εξαρτάται από την ισχύ του φορτιστή και τις συνθήκες λειτουργίας.
+
+Συμβατότητα με σύγχρονα πρωτόκολλα γρήγορης φόρτισης
+
+Υποστηρίζει πολλαπλά πρωτόκολλα φόρτισης:
+
+USB Power Delivery 3.0
+
+PPS
+
+Quick Charge 3.0 και QC 2.0
+
+AFC
+
+FCP
+
+SCP
+
+BC 1.2
+
+Η υποστήριξη αυτών των τεχνολογιών επιτρέπει την αποτελεσματική φόρτιση ενός μεγάλου εύρους συμβατών συσκευών.
+
+Ενσωματωμένα συστήματα προστασίας
+
+Το UGREEN PB723 διαθέτει προστασίες από:
+
+Υπέρταση.
+
+Υπερφόρτωση.
+
+Βραχυκύκλωμα.
+
+Υπερφόρτιση της μπαταρίας.
+
+Τα συστήματα αυτά συμβάλλουν στην ασφαλέστερη λειτουργία του Power Bank και στην προστασία των συνδεδεμένων συσκευών.
+
+Συμπαγής σχεδιασμός και εύκολη μεταφορά
+
+Με διαστάσεις μόλις 13,1 × 5,4 × 5,08cm και βάρος περίπου 476g, το Power Bank μεταφέρεται εύκολα σε τσάντα ή σακίδιο.
+
+Η γκρι απόχρωση Space Gray, η ψηφιακή οθόνη και ο ενσωματωμένος ιμάντας μεταφοράς ολοκληρώνουν τον πρακτικό και σύγχρονο σχεδιασμό του.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+PB723 / 55365B
+
+Τύπος
+
+Φορητή εξωτερική μπαταρία (Power Bank)
+
+Χωρητικότητα
+
+20.000mAh
+
+Μέγιστη συνολική ισχύς εξόδου
+
+130W
+
+Μέγιστη ισχύς εισόδου
+
+65W
+
+Ενσωματωμένο καλώδιο
+
+USB-C, ανασυρόμενο
+
+Ισχύς ενσωματωμένου καλωδίου
+
+Έως 100W
+
+Ανεξάρτητη θύρα USB-C
+
+Έως 30W
+
+Θύρα USB-A
+
+Έως 33W
+
+Ταυτόχρονη φόρτιση
+
+Έως 3 συσκευών
+
+Οθόνη
+
+Ψηφιακή LED
+
+Πρωτόκολλα φόρτισης
+
+PD 3.0, PPS, QC 3.0, QC 2.0, AFC, FCP, SCP, BC 1.2
+
+Προστασίες
+
+Υπέρταση, υπερφόρτωση, βραχυκύκλωμα, υπερφόρτιση
+
+Διαστάσεις
+
+13,1 × 5,4 × 5,08cm
+
+Βάρος
+
+Περίπου 476g
+
+Χρώμα
+
+Γκρι (Space Gray)
+
+Barcode
+
+6941876263165
+
+Ιδανικό για
+
+Smartphones με υποστήριξη γρήγορης φόρτισης.
+
+Tablets και φορητές κονσόλες.
+
+Φορητούς υπολογιστές που υποστηρίζουν φόρτιση USB-C PD έως 100W.
+
+Επαγγελματικά ταξίδια και μετακινήσεις.
+
+Καθημερινή χρήση στο γραφείο ή εκτός σπιτιού.
+
+Ταυτόχρονη φόρτιση περισσότερων ηλεκτρονικών συσκευών.
+
+Χρήσιμες πληροφορίες
+
+Η μέγιστη ισχύς φόρτισης εξαρτάται από τις προδιαγραφές της συνδεδεμένης συσκευής και το υποστηριζόμενο πρωτόκολλο.
+
+Για επαναφόρτιση του Power Bank με τη μέγιστη υποστηριζόμενη ισχύ απαιτείται κατάλληλος φορτιστής USB-C Power Delivery.
+
+Για μεταφορά σε αεροπλάνο, συνιστάται να ελέγχετε τους ισχύοντες περιορισμούς και τους όρους της αεροπορικής εταιρείας.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995201651</SKU>
+		<EAN>6941876269921</EAN>
+		<Name>UGREEN Power Bank 20000mAh 165W με Ενσωματωμένο Ανασυρόμενο Καλώδιο USB-C 140W και Ψηφιακή Οθόνη Γκρι PB726 / 55987B</Name>
+		<URL>https://www.skroutz.gr/s/63241712/ugreen-pb726-power-bank-20000mah-165w-me-thyra-usb-a-kai-thyra-usb-c-power-delivery-quick-charge-pps-gri.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/063241/63241712/xlarge_20250929104308_ugreen_pb726_55987b_power_bank_20000mah_165w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_gri.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726---55987b-pb-.png https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-2.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-3.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-4.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-5.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-6.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-7.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-8.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-9.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-10.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/1/c/omax.bg-ugreen-pb726-powerbank-165w-6941876269921-11.jpg </Additional_Image>
+		<Price>76.04</Price>
+		<Category>Power Banks</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>PB726 / 55987B</MPN>
+		<Description>Το UGREEN PB726 είναι ένα υψηλής απόδοσης φορητό Power Bank, σχεδιασμένο για όσους χρειάζονται μεγάλη αυτονομία και ισχυρή φόρτιση, ακόμη και για απαιτητικές συσκευές όπως φορητούς υπολογιστές.
+
+Με χωρητικότητα 20.000mAh, μέγιστη συνολική ισχύ εξόδου 165W και ενσωματωμένο ανασυρόμενο καλώδιο USB-C με ισχύ έως 140W, προσφέρει έναν εξαιρετικό συνδυασμό ταχύτητας, ευελιξίας και πρακτικότητας.
+
+Διαθέτει επιπλέον θύρες USB-C και USB-A, επιτρέποντας την ταυτόχρονη φόρτιση έως τριών συσκευών, ενώ η ψηφιακή οθόνη παρέχει χρήσιμες πληροφορίες για την κατάσταση της μπαταρίας και τη διαδικασία φόρτισης.
+
+Ισχυρή φόρτιση έως 165W
+
+Η μέγιστη συνδυαστική ισχύς εξόδου των 165W επιτρέπει στο UGREEN PB726 να καλύπτει τις ανάγκες πολλών σύγχρονων ηλεκτρονικών συσκευών.
+
+Το ενσωματωμένο καλώδιο USB-C υποστηρίζει ισχύ έως 140W, προσφέροντας δυνατότητα γρήγορης φόρτισης σε συμβατούς φορητούς υπολογιστές υψηλών απαιτήσεων, tablets και smartphones.
+
+Η ανεξάρτητη θύρα USB-C παρέχει έως 65W, ενώ η USB-A υποστηρίζει έως 22,5W.
+
+Η πραγματική ισχύς εξαρτάται από τις δυνατότητες της συνδεδεμένης συσκευής, το πρωτόκολλο φόρτισης και τις ταυτόχρονες συνδέσεις.
+
+Ενσωματωμένο ανασυρόμενο καλώδιο USB-C έως 140W
+
+Το ενσωματωμένο ανασυρόμενο καλώδιο USB-C αποτελεί ένα από τα σημαντικότερα χαρακτηριστικά του Power Bank.
+
+Προσφέρει:
+
+Ισχύ εξόδου έως 140W για συμβατές συσκευές.
+
+Γρήγορη σύνδεση χωρίς την ανάγκη ξεχωριστού καλωδίου.
+
+Πρακτική αποθήκευση στο σώμα της συσκευής.
+
+Ευκολία στη μεταφορά και στην καθημερινή χρήση.
+
+Δυνατότητα επαναφόρτισης του Power Bank μέσω του ίδιου καλωδίου.
+
+Είναι ιδιαίτερα χρήσιμο για επαγγελματίες και χρήστες που μετακινούνται συχνά και θέλουν να περιορίσουν τα πρόσθετα αξεσουάρ.
+
+Ταυτόχρονη φόρτιση έως 3 συσκευών
+
+Το UGREEN PB726 διαθέτει τρεις διαθέσιμες εξόδους φόρτισης:
+
+Ενσωματωμένο καλώδιο USB-C: Έως 140W.
+
+Θύρα USB-C: Έως 65W.
+
+Θύρα USB-A: Έως 22,5W.
+
+Έτσι, μπορείτε να φορτίζετε ταυτόχρονα έναν συμβατό φορητό υπολογιστή, ένα smartphone και μία ακόμη ηλεκτρονική συσκευή.
+
+Η συνολική παρεχόμενη ισχύς δεν υπερβαίνει τα 165W και κατανέμεται ανάλογα με τις ενεργές συνδέσεις.
+
+Χωρητικότητα 20.000mAh για μεγαλύτερη αυτονομία
+
+Η ενσωματωμένη μπαταρία χωρητικότητας 20.000mAh παρέχει σημαντικό ενεργειακό απόθεμα για την καθημερινή φόρτιση ηλεκτρονικών συσκευών.
+
+Είναι κατάλληλη για:
+
+Επαγγελματικές μετακινήσεις.
+
+Ταξίδια και εκδρομές.
+
+Χρήση laptop εκτός γραφείου.
+
+Smartphones και tablets.
+
+Φορητές κονσόλες παιχνιδιών.
+
+Περιπτώσεις όπου δεν υπάρχει άμεση πρόσβαση σε πρίζα.
+
+Ο αριθμός φορτίσεων εξαρτάται από τη χωρητικότητα της μπαταρίας της συνδεδεμένης συσκευής, την κατανάλωση και τις απώλειες μετατροπής ενέργειας.
+
+Ψηφιακή οθόνη με πληροφορίες φόρτισης
+
+Η ενσωματωμένη ψηφιακή οθόνη προσφέρει άμεση ενημέρωση για τη λειτουργία του Power Bank.
+
+Μπορεί να εμφανίζει:
+
+Το υπολειπόμενο ποσοστό της μπαταρίας.
+
+Την ισχύ φόρτισης.
+
+Την τάση λειτουργίας.
+
+Την ένταση ρεύματος.
+
+Έτσι, έχετε καλύτερη εικόνα της διαθέσιμης ενέργειας και της διαδικασίας φόρτισης των συσκευών σας.
+
+Γρήγορη επαναφόρτιση έως 100W
+
+Το UGREEN PB726 υποστηρίζει ισχύ εισόδου έως 100W, τόσο μέσω της θύρας USB-C όσο και μέσω του ενσωματωμένου καλωδίου.
+
+Με κατάλληλο φορτιστή USB-C Power Delivery, μπορεί να επαναφορτιστεί σημαντικά ταχύτερα από ένα συμβατικό Power Bank χαμηλής ισχύος.
+
+Ο πραγματικός χρόνος επαναφόρτισης εξαρτάται από τον φορτιστή, τη θερμοκρασία και την κατάσταση της μπαταρίας.
+
+Υποστήριξη πολλαπλών πρωτοκόλλων γρήγορης φόρτισης
+
+Το Power Bank υποστηρίζει:
+
+Power Delivery 3.1
+
+Power Delivery 3.0
+
+PPS
+
+Quick Charge 3.0
+
+Quick Charge 2.0
+
+FCP
+
+AFC
+
+SCP
+
+Η υποστήριξη αυτών των τεχνολογιών επιτρέπει τη γρήγορη φόρτιση πολλών συμβατών smartphones, tablets, laptops και άλλων συσκευών.
+
+Προηγμένα συστήματα προστασίας
+
+Το UGREEN PB726 διαθέτει ενσωματωμένες προστασίες από:
+
+Υπέρταση.
+
+Υπερφόρτωση.
+
+Βραχυκύκλωμα.
+
+Υπερφόρτιση της μπαταρίας.
+
+Οι προστασίες αυτές συμβάλλουν στην ασφαλέστερη και σταθερότερη λειτουργία κατά τη φόρτιση.
+
+Πρακτικός σχεδιασμός για μετακινήσεις και ταξίδια
+
+Με διαστάσεις 14,67 × 5,43 × 5,06cm και βάρος περίπου 534g, το Power Bank προσφέρει μεγάλη ισχύ σε σχετικά συμπαγή κατασκευή.
+
+Η απόχρωση Space Gray, η ευανάγνωστη ψηφιακή οθόνη και το ενσωματωμένο καλώδιο ολοκληρώνουν έναν λειτουργικό σχεδιασμό κατάλληλο για καθημερινή χρήση.
+
+Σύμφωνα με τον προμηθευτή, η ενεργειακή χωρητικότητα είναι περίπου 90Wh, τιμή που βρίσκεται εντός του συνήθους ορίου των 100Wh για μεταφορά Power Bank στη χειραποσκευή αεροπλάνου. Η τελική αποδοχή εξαρτάται από τους κανονισμούς της αεροπορικής εταιρείας.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+PB726 / 55987B
+
+Τύπος
+
+Power Bank
+
+Χωρητικότητα
+
+20.000mAh
+
+Μέγιστη συνολική ισχύς εξόδου
+
+165W
+
+Μέγιστη ισχύς εισόδου
+
+100W
+
+Ενσωματωμένο καλώδιο
+
+USB-C, ανασυρόμενο
+
+Μέγιστη ισχύς ενσωματωμένου καλωδίου
+
+140W
+
+Μέγιστη ισχύς θύρας USB-C
+
+65W
+
+Μέγιστη ισχύς θύρας USB-A
+
+22,5W
+
+Ταυτόχρονη φόρτιση
+
+Έως 3 συσκευές
+
+Ψηφιακή οθόνη
+
+Ναι
+
+Πρωτόκολλα φόρτισης
+
+PD 3.1, PD 3.0, PPS, QC 3.0, QC 2.0, FCP, AFC, SCP
+
+Ενεργειακή χωρητικότητα
+
+Περίπου 90Wh, σύμφωνα με τον προμηθευτή
+
+Διαστάσεις
+
+146,7 × 54,3 × 50,6mm
+
+Βάρος
+
+Περίπου 534g
+
+Χρώμα
+
+Γκρι (Space Gray)
+
+Barcode
+
+6941876269921
+
+Ιδανικό για
+
+Φορητούς υπολογιστές με υποστήριξη USB-C Power Delivery.
+
+Smartphones με τεχνολογία γρήγορης φόρτισης.
+
+Tablets και φορητές κονσόλες.
+
+Χρήστες που φορτίζουν περισσότερες συσκευές ταυτόχρονα.
+
+Επαγγελματίες που εργάζονται εκτός γραφείου.
+
+Ταξίδια και καθημερινές μετακινήσεις.
+
+Χρήσιμες πληροφορίες
+
+Η ισχύς των 140W από το ενσωματωμένο καλώδιο επιτυγχάνεται μόνο με συμβατές συσκευές και κατάλληλη διαπραγμάτευση φόρτισης USB-C Power Delivery.
+
+Η μέγιστη συνολική ισχύς εξόδου είναι 165W και δεν ισοδυναμεί με ταυτόχρονη παροχή της μέγιστης ονομαστικής ισχύος από κάθε έξοδο.
+
+Για φόρτιση του Power Bank με ισχύ έως 100W απαιτείται κατάλληλος φορτιστής USB-C Power Delivery.
+
+Κατά τη μεταφορά σε αεροπλάνο, το Power Bank πρέπει να μεταφέρεται σύμφωνα με τους ισχύοντες κανόνες για μπαταρίες λιθίου και τις οδηγίες της αεροπορικής εταιρείας.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>7995252001</SKU>
+		<EAN>6941876283293</EAN>
+		<Name>UGREEN Nexode Power Bank 25000mAh 200W με 2 Ενσωματωμένα Καλώδια USB-C και Οθόνη TFT Γκρι PB728 / 75702B</Name>
+		<URL>https://www.skroutz.gr/s/67457462/ugreen-nexode-pb728-power-bank-25000mah-200w-me-thyra-usb-a-kai-2-thyres-usb-c-power-delivery-quick-charge-pps-gri.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/067457/67457462/xlarge_20260616140118_ugreen_nexode_pb728_power_bank_25000mah_200w_me_thyra_usb_a_kai_2_thyres_usb_c_power_delivery_gri.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-ugreen-power-bank-pb728---75702b.png https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-1.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-2.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-13.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-15.jpghttps://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-4.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-5.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-6.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-7.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-8.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-9.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-10.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-11.jpg https://cdn.omax.bg/images/products/full/6/5/6/7/3/c/omax.bg-hoco-pb728-powerbank-20-000-mah--6941876283293-12.jpg </Additional_Image>
+		<Price>90.36</Price>
+		<Category>Power Banks</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>PB728 / 75702B</MPN>
+		<Description>Το UGREEN Nexode PB728 είναι ένα προηγμένο φορητό Power Bank υψηλής χωρητικότητας και ισχύος, σχεδιασμένο για όσους χρειάζονται αξιόπιστη φόρτιση όχι μόνο για smartphones και tablets, αλλά και για φορητούς υπολογιστές και άλλες απαιτητικές συσκευές.
+
+Με χωρητικότητα 25.000mAh, μέγιστη συνολική ισχύ εξόδου 200W, δύο ενσωματωμένα καλώδια USB-C και έξυπνη έγχρωμη οθόνη TFT, συνδυάζει υψηλές επιδόσεις, πρακτικότητα και ευκολία μεταφοράς.
+
+Η δυνατότητα ταυτόχρονης φόρτισης έως 4 συσκευών το καθιστά ιδανικό για επαγγελματική χρήση, ταξίδια, μετακινήσεις και καθημερινή εργασία εκτός γραφείου.
+
+Ισχυρή φόρτιση έως 200W
+
+Το Power Bank υποστηρίζει συνολική ισχύ εξόδου έως 200W, επιτρέποντας τη φόρτιση πολλών συσκευών ταυτόχρονα.
+
+Τα δύο ενσωματωμένα καλώδια USB-C και η ανεξάρτητη θύρα USB-C μπορούν να αποδώσουν έως 100W το καθένα, όταν χρησιμοποιούνται μεμονωμένα και με συμβατή συσκευή.
+
+Έτσι, μπορεί να χρησιμοποιηθεί για τη φόρτιση συμβατών φορητών υπολογιστών, tablets, smartphones, φορητών κονσολών και άλλων συσκευών USB.
+
+Σημαντικό: Τα 200W αφορούν τη μέγιστη συνδυαστική ισχύ. Κατά την ταυτόχρονη φόρτιση, η διαθέσιμη ισχύς κατανέμεται μεταξύ των συνδεδεμένων συσκευών.
+
+Δύο ενσωματωμένα καλώδια USB-C
+
+Ένα από τα σημαντικότερα πλεονεκτήματα του UGREEN Nexode PB728 είναι ότι διαθέτει δύο ενσωματωμένα καλώδια USB-C, περιορίζοντας την ανάγκη μεταφοράς πρόσθετων καλωδίων.
+
+Ανασυρόμενο καλώδιο USB-C μήκους 65cm: Προσφέρει ευελιξία κατά τη φόρτιση και αποθηκεύεται στο σώμα της συσκευής.
+
+Πλεκτό καλώδιο USB-C μήκους 35cm: Διαθέτει ανθεκτική πλεκτή επένδυση και λειτουργεί παράλληλα ως πρακτικός ιμάντας μεταφοράς.
+
+Και τα δύο υποστηρίζουν φόρτιση έως 100W, ανάλογα με τη συνδεδεμένη συσκευή και τις συνθήκες λειτουργίας.
+
+Φόρτιση έως 4 συσκευών ταυτόχρονα
+
+Το Power Bank προσφέρει τέσσερις διαθέσιμες συνδέσεις φόρτισης:
+
+1 ενσωματωμένο ανασυρόμενο καλώδιο USB-C 65cm.
+
+1 ενσωματωμένο πλεκτό καλώδιο USB-C 35cm.
+
+1 ανεξάρτητη θύρα USB-C.
+
+1 ανεξάρτητη θύρα USB-A.
+
+Αυτή η διάταξη επιτρέπει την ταυτόχρονη φόρτιση έως τεσσάρων συσκευών, χωρίς να απαιτούνται τέσσερα ξεχωριστά καλώδια.
+
+Έξυπνη έγχρωμη οθόνη TFT
+
+Η ενσωματωμένη ψηφιακή οθόνη TFT παρέχει αναλυτικές πληροφορίες για τη λειτουργία του Power Bank.
+
+Εμφανίζει:
+
+Το υπολειπόμενο ποσοστό μπαταρίας.
+
+Την ισχύ φόρτισης και εκφόρτισης.
+
+Την τάση και την ένταση ρεύματος.
+
+Πληροφορίες για την κατάσταση λειτουργίας της μπαταρίας.
+
+Έτσι, ο χρήστης μπορεί να παρακολουθεί την κατάσταση φόρτισης σε πραγματικό χρόνο και να γνωρίζει πόση ενέργεια παραμένει διαθέσιμη.
+
+Μεγάλη χωρητικότητα 25.000mAh
+
+Η ενσωματωμένη μπαταρία τεχνολογίας ιόντων λιθίου προσφέρει σημαντική ενεργειακή αυτονομία για χρήση μακριά από πρίζα.
+
+Η πραγματική διάρκεια λειτουργίας και ο αριθμός φορτίσεων εξαρτώνται από τη χωρητικότητα της συνδεδεμένης συσκευής, την απαιτούμενη ισχύ και τις απώλειες μετατροπής ενέργειας.
+
+Το Power Bank μπορεί να επαναφορτιστεί με ισχύ εισόδου έως 100W μέσω USB-C. Σύμφωνα με τα στοιχεία του προμηθευτή, η πλήρης φόρτιση διαρκεί περίπου 2,5 ώρες με κατάλληλο φορτιστή USB-C PD 100W.
+
+Προηγμένη τεχνολογία γρήγορης φόρτισης
+
+Υποστηρίζει πολλαπλά πρωτόκολλα φόρτισης, όπως:
+
+USB Power Delivery (PD 3.0)
+
+PPS
+
+Quick Charge (QC)
+
+AFC
+
+FCP
+
+SCP
+
+Η υποστήριξη αυτών των πρωτοκόλλων επιτρέπει τη συνεργασία με μεγάλο εύρος συμβατών συσκευών, με αυτόματη προσαρμογή της παρεχόμενης ισχύος.
+
+Προστασία και ανθεκτική κατασκευή
+
+Το UGREEN Nexode PB728 διαθέτει σύστημα διαχείρισης της θερμοκρασίας για την παρακολούθηση των συνθηκών λειτουργίας της μπαταρίας.
+
+Το περίβλημα κατασκευάζεται από πολυκαρβονικό υλικό και ABS, συνδυάζοντας ανθεκτικότητα και σύγχρονη εμφάνιση.
+
+Ο σχεδιασμός του σε απόχρωση Space Gray και ο ενσωματωμένος ιμάντας μεταφοράς το καθιστούν κατάλληλο για καθημερινή μετακίνηση και ταξίδια.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Σειρά
+
+Nexode
+
+Μοντέλο
+
+PB728 / 75702B
+
+Τύπος
+
+Φορητή εξωτερική μπαταρία (Power Bank)
+
+Χωρητικότητα
+
+25.000mAh
+
+Τεχνολογία μπαταρίας
+
+Lithium-Ion
+
+Μέγιστη συνολική ισχύς εξόδου
+
+200W
+
+Μέγιστη ισχύς εισόδου
+
+100W
+
+Ενσωματωμένο καλώδιο USB-C 1
+
+65cm, ανασυρόμενο, έως 100W
+
+Ενσωματωμένο καλώδιο USB-C 2
+
+35cm, πλεκτό, έως 100W
+
+Ανεξάρτητη θύρα USB-C
+
+Έως 100W
+
+Θύρα USB-A
+
+Έως 33W, ανάλογα με το πρωτόκολλο
+
+Ταυτόχρονη φόρτιση
+
+Έως 4 συσκευές
+
+Οθόνη
+
+Έγχρωμη TFT
+
+Πρωτόκολλα φόρτισης
+
+PD 3.0, PPS, QC, AFC, FCP, SCP
+
+Χρόνος πλήρους επαναφόρτισης
+
+Περίπου 2,5 ώρες με φορτιστή PD 100W
+
+Διαστάσεις
+
+15,8 × 5,4 × 5cm
+
+Βάρος
+
+631g
+
+Υλικά περιβλήματος
+
+Πολυκαρβονικό και ABS
+
+Χρώμα
+
+Γκρι (Space Gray)
+
+Barcode
+
+6941876283293
+
+Ιδανικό για
+
+Φόρτιση συμβατών laptops με USB-C Power Delivery.
+
+Smartphones και tablets.
+
+Φορητές κονσόλες παιχνιδιών.
+
+Επαγγελματικά ταξίδια και μετακινήσεις.
+
+Χρήση σε χώρους χωρίς άμεση πρόσβαση σε πρίζα.
+
+Ταυτόχρονη φόρτιση πολλών ηλεκτρονικών συσκευών.
+
+Χρήσιμες πληροφορίες
+
+Για φόρτιση φορητού υπολογιστή σε υψηλή ισχύ, απαιτείται συμβατότητα με USB-C Power Delivery και κατάλληλες προδιαγραφές τροφοδοσίας.
+
+Για την ταχύτερη επαναφόρτιση του Power Bank απαιτείται συμβατός φορτιστής USB-C PD 100W, ο οποίος δεν επιβεβαιώνεται ότι περιλαμβάνεται στη συσκευασία.
+
+Η δυνατότητα μεταφοράς του σε αεροπλάνο εξαρτάται από τους ισχύοντες κανονισμούς και την πολιτική της αεροπορικής εταιρείας. Συνιστάται επιβεβαίωση πριν από το ταξίδι.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>7995396701</SKU>
 		<EAN>6920680831142</EAN>
 		<Name>XO Τζαμάκι full face tempered glass 2.5D για iPhone 14 Pro Max 6.7" HC5-31142</Name>
@@ -37692,7 +39573,7 @@ USB-A2: 5V - 2,4A
     Διαστάσεις: 11 x 11 x 5,3 εκ.
 
 </Description>
-		<Quantity>15</Quantity>
+		<Quantity>13</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37939,6 +39820,172 @@ USB-A2: 5V - 2,4A
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>799612102</SKU>
+		<EAN>6957303898558</EAN>
+		<Name>UGREEN Ασύρματο Εργονομικό Ποντίκι Bluetooth 5.0 και USB 2.4GHz Αθόρυβο 4000 DPI Μαύρο MU006 / 90855</Name>
+		<URL>https://www.skroutz.gr/s/40385112/Ugreen-MU006-90855-Asyrmato-Pontiki-Mayro.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/040385/40385112/xlarge_20260225104139_ugreen_mu006_90855_asyrmato_pontiki_mayro.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-6.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg-ugreen-15063-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-silence_1.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-1.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-3.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/8/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-bluetooth-1.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-13.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-4.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg-ugreen-15063-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-silence_14.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-8.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-9.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-10.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-11.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-12.jpg https://cdn.omax.bg/images/products/full/6/5/5/8/7/c/omax.bg_ugreen-usb-optical-wireless-mouse-2-4ghz-4000-dpi-black-mu006-7.jpg </Additional_Image>
+		<Price>12.14</Price>
+		<Category>Ποντίκια</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>MU006 / 90855</MPN>
+		<Description>Το UGREEN MU006 είναι ένα ασύρματο εργονομικό ποντίκι, σχεδιασμένο για άνετη και ακριβή χρήση στον υπολογιστή, στο γραφείο ή στο σπίτι. Συνδυάζει Bluetooth 5.0 και ασύρματη σύνδεση 2.4GHz μέσω USB δέκτη, προσφέροντας ευελιξία στη σύνδεση με διαφορετικές συσκευές.
+
+Διαθέτει οπτικό αισθητήρα με 5 επίπεδα ρυθμιζόμενης ευαισθησίας έως 4000 DPI, αθόρυβα πλήκτρα, εργονομική κατασκευή και αυτονομία έως 18 μήνες με μία μπαταρία AA, σύμφωνα με τις προδιαγραφές του κατασκευαστή.
+
+Αποτελεί μια πρακτική επιλογή για καθημερινή εργασία, περιήγηση στο διαδίκτυο, εφαρμογές γραφείου και πολύωρη χρήση.
+
+Διπλή ασύρματη σύνδεση Bluetooth 5.0 και USB 2.4GHz
+
+Το UGREEN MU006 προσφέρει δύο τρόπους ασύρματης σύνδεσης:
+
+Bluetooth 5.0: Σύνδεση με συμβατούς υπολογιστές, laptops και άλλες συσκευές χωρίς να απαιτείται δέκτης USB.
+
+Ασύρματη σύνδεση 2.4GHz: Σύνδεση μέσω του παρεχόμενου δέκτη USB-A για σταθερή και άμεση επικοινωνία.
+
+Η εμβέλεια της ασύρματης σύνδεσης 2.4GHz φτάνει έως 15 μέτρα, ανάλογα με τις συνθήκες του περιβάλλοντος.
+
+Η διπλή συνδεσιμότητα διευκολύνει τη χρήση του ποντικιού με διαφορετικούς τύπους συσκευών και προσφέρει περισσότερες επιλογές ανάλογα με τις διαθέσιμες θύρες και δυνατότητες σύνδεσης.
+
+Εργονομικός σχεδιασμός για άνετη χρήση
+
+Το MU006 διαθέτει εργονομικό σχήμα πλήρους μεγέθους, σχεδιασμένο ώστε να ακολουθεί τη φυσική καμπύλη του χεριού.
+
+Η διαμορφωμένη επιφάνεια στήριξης της παλάμης και οι ανάγλυφες αντιολισθητικές πλευρές συμβάλλουν στο σταθερό κράτημα και στην άνεση κατά την καθημερινή χρήση.
+
+Ο σχεδιασμός του είναι κατάλληλος για εργασία γραφείου, τηλεργασία, μελέτη και γενική χρήση υπολογιστή.
+
+Αθόρυβα πλήκτρα για ήσυχο περιβάλλον εργασίας
+
+Το UGREEN MU006 διαθέτει αθόρυβη λειτουργία πλήκτρων, με αναφερόμενη στάθμη θορύβου έως 40dB.
+
+Έτσι, περιορίζεται ο θόρυβος των κλικ κατά τη χρήση, καθιστώντας το κατάλληλο για:
+
+Γραφεία και κοινόχρηστους χώρους εργασίας.
+
+Βιβλιοθήκες και χώρους μελέτης.
+
+Τηλεργασία και τηλεδιασκέψεις.
+
+Χρήση στο σπίτι, ακόμη και σε ώρες που απαιτείται ησυχία.
+
+Οπτικός αισθητήρας με 5 επίπεδα DPI έως 4000
+
+Ο οπτικός αισθητήρας προσφέρει δυνατότητα ρύθμισης της ευαισθησίας σε πέντε επίπεδα:
+
+800 DPI: Για πιο ελεγχόμενες κινήσεις.
+
+1200 DPI: Για καθημερινή χρήση.
+
+1600 DPI: Για ισορροπία ταχύτητας και ακρίβειας.
+
+2000 DPI: Για ταχύτερη μετακίνηση του δείκτη.
+
+4000 DPI: Για αυξημένη ευαισθησία, ιδιαίτερα χρήσιμη σε οθόνες υψηλής ανάλυσης.
+
+Η ρύθμιση της ευαισθησίας επιτρέπει την προσαρμογή του ποντικιού στις ανάγκες και στις προσωπικές προτιμήσεις του χρήστη.
+
+Πρακτικά πλήκτρα και πλευρικά χειριστήρια
+
+Το ποντίκι διαθέτει πλήκτρα αριστερού και δεξιού κλικ, τροχό κύλισης, πλευρικά πλήκτρα πλοήγησης και πλήκτρο επιλογής DPI.
+
+Τα πλευρικά πλήκτρα διευκολύνουν την πλοήγηση εμπρός και πίσω σε συμβατές εφαρμογές και προγράμματα περιήγησης, ενώ το πλήκτρο DPI επιτρέπει την αλλαγή ευαισθησίας χωρίς πρόσθετο λογισμικό.
+
+Μεγάλη αυτονομία έως 18 μήνες
+
+Το UGREEN MU006 λειτουργεί με μία μπαταρία AA (R6) και διαθέτει σύστημα χαμηλής κατανάλωσης ενέργειας.
+
+Η αναφερόμενη διάρκεια λειτουργίας φτάνει έως 18 μήνες με μία μπαταρία, ανάλογα με τη συχνότητα και τις συνθήκες χρήσης.
+
+Επιπλέον, διαθέτει λειτουργία αυτόματης εξοικονόμησης ενέργειας, με μετάβαση σε κατάσταση αναστολής μετά από περίπου 30 λεπτά αδράνειας.
+
+Συμβατότητα με πολλαπλά λειτουργικά συστήματα
+
+Το ποντίκι υποστηρίζει χρήση με συμβατές συσκευές που λειτουργούν με:
+
+Windows 7 / 8 / 10 / 11.
+
+macOS.
+
+Chrome OS.
+
+Linux.
+
+Android.
+
+Η διαθεσιμότητα συγκεκριμένων λειτουργιών, όπως τα πλευρικά πλήκτρα, μπορεί να διαφέρει ανάλογα με το λειτουργικό σύστημα και τον τρόπο σύνδεσης.
+
+Τεχνικά χαρακτηριστικά
+
+Κατασκευαστής: UGREEN
+
+Μοντέλο: MU006
+
+Κωδικός προϊόντος: 90855
+
+Τύπος: Ασύρματο εργονομικό ποντίκι
+
+Τεχνολογία αισθητήρα: Οπτικός (Optical)
+
+Ασύρματη σύνδεση: Bluetooth 5.0 και USB 2.4GHz
+
+Δέκτης USB: Ναι, USB-A 2.4GHz
+
+Μέγιστη εμβέλεια 2.4GHz: Έως 15 μέτρα
+
+Ρυθμιζόμενη ευαισθησία: 800 / 1200 / 1600 / 2000 / 4000 DPI
+
+Μέγιστη ανάλυση αισθητήρα: 4000 DPI
+
+Επίπεδα ρύθμισης DPI: 5
+
+Αθόρυβα πλήκτρα: Ναι
+
+Αναφερόμενη στάθμη θορύβου: ≤40dB
+
+Πλευρικά πλήκτρα πλοήγησης: Ναι
+
+Πλήκτρο αλλαγής DPI: Ναι
+
+Τροφοδοσία: 1 × μπαταρία AA (R6)
+
+Αναφερόμενη αυτονομία: Έως 18 μήνες
+
+Εξοικονόμηση ενέργειας: Αυτόματη αναστολή μετά από περίπου 30 λεπτά αδράνειας
+
+Συμβατά λειτουργικά συστήματα: Windows, macOS, Chrome OS, Linux, Android
+
+Εργονομικός σχεδιασμός: Ναι
+
+Αντιολισθητικές πλευρές: Ναι
+
+Χρώμα: Μαύρο
+
+Barcode: 6957303898558
+
+Περιεχόμενα συσκευασίας
+
+1 × Ασύρματο ποντίκι UGREEN MU006.
+
+1 × Ασύρματος δέκτης USB-A 2.4GHz.
+
+Σημαντικές πληροφορίες
+
+Για τη σύνδεση Bluetooth απαιτείται συσκευή με συμβατή λειτουργία Bluetooth.
+
+Για τη σύνδεση 2.4GHz απαιτείται διαθέσιμη θύρα USB-A για τον ασύρματο δέκτη.
+
+Η εμβέλεια των 15 μέτρων αφορά την αναφερόμενη ασύρματη σύνδεση 2.4GHz και μπορεί να επηρεάζεται από εμπόδια ή παρεμβολές.
+
+Η πραγματική αυτονομία εξαρτάται από τη χρήση και την ποιότητα της μπαταρίας.
+
+Η λειτουργία των πλευρικών πλήκτρων μπορεί να διαφέρει ανάλογα με το λειτουργικό σύστημα.
+</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>799614151</SKU>
 		<EAN>6937096336031</EAN>
 		<Name>Uniarch Uho-S3E-M5TD  IP Κάμερα Παρακολούθησης 5MP Wi-Fi Full HD Αμφίδρομης Επικοινωνίας (380027)</Name>
@@ -38164,7 +40211,7 @@ Silicon Power - USB Stick Silicon Power</Description>
 		<URL>https://www.skroutz.gr/s/25477829/Ugreen-Sharing-Box-USB-3-0-Hub-4-THyron-me-syndesi-USB-A-30768.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/025477/25477829/xlarge_20201102132352_ugreen_2_in_4_usb_3_0_sharing_switch_box.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/039661/39661297/xlarge_20210217144137_8cab5351.jpeg https://b.scdn.gr/images/sku_images/039661/39661303/xlarge_20210217144144_08cee428.jpeg https://b.scdn.gr/images/sku_images/037900/37900708/xlarge_20210125163324_b9da9eed.jpeg https://b.scdn.gr/images/sku_images/053463/53463458/xlarge_20211207164306_cf14c634.jpeg https://d.scdn.gr/images/sku_images/053463/53463466/xlarge_20211207164306_9e522dba.jpeg https://a.scdn.gr/images/sku_images/053463/53463468/xlarge_20211207164306_03b162ee.jpeg https://d.scdn.gr/images/sku_images/053463/53463462/xlarge_20211207164306_e56797ee.jpeg https://b.scdn.gr/images/sku_images/053463/53463453/xlarge_20211207164306_58e7214c.jpeg https://b.scdn.gr/images/sku_images/122804/122804274/xlarge_20260225105322_eccb198e.jpeg https://d.scdn.gr/images/sku_images/122804/122804298/xlarge_20260225105323_6739c63a.jpeg https://c.scdn.gr/images/sku_images/122804/122804285/xlarge_20260225105323_773bd327.jpeg </Additional_Image>
-		<Price>17.77</Price>
+		<Price>17.75</Price>
 		<Category>USB Hub</Category>
 		<Manufacturer>Ugreen</Manufacturer>
 		<MPN>US216/30768</MPN>
@@ -38176,6 +40223,431 @@ Silicon Power - USB Stick Silicon Power</Description>
 Αποδοτικός έλεγχος και πολυλειτουργικότητα
 Με τη δυνατότητα διαχείρισης αρχείων από δύο υπολογιστές ταυτόχρονα, μπορείτε να τους ελέγχετε εύκολα και γρήγορα ανάμεσα στις συσκευές. Ο αντάπτορας σάς δίνει τη δυνατότητα να συνδέσετε όλες τις συσκευές και τα μέσα αποθήκευσης που διαθέτουν απόληξη USB.</Description>
 		<Quantity>16</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799626204</SKU>
+		<EAN>6941876229611</EAN>
+		<Name>UGREEN KVM Switch HDMI 2 σε 1 8K@60Hz με USB 3.0 για 2 Υπολογιστές Γκρι CM692 / 25961</Name>
+		<URL>https://www.skroutz.gr/s/53297630/Ugreen-25961-KVM-Data-Switch-me-USB-3-0-HDMI.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/053297/53297630/xlarge_20240809144553_ugreen_kvm_data_switch_25961.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-10.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-2.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-3.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-4.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-5.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-6.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-7.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-8.jpg https://cdn.omax.bg/images/products/full/6/5/6/1/9/c/omax.bg-ugreen-switch-cm692-25961-9.jpg </Additional_Image>
+		<Price>74.76</Price>
+		<Category>Περιφερειακά</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>CM692 / 25961</MPN>
+		<Description>Το UGREEN CM692 KVM Switch HDMI 2 σε 1 είναι μια προηγμένη λύση για τη διαχείριση δύο υπολογιστών μέσω μίας κοινής οθόνης, ενός πληκτρολογίου, ενός ποντικιού και άλλων περιφερειακών συσκευών USB.
+
+Με υποστήριξη ανάλυσης έως 8K στα 60Hz, σύνδεση HDMI 2.1 και θύρες USB 3.0 με ταχύτητα μεταφοράς έως 5Gbps, προσφέρει έναν πρακτικό τρόπο εναλλαγής μεταξύ δύο υπολογιστών χωρίς να χρειάζεται συνεχής αποσύνδεση και επανασύνδεση καλωδίων.
+
+Αποτελεί ιδανική επιλογή για επαγγελματικούς χώρους, γραφεία, σταθμούς εργασίας και χρήστες που θέλουν να εξοικονομήσουν χώρο και να οργανώσουν καλύτερα τον εξοπλισμό τους.
+
+Έλεγχος δύο υπολογιστών από μία θέση εργασίας
+
+Το UGREEN CM692 επιτρέπει τη σύνδεση δύο υπολογιστών στην ίδια οθόνη και την κοινή χρήση περιφερειακών συσκευών.
+
+Μπορείτε, για παράδειγμα, να συνδέσετε έναν επαγγελματικό και έναν προσωπικό υπολογιστή και να χρησιμοποιείτε το ίδιο πληκτρολόγιο, ποντίκι και οθόνη, επιλέγοντας κάθε φορά ποιο σύστημα θέλετε να ελέγχετε.
+
+Η εναλλαγή γίνεται εύκολα μέσω του πλήκτρου της συσκευής ή του εξωτερικού χειριστηρίου επιλογής.
+
+Πλεονεκτήματα:
+
+Έλεγχος δύο υπολογιστών από μία κοινή θέση εργασίας.
+
+Χρήση μίας οθόνης αντί για δύο.
+
+Κοινή χρήση πληκτρολογίου, ποντικιού και άλλων περιφερειακών USB.
+
+Εύκολη εναλλαγή μεταξύ υπολογιστών.
+
+Λιγότερα καλώδια και καλύτερη οργάνωση του γραφείου.
+
+Υποστήριξη ανάλυσης έως 8K στα 60Hz
+
+Χάρη στην υποστήριξη HDMI 2.1, ο διακόπτης KVM μπορεί να μεταφέρει εικόνα υψηλής ανάλυσης, προσφέροντας εξαιρετική ευκρίνεια και ομαλή απεικόνιση με συμβατό εξοπλισμό.
+
+Οι υποστηριζόμενες αναλύσεις περιλαμβάνουν:
+
+8K στα 60Hz
+
+4K έως 240Hz
+
+2K έως 144Hz ή 120Hz
+
+Full HD 1080p έως 240Hz
+
+Η συσκευή υποστηρίζει επίσης τεχνολογίες εικόνας και ήχου όπως HDR, 3D, CEC και HDCP 2.3/1.4.
+
+Για την επίτευξη των υψηλότερων αναλύσεων και ρυθμών ανανέωσης απαιτούνται συμβατές κάρτες γραφικών, οθόνη και κατάλληλα καλώδια HDMI.
+
+Θύρες USB 3.0 με ταχύτητα έως 5Gbps
+
+Το UGREEN CM692 διαθέτει θύρες USB 3.0 για τη σύνδεση περιφερειακών συσκευών και τη μεταφορά δεδομένων.
+
+Μπορείτε να συνδέσετε:
+
+Πληκτρολόγιο.
+
+Ποντίκι.
+
+USB flash drive.
+
+Εξωτερικό αποθηκευτικό μέσο.
+
+Εκτυπωτή ή άλλο συμβατό περιφερειακό USB.
+
+Οι θύρες USB 3.0 υποστηρίζουν θεωρητική ταχύτητα μεταφοράς έως 5Gbps, επιτρέποντας την αποτελεσματική χρήση αποθηκευτικών μέσων και άλλων συσκευών.
+
+Με την εναλλαγή του KVM, τα κοινόχρηστα περιφερειακά συνδέονται στον επιλεγμένο υπολογιστή.
+
+Δύο τρόποι εναλλαγής
+
+Η επιλογή του ενεργού υπολογιστή μπορεί να πραγματοποιηθεί με δύο τρόπους:
+
+1. Πλήκτρο στη συσκευή
+
+Με το ενσωματωμένο πλήκτρο μπορείτε να αλλάζετε τον υπολογιστή που χρησιμοποιεί την οθόνη και τα κοινόχρηστα περιφερειακά.
+
+2. Εξωτερικό χειριστήριο επιλογής
+
+Η συσκευή υποστηρίζει εξωτερικό ενσύρματο χειριστήριο, ώστε να μπορείτε να πραγματοποιείτε την εναλλαγή από ένα πιο εύκολα προσβάσιμο σημείο του γραφείου.
+
+Έτσι, το KVM switch μπορεί να τοποθετηθεί πίσω από την οθόνη ή σε άλλο σημείο, διατηρώντας τον χώρο εργασίας τακτοποιημένο.
+
+Ευρεία συμβατότητα και λειτουργία Plug &amp; Play
+
+Το UGREEN CM692 είναι συμβατό με λειτουργικά συστήματα:
+
+Windows
+
+macOS
+
+Linux
+
+Η λειτουργία Plug &amp; Play επιτρέπει τη χρήση του χωρίς εγκατάσταση ειδικού λογισμικού για τη βασική λειτουργία εναλλαγής.
+
+Η συσκευή τροφοδοτείται μέσω των συνδεδεμένων υπολογιστών ή μέσω εξωτερικής σύνδεσης USB-C 5V, ανάλογα με τις απαιτήσεις της εγκατάστασης.
+
+Ιδανικό για επαγγελματική και οικιακή χρήση
+
+Το UGREEN CM692 είναι κατάλληλο για:
+
+Γραφεία με δύο υπολογιστές.
+
+Συνδυασμό επαγγελματικού και προσωπικού PC.
+
+Σταθμούς εργασίας με desktop και laptop.
+
+Προγραμματιστές και τεχνικούς υπολογιστών.
+
+Δημιουργούς περιεχομένου και επαγγελματίες γραφικών.
+
+Χρήστες που θέλουν κοινή οθόνη και περιφερειακά χωρίς συνεχείς αλλαγές καλωδίων.
+
+Τεχνικά χαρακτηριστικά
+
+Χαρακτηριστικό
+
+Προδιαγραφή
+
+Κατασκευαστής
+
+UGREEN
+
+Μοντέλο
+
+CM692
+
+Κωδικός προϊόντος
+
+25961
+
+Τύπος
+
+HDMI KVM Switch 2 σε 1
+
+Υπολογιστές εισόδου
+
+2
+
+Οθόνες εξόδου
+
+1
+
+Σύνδεση εικόνας
+
+HDMI 2.1
+
+Είσοδοι HDMI
+
+2
+
+Έξοδος HDMI
+
+1
+
+Μέγιστη ανάλυση
+
+8K@60Hz
+
+Υποστήριξη 4K
+
+Έως 240Hz
+
+Υποστήριξη Full HD
+
+Έως 240Hz
+
+Είσοδοι δεδομένων USB-C
+
+2 × USB 3.0
+
+Θύρες USB-A για περιφερειακά
+
+3 × USB 3.0
+
+Πρόσθετη θύρα USB-C
+
+1 × USB 3.0
+
+Ταχύτητα USB 3.0
+
+Έως 5Gbps
+
+Θύρα εξωτερικού χειριστηρίου
+
+Mini USB
+
+Πρόσθετη τροφοδοσία
+
+USB-C 5V
+
+Εναλλαγή υπολογιστών
+
+Πλήκτρο συσκευής ή εξωτερικό χειριστήριο
+
+Υποστήριξη εικόνας
+
+HDR, 3D, CEC
+
+HDCP
+
+2.3 / 1.4
+
+Συμβατά λειτουργικά
+
+Windows, macOS, Linux
+
+Εγκατάσταση
+
+Plug &amp; Play
+
+Χρώμα
+
+Space Gray
+
+Barcode
+
+6941876229611
+
+Σημαντικές πληροφορίες
+
+Το προϊόν προορίζεται για τη σύνδεση δύο υπολογιστών σε μία οθόνη. Δεν προβάλλει ταυτόχρονα την εικόνα και των δύο υπολογιστών.
+
+Για την πλήρη λειτουργία KVM απαιτείται σύνδεση τόσο HDMI όσο και USB από κάθε υπολογιστή.
+
+Οι μέγιστες αναλύσεις και οι ρυθμοί ανανέωσης εξαρτώνται από τη συμβατότητα ολόκληρης της εγκατάστασης.
+
+Η συσκευή δεν λειτουργεί ως σταθμός σύνδεσης USB-C για μεταφορά εικόνας από laptop χωρίς ξεχωριστή σύνδεση HDMI.
+
+Τα απαιτούμενα καλώδια και το εξωτερικό χειριστήριο πρέπει να επιβεβαιωθούν από τα περιεχόμενα της συγκεκριμένης συσκευασίας.</Description>
+		<Quantity>0</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
+		<SKU>799626301</SKU>
+		<EAN>6941876264872 
+</EAN>
+		<Name>UGREEN Docking Station 11 σε 1 για Mac Mini M4/M4 Pro με USB-C 10Gbps, USB-A, M.2 NVMe και SD/microSD Γκρι CM841 / 65487</Name>
+		<URL>https://www.skroutz.gr/s/63274801/ugreen-cm841-11-in-1-docking-station-usb-c-3x-usb-a-3-2-2x-usb-c-3-2-2x-usb-a-3-0-nvme-sd-tf-gray.html</URL>
+		<Image>https://d.scdn.gr/images/sku_main_images/063274/63274801/xlarge_20250930123209_ugreen_cm841_11_in_1_docking_station_usb_c_3x_usb_a_3_2_2x_usb_c_3_2_2x_usb_a_3_0_nvme_sd_tf_gray.jpeg</Image>
+		<Additional_Image>https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-7.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-12.png https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-6.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-2.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-3.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-9.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-4.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-8.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-10.jpg https://cdn.omax.bg/images/products/full/6/5/5/4/4/c/omax.bg-ugreen-hub-11-in-1-cm841a-5.jpg </Additional_Image>
+		<Price>58.25</Price>
+		<Category>Περιφερειακά</Category>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>CM841 / 65487</MPN>
+		<Description>Το UGREEN CM841 11-in-1 Docking Station είναι ένας πολυλειτουργικός σταθμός σύνδεσης και βάση επέκτασης, ειδικά σχεδιασμένος για τους υπολογιστές Apple Mac Mini M4 και Mac Mini M4 Pro.
+
+Συνδυάζει πρακτική βάση στήριξης, επέκταση θυρών USB υψηλής ταχύτητας, αναγνώστες καρτών μνήμης και ενσωματωμένη υποδοχή για SSD M.2 NVMe, προσφέροντας μια ολοκληρωμένη λύση οργάνωσης και συνδεσιμότητας για το γραφείο ή τον επαγγελματικό χώρο.
+
+Με ταχύτητες μεταφοράς δεδομένων έως 10Gbps, δυνατότητα εγκατάστασης SSD χωρητικότητας έως 8TB και ανθεκτική κατασκευή από αλουμίνιο, επιτρέπει την αξιοποίηση περισσότερων περιφερειακών συσκευών χωρίς την ανάγκη πολλών ξεχωριστών προσαρμογέων.
+
+Σχεδιασμένο για Apple Mac Mini M4 και M4 Pro
+
+Ο σταθμός σύνδεσης έχει σχεδιαστεί ώστε να εφαρμόζει κάτω από το Mac Mini M4 ή M4 Pro, δημιουργώντας ένα ενιαίο, οργανωμένο σύνολο.
+
+Η ειδική κατασκευή του προσφέρει σταθερή τοποθέτηση και εύκολη πρόσβαση στις επιπλέον θύρες σύνδεσης.
+
+Η μεταλλική εμφάνιση σε γκρι απόχρωση συνδυάζεται αισθητικά με τον σχεδιασμό του Mac Mini, διατηρώντας έναν καθαρό και λειτουργικό χώρο εργασίας.
+
+Επέκταση συνδεσιμότητας 11 σε 1
+
+Το UGREEN CM841A προσφέρει πολλαπλές δυνατότητες σύνδεσης μέσω μίας σύνδεσης USB-C με τον υπολογιστή.
+
+Διαθέτει:
+
+2 θύρες USB-C δεδομένων, με ταχύτητες έως 10Gbps.
+
+3 θύρες USB-A υψηλής ταχύτητας, έως 10Gbps.
+
+2 επιπλέον θύρες USB-A, έως 5Gbps.
+
+1 υποδοχή κάρτας SD 3.0.
+
+1 υποδοχή κάρτας microSD/TF 3.0.
+
+1 υποδοχή εγκατάστασης SSD M.2 NVMe.
+
+1 πρόσθετη είσοδο USB-C 5V/3A για τροφοδοσία του hub και του SSD.
+
+Ο χαρακτηρισμός 11-in-1 αφορά τις λειτουργίες επέκτασης του σταθμού. Η σύνδεση USB-C προς τον υπολογιστή χρησιμοποιείται για τη μεταφορά δεδομένων μεταξύ Mac Mini και docking station.
+
+Υψηλές ταχύτητες USB έως 10Gbps
+
+Οι θύρες USB-C και οι τρεις θύρες USB-A υψηλής ταχύτητας υποστηρίζουν μεταφορά δεδομένων έως 10Gbps, επιτρέποντας τη γρήγορη σύνδεση και χρήση συμβατών συσκευών.
+
+Είναι ιδανικές για:
+
+Εξωτερικούς SSD και μονάδες αποθήκευσης.
+
+USB flash drives.
+
+Περιφερειακά υπολογιστών.
+
+Μεταφορά μεγάλων αρχείων, φωτογραφιών και βίντεο.
+
+Επαγγελματικές εργασίες με συχνή πρόσβαση σε δεδομένα.
+
+Οι δύο πρόσθετες θύρες USB-A προσφέρουν ταχύτητες έως 5Gbps, καλύπτοντας τις ανάγκες σύνδεσης επιπλέον περιφερειακών.
+
+Οι αναφερόμενες ταχύτητες είναι θεωρητικές μέγιστες και εξαρτώνται από τον συνδεδεμένο εξοπλισμό.
+
+Ενσωματωμένη υποδοχή M.2 NVMe SSD έως 8TB
+
+Ένα από τα σημαντικότερα πλεονεκτήματα του UGREEN CM841 είναι η δυνατότητα εγκατάστασης εσωτερικού SSD M.2 NVMe απευθείας στη βάση.
+
+Υποστηρίζει:
+
+SSD τύπου M.2 NVMe PCIe 3.0.
+
+Μεγέθη 2230, 2242, 2260 και 2280.
+
+SSD με εγκοπή M-Key ή B+M Key, εφόσον είναι τεχνολογίας NVMe.
+
+Χωρητικότητα έως 8TB.
+
+Ταχύτητα μεταφοράς μέσω του hub έως 10Gbps.
+
+Η δυνατότητα αυτή επιτρέπει την επέκταση του διαθέσιμου αποθηκευτικού χώρου του Mac Mini χωρίς να απαιτείται ξεχωριστό εξωτερικό περίβλημα SSD.
+
+Είναι ιδιαίτερα χρήσιμη για αποθήκευση μεγάλων αρχείων, βιβλιοθηκών φωτογραφιών, βίντεο, αντιγράφων ασφαλείας και επαγγελματικών δεδομένων.
+
+Ο SSD δεν περιλαμβάνεται και αγοράζεται ξεχωριστά.
+
+Αναγνώστες καρτών SD και microSD έως 170MB/s
+
+Το docking station διαθέτει δύο υποδοχές καρτών μνήμης:
+
+SD 3.0
+
+microSD / TF 3.0
+
+Υποστηρίζουν αναφερόμενες ταχύτητες μεταφοράς έως 170MB/s, επιτρέποντας τη γρήγορη εισαγωγή φωτογραφιών, βίντεο και άλλων δεδομένων από συμβατές κάρτες μνήμης.
+
+Πρόκειται για ιδιαίτερα χρήσιμη δυνατότητα για φωτογράφους, δημιουργούς περιεχομένου και χρήστες που μεταφέρουν συχνά αρχεία από φωτογραφικές μηχανές ή άλλες φορητές συσκευές.
+
+Πρόσθετη τροφοδοσία USB-C 5V/3A
+
+Ο σταθμός διαθέτει ειδική είσοδο USB-C για πρόσθετη τροφοδοσία έως 5V/3A (15W).
+
+Η συγκεκριμένη είσοδος προορίζεται για την υποστήριξη της λειτουργίας του hub και του εγκατεστημένου SSD.
+
+Δεν υποστηρίζει φόρτιση Power Delivery (PD) του Mac Mini ούτε έξοδο εικόνας.
+
+Ανθεκτική κατασκευή αλουμινίου
+
+Το περίβλημα από αλουμίνιο προσφέρει στιβαρή κατασκευή και συμβάλλει στην απαγωγή θερμότητας κατά τη λειτουργία.
+
+Ο σχεδιασμός του επιτρέπει την τακτοποιημένη τοποθέτηση των περιφερειακών και διευκολύνει την πρόσβαση στις επιπλέον θύρες.
+
+Τεχνικά χαρακτηριστικά
+
+Κατασκευαστής: UGREEN
+
+Μοντέλο: CM841
+
+Κωδικός προϊόντος: 65487
+
+Τύπος: 11-in-1 Docking Station / Βάση Mac Mini
+
+Συμβατότητα: Apple Mac Mini M4 / M4 Pro
+
+Σύνδεση υπολογιστή: USB-C
+
+Θύρες USB-C δεδομένων: 2 × έως 10Gbps
+
+Θύρες USB-A 10Gbps: 3
+
+Θύρες USB-A 5Gbps: 2
+
+Αναγνώστης καρτών SD: SD 3.0, έως 170MB/s
+
+Αναγνώστης microSD: microSD/TF 3.0, έως 170MB/s
+
+Υποδοχή SSD: M.2 NVMe
+
+Υποστηριζόμενα μεγέθη SSD: 2230 / 2242 / 2260 / 2280
+
+Υποστηριζόμενα κλειδιά SSD: M-Key / B+M Key (NVMe)
+
+Μέγιστη χωρητικότητα SSD: 8TB
+
+Μέγιστη ταχύτητα SSD μέσω hub: 10Gbps
+
+Πρόσθετη τροφοδοσία: USB-C 5V/3A, έως 15W
+
+Υλικό κατασκευής: Αλουμίνιο
+
+Διαστάσεις: 127 × 127 × 29mm
+
+Χρώμα: Γκρι
+
+Περιεχόμενα συσκευασίας
+
+1 × UGREEN Docking Station / Βάση Mac Mini.
+
+1 × Θερμικό επίθεμα για SSD.
+
+1 × Κατσαβίδι εγκατάστασης SSD.
+
+1 × Εγχειρίδιο χρήσης.
+
+Σημαντικές πληροφορίες συμβατότητας
+
+Ο σταθμός έχει σχεδιαστεί ειδικά για Apple Mac Mini M4 και Mac Mini M4 Pro.
+
+Η υποδοχή M.2 υποστηρίζει SSD τεχνολογίας NVMe. Δεν πρέπει να θεωρείται συμβατή με SSD M.2 SATA.
+
+Ο SSD δεν περιλαμβάνεται στη συσκευασία.
+
+Η πρόσθετη είσοδος USB-C 5V/3A δεν υποστηρίζει Power Delivery ή μεταφορά εικόνας.
+
+Οι θύρες USB-C δεδομένων δεν πρέπει να θεωρούνται έξοδοι εικόνας χωρίς σχετική πιστοποίηση.
+
+Οι μέγιστες ταχύτητες μεταφοράς εξαρτώνται από τις δυνατότητες των συνδεδεμένων συσκευών και τη συνολική χρήση του hub.
+
+Ο σταθμός δεν αποτελεί αυτόνομο υπολογιστή και απαιτεί σύνδεση με συμβατό Mac Mini.</Description>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
