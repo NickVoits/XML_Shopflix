@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-30 16:46</created_at>
+	<created_at>2026-10-31 10:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1575</Quantity>
+		<Quantity>1573</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1079</Quantity>
+		<Quantity>1078</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1094,7 +1094,7 @@
 		<MPN>0312</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
-		<Quantity>702</Quantity>
+		<Quantity>700</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1571,7 +1571,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>2041</Quantity>
+		<Quantity>2031</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1609,7 +1609,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1059</Quantity>
+		<Quantity>1049</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1071</Quantity>
+		<Quantity>1068</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1978,7 +1978,7 @@ pH = 7,6
 		<MPN>0989</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
-		<Quantity>1313</Quantity>
+		<Quantity>1301</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2448,7 +2448,7 @@ pH = 7,6
 		<MPN>0854</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
-		<Quantity>172</Quantity>
+		<Quantity>171</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3107,7 +3107,7 @@ Ph: 3,55</Description>
 		<Description>Χαρμάνι των καλύτερων αμπελώνων του κτήματος, 44 ετών, πιστοποιημένοι βιολογικοί. Έντονα αρώματα φρέσκων μαύρων και κόκκινων φρούτων του δάσους, βιολέτας, βοτάνων αλλά και κομψής φυτικότητας.
 
 Στο στόμα η οξύτητα είναι υψηλή, με στιβαρές αλλά στρογγυλές τανίνες, για το Γη και Ουρανός που ωρίμασε σε δρύινα γαλλικά βαρέλια 500lt 2ης - 3ης χρήσης για 18 μήνες.</Description>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3405,7 +3405,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1334002</MPN>
 		<Description>Η Ραμνίστα του Κυρ Γιάννη με αρώματα από φράουλα, κεράσι και τριαντάφυλλο, σε συνδυασμό με φινετσάτες νότες βανίλιας από το βαρέλι. Παρά τη νεότητά του, η αρωματική δύναμη και η δομή των τανινών, φανερώνουν ένα κρασί με χαρακτήρα και μεγάλο δυναμικό παλαίωσης, προϊόν μιας μεγάλης χρονιάς.</Description>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8310,7 +8310,7 @@ H σύνθεσή του με Αloe Vera και Προ-Βιταμίνη Β5 πε�
 Τα επιθέματα Hansaplast Universal είναι κατάλληλα για την κάλυψη και προστασία κάθε είδους μικρής πληγής. Απωθούν το νερό και τη βρωμιά, το υλικό είναι αεροδιαπερατό και αδιάβροχο, η γάζα του επιθέματος δεν κολλάει στην πληγή και την προστατεύει από εξωτερικούς παράγοντες, η δυνατή επικόλληση εξασφαλίζει πως το επίθεμα θα παραμείνει στη θέση του. Τα επιθέματα διατίθενται σε διαφορετικά μεγέθη, που σφραγίζουν γύρω από την πληγή
 
 * Τα επιθέματα Hansaplast εμποδίζουν το 99% της βρωμιάς και των βακτηρίων.</Description>
-		<Quantity>77</Quantity>
+		<Quantity>76</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -8921,7 +8921,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>1016</MPN>
 		<Description>Σαπούνι της Papoutsanis με καθαριστική δράση που διασφαλίζει τη σωστή υγιεινή της επιδερμίδας.</Description>
-		<Quantity>12</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10815,7 +10815,7 @@ Powder Free: Ναι
 
 
 </Description>
-		<Quantity>785</Quantity>
+		<Quantity>777</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11531,7 +11531,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BIO SHOUT</Manufacturer>
 		<MPN>1271</MPN>
 		<Description>Το καθαριστικό λεκέδων της εταιρείας Shout είναι ιδανικό για πολύ λερωμένα ρούχα ή για μία έξτρα δόση καθαριότητας σε κάθε πλύση μαζί με το απορρυπαντικό σας. Σε περίπτωση πολύ σκληρών λεκέδων μπορεί να εφαρμοστεί απευθείας στο σημείο, πριν το πλύσιμο.Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.Προφυλάξεις: Μακριά από παιδιά.</Description>
-		<Quantity>708</Quantity>
+		<Quantity>702</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12704,7 +12704,7 @@ Barcode
 		<Manufacturer>IRMA</Manufacturer>
 		<MPN>1503</MPN>
 		<Description>Κουβάς πλαστικός χωρητικότητας 13 λίτρων, ιδανικός για τις καθημερινές σας εργασίες και όχι μόνο!</Description>
-		<Quantity>38</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12809,7 +12809,7 @@ Barcode
     Μήκος: 54cm
     Πλάτος: 39cm
     Ύψος: 24cm</Description>
-		<Quantity>35</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14507,7 +14507,7 @@ Barcode: 5206753033363
 		<MPN>0158</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Εξαίρετο κάρβουνο από σκληρό ξύλο με μεγάλη διάρκεια. Είναι η ιδανική επιλογή για όσους εκτιμούν την παράδοση και επιθυμούν να προσθέσουν έναν παραδοσιακό χαρακτήρα στο ψήσιμό τους. Με τα παραδοσιακά ξυλοκάρβουνα, μπορείτε να δημιουργήσετε την τέλεια φλόγα και την ιδανική θερμοκρασία για να αναδείξετε τη γεύση των ψητών σας εδεσμάτων.</Description>
-		<Quantity>593</Quantity>
+		<Quantity>588</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15170,7 +15170,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 Πλάτος: 11,50 εκ.
 Ύψος: 5,00 εκ.
 </Description>
-		<Quantity>58</Quantity>
+		<Quantity>56</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15348,7 +15348,7 @@ VC2861
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>1463</MPN>
 		<Description>Φίλτρο Νεροχύτη από την εταιρεία Cyclops, με οπές σε όλο το προϊόν για εύκολη ροή νερού και συγκράτηση των απορριμάτων.Υλικό: InoxΣχήμα: ΣτρογγυλόΔιάμετρος: 7cm</Description>
-		<Quantity>38</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17407,7 +17407,7 @@ Brand: Viosarp</Description>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> Ε-3401</MPN>
 		<Description>Πλαστική βάση οργάνωσης και αποθήκευσης παπουτσιών ώστε να εξοικονομείτε χώρο στην ντουλάπα σας. Στο κάτω μέρος διαθέτει στοπ ώστε να αποφεύγεται η ολίσθηση των παπουτσιών.</Description>
-		<Quantity>1561</Quantity>
+		<Quantity>1551</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19637,7 +19637,7 @@ Brand: Viosarp</Description>
 - 2 x Ράφι τοίχου
 - 1 x Τσάντα εξαρτημάτων
 - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
-		<Quantity>73</Quantity>
+		<Quantity>71</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19673,7 +19673,7 @@ Brand: Viosarp</Description>
 - 1 x Κλειδί Allen
 - 1 x Τσάντα Αξεσουάρ
 - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
-		<Quantity>282</Quantity>
+		<Quantity>280</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21557,7 +21557,7 @@ VC2344
     Μέγιστο βάρος ράβδου: 15 Kg
     Μέγιστο βάρος ραφιού: 20 Kg
     Βάρος: 3.3 Kg</Description>
-		<Quantity>127</Quantity>
+		<Quantity>126</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21995,7 +21995,7 @@ Barcode
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>HSR13S</MPN>
 		<Description>Κρεμάστρα δαπέδου κατασκευασμένη από chrome-plated μέταλλο. Διαθέτει 2 επεκτάσιμα άκρα στο πάνω μέρος και ενισχυμένα ροδάκια, με δυνατότητα περιστροφής 360° (διαθέτουν φρένα, που ακινητοποιούν την κρεμάστρα, για να παραμένει σταθερά στη θέση της). Η συναρμολόγηση γίνεται με ευκολία, καθώς δεν απαιτούνται εργαλεία.</Description>
-		<Quantity>201</Quantity>
+		<Quantity>200</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22711,7 +22711,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Περιεχόμενα συσκευασίας:
 - 1 x Κουτί ρολογιού</Description>
-		<Quantity>28</Quantity>
+		<Quantity>27</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28744,7 +28744,7 @@ Brand: Sidirela
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
-		<Quantity>463</Quantity>
+		<Quantity>461</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29590,7 +29590,7 @@ Barcode: 5206753044598
 Γλυκά &amp; σνακ
 
 Καθημερινό ψήσιμο χωρίς κόπο</Description>
-		<Quantity>367</Quantity>
+		<Quantity>365</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32399,7 +32399,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1614</MPN>
 		<Description>Η μπαταρία λιθίου της Eurolamp, είναι κατάλληλη για την τροφοδοσία μικρών φορητών ηλεκτρονικών συσκευών, όπως ρολόγια χειρός, κλειδιά αυτοκινήτων και άλλα πολλά. Οι μπαταρίες λιθίου μπορούν να χρησιμοποιηθούν στη θέση των συνηθισμένων αλκαλικών μπαταριών σε πολλές συσκευές, όπως ρολόγια και κάμερες. Αν και είναι πιο δαπανηρές, οι κυψέλες λιθίου παρέχουν μεγαλύτερη διάρκεια ζωής, ελαχιστοποιώντας έτσι την αντικατάσταση της μπαταρίας. Ωστόσο, πρέπει να δοθεί προσοχή στην υψηλότερη τάση που αναπτύσσεται από τις μπαταρίες λιθίου πριν χρησιμοποιηθούν ως ανταλλακτικά σε συσκευές που συνήθως χρησιμοποιούν συνηθισμένες μπαταρίες ψευδαργύρου.Οι ουσίες που περιέχει μία μικρή μπαταρία είναι ικανές να ρυπάνουν 1 κυβικό μέτρο χώμα ή 400 κυβικά μέτρα νερό. Η μπαταρία μπορεί να έχει αδειάσει, έχει ακόμη όμως σημαντικά συστατικά. Γι' αυτό το λόγο πρέπει να βρίσκουμε ειδικούς κάδους συλλογής και να την ανακυκλώνουμε, ώστε ο "κύκλος ζωής" της μπαταρίας να συνεχιστεί. Με αυτό τον τρόπο, τα βασικά στοιχεία της ανακυκλώνονται και παράγονται νέες μπαταρίες ή άλλα προϊόντα.    Μέγεθος: CR2016    Voltage: 3V    Συσκευασία: 1τμχ</Description>
-		<Quantity>50</Quantity>
+		<Quantity>43</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32427,7 +32427,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
-		<Quantity>191</Quantity>
+		<Quantity>134</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32443,7 +32443,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Description>Αλκαλικές μπαταρίες Maxell AAA κατάλληλες για τηλεχειριστήρια, ρολόγια, φακούς, αριθμομηχανές κ.ά.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
-		<Quantity>977</Quantity>
+		<Quantity>978</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32478,7 +32478,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>1776</MPN>
 		<Description>Αλκαλικές μπαταρίες ΑΑ της Maxell κατάλληλες για φακούς, παιχνίδια, τηλεχειριστήρια, αριθμομηχανές κι άλλες μικροσυσκευές.</Description>
-		<Quantity>397</Quantity>
+		<Quantity>406</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32515,7 +32515,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<MPN> MAXBLR6LR61</MPN>
 		<Description>Περιγραφή
 Αλκαλικές μπαταρίες της Maxell μεγέθους 9V, ιδανικές για φακούς κι άλλες οικιακές συσκευές.</Description>
-		<Quantity>35</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32684,7 +32684,7 @@ Made in Germany
 		<Manufacturer>Energizer</Manufacturer>
 		<MPN> ENE9036994</MPN>
 		<Description>Αλκαλικές μπαταρίες A27 της Energizer, κατάλληλες για χρήση σε φωτογραφικές μηχανές, τηλεχειριστήρια, αριθμομηχανές κι άλλες οικιακές συσκευές.</Description>
-		<Quantity>160</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32727,7 +32727,7 @@ Made in Germany
 Βάρος: 3.0gr
 Volt: 3V
 ΜΠΑΤ. PKCELL CR2032-5B</Description>
-		<Quantity>104</Quantity>
+		<Quantity>112</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32747,7 +32747,7 @@ Volt: 3V
 Διάμετρος: 20.0 mm
 Βάρος: 2.5 gr
 Volt: 3V</Description>
-		<Quantity>108</Quantity>
+		<Quantity>107</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32761,7 +32761,7 @@ Volt: 3V</Description>
 		<Manufacturer>MediaRange</Manufacturer>
 		<MPN>MRBAT112</MPN>
 		<Description>Αλκαλικές μπαταρίες Coin Cell LR54 AG10 χωρητικότητας 72mAh κατάλληλες για συσκευές όπως υπολογιστές, ρολόγια, μικρές ηλεκτρονικές συσκευές, ηλεκτρονικά παιχνίδια, όργανα μέτρησης και άλλες παρόμοιες συσκευές.</Description>
-		<Quantity>145</Quantity>
+		<Quantity>140</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33192,7 +33192,7 @@ Volt: 3V</Description>
 Δυνατότητες
 
 Φωτιστικό με σφιγκτήρα για να στερεώνεται, και βραχίονα τύπου σπιράλ που προσαρμόζεται ανάλογα με τις ανάγκες σας. Εκπέμπει φυσικό λευκό φως με Led ισχύος 3 Watt με διακόπτη αφής. Το καλώδιο τροφοδοσίας του έχει μήκος 1 μέτρο, το οποίο περιλαμβάνεται στη συσκευασία του χωρίς τον φορτιστή.</Description>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34162,7 +34162,7 @@ Esperanza - Ατμομάγειρες Esperanza
 Τροφοδοσία: 230 V, 50 Hz
 Κατανάλωση ισχύος: 350 W
 Μήκος καλωδίου τροφοδοσίας: 55 cm</Description>
-		<Quantity>80</Quantity>
+		<Quantity>79</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35097,7 +35097,7 @@ Barcode
 Αυτόματος έλεγχος θερμοκρασίας
 Ενδεικτική λυχνία λειτουργίας
 Μήκος καλωδίου: 1.2 m</Description>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35327,7 +35327,7 @@ Barcode
 Μην αφήνετε τη συσκευή να λειτουργεί χωρίς επίβλεψη.
 
 Το Eurolamp κεραμικό αερόθερμο 1500W συνδυάζει σύγχρονο σχεδιασμό, ευκολία χειρισμού και χρήσιμες λειτουργίες θέρμανσης. Η περιστροφή, το τηλεχειριστήριο, η οθόνη LED και ο χρονοδιακόπτης το καθιστούν μια ολοκληρωμένη επιλογή για την καθημερινή συμπληρωματική θέρμανση του σπιτιού ή του γραφείου.</Description>
-		<Quantity>40</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35630,7 +35630,7 @@ H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατό
 Ιδανικό για το σπίτι, κήπο, camping κ.α.
 Με αλυσίδα κρεμάσματος
 Αποσπώμενο δοχείο υπολειμμάτων για εύκολο καθάρισμα</Description>
-		<Quantity>75</Quantity>
+		<Quantity>74</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -42749,7 +42749,7 @@ VeganΌχι
 		<MPN>1026</MPN>
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
-		<Quantity>119</Quantity>
+		<Quantity>117</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
