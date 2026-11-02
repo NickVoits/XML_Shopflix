@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-02 16:05</created_at>
+	<created_at>2026-11-02 16:25</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -1733,7 +1733,7 @@ pH = 7,6
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
-		<Quantity>2198</Quantity>
+		<Quantity>2196</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3748,7 +3748,7 @@ pH: 3.45
 		<Manufacturer>ΚΤΗΜΑ ΜΠΑΡΑΦΑΚΑ</Manufacturer>
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
-		<Quantity>250</Quantity>
+		<Quantity>247</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11733,7 +11733,7 @@ pH: Φιλικό προς το δέρμα
 - Καθαριότητα
 
 - Οικονομία</Description>
-		<Quantity>88</Quantity>
+		<Quantity>87</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21421,7 +21421,7 @@ VC2344
 Καθαρίζετε τη μεταλλική επιφάνεια με μαλακό, ελαφρώς νωπό πανί και στεγνώνετε καλά. Αποφεύγετε τη χρήση διαβρωτικών καθαριστικών.
 
 Ο Viosarp Μεταλλικός Καλόγερος VC2344 προσφέρει έναν πρακτικό συνδυασμό ανάρτησης ρούχων και πρόσθετης αποθήκευσης, βοηθώντας να διατηρείτε τον χώρο σας οργανωμένο χωρίς να θυσιάζετε πολύτιμη επιφάνεια δαπέδου.</Description>
-		<Quantity>25</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32453,7 +32453,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<URL>https://www.skroutz.gr/s/17453551/Maxell-Alkalikes-Mpataries-AAA-1-5V-32tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/017453/17453551/xlarge_20220209091355_maxell_alkalikes_mpataries_aaa_1_5v_32tmch.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/046829/46829555/xlarge_20210531105308_4440e0e5.jpeg https://a.scdn.gr/images/sku_images/054888/54888414/xlarge_20220112134852_53aaa789.jpeg </Additional_Image>
-		<Price>6.586377287946426</Price>
+		<Price>7.18</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>MAX49025AA</MPN>
@@ -32473,7 +32473,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Name>Maxell Αλκαλικές Μπαταρίες AA 1.5V 4τμχ</Name>
 		<URL>https://www.skroutz.gr/s/9044560/Maxell-Alkalikes-Mpataries-AA-1-5V-4tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/009044/9044560/xlarge_20211122135613_maxell_alkalikes_mpataries_aa_1_5v_4tmch.jpeg</Image>
-		<Price>0.9851336799107141</Price>
+		<Price>0.96</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>1776</MPN>
@@ -32488,7 +32488,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<URL>https://www.skroutz.gr/s/16312007/Maxell-Alkalikes-Mpataries-AA-1-5V-32tmch.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/016312/16312007/xlarge_20211122135612_maxell_alkalikes_mpataries_aa_1_5v_32tmch.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/030884/30884309/xlarge_20200304150331_26b3bec1.jpeg https://d.scdn.gr/images/sku_images/052689/52689508/xlarge_20211122135612_799127dd.jpeg</Additional_Image>
-		<Price>6.506164787946426</Price>
+		<Price>7.2</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>MAX49025</MPN>
@@ -32509,7 +32509,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<URL>https://www.skroutz.gr/s/9017593/Maxell-Alkaliki-Mpataria-9V-1tmch-MAXBLR6LR61.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/009017/9017593/xlarge_20200304150312_maxell_alkaline_9v_1tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/030884/30884289/xlarge_20200304150311_74ddf622.jpeg https://a.scdn.gr/images/sku_images/052689/52689512/xlarge_20211122135612_a26df503.jpeg</Additional_Image>
-		<Price>1.231576995535714</Price>
+		<Price>1.26</Price>
 		<Category>Αλκαλικές Μπαταρίες</Category>
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN> MAXBLR6LR61</MPN>
@@ -35498,7 +35498,7 @@ Barcode
 	<product>
 		<SKU>799207101</SKU>
 		<EAN>5203642106351</EAN>
-		<Name>Sidirela Μονό Ηλεκτρικό Υπόστρωμα Πλενόμενο με Χρονοδιακόπτη Λευκό 60W 80x150cm E-0635</Name>
+		<Name>Sidirela Μονό Ηλεκτρικό Υπόστρωμα Πλενόμενο Λευκό 60W 80x150cm E-0635</Name>
 		<URL>https://www.skroutz.gr/s/5699551/Sidirela-E-0635-Mono-Ilektriko-Ypostroma-Plenomeno-me-CHronodiakopti-Leyko-60W-80x150ek.html#reviews</URL>
 		<Image>https://a.scdn.gr/images/sku_images/115626/115626194/xlarge_20250818172641_b92fe4ad.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/023563/23563677/xlarge_20181213110252_5c9443a8.jpeg https://c.scdn.gr/images/sku_images/115626/115626191/xlarge_20250818172640_059bceb8.jpeg https://a.scdn.gr/images/sku_images/115626/115626194/xlarge_20250818172641_b92fe4ad.jpeg</Additional_Image>
@@ -35519,7 +35519,7 @@ Barcode
 	<product>
 		<SKU>799207102</SKU>
 		<EAN>5203642106375</EAN>
-		<Name>Sidirela Διπλό Ηλεκτρικό Υπόστρωμα Πλενόμενο με Χρονοδιακόπτη Λευκό 120W 1400x150cm E-0637</Name>
+		<Name>Sidirela Διπλό Ηλεκτρικό Υπόστρωμα με Χρονοδιακόπτη Λευκό 120W 1400x150cm E-0637</Name>
 		<URL>https://www.skroutz.gr/s/5685046/Sidirela-E-0637-Diplo-Ilektriko-Ypostroma-Plenomeno-Leyko-120W-140x150ek.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/115626/115626213/xlarge_20250818172646_f949e11b.jpeg</Image>
 		<Additional_Image>https://www.sidirela.gr/uploads/2025/02/e-0637-01-koyverta-ilektriki-plenomeni-150x140cm-web.jpg </Additional_Image>
