@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-05 09:05</created_at>
+	<created_at>2026-11-05 10:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>60</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -461,7 +461,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2058</Quantity>
+		<Quantity>2034</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -476,7 +476,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1185</Quantity>
+		<Quantity>1173</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1429</Quantity>
+		<Quantity>1427</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>955</Quantity>
+		<Quantity>953</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -780,7 +780,7 @@
 		<MPN>1134</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση πορτοκάλι, βερίκοκο και μήλο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
-		<Quantity>487</Quantity>
+		<Quantity>477</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1251,7 +1251,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0419</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
-		<Quantity>5112</Quantity>
+		<Quantity>5106</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1571,7 +1571,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1964</Quantity>
+		<Quantity>1919</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>2537</Quantity>
+		<Quantity>2533</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1691,7 +1691,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
-		<Quantity>598</Quantity>
+		<Quantity>595</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2023,7 +2023,7 @@ pH = 7,6
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>541</Quantity>
+		<Quantity>535</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2038,7 +2038,7 @@ pH = 7,6
 		<MPN>0126</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>217</Quantity>
+		<Quantity>211</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2266,7 +2266,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>617</Quantity>
+		<Quantity>611</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2401,7 +2401,7 @@ pH = 7,6
 		<MPN>0606</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
-		<Quantity>49</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2463,7 +2463,7 @@ pH = 7,6
 		<MPN>0938</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
-		<Quantity>74</Quantity>
+		<Quantity>73</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2939,7 +2939,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1318</MPN>
 		<Description>Λευκός Οίνος από τον συνδυασμό δύο ελληνικών ποικιλιών, της Μαλαγουζιάς και του Ασύρτικου.Μετά την προζυμωτική κρυοεκχύλιση, η οινοποίηση εκτυλίσσεται σε ανοξείδωτες ψυχόμενες δεξαμενές σε θερμοκρασία γύρω στους 18°C. Το κρασί έχει λαμπερό αχνόξανθο χρώμα με πρασινωπές ανταύγειες. Η «μύτη» του είναι εκφραστική με εναλλασσόμενες εντυπώσεις, καθώς δίπλα στα εξωτικά φρούτα περνούν νότες πιπεριάς, γιασεμιού, πορτοκαλιού, πεπονιού, βοτάνων και λεμονιού.Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.Σερβίρεται στους 8-10°C.</Description>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3027,7 +3027,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1321</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με λεμονοπράσινο χρώμα, γευστικές νότες βερίκοκου, ροδάκινου, αχλαδιού, τροπικών φρούτων αλλά και δυόσμου συνδιάζονται με ανθικά αρώματα με κυρίαρχο το τριαντάφυλλο. Στο στόμα είναι ξηρό, με ικανοποιητική οξύτητα, μέτριο σώμα και μακρά επίγευση.</Description>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3293,7 +3293,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1327</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες, με αρώματα λευκών λουλουδιών, εσπεριδοειδών και διακριτικών αρωματικών βοτάνων. Στο στόμα είναι γεμάτο με εξαιρετική ισορροπία και με μακράς διάρκειας επίγευση.</Description>
-		<Quantity>873</Quantity>
+		<Quantity>870</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4157,7 +4157,7 @@ pH: 3.45
 		<MPN>1159</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
-		<Quantity>38</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4655,7 +4655,7 @@ Prosciutto και αλλαντικά
 		<MPN>0638</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>3188</Quantity>
+		<Quantity>3176</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4805,7 +4805,7 @@ Prosciutto και αλλαντικά
 		<MPN>0125</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
-		<Quantity>634</Quantity>
+		<Quantity>622</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4820,7 +4820,7 @@ Prosciutto και αλλαντικά
 		<MPN>0232</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
-		<Quantity>1026</Quantity>
+		<Quantity>1014</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4955,7 +4955,7 @@ Prosciutto και αλλαντικά
 		<MPN>0981</MPN>
 		<Weight>0.02 kg</Weight>
 		<Description>Προϊόν Διπλής Απόσταξης Στεμφύλων (φλούδες) Σταφυλιών. Η πολυσυλλεκτικότητα των ποικιλιών, η τέχνη της απόσταξης και η συμμετοχή αρωματικών βοτάνων και φρούτων κατά τη δεύτερη απόσταξη έχουν σαν αποτέλεσμα τη δημιουργία ενός ποτού υψηλής ποιότητας. Παράγεται αποκλειστικά από σταφύλια που καλλιεργούνται στην ελληνική γη. Η προσθήκη άγριων βοτάνων κατά τη δεύτερη απόσταξή του προσδίδει έναν ιδιαίτερο αρωματικό πλούτο.</Description>
-		<Quantity>87</Quantity>
+		<Quantity>83</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5559,7 +5559,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>Beluga</Manufacturer>
 		<MPN>55126-01</MPN>
 		<Description>Η Beluga Vodka είναι  απόσταγμα από καθαρό  σιτάρι ενός αποκλειστικά είδους, με αρτεσιανό νερό Σιβηρίας και δημιουργείται σύμφωνα με τις πιο σύγχρονες τεχνικές απόσταξης. Φιλτράρεται τρεις φορές και στη συνέχεια "αναπαύεται" για τουλάχιστον 30 ημέρες, γεγονός που προσθέτει στο χαρακτήρα του αποστάγματος. Τα αρώματα εσπεριδοειδών θα ακολουθήσει σε μια ελαφρά γλυκιά, κρεμώδης υφή στον ουρανίσκο. </Description>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9800,7 +9800,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 Με περισσότερα από 50 χρόνια εμπειρίας στη φυσική περιποίηση, η αυστριακή STYX Naturcosmetic συνδυάζει παραδοσιακές βοτανικές γνώσεις με σύγχρονη κοσμετολογία. Το CHIN MIN Balsam αποτελεί μία από τις πιο γνωστές συνθέσεις της εταιρείας, προσφέροντας θερμαντική αίσθηση, ευχάριστο μασάζ και αίσθηση ανακούφισης μετά από έντονη καθημερινή ή αθλητική δραστηριότητα.
 
 Προσοχή: Λόγω της έντονης θερμαντικής δράσης και των αιθέριων ελαίων, δεν συνιστάται η χρήση κατά τη διάρκεια της εγκυμοσύνης ή του θηλασμού. Να χρησιμοποιείται μόνο εξωτερικά.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11190,7 +11190,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>Endless</Manufacturer>
 		<MPN>0406</MPN>
 		<Description>Τραπεζομάντιλο λαδόκολλα σε φύλλο 130x110 cm επαγγελματικής χρήσης. Διατίθεται σε κιβώτιο 110 τεμαχίων.</Description>
-		<Quantity>139</Quantity>
+		<Quantity>138</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11205,7 +11205,7 @@ pH: Φιλικό προς το δέρμα
 		<MPN>0996</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
-		<Quantity>1096</Quantity>
+		<Quantity>1094</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11473,7 +11473,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>ARIEL</Manufacturer>
 		<MPN>1098</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
-		<Quantity>85</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11488,7 +11488,7 @@ pH: Φιλικό προς το δέρμα
 		<MPN>1099</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Το Vanish Hand Shampoo μπορεί να χρησιμοποιηθεί στα χαλιά και τις ταπετσαρίες, για να αφαιρέσει τη βαθιά βρωμιά και τη σκόνη. Tο Vanish Hand Shampoo είναι κατάλληλο για χρήση σε μεγάλες περιοχές του χαλιού, με σκοπό να διαλύσει και να αφαιρέσει ακόμα και τους πιο επίμονους στεγνούς λεκέδες και σκόνη. Το πλούσιο, αφρώδες σαμπουάν εξουδετερώνει επίσης τις δυσάρεστες οσμές, κάνοντας το χαλί και την ταπετσαρία σας να μυρίζουν καθαριότητα &amp; φρεσκάδα έναντι μόνο σκουπίσματος με ηλεκτρική σκούπα.</Description>
-		<Quantity>49</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11667,7 +11667,7 @@ pH: Φιλικό προς το δέρμα
 Γεμίστε τη μονάδα αποσκλήρυνσης του πλυντηρίου σας σύμφωνα με τις οδηγίες του κατασκευαστή. 
 Για καλύτερα αποτελέσματα ελέγχετε συχνά το επίπεδο αλατιού ώστε να είναι πάντα γεμάτο.
 Συνίσταται ειδικά για περιοχές με σκληρό νερό. </Description>
-		<Quantity>494</Quantity>
+		<Quantity>492</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11775,7 +11775,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>CIF</Manufacturer>
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
-		<Quantity>1300</Quantity>
+		<Quantity>1299</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11833,7 +11833,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>DUCK</Manufacturer>
 		<MPN>1110</MPN>
 		<Description>Απολυμαντικό καθαριστικό gel για τη λεκάνη της τουαλέτας. Μοναδικός λαιμός, φτάνει καλύτερα, καθαρίζει καλύτερα.</Description>
-		<Quantity>223</Quantity>
+		<Quantity>222</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13024,7 +13024,7 @@ Barcode
     Μήκος: 54cm
     Πλάτος: 39cm
     Ύψος: 24cm</Description>
-		<Quantity>33</Quantity>
+		<Quantity>32</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13073,7 +13073,7 @@ Barcode
 - Αποδοτικό στύψιμο για να στεγνώνει το πάτωμα πιο γρήγορα
 
 - Μπορεί να χρησιμοποιηθεί για στεγνό ή βρεγμένο καθάρισμα αφού λειτουργεί ως παρκετέζα καθώς και ως σφουγγαρίστρα</Description>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13090,7 +13090,7 @@ Barcode
 		<Description>Με νέα σύνθεση από 100% μικροΐνες που προσφέρουν μέγιστη απορροφητικότητα και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό.
 
 Οι λευκές μικροΐνες εξασφαλίζουν τέλεια καθαριότητα για πάτωμα που αστράφτει. Οι κόκκινες μικροΐνες χαρίζουν βαθύ καθαρισμό και απομακρύνουν ακόμα και την πιο επίμονη βρωμιά. Είναι κατάλληλο για όλους τους τύπους πατώματος. Πλένεται στο πλυντήριο στους 60°C.</Description>
-		<Quantity>667</Quantity>
+		<Quantity>665</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14271,7 +14271,7 @@ Barcode
 		<Manufacturer>HOMIE</Manufacturer>
 		<MPN>1621</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Η συσκευασία περιλαμβάνει 50 τμχ    Λευκό    Διάρκεια καύσης 4 ωρών.</Description>
-		<Quantity>372</Quantity>
+		<Quantity>371</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15792,7 +15792,7 @@ VC2861
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>1463</MPN>
 		<Description>Φίλτρο Νεροχύτη από την εταιρεία Cyclops, με οπές σε όλο το προϊόν για εύκολη ροή νερού και συγκράτηση των απορριμάτων.Υλικό: InoxΣχήμα: ΣτρογγυλόΔιάμετρος: 7cm</Description>
-		<Quantity>26</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15832,7 +15832,7 @@ VC2861
 Διαστάσεις: 22.5x22.5x7εκ. 
 Βάθος φόρμας: 5.5εκ. 
 Διαστάσεις πάτου: 18.5x18.5εκ.</Description>
-		<Quantity>56</Quantity>
+		<Quantity>55</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17569,7 +17569,7 @@ E-4767
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-0925</MPN>
 		<Description>Συλλέκτης υγρασίας σε κουτί, για κλειστούς χώρους έως 35 τ.μ., μίας χρήσης. Διαρκεί 1-3 μήνες, ανάλογα με το μέγεθος του χώρου (το μπάνιο, λόγω της πολύ υψηλής υγρασίας, ενδέχεται να μειώσει δραστικά τη διάρκεια). </Description>
-		<Quantity>85</Quantity>
+		<Quantity>71</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17586,7 +17586,7 @@ E-4767
 		<Description>Συλλέκτης υγρασίας σχεδιασμένος ώστε να απορροφά και να παγιδεύει την υγρασία στην ατμόσφαιρα του δωματίου. Μειώνει την υγρασία από κάθε κλειστό χώρο, από δυσάρεστες οσμές, αποτρέποντας την ανάπτυξη μούχλας, βακτηριδίων και μικροοργανισμών. 
 
 Οι ειδικοί κρύσταλλοι απορροφούν την υγρασία από την ατμόσφαιρα και την παγιδεύουν, ενώ ταυτόχρονα αρωματίζει τον χώρο με άρωμα λεβάντας. Ιδανικό για μικρούς κλειστούς χώρους ή υπόγεια και αποθήκες. Μπορεί να τοποθετηθεί σε ντουλάπες, συρτάρια και διάφορα δωμάτια.</Description>
-		<Quantity>499</Quantity>
+		<Quantity>497</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18092,7 +18092,7 @@ Brand: Viosarp</Description>
 Μήκος : 30,00cm
 Πλάτος : 20,00cm
 Ύψος : 12,00cm</Description>
-		<Quantity>195</Quantity>
+		<Quantity>187</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18240,7 +18240,7 @@ Brand: Viosarp</Description>
 Ύψος επιφάνειας εργασίας: περίπου 29 cm, Μέγιστο πλάτος μεταξύ των δύο ποδιών: περίπου 75 cm (ολόκληρο το πόδι εκτεταμένο)
 Πτυσσόμενο πλάτος επιφάνειας εργασίας: περίπου 36,5 cm
 Καθαρό βάρος: 2,5 kg</Description>
-		<Quantity>100</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19617,7 +19617,7 @@ Brand: Viosarp</Description>
 2 x Σκαμπό Μπαρ
 1 x Κιτ αξεσουάρ
 1 x Οδηγίες</Description>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19969,7 +19969,7 @@ Brand: Viosarp</Description>
 - 1 x Κλειδί Allen
 - 1 x Τσάντα αξεσουάρ
 - 1 x εγχειρίδιο χρήστη</Description>
-		<Quantity>128</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20188,7 +20188,7 @@ Brand: Viosarp</Description>
 - 1 x Γωνιακό ράφι
 - 1 x Τσάντα αξεσουάρ
 - 1 x Οδηγίες (EN, DE, ES, FR, IT)</Description>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21062,7 +21062,7 @@ Brand: Viosarp</Description>
     Βάρος: 1.6 Kg
     Μέγιστο βάρος: 15 Kg
     Διαστάσεις: 92 x 30.5 x 55 cm</Description>
-		<Quantity>53</Quantity>
+		<Quantity>52</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21131,7 +21131,7 @@ Brand: Viosarp</Description>
 1 x Κιτ αξεσουάρ
 2 x Κιτ κατά της ανατροπής
 1 x Οδηγίες</Description>
-		<Quantity>59</Quantity>
+		<Quantity>57</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21664,7 +21664,7 @@ Brand: Viosarp</Description>
 
 1 x Ράφι ρούχων
 1 x οδηγίες</Description>
-		<Quantity>87</Quantity>
+		<Quantity>85</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21681,7 +21681,7 @@ Brand: Viosarp</Description>
 		<Description>Ο καλόγερος της Viosarp φέρνει φυσική ζεστασιά και στυλ στον χώρο σας. Κατασκευασμένος από ξύλινο υλικό, συνδυάζει ανθεκτικότητα με φυσική ομορφιά. Με ύψος 175 εκατοστά, προσφέρει άφθονο χώρο για να κρεμάσετε ρούχα και αξεσουάρ, διατηρώντας τον χώρο σας οργανωμένο και τακτοποιημένο.
 
 Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί είναι σταθερή/στιβαρή κατασκευή.</Description>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21704,7 +21704,7 @@ Brand: Viosarp</Description>
 Εύκολος καθαρισμό
 Μέγιστο βάρος: 10 Kg
 Διαστάσεις: 45 x 45 x 181 cm</Description>
-		<Quantity>37</Quantity>
+		<Quantity>36</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21865,7 +21865,7 @@ VC2344
 Καθαρίζετε τη μεταλλική επιφάνεια με μαλακό, ελαφρώς νωπό πανί και στεγνώνετε καλά. Αποφεύγετε τη χρήση διαβρωτικών καθαριστικών.
 
 Ο Viosarp Μεταλλικός Καλόγερος VC2344 προσφέρει έναν πρακτικό συνδυασμό ανάρτησης ρούχων και πρόσθετης αποθήκευσης, βοηθώντας να διατηρείτε τον χώρο σας οργανωμένο χωρίς να θυσιάζετε πολύτιμη επιφάνεια δαπέδου.</Description>
-		<Quantity>23</Quantity>
+		<Quantity>22</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22222,7 +22222,7 @@ Barcode
     Ανθεκτικότητα στη Χρήση
     Εγκοπές για Φούστες
     Μεταλλικά, Περιστρεφόμενα Άγκιστρα</Description>
-		<Quantity>35</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23187,7 +23187,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Περιεχόμενα συσκευασίας:
 - 1 x Κουτί ρολογιού</Description>
-		<Quantity>125</Quantity>
+		<Quantity>124</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24521,7 +24521,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
     Συνολικό μέγιστο βάρος: 30 Kg
     Διαστάσεις σάκου: 42 x 30 x 51 cm
     Συνολικές διαστάσεις: 50 x 33 x 72 cm</Description>
-		<Quantity>35</Quantity>
+		<Quantity>34</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24711,7 +24711,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>LCB506G01</MPN>
 		<Description>[Εξοικονόμηση χώρου] Αυτό το λεπτό καλάθι πλυντηρίου 65 λίτρων, με διαστάσεις 42 x 22,5 x 70,5 cm, είναι ειδικά σχεδιασμένο για να ταιριάζει σε στενούς χώρους, καθιστώντας το ιδανικό καλάθι πλυντηρίου για μικρούς χώρους διαβίωσης ή μικρούς χώρους πλυντηρίων. [Βολικό καπάκι με λαβή] Το καλάθι πλυντηρίου διαθέτει καπάκι που όχι μόνο κρατά τη σκόνη μακριά, αλλά προστατεύει και την ιδιωτικότητα κρύβοντας την ακαταστασία. Το λογότυπο από συνθετικό δέρμα στο καπάκι χρησιμεύει ως λαβή για εύκολο άνοιγμα, προσθέτοντας μια πινελιά κομψότητας. [Αφαιρούμενη και ευέλικτη επένδυση] Η επένδυση, που ασφαλίζεται με κουμπώματα με γάντζο και θηλιά, μπορεί εύκολα να αφαιρεθεί και τα κορδόνια περίσφιξης λειτουργούν και ως λαβές για βολική μεταφορά. Ο σχεδιασμός πλέγματος του επιτρέπει να χρησιμεύει ως σακούλα πλύσης για ταξινομημένα ρούχα στο πλυντήριο. [Ανθεκτικό και στιβαρό] Κατασκευασμένο από ύφασμα Oxford πάχους 600D, το καλάθι πλυντηρίου διαθέτει αντοχή στο νερό, αντοχή στο σκίσιμο και εύκολο καθάρισμα. Η εσωτερική του δομή, που υποστηρίζεται από ράβδους fiberglass, εξασφαλίζει σταθερότητα για τακτική χρήση. [Εύκολη συναρμολόγηση] Με σαφείς οδηγίες και χωρίς να απαιτούνται εργαλεία, μπορείτε εύκολα να στηρίξετε αυτό το καλάθι πλυντηρίου σε μόλις 5 λεπτά.</Description>
-		<Quantity>99</Quantity>
+		<Quantity>98</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25159,7 +25159,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Μήκος: 54cm
 Βάθος: 18cm
 Ύψος: 71cm</Description>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25183,7 +25183,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Μήκος: 36cm
 Βάθος: 23cm
 Ύψος: 100cm</Description>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25263,7 +25263,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 💡 Πλεονέκτημα χρήσης
 
 Χάρη στο memory foam, μειώνει την πίεση στα πόδια και προσφέρει αίσθηση χαλάρωσης μετά το μπάνιο, ενώ παράλληλα συμβάλλει στην αποφυγή ολισθήσεων σε βρεγμένες επιφάνειες.</Description>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26005,7 +26005,7 @@ E-4749
 
 Κατάλληλη και για πλύσιμο εσωρούχων στο πλυντήριο.
 Διαστάσεις: 40x19 cm.</Description>
-		<Quantity>477</Quantity>
+		<Quantity>476</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26700,7 +26700,7 @@ Brand: SONGMICS
     Περιμετρικό τελείωμα με κερί για να μην μαδάει
 
 </Description>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27201,7 +27201,7 @@ Brand: SONGMICS
 ℹ️ Σημείωση
 
 Λόγω της φυσικής προέλευσης του μπαμπού, ενδέχεται να υπάρχουν μικρές διαφοροποιήσεις στην απόχρωση ή την υφή, χωρίς να επηρεάζεται η ποιότητα ή η λειτουργικότητα του προϊόντος.</Description>
-		<Quantity>112</Quantity>
+		<Quantity>111</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29848,7 +29848,7 @@ mini markets
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
-		<Quantity>161</Quantity>
+		<Quantity>160</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30077,7 +30077,7 @@ Barcode: 5206753044598
 		<Manufacturer>Θαλασσινός</Manufacturer>
 		<MPN>ΕΜ6182</MPN>
 		<Description>Μεμβράνη επαγγελματικής χρήσεως. Εχει έξτρα κολλητικότητα και είναι κατάλληλη για την συσκευασία τροφίμων όπως κρέας, ψάρι, τυρί, ζύμες, γλυκά και συντήρηση φρούτων και λαχανικών και κάθε είδους φρέσκων τροφίμων.</Description>
-		<Quantity>88</Quantity>
+		<Quantity>87</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30147,7 +30147,7 @@ Barcode: 5206753044598
 		<Manufacturer>ΟΕΜ</Manufacturer>
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
-		<Quantity>5383</Quantity>
+		<Quantity>5377</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33799,7 +33799,7 @@ Volt: 3V</Description>
 Ακρίβεια: 1 g
 Τροφοδοσία: 3 μπαταρίες ΑΑΑ
 Βάρος: 358 g</Description>
-		<Quantity>310</Quantity>
+		<Quantity>309</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34005,7 +34005,7 @@ Barcode
 Λόγω της υψηλής συνολικής ισχύος, η συσκευή πρέπει να συνδέεται σε κατάλληλη ηλεκτρική πρίζα, σύμφωνα με τις οδηγίες του κατασκευαστή. Αποφύγετε τη χρήση ακατάλληλων πολύπριζων ή προεκτάσεων.
 
 Η First Austria FA-5083-5 προσφέρει μια ευέλικτη λύση μαγειρέματος με δύο ανεξάρτητες εστίες, κατάλληλη για καθημερινή χρήση όπου απαιτείται επιπλέον ή φορητός εξοπλισμός κουζίνας.</Description>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34606,7 +34606,7 @@ Esperanza - Ατμομάγειρες Esperanza
 Τροφοδοσία: 230 V, 50 Hz
 Κατανάλωση ισχύος: 350 W
 Μήκος καλωδίου τροφοδοσίας: 55 cm</Description>
-		<Quantity>69</Quantity>
+		<Quantity>68</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -35996,7 +35996,7 @@ Barcode
 3 ρυθμίσεις θερμοκρασίας.
 H θήκη είναι αφαιρούμενη, δίνοντας τη δυνατότητα να πλένεται στο πλυντήριο.
 Σύστημα ασφαλείας με προστασία υπερθέρμανσης.</Description>
-		<Quantity>108</Quantity>
+		<Quantity>107</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36190,7 +36190,7 @@ Power Bank
 Τύπος Σύνδεσης: USB
 Γενικές Πληροφορίες: Περιστροφή 180°
 </Description>
-		<Quantity>97</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36251,7 +36251,7 @@ Power Bank
 Τύπος Σύνδεσης: USB
 Εγγύηση Eurolamp: 2 Χρόνια/ 2 Years
 Χωρητικότητα/Capacity 2200mAh</Description>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37814,7 +37814,7 @@ Watt: 12W
     OCP
     OTP
 </Description>
-		<Quantity>7</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -41632,7 +41632,7 @@ RGB φωτισμός: 6 λειτουργίες
 
 
 Σημαντικό: Πριν από την αγορά, ελέγξτε ότι το βάρος της τηλεόρασης δεν υπερβαίνει τα 40 kg και ότι οι οπές στερέωσής της αντιστοιχούν σε ένα από τα υποστηριζόμενα πρότυπα VESA.</Description>
-		<Quantity>17</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -42624,7 +42624,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<MPN>0609</MPN>
 		<Weight>1kg</Weight>
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Cortese. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 1000gr.</Description>
-		<Quantity>11</Quantity>
+		<Quantity>9</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -43118,7 +43118,7 @@ VeganΌχι
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>879</Quantity>
+		<Quantity>878</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
