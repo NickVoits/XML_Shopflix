@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-09 15:05</created_at>
+	<created_at>2026-11-09 16:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -277,7 +277,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>104</Quantity>
+		<Quantity>103</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>59</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3077,7 +3077,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΖΑΦΕΙΡΑΚΗ</Manufacturer>
 		<MPN>1643</MPN>
 		<Description>Μαλαγουζιά από τη περιοχή της Θεσσαλίας με μέτριο λεμονοπράσινο χρώμα.</Description>
-		<Quantity>211</Quantity>
+		<Quantity>205</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3150,7 +3150,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
 		<MPN>1668</MPN>
 		<Description>Χαρακτηρίζεται από το μέτριας(-) έντασης ρουμπινί χρώμα του, με κεραμιδί νύξεις όσο το κρασί ‘φορτώνει’ χρόνια στην πλάτη του.Δαμάσκηνο και άγριο βύσσινο μαζί με αποξηραμένα λουλούδια στη μύτη, σε πρώτο πλάνο, υποστηρίζονται από κάποια πικάντικα, πιπεράτα, αρώματα και αρκετές δόσεις βαρελιού που εκφράζονται μέσα από μπαχαρένια αρώματα δρυός.Στο στόμα το κρασί είναι σχετικά δριμύ με οξύτητα και τανίνες να προκαλούν εξάρσεις, ωστόσο το φρούτο και το αλκοόλ να καταφέρνουν τελικά να ισορροπούν τα δύο αυτά ‘εξτρεμιστικά’ στοιχεία που η ποικιλία διαθέτει ως χαρακτηριστικά της.Στην επίγευση του κρασιού το αρχικό φρέσκο φρούτο, διαδέχεται η βαρελάτη αίσθηση και τα ξηροκαρπάτα στοιχεία.</Description>
-		<Quantity>5</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3293,7 +3293,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1327</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες, με αρώματα λευκών λουλουδιών, εσπεριδοειδών και διακριτικών αρωματικών βοτάνων. Στο στόμα είναι γεμάτο με εξαιρετική ισορροπία και με μακράς διάρκειας επίγευση.</Description>
-		<Quantity>866</Quantity>
+		<Quantity>854</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3335,7 +3335,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
-		<Quantity>267</Quantity>
+		<Quantity>243</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3363,7 +3363,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1330</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
-		<Quantity>90</Quantity>
+		<Quantity>84</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3748,7 +3748,7 @@ pH: 3.45
 		<Manufacturer>ΚΤΗΜΑ ΜΠΑΡΑΦΑΚΑ</Manufacturer>
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
-		<Quantity>208</Quantity>
+		<Quantity>190</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9464,7 +9464,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 Η BEMA BIO συνδυάζει τη δύναμη της φυτοθεραπείας με σύγχρονες συνθέσεις φυσικής περιποίησης. Η κρέμα με Άρνικα αποτελεί ιδανική επιλογή για όσους αναζητούν μια αποτελεσματική καθημερινή φροντίδα για μύες και αρθρώσεις, αξιοποιώντας φυσικά συστατικά υψηλής ποιότητας που σέβονται την επιδερμίδα.
 
 Σημείωση: Η κρέμα προορίζεται για εξωτερική χρήση. Αποφύγετε την εφαρμογή σε ανοιχτές πληγές, βλεννογόνους ή ερεθισμένο δέρμα. Φυλάσσεται μακριά από παιδιά.</Description>
-		<Quantity>41</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13991,7 +13991,7 @@ Barcode
 		<Manufacturer>PETRORAT</Manufacturer>
 		<MPN>1121</MPN>
 		<Description>Ένα αποτελεσματικό δόλωμα για την εξόντωση ποντικών και αρουραίων. Αποτελείται από ειδικά επεξεργασμένο σιτάρι που προσελκύει τα τρωκτικά, τα οποία το καταναλώνουν και στη συνέχεια εξολοθρεύονται. Το προϊόν είναι σχεδιασμένο για χρήση σε εσωτερικούς και εξωτερικούς χώρους, όπως αποθήκες, οικίες ή αγροτικές εγκαταστάσεις. Είναι κατάλληλο για περιοχές με υψηλή παρουσία τρωκτικών και μπορεί να τοποθετηθεί σε σημεία όπου υπάρχει κίνηση των τρωκτικών. Συνίσταται η χρήση του με προσοχή, σύμφωνα με τις οδηγίες, για την αποφυγή επαφής με ανθρώπους και κατοικίδια.</Description>
-		<Quantity>127</Quantity>
+		<Quantity>126</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14960,7 +14960,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
-		<Quantity>597</Quantity>
+		<Quantity>586</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21447,7 +21447,7 @@ Brand: Viosarp</Description>
 - 1 x Οδηγίες (EN, FR, IT, ES, DE)
 - 1 x Συσκευή Ασφαλείας κατά της Ανατροπής (2 x βίδες, 2 x μπουλόνια διαστολής, 
 2 x νάιλον σχοινιά κατά της ανατροπής)</Description>
-		<Quantity>98</Quantity>
+		<Quantity>97</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21628,7 +21628,7 @@ Brand: Viosarp</Description>
 1 x Ράφι ρούχων 
 1 x Κιτ αξεσουάρ 
 1 x Οδηγίες</Description>
-		<Quantity>100</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21865,7 +21865,7 @@ VC2344
 Καθαρίζετε τη μεταλλική επιφάνεια με μαλακό, ελαφρώς νωπό πανί και στεγνώνετε καλά. Αποφεύγετε τη χρήση διαβρωτικών καθαριστικών.
 
 Ο Viosarp Μεταλλικός Καλόγερος VC2344 προσφέρει έναν πρακτικό συνδυασμό ανάρτησης ρούχων και πρόσθετης αποθήκευσης, βοηθώντας να διατηρείτε τον χώρο σας οργανωμένο χωρίς να θυσιάζετε πολύτιμη επιφάνεια δαπέδου.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23869,7 +23869,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Αυτός ο κάδος απορριμμάτων προορίζεται μόνο για εσωτερική χρήση.
 Σκουπίστε με ένα μαλακό, υγρό πανί και χρησιμοποιήστε ήπιο απορρυπαντικό εάν είναι απαραίτητο.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
