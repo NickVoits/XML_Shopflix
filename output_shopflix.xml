@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-12 09:05</created_at>
+	<created_at>2026-11-12 10:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -548,7 +548,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1361</Quantity>
+		<Quantity>1360</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>886</Quantity>
+		<Quantity>885</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -656,7 +656,7 @@
 		<MPN>73401</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Λεμονάδα περιέχει 7% χυμό λεμονιού, αρώματα φυσικού λεμονιού και ανθρακικό.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -974,7 +974,7 @@
 		<MPN>0165</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Quantity>306</Quantity>
+		<Quantity>270</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -989,7 +989,7 @@
 		<MPN>0752</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
-		<Quantity>105</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1034,7 +1034,7 @@
 		<MPN>0340</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
-		<Quantity>556</Quantity>
+		<Quantity>502</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1266,7 +1266,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>1143</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>•32 mg/100 ml καφεΐνη•Βιταμίνες Β2, Β3, Β5, Β6, Β12•Δεν περιέχει συντηρητικά•Φιλική για το περιβάλλον συσκευασία</Description>
-		<Quantity>7164</Quantity>
+		<Quantity>7140</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1325,7 +1325,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0977</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>1684</Quantity>
+		<Quantity>1669</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1340,7 +1340,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0750</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>1297</Quantity>
+		<Quantity>1282</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1355,7 +1355,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>8078</Quantity>
+		<Quantity>8063</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1370,7 +1370,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0584</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
-		<Quantity>1130</Quantity>
+		<Quantity>1115</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1385,7 +1385,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0803</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
-		<Quantity>891</Quantity>
+		<Quantity>876</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1400,7 +1400,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0000</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>654</Quantity>
+		<Quantity>639</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1571,7 +1571,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1496</Quantity>
+		<Quantity>1494</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1590,7 +1590,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 Οδηγίες Φύλαξης
 
 Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>103</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1609,7 +1609,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 
 Οδηγίες Φύλαξης
 **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1042</Quantity>
+		<Quantity>1028</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1918</Quantity>
+		<Quantity>1858</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1733,7 +1733,7 @@ pH = 7,6
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία. </Description>
-		<Quantity>1679</Quantity>
+		<Quantity>1671</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1903,7 +1903,7 @@ pH = 7,6
 		<MPN>1149</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
-		<Quantity>1047</Quantity>
+		<Quantity>1043</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1933,7 +1933,7 @@ pH = 7,6
 		<MPN>1151</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ερυθρό κρασί που ξεχωρίζει για τον πλούσιο χαρακτήρα του. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας αρώματα κόκκινων φρούτων, όπως κεράσι και δαμάσκηνο, με νότες μπαχαρικών. Η γεύση του είναι γεμάτη και ισορροπημένη, με ευχάριστη οξύτητα και απαλές τανίνες. Ιδανικό για να συνοδεύσει κόκκινα κρέατα, ζυμαρικά με πλούσιες σάλτσες και τυριά, το κρασί αυτό σερβίρεται καλύτερα σε θερμοκρασία δωματίου.</Description>
-		<Quantity>141</Quantity>
+		<Quantity>135</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2266,7 +2266,7 @@ pH = 7,6
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>473</Quantity>
+		<Quantity>470</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2281,7 +2281,7 @@ pH = 7,6
 		<MPN>0691</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ρετσίνα προσφέρει ένα δροσιστικό και αρωματικό λευκό κρασί με τις χαρακτηριστικές νότες της ρετσίνας. Με το φρέσκο άρωμά της και τη δροσερή γεύση της, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε μοναδικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>49</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4580,7 +4580,7 @@ Prosciutto και αλλαντικά
 		<MPN>0898</MPN>
 		<Weight>0.05 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Quantity>1068</Quantity>
+		<Quantity>876</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4595,7 +4595,7 @@ Prosciutto και αλλαντικά
 		<MPN>0322</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Quantity>2474</Quantity>
+		<Quantity>2258</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4625,7 +4625,7 @@ Prosciutto και αλλαντικά
 		<MPN>1031</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Quantity>18</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4655,7 +4655,7 @@ Prosciutto και αλλαντικά
 		<MPN>0638</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>3368</Quantity>
+		<Quantity>3248</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4685,7 +4685,7 @@ Prosciutto και αλλαντικά
 		<MPN>1032</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>102</Quantity>
+		<Quantity>90</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4805,7 +4805,7 @@ Prosciutto και αλλαντικά
 		<MPN>0125</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
-		<Quantity>438</Quantity>
+		<Quantity>414</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4820,7 +4820,7 @@ Prosciutto και αλλαντικά
 		<MPN>0232</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
-		<Quantity>707</Quantity>
+		<Quantity>683</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4910,7 +4910,7 @@ Prosciutto και αλλαντικά
 		<MPN>0668</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
-		<Quantity>165</Quantity>
+		<Quantity>163</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4925,7 +4925,7 @@ Prosciutto και αλλαντικά
 		<MPN>0483</MPN>
 		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
-		<Quantity>893</Quantity>
+		<Quantity>845</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4955,7 +4955,7 @@ Prosciutto και αλλαντικά
 		<MPN>0981</MPN>
 		<Weight>0.02 kg</Weight>
 		<Description>Προϊόν Διπλής Απόσταξης Στεμφύλων (φλούδες) Σταφυλιών. Η πολυσυλλεκτικότητα των ποικιλιών, η τέχνη της απόσταξης και η συμμετοχή αρωματικών βοτάνων και φρούτων κατά τη δεύτερη απόσταξη έχουν σαν αποτέλεσμα τη δημιουργία ενός ποτού υψηλής ποιότητας. Παράγεται αποκλειστικά από σταφύλια που καλλιεργούνται στην ελληνική γη. Η προσθήκη άγριων βοτάνων κατά τη δεύτερη απόσταξή του προσδίδει έναν ιδιαίτερο αρωματικό πλούτο.</Description>
-		<Quantity>83</Quantity>
+		<Quantity>81</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5102,7 +5102,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>HAIG</Manufacturer>
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
-		<Quantity>164</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5204,7 +5204,7 @@ Prosciutto και αλλαντικά
 		<Manufacturer>JOHNNIE WALKER</Manufacturer>
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
-		<Quantity>115</Quantity>
+		<Quantity>114</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -5277,7 +5277,7 @@ Prosciutto και αλλαντικά
 		<Description>Το Jameson Black Barrel είναι ένα μείγμα από grain ουίσκι μικρών παρτίδων ωριμασμένο σε ένα συνδυασμό βαρελιών αμερικανικών δρυών, sherry &amp;  bourbon. Φρουτώδες με μύτη πλούσια από νότες τροπικών φρούτων,καρύδας &amp; δημητριακών. Γεύση πυκνή και γεμάτη στον ουρανίσκο, με έντονη, λιπαρή κρέμα και καρύδια. Φινίρισμα μακρύ  με νότες κανέλας και μοσχοκάρυδου.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>29</Quantity>
+		<Quantity>26</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -7862,7 +7862,7 @@ H απορροφητικότητα εξασφαλίζεται από τη νέα
 		<MPN>0859</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Πάνες Pufies Trusted Trends Maxi+ 4, Gingham baby Value Pack 48 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
-		<Quantity>91</Quantity>
+		<Quantity>89</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9180,7 +9180,7 @@ Nail Art και λεπτομέρειες αισθητικής.
 		<Manufacturer>AROMA</Manufacturer>
 		<MPN>1259</MPN>
 		<Description>Το αφρόλουτρο της Aroma με κρεμώδη υφή, με άρωμα καρύδα προσφέρει ενυδάτωση &amp; θρέψη ενώ παράλληλα περιέχει καθαριστικούς παράγοντες που φροντίζουν το δέρμα.• Το προϊόν δεν περιέχει parabensΟδηγίες Χρήσης:• Εφαρμόστε μικρή ποσότητα σε βρεγμένο δέρμα• Ξεπλύνετε καλά• Αποφύγετε την επαφή με τα μάτια• Μόνο για εξωτερική χρήση</Description>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10208,7 +10208,7 @@ Powder Free: Ναι
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.
 
 Με πιστοποίηση CE.</Description>
-		<Quantity>85</Quantity>
+		<Quantity>325</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10391,7 +10391,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1232</Quantity>
+		<Quantity>1229</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10406,7 +10406,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>802</Quantity>
+		<Quantity>797</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10463,7 +10463,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
-		<Quantity>218</Quantity>
+		<Quantity>214</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10775,7 +10775,7 @@ Powder Free: Ναι
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
-		<Quantity>4729</Quantity>
+		<Quantity>4726</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10815,7 +10815,7 @@ Powder Free: Ναι
 
 
 </Description>
-		<Quantity>712</Quantity>
+		<Quantity>690</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11120,7 +11120,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
-		<Quantity>706</Quantity>
+		<Quantity>704</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11459,7 +11459,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>ARIEL</Manufacturer>
 		<MPN>1652</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
-		<Quantity>82</Quantity>
+		<Quantity>81</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11573,7 +11573,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>FAIRY</Manufacturer>
 		<MPN>1100101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
-		<Quantity>2475</Quantity>
+		<Quantity>2474</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11833,7 +11833,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>DUCK</Manufacturer>
 		<MPN>1110</MPN>
 		<Description>Απολυμαντικό καθαριστικό gel για τη λεκάνη της τουαλέτας. Μοναδικός λαιμός, φτάνει καλύτερα, καθαρίζει καλύτερα.</Description>
-		<Quantity>206</Quantity>
+		<Quantity>204</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -11931,7 +11931,7 @@ pH: Φιλικό προς το δέρμα
 		<Manufacturer>BRAIT</Manufacturer>
 		<MPN>1749</MPN>
 		<Description>Το Brait Extra Power Block Λεκάνης με Άρωμα Lemon 40gr είναι ένας αποδοτικός καθαριστικός δίσκος για τη λεκάνη της τουαλέτας, που προσφέρει μακροχρόνια φρεσκάδα και καθαριότητα. Το άρωμα λεμόνι δημιουργεί μια ευχάριστη και φρέσκια ατμόσφαιρα, ενώ ταυτόχρονα προστατεύει από τα άλατα και τις ακαθαρσίες. Ιδανικό για καθημερινή χρήση και εύκολο στην τοποθέτηση.</Description>
-		<Quantity>63</Quantity>
+		<Quantity>62</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12299,7 +12299,7 @@ Barcode: 5206753029076
 Η ξύστρα νερού προορίζεται για χρήση σε κατάλληλες λείες επιφάνειες.
 
 Δεν πρόκειται για ηλεκτρική σκούπα και δεν διαθέτει λειτουργία αναρρόφησης.</Description>
-		<Quantity>88</Quantity>
+		<Quantity>87</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12449,7 +12449,7 @@ EAN: 4023103173118
 Μήκος: 37cm
 Πλάτος: 32cm
 Ύψος: 4cm</Description>
-		<Quantity>55</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12533,7 +12533,7 @@ EAN: 4023103173118
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-2492</MPN>
 		<Description>Σφουγγαρίστρα  microfiber πολύ μεγάλης απορροφητικότητας , άκοπη, σε διάφορες αποχρώσεις. Εξαιρετικά απορροφητική και η πιο κατάλληλη για ευαίσθητα δάπεδα όπως ξύλο, μάρμαρο, γρανίτης, πορσελάνη ή παρκέ καθώς δεν χαράσσει και δεν αφήνει ίχνη. Πλένεται στο πλυντήριο στους 30°C.</Description>
-		<Quantity>78</Quantity>
+		<Quantity>114</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12548,7 +12548,7 @@ EAN: 4023103173118
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>74040010-101</MPN>
 		<Description>Κοντάρι ξύλινο με μήκος 1,3m και εξαιρετικής αντοχής.</Description>
-		<Quantity>186</Quantity>
+		<Quantity>185</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13052,7 +13052,7 @@ Barcode
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
-		<Quantity>607</Quantity>
+		<Quantity>606</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13128,7 +13128,7 @@ Barcode
 
     Οι γκρί και κόκκινες μικροΐνες προσφέρουν βαθύ καθαρισμό ακόμα και της πιο επίμονης βρωμιάς, ενώ οι λευκές μικροΐνες εξασφαλίζουν μέγιστη καθαριστική απόδοση και αστραφτερά πατώματα
     Η σύνθεσή του από 100% μικροΐνες προσφέρουν μέγιστη απορροφητικότητα, καθαριστή απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας).</Description>
-		<Quantity>315</Quantity>
+		<Quantity>314</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13398,7 +13398,7 @@ Super-απορροφητική.
 		<Manufacturer>MADONA</Manufacturer>
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
-		<Quantity>1076</Quantity>
+		<Quantity>1075</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13908,7 +13908,7 @@ Barcode
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>VC469</MPN>
 		<Description>Κόλλα σε πιατάκι για κατσαρίδες, οι οποίες περνώντας από το σημείο εφαρμογής παγιδεύονται, με αποτέλεσμα την εξολόθρευσή τους.</Description>
-		<Quantity>158</Quantity>
+		<Quantity>157</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13977,7 +13977,7 @@ Barcode
 ΠΡΟΣΟΧΗ!
 
 Κρατήστε το μακριά από παιδιά και κατοικίδια.</Description>
-		<Quantity>103</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14210,7 +14210,7 @@ Barcode
 		<Manufacturer>IRMA</Manufacturer>
 		<MPN>0601</MPN>
 		<Description>Προσάναμμα το οποίο είναι ιδανικό για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλει στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστο.</Description>
-		<Quantity>70</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14844,7 +14844,7 @@ Barcode: 5206753033363
 		<Manufacturer>ELEF</Manufacturer>
 		<MPN>0331</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 24x17cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
-		<Quantity>312</Quantity>
+		<Quantity>310</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14960,7 +14960,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
-		<Quantity>579</Quantity>
+		<Quantity>578</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -15940,7 +15940,7 @@ VC2861
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>Ε-3803</MPN>
 		<Description>Το μαχαίρι φαγητού της εταιρείας Sidirela με μήκος λεπίδας 9cm, είναι εύχρηστο και μπορεί να χρησιμοποιηθεί καθημερινά μέσα σε μία κουζίνα. Είναι σχεδιασμένο για να κόβει έτοιμα και μαγειρεμένα τρόφιμα, όπως λαχανικά, κρέας και ψάρια. Είναι κατασκευασμένο από ανοξείδωτο ατσάλι, ένα δημοφιλές υλικό για μαχαίρια, είναι ιδιαίτερα ανθεκτικό και δεν διαβρώνεται. Αποτελεί ένα συνδυασμό από άνθρακα και σίδηρο ως βάση και προστίθεται χρώμιο για να απωθεί τους λεκέδες και να δώσει στη λεπίδα ένα γυαλιστερό φινίρισμα.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>96</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16021,7 +16021,7 @@ VC2861
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-30461</MPN>
 		<Description>Το ψαλίδι κουζίνας της εταιρείας Sidirela με μήκος 21cm, είναι κατάλληλο για καθημερινή χρήση, σε όλες τις βασικές εργασίες προετοιμασίας φαγητού. Ιδανικό να τεμαχίσει φρούτα, λαχανικά, κρέας και άλλα, άμεσα και γρήγορα.</Description>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17555,7 +17555,7 @@ E-4767
 Κατάλληλο για αποθήκευση στο ψυγείο
 Χρώμα: Ασημί
 Κωδικός: E-3680</Description>
-		<Quantity>39</Quantity>
+		<Quantity>35</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -17715,7 +17715,7 @@ Brand: Viosarp</Description>
 Διαθέτει Γαντζάκι Κρεμάσματος
 Αποτρέπει τη Μούχλα
 Χωρίς Άρωμα</Description>
-		<Quantity>315</Quantity>
+		<Quantity>313</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18490,7 +18490,7 @@ Brand: Viosarp</Description>
 - 1 x βοηθητικό τραπέζι
 - 1 x τσάντα αξεσουάρ
 - 1 x Οδηγίες</Description>
-		<Quantity>41</Quantity>
+		<Quantity>40</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19157,7 +19157,7 @@ Brand: Viosarp</Description>
 Συναρμολόγηση χωρίς προβλήματα: Απλοποιήστε τη διαδικασία συναρμολόγησης με τον απλό σχεδιασμό του, χωρίς εργαλεία και βίδες. Απλώς συνδέστε τα εξαρτήματα για να το συναρμολογήσετε, εξοικονομώντας χρόνο και προσπάθεια.
 
 Οργανωμένη αποθήκευση μαχαιροπίρουνων: Αυτή η θήκη πιάτων στον πάγκο της κουζίνας περιλαμβάνει μια θήκη μαχαιροπίρουνων 3 τμημάτων, η οποία μπορεί να αποσπαστεί για ξεχωριστή χρήση. Διευκολύνει την τακτοποιημένη αποθήκευση και την εύκολη πρόσβαση στα κουτάλια, τα πιρούνια και άλλα μικρά σκεύη κουζίνας σας.</Description>
-		<Quantity>44</Quantity>
+		<Quantity>42</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20260,7 +20260,7 @@ Brand: Viosarp</Description>
 1 x Επιτοίχιο γωνιακό ράφι
 1 x Κιτ αξεσουάρ
 1 x Οδηγίες</Description>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21062,7 +21062,7 @@ Brand: Viosarp</Description>
     Βάρος: 1.6 Kg
     Μέγιστο βάρος: 15 Kg
     Διαστάσεις: 92 x 30.5 x 55 cm</Description>
-		<Quantity>42</Quantity>
+		<Quantity>39</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21131,7 +21131,7 @@ Brand: Viosarp</Description>
 1 x Κιτ αξεσουάρ
 2 x Κιτ κατά της ανατροπής
 1 x Οδηγίες</Description>
-		<Quantity>27</Quantity>
+		<Quantity>24</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21244,7 +21244,7 @@ Brand: Viosarp</Description>
 2 x κιτ αντι-ανατροπής
 1 x οδηγίες
 </Description>
-		<Quantity>103</Quantity>
+		<Quantity>102</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21593,7 +21593,7 @@ Brand: Viosarp</Description>
 1 x Ράφι ρούχων 
 1 x Κιτ αξεσουάρ 
 1 x Οδηγίες</Description>
-		<Quantity>92</Quantity>
+		<Quantity>91</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21628,7 +21628,7 @@ Brand: Viosarp</Description>
 1 x Ράφι ρούχων 
 1 x Κιτ αξεσουάρ 
 1 x Οδηγίες</Description>
-		<Quantity>95</Quantity>
+		<Quantity>93</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21664,7 +21664,7 @@ Brand: Viosarp</Description>
 
 1 x Ράφι ρούχων
 1 x οδηγίες</Description>
-		<Quantity>70</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21865,7 +21865,7 @@ VC2344
 Καθαρίζετε τη μεταλλική επιφάνεια με μαλακό, ελαφρώς νωπό πανί και στεγνώνετε καλά. Αποφεύγετε τη χρήση διαβρωτικών καθαριστικών.
 
 Ο Viosarp Μεταλλικός Καλόγερος VC2344 προσφέρει έναν πρακτικό συνδυασμό ανάρτησης ρούχων και πρόσθετης αποθήκευσης, βοηθώντας να διατηρείτε τον χώρο σας οργανωμένο χωρίς να θυσιάζετε πολύτιμη επιφάνεια δαπέδου.</Description>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21900,7 +21900,7 @@ VC2344
 - 2 x Ράφι ρούχων
 - 2 x Τσάντα αξεσουάρ
 - 1 x Οδηγίες (EN, DE, ES, FR, IT)</Description>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21973,7 +21973,7 @@ VC2344
 - 1 x Τσάντα αξεσουάρ
 - 1 x Οδηγίες
 </Description>
-		<Quantity>80</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22880,7 +22880,7 @@ Brand: VASAGLE
 Ο απλός σχεδιασμός, οι καθαρές γραμμές και το καθαρό λευκό φέρνουν αυτό το μοντέρνο τραπέζι μακιγιάζ στη ζωή που θα φέρει μια πινελιά κομψότητας στο δωμάτιό σας.
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία και είναι ικανοποιητική η χωρητικότητά της.</Description>
-		<Quantity>108</Quantity>
+		<Quantity>107</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23155,7 +23155,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Περιεχόμενα συσκευασίας:
 - 1 x Κουτί ρολογιού</Description>
-		<Quantity>17</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23787,7 +23787,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Προδιαγραφές: Χρώμα: Μεταλλικό Ασημί. Υλικό: Ατσάλι, πλαστικό PP. Μέγεθος προϊόντος: Π 16,3 x Β 13,2 x Υ 19,4 cm. Ύψος όταν είναι ανοιχτό: 29,1 cm. Μέγεθος κάθε εσωτερικού κάδου: Π 8,9 x Β 18,2 x Υ 44,8 cm. Μέγεθος πεντάλ: Π 18,5 x Β 5,3 cm. Χωρητικότητα: 2 x 15 L. Βάρος προϊόντος: 4,9 kg
 
 【Προειδοποίηση SONGMICS】Αυτός ο κάδος διαλογής απορριμμάτων προορίζεται μόνο για εσωτερική χρήση. Σκουπίστε με ένα μαλακό, υγρό πανί και χρησιμοποιήστε ουδέτερο απορρυπαντικό εάν είναι απαραίτητο. Μην πιέζετε το καπάκι για να παρατείνετε τη διάρκεια ζωής του κάδου απορριμμάτων. Σχετικά με το χρώμα: Το χρώμα του πραγματικού προϊόντος ενδέχεται να διαφέρει ανάλογα με τις ρυθμίσεις της οθόνης σας.</Description>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -24484,7 +24484,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 
 </Description>
-		<Quantity>47</Quantity>
+		<Quantity>46</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25095,7 +25095,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-1942</MPN>
 		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
-		<Quantity>20</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25902,7 +25902,7 @@ E-4749
 Ύψος: 95 cm
 
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί μετακινείται εύκολα και κλείνει και ανοίγει με ευκολία.</Description>
-		<Quantity>79</Quantity>
+		<Quantity>78</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26648,7 +26648,7 @@ Brand: SONGMICS
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-0513</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους. </Description>
-		<Quantity>7</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26662,7 +26662,7 @@ Brand: SONGMICS
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN> E-0529</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους. </Description>
-		<Quantity>5</Quantity>
+		<Quantity>25</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28925,7 +28925,7 @@ Brand: Sidirela
 1 x Κιτ αντιανατροπής
 1 x Κιτ αξεσουάρ
 1 x Οδηγίες</Description>
-		<Quantity>78</Quantity>
+		<Quantity>77</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -30048,7 +30048,7 @@ crate και κλουβί μεταφοράς,
 Φιλικά προς το περιβάλλον, αυτά τα καλαμάκια είναι ιδανικά για μια βιώσιμη ζωή.
 Η χρήση χάρτινου υλικού βοηθά στη μείωση της πλαστικής ρύπανσης.
 Η ποικιλία χρωμάτων θα ενθουσιάσει μικρούς και μεγάλους.</Description>
-		<Quantity>2546</Quantity>
+		<Quantity>2545</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31875,7 +31875,7 @@ Eξάγωνο σώμα για άνετη, ελεγχόμενη γραφή.
 		<Manufacturer>Inacopia</Manufacturer>
 		<MPN>INA8002111</MPN>
 		<Description>Είναι σχεδιασμένο ώστε να προσφέρει εξαιρετικά αποτελέσματα σε όλα τα είδη εγγράφων, με υψηλά επίπεδα λευκού, για μέγιστη ποιότητα αναπαραγωγής κειμένου.</Description>
-		<Quantity>718</Quantity>
+		<Quantity>717</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32021,7 +32021,7 @@ Eξάγωνο σώμα για άνετη, ελεγχόμενη γραφή.
     Εγγράψιμα
     Στρογγυλεμένες γωνίες
     Aδιάβροχα</Description>
-		<Quantity>53</Quantity>
+		<Quantity>52</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32646,7 +32646,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 Πλάτος ταινίας: 57 mm 
 Μήκος ταινίας: 15 m
 Βάρος: 48 gr/m²</Description>
-		<Quantity>4237</Quantity>
+		<Quantity>4201</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -32863,7 +32863,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 
 Υλικό: PVC
 Βάση: Πλαστική</Description>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33789,7 +33789,7 @@ Klaudia-Palenga/GOSUND/SP112/1
 		<Description>Αλκαλικές μπαταρίες Maxell AAA κατάλληλες για τηλεχειριστήρια, ρολόγια, φακούς, αριθμομηχανές κ.ά.
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
-		<Quantity>937</Quantity>
+		<Quantity>936</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34250,7 +34250,7 @@ LRV08
 Φυλάσσετε την μπαταρία μακριά από παιδιά, καθώς υπάρχει κίνδυνος σοβαρού τραυματισμού σε περίπτωση κατάποσης.
 
 Απορρίπτετε τη χρησιμοποιημένη μπαταρία σε κατάλληλα σημεία συλλογής και ανακύκλωσης.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>100</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36816,7 +36816,7 @@ Barcode
 Μην αφήνετε τη συσκευή να λειτουργεί χωρίς επίβλεψη.
 
 Το Eurolamp κεραμικό αερόθερμο 1500W συνδυάζει σύγχρονο σχεδιασμό, ευκολία χειρισμού και χρήσιμες λειτουργίες θέρμανσης. Η περιστροφή, το τηλεχειριστήριο, η οθόνη LED και ο χρονοδιακόπτης το καθιστούν μια ολοκληρωμένη επιλογή για την καθημερινή συμπληρωματική θέρμανση του σπιτιού ή του γραφείου.</Description>
-		<Quantity>81</Quantity>
+		<Quantity>80</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37002,7 +37002,7 @@ Barcode
 Αποσπώμενο καλώδιο
 3 Βαθμίδες θέρμανσης
 Πλενόμενη ( συνιστάται πλύσιμο στο χέρι με ζεστό νερό). Λάστιχα για σταθεροποίηση στις γωνίες</Description>
-		<Quantity>39</Quantity>
+		<Quantity>99</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -37023,7 +37023,7 @@ Barcode
 Αποσπώμενο καλώδιο
 3 Βαθμίδες θέρμανσης
 Πλενόμενη ( συνιστάται πλύσιμο στο χέρι με ζεστό νερό). Λάστιχα για σταθεροποίηση στις γωνίες</Description>
-		<Quantity>21</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -38222,7 +38222,7 @@ Pulse Rate εύρος μέτρησης 25-250 BRM, Ανάλυση 1bpm, Ακρί
     Αυτόματη και χειροκίνητη απενεργοποίηση
     Θερμοκρασία εργασίας: 0° C - 40° C
     Διαστάσεις: 54.5x32x3cm</Description>
-		<Quantity>46</Quantity>
+		<Quantity>45</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39629,7 +39629,7 @@ RGB φωτισμός με gaming αισθητική.
 Για τη χρήση του μικροφώνου και των ακουστικών απαιτείται κατάλληλη υποδοχή ήχου στη συσκευή σύνδεσης. Ανάλογα με τις διαθέσιμες υποδοχές του υπολογιστή, ενδέχεται να απαιτείται κατάλληλος διαχωριστής ή προσαρμογέας ήχου.
 
 Ο RGB φωτισμός απαιτεί σύνδεση σε θύρα USB με παροχή ρεύματος.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -41733,7 +41733,7 @@ Barcode: 6957303898558
 Θύρα τροφοδοσίας : μίνι USB
 Τροφοδοσία : 5 V / 1 A (περιλαμβάνει καλώδιο αναπτήρα αυτοκινήτου)
 Μήκος καλωδίου : περίπου 2,5 m</Description>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -42967,7 +42967,7 @@ DRM: PlayReady, Widevine
 Η προβολή περιεχομένου 4K απαιτεί συμβατή τηλεόραση, κατάλληλο περιεχόμενο και επαρκή ταχύτητα σύνδεσης.
 
 Ορισμένες υπηρεσίες streaming ενδέχεται να απαιτούν ξεχωριστή συνδρομή. Η διαθεσιμότητα εφαρμογών, η υποστήριξη συγκεκριμένων αναλύσεων και οι δυνατότητες φωνητικού ελέγχου εξαρτώνται από την πιστοποίηση της συσκευής, την περιοχή και τις εκάστοτε απαιτήσεις των παρόχων.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>5</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -43334,7 +43334,7 @@ VESA: από 100×100 έως 400×400 mm
 Ο ενισχυτής προορίζεται για την ενίσχυση και διανομή ήδη λαμβανόμενου τηλεοπτικού σήματος. Δεν μπορεί να αποκαταστήσει προβλήματα που οφείλονται σε ανεπαρκή ποιότητα σήματος στην κεραία, έντονες παρεμβολές ή εσφαλμένη εγκατάσταση.
 
 Η υπερβολική ενίσχυση μπορεί να προκαλέσει υπερφόρτωση τηλεοπτικών δεκτών και υποβάθμιση της εικόνας. Για τη σωστή επιλογή και τοποθέτηση συνιστάται έλεγχος της στάθμης και της ποιότητας του σήματος.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -43431,7 +43431,7 @@ VESA: από 100×100 έως 400×400 mm
 Ο ενισχυτής δεν δημιουργεί τηλεοπτικό σήμα και δεν μπορεί να αποκαταστήσει προβλήματα που οφείλονται σε πολύ χαμηλή ποιότητα λήψης, παρεμβολές ή λανθασμένο προσανατολισμό της κεραίας.
 
 Η επιλογή ενισχυτή υψηλής απολαβής πρέπει να γίνεται με βάση τις πραγματικές ανάγκες της εγκατάστασης και τη στάθμη του εισερχόμενου σήματος.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>3</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -43728,7 +43728,7 @@ TN-2510XL Μαύρο Toner Εκτυπωτή Laser (3000 σελίδες)
 		<MPN>1655</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Είναι μια φυσική και ακατέργαστη ζάχαρη, που παράγεται από το χυμό ζαχαροκάλαμου ή ζαχαρότευτλου. Διατηρεί τα θρεπτικά της στοιχεία και τη χαρακτηριστική της υγρασία, προσφέροντας πλούσια γεύση με ελαφρύ άρωμα καραμέλας. Ιδανική για γλυκά, ροφήματα ή ως γαρνιτούρα σε διάφορες συνταγές.</Description>
-		<Quantity>823</Quantity>
+		<Quantity>821</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -43770,7 +43770,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<MPN>0675</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Μακρύσπερμο ρύζι που παίρνει το χρυσαφένιο χρώμα από τα συστατικά του εξωτερικού φλοιού του, κατά την υγροθερμική επεξεργασία, ο οποίος απομακρύνεται στη συνέχεια. Θεωρείται ιδανικό για πιλάφι λόγω του ότι παραμένει σπυρωτό.</Description>
-		<Quantity>116</Quantity>
+		<Quantity>114</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -44004,7 +44004,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 Καθαρό βάρος: 2 × 160g
 Προέλευση: Ινδονησία
 Συσκευασία κιβωτίου: 24 σετ των 2 τεμαχίων</Description>
-		<Quantity>222</Quantity>
+		<Quantity>217</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
