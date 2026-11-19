@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-19 16:05</created_at>
+	<created_at>2026-11-19 16:54</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -292,7 +292,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>121</Quantity>
+		<Quantity>119</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1571,7 +1571,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
     Σκληρότητα: 257mg/l (ως CaCO 3)
 
 Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1641</Quantity>
+		<Quantity>1639</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1104</Quantity>
+		<Quantity>1101</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2650,32 +2650,12 @@ Ph: 3,55</Description>
 		<Name>Μπουτάρη Κρασί Μοσχοφίλερο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707559/Mpoutari-Krasi-Moschofilero-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004707/4707559/20211102142703_mpoutari_krasi_leyko_xiro_moschofilero_750ml.jpeg</Image>
-		<Price>6.934362585150001</Price>
+		<Price>6.75</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΜΠΟΥΤΑΡΗ</Manufacturer>
 		<MPN>1515</MPN>
 		<Description>Το Μοσχοφίλερο Μπουτάρη είναι το πλέον φημισμένο και γνωστό λευκό κρασί, και το όνομά του αποτελεί πλέον «συνώνυμο» της ποικιλίας Μοσχοφίλερο. Αποτελεί ένα ιδιαίτερα αρωματικό κρασί, στην καλύτερη έκφραση της ποικιλίας, το οποίο με διεθνείς διακρίσεις, αλλά κυρίως με την προτίμηση του καταναλωτή, έχει κερδίσει επάξια τη διεθνή αναγνώριση.Ανοιχτό, απαλό λευκό με γκριζωπές ανταύγειες που μαρτυρούν το νεαρό της ηλικίας του και την προέλευση από την ερυθρωπή ποικιλία Μοσχοφίλερο. Έντονα αρώματα όπως άγριο τριαντάφυλλο και άνθη λεμονιάς που πλαισιώνονται από δευτερογενή αρώματα όπως το θυμάρι και το πράσινο μήλο. Ελαφρύ, αρωματικό και ευκολόπιοτο παρουσιάζει έντονη φρεσκάδα και εξαιρετική ισορροπία. Στο τελείωμα του αφήνει μια μακρά μαλάκη επίγευση γεμάτη αρώματα εσπεριδοειδών.</Description>
 		<Quantity>387</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>41042</SKU>
-		<EAN>5201022540504</EAN>
-		<Name>Μπουτάρη Κρασί Νάουσσα Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4707552/Mpoutari-Krasi-Naoussa-Xinomayro-Erythro-Xiro-750ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/004707/4707552/xlarge_20211018105534_mpoutari_krasi_erythro_xiro_naoussa_750ml.jpeg</Image>
-		<Price>8.538479468484002</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΜΠΟΥΤΑΡΗ</Manufacturer>
-		<MPN>1515001</MPN>
-		<Description>Το πρώτο ελληνικό ερυθρό εμφιαλωμένο κρασί Π.Ο.Π. που κυκλοφόρησε στην ελληνική αγορά, αποτελεί το σήμα κατατεθέν της Ελλάδας στα κόκκινα κρασιά. Εδώ και 5 γενιές απολαμβάνει την προτίμηση του Έλληνα καταναλωτή, εισάγοντας τους νέους στην εμπειρία του κόκκινου και ανταμείβοντας τους πιστούς του φίλους με τη σταθερή, διαχρονική ποιότητά του.
-Οινοποίηση
-
-Κρυοεκχύλιση για 24 ώρες, αφαίμαξη ποσοστού για ροζέ, ελεγχόμενη αλκοολική ζύμωση με επιλεγμένα στελέχη ζυμομυκήτων στους 19-23°C, απαλή εκχύλιση με εντατικές ανακυκλώσεις πριν το ξεκίνημα της ζύμωσης (7-10 ημέρες), οι πιέσεις δεν συμπεριλήφθηκαν καθόλου στο χαρμάνι, μηλογαλακτική ζύμωση, γαλλικά δρύινα βαρέλια (3ης και 4ης χρήσης) για 12 μήνες, ήπιο φιλτράρισμα με μεγάλης διατομής γής διατόμων, τελικό φιλτράρισμα (polishing) από φιλτρόχαρτα.
-Χαρακτηριστικά
-
-Το πιο εμβληματικό κρασί της σύγχρονης οινολογικής ελληνικής ιστορίας. Βαθυκόκκινο με έντονη προσωπικότητα και ζωηρή απόχρωση. Αναδύει πλούσιο μπουκέτο ώριμων κόκκινων φρούτων, βατόμουρου, λιαστής ντομάτας και δαμάσκηνου, που συνυπάρχουν με αυτά της κανέλας, πιπεριού, μαύρης ελιάς και ξύλου. Έχει πλούσιο σώμα, καλή ισορροπία και δομή, πολύ απαλό στο στόμα χωρίς καθόλου πικράδες ή στυφές τανίνες. Προσεγγίζει ένα πιο μοντέρνο στύλ Νάουσας που είναι πιο ευκολόπιοτο.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2760,7 +2740,7 @@ Ph: 3,55</Description>
 		<Name>Κτήμα Αβαντίς Lenga Gewürztraminer Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4720051/Ktima-Avantis-Krasi-Lenga-Gewuerztraminer-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004720/4720051/xlarge_20200314140309_ktima_avantis_lenga_leyko_750ml.jpeg</Image>
-		<Price>11.49</Price>
+		<Price>10.99</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1616002</MPN>
@@ -2790,7 +2770,7 @@ Ph: 3,55</Description>
 		<Name>Κατώγι Αβέρωφ Κρασί Chardonnay/Ροδίτης/Μοσχάτο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4713730/Katogi-Averof-Krasi-Leyko-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/004713/4713730/xlarge_20211019154916_katogi_averof_leyko_750ml.jpeg</Image>
-		<Price>7.43</Price>
+		<Price>7.07</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΑΤΩΓΙ</Manufacturer>
 		<MPN>1640001</MPN>
@@ -2810,26 +2790,6 @@ Ph: 3,55</Description>
 		<MPN>1641</MPN>
 		<Description>Παλαίωση 12 μήνες σε γαλλικά  δρύινα βαρέλιαΓηγενής ποικιλία της Ηπείρου, με ευχάριστη οξύτητα, μαλακές τανίνες και αρωματικές νότες πιπεριών. Rossiu di Munte σημαίνει “κόκκινο του βουνού” στη τοπική βλάχικη διάλεκτο. Κρασί περιορισμένης κυκλοφορίας..Κρασί με διαυγές κόκκινο χρώμα και με εντυπωσιακό αρωματικό μπουκέτο, στο οποίο κυριαρχούν οι νότες φρεσκοτριμένου πιπεριού. Έχει καλή οξύτητα και στρογγυλές μαλακές ταννίνες που σβήνουν ήρεμα στον ουρανίσκο. Ελαφρύ και αρμονικό, διακρίνεται για την πιπεράτη επίγευσή του.</Description>
 		<Quantity>3</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>46150102</SKU>
-		<EAN>5200323012307</EAN>
-		<Name>Κτήμα Αργυρού Κρασί Pure VSV Ασύρτικο Λευκό Ξηρό Σαντορίνης 750ml</Name>
-		<URL>https://www.skroutz.gr/s/7976256/VSV-Krasi-Asyrtiko-Leyko-Xiro-Santorinis-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/007976/7976256/xlarge_20211019154626_vsv_pure_leyko_750ml.jpeg</Image>
-		<Price>53.70085459200001</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΑΡΓΥΡΟΥ</Manufacturer>
-		<MPN>46150102-1</MPN>
-		<Description>Το οινοποιείο Volcanic Slopes Vineyards παράγει ένα και μόνο κρασί που ονομάζεται «Pure». Ο εξαιρετικός αμπελώνας του Μανώλη Χλωρίδη σε συνδυασμό με τις ικανότητες οινοποίησης του Ματθαίου Αργυρού αντανακλούν σε κάθε φιάλη το terroir της Σαντορίνης.
-
-Το Pure στον τελευταίο διαγωνισμό του Decanter βαθμολογήθηκε με 97 πόντους, αποδεικνύοντας την απίστευτη δυναμική του Ασύρτικου.
-
-Το Volcanic Slopes Vineyards είναι ένα νεοσύστατο οινοποιείο της Σαντορίνης, που βρίσκεται στην Επισκοπή, σε μια παλαιά κάναβα του 18ου αιώνα, γύρω από την οποία απλώνονται σε ηφαιστειογενές έδαφος παλαιά κλήματα Ασύρτικου.
-
-Το Pure είναι μια καθαρή και αγνή Σαντορίνη που αναδεικνύει στο έπακρο το μεγαλείο του Ασύρτικου.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3051,22 +3011,6 @@ Ph: 3,55</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>46350101</SKU>
-		<EAN>5200107840072</EAN>
-		<Name>Κτήμα Δύο Ύψη Κρασί Dialogos Ασύρτικο/Κυδωνίτσα Λευκό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/18220487/Ktima-Dyo-Ypsi-Krasi-Dialogos-Leyko-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/018220/18220487/xlarge_20190417105448_ktima_dyo_ypsi_dialogos_leyko_750ml.jpeg</Image>
-		<Price>13.3133368676</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Κτήμα Δύο Ύψη</Manufacturer>
-		<MPN>1684001</MPN>
-		<Description>Λευκός οίνος ο οποίος είναι αποτέλεσμα από τον συνδυασμό ποικιλιών, της πελοποννησιακής Κυδωνίτσας, με το πολυδιάστατο Ασύρτικο. Στη μύτη έχει αρώματα κυδωνιού, λευκόσαρκων φρούτων, ροδάκινου και θυμαριού, ενώ στο στόμα είναι έντονα φρουτώδες με δομή, γεμάτο σώμα και οξύτητα. 
-
-Έχει ισορροπία μεταξύ φρούτου και οξύτητας, με αρώματα και είναι ιδανικό ως καλοκαιρινό απεριτίφ ή για να συνοδεύσει ορεκτικά. Παλαιώνει 3-5 χρόνια από τον τρύγο.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>46551</SKU>
 		<EAN>5200110970087</EAN>
 		<Name>Κτήμα Ζαφειράκη Bio Κρασί Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
@@ -3086,7 +3030,7 @@ Ph: 3,55</Description>
 		<Name>Κτήμα Ζαφειράκη Βιολογικό Κρασί Λημνιώνα Young Vines Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/21631690/Ktima-Zafeiraki-Viologiko-Krasi-Limniona-Erythro-Xiro-750ml.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/021631/21631690/20211018140845_ktima_zafeiraki_limniona_new_age_erythro_750ml.jpeg</Image>
-		<Price>14.3198073018</Price>
+		<Price>13.67</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΖΑΦΕΙΡΑΚΗ</Manufacturer>
 		<MPN>1644</MPN>
@@ -3137,42 +3081,6 @@ Ph: 3,55</Description>
 		<MPN>1667</MPN>
 		<Description>Βαθύ κόκκινο χρώμα με ιώδεις ανταύγειες στη νεότητά του. Πυκνό αρωματικό μπουκέτο από νότες μαρμελάδας δαμάσκηνου, σταφίδας, βιολέτας, σοκολάτας και βανίλιας.</Description>
 		<Quantity>30</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47015</SKU>
-		<EAN>5200372900143</EAN>
-		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Rilancio Nebbiolo Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/26387543/Ktima-Karipidi-Viologiko-Krasi-Rilancio-Nebbiolo-Erythro-Xiro-750ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/026387/26387543/20211018115112_ktima_karipidi_krasi_erythro_xiro_rilancio_750ml.jpeg</Image>
-		<Price>12.99</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
-		<MPN>1668</MPN>
-		<Description>Χαρακτηρίζεται από το μέτριας(-) έντασης ρουμπινί χρώμα του, με κεραμιδί νύξεις όσο το κρασί ‘φορτώνει’ χρόνια στην πλάτη του.Δαμάσκηνο και άγριο βύσσινο μαζί με αποξηραμένα λουλούδια στη μύτη, σε πρώτο πλάνο, υποστηρίζονται από κάποια πικάντικα, πιπεράτα, αρώματα και αρκετές δόσεις βαρελιού που εκφράζονται μέσα από μπαχαρένια αρώματα δρυός.Στο στόμα το κρασί είναι σχετικά δριμύ με οξύτητα και τανίνες να προκαλούν εξάρσεις, ωστόσο το φρούτο και το αλκοόλ να καταφέρνουν τελικά να ισορροπούν τα δύο αυτά ‘εξτρεμιστικά’ στοιχεία που η ποικιλία διαθέτει ως χαρακτηριστικά της.Στην επίγευση του κρασιού το αρχικό φρέσκο φρούτο, διαδέχεται η βαρελάτη αίσθηση και τα ξηροκαρπάτα στοιχεία.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47016</SKU>
-		<EAN>5200372900068</EAN>
-		<Name>Κτήμα Καριπίδη Βιολογικό Κρασί Pétasos Syrah Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/10773655/Ktima-Karipidi-Viologiko-Krasi-Petasos-Syrah-Erythro-Xiro-750ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/010773/10773655/xlarge_20211018112528_ktima_karipidi_syrah_p_tasos_erythro_750ml.jpeg</Image>
-		<Price>11.04</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΚΑΡΙΠΙΔΗ</Manufacturer>
-		<MPN>166801</MPN>
-		<Description>Το Κτήμα Καριπίδη είναι ένα οικογενειακό οινοποιείο το οποίο βρίσκεται στα Βούναινα Θεσσαλίας στην Κεντρική Ελλάδα και διαχειρίζεται 300 στρέμματα ιδιόκτητους αμπελώνες. Στους αμπελώνες, οι οποίοι είναι εγγεγραμμένοι σε οργανισμό ελέγχου και πιστοποίησης βιολογικών προϊόντων, εφαρμόζονται αποκλειστικά μέθοδοι βιολογικής γεωργίας. Το έδαφος των αμπελώνων είναι αργιλώδες, πλούσιο σε οργανική ουσία με υπέδαφος μη συμπαγές, με καλή αποστράγγιση.
-Γευσιγνωστικά Χαρακτηριστικά
-
-    Μύτη: Kαθαρή μύτη, με τυπικό χαρακτήρα Syrah, που διαπιστώνεται μέσα από αρώματα ώριμων μαύρων φρούτων και raspberries, ενώ ένας συνδυασμός πικάντικων, όπως πιπέρι και γλυκών όπως βανίλια μπαχαρικών, αποτελούν αναφορά τόσο στον πιπεράτο χαρακτήρα της ποικιλίας, όσο και στη δωδεκάμηνη χρήση δρυός. Νύξεις βιολέτας δίνουν έναν επιπλέον ανθικό χαρακτήρα στη μύτη που συνδυάζεται και με κάποιες βοτανικές νύξεις.
-    Γέυση: Στο στόμα το κρασί είναι ξηρό με μέτριο σώμα, οξύτητα η οποία ισορροπεί το ‘ζουμερό’ φρούτο ενώ το επίπεδο των τανινών είναι μέτριο και θα λέγαμε ότι είναι και ‘μαλακές’. Επίγευση μεσαίας διάρκειας, με βανιλάτη αίσθηση δρυός.
-
-Συνοδεύει
-
-Ταιριάζει άψογα με αρνί στο φούρνο ή στη σούβλα, μαγειρευτά κρέατα κατσαρόλας, ψαρονέφρι με σάλτσα από μανιτάρια και κόκκινο κρασί.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3232,7 +3140,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κεχρή Κρασί Αφρός Ροδίτης Λευκό Ξηρό Ρετσίνα 750ml</Name>
 		<URL>https://www.skroutz.gr/s/13442566/Oinopoieia-Steliou-Kechri-Krasi-Afros-Roditis-Leyko-Xiro-Retsina-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/013442/13442566/20200204125848_oinopoieia_steliou_kechri_afros_retsina_leyko_750ml.jpeg</Image>
-		<Price>7.44</Price>
+		<Price>7.1</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
 		<MPN>1322</MPN>
@@ -3311,26 +3219,12 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>47083102</SKU>
-		<EAN>5205243315484</EAN>
-		<Name>Κτήμα ΑΛΦΑ Κρασί Σκαντζόχοιρος Ξινόμαυρο Ερυθρό Ξηρό Αμυνταίου 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4707581/Ktima-ALFA-Krasi-Skantzochoiros-Xinomayro-Erythro-Xiro-Amyntaiou-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707581/xlarge_20211019155357_ktima_alfa_krasi_erythro_xiro_skantzochoiros_750ml.jpeg</Image>
-		<Price>14.86003335663001</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
-		<MPN>132702</MPN>
-		<Description>Ξηρό κρασί με βαθύ κόκκινο χρώμα και αρώματα λουλουδιών και καρυκευμάτων βανίλιας, πιπεριού και γαρίφαλου με τόνους ώριμου βατόμουρου, λιαστής ντομάτας και αποξηραμένου σύκου. Γεμάτο στόμα, με άρωμα βανίλιας, ισορροπημένη οξύτητα και νότες βαρελιού με έντονο άρωμα κυδωνιών στην επίγευση .</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>47092</SKU>
 		<EAN>5203888160100</EAN>
 		<Name>Κυρ Γιάννη Κρασί Παράγκα Ροδίτης Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4705919/Kyr-Gianni-Krasi-Paraga-Roditis-Leyko-Xiro-750ml.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/004705/4705919/20220630153204_kyr_gianni_krasi_paraga_roditis_leyko_xiro_750ml.jpeg</Image>
-		<Price>8.12738410183392</Price>
+		<Price>7.96</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1328</MPN>
@@ -3344,7 +3238,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κυρ Γιάννη Κυρ Γιάννη Παράγκα Merlot/Syrah/Ξινόμαυρο Ερυθρός Ξηρός 750ml</Name>
 		<URL>https://www.skroutz.gr/s/48331064/Kyr-Gianni-Kyr-Gianni-Paraga-Erythros-Oinos-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/048331/48331064/20231123091149_kyr_gianni_kyr_gianni_paraga_erythros_oinos_750ml.jpeg</Image>
-		<Price>8.70519116544</Price>
+		<Price>8.27</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1329</MPN>
@@ -3358,7 +3252,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κυρ Γιάννη Κρασί Παράγκα Flowers Merlot/Ξινόμαυρο/Syrah Ροζέ Ημίξηρο 750ml</Name>
 		<URL>https://www.skroutz.gr/s/10578695/Kyr-Gianni-Krasi-Paraga-Flowers-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/010578/10578695/20200204125124_kyr_gianni_paraga_flowers_roze_750ml.jpeg</Image>
-		<Price>7.617042269760001</Price>
+		<Price>7.24</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1330</MPN>
@@ -3372,7 +3266,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κυρ Γιάννη Κρασί Σαμαρόπετρα Sauvignon Blanc/Ροδίτης Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4706082/Kyr-Gianni-Krasi-Samaropetra-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004706/4706082/20211018135914_kyr_gianni_krasi_leyko_xiro_samaropetra_750ml.jpeg</Image>
-		<Price>12.296082521184</Price>
+		<Price>11.68</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1331</MPN>
@@ -3386,7 +3280,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Name>Κυρ Γιάννη Κρασί Τέσσερις Λίμνες Chardonnay/Gewürztraminer Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707550/Kyr-Gianni-Krasi-Tesseris-Limnes-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707550/20211018163628_kyr_gianni_krasi_leyko_xiro_tesseris_limnes_750ml.jpeg</Image>
-		<Price>14.69001009168</Price>
+		<Price>13.96</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1332</MPN>
@@ -3395,26 +3289,12 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>4709906</SKU>
-		<EAN>5203888184021</EAN>
-		<Name>Κυρ Γιάννη Κρασί Ράμνιστα Ξινόμαυρο Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4705911/Kyr-Gianni-Krasi-Ramnista-Xinomayro-Erythro-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/004705/4705911/xlarge_20211018160808_kyr_gianni_krasi_erythro_xiro_ramnista_750ml.jpeg</Image>
-		<Price>15.99</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
-		<MPN>1334002</MPN>
-		<Description>Η Ραμνίστα του Κυρ Γιάννη με αρώματα από φράουλα, κεράσι και τριαντάφυλλο, σε συνδυασμό με φινετσάτες νότες βανίλιας από το βαρέλι. Παρά τη νεότητά του, η αρωματική δύναμη και η δομή των τανινών, φανερώνουν ένα κρασί με χαρακτήρα και μεγάλο δυναμικό παλαίωσης, προϊόν μιας μεγάλης χρονιάς.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>4709908</SKU>
 		<EAN>5203888150989</EAN>
 		<Name>Κυρ Γιάννη Κρασί Διάπορος Ξινόμαυρο/Syrah Ερυθρό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707557/Kyr-Gianni-Krasi-Diaporos-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707557/xlarge_20211019154243_kyr_gianni_krasi_erythro_xiro_diaporos_750ml.jpeg</Image>
-		<Price>33.49</Price>
+		<Price>35.61</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1334004</MPN>
@@ -3444,7 +3324,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Name>Κτήμα Κώστα Λαζαρίδη Κρασί Αμέθυστος Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4707382/Ktima-Kosta-Lazaridi-Krasi-Amethystos-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004707/4707382/xlarge_20200314140804_ktima_kosta_lazaridi_amethystos_leyko_750ml.jpeg</Image>
-		<Price>9.99</Price>
+		<Price>9.49</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
 		<MPN>47105-103</MPN>
@@ -3461,7 +3341,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Name>Κτήμα Κώστα Λαζαρίδη Κρασί Domaine Merlot/Grenache Rouge/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/7125316/Ktima-Kosta-Lazaridi-Krasi-Domaine-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/007125/7125316/xlarge_20200204121342_ktima_kosta_lazaridi_domaine_costa_lazaridi_merlot_roze_750ml.jpeg</Image>
-		<Price>14.06</Price>
+		<Price>12.89</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
 		<MPN>47105-202</MPN>
@@ -3476,7 +3356,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<URL>https://www.skroutz.gr/s/4707546/Ktima-Kosta-Lazaridi-Krasi-Chateau-Julia-Merlot-Erythro-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004707/4707546/xlarge_20211026085235_ktima_kosta_lazaridi_krasi_erythro_xiro_chateau_julia_750ml.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/059323/59323115/xlarge_20220421173551_65b877bb.jpeg</Additional_Image>
-		<Price>17.2</Price>
+		<Price>16.49</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
 		<MPN>47105-301</MPN>
@@ -3502,42 +3382,6 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<MPN>47105-501</MPN>
 		<Description>Το βαλσάμικο ξίδι Botanico Red Seal της εταιρίας Κτήμα Κώστα Λαζαρίδη χαρακτηρίζεται από την υψηλή συμπύκνωση και τα πολύπλοκα αρώματα. Έχει συμπαγή, σκούρα απόχρωση και πλούσιο άρωμα καφέ, σταφίδας και φρούτων. Είναι πυκνό και λιπαρό με την εντύπωση της οξύτητας να υποχωρεί και τη συμπυκνωμένη γλύκα να κερδίζει έδαφος.</Description>
 		<Quantity>52</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47106101</SKU>
-		<EAN>5203708400379</EAN>
-		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4707555/Nico-Lazaridi-Krasi-Magiko-Vouno-Sauvignon-Blanc-Leyko-Xiro-750ml.html</URL>
-		<Image>https://a.scdn.gr/images/sku_main_images/053664/53664020/xlarge_20240521163835_nico_lazaridi_krasi_magiko_vouno_sauvignon_blanc_leyko_xiro_750ml_5203708400379.jpeg</Image>
-		<Price>15.75708145</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Nico Lazaridi</Manufacturer>
-		<MPN>1527001</MPN>
-		<Description>Το Μαγικό Βουνό παράγεται από Sauvignon Blanc, από την πρώτη του κυκλοφορία το 1993 και ως σήμερα, θεωρείται ένα προϊόν που χαρακτηρίζει την ποιότητα της Nico Lazaridi. Διαθέτει διαυγές κιτρινοπράσινο χρώμα. Στην μύτη, υπέροχα αρώματα καλοκαιρινών εξωτικών φρούτων όπως πεπόνι, μάνγκο και ώριμο κίτρο δένουν αρμονικά με τα αρώματα των ξηρών καρπών και της βανίλιας που γεννιούνται από την παραμονή του οίνου για 6 μήνες σε δρύινα βαρέλια παρουσία οινολασπών. Γεμάτο και λιπαρό στόμα σε απόλυτη ισορροπία με την οξύτητα. Μακρά επίγευση με νότες μπριός και ξηρών καρπών. Συνοδεύει θαλασσινά, λιπαρά ψάρια, καπνιστό σολομό, λευκά κρέατα και πουλερικά με ελαφρές σάλτσες. 
-
-Τύπος: Οίνος Λευκός Ξηρός.
-
-Κατηγορία: Προστατευόμενη Γεωγραφική Ένδειξη Αγορά.
-
-Ποικιλίες: Sauvignon Blanc 100%.
-
-Αμπελώνες: Αγοράς, Πηγαδίων &amp; Αδριανής
-
-Οινοποίηση– Ωρίμαση: Οι θερμοκρασίες ζύμωσης διαφέρουν για κάθε αγροτεμάχιο. Ωριμάζει σε επιλεγμένα δρύινα βαρέλια για 6 μήνες με τις λεπτές οινολάσπες, εφαρμόζοντας batonnage.
-
-Οινολογικές Αναλύσεις:
-Αλκοολικός Τίτλος : 12.5% .
-Ολική Οξύτητα: 5,8 g/l
-Ανάγοντα Σάκχαρα: 1,9 g/l
-
-Οργανοληπτικά Χαρακτηριστικά: Διαυγές κίτρινο χρώμα. Έντονη μύτη με αρώματα από τροπικά και εσπεριδοειδή φρούτα. Θειολικές νότες που δένουν αρμονικά με νότες βανίλιας και γλυκών μπαχαρικών που προέρχονται από την εξάμηνη παραμονή σε δρύινα βαρέλια. Γεμάτο και λιπαρό σώμα, με τραγανή οξύτητα και μακρά επίγευση.
-
-Φύλαξη–Παλαίωση: Από τα λίγα λευκά κρασιά τα οποία αξίζει να παλαιώσετε. Φύλαξη ως και 8 χρόνια. Η εξέλιξη στη φιάλη αναδεικνύει τριτογενή αρώματα με αποξηραμένα φρούτα, μαρμελάδα ροδάκινο, νότες μελιού, ξηρούς καρπούς, ginger και καραμέλα.
-
-Γευστικό ταίριασμα: Πρόκειται για ένα περίπλοκο οίνο, ο οποίος συνδυάζεται ιδανικά με ένα ευρύ φάσμα γεύσεων. Με πιάτα θαλασσινών, όπως λιπαρά ψάρια, όστρακα, ψητό καλαμάρι αλλά και ζυμαρικά με θαλασσινά. Παράλληλα, είναι ιδανικός συνδυασμός για λευκά κρέατα, όπως πουλερικά και χοιρινό, είτε σκέτα είτε με λευκές σάλτσες. Δοκιμάστε το και με λιπαρό κρέας, όπως κατσίκι και αρνί – χάρη στην υψηλή του οξύτητα δένει αρμονικά με τα λιπαρά αυτά κρέατα. Ιδανικός συνδυασμός και για λευκά φρέσκα αλλά και μέτριας παλαίωσης τυριά. Σερβίρεται στους 10-13°C.
-</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3587,7 +3431,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Name>Nico Lazaridi Κρασί Ντάμα Κούπα Ασύρτικο/Μοσχάτο Αλεξάνδρειας/Chardonnay/Ροδίτης Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712284/Nico-Lazaridi-Krasi-Ntama-Koupa-Leyko-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/004712/4712284/xlarge_20200313165007_nico_lazaridi_ntama_koupa_leyko_750ml.jpeg</Image>
-		<Price>4.9</Price>
+		<Price>4.7</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527003</MPN>
@@ -3668,48 +3512,6 @@ pH: 3.45
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>47106123</SKU>
-		<EAN>5203708130108</EAN>
-		<Name>Nico Lazaridi Κρασί Ρήγας Κούπα Ερυθρό Syrah/Merlot Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4712426/Nico-Lazaridi-Krasi-Rigas-Koupa-Erythro-Xiro-750ml.html</URL>
-		<Image>https://www.chateau-lazaridi.com/wp-content/uploads/2020/04/king-of-hearts-24.png</Image>
-		<Price>5.135150775</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Nico Lazaridi</Manufacturer>
-		<MPN>1527007</MPN>
-		<Description>Ρήγας Κούπα, ερυθρό ξηρός με ρουμπινί χρώμα και πορφυρές ανταύγειες, από τη διεθνής ποικιλία Merlot 85% και τη γηγενής ποικιλία Ξινόμαυρο 15%.
-
-Στη μύτη, έντονα αρώματα κόκκινων φρούτων όπως κεράσι, βατόμουρο και δαμάσκηνο δένουν αρμονικά με το φυτικό χαρακτήρα και τις νύξεις ντομάτας. Στο στόμα, οι γοητευτικές τανίνες και η δροσερή οξύτητα μας ξυπνούν τις αισθήσεις και η αρωματική επίγευση μας ταξιδεύει.
-
-Σερβίρεται στους 16-18˚C. 
-
-Τύπος: Οίνος Ερυθρός Ξηρός.
-
-Κατηγορία: Προστατευόμενη Γεωγραφική Ένδειξη Μακεδονία
-
-Ποικιλίες: Merlot 85%, Ξινόμαυρο 15%.
-
-Καλλιέργεια: Γραμμικοί αμπελώνες εγκατεστημένοι σε μέσης σύστασης εδάφη.
-
-Ημερομηνία τρύγου: Τέλος Σεπτεμβρίου.
-
-Οινοποίηση – Ωρίμανση: Κλασική ερυθρή οινοποίηση.
-
-Οινολογικές Αναλύσεις:
-Αλκοολικός Τίτλος: 12,0 %
-Ολική Οξύτητα: 5,7 g/l
-Ανάγοντα Σάκχαρα: 2,79g/l
-
-Οργανοληπτικά Χαρακτηριστικά: Ένας υπέροχος ερυθρός οίνος με ρουμπινί χρώμα και πορφυρές ανταύγειες από δύο εξαιρετικές ποικιλίες, το κοσμοπολίτικο Merlot και το γηγενές Ξινόμαυρο. Στη μύτη, έντονα αρώματα κόκκινων φρούτων όπως κεράσι, βατόμουρο και δαμάσκηνο δένουν αρμονικά με το φυτικό χαρακτήρα και τις νύξεις ντομάτας. Στο στόμα, οι γοητευτικές τανίνες και η δροσερή οξύτητα μας ξυπνούν τις αισθήσεις και η αρωματική επίγευση μας ταξιδεύει.
-
-Φύλαξη–Παλαίωση: Πίνεται ευχάριστα για τα επόμενα 2-3 χρόνια από τον τρύγο.
-
-Γευστικό ταίριασμα: Σερβίρεται στους 16-18ΟC, συνοδεύοντας ευχάριστα καθημερινές συνταγές και κόκκινα κρέατα, ψητά με γλυκές ή πικάντικες σάλτσες και ποικιλία τυριών.
-</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>47111</SKU>
 		<EAN>5206283100009</EAN>
 		<Name>Ορεινοί Αμπελώνες Λαλίκου Κρασί Joker Μοσχάτο Αλεξάνδρειας Λευκό Ημίξηρο 750ml</Name>
@@ -3749,20 +3551,6 @@ pH: 3.45
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<Quantity>135</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47291102</SKU>
-		<EAN>5214002108038</EAN>
-		<Name>Navitas Winery Κρασί 52 Peaks Chardonnay Λευκό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/31776347/Navitas-Winery-Krasi-52-Peaks-Chardonnay-Leyko-Xiro-750ml.html</URL>
-		<Image>https://d.scdn.gr/images/sku_main_images/031776/31776347/xlarge_20211018164551_navitas_winery_krasi_52_peaks_leyko_xiro_vegan_750ml.jpeg</Image>
-		<Price>17.41</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Navitas Winery</Manufacturer>
-		<MPN>1790003</MPN>
-		<Description>Η σύνθεση των 3 διαφορετικών οινοποιήσεων προσδίδει συμπύκνωση και πολύπλοκο χαρακτήρα που συνδυάζει τα φρουτώδη αρώματα - πράσινο μήλο, κίτρο, πυρηνόκαρπα - με αυτά του βούτυρου, της κρέμας και του ψωμιού. Η φρέσκια αίσθηση της οξύτητας εξισορροπεί το πολυεπίπεδο αρωματικό προφίλ και το λιπαρό, στρογγυλό σώμα. Καλά ενσωτωμένο βαρέλι. Μακρύ τελείωμα. Δυναμική παλαίωσης. Vegan προϊόν!</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3823,7 +3611,7 @@ pH: 3.45
 		<Name>Κτήμα Παυλίδη Κρασί Thema Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/4712536/Ktima-Paylidi-Krasi-Thema-Leyko-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/004712/4712536/20211018112527_ktima_paylidi_thema_leyko_750ml.jpeg</Image>
-		<Price>12.72</Price>
+		<Price>12.17</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΚΤΗΜΑ ΠΑΥΛΙΔΗ</Manufacturer>
 		<MPN>1484</MPN>
@@ -4013,7 +3801,7 @@ pH: 3.45
 		<Name>Κτήμα Τέχνη Οίνου Κρασί Τέχνη Αλυπίας Cabernet Sauvignon/Merlot/Nebbiolo/Sangiovese/Syrah Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/27080615/Ktima-Techni-Oinou-Krasi-Techni-Alypias-Roze-Xiro-750ml.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/027080/27080615/xlarge_20210311132254_ktima_techni_oinou_krasi_roze_xiro_techni_alypias_750ml.jpeg</Image>
-		<Price>11.92</Price>
+		<Price>10.9</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>Κτήμα Τέχνη Οίνου</Manufacturer>
 		<MPN>1789001</MPN>
@@ -4021,20 +3809,6 @@ pH: 3.45
 
 Απολαυστικά φρέσκια η μύτη όπου ξεχωρίζει εύκολα η αρωματική παλέτα της ώριμης φράουλας, του βατόμουρου και του βύσσινου. Στο στόμα πλούσια δομή, δύναμη και δροσιστική οξύτητα.</Description>
 		<Quantity>9</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>47762121</SKU>
-		<EAN>5200101710708</EAN>
-		<Name>Μικρό Κτήμα Τίτου Κρασί Γουμένισσα Ξινόμαυρο/Νεγκόσκα Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/31773118/Ktima-Vivlia-CHora-Krasi-Goumenissa-Mikro-Ktima-Titou-Erythro-Xiro-750ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/031773/31773118/xlarge_20211018161819_ktima_vivlia_chora_krasi_goumenissa_mikro_ktima_titou_erythro_xiro_750ml.jpeg</Image>
-		<Price>12.35</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Κτήμα Βιβλία Χώρα</Manufacturer>
-		<MPN>1791</MPN>
-		<Description>Το 2018 το Κτήμα Βιβλία Χώρα, του Βαγγέλη Γεροβασιλείου και του Βασίλη Τσακτσαρλή ‘φτάνει’ στην Γουμένισσα και αξιοποιεί το Κτήμα Ευτυχίδη με σκοπό την παραγωγή εξαιρετικών κρασιών ΠΟΠ Γουμένισσα. Το πρώτο κρασί του οινοποιείου είναι μία υπέροχη έκφραση του Ξινόμαυρου και της Νεγκόσκας με βάθος φρούτου, φινέτσα και πολύ όμορφα δουλεμένες τανίνες.</Description>
-		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4094,26 +3868,12 @@ pH: 3.45
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>47889201</SKU>
-		<EAN>5202548507101</EAN>
-		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Syrah/Λημνιώνα Ροζέ Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/4774768/Tsililis-Viologiko-Krasi-Theopetra-Estate-Roze-Xiro-750ml.html</URL>
-		<Image>https://c.scdn.gr/images/sku_main_images/004774/4774768/xlarge_20200314141219_tsililis_ktima_theopetra_750ml.jpeg</Image>
-		<Price>9.95</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>1339002</MPN>
-		<Description>Ένα από τα καλύτερα ροζέ κρασιά που δοκιμάσαμε φέτος. Το κτήμα Θεόπετρα συνδυάζει Λημνιώνα και Syrah, προσφέροντας αρώματα κερασιού και φράουλας με καραμελένιες αποχρώσεις. Έχει υπέροχο γευστικό στόμα, με τραγανή οξύτητα και γλυκιά επίγευση.</Description>
-		<Quantity>0</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
 		<SKU>47889202</SKU>
 		<EAN>5202548507118</EAN>
 		<Name>Τσιλιλής Βιολογικό Κρασί Κτήμα Θεόπετρα Ξινόμαυρο Ροζέ Ξηρό 750ml</Name>
 		<URL>https://www.skroutz.gr/s/18928621/Tsililis-Viologiko-Krasi-Theopetra-Estate-Xinomayro-Roze-Xiro-750ml.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/018928/18928621/xlarge_20200804102238_tsililis_theopetra_xinomayro_roze_750ml.jpeg</Image>
-		<Price>11.63</Price>
+		<Price>9.9</Price>
 		<Category>Κρασιά</Category>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>1339001</MPN>
@@ -4204,27 +3964,6 @@ pH: 3.45
 
 Με έντονη μύτη που παραπέμπει σε λευκά λουλούδια, μικρά κόκκινα μούρα, φρεσκοκομμένες φράουλες και ώριμα Morello κεράσια. Στόμα στρογγυλό και απαλό με αρώματα κερασιού, άγριας φράουλας και με ίχνη αλμύρας. Είναι ισορροπημένο, διαρκές και έχει απαλό τελείωμα. Σερβίρεται στους 10-12˚C και ταιριάζει με κάθε μεσογειακό πιάτο.</Description>
 		<Quantity>36</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>48004</SKU>
-		<EAN>3760214970090</EAN>
-		<Name>Chateau Motte Maucourt Κρασί Cabernet Sauvignon/Merlot Ερυθρό Ξηρό 750ml</Name>
-		<URL>https://www.skroutz.gr/s/15058781/Chateau-Motte-Maucourt-Krasi-Erythro-Xiro-750ml.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/015058/15058781/xlarge_20211018104559_chateau_motte_maucourt_palaiosi_vareli_2014_erythro_750ml.jpeg</Image>
-		<Price>12.73</Price>
-		<Category>Κρασιά</Category>
-		<Manufacturer>Chateau Motte Maucourt</Manufacturer>
-		<MPN>48004-01</MPN>
-		<Description>Το Château Motte Maucourt ανήκει στην ίδια οικογένεια εδώ και έξι γενεές, με ιδιόκτητους αμπελώνες γύρω στα 500 στρέμματα στην καρδιά της περιοχής του Bordeaux.
-
-36 εκτάρια κόκκινων σταφυλιών μας δίνουν αυτό το Βordeaux που αποτελείται από:
-
-65% Merlot
-25% Cabernet Sauvignon
-10% Cabernet Franc
-Με έντονο βαθύ ρουμπινί χρώμα, έχει έντονα αρώματα κόκκινων φρούτων (κερασιού, βατόμουρου) σε συνδυασμό με νότες ξύλου, μέντας και αρώματα μπαχαρικών. Στο στόμα στρογγγυλό και με ευγενικές τανίνες.</Description>
-		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6702,7 +6441,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0241</MPN>
 		<Description>Η οδοντόκρεμα Colgate Triple Action ενδείκνυται για καθημερινή χρήση με τριπλή δράση και μέντα.</Description>
-		<Quantity>500</Quantity>
+		<Quantity>499</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -6730,7 +6469,7 @@ H ρετρό συσκευασία του, απομίμηση μιας φιάλη
 		<Manufacturer>COLGATE</Manufacturer>
 		<MPN>0433</MPN>
 		<Description>Οδοντόκρεμα της Colgate για την καθαριότητα και τη διατήρηση της υγιεινής των δοντιών.</Description>
-		<Quantity>789</Quantity>
+		<Quantity>788</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10391,7 +10130,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1065</Quantity>
+		<Quantity>1058</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -10406,7 +10145,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>745</Quantity>
+		<Quantity>738</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -21593,7 +21332,7 @@ Brand: Viosarp</Description>
 1 x Ράφι ρούχων 
 1 x Κιτ αξεσουάρ 
 1 x Οδηγίες</Description>
-		<Quantity>70</Quantity>
+		<Quantity>69</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22323,7 +22062,7 @@ Barcode
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>CRF21PK50</MPN>
 		<Description>Το σετ από την εταιρία Songmics, αποτελείται από 50 βελούδινες κρεμάστρες, ώστε να αποφεύγεται η ολίσθηση των ρούχων. Διαθέτουν μεταλλικά άγκιστρα, ανθεκτικά στη σκουριά και στη διάβρωση, τα οποία περιστρέφονται κατά 360°, για μεγαλύτερη ευκολία.Το πάχος της κάθε κρεμάστρας είναι μόνο 0.6 cm, δεν σπάει εύκολα και είναι ιδανικές όταν δεν υπάρχει αρκετός χώρος στην ντουλάπα.</Description>
-		<Quantity>74</Quantity>
+		<Quantity>72</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22578,7 +22317,7 @@ Barcode
 		<Description>    Με μεταλλικό σκελετό
     Ξύλινη επιφάνεια mdf
     3 Συρτάρια κλειστής αποθήκευσης</Description>
-		<Quantity>18</Quantity>
+		<Quantity>17</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23122,7 +22861,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
     Με συρτάρι για κοσμήματα
     Μέγεθος προϊόντος: 27 x 20 x 13 cm (Μ x Π x Υ) 
     Βάρος προϊόντος: 1,3 kg</Description>
-		<Quantity>81</Quantity>
+		<Quantity>80</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26059,7 +25798,7 @@ E-4749
 
 Κατάλληλη και για πλύσιμο εσωρούχων στο πλυντήριο.
 Διαστάσεις: 40x19 cm.</Description>
-		<Quantity>947</Quantity>
+		<Quantity>945</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -26430,7 +26169,7 @@ laptop, βιβλία ή σημειώσεις,
 		<URL>https://www.skroutz.gr/s/37929924/Songmics-Grammatokivotio-Exoterikou-CHorou-Metalliko-Anthraki-30-5x9-5x33-3cm-GMB20AG.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/037929/37929924/fixedratio_20220906114350_songmics_grammatokivotio_exoterikou_chorou_metalliko_anthraki_30_5x9_5x33_3cm_gmb20ag.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/GMB20AG/Briefkasten-Wandmontage-GMB20AG-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GMB20AG/Briefkasten-Wandmontage-GMB20AG-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GMB20AG/Briefkasten-Wandmontage-GMB20AG-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GMB20AG/Briefkasten-Wandmontage-GMB20AG-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GMB20AG/Briefkasten-Wandmontage-GMB20AG-6.jpg</Additional_Image>
-		<Price>18.99</Price>
+		<Price>20.65</Price>
 		<Category>Γραμματοκιβώτια</Category>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>GMB20AG</MPN>
@@ -26993,7 +26732,7 @@ Brand: SONGMICS
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>Ε-3762</MPN>
 		<Description>Προστατευτικό γωνίας για την αποτροπή ατυχημάτων από ελαστομερές υλικό σε γκρι ανοιχτό. Η τοποθέτηση γίνεται με αυτοκόλλητη ταινία, εύκολα και γρήγορα. Μη τοξικό.</Description>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28129,7 +27868,7 @@ Brand: SONGMICS
 ℹ️ Σημείωση
 
 Το λάστιχο επεκτείνεται κατά τη χρήση και επανέρχεται στο αρχικό του σχήμα μετά το κλείσιμο του νερού, προσφέροντας τάξη και ευκολία στον χώρο.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -36393,7 +36132,7 @@ LRV08
 		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Μαύρο EOT004M</Name>
 		<URL>https://www.skroutz.gr/s/22606995/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-Altair-EOT004M-Mayro-EOT004M.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022606/22606995/xlarge_20221215132053_esperanza_fakos_led_adiavrochos_me_megisti_foteinotita_46lm_altair_eot004m_black.jpeg</Image>
-		<Price>1.517055150416667</Price>
+		<Price>1.88</Price>
 		<Category>Φακοί Φωτισμού</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EOT004M-1</MPN>
@@ -36414,7 +36153,7 @@ LRV08
 		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Ασημί EOT004M</Name>
 		<URL>https://www.skroutz.gr/s/53414876/Esperanza-EOT004M.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/053414/53414876/xlarge_20241202155301_esperanza_eot004m.jpeg</Image>
-		<Price>1.517055150416667</Price>
+		<Price>1.88</Price>
 		<Category>Φακοί Φωτισμού</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EOT004M-2</MPN>
@@ -36435,7 +36174,7 @@ LRV08
 		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Μπλε EOT004M</Name>
 		<URL>https://www.skroutz.gr/s/53414951/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-EOT004M-Mple.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/053414/53414951/xlarge_20240513141925_esperanza_fakos_led_adiavrochos_me_megisti_foteinotita_46lm_eot004m_blue_black.jpeg</Image>
-		<Price>1.517055150416667</Price>
+		<Price>1.88</Price>
 		<Category>Φακοί Φωτισμού</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EOT004M-3</MPN>
@@ -36456,7 +36195,7 @@ LRV08
 		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Κόκκινο EOT004M</Name>
 		<URL>https://www.skroutz.gr/s/53414948/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-EOT004M-Red.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/053414/53414948/xlarge_20241202161554_esperanza_fakos_led_adiavrochos_me_megisti_foteinotita_46lm_eot004m_red.jpeg</Image>
-		<Price>1.517055150416667</Price>
+		<Price>1.88</Price>
 		<Category>Φακοί Φωτισμού</Category>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EOT004M-4</MPN>
