@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-25 16:05</created_at>
+	<created_at>2026-11-25 16:40</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -9276,7 +9276,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Extra Large</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/8/184222_1.jpg</Image>
-		<Price>3.86</Price>
+		<Price>3.698033715914999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1078</MPN>
@@ -9290,7 +9290,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Large</Name>
 		<URL>https://www.skroutz.gr/s/56686836/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://brolias.com/wp-content/uploads/2023/04/PhotoRoom-20240115_141545.png</Image>
-		<Price>3.86</Price>
+		<Price>3.698033715914999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1079</MPN>
@@ -9304,7 +9304,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Medium</Name>
 		<URL>https://www.skroutz.gr/s/56686835/THalassinos-Gantia-Nitriliou-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://xalkiadakis.gr/products/172914.jpg?v=1675435054</Image>
-		<Price>3.86</Price>
+		<Price>3.698033715914999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080</MPN>
@@ -9318,7 +9318,7 @@ Melaleuca Alternifolia (Tea Tree)
 		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Small</Name>
 		<URL>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023654/23654631/xlarge_20200727130012_thalassinos_nitriliou_powder_free_mayro_100tmch.jpeg</Image>
-		<Price>3.86</Price>
+		<Price>3.698033715914999</Price>
 		<Category>Γάντια μιας Χρήσης</Category>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1080001</MPN>
@@ -14008,7 +14008,7 @@ Barcode: 5206753033363
 		<MPN>0645</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Είναι ιδανικές για χρήση στο μπάρμπεκιου ή το γκριλ. Με τα 3 κιλά αυτών των μπρικετών, μπορείτε να δημιουργήσετε μια σταθερή πηγή θερμότητας για να ψήσετε το αγαπημένο σας φαγητό. Η συσκευασία των 3 κιλών είναι κατάλληλη για μια ευρεία ποικιλία χρήσεων και μπορεί να καλύψει τις ανάγκες σας για μαγείρεμα στον εξωτερικό χώρο.</Description>
-		<Quantity>77</Quantity>
+		<Quantity>80</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14888,7 +14888,7 @@ Camping &amp; εξωτερικές δραστηριότητες
 		<Description>Κορνέ σακούλα 50 Τεμαχίων, φτιαγμένη από καλής ποιότητας πλαστικό.
 Διαστάσεις: 24,50 πλάτος x 36 ύψος cm.
 Ιδανικό για τις ζαχαροπλαστικές σας δημιουργίες.</Description>
-		<Quantity>105</Quantity>
+		<Quantity>104</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16896,7 +16896,7 @@ E-4767
 Χρώμα: Λευκό / Μπλε
 Χρήση: Εσωτερικοί χώροι
 Επαναχρησιμοποιούμενος: Ναι</Description>
-		<Quantity>271</Quantity>
+		<Quantity>270</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16939,7 +16939,7 @@ E-4767
 Χρήση: Εσωτερικοί χώροι
 Κατάλληλο για: Συσκευές συλλογής υγρασίας
 Brand: Viosarp</Description>
-		<Quantity>251</Quantity>
+		<Quantity>247</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18363,7 +18363,7 @@ Brand: Viosarp</Description>
 Συναρμολόγηση χωρίς προβλήματα: Απλοποιήστε τη διαδικασία συναρμολόγησης με τον απλό σχεδιασμό του, χωρίς εργαλεία και βίδες. Απλώς συνδέστε τα εξαρτήματα για να το συναρμολογήσετε, εξοικονομώντας χρόνο και προσπάθεια.
 
 Οργανωμένη αποθήκευση μαχαιροπίρουνων: Αυτή η θήκη πιάτων στον πάγκο της κουζίνας περιλαμβάνει μια θήκη μαχαιροπίρουνων 3 τμημάτων, η οποία μπορεί να αποσπαστεί για ξεχωριστή χρήση. Διευκολύνει την τακτοποιημένη αποθήκευση και την εύκολη πρόσβαση στα κουτάλια, τα πιρούνια και άλλα μικρά σκεύη κουζίνας σας.</Description>
-		<Quantity>34</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18867,13 +18867,13 @@ Brand: Viosarp</Description>
     Ρυθμιζόμενο ύψος (65-89 εκ.)
 
 Γραφείο laptop με λευκό μεταλλικό σκελετό, επιφάνει από ξύλο και ρόδες για εύκολη μεταφορά, πτυσσόμενο με ρυθμιζόμενο ύψος από την εταιρεία Sidirela.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>7700111101</SKU>
 		<EAN>6955880398874</EAN>
-		<Name>Vasagle Γραφείο Ξύλινο με Μεταλλικά Πόδια 120x60x76cm &amp; Βιβλιοθήκη με 4 Ράφια 60x23x120cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα LWD48X</Name>
+		<Name>VASAGLE Γραφείο Υπολογιστή με Πλευρική Βιβλιοθήκη 3 Ραφιών, Αναστρέψιμη Τοποθέτηση Δεξιά ή Αριστερά, Ατσάλινο Σκελετό, Ρυθμιζόμενα Πέλματα, 119,3 × 60 × 120 cm, Industrial Ρουστίκ Καφέ και Μαύρο – LWD48X</Name>
 		<URL>https://www.skroutz.gr/s/29443433/Grafeio-Xylino-me-Vivliothiki-Kafe-me-Metallika-Podia-120x60x120ek-LWD48X.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/029443/29443433/fixedratio_20220427185554_grafeio_xylino_me_metallika_podia_kafe_120x60x120cm_lwd48x.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LWD48XV1/LWD48X-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWD48XV1/LWD48X-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWD48XV1/LWD48X-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWD48XV1/LWD48X-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWD48XV1/LWD48X-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWD48XV1/LWD48X-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWD48XV1/LWD48X-8.jpg </Additional_Image>
@@ -18908,7 +18908,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>770011111</SKU>
 		<EAN>0194343299464</EAN>
-		<Name>Vasagle Μεταλλικό Γραφείο με ρυθμιζόμενα πόδια σε Μαύρο/Καφέ 100x50x76cm LWD041K01</Name>
+		<Name>VASAGLE Γραφείο Υπολογιστή και Μελέτης 100 × 50 × 76 cm με Ατσάλινο Σκελετό, Ρυθμιζόμενα Πέλματα, Μέγιστη Αντοχή 50 kg, Minimal Industrial Σχεδιασμό, Καφέ και Μαύρο – LWD041K01</Name>
 		<URL>https://www.digitec.ch/en/s1/product/vasagle-claire-100-x-50-x-76-cm-desks-57573367</URL>
 		<Image>https://static02.galaxus.com/productimages/1/3/0/9/7/9/9/5/5/6/4/1/3/6/8/7/0/2/8bbc759d-67b8-4f96-991c-014943acc50e.jpg_480.avif</Image>
 		<Additional_Image>https://static02.galaxus.com/productimages/2/5/3/7/3/6/9/9/3/3/4/1/2/4/9/0/8/5/7/9b461b03-927d-44ce-8989-afec087ee2db.jpg_480.avif https://static02.galaxus.com/productimages/7/1/6/7/6/2/0/7/7/0/1/0/6/1/7/2/7/7/1/4ba5d76f-e321-4bcf-90c9-3ac1378afb20.jpg_480.avif https://static02.galaxus.com/productimages/3/1/8/9/1/8/1/1/1/4/9/1/4/9/5/0/1/5/7/1745d645-7ccb-46fb-be6c-a764f7de8226.jpg_480.avif https://static02.galaxus.com/productimages/8/7/2/1/1/2/8/3/8/5/5/5/6/8/5/4/3/2/6/49897dfa-653f-49c0-a430-c7c3d8d5c876.jpg_480.avif https://static02.galaxus.com/productimages/5/2/5/3/4/6/1/0/7/3/2/6/1/7/2/3/3/2/0/3fdfa3a4-268b-4f1e-a791-d6b687c8f3e8.jpg_480.avif</Additional_Image>
@@ -18935,7 +18935,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>770011121</SKU>
 		<EAN>6955880359028</EAN>
-		<Name>Vasagle Γωνιακό Γραφείο Μεταλλικό/Ξύλινο σε Μαύρο/ Ρουστίκ Καφέ Χρώμα με Θέση Υπολογιστή 138x138x75cm LWD72XV1</Name>
+		<Name>VASAGLE Γωνιακό Γραφείο Υπολογιστή σε Σχήμα L 138 × 138 × 75 cm με 2 Ράφια Αποθήκευσης, Αφαιρούμενο Ράφι για Πύργο PC, Ατσάλινο Σκελετό, Ρυθμιζόμενα Πέλματα, Μέγιστο Φορτίο 50 kg, Ρουστίκ Καφέ και Μαύρο – LWD72XV1</Name>
 		<URL>https://www.skroutz.gr/s/54000697/Goniako-Grafeio-Xylino-Roustik-Kafe-Mayro-me-Metallika-Podia-138x138x75ek-LWD72X.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/054000/54000697/fixedratio_20240530123706_goniako_grafeio_ypologisti_xylino_me_metallika_podia_black_138x138x75ek_lwd72x.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/097805/97805473/fixedratio_20240610093143_0635c652.jpeg</Additional_Image>
@@ -18961,7 +18961,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700111301</SKU>
 		<EAN>0194343034768</EAN>
-		<Name>Songmics Ηλεκτρικό Γραφείο Ξύλινο με Μεταλλικά Πόδια &amp; Ρυθμιζόμενο Ύψος (λειτουργία μνήμης με 4 ύψη) 120x60x72-120cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα LSD015X01 / LSD015KD01</Name>
+		<Name>SONGMICS Ηλεκτρικά Ρυθμιζόμενο Γραφείο Υπολογιστή Sit-Stand 120 × 60 cm, Ρύθμιση Ύψους 72–120 cm, 4 Θέσεις Μνήμης, Μέγιστο Φορτίο 80 kg, Με Θήκη Αποθήκευσης και 2 Γάντζους, Αθόρυβη Λειτουργία κάτω από 50 dB, Ρουστίκ Καφέ και Μαύρο – LSD015X01 / LSD015KD01</Name>
 		<URL>https://www.skroutz.gr/s/44371610/Ilektriko-Grafeio-Xylino-Kafe-me-Metallika-Podia-Rythmizomeno-Ypsos-140x60x72ek-LSD016X01.html</URL>
 		<Image>https://www.skroutz.gr/s/44371610/Ilektriko-Grafeio-Xylino-Kafe-me-Metallika-Podia-Rythmizomeno-Ypsos-140x60x72ek-LSD016X01.html</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LSD015X01/LSD015X01-2-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD015X01/LSD015X01-3-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD015X01/LSD015X01-4-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD015X01/LSD015X01-5-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD015X01/LSD015X01-6-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD015X01/LSD015X01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD015X01/LSD015X01-8-de.jpg </Additional_Image>
@@ -18996,7 +18996,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700111302</SKU>
 		<EAN>0194343129754</EAN>
-		<Name>Songmics Ηλεκτρικό Γραφείο Ξύλινο με Μεταλλικά Πόδια &amp; Ρυθμιζόμενο Ύψος (λειτουργία μνήμης με 4 ύψη) 140x60x72-120cm σε Μαύρο Χρώμα LSD134B01 / LSD134BZ01</Name>
+		<Name>SONGMICS Ηλεκτρικά Ρυθμιζόμενο Γραφείο Υπολογιστή Sit-Stand 140 × 60 cm, Ύψος 72–120 cm, 4 Θέσεις Μνήμης, Προστασία από Εμπόδια, Φορτίο 70 kg, Θήκη Αποθήκευσης, Γάντζους και Οργάνωση Καλωδίων, Μαύρο – LSD134B01 / LSD134BZ01</Name>
 		<URL>https://www.skroutz.gr/s/44371610/Ilektriko-Grafeio-Xylino-Kafe-me-Metallika-Podia-Rythmizomeno-Ypsos-140x60x72ek-LSD016X01.html</URL>
 		<Image>https://static.eu.distributor.songmics.com/skuImgs/251223/LSD134BZ01/LSD134BZ01-1.jpg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/skuImgs/251223/LSD134BZ01/LSD134BZ01-2.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LSD134BZ01/LSD134BZ01-3.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LSD134BZ01/LSD134BZ01-4.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LSD134BZ01/LSD134BZ01-5.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LSD134BZ01/LSD134BZ01-6.jpg </Additional_Image>
@@ -19033,7 +19033,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>77001113021</SKU>
 		<EAN>0194343029788</EAN>
-		<Name>Songmics Ηλεκτρικό Γραφείο Ξύλινο με Μεταλλικά Πόδια &amp; Ρυθμιζόμενο Ύψος (λειτουργία μνήμης με 4 ύψη) 140x60x72-120cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα LSD016X01 / LSD016KD01</Name>
+		<Name>SONGMICS Ηλεκτρικά Ρυθμιζόμενο Γραφείο Υπολογιστή Sit-Stand 140 × 60 cm, Ύψος 72–120 cm, 4 Θέσεις Μνήμης, Προστασία από Εμπόδια, Φορτίο 80 kg, Θήκη Αποθήκευσης, 2 Γάντζοι, Ρουστίκ Καφέ και Μαύρο – LSD016X01 / LSD016KD01</Name>
 		<URL>https://www.skroutz.gr/s/44371610/Ilektriko-Grafeio-Xylino-Kafe-me-Metallika-Podia-Rythmizomeno-Ypsos-140x60x72ek-LSD016X01.html?product_id=276241803&amp;sponsored=listing</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/044371/44371610/fixedratio_20230720161046_grafeio_xylino_me_metallika_podia_140x60x72ek_lsd016x01.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LSD016X01/LSD016X01-2-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD016X01/LSD016X01-3-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD016X01/LSD016X01-4-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD016X01/LSD016X01-5-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD016X01/LSD016X01-6-de.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD016X01/LSD016X01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSD016X01/LSD016X01-8-de.jpg </Additional_Image>
@@ -19070,7 +19070,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>770011201</SKU>
 		<EAN>0194343414553</EAN>
-		<Name>Songmics Περιστρεφόμενη Καρέκλα Γραφείου με Ανάκλιση και Ρυθμιζόμενα Μπράτσα Μαύρη OBN37BKV1</Name>
+		<Name>SONGMICS Εργονομική Καρέκλα Γραφείου με Πλάτη Mesh, Ρυθμιζόμενη Οσφυϊκή Υποστήριξη, Αναδιπλούμενα Μπράτσα, Ανάκλιση 90°–105°, Κάθισμα 53 cm, Ρυθμιζόμενο Ύψος 46–54 cm, Ροδάκια με Αυτόματο Φρένο, Αντοχή 120 kg, Μαύρη – OBN37BKV1</Name>
 		<URL>https://www.skroutz.gr/s/58829891/Karekla-Grafeiou-me-Anaklisi-OBN37BKV1-Black-Songmics.html#description</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/058829/58829891/fixedratio_20250218110104_karekla_grafeiou_me_anaklisi_obn37bkv1_black_songmics.jpeg</Image>
 		<Additional_Image>https://www.e-dructer.com/mediastream/w640/files/products/48fd6e13a3e51e165d2dea1a0d893512.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/b416867ce4a1fa706d5b6900dac1fa16.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/634b039eac145e5d4ef95033c402f94f.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/7f03a52b064d50bb3580ddb8ebce1126.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/814ff42ccf46c27650b8ae491de856b5.jpg.webp https://www.e-dructer.com/mediastream/w640/files/products/eaa9b5ae66b4609bdfcfe69f446da035.jpg.webp </Additional_Image>
@@ -19095,7 +19095,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>770011202</SKU>
 		<EAN>06955880357338</EAN>
-		<Name>Songmics Διευθυντική Περιστρεφόμενη Καρέκλα Γραφείου από Εξαιρετικής Ποιότητας Τεχνητό Δέρμα, με Ανάκλιση και Ρυθμιζόμενα Μπράτσα σε Μαύρο ΧρώμαOBG65BK</Name>
+		<Name>Songmics Διευθυντική Εργονομική Καρέκλα Γραφείου Racing με Ψηλή Ανατομική Πλάτη, Επένδυση Συνθετικού Δέρματος PU, Ρυθμιζόμενο Προσκέφαλο 3 Θέσεων, Αναδιπλούμενα Μπράτσα, Ανάκλιση, Ρυθμιζόμενο Ύψος Καθίσματος 45–53 cm, Περιστρεφόμενη Βάση με Ροδάκια, Αντοχή 150 kg, Μαύρη – OBG65BK</Name>
 		<URL>https://www.skroutz.gr/s/32017285/Karekla-Dieythyntiki-me-Anaklisi-OBG65BK-Black-Songmics.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/032017/32017285/fixedratio_20221222162008_karekla_dieythyntiki_me_anaklisi_kai_rythmizomena_mpratsa_obg65bk_black_songmics.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/OBG65BK/OBG65BK1-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OBG65BK/OBG65BK1-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OBG65BK/OBG65BK1-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OBG65BK/OBG65BK1-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OBG65BK/OBG65BK1-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OBG65BK/OBG65BK1-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OBG65BK/OBG65BK1-8.jpg </Additional_Image>
@@ -19144,7 +19144,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700112101</SKU>
 		<EAN>6955880334780</EAN>
-		<Name>Songmics Συρταριέρα Γραφείου Μεταλλική με Ρόδες, Κλειδαριά, 3 Συρτάρια και Ράγες Κρεμάστρας για Αρχειοθέτηση, 52x39x60cm σε Μαύρο Χρώμα OFC60BK</Name>
+		<Name>SONGMICS Μεταλλική Συρταριέρα Γραφείου με 3 Συρτάρια, Κεντρική Κλειδαριά Ασφαλείας, Συρτάρι Αρχείων με Ράγες για Κρεμαστούς Φακέλους Α4, Τροχήλατη με Ροδάκια 360°, Πλήρως Συναρμολογημένο Σώμα, 39 × 52 × 60 cm, Μαύρη – OFC60BK</Name>
 		<URL>https://www.skroutz.gr/s/46937330/Syrtariera-Grafeiou-Metalliki-me-Rodakia-Kleidaria-3-Syrtaria-Mayro-OFC60BK-52x39x60cm.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/083851/83851072/fixedratio_20231023144631_3ffe735b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/OFC60BK/Rollcontainer-3-Schubladen-Schwarz-OFC60BK-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60BK/Rollcontainer-3-Schubladen-Schwarz-OFC60BK-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60BK/Rollcontainer-3-Schubladen-Schwarz-OFC60BK-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60BK/Rollcontainer-3-Schubladen-Schwarz-OFC60BK-6.jpg</Additional_Image>
@@ -19181,7 +19181,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700112102</SKU>
 		<EAN>6955880334797</EAN>
-		<Name>Songmics Συρταριέρα Γραφείου Μεταλλική με Ρόδες, Κλειδαριά, 3 Συρτάρια και Ράγες Κρεμάστρας για Αρχειοθέτηση, 52x39x60cm σε Λευκό Χρώμα OFC60WT</Name>
+		<Name>SONGMICS Μεταλλική Τροχήλατη Συρταριέρα Γραφείου με 3 Συρτάρια, Κεντρική Κλειδαριά, Συρτάρι για Κρεμαστούς Φακέλους, 5 Τροχούς με Φρένα και Αντι-ανατροπική Υποστήριξη, 39 × 52 × 60 cm, Λευκή – OFC60WT</Name>
 		<URL>https://www.skroutz.gr/s/46937329/Syrtariera-Grafeiou-Metalliki-me-Rodakia-Kleidaria-3-Syrtaria-Leyko-OFC60WT-52x39x60cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_images/083850/83850997/fixedratio_20231023144627_0d6f939e.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/OFC60WT/Rollcontainer-3-Schubladen-Weiss-OFC60WT-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60WT/Rollcontainer-3-Schubladen-Weiss-OFC60WT-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60WT/Rollcontainer-3-Schubladen-Weiss-OFC60WT-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60WT/Rollcontainer-3-Schubladen-Weiss-OFC60WT-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60WT/Rollcontainer-3-Schubladen-Weiss-OFC60WT-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60WT/Rollcontainer-3-Schubladen-Weiss-OFC60WT-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/OFC60WT/Rollcontainer-3-Schubladen-Weiss-OFC60WT-8.jpg</Additional_Image>
@@ -19292,7 +19292,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>770011305</SKU>
 		<EAN>6955880305506</EAN>
-		<Name>Vasagle Ξύλινο Ράφι Τοίχου για Γραφείο, Σαλόνι, Υπνοδωμάτιο σε Ρουστίκ Καφέ Χρώμα 80x20x3.8cm LWS28BX</Name>
+		<Name>VASAGLE Επιτοίχιο Ράφι με Κρυφή Στήριξη (Floating Shelf), MDF με Ενσωματωμένη Μεταλλική Στήριξη, Μήκος 80 cm, Διαστάσεις 80 × 20 × 3,8 cm, Αντοχή έως 15 kg, Ρουστίκ Καφέ – LWS28BX</Name>
 		<URL>https://www.skroutz.gr/s/53358967/Rafi-Toichou-Skouro-Kafe-80x20x3-8ek-LWS28BX.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/122827/122827066/fixedratio_20260225150639_70f3213b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LWS28BX/Display-Floating-Shelf-LWS28BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWS28BX/Display-Floating-Shelf-LWS28BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWS28BX/Display-Floating-Shelf-LWS28BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWS28BX/Display-Floating-Shelf-LWS28BX-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWS28BX/Display-Floating-Shelf-LWS28BX-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWS28BX/Display-Floating-Shelf-LWS28BX-7.jpg</Additional_Image>
@@ -19328,7 +19328,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700113101</SKU>
 		<EAN>0194343059280</EAN>
-		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Μαύρο Χρώμα LBC072B01</Name>
+		<Name>VASAGLE Γωνιακή Επιτοίχια Βιβλιοθήκη 5 Επιπέδων με Σχεδιασμό Ζιγκ-Ζαγκ, Ράφια από Μοριοσανίδα με Επένδυση Μελαμίνης, 20 × 20 × 127,5 cm, Μαύρη – LBC072B / LBC20BK</Name>
 		<URL>https://www.skroutz.gr/s/48906277/Goniako-Rafi-Toichou-LBC072B01-Mayro-20x20x127-5ek.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/048906/48906277/fixedratio_20231220132821_goniako_rafi_toichou_lbc072b01_mayro_20x20x127_5ek.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/086694/86694917/fixedratio_20231220132833_6674dbec.jpeg https://d.scdn.gr/images/sku_images/086694/86694881/fixedratio_20231220132823_44d5a3b4.jpeg https://c.scdn.gr/images/sku_images/086694/86694891/fixedratio_20231220132825_9d77b12f.jpeg https://b.scdn.gr/images/sku_images/086694/86694900/fixedratio_20231220132827_a658ad0a.jpeg https://a.scdn.gr/images/sku_images/086694/86694906/fixedratio_20231220132830_f5865061.jpeg https://d.scdn.gr/images/sku_images/086694/86694912/fixedratio_20231220132832_84a7d8eb.jpeg</Additional_Image>
@@ -19363,7 +19363,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700113102</SKU>
 		<EAN>0194343059303</EAN>
-		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Λευκό Χρώμα LBC72WT</Name>
+		<Name>VASAGLE Γωνιακή Βιβλιοθήκη Τοίχου με 5 Ράφια, Σχεδιασμό Ζιγκ-Ζαγκ, Μοριοσανίδα με Επένδυση Μελαμίνης, Διαστάσεις 20 × 20 × 127,5 cm, Λευκή – LBC72WT / LBC20WT</Name>
 		<URL>https://www.skroutz.gr/s/53358347/Goniako-Rafi-Toichou-LBC20WT-White-20x20x127-5ek.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/053358/53358347/fixedratio_20240510105556_goniako_rafi_toichou_songmics_6955880333899_white_20x20x127_5ek.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/095580/95580872/fixedratio_20240510105558_816a545f.jpeg https://d.scdn.gr/images/sku_images/095580/95580881/fixedratio_20240510105600_3981bcfd.jpeg https://a.scdn.gr/images/sku_images/095580/95580905/fixedratio_20240510105607_3dec9e40.jpeg https://a.scdn.gr/images/sku_images/095580/95580921/fixedratio_20240510105608_a1c6593b.jpeg https://b.scdn.gr/images/sku_images/095580/95580930/fixedratio_20240510105610_fee6080b.jpeg https://c.scdn.gr/images/sku_images/095580/95580944/fixedratio_20240510105612_aba49cf4.jpeg</Additional_Image>
@@ -19398,7 +19398,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700113103</SKU>
 		<EAN>0194343030005</EAN>
-		<Name>Vasagle Επιτοίχια Γωνιακή Ραφιέρα από Μέταλλο και Ξύλο με 5 Ράφια για Γραφείο, Σαλόνι, Υπνοδωμάτιο σε Ρουστίκ Καφέ και Μαύρο Χρώμα 20x20x127.5cm LLS851B01</Name>
+		<Name>VASAGLE Γωνιακή Βιβλιοθήκη Τοίχου με 5 Ράφια, Σχεδιασμό Ζιγκ-Ζαγκ, Μεταλλικά Στηρίγματα σε Σχήμα Χ, Μοριοσανίδα και Ατσάλι, 20 × 20 × 127,5 cm, Ρουστίκ Καφέ και Μαύρο – LLS851B01</Name>
 		<URL>https://www.skroutz.gr/s/42927427/Goniako-Rafi-Toichou-Kafe-20x20x127-5ek-LLS851B01.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/122827/122827134/fixedratio_20260225150751_a38e7899.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LLS851B01/LLS851B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS851B01/LLS851B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS851B01/LLS851B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS851B01/LLS851B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS851B01/LLS851B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS851B01/LLS851B01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS851B01/LLS851B01-8.jpg</Additional_Image>
@@ -19435,7 +19435,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700113104</SKU>
 		<EAN>6955880316663</EAN>
-		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Ρουστίκ Καφέ Χρώμα LBC72BX</Name>
+		<Name>VASAGLE Γωνιακή Βιβλιοθήκη Τοίχου με 5 Ράφια, Σχεδιασμό Ζιγκ-Ζαγκ, Μοριοσανίδα με Επένδυση Μελαμίνης, Επιτοίχια Τοποθέτηση, 20 × 20 × 127,5 cm, Ρουστίκ Καφέ –  LBC72BX / LBC20BX</Name>
 		<URL>https://www.skroutz.gr/s/23312890/Goniako-Rafi-Toichou-Kafe-20x20x127-5ek-LBC20BX.html</URL>
 		<Image>https://d.scdn.gr/images/sku_images/122827/122827091/fixedratio_20260225150643_c3d3a325.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-7.jpg </Additional_Image>
@@ -19458,7 +19458,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700113108</SKU>
 		<EAN>6955880387175</EAN>
-		<Name>Vasagle Ξύλινη Βιβλιοθήκη 10 Διαμερισμάτων, Διαχωριστικό δωματίου, Ελεύθερο ράφι, για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 129,5x29x129,5 cm σε Ρουστίκ Καφέ Χρώμα LBC10BX</Name>
+		<Name>VASAGLE Βιβλιοθήκη Δαπέδου 10 Θέσεων με Κλιμακωτό Σχεδιασμό Τύπου Σκάλας, Διαχωριστικό Χώρου από Μοριοσανίδα, 129,5 × 29 × 129,5 cm, Ρουστίκ Καφέ LBC10BX</Name>
 		<URL>https://www.skroutz.gr/s/23795138/Vivliothiki-Kafe-129-5x29x129-5ek-LBC10BX.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/122827/122827900/fixedratio_20260225154704_7cb03b9e.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-6.jpg </Additional_Image>
@@ -19481,7 +19481,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>77001131081</SKU>
 		<EAN>5903332073665</EAN>
-		<Name>Vasagle Ξύλινη Βιβλιοθήκη 10 Διαμερισμάτων, Διαχωριστικό δωματίου, Ελεύθερο ράφι, για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 129,5x29x129,5 cm σε Λευκό Χρώμα LBC10WTV1</Name>
+		<Name>VASAGLE Βιβλιοθήκη Δαπέδου 10 Θέσεων με Κλιμακωτό Σχεδιασμό Τύπου Σκάλας, Διαχωριστικό Χώρου από Μοριοσανίδα, 129,5 × 29 × 129,5 cm, Λευκή LBC10WTV1</Name>
 		<URL>https://www.skroutz.gr/s/23781050/Vivliothiki-Leyko-129-5x29x129-5ek-LBC10WTV1.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/023781/23781050/xlarge_20260218160738_vivliothiki_leyki_129_5x29x129_5ek_lbc10wtv1.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-1.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10WTV1/Stair-Shaped-Cube-Organiser-LBC10WTV1-7.jpg </Additional_Image>
@@ -19516,7 +19516,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700114101</SKU>
 		<EAN>6955880359080</EAN>
-		<Name>Vasagle Βιβλιοθήκη Μεταλλική/Ξύλινη σε Μαύρο/Ρουστίκ Καφέ Χρώμα με 4 Ράφια 74x30x154.5cm LBC12BXV1</Name>
+		<Name>VASAGLE Βιβλιοθήκη Δαπέδου Industrial 4 Επιπέδων με Μεταλλικό Σκελετό και Ράφια από Μοριοσανίδα, 74 × 30 × 154,5 cm, Ρουστίκ Καφέ και Μαύρο LBC12BX</Name>
 		<URL>https://www.skroutz.gr/s/23814753/Vivliothiki-LBC12BX-Kafe-74x30x154-5ek.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/034426/34426597/fixedratio_20200914130909_0f414ee4.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/034426/34426596/fixedratio_20200914130909_0cfc018b.jpeg</Additional_Image>
@@ -19537,7 +19537,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700114102</SKU>
 		<EAN>0194343024370</EAN>
-		<Name>Vasagle Ραφιέρα Δαπέδου από Μέταλλο και Ξύλο με 6 Ράφια για Γραφείο, Σαλόνι, Υπνοδωμάτιο σε Ρουστίκ Καφέ και Μαύρο Χρώμα 40x30x187.5cm LLS101B01</Name>
+		<Name>VASAGLE Βιβλιοθήκη Δαπέδου Industrial 6 Ραφιών με Μαύρο Ατσάλινο Σκελετό, Ράφια από Μοριοσανίδα, Ρυθμιζόμενα Πόδια, 40 × 30 × 187,5 cm, Ρουστίκ Καφέ και Μαύρο LLS101B01</Name>
 		<URL>https://www.skroutz.gr/s/46875768/Rafiera-Dapedou-LLS101B01-Kafe-40x30x187-5ek.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/046875/46875768/fixedratio_20231019101037_rafiera_dapedou_lls101b01_kafe_40x30x187_5ek.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LLS101B01/LLS101B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS101B01/LLS101B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS101B01/LLS101B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS101B01/LLS101B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS101B01/LLS101B01-5.jpg </Additional_Image>
@@ -19575,7 +19575,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700114103</SKU>
 		<EAN>6955880316656</EAN>
-		<Name>Vasagle Ξύλινη Επιδαπέδια Βιβλιοθήκη "Δέντρο" 8 Επιπέδων 50x25x141.5cm σε Ρουστίκ Καφέ Χρώμα LBC11BX</Name>
+		<Name>VASAGLE Βιβλιοθήκη Δαπέδου 8 Ραφιών σε Σχήμα Δέντρου με Κεκλιμένα Ράφια για Βιβλία και Διακοσμητικά, από Μοριοσανίδα, 50 × 25 × 141,5 cm, Ρουστίκ Καφέ LBC11BX</Name>
 		<URL>https://www.skroutz.gr/s/23330637/Vivliothiki-Kafe-50x25x141-5ek-LBC11BX.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/122827/122827081/fixedratio_20260225150641_4359c27b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/Buecherregal-in-Baumform-8-Faecher-LBC11BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/Buecherregal-in-Baumform-8-Faecher-LBC11BX-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/LBC11BX1R3A1303.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11BX/LBC11BX1R3A1438.jpg </Additional_Image>
@@ -19603,13 +19603,13 @@ Brand: Viosarp</Description>
 - 1 x Κιτ συναρμολόγησης
 - 1 x Κιτ προστασίας από ανατροπή
 - 1 x Οδηγίες</Description>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>77001141031</SKU>
 		<EAN>5903332062324</EAN>
-		<Name>Vasagle Ξύλινη Επιδαπέδια Βιβλιοθήκη "Δέντρο" 8 Επιπέδων 50x25x141.5cm σε Λευκό Χρώμα LBC11WTV1</Name>
+		<Name>VASAGLE Βιβλιοθήκη Δαπέδου 8 Ραφιών σε Σχήμα Δέντρου με Κεκλιμένα Ράφια για Βιβλία και Διακοσμητικά, από Μοριοσανίδα, 50 × 25 × 141,5 cm, Λευκή Cloud White LBC11WTV1</Name>
 		<URL>https://www.skroutz.gr/s/23797081/Vivliothiki-Leyko-50x25x141-5ek-LBC11WTV1.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/023797/23797081/xlarge_20260225161012_vivliothiki_white_50x25x141_5ek_lbc11wtv1.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC11WTV1/Buecherregal-in-Baumform-8-Ebenen-LBC11WTV1-7.jpg </Additional_Image>
@@ -19645,7 +19645,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700114104</SKU>
 		<EAN>5903332063680</EAN>
-		<Name>Vasagle Μεταλλική Επιδαπέδια Ραφιέρα-Βιβλιοθήκη 5 Επιπέδων με Σκληρυμένα Γυάλινα Ράφια Μ40xΠ30xΥ124.5cm σε Χρυσό Χρώμα LGT029A01</Name>
+		<Name>VASAGLE Ραφιέρα Δαπέδου 5 Επιπέδων με Ράφια από Σκληρυμένο Γυαλί και Χρυσό Ατσάλινο Σκελετό, Ρυθμιζόμενα Πόδια, 40 × 30 × 124,5 cm, LGT029A01</Name>
 		<URL>https://www.skroutz.gr/s/42937266/Vivliothiki-CHrysi-40x30x124-5ek-LGT029A01.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/122827/122827907/fixedratio_20260225154705_a9f1419d.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-2-1.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-7ou.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-8.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LGT029A01/LGT029A01-9.jpg </Additional_Image>
@@ -19682,7 +19682,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700114106</SKU>
 		<EAN>6955880334056</EAN>
-		<Name>Vasagle Επιδαπέδια Γωνιακή Ραφιέρα από Μέταλλο και Ξύλο με 4 Ράφια για Γραφείο, Σαλόνι, Υπνοδωμάτιο σε Ρουστίκ Καφέ και Μαύρο Χρώμα 34x34x125cm LLS34X</Name>
+		<Name>VASAGLE Γωνιακή Ραφιέρα Δαπέδου Industrial 4 Επιπέδων με Ράφια σε Σχήμα Βεντάλιας από Μοριοσανίδα και Μαύρο Ατσάλινο Σκελετό, Ρυθμιζόμενο Πόδι, 34 × 34 × 125 cm, Ρουστίκ Καφέ και Μαύρο LLS34X</Name>
 		<URL>https://www.skroutz.gr/s/24233953/Goniaki-Vivliothiki-Kafe-34x34x125ek-LLS34X.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/122827/122827094/fixedratio_20260225150643_e0a969d3.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/Industrie-Design-Eckregal-4-Ablagen-LLS34X-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/Industrie-Design-Eckregal-4-Ablagen-LLS34X-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/Industrie-Design-Eckregal-4-Ablagen-LLS34X-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/Industrie-Design-Eckregal-4-Ablagen-LLS34X-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/Industrie-Design-Eckregal-4-Ablagen-LLS34X-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/LLS34XV1-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/LLS34XV1-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/LLS34XV1-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/LLS34XV1-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/LLS34XV1-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS34XV1/LLS34XV1-8.jpg</Additional_Image>
@@ -19719,7 +19719,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700114107</SKU>
 		<EAN>0194343023113 </EAN>
-		<Name>Vasagle Επιδαπέδια Γωνιακή Ραφιέρα από Μέταλλο και Ξύλο με 5 Ράφια για Γραφείο, Σαλόνι, Υπνοδωμάτιο σε Ρουστίκ Καφέ και Μαύρο Χρώμα 30x30x150cm LLS803B01</Name>
+		<Name>VASAGLE Γωνιακή Ραφιέρα Δαπέδου Industrial 5 Ραφιών με Μαύρο Ατσάλινο Σκελετό, Ρυθμιζόμενα Πόδια και Ράφια από Μοριοσανίδα, 30 × 30 × 150 cm, Ρουστίκ Καφέ και Μαύρο LLS803B01</Name>
 		<URL>https://www.skroutz.gr/s/37947857/Goniaki-Vivliothiki-Kafe-30x30x150ek-LLS803B01.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/122827/122827067/fixedratio_20260225150640_d1d4219b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LLS803B01/LLS803B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS803B01/LLS803B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS803B01/LLS803B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS803B01/LLS803B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS803B01/LLS803B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LLS803B01/LLS803B01-7-eu.jpg</Additional_Image>
@@ -19755,7 +19755,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120801</SKU>
 		<EAN>0194343411460</EAN>
-		<Name>Vasagle Έπιπλο Εισόδου με Καθρέπτη / Κρεμάστρα &amp; Παπουτσοθήκη 98x36x185cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR050B0 (HSR415B01)</Name>
+		<Name>VASAGLE Έπιπλο Εισόδου 4 σε 1 με Κρεμάστρα 9 Γάντζων, Ολόσωμο Καθρέφτη, Παπουτσοθήκη 2 Μεταλλικών Ραφιών και Πάγκο Καθίσματος, 98 × 36 × 185 cm, Ρουστίκ Καφέ και Μαύρο HSR050B01V1 / HSR415B01</Name>
 		<URL>https://www.skroutz.gr/s/57572672/Epiplo-Eisodou-me-Kathrepti-Kremastra-Papoutsothiki-Kafe-mayro-98x36x185ek-HSR050B01.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/057572/57572672/fixedratio_20241120160601_epiplo_eisodou_me_kathrepti_kremastra_papoutsothiki_kafe_mayro_98x36x185ek_hsr050b01.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/104743/104743730/fixedratio_20241120160631_fa21ecfa.jpeg https://b.scdn.gr/images/sku_images/104743/104743681/fixedratio_20241120160607_c167f5ad.jpeg https://a.scdn.gr/images/sku_images/104743/104743700/fixedratio_20241120160616_c4b144e9.jpeg https://a.scdn.gr/images/sku_images/104743/104743718/fixedratio_20241120160622_2fda9596.jpeg https://a.scdn.gr/images/sku_images/104743/104743727/fixedratio_20241120160627_17e6c9a4.jpeg https://b.scdn.gr/images/sku_images/104743/104743735/fixedratio_20241120160636_c332c7b9.jpeg</Additional_Image>
@@ -19781,7 +19781,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120802</SKU>
 		<EAN>0194343028965</EAN>
-		<Name>Vasagle Έπιπλο Εισόδου με Κρεμάστρα &amp; Παπουτσοθήκη 85x30x180.5cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR409B01</Name>
+		<Name>VASAGLE Έπιπλο Εισόδου με Κρεμάστρα 9 Αφαιρούμενων Γάντζων, Επάνω Ράφι, Πάγκο Καθίσματος και Παπουτσοθήκη 2 Μεταλλικών Ραφιών, Ρυθμιζόμενα Πόδια, 85 × 30 × 180,5 cm, Ρουστίκ Καφέ και Μαύρο HSR409B01</Name>
 		<URL>https://www.skroutz.gr/s/42869932/Epiplo-Eisodou-me-Kremastra-Papoutsothiki-85x30x180-5ek-HSR409B01.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/042869/42869932/fixedratio_20230612122435_epiplo_eisodou_me_kremastra_papoutsothiki_pagaki_85x30x180_5ek_hsr409b01.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR409B01/UHSR409B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR409B01/UHSR409B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR409B01/UHSR409B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR409B01/UHSR409B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR409B01/UHSR409B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR409B01/UHSR409B01-7.jpg</Additional_Image>
@@ -19825,7 +19825,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120803</SKU>
 		<EAN>0194343191393</EAN>
-		<Name>Vasagle Έπιπλο Εισόδου με Κρεμάστρα, Παπουτσοθήκη και 5 Ράφια Αποθήκευσης 120x40x190cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR426KD01</Name>
+		<Name>VASAGLE Πολυλειτουργικό Έπιπλο Εισόδου 4 σε 1 με Κρεμάστρα 9 Τριπλών Γάντζων και 6 Πλευρικών, Πάγκο Καθίσματος, Παπουτσοθήκη και 5 Ράφια Αποθήκευσης, Μεταλλικό Σκελετό, 120 × 40 × 190 cm, Ρουστίκ Καφέ και Μαύρο HSR426B01</Name>
 		<URL>https://www.skroutz.gr/s/55730559/Vasagle-Hall-Tree-Bench-Shoe-Storage-Hallway-Coat-Rack-Shoe-Bench-5-Storage-Shelves-9-Coat-Hooks-6-Side-Hooks-140-X-120-X-190-Cm-Vintage-Brown-Ink-Black-Hsr426b01.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/108103/108103706/fixedratio_20250314165410_111faa58.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR426B01/HSR426B01-8.jpg </Additional_Image>
@@ -19862,7 +19862,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120804</SKU>
 		<EAN>6955880359103</EAN>
-		<Name>Vasagle Έπιπλο Εισόδου με Κρεμάστρα &amp; Παπουτσοθήκη 100x41.5x182cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR47BX</Name>
+		<Name>VASAGLE Πολυλειτουργικό Έπιπλο Εισόδου Industrial με Κρεμάστρα 9 Γάντζων, Μεταλλική Μπάρα Ανάρτησης 100 cm, Πάγκο και Παπουτσοθήκη 2 Μεταλλικών Ραφιών, Ατσάλινο Σκελετό, 100 × 41,5 × 182 cm, Ρουστίκ Καφέ και Μαύρο HSR47BX</Name>
 		<URL>https://www.skroutz.gr/s/24169715/Epiplo-Eisodou-me-Kremastra-Papoutsothiki-Mayro-Kafe-100x41-5x182ek-HSR47BX.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024169/24169715/fixedratio_20200727184628_vasagle_metalliko_epiplo_eisodou_me_3_rafia_kai_9_diples_kremastres_100_x_182_x_41_5_cm_hsr47bx.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-7-ou.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-8.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR47BX/HSR47BX-9.jpg</Additional_Image>
@@ -19902,7 +19902,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120805</SKU>
 		<EAN>6955880302680</EAN>
-		<Name>Vasagle Έπιπλο Εισόδου με Κρεμάστρα &amp; Παπουτσοθήκη 80x32x178.5cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR45BX</Name>
+		<Name>VASAGLE Πολυλειτουργικό Έπιπλο Εισόδου Industrial με Κρεμάστρα 5 Διπλών Γάντζων, Επάνω Ράφι, Πάγκο και Παπουτσοθήκη 2 Μεταλλικών Ραφιών, Ρυθμιζόμενα Πόδια, 80 × 32 × 178,5 cm, Ρουστίκ Καφέ και Μαύρο HSR45BX</Name>
 		<URL>https://www.skroutz.gr/s/22142377/Epiplo-Eisodou-me-Kremastra-Papoutsothiki-80x32x178-5ek-HSR45BX.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022142/22142377/fixedratio_20200226134839_80x32x178_5cm_hsr45bx.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR45BX/HSR45BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR45BX/HSR45BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR45BX/HSR45BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR45BX/HSR45BX-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR45BX/HSR45BX-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR45BX/HSR45BX-7.jpg</Additional_Image>
@@ -19936,7 +19936,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120806</SKU>
 		<EAN>6955880328475</EAN>
-		<Name>Vasagle Έπιπλο Εισόδου με Κρεμάστρα &amp; Παπουτσοθήκη 72x33.7x183cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR40B</Name>
+		<Name>VASAGLE Πολυλειτουργικό Έπιπλο Εισόδου Industrial 4 σε 1 με Κρεμάστρα 9 Αφαιρούμενων Γάντζων, Επάνω Μπάρα Ανάρτησης, Πάγκο Καθίσματος και Παπουτσοθήκη 2 Μεταλλικών Ραφιών, 72 × 33,7 × 183 cm, Ρουστίκ Καφέ και Μαύρο HSR40B</Name>
 		<URL>https://www.skroutz.gr/s/32853137/Epiplo-Eisodou-me-Kremastra-Papoutsothiki-Mayro-72x33-7x183ek-HSR40B.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/032853/32853137/xlarge_20260423173300_epiplo_eisodou_me_kremastra_papoutsothiki_mayro_72by33_7x183ek_hsr40b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR40B/Industriestil-Garderobe-&amp;-Sitzbank-HSR40B-7.jpg</Additional_Image>
@@ -20002,7 +20002,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120901</SKU>
 		<EAN>6955880357499</EAN>
-		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο/Καφέ 80x30x48cm LBS75X</Name>
+		<Name>VASAGLE Παπουτσοθήκη με Πάγκο Καθίσματος και Αφαιρούμενο Μαύρο Μαξιλάρι από Συνθετικό Δέρμα PU, 2 Μεταλλικά Ράφια με Λεπτό Πλέγμα, Ατσάλινο Σκελετό και Ρυθμιζόμενα Πόδια, 80 × 30 × 48 cm, Ρουστίκ Καφέ και Μαύρο LBS75X</Name>
 		<URL>https://www.skroutz.gr/s/23281399/Epiplo-Eisodou-me-Papoutsothiki-Pagaki-Mayro-Kafe-80x30x48ek-LBS75X.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023281/23281399/fixedratio_20250314165410_epiplo_eisodou_me_papoutsothiki_pagaki_mayro_kafe_80x30x48ek_lbs75x.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/108103/108103660/fixedratio_20250314165409_8c985615.jpeg https://a.scdn.gr/images/sku_images/032555/32555525/fixedratio_20200522104506_4dc6e487.jpeg https://b.scdn.gr/images/sku_images/032555/32555527/fixedratio_20200522104506_04df98ed.jpeg</Additional_Image>
@@ -20034,7 +20034,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>77001209011</SKU>
 		<EAN>0194343195247</EAN>
-		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Χρώμα Καραμέλα 80x30x50cm LSB054KN01</Name>
+		<Name>VASAGLE EKHO Παπουτσοθήκη με Πάγκο Καθίσματος, Αναπαυτικό Μαξιλάρι 8 cm από Αφρό 25D και Συνθετικό Δέρμα PU, 2 Μεταλλικά Ράφια, Ατσάλινο Σκελετό και Ρυθμιζόμενα Πόδια, Αντοχή 135 kg, 80 × 30 × 50 cm, Καραμελέ Καφέ και Μαύρο LSB054K01</Name>
 		<URL>https://www.skroutz.gr/s/49146605/Metalliki-Papoutsothiki-me-2-Rafia-Kafe-M80xP30xY50cm-LSB054K01.html</URL>
 		<Image>https://a.scdn.gr/images/sku_images/123122/123122388/fixedratio_20260304155942_5a9af6e8.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LSB054K01/LSB054K01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSB054K01/LSB054K01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSB054K01/LSB054K01-4-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSB054K01/LSB054K01-5-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSB054K01/LSB054K01-6-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSB054K01/LSB054K01-7-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSB054K01/LSB054K01-8-DE.jpg </Additional_Image>
@@ -20068,7 +20068,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120902</SKU>
 		<EAN>0194343195223</EAN>
-		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο Χρώμα 80x30x50cm LSB054B01 / LSB054BH01</Name>
+		<Name>VASAGLE EKHO Παπουτσοθήκη με Πάγκο Καθίσματος, Αναπαυτικό Μαξιλάρι 8 cm από Αφρό 25D και Συνθετικό Δέρμα PU, 2 Μεταλλικά Ράφια, Ατσάλινο Σκελετό και Ρυθμιζόμενα Πόδια, Αντοχή 135 kg, 80 × 30 × 50 cm, Μαύρο LSB054B01</Name>
 		<URL>https://www.skroutz.gr/s/49146606/Metalliki-Papoutsothiki-me-2-Rafia-Mayri-M80xP30xY50cm-LSB054B01.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/049146/49146606/fixedratio_20240109094736_metalliki_papoutsothiki_80x30x50cm_lsb054b01.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-3.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-4.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-5.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-6.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-7.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-8.jpg https://static.eu.distributor.songmics.com/products/LSB054B01/LSB054B01-9.jpg </Additional_Image>
@@ -20103,7 +20103,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120904</SKU>
 		<EAN>0194343045085</EAN>
-		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 4 Ράφια και Μεγάλη Ξύλινη Επιφάνεια για Τσάντες, Κατάλληλη για Είσοδο, Διάδρομο, Μ75xΠ28xΥ93cm, Ρουστίκ Καφέ και Μαύρο LBS038KD02</Name>
+		<Name>VASAGLE Παπουτσοθήκη 5 Επιπέδων για 20–25 Ζευγάρια με 4 Ρυθμιζόμενα Μεταλλικά Ράφια Οριζόντιας ή Επικλινούς Τοποθέτησης και Μεγάλη Ξύλινη Επιφάνεια, Ατσάλινο Σκελετό, 75 × 28 × 93 cm, Ρουστίκ Καφέ και Μαύρο LBS038B01</Name>
 		<URL>https://www.skroutz.gr/s/37918101/Metalliki-Papoutsothiki-me-5-Rafia-Mayri-M75xP28xY93cm-LBS038B01.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/037918/37918101/fixedratio_20220905164014_metalliki_papoutsothiki_me_5_rafia_mayri_75x28x93cm_lbs038b01.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/063915/63915676/fixedratio_20220906094055_fb1a1c27.jpeg https://d.scdn.gr/images/sku_images/063915/63915683/fixedratio_20220906094056_4de20381.jpeg https://d.scdn.gr/images/sku_images/063915/63915677/fixedratio_20220906094056_5730ad41.jpeg https://c.scdn.gr/images/sku_images/063915/63915679/fixedratio_20220906094056_b748e237.jpeg</Additional_Image>
@@ -20141,7 +20141,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120905</SKU>
 		<EAN>0194343234151</EAN>
-		<Name>Vasagle Μεταλλική Παπουτσοθήκη και Ξύλινο Κάθισμα με 2 Ράφια, Τριών Επιπέδων Κατάλληλη για Είσοδο, Σαλόνι, Διάδρομο, Μ73xΠ30xΥ45cm, Ρουστίκ Καφέ και Μαύρο LBS73X</Name>
+		<Name>VASAGLE BRYCE Παπουτσοθήκη με Πάγκο Καθίσματος, 2 Μεταλλικά Ράφια με Πλέγμα, Ατσάλινο Σκελετό, Χωρητικότητα 6–8 Ζευγαριών και Αντοχή Καθίσματος 90 kg, 73 × 30 × 45 cm, Ρουστίκ Καφέ και Μαύρο LBS73X</Name>
 		<URL>https://www.skroutz.gr/s/22916529/Metalliki-Papoutsothiki-me-2-Rafia-Mayri-M73xP30xY45cm-LBS73X.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/022916/22916529/fixedratio_20200424170537_papoutsothiki_lbs73x_73x30x45cm.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/052372/52372142/fixedratio_20211115131208_84746245.jpeg https://a.scdn.gr/images/sku_images/052372/52372116/fixedratio_20211115131208_13870913.jpeg https://b.scdn.gr/images/sku_images/039598/39598849/fixedratio_20210216141641_b644a111.jpeg https://c.scdn.gr/images/sku_images/039598/39598848/fixedratio_20210216141641_2525ac82.jpeg https://b.scdn.gr/images/sku_images/039598/39598845/fixedratio_20210216141641_63556a47.jpeg</Additional_Image>
@@ -20177,7 +20177,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120906</SKU>
 		<EAN>3025074803040</EAN>
-		<Name>Vasagle Μεταλλική Παπουτσοθήκη και Ξύλινο Κάθισμα με 2 Ράφια, Τριών Επιπέδων Κατάλληλη για Είσοδο, Σαλόνι, Διάδρομο, Μ80xΠ30xΥ44.5cm, Ρουστίκ Καφέ και Μαύρο LBS74X</Name>
+		<Name>VASAGLE INDESTIC Παπουτσοθήκη με Πάγκο Καθίσματος, 2 Μεταλλικά Ράφια με Πυκνό Πλέγμα, Ατσάλινο Σκελετό και Ρυθμιζόμενα Πόδια, Αντοχή Καθίσματος 90 kg, 80 × 30 × 44,5 cm, Ρουστίκ Καφέ και Μαύρο LBS74X</Name>
 		<URL>https://www.skroutz.gr/s/23312469/Metalliki-Papoutsothiki-me-2-Rafia-Mayri-M80xP30xY44-5cm-LBS74X.html?product_id=57753067&amp;sponsored=listing</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/023312/23312469/fixedratio_20230921165612_metalliki_papoutsothiki_me_2_rafia_80x30x44_5cm_lbs74x.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LBS74X/Mesh-Shelves-Shoe-Bench-LBS74X-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBS74X/Mesh-Shelves-Shoe-Bench-LBS74X-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBS74X/Mesh-Shelves-Shoe-Bench-LBS74X-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBS74X/Mesh-Shelves-Shoe-Bench-LBS74X-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBS74X/Mesh-Shelves-Shoe-Bench-LBS74X-6.jpg</Additional_Image>
@@ -20213,7 +20213,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120951</SKU>
 		<EAN>6955880387373</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 3 Ράφια Μαύρη 92x30.5x55cm LSA303B02</Name>
+		<Name>SONGMICS Μεταλλική Παπουτσοθήκη 3 Ραφιών με Ατσάλινους Σωλήνες και Πλαστικούς Συνδέσμους, Χωρητικότητα έως 12–15 Ζευγάρια, Δυνατότητα Στοίβαξης, Συναρμολόγηση Χωρίς Εργαλεία, Αντοχή 5 kg ανά Ράφι, 92 × 30,5 × 55 cm, Μαύρο LSA303B02</Name>
 		<URL>https://www.skroutz.gr/s/37926968/Metalliki-Papoutsothiki-me-3-Rafia-Mayri-M92xP30-5xY55cm-LSA303B02.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/037926/37926968/fixedratio_20220906102547_metalliki_papoutsothiki_me_3_rafia_mayri_92by30_5x55cm_lsa303b02.jpeg</Image>
 		<Price>13.62</Price>
@@ -20237,7 +20237,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120952</SKU>
 		<EAN>0194343067988</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 8 (ή 2x4) Ράφια, έως 40 Ζεύγη Παπουτσιών, Μ92.5xΠ30.7xΥ163.5cm Μαύρη LMR08B</Name>
+		<Name>SONGMICS Μεταλλική Παπουτσοθήκη 8 Ραφιών, Σετ 2 Στοιβαζόμενων Μονάδων 4 Επιπέδων, Ράφια με Πλέγμα Οριζόντιας ή Επικλινούς Τοποθέτησης, Χωρητικότητα έως 32–40 Ζευγάρια, Ρυθμιζόμενα Πόδια, Αντοχή 10 kg ανά Ράφι, 92,5 × 30,7 × 163,5 cm, Μαύρο LMR08B</Name>
 		<URL>https://www.skroutz.gr/s/23813587/Metalliki-Papoutsothiki-me-8-Rafia-Mayri-M92-5xP30-7xY163-5cm-LMR08B.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/023813/23813587/fixedratio_20230224100227_metalliki_papoutsothiki_me_8_rafia_mayri_lmr08b_92_5x30_7x163_5cm.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/072367/72367645/fixedratio_20230224100227_3f183d37.jpeg https://d.scdn.gr/images/sku_images/039598/39598854/fixedratio_20210216141641_4f6f51b4.jpeg https://c.scdn.gr/images/sku_images/072367/72367647/fixedratio_20230224100227_d600684d.jpeg https://c.scdn.gr/images/sku_images/072367/72367640/fixedratio_20230224100227_3d67826f.jpeg https://c.scdn.gr/images/sku_images/058095/58095889/fixedratio_20220327234023_76a2ac94.jpeg https://c.scdn.gr/images/sku_images/058095/58095888/fixedratio_20220327234023_fff7cdca.jpeg https://a.scdn.gr/images/sku_images/072367/72367605/fixedratio_20230224100226_16c4be0b.jpeg</Additional_Image>
@@ -20276,7 +20276,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120953</SKU>
 		<EAN>0194343029948</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 10 (ή 2x5) Ρυθμιζόμενα Υφασμάτινα Ράφια, έως 10 Ζεύγη Παπουτσιών, Μ33xΠ33xΥ173cm Μαύρη LSR110B02</Name>
+		<Name>SONGMICS Μεταλλική Παπουτσοθήκη 10 Επιπέδων με Ράφια από Μη Υφασμένο Ύφασμα Non-Woven, Αρθρωτή Κατασκευή με Δυνατότητα Διαχωρισμού σε 2 Μέρη και Προσαρμογής Ύψους Ραφιών, Ατσάλινο Σκελετό, Αντοχή 5 kg ανά Ράφι, 33 × 33 × 173 cm, Μαύρο LSR110B02</Name>
 		<URL>https://www.skroutz.gr/s/47930316/Metalliki-Papoutsothiki-me-10-Rafia-Mayri-M33xP33xY173cm-LSR110B02.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/047930/47930316/fixedratio_20231110124508_metalliki_papoutsothiki_33x33x173cm_lsr110b02.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/085189/85189817/fixedratio_20231110124518_aa931ef7.jpeg https://a.scdn.gr/images/sku_images/085189/85189851/fixedratio_20231110124524_b7003bb5.jpeg https://a.scdn.gr/images/sku_images/085189/85189742/fixedratio_20231110124511_658f75cb.jpeg https://a.scdn.gr/images/sku_images/085189/85189745/fixedratio_20231110124513_c628b90b.jpeg https://b.scdn.gr/images/sku_images/085189/85189789/fixedratio_20231110124516_d71d776d.jpeg https://c.scdn.gr/images/sku_images/085189/85189839/fixedratio_20231110124521_91e312ed.jpeg</Additional_Image>
@@ -20306,7 +20306,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700120954</SKU>
 		<EAN>0194343015811</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 10 (ή 2x5) Ράφια, έως 20 Ζεύγη Παπουτσιών, Μ45xΠ30xΥ174cm Γκρι LSA025G02</Name>
+		<Name>SONGMICS Μεταλλική Παπουτσοθήκη 10 Επιπέδων για έως 20 Ζευγάρια, Αρθρωτή Κατασκευή με Δυνατότητα Διαχωρισμού σε 2 Μέρη και Αφαίρεσης Ραφιών, Ατσάλινοι Σωλήνες, Συναρμολόγηση Χωρίς Εργαλεία, Αντοχή 5 kg ανά Ράφι, 45 × 30 × 174 cm, Γκρι LSA025G02</Name>
 		<URL>https://www.skroutz.gr/s/37916710/Metalliki-Papoutsothiki-me-10-Rafia-Gri-M45xP30xY174cm-LSA025G02.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/037916/37916710/fixedratio_20220905163229_metalliki_papoutsothiki_me_10_rafia_mayri_45x30x174cm_lsa025g02.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-7-eu.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-8-eu.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA025G02/LSA025G02-9-eu.jpg</Additional_Image>
@@ -20341,46 +20341,9 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
-		<SKU>7700120955</SKU>
-		<EAN>6955880387410</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 6 (ή 2x3) Ράφια, έως 12 Ζεύγη Παπουτσιών, Μ45xΠ30xΥ106cm Μαύρη LSA23BK</Name>
-		<URL>https://www.skroutz.gr/s/37916749/Metalliki-Papoutsothiki-me-6-Rafia-Mayri-M45xP30xY106cm-LSA23BK.html</URL>
-		<Image>https://b.scdn.gr/images/sku_main_images/037916/37916749/fixedratio_20220905163322_metalliki_papoutsothiki_me_6_rafia_mayri_45x30x106cm_lsa23bk.jpeg</Image>
-		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-7.jpg</Additional_Image>
-		<Price>17.02</Price>
-		<Category>Παπουτσοθήκες</Category>
-		<Manufacturer>Songmics</Manufacturer>
-		<MPN>LSA23BK</MPN>
-		<Description>ΦΥΛΑΞΤΕ ΤΑ ΑΓΑΠΗΜΕΝΑ ΣΑΣ ΠΑΠΟΥΤΣΙΑ! Δεν θέλουν να χάνονται τριγυρνώντας σε όλο το σπίτι. Δώστε τους ένα σπίτι με αυτή την παπουτσοθήκη 6 ραφιών από στιβαρό σίδερο που εξοικονομεί χώρο, και θα είναι οργανωμένα και πάντα έτοιμα να σας εξυπηρετήσουν.
-
-ΣΤΟΙΒΑΣΤΕ, ΑΝΑΠΤΥΞΤΕ ΚΑΙ ΠΡΟΣΑΡΜΟΖΕΤΕ: Εξαρτάται από εσάς πώς να χρησιμοποιήσετε αυτήν την παπουτσοθήκη: στοιβάξτε την για να δημιουργήσετε έναν πύργο εξοικονόμησης χώρου, χωρίστε την σε 2 ράφια χρησιμοποιώντας τα μαζί ή ξεχωριστά ή αφαιρέστε ένα διαχωριστικό για να αφήσετε θέσεις για ψηλές μπότες. Ποια είναι η ιδέα σας;
-
-ΣΥΝΑΡΜΟΛΟΓΗΣΗ ΜΕ ΕΥΚΟΛΗ ΧΡΗΣΗ: Δεν απαιτούνται εργαλεία, το μόνο που έχετε να κάνετε είναι να εισάγετε τους σιδερένιους σωλήνες στις ποιοτικές πλαστικές υποδοχές! Τα-ντα! Τέλος! Μπορείτε αμέσως να ξεκινήσετε να ευθυγραμμίζετε τις παντόφλες, τα αθλητικά παπούτσια, τα ψηλοτάκουνα, τα σανδάλια και τις μπαλαρίνες σας.
-
-ΕΝΑ ΠΟΛΥΧΡΗΣΤΟ ΡΑΦΙ: Μερικές φορές, μια χρήσιμη παπουτσοθήκη είναι αρκετή για να θεραπεύσει το χάος γύρω από το σπίτι. Εκτός από τη χρήση της στην είσοδο, μπορείτε επίσης να την βάλετε στο σαλόνι για να αποθηκεύετε παιχνίδια και βιβλία, στην κρεβατοκάμαρα για να οργανώνετε ρούχα και κουτιά... εξαρτάται από εσάς!
-
-ΤΙ ΠΑΡΕΤΕ: Μια παπουτσοθήκη με συμπαγή σχεδιασμό που σας βοηθά να αξιοποιήσετε στο έπακρο έναν στενό χώρο και μια παχιά σιδερένια δομή που προσφέρει σταθερή στήριξη για παπούτσια με χωρητικότητα 5 κιλών ανά ράφι
-
-Προδιαγραφές:
-
-Χρώμα: Μαύρο
-Υλικό: Σιδερένιος σωλήνας, πλαστικός σύνδεσμος
-Μέγεθος: 45 x 30 x 106 εκ. (Μ x Π x Υ)
-Βάρος: 2 κιλά
-Μέγιστη στατική ικανότητα φορτίου ανά ράφι: 5 κιλά
-Μέγιστη συνολική στατική ικανότητα φορτίου: 30 κιλά
-
-Περιεχόμενα συσκευασίας:
-
-1 x παπουτσοθήκη 6 επιπέδων
-1 x οδηγίες (EN, DE, FR, ES, IT)</Description>
-		<Quantity>98</Quantity>
-		<Shipping_Lead_Time>0</Shipping_Lead_Time>
-	</product>
-	<product>
-		<SKU>7700120956</SKU>
+		<SKU>77001209541</SKU>
 		<EAN>6955880387403</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 10 (ή 2x5) Ράφια, έως 20 Ζεύγη Παπουτσιών, Μ45xΠ30xΥ174cm Μαύρη LSA25BK</Name>
+		<Name>SONGMICS Μεταλλική Παπουτσοθήκη 10 Ραφιών για έως 20 Ζευγάρια, Αρθρωτή Κατασκευή με Δυνατότητα Διαχωρισμού σε 2 Μέρη και Αφαίρεσης Ραφιών για Μπότες, Ατσάλινοι Σωλήνες και Πλαστικοί Σύνδεσμοι, Συναρμολόγηση Χωρίς Εργαλεία, Αντοχή 5 kg ανά Ράφι, 45 × 30 × 174 cm, Μαύρο LSA25BK</Name>
 		<URL>https://www.skroutz.gr/s/40614237/Plastiki-Papoutsothiki-me-10-Rafia-Black-M45xP30xY174cm-LSA25BK.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/040614/40614237/fixedratio_20230209091646_plastiki_papoutsothiki_me_10_rafia_black_45x30x174cm_lsa25bk.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LSA25BK/Schuhregal-mit-10-Ablagen-LSA25BK-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA25BK/Schuhregal-mit-10-Ablagen-LSA25BK-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA25BK/Schuhregal-mit-10-Ablagen-LSA25BK-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA25BK/Schuhregal-mit-10-Ablagen-LSA25BK-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA25BK/Schuhregal-mit-10-Ablagen-LSA25BK-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA25BK/Schuhregal-mit-10-Ablagen-LSA25BK-7.jpg</Additional_Image>
@@ -20417,6 +20380,43 @@ Brand: Viosarp</Description>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
+		<SKU>7700120955</SKU>
+		<EAN>6955880387410</EAN>
+		<Name>SONGMICS Μεταλλική Παπουτσοθήκη 6 Ραφιών με Αρθρωτή Κατασκευή, Δυνατότητα Διαχωρισμού σε 2 Μέρη και Αφαίρεσης Ραφιών για Μπότες, Μεταλλικούς Σωλήνες και Πλαστικούς Συνδέσμους, Συναρμολόγηση Χωρίς Εργαλεία, Αντοχή 5 kg ανά Ράφι, 45 × 30 × 106 cm, Μαύρο LSA23BK</Name>
+		<URL>https://www.skroutz.gr/s/37916749/Metalliki-Papoutsothiki-me-6-Rafia-Mayri-M45xP30xY106cm-LSA23BK.html</URL>
+		<Image>https://b.scdn.gr/images/sku_main_images/037916/37916749/fixedratio_20220905163322_metalliki_papoutsothiki_me_6_rafia_mayri_45x30x106cm_lsa23bk.jpeg</Image>
+		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LSA23BK/Schuhregal-aus-Metall-LSA23BK-7.jpg</Additional_Image>
+		<Price>17.02</Price>
+		<Category>Παπουτσοθήκες</Category>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LSA23BK</MPN>
+		<Description>ΦΥΛΑΞΤΕ ΤΑ ΑΓΑΠΗΜΕΝΑ ΣΑΣ ΠΑΠΟΥΤΣΙΑ! Δεν θέλουν να χάνονται τριγυρνώντας σε όλο το σπίτι. Δώστε τους ένα σπίτι με αυτή την παπουτσοθήκη 6 ραφιών από στιβαρό σίδερο που εξοικονομεί χώρο, και θα είναι οργανωμένα και πάντα έτοιμα να σας εξυπηρετήσουν.
+
+ΣΤΟΙΒΑΣΤΕ, ΑΝΑΠΤΥΞΤΕ ΚΑΙ ΠΡΟΣΑΡΜΟΖΕΤΕ: Εξαρτάται από εσάς πώς να χρησιμοποιήσετε αυτήν την παπουτσοθήκη: στοιβάξτε την για να δημιουργήσετε έναν πύργο εξοικονόμησης χώρου, χωρίστε την σε 2 ράφια χρησιμοποιώντας τα μαζί ή ξεχωριστά ή αφαιρέστε ένα διαχωριστικό για να αφήσετε θέσεις για ψηλές μπότες. Ποια είναι η ιδέα σας;
+
+ΣΥΝΑΡΜΟΛΟΓΗΣΗ ΜΕ ΕΥΚΟΛΗ ΧΡΗΣΗ: Δεν απαιτούνται εργαλεία, το μόνο που έχετε να κάνετε είναι να εισάγετε τους σιδερένιους σωλήνες στις ποιοτικές πλαστικές υποδοχές! Τα-ντα! Τέλος! Μπορείτε αμέσως να ξεκινήσετε να ευθυγραμμίζετε τις παντόφλες, τα αθλητικά παπούτσια, τα ψηλοτάκουνα, τα σανδάλια και τις μπαλαρίνες σας.
+
+ΕΝΑ ΠΟΛΥΧΡΗΣΤΟ ΡΑΦΙ: Μερικές φορές, μια χρήσιμη παπουτσοθήκη είναι αρκετή για να θεραπεύσει το χάος γύρω από το σπίτι. Εκτός από τη χρήση της στην είσοδο, μπορείτε επίσης να την βάλετε στο σαλόνι για να αποθηκεύετε παιχνίδια και βιβλία, στην κρεβατοκάμαρα για να οργανώνετε ρούχα και κουτιά... εξαρτάται από εσάς!
+
+ΤΙ ΠΑΡΕΤΕ: Μια παπουτσοθήκη με συμπαγή σχεδιασμό που σας βοηθά να αξιοποιήσετε στο έπακρο έναν στενό χώρο και μια παχιά σιδερένια δομή που προσφέρει σταθερή στήριξη για παπούτσια με χωρητικότητα 5 κιλών ανά ράφι
+
+Προδιαγραφές:
+
+Χρώμα: Μαύρο
+Υλικό: Σιδερένιος σωλήνας, πλαστικός σύνδεσμος
+Μέγεθος: 45 x 30 x 106 εκ. (Μ x Π x Υ)
+Βάρος: 2 κιλά
+Μέγιστη στατική ικανότητα φορτίου ανά ράφι: 5 κιλά
+Μέγιστη συνολική στατική ικανότητα φορτίου: 30 κιλά
+
+Περιεχόμενα συσκευασίας:
+
+1 x παπουτσοθήκη 6 επιπέδων
+1 x οδηγίες (EN, DE, FR, ES, IT)</Description>
+		<Quantity>98</Quantity>
+		<Shipping_Lead_Time>0</Shipping_Lead_Time>
+	</product>
+	<product>
 		<SKU>770012101</SKU>
 		<EAN>5203642132947</EAN>
 		<Name>Sidirela Μεταλλική Παπουτσοθήκη με 3+1 Ράφια Μαύρο / Φυσικό 63x30x63cm E-3294</Name>
@@ -20433,7 +20433,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700121051</SKU>
 		<EAN>6955880347148</EAN>
-		<Name>Songmics Παπουτσοθήκη από Μπαμπού με 2 Ράφια και Επιφάνεια Πάγκου Βάρους έως 120Kg, σε Φυσικό Χρώμα Μ70xΠ28xΥ45cm LBS04N</Name>
+		<Name>SONGMICS Παπουτσοθήκη-Παγκάκι από Μπαμπού 3 Επιπέδων, 2 Ράφια για έως 8 Ζευγάρια, Κάθισμα Αντοχής 120 kg, Φυσική Απόχρωση, 70 × 28 × 45 cm, LBS04N</Name>
 		<URL>https://www.skroutz.gr/s/22901783/Papoutsothiki-apo-Mpampou-me-2-Rafia-Mpez-M70xP28xY45cm-LBS04N.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/022901/22901783/fixedratio_20200424092708_papoutsothiki_lbs04n_70x28x45cm.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/080167/80167180/20230721103105_ad919d80.jpeg https://a.scdn.gr/images/sku_images/032103/32103418/20200424092709_f7e62831.jpeg https://a.scdn.gr/images/sku_images/080167/80167119/20230721103046_bccccadd.jpeg https://c.scdn.gr/images/sku_images/080167/80167133/20230721103046_2c365f63.jpeg https://d.scdn.gr/images/sku_images/032103/32103420/20200424092712_492a6083.jpeg https://d.scdn.gr/images/sku_images/080167/80167125/20230721103046_4cec5d90.jpeg https://d.scdn.gr/images/sku_images/080167/80167139/20230721103046_dd5bf179.jpeg https://a.scdn.gr/images/sku_images/080167/80167137/20230721103046_db6098b3.jpeg https://a.scdn.gr/images/sku_images/080167/80167145/20230721103047_be8fb2c1.jpeg https://b.scdn.gr/images/sku_images/080167/80167132/20230721103046_70223ef4.jpeg https://a.scdn.gr/images/sku_images/080167/80167128/20230721103046_959f1697.jpeg</Additional_Image>
@@ -20543,7 +20543,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700121131</SKU>
 		<EAN>6955880341177</EAN>
-		<Name>Songmics Πλαστική Παπουτσοθήκη με 10 (ή 2x5) Θέσεις, έως 30 Ζεύγη Παπουτσιών, 43x31x173cm Μαύρη LPC010BZ</Name>
+		<Name>SONGMICS Αρθρωτή Παπουτσοθήκη 10 Θέσεων με Πόρτες, για 20–30 Ζευγάρια, Ημιδιάφανα Πάνελ PP, Μεταλλική Ενίσχυση, Ευέλικτη Διαμόρφωση, Αντοχή 10 kg ανά Θέση, 43 × 31 × 173 cm, Γκρι LPC010G01 / LPC010B</Name>
 		<URL>https://www.skroutz.gr/s/51440036/Plastiki-Papoutsothiki-43x31x173cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/051440/51440036/fixedratio_20240319185033_plastiki_papoutsothiki_43x31x173cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LPC10HV1/10-Slots-Shoe-Rack-LPC10HV1-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10HV1/10-Slots-Shoe-Rack-LPC10HV1-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10HV1/10-Slots-Shoe-Rack-LPC10HV1-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10HV1/10-Slots-Shoe-Rack-LPC10HV1-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10HV1/10-Slots-Shoe-Rack-LPC10HV1-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10HV1/10-Slots-Shoe-Rack-LPC10HV1-7.jpg</Additional_Image>
@@ -20584,7 +20584,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700121132</SKU>
 		<EAN>6955880351442</EAN>
-		<Name>Songmics Πλαστική Παπουτσοθήκη με 10 (ή 2x5) Θέσεις, έως 30 Ζεύγη Παπουτσιών, 43x31x173cm Λευκή LPC10WZ</Name>
+		<Name>SONGMICS Αρθρωτή Παπουτσοθήκη 10 Θέσεων με Πόρτες, για 20–30 Ζευγάρια, Ημιδιάφανα Πάνελ PP, Μεταλλική Ενίσχυση, Ευέλικτη Διαμόρφωση, Αντοχή 10 kg ανά Θέση, 48 × 36 × 173 cm, Λευκή LPC10W</Name>
 		<URL>https://www.skroutz.gr/s/26804267/Plastiki-Papoutsothiki-me-10-Rafia-Leyki-M43xP31xY173cm-LPC10W.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/026804/26804267/fixedratio_20210126165302_papoutsothiki_lpc10w_48x36x173cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LPC10W/10-Tiers-Cube-Organiser-LPC10W-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10W/10-Tiers-Cube-Organiser-LPC10W-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10W/10-Tiers-Cube-Organiser-LPC10W-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10W/10-Tiers-Cube-Organiser-LPC10W-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10W/10-Tiers-Cube-Organiser-LPC10W-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10W/10-Tiers-Cube-Organiser-LPC10W-8.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LPC10W/10-Tiers-Cube-Organiser-LPC10W-9.jpg </Additional_Image>
@@ -20622,7 +20622,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700121141</SKU>
 		<EAN>0194343016320</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 9 Ράφια, με Υφασμάτινο Κάλυμμα Προστασίας από τη Σκόνη, έως 45 Ζεύγη Παπουτσιών, Μ88xΠ28xΥ160cm Μαύρη RXJ036H / RXJ036BZ03</Name>
+		<Name>SONGMICS Παπουτσοθήκη 10 Επιπέδων για έως 40 Ζευγάρια, με Προστατευτικό Υφασμάτινο Κάλυμμα, Άνοιγμα με Φερμουάρ και Velcro, Μεταλλικό Σκελετό, 2 Πλαϊνές Θήκες, 88 × 28 × 160 cm, Μαύρη RXJ36H / RXJ036BZ03</Name>
 		<URL>https://www.skroutz.gr/s/23813674/Yfasmatini-Papoutsothiki-me-9-Rafia-Mayri-M88xP28xY160cm-RXJ36H.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/023813/23813674/fixedratio_20200629154850_papoutsothiki_rxj36h_88x28x160cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-2.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-3.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-4.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-5.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-6.jpg https://static.eu.distributor.songmics.com/storage/images/product/RXJ36H/RXJ36H-7.jpg</Additional_Image>
@@ -20651,7 +20651,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700121142</SKU>
 		<EAN>6955880347674</EAN>
-		<Name>Songmics Μεταλλική Παπουτσοθήκη με 9 Ράφια, με Υφασμάτινο Κάλυμμα Προστασίας από τη Σκόνη, έως 27 Ζεύγη Παπουτσιών, Μ58xΠ28xΥ160cm Μαύρη RXJ10H</Name>
+		<Name>SONGMICS Παπουτσοθήκη 10 Επιπέδων με Προστατευτικό Υφασμάτινο Κάλυμμα 75 g/m², Αναδιπλούμενη Πόρτα με Φερμουάρ και Velcro, Ατσάλινο Σκελετό, Πλαϊνές Θήκες, 58 × 28 × 160 cm, Μαύρη RXJ10H</Name>
 		<URL>https://www.skroutz.gr/s/23320792/Yfasmatini-Papoutsothiki-me-9-Rafia-Mayri-M58xP28xY160cm-RXJ10H.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/023320/23320792/fixedratio_20230721103045_papoutsothiki_rxj10h_58x28x160cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/RXJ10H01/10-Tiers-Shoe-Rack-RXJ10H-2.JPG https://static.eu.distributor.songmics.com/storage/images/product100/RXJ10H01/10-Tiers-Shoe-Rack-RXJ10H-3.JPG https://static.eu.distributor.songmics.com/storage/images/product100/RXJ10H01/10-Tiers-Shoe-Rack-RXJ10H-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RXJ10H01/10-Tiers-Shoe-Rack-RXJ10H-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RXJ10H01/10-Tiers-Shoe-Rack-RXJ10H-6.jpg</Additional_Image>
@@ -20762,7 +20762,7 @@ Brand: Viosarp</Description>
 1 x Ράφι ρούχων 
 1 x Κιτ αξεσουάρ 
 1 x Οδηγίες</Description>
-		<Quantity>58</Quantity>
+		<Quantity>57</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -23521,7 +23521,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 Περιεχόμενα συσκευασίας:
 - 1 x Ράφι ντους
 - 1 x Οδηγίες</Description>
-		<Quantity>90</Quantity>
+		<Quantity>89</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -33314,7 +33314,7 @@ Eξάγωνο σώμα για άνετη, ελεγχόμενη γραφή.
 Μέγεθος C6, ιδανικό για έγγραφα διαστάσεων 11.4x16.2 εκ.
 Συσκευασία περιλαμβάνει 250 τεμάχια, προσφέροντας πλούσιο απόθεμα για τις ανάγκες σου.
 Διαθέτουν αυτοκόλλητη πίσω πλευρά, που διευκολύνει την τοποθέτηση τους σε φακέλους ή άλλες επιφάνειες, χωρίς να χρειάζεται επιπλέον κόλληση. Ιδανικές για οργανωμένες αποστολές και αρχειοθέτηση εγγράφων, θα είναι απαραίτητο εργαλείο στην καθημερινότητά σου.</Description>
-		<Quantity>18</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34728,7 +34728,7 @@ Barcode
 Στη συσκευασία περιλαμβάνονται
 Έξυπνη πρίζα SP111
 Εγχειρίδιο χρήσης</Description>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
