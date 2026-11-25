@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-24 16:49</created_at>
+	<created_at>2026-11-25 09:05</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -202,7 +202,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>379</Quantity>
+		<Quantity>378</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -217,7 +217,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά._x000D_Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>439</Quantity>
+		<Quantity>433</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -247,7 +247,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>55</Quantity>
+		<Quantity>54</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1355,7 +1355,7 @@ H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται 
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>6135</Quantity>
+		<Quantity>6125</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1663,7 +1663,7 @@ pH = 7,6
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>404</Quantity>
+		<Quantity>388</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2247,7 +2247,7 @@ pH = 7,6
 		<MPN>0043</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Στον Ημίγλυκο αυτό ποικιλιακό οίνο του Μοσχάτου Μαύρου Τυρνάβου τα αζύμωτα σάκχαρα του σταφυλιού που περιέχονται αναδεικνύουν τα πληθωρικά αρώματα τριαντάφυλλου και τη φρουτώδη επίγευση.</Description>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2544,7 +2544,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
 		<MPN>1615</MPN>
 		<Description>Το Syrah του Κτήματος Αβαντίς, είναι το κρασί που καθιέρωσε τον δημιουργό του Απόστολο Μούντριχα στον οινόφιλο κόσμο. Πλούσιο και στιβαρό υποδηλώνει έντονα την παρουσία του.</Description>
-		<Quantity>29</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2696,7 +2696,7 @@ Ph: 3,55</Description>
 Έχει λαμπερό χρώμα ροδιού και πλούσιο άρωμα κόκκινων φρούτων, φράουλας, κερασιού και μύρτιλου.
 
 Είναι πλούσιο, ισορροπημένο με εξαιρετική δομή και γεμάτη γεύση. Η δροσερή του οξύτητα σε συνδυασμό με τον φρουτώδη χαρακτήρα του, τού χαρίζουν μια μακρά και αρωματική επίγευση.</Description>
-		<Quantity>41</Quantity>
+		<Quantity>38</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2746,7 +2746,7 @@ Ph: 3,55</Description>
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1318</MPN>
 		<Description>Λευκός Οίνος από τον συνδυασμό δύο ελληνικών ποικιλιών, της Μαλαγουζιάς και του Ασύρτικου.Μετά την προζυμωτική κρυοεκχύλιση, η οινοποίηση εκτυλίσσεται σε ανοξείδωτες ψυχόμενες δεξαμενές σε θερμοκρασία γύρω στους 18°C. Το κρασί έχει λαμπερό αχνόξανθο χρώμα με πρασινωπές ανταύγειες. Η «μύτη» του είναι εκφραστική με εναλλασσόμενες εντυπώσεις, καθώς δίπλα στα εξωτικά φρούτα περνούν νότες πιπεριάς, γιασεμιού, πορτοκαλιού, πεπονιού, βοτάνων και λεμονιού.Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.Σερβίρεται στους 8-10°C.</Description>
-		<Quantity>150</Quantity>
+		<Quantity>138</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3034,7 +3034,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>1326</MPN>
 		<Description>Λαμπερό, βαθύ ρουμπινί χρώμα με βιολετί ανταύγειες. Έντονο και πολύπλοκο μπουκέτο, γήινο, με νότες κόκκινων φρούτων, αποξηραμένου δαμάσκηνου και πιπεριού. Γεύση γενναιόδωρη, βελούδινη, στρογγυλή, ισορροπημένη, μεστή, με νότες βανίλιας, δρυός και μόκας. Η επίγευση χαρακτηρίζεται από τη γευστική ισορροπία και τις ώριμες τανίνες, τη μακρά παραμονή των αρωμάτων του στα οποία κυριαρχούν οι νότες μπαχαρικών και αποξηραμένων φρούτων του δάσους. Ένας εξαιρετικός οίνος παλαίωσης. Συνδυάζεται αρμονικά με κόκκινα κρέατα, ψητά ή με πλούσιες σάλτσες, γλυκές ή πικάντικες, τριχωτό κυνήγι και κρεατόπιτες. Γραβιέρα Κρήτης, μπάτζος ή κεφαλογραβιέρα σαχανάκι. Ιδανική απόλαυση στους 16-18º C.</Description>
-		<Quantity>22</Quantity>
+		<Quantity>16</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3076,7 +3076,7 @@ Kιτρινόξανθο λαμπερό με ελαφρές πράσινες αν
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
-		<Quantity>174</Quantity>
+		<Quantity>162</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3162,7 +3162,7 @@ To στόμα είναι πλούσιο και συμπυκνωμένο με σ�
 		<Manufacturer>LA TOUR MELAS</Manufacturer>
 		<MPN>1527</MPN>
 		<Description>Το "Idylle D' Achinos"  αποτελεί μία από τις καινούργιες δημιουργίες του οινοποιείου La Tour Melas.</Description>
-		<Quantity>139</Quantity>
+		<Quantity>133</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3383,7 +3383,7 @@ pH: 3.45
 		<Manufacturer>ΛΑΛΙΚΟΥ</Manufacturer>
 		<MPN>1634</MPN>
 		<Description>Το Variere Ροζέ, από τους Ορεινούς Αμπελώνες Λαλίκου, είναι ένα άμεσο, χαρούμενο, καθόλου ελιτίστικο και πάνω από όλα απολαυστικό ροζέ κρασί.</Description>
-		<Quantity>141</Quantity>
+		<Quantity>135</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -3397,7 +3397,7 @@ pH: 3.45
 		<Manufacturer>ΚΤΗΜΑ ΜΠΑΡΑΦΑΚΑ</Manufacturer>
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
-		<Quantity>113</Quantity>
+		<Quantity>95</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4181,7 +4181,7 @@ Prosciutto και αλλαντικά
 		<MPN>0322</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Quantity>2625</Quantity>
+		<Quantity>2601</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4241,7 +4241,7 @@ Prosciutto και αλλαντικά
 		<MPN>0638</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>3554</Quantity>
+		<Quantity>3530</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -4496,7 +4496,7 @@ Prosciutto και αλλαντικά
 		<MPN>0984</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
-		<Quantity>713</Quantity>
+		<Quantity>689</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9649,7 +9649,7 @@ Powder Free: Ναι
 Ανδρικός: 42–45 (προσαρμόζεται εύκολα στο επιθυμητό μέγεθος μέσω των γραμμών κοπής).
 
 Γυναικείος: 36–41 (προσαρμόζεται εύκολα στο επιθυμητό μέγεθος μέσω των γραμμών κοπής).</Description>
-		<Quantity>105</Quantity>
+		<Quantity>104</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9696,7 +9696,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>1639</Quantity>
+		<Quantity>1632</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9711,7 +9711,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
-		<Quantity>727</Quantity>
+		<Quantity>719</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -9768,7 +9768,7 @@ Powder Free: Ναι
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
-		<Quantity>2490</Quantity>
+		<Quantity>2478</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -12669,7 +12669,7 @@ Super-απορροφητική.
 2. Αντιβακτηριδιακή επεξεργασία
 
 Η φίμπρα περιέχει ιόντα αργύρου ένα αντιβακτηριδιακό συστατικό που προλαμβάνει την ανάπτυξη των βακτηρίων.</Description>
-		<Quantity>1418</Quantity>
+		<Quantity>1408</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -13525,7 +13525,7 @@ Barcode
 		<MPN>0953</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
-		<Quantity>427</Quantity>
+		<Quantity>426</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -14231,7 +14231,7 @@ Barcode: 5206753033363
 		<Manufacturer>SOFTLINE</Manufacturer>
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
-		<Quantity>548</Quantity>
+		<Quantity>538</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18378,7 +18378,7 @@ Brand: Viosarp</Description>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>KCS551BH01</MPN>
 		<Description>Αποδοτική Αποστράγγιση: Η θήκη πιάτων διαθέτει ένα περιστρεφόμενο και επεκτεινόμενο στόμιο 360°, διασφαλίζοντας ότι το νερό μπορεί να ρέει στον νεροχύτη από οποιαδήποτε κατεύθυνση. Η κεκλιμένη βάση αποστράγγισης επιτρέπει την γρήγορη αποστράγγιση, ενώ η θήκη για μαχαιροπίρουνα κατευθύνει επίσης το νερό στην βάση αποστράγγισης. Για τις περισσότερες οικογένειες: Με ένα συμπαγές μέγεθος 31 x 42 x 36,5 cm, αυτή η θήκη στεγνώματος πιάτων 2 επιπέδων είναι ιδανική για μια οικογένεια 2-4 ατόμων. Μπορεί να χωρέσει έως και 10 πιάτα μαζί με μπολ και ποτήρια, βελτιστοποιώντας τον χώρο της κουζίνας σας διατηρώντας παράλληλα τα πιάτα σας οργανωμένα. Ανθεκτικό στη σκουριά και ασφαλές: Κατασκευασμένο από χάλυβα υψηλής ποιότητας με επιφάνεια με ηλεκτροστατική βαφή πούδρας, αυτό το θήκη πιάτων κουζίνας έχει σχεδιαστεί για να αντιστέκεται στη σκουριά και την παραμόρφωση για διαρκή ανθεκτικότητα. Τα πλαστικά εξαρτήματα PP είναι χωρίς BPA, εξασφαλίζοντας ασφαλή χρήση. Εύκολη συναρμολόγηση: Με απλή δομή και χωρίς να απαιτούνται εργαλεία ή βίδες, αυτό το θήκη για μαχαιροπίρουνα είναι πανεύκολο στη συναρμολόγηση. Απλώς κουμπώστε τα μέρη μεταξύ τους και είναι έτοιμη σε χρόνο μηδέν! Βολική θήκη για μαχαιροπίρουνα: Το θήκη πιάτων για τον πάγκο της κουζίνας περιλαμβάνει μια αφαιρούμενη θήκη για μαχαιροπίρουνα με 3 διαμερίσματα. Αυτό σας επιτρέπει να οργανώνετε τακτοποιημένα κουτάλια, πιρούνια και άλλα μικρά σκεύη κουζίνας, και μπορεί να χρησιμοποιηθεί ξεχωριστά, αν θέλετε.</Description>
-		<Quantity>10</Quantity>
+		<Quantity>6</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18401,7 +18401,7 @@ Brand: Viosarp</Description>
 Ανθεκτική κατασκευή: Κατασκευασμένη από ανοξείδωτο ατσάλι 304 υψηλής ποιότητας και πλαστικό PP, αυτή η θήκη πιάτων είναι στιβαρή, ανθεκτική στη σκουριά και εύκολη στο καθάρισμα - κατασκευασμένη για μακροχρόνια χρήση.
 
 Ευέλικτο &amp; Γρήγορο στη συναρμολόγηση: Κατάλληλο για κουζίνες, μπάνια ή πλυσταριό, αυτό το καθαριστικό νεροχύτη διευκολύνει τον καθαρισμό σε διάφορους χώρους. Συναρμολογείται σε χρόνο μηδέν, χωρίς να απαιτούνται εργαλεία, για άμεση οργάνωση.</Description>
-		<Quantity>59</Quantity>
+		<Quantity>58</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20616,7 +20616,7 @@ Brand: Viosarp</Description>
 - 1 x Οδηγίες (EN, FR, IT, ES, DE)
 - 1 x Συσκευή Ασφαλείας κατά της Ανατροπής (2 x βίδες, 2 x μπουλόνια διαστολής, 
 2 x νάιλον σχοινιά κατά της ανατροπής)</Description>
-		<Quantity>89</Quantity>
+		<Quantity>88</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -22356,7 +22356,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 
 Περιεχόμενα συσκευασίας:
 - 1 x Κουτί ρολογιού</Description>
-		<Quantity>106</Quantity>
+		<Quantity>105</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -28019,7 +28019,7 @@ Brand: Sidirela
 1 x πακέτο αξεσουάρ,
 1 x οδηγίες (η αγγλική γλώσσα δεν είναι εγγυημένη)
 </Description>
-		<Quantity>73</Quantity>
+		<Quantity>72</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29876,7 +29876,7 @@ crate και κλουβί μεταφοράς,
 Μη χρησιμοποιείτε το γιλέκο ως πιστοποιημένο επαγγελματικό Μέσο Ατομικής Προστασίας χωρίς να έχει επιβεβαιωθεί η συμμόρφωσή του με τα απαιτούμενα πρότυπα.
 
 Η ορατότητα μειώνεται όταν οι ανακλαστικές ταινίες καλύπτονται από άλλα ρούχα, είναι λερωμένες ή παρουσιάζουν φθορές.</Description>
-		<Quantity>22</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -31875,7 +31875,7 @@ mini markets
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
-		<Quantity>129</Quantity>
+		<Quantity>127</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34233,7 +34233,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1585</MPN>
 		<Description>Ισχύς: 8W    Τάση: 220V    Lumen: 650lm    Χρώμα: Φυσικό Λευκό    Εφαρμογή: B22    Σχήμα: A60</Description>
-		<Quantity>10</Quantity>
+		<Quantity>4</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34281,7 +34281,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
     Ένδειξη CE: Ναι
     Αριθμός Καταχώρησης EPREL: 761874
 </Description>
-		<Quantity>69</Quantity>
+		<Quantity>59</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -34309,7 +34309,7 @@ Courier &amp; εταιρείες μεταφορών</Description>
 		<Manufacturer>EUROLAMP</Manufacturer>
 		<MPN>1588</MPN>
 		<Description>Το θερμό χρώμα που διαθέτει η λάμπα είναι πιο κοντά σε αυτό της φωτιάς το οποίο θα προσδώσει μια ζεστή αίσθηση στο χώρο που θα σας βοηθήσει να χαλαρώσετε. Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 10 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 83 μέχρι 90 watt ή μια αλογόνου από 50 μέχρι 54 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.    Ισχύς: 12W    Τάση: 220V    Lumen: 1055lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: B22    Σχήμα: A60</Description>
-		<Quantity>22</Quantity>
+		<Quantity>12</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -39756,7 +39756,7 @@ Watt: 12W
 Σημαντική επισήμανση
 
 Πριν από τη σύνδεση, πρέπει να επιβεβαιώνονται η απαιτούμενη τάση (V), η ένταση (A), το κατάλληλο βύσμα και η πολικότητα της συσκευής. Η λανθασμένη επιλογή τάσης ή πολικότητας μπορεί να προκαλέσει βλάβη στη συσκευή.</Description>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -45768,7 +45768,7 @@ Eίναι το ιδανικότερο για τη παρασκευή ολόλε�
 		<Description>Κυματιστά πατατάκια Ruffles με ρίγανη.
 Συστατικά
 Πατάτες, αραβοσιτέλαιο, γεύση ρίγανης [κρεμμύδι, μαϊντανός, σκόρδο, ρίγανη (0,04%), ορός γάλακτος σε σκόνη (περιέχει πρωτείνη γάλακτος, λακτόζη), φρυγανιά σε σκόνη (περιέχει γλουτένη από σιτάρι), δεξτρόζη, ενισχυτικό γεύσης (όξινο γλουταμινικό νάτριο), ρυθμιστής οξύτητας (κιτρικό οξύ), αρωματικές ύλες (περιέχουν λάδι από σπόρους σέλινου)], αλάτι.</Description>
-		<Quantity>32</Quantity>
+		<Quantity>23</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
