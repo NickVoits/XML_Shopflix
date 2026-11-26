@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-11-26 16:05</created_at>
+	<created_at>2026-11-26 16:32</created_at>
 	<product>
 		<SKU>31023</SKU>
 		<EAN>5201261231843</EAN>
@@ -563,7 +563,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>598</Quantity>
+		<Quantity>596</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1691,7 +1691,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10161</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα. </Description>
-		<Quantity>394</Quantity>
+		<Quantity>393</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -1719,7 +1719,7 @@ pH = 7,6
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>450</Quantity>
+		<Quantity>446</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2294,7 +2294,7 @@ pH = 7,6
 		<MPN>0044</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
-		<Quantity>312</Quantity>
+		<Quantity>310</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2324,7 +2324,7 @@ pH = 7,6
 		<MPN>0938</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
-		<Quantity>45</Quantity>
+		<Quantity>44</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -2898,7 +2898,7 @@ Ph: 3,55</Description>
 		<Description>Χαρμάνι των καλύτερων αμπελώνων του κτήματος, 44 ετών, πιστοποιημένοι βιολογικοί. Έντονα αρώματα φρέσκων μαύρων και κόκκινων φρούτων του δάσους, βιολέτας, βοτάνων αλλά και κομψής φυτικότητας.
 
 Στο στόμα η οξύτητα είναι υψηλή, με στιβαρές αλλά στρογγυλές τανίνες, για το Γη και Ουρανός που ωρίμασε σε δρύινα γαλλικά βαρέλια 500lt 2ης - 3ης χρήσης για 18 μήνες.</Description>
-		<Quantity>24</Quantity>
+		<Quantity>30</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -16798,7 +16798,7 @@ E-4767
 Κατάλληλο για αποθήκευση στο ψυγείο
 Χρώμα: Ασημί
 Κωδικός: E-3680</Description>
-		<Quantity>30</Quantity>
+		<Quantity>33</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -18363,7 +18363,7 @@ Brand: Viosarp</Description>
 Συναρμολόγηση χωρίς προβλήματα: Απλοποιήστε τη διαδικασία συναρμολόγησης με τον απλό σχεδιασμό του, χωρίς εργαλεία και βίδες. Απλώς συνδέστε τα εξαρτήματα για να το συναρμολογήσετε, εξοικονομώντας χρόνο και προσπάθεια.
 
 Οργανωμένη αποθήκευση μαχαιροπίρουνων: Αυτή η θήκη πιάτων στον πάγκο της κουζίνας περιλαμβάνει μια θήκη μαχαιροπίρουνων 3 τμημάτων, η οποία μπορεί να αποσπαστεί για ξεχωριστή χρήση. Διευκολύνει την τακτοποιημένη αποθήκευση και την εύκολη πρόσβαση στα κουτάλια, τα πιρούνια και άλλα μικρά σκεύη κουζίνας σας.</Description>
-		<Quantity>30</Quantity>
+		<Quantity>29</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -19930,7 +19930,7 @@ Brand: Viosarp</Description>
 Περιεχόμενα συσκευασίας:
 - 1 x Ράφι Hall
 - 1 x Οδηγίες (EN, DE, ES, FR, IT)</Description>
-		<Quantity>38</Quantity>
+		<Quantity>37</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20337,7 +20337,7 @@ Brand: Viosarp</Description>
 -επίπεδη βάση παπουτσιών
 - 1 x κιτ αντι-ανατροπής
 - 1 x οδηγίες (EN, DE, FR, ES, IT)</Description>
-		<Quantity>69</Quantity>
+		<Quantity>68</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -20684,7 +20684,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700123101</SKU>
 		<EAN>6955880316991</EAN>
-		<Name>Songmics Καλόγερος Μεταλλικός με 12 Κρεμάστρες Μαύρος 44x182cm RCR19B</Name>
+		<Name>SONGMICS Μεταλλική Κρεμάστρα Δαπέδου Καλόγερος με 12 Γάντζους, Ξύλινες Στρογγυλεμένες Απολήξεις, Τρίποδη Βάση, Προστασία Δαπέδου, Ατσάλινος Σκελετός, Ύψος 182 cm, Διάμετρος Βάσης 44 cm, Μαύρη RCR19B</Name>
 		<URL>https://www.skroutz.gr/s/21465856/Kalogeros-Metallikos-Mayros-RCR19B-44x44x182cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/021465/21465856/fixedratio_20191227142733_rcr19b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/RCR19B/Metal-Clothes-Stand-RCR19B-7.jpg https://a.scdn.gr/images/sku_images/033984/33984135/fixedratio_20200806130504_a313498b.jpeg https://d.scdn.gr/images/sku_images/033984/33984134/fixedratio_20200806130504_45941a99.jpeg https://b.scdn.gr/images/sku_images/033984/33984136/fixedratio_20200806130504_c90b63a1.jpeg https://a.scdn.gr/images/sku_images/033984/33984137/fixedratio_20200806130505_19ecde06.jpeg</Additional_Image>
@@ -20711,7 +20711,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700123102</SKU>
 		<EAN>0194343004280</EAN>
-		<Name>Vasagle Καλόγερος Ξύλινος με 8 Γάντζους και Ρυθμιζόμενο Ύψος 30x30x175cm σε Λευκό Χρώμα RCR010W02</Name>
+		<Name>VASAGLE Ξύλινη Κρεμάστρα Δαπέδου Καλόγερος με 8 Στρογγυλεμένους Γάντζους σε Διαφορετικά Ύψη, Κορμός από Μασίφ Ξύλο Καουτσουκόδεντρου, Τετράγωνη Βάση MDF 30 × 30 cm, Αντοχή 20 kg, Ύψος 175 cm, Λευκή RCR010W02</Name>
 		<URL>https://www.skroutz.gr/s/37922640/Vasagle-Kalogeros-Xylinos-Leykos-RCR010W02-30x30x175cm.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/063894/63894320/fixedratio_20220905173456_f6e8366c.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/063894/63894322/fixedratio_20220905173457_3c435e2b.jpeg</Additional_Image>
@@ -20733,7 +20733,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>77001231021</SKU>
 		<EAN>0194343190792</EAN>
-		<Name>Vasagle Καλόγερος Ξύλινος με 8 Γάντζους και Ρυθμιζόμενο Ύψος 30x30x175cm σε Μαύρο Χρώμα RCR010B01</Name>
+		<Name>VASAGLE Ξύλινη Κρεμάστρα Δαπέδου Καλόγερος με 8 Γάντζους, 3 Ύψη Συναρμολόγησης 102/138/175 cm, Κορμός από Μασίφ Ξύλο Καουτσουκόδεντρου, Τετράγωνη Βάση MDF 30 × 30 cm, Συνολική Αντοχή 24 kg, Μαύρη RCR010B01</Name>
 		<URL>https://www.skroutz.gr/s/56892185/Vasagle-Kalogeros-Xylinos-Mayros-RCR010B01-30x30x175cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/056892/56892185/fixedratio_20241017105638_vasagle_kalogeros_xylinos_mayros_rcr010b01_30x30x175cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/skuImgs/241120/RCR010B01/RCR010B01-5.jpg https://static.eu.distributor.songmics.com/skuImgs/241120/RCR010B01/RCR010B01-6.jpg https://static.eu.distributor.songmics.com/skuImgs/241120/RCR010B01/RCR010B01-7.jpg https://static.eu.distributor.songmics.com/skuImgs/241120/RCR010B01/RCR010B01-2.jpg https://static.eu.distributor.songmics.com/skuImgs/241120/RCR010B01/RCR010B01-3.jpg https://static.eu.distributor.songmics.com/skuImgs/241120/RCR010B01/RCR010B01-4.jpg </Additional_Image>
@@ -20768,7 +20768,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>77001231022</SKU>
 		<EAN>0194343190785</EAN>
-		<Name>Vasagle Καλόγερος Ξύλινος με 8 Γάντζους και Ρυθμιζόμενο Ύψος 30x30x175cm σε Φυσικό Χρώμα RCR010N01</Name>
+		<Name>VASAGLE Ξύλινη Κρεμάστρα Δαπέδου Καλόγερος με 8 Γάντζους, 3 Ύψη Συναρμολόγησης 102/138/175 cm, Κορμός από Μασίφ Ξύλο Καουτσουκόδεντρου, Τετράγωνη Βάση MDF 30 × 30 cm, Συνολική Αντοχή 24 kg, Φυσικό Μπεζ RCR010N01</Name>
 		<URL>https://www.skroutz.gr/s/56892181/Vasagle-Kalogeros-Xylinos-Mpez-RCR010N01-30x30x175cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/056892/56892181/fixedratio_20241017105637_vasagle_kalogeros_xylinos_mpez_rcr010n01_30x30x175cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/products/RCR010N01/RCR010N01-2.jpg https://static.eu.distributor.songmics.com/products/RCR010N01/RCR010N01-3.jpg https://static.eu.distributor.songmics.com/products/RCR010N01/RCR010N01-4.jpg https://static.eu.distributor.songmics.com/products/RCR010N01/RCR010N01-5.jpg https://static.eu.distributor.songmics.com/products/RCR010N01/RCR010N01-6.jpg https://static.eu.distributor.songmics.com/products/RCR010N01/RCR010N01-7.jpg </Additional_Image>
@@ -20803,7 +20803,7 @@ Brand: Viosarp</Description>
 	<product>
 		<SKU>7700123103</SKU>
 		<EAN>0194343053875</EAN>
-		<Name>Vasagle Μεταλλικός Καλόγερος με 2 Ξύλινα Ράφια, για Ρούχα, Καπέλο, Τσάντα, Βιομηχανικό Στυλ, Ρουστίκ Καφέ και Μαύρο 49x49x179cm RCR16BX</Name>
+		<Name>VASAGLE Μεταλλική Κρεμάστρα Δαπέδου Καλόγερος με 6 Γάντζους και 2 Τριγωνικά Ράφια MDF, Τρίποδος Ατσάλινος Σκελετός, Αντοχή 5 kg ανά Γάντζο και 10 kg ανά Ράφι, 49,5 × 49,5 × 179 cm, Ρουστίκ Καφέ και Μαύρο RCR16BX</Name>
 		<URL>https://www.skroutz.gr/s/22921551/Songmics-Kalogeros-Metallikos-Mayros-RCR16BX-49x49x179cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_images/032135/32135340/fixedratio_20220510003848_29cbce17.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product/RCR16BX/RCR16BX-7.jpg https://static.eu.distributor.songmics.com/storage/images/product/RCR16BX/RCR16BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product/RCR16BX/RCR16BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product/RCR16BX/RCR16BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product/RCR16BX/RCR16BX-6.jpg https://static.eu.distributor.songmics.com/storage/images/product/RCR16BX/RCR16BX-8.jpg https://static.eu.distributor.songmics.com/storage/images/product/RCR16BX/RCR16BX-9.jpg</Additional_Image>
@@ -21040,7 +21040,7 @@ VC2344
 	<product>
 		<SKU>7700123201</SKU>
 		<EAN>6955880344116</EAN>
-		<Name>Songmics Σετ 2τμχ Επιτοίχιες Μπάρες Κρεμάστρας Τοίχου Μεταλλικές-Βιομηχανικές  110x30x29.3cm σε Μαύρο Χρώμα HSR064BZ01</Name>
+		<Name>SONGMICS Σετ 2 Επιτοίχιων Μεταλλικών Κρεμαστρών Ρούχων Industrial, Ράγες από Ατσάλινους Σωλήνες, Αντοχή 60 kg ανά Ράγα, Απόσταση 30 cm από τον Τοίχο, Διαστάσεις 110 × 30 × 29,3 cm ανά Τεμάχιο, Μαύρο HSR64BK-02</Name>
 		<URL>https://www.skroutz.gr/s/24385199/Songmics-Kremastra-Toichou-Metalliki-HSR64BK-02-110x30x29-3cm-2tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/024385/24385199/fixedratio_20200813155448_kremastra_toichou_metalliki_hsr64bk_02.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR64BK-02/HSR64BK-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR64BK-02/HSR64BK-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR64BK-02/HSR64BK-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR64BK-02/HSR64BK-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR64BK-02/HSR64BK-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR64BK-02/HSR64BK-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR64BK-02/HSR64BK-8.jpg</Additional_Image>
@@ -21075,7 +21075,7 @@ VC2344
 	<product>
 		<SKU>7700123202</SKU>
 		<EAN>6955880387038-2</EAN>
-		<Name>Songmics Σετ 2τμχ Επιτοίχιες Μπάρες Κρεμάστρας Ρούχων Μεταλλικές-Βιομηχανικές  92x30x7.5cm σε Μαύρο Χρώμα HSR67BD01</Name>
+		<Name>SONGMICS Σετ 2 Επιτοίχιων Μεταλλικών Ραγών Ρούχων Industrial από Ατσάλινους Σωλήνες, Αντοχή 60 kg σε Συμπαγές Τούβλο ή Μπετόν και 45 kg σε Ξύλινο Τοίχο ανά Ράγα, 92 × 30 × 7,5 cm, Μαύρο HSR67BK02</Name>
 		<URL>https://www.skroutz.gr/s/40776938/Songmics-HSR67BK02-Raga-Mpaniou-Moni-Epitoichia-me-Vides-7-5x7-5cm-Mayri.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/040776/40776938/fixedratio_20230301105339_songmics_kremastra_toichou_hsr67bk02_metalliki_2_theseon_92x7_5x30cm_2tmch.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-7.jpg </Additional_Image>
@@ -21111,7 +21111,7 @@ VC2344
 	<product>
 		<SKU>7700123203</SKU>
 		<EAN>6955880387038-1</EAN>
-		<Name>Songmics Επιτοίχια Μπάρα Κρεμάστρας Ρούχων Μεταλλικής-Βιομηχανική  92x30x7.5cm σε Μαύρο Χρώμα HSR067BZ01</Name>
+		<Name>SONGMICS Επιτοίχια Μεταλλική Ράγα Ρούχων Industrial από Ατσάλινους Σωλήνες, Αντοχή 60 kg σε Συμπαγές Τούβλο ή Μπετόν και 45 kg σε Ξύλινο Τοίχο, Απόσταση 30 cm από τον Τοίχο, 92 × 30 × 7,5 cm, Μαύρο HSR67BK</Name>
 		<URL>https://www.skroutz.gr/s/44035724/Songmics-Kremastra-Toichou-Metalliki-HSR67BK-92x7-5x30cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/044035/44035724/fixedratio_20230712163223_songmics_kremastra_toichou_metalliki_hsr67bk_92x7_5x30cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR67BK02/HSR67BK02-7.jpg </Additional_Image>
@@ -21148,7 +21148,7 @@ VC2344
 	<product>
 		<SKU>7700123301</SKU>
 		<EAN>0194343027883</EAN>
-		<Name>Vasagle Κρεμάστρα Τοίχου Μεταλλική/Ξύλινη σε Μαύρο/Ρουστίκ Καφέ Χρώμα με 10 Γάντζους 1 Ράγα και 1 Ράφι 65x30x42cm LCR101B01</Name>
+		<Name>VASAGLE Επιτοίχια Κρεμάστρα Εισόδου 3 σε 1 με Ράφι Αποθήκευσης, Μεταλλική Ράγα Ρούχων και 10 Αφαιρούμενους Γάντζους σε 2 Σειρές, Μοριοσανίδα και Ατσάλι, Industrial, 65 × 30 × 42 cm, Ρουστίκ Καφέ και Μαύρο LCR101B01</Name>
 		<URL>https://www.skroutz.gr/s/42934470/Vasagle-Antike-Kremastra-Toichou-Metalliki-10-THeseon-LCR101B01-65x42cm.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/077318/77318118/fixedratio_20230615103432_85cf873a.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/077318/77318124/fixedratio_20230615103432_123414f6.jpeg</Additional_Image>
@@ -21176,7 +21176,7 @@ VC2344
 	<product>
 		<SKU>7700123302</SKU>
 		<EAN>0194343068145</EAN>
-		<Name>Songmics  Κρεμάστρα Τοίχου από Ξύλο με 4 Τριγωνικούς Μεταλλικούς Γάντζου 40x7x11cm σε Λευκό Χρώμα LHR30WT</Name>
+		<Name>SONGMICS Επιτοίχια Κρεμάστρα με 4 Τριπλούς Μεταλλικούς Γάντζους, 12 Σημεία Ανάρτησης, Βάση MDF και Κράμα Ψευδαργύρου, Συνολική Αντοχή 15,9 kg, Έτοιμη για Τοποθέτηση, 40 × 11 × 7 cm, Λευκό LHR30WT</Name>
 		<URL>https://www.skroutz.gr/s/49257622/Songmics-Kremastra-Toichou-Xylini-LHR30WT-40x7x11cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/049257/49257622/fixedratio_20240115151943_songmics_kremastra_toichou_xylini_lhr30wt_40x7x11cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LHR30WT/LHR30WT-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LHR30WT/LHR30WT-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LHR30WT/LHR30WT-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LHR30WT/LHR30WT-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LHR30WT/LHR30WT-6-eu.jpg</Additional_Image>
@@ -21334,7 +21334,7 @@ Barcode
 	<product>
 		<SKU>77001241001</SKU>
 		<EAN>0194343278315</EAN>
-		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Μαύρο Χρώμα Σετ 10τμχ CRW02B10 / CRW001BZ04</Name>
+		<Name>SONGMICS Ξύλινες Κρεμάστρες Ρούχων 10 Τεμαχίων από Μασίφ Ξύλο Σφενδάμου, Περιστρεφόμενος Γάντζος 360°, Αντιολισθητική Μπάρα Παντελονιού, Πλαϊνές Εγκοπές, Αντοχή 5 kg ανά Τεμάχιο, 44,5 cm, Μαύρες CRW02B10 / CRW001BZ04</Name>
 		<URL>https://www.skroutz.gr/s/37955167/Songmics-Kremastra-Rouchon-se-Mayro-CHroma-CRW02B10-10tmch.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/037955/37955167/xlarge_20220907131935_songmics_kremastra_rouchon_se_mayro_chroma_crw02b10_10tmch.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/064026/64026104/xlarge_20220907131936_3dcc090f.jpeg https://c.scdn.gr/images/sku_images/064026/64026107/xlarge_20220907131936_9f6c066b.jpeg https://c.scdn.gr/images/sku_images/064026/64026108/xlarge_20220907131936_28e13657.jpeg https://b.scdn.gr/images/sku_images/064026/64026106/xlarge_20220907131936_6dcd6911.jpeg</Additional_Image>
@@ -21357,7 +21357,7 @@ Barcode
 	<product>
 		<SKU>77001242001</SKU>
 		<EAN>0194343029085</EAN>
-		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Λευκό Χρώμα Σετ 20τμχ CRW03W-20</Name>
+		<Name>SONGMICS Ξύλινες Κρεμάστρες Ρούχων 20 Τεμαχίων από Μασίφ Ξύλο Σφενδάμου, Περιστρεφόμενος Γάντζος 360°, Αντιολισθητική Μπάρα Παντελονιού, Πλαϊνές Εγκοπές, Αντοχή 5 kg ανά Τεμάχιο, 44,5 cm, Λευκές CRW03W-20</Name>
 		<URL>https://www.skroutz.gr/s/24803629/Songmics-Kremastra-Rouchon-se-Leyko-CHroma-CRW03W-20-20tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024803/24803629/xlarge_20200917110129_songmics_kremastra_ntoulapas_xylini_crw03w_20_20tmch.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/034486/34486028/xlarge_20200917110130_c648937e.jpeg https://c.scdn.gr/images/sku_images/034486/34486029/xlarge_20200917110130_4661d024.jpeg https://a.scdn.gr/images/sku_images/034486/34486031/xlarge_20200917110132_c6bb3401.jpeg https://c.scdn.gr/images/sku_images/034486/34486033/xlarge_20200917110132_64daa942.jpeg https://b.scdn.gr/images/sku_images/034486/34486032/xlarge_20200917110132_135c6ef6.jpeg</Additional_Image>
@@ -21377,7 +21377,7 @@ Barcode
 	<product>
 		<SKU>77001242002</SKU>
 		<EAN>0194343029092</EAN>
-		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Καφέ Ανοιχτό Χρώμα Σετ 20τμχ CRW001-20</Name>
+		<Name>SONGMICS Ξύλινες Κρεμάστρες Ρούχων 20 Τεμαχίων από Μασίφ Ξύλο Σφενδάμου, Περιστρεφόμενος Γάντζος 360°, Αντιολισθητική Μπάρα Παντελονιού, Πλαϊνές Εγκοπές, Αντοχή 5 kg ανά Τεμάχιο, 44,5 cm, Φυσικό Ξύλο CRW001-20</Name>
 		<URL>https://www.skroutz.gr/s/50798095/Songmics-Kremastra-Ntoulapas-gia-Pantelonia-Xylini-Kafe-CRW001-20-20tmch.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/050798/50798095/xlarge_20240227112820_songmics_kremastra_rouchon_kafe_crw001_20_20tmch.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/090410/90410130/xlarge_20240227112822_22e6e597.jpeg https://c.scdn.gr/images/sku_images/090410/90410160/xlarge_20240227112824_8f6ab121.jpeg https://a.scdn.gr/images/sku_images/090410/90410187/xlarge_20240227112825_ed9a8f2d.jpeg https://b.scdn.gr/images/sku_images/090410/90410208/xlarge_20240227112827_38a446a6.jpeg https://d.scdn.gr/images/sku_images/090410/90410234/xlarge_20240227112829_f746735d.jpeg https://d.scdn.gr/images/sku_images/090410/90410261/xlarge_20240227112831_71ae4f66.jpeg</Additional_Image>
@@ -21397,7 +21397,7 @@ Barcode
 	<product>
 		<SKU>77001242003</SKU>
 		<EAN>6955880325559</EAN>
-		<Name>Songmics Κρεμάστρα Ντουλάπας για Παντελόνια / Φούστες με Κλιπς Βαρέως Τύπου Inox 31x10,5cm Σετ 20τμχ CRI003-20</Name>
+		<Name>SONGMICS Μεταλλικές Κρεμάστρες Παντελονιών και Φουστών 20 Τεμαχίων με Ρυθμιζόμενα Αντιολισθητικά Κλιπ PVC, Περιστρεφόμενο Γάντζο, Επιχρωμιωμένο Ατσάλι, Αντοχή 3 kg ανά Κρεμάστρα, 31 cm, Ασημί και Μαύρο CRI003-20</Name>
 		<URL>https://www.skroutz.gr/s/25687541/Songmics-Kremastra-Ntoulapas-gia-Pantelonia-Foustes-me-Klips-Vareos-Typou-CRI003-20-20tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/025687/25687541/xlarge_20201117125021_songmics_kremastra_ntoulapas_gia_pantelonia_foustes_me_klips_vareos_typou_cri003_20_20tmch.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/035923/35923100/xlarge_20201117125021_115d48ab.jpeg https://a.scdn.gr/images/sku_images/035923/35923101/xlarge_20201117125021_f55174e3.jpeg https://d.scdn.gr/images/sku_images/035923/35923103/xlarge_20201117125021_e0ebe951.jpeg https://c.scdn.gr/images/sku_images/035923/35923102/xlarge_20201117125021_9ae86be5.jpeg https://a.scdn.gr/images/sku_images/035923/35923104/xlarge_20201117125022_5f0429c3.jpeg</Additional_Image>
@@ -21421,7 +21421,7 @@ Barcode
 	<product>
 		<SKU>77001242004</SKU>
 		<EAN>6955880339372</EAN>
-		<Name>Songmics Βελούδινη Κρεμάστρα Ρούχων σε Μαύρο Χρώμα Σετ 20τμχ CRF20B</Name>
+		<Name>SONGMICS Βελούδινες Αντιολισθητικές Κρεμάστρες Ρούχων 20 Τεμαχίων, Λεπτό Προφίλ 0,6 cm, Περιστρεφόμενος Γάντζος 360°, Μπάρα για Παντελόνια και Γραβάτες, Αντοχή 5 kg ανά Κρεμάστρα, 43,5 cm, Μαύρες CRF20B</Name>
 		<URL>https://www.skroutz.gr/s/32282831/Songmics-Kremastra-Rouchon-Mayri-CRF20B-20tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/032282/32282831/xlarge_20211111105340_songmics_kremastra_rouchon_se_mayro_chroma_crf20b_20tmch.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/CRF20B/Kleiderbuegel-Samt-20-Stueck-Schwarz-CRF20B-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF20B/Kleiderbuegel-Samt-20-Stueck-Schwarz-CRF20B-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF20B/Kleiderbuegel-Samt-20-Stueck-Schwarz-CRF20B-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF20B/Kleiderbuegel-Samt-20-Stueck-Schwarz-CRF20B-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF20B/Kleiderbuegel-Samt-20-Stueck-Schwarz-CRF20B-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF20B/Kleiderbuegel-Samt-20-Stueck-Schwarz-CRF20B-7.jpg</Additional_Image>
@@ -21457,7 +21457,7 @@ Barcode
 	<product>
 		<SKU>77001243001</SKU>
 		<EAN>0194343316291</EAN>
-		<Name>Songmics Αντιολισθητική Κρεμάστρα Ρούχων σε Γκρι Χρώμα Σετ 30τμχ CRP20G30</Name>
+		<Name>SONGMICS Αντιολισθητικές Κρεμάστρες Ρούχων 30 Τεμαχίων από Πλαστικό ABS, Λεπτό Προφίλ, Λαστιχένιες Λωρίδες σε Ώμους και Μπάρα Παντελονιών, Περιστρεφόμενος Γάντζος 360°, Αντοχή 5 kg ανά Κρεμάστρα, 42 cm, Δίχρωμες Γκρι CRP20G30</Name>
 		<URL>https://www.skroutz.gr/s/35216055/Songmics-Kremastra-Rouchon-se-Gri-CHroma-CRP20G30-30tmch.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/035216/35216055/xlarge_20220405113845_songmics_kremastra_rouchon_se_gri_chroma_crp20g30_30tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/058520/58520304/xlarge_20220405113845_8d5fb80b.jpeg https://b.scdn.gr/images/sku_images/058520/58520303/xlarge_20220405113845_8b256bf9.jpeg https://b.scdn.gr/images/sku_images/058520/58520305/xlarge_20220405113845_e5c30d8e.jpeg https://a.scdn.gr/images/sku_images/058520/58520306/xlarge_20220405113845_72fec82d.jpeg</Additional_Image>
@@ -21483,7 +21483,7 @@ Barcode
 	<product>
 		<SKU>77001245001</SKU>
 		<EAN>0194343155760</EAN>
-		<Name>Songmics Βελούδινη Κρεμάστρα Ρούχων σε Ροζ Χρώμα Σετ 50τμχ CRF21PK50</Name>
+		<Name>SONGMICS Βελούδινες Αντιολισθητικές Κρεμάστρες Ρούχων 50 Τεμαχίων, Πλαστικό ABS, Περιστρεφόμενος Μεταλλικός Γάντζος 360° Rose Gold, Μπάρα για Παντελόνια και Γραβάτες, Λεπτό Προφίλ 0,6 cm, Αντοχή 5 kg, Ανοιχτό Ροζ CRF21PK50</Name>
 		<URL>https://www.skroutz.gr/s/35216186/Songmics-Kremastra-Rouchon-se-Roz-CHroma-CRF21PK50-50tmch.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/035216/35216186/xlarge_20220405114014_songmics_kremastra_rouchon_se_roz_chroma_crf21pk50_50tmch.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/058696/58696000/xlarge_20220408101320_6cdc2234.jpeg https://c.scdn.gr/images/sku_images/058696/58696003/xlarge_20220408101320_b8c18c8e.jpeg https://c.scdn.gr/images/sku_images/058696/58696001/xlarge_20220408101320_83f736b1.jpeg https://c.scdn.gr/images/sku_images/058696/58696002/xlarge_20220408101320_6c1fd04c.jpeg</Additional_Image>
@@ -21498,7 +21498,7 @@ Barcode
 	<product>
 		<SKU>77001245002</SKU>
 		<EAN>0194343102467</EAN>
-		<Name>Songmics Βελούδινη Κρεμάστρα Ρούχων σε Μαύρο Χρώμα Σετ 50τμχ CRF50B</Name>
+		<Name>SONGMICS Βελούδινες Αντιολισθητικές Κρεμάστρες Ρούχων 50 Τεμαχίων, Μαύρες, Μεταλλικός Περιστρεφόμενος Γάντζος 360°, Μπάρα Παντελονιών και Υποδοχή για Γραβάτες, Λεπτό Προφίλ 0,6 cm, 45 × 24 cm CRF50B</Name>
 		<URL>https://www.skroutz.gr/s/31523153/Songmics-Kremastra-Rouchon-se-Mayro-CHroma-CRF50B-50tmch.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/031523/31523153/xlarge_20241219094324_songmics_kremastra_rouchon_se_mayro_chroma_crf50b_50tmch.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/106091/106091429/xlarge_20250116134023_ed585917.jpeg https://a.scdn.gr/images/sku_images/106091/106091430/xlarge_20250116134023_0f3e0d2f.jpeg https://a.scdn.gr/images/sku_images/106091/106091424/xlarge_20250116134023_6eb8f222.jpeg https://a.scdn.gr/images/sku_images/106091/106091425/xlarge_20250116134023_9d2acc1f.jpeg https://a.scdn.gr/images/sku_images/106091/106091426/xlarge_20250116134023_c0c42840.jpeg https://d.scdn.gr/images/sku_images/106091/106091427/xlarge_20250116134023_b21b2233.jpeg https://b.scdn.gr/images/sku_images/106091/106091432/xlarge_20250116134024_fe5f4f8d.jpeg https://c.scdn.gr/images/sku_images/106091/106091431/xlarge_20250116134023_8e71f04e.jpeg</Additional_Image>
@@ -21519,7 +21519,7 @@ Barcode
 	<product>
 		<SKU>77001245003</SKU>
 		<EAN>`0194343107172</EAN>
-		<Name>Songmics Βελούδινη Κρεμάστρα Ρούχων σε Λευκό Χρώμα Σετ 50τμχ CRF021W02</Name>
+		<Name>SONGMICS Βελούδινες Αντιολισθητικές Κρεμάστρες Ρούχων Σετ 50 Τεμαχίων, Λευκές με Γάντζους Rose Gold 360°, Μπάρα Παντελονιών, Εγκοπές για Τιράντες, Πλαστικό ABS, Αντοχή 5 kg ανά Κρεμάστρα, Λεπτό Προφίλ 0,6 cm, 43,5 × 22,5 cm CRF021W02</Name>
 		<URL>https://www.skroutz.gr/s/37955204/Songmics-Kremastra-Rouchon-Leyki-CRF021W02-50tmch.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/037955/37955204/xlarge_20220907132047_songmics_kremastra_rouchon_se_leyko_chroma_crf021w02_50tmch.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/CRF021W02/CRF021W02--2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF021W02/CRF021W02--3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF021W02/CRF021W02--4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF021W02/CRF021W02--5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF021W02/CRF021W02--6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/CRF021W02/CRF021W02--7-eu.jpg </Additional_Image>
@@ -21584,7 +21584,7 @@ Barcode
 	<product>
 		<SKU>7700125101</SKU>
 		<EAN>0194343127293</EAN>
-		<Name>Songmics Τροχήλατη Μεταλλική Κρεμάστρα Ρούχων Δαπέδου Βαρέως Τύπου με Ρόδες με Επεκτεινόμενη Ράγα και Κάτω Ράφι Μαύρη 92-132x45.4x160cm HSR13BKV1</Name>
+		<Name>SONGMICS Τροχήλατη Κρεμάστρα Ρούχων Βαρέως Τύπου με Επεκτεινόμενη Ράγα 92–132 cm, Αντοχή 90 kg, 4 Περιστρεφόμενους Τροχούς 360° με 2 Φρένα, Ατσάλινο Σκελετό, Κάτω Βάση Αποθήκευσης, Ύψος 160 cm, Μαύρη HSR13BK</Name>
 		<URL>https://www.skroutz.gr/s/24795140/Songmics-Trochilati-Kremastra-Dapedou-apo-Metallo-Mayri-132x45-4x160cm-HSR13BKV1.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024795/24795140/fixedratio_20200916145714_songmics_hsr13bkv1.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/034474/34474394/fixedratio_20200916145714_92b9fdb3.jpeg https://a.scdn.gr/images/sku_images/034474/34474392/fixedratio_20200916145714_da83ef34.jpeg https://c.scdn.gr/images/sku_images/034474/34474393/fixedratio_20200916145714_d5f4e221.jpeg https://a.scdn.gr/images/sku_images/034474/34474391/fixedratio_20200916145714_3319e1db.jpeg</Additional_Image>
@@ -21599,7 +21599,7 @@ Barcode
 	<product>
 		<SKU>7700125102</SKU>
 		<EAN>0194343375052</EAN>
-		<Name>Songmics Τροχήλατη Μεταλλική Κρεμάστρα Ρούχων Δαπέδου Βαρέως Τύπου με Ρόδες με Επεκτεινόμενη Ράγα και Κάτω Ράφι Inox 92-132x45.4x160cm HSR13S</Name>
+		<Name>SONGMICS Τροχήλατη Κρεμάστρα Ρούχων Βαρέως Τύπου με Επεκτεινόμενη Ράγα 92–132 cm, Αντοχή 90 kg, 4 Περιστρεφόμενους Τροχούς 360° με 2 Φρένα, Επιχρωμιωμένο Ατσάλι, Κάτω Βάση Αποθήκευσης, Ύψος 160 cm, Ασημί HSR13S</Name>
 		<URL>https://www.skroutz.gr/s/48752044/Songmics-Trochilati-Kremastra-Dapedou-apo-Metallo-Gri-92x45-4x160cm-HSR13S.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/086470/86470445/fixedratio_20231212141014_cd0ea4c3.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/086470/86470509/fixedratio_20231212141044_ab0dcb05.jpeg https://c.scdn.gr/images/sku_images/086470/86470423/fixedratio_20231212141009_d3b6a163.jpeg https://b.scdn.gr/images/sku_images/086470/86470445/fixedratio_20231212141014_cd0ea4c3.jpeg https://c.scdn.gr/images/sku_images/086470/86470462/fixedratio_20231212141019_7db270d2.jpeg https://b.scdn.gr/images/sku_images/086470/86470497/fixedratio_20231212141026_b1ddd73f.jpeg https://c.scdn.gr/images/sku_images/086470/86470501/fixedratio_20231212141031_4d267b80.jpeg https://b.scdn.gr/images/sku_images/086470/86470504/fixedratio_20231212141037_b1d98539.jpeg</Additional_Image>
@@ -21614,7 +21614,7 @@ Barcode
 	<product>
 		<SKU>7700125104</SKU>
 		<EAN>6955880317011</EAN>
-		<Name>Songmics Μεταλλική Κρεμάστρα Ρούχων Δαπέδου με 2 Ράφια 87.5x41x155cm Μαύρη HSR05B</Name>
+		<Name>SONGMICS Επιδαπέδια Μεταλλική Κρεμάστρα Ρούχων με 2 Ράφια για Παπούτσια και Κουτιά, Σκελετός Σχήματος Α, Αντοχή Ράγας 20 kg και Ραφιών 25 kg ανά Επίπεδο, 87,5 × 41 × 155 cm, Μαύρο HSR05B</Name>
 		<URL>https://www.skroutz.gr/s/24277309/Songmics-Kremastra-Dapedou-apo-Metallo-Mayri-87-5x41x155cm-HSR05B.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/024277/24277309/fixedratio_20200804175532_songmics_kremastra_dapedou_metalliki_hsr05b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR05BV1/HSR05B-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR05BV1/HSR05B-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR05BV1/HSR05B-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR05BV1/HSR05B-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR05BV1/HSR05B-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR05BV1/HSR05B-7.jpg</Additional_Image>
@@ -21650,7 +21650,7 @@ Barcode
 	<product>
 		<SKU>7700125201</SKU>
 		<EAN>6955880369768</EAN>
-		<Name>Songmics Τροχήλατη Διπλή Μεταλλική Κρεμάστρα Ρούχων Δαπέδου Βαρέως Τύπου με Ρόδες και Κάτω Ράφι Μαύρη 100x59x162cm HSR60BV1</Name>
+		<Name>SONGMICS Τροχήλατη Μεταλλική Κρεμάστρα Ρούχων Βαρέως Τύπου με 2 Ράγες Ανάρτησης, Κάτω Ράφι Αποθήκευσης, 4 Περιστρεφόμενες Ρόδες με 2 Φρένα, Συνολική Αντοχή 110 kg, 100 × 59 × 162 cm, Μαύρο HSR60BV1</Name>
 		<URL>https://www.skroutz.gr/s/24277306/Songmics-Trochilati-Kremastra-Dapedou-apo-Metallo-se-Mayro-CHroma-100x59x162cm-HSR60B.html</URL>
 		<Image>https://c.scdn.gr/images/sku_images/033962/33962011/fixedratio_20220510233034_2208da88.jpeg</Image>
 		<Additional_Image>https://c.scdn.gr/images/sku_images/033962/33962011/fixedratio_20220510233034_2208da88.jpeg https://b.scdn.gr/images/sku_images/033962/33962009/fixedratio_20220510233035_e714c18e.jpeg https://d.scdn.gr/images/sku_images/033962/33962010/fixedratio_20220510233037_88783bc6.jpeg https://a.scdn.gr/images/sku_images/033962/33962012/fixedratio_20220510233039_9997a146.jpeg https://a.scdn.gr/images/sku_images/033962/33962013/fixedratio_20220510233042_023f81e6.jpeg https://b.scdn.gr/images/sku_images/033962/33962014/fixedratio_20220510233044_47fc6048.jpeg</Additional_Image>
@@ -21665,7 +21665,7 @@ Barcode
 	<product>
 		<SKU>7700125202</SKU>
 		<EAN>6955880321261</EAN>
-		<Name>Songmics Τροχήλατη Διπλή Μεταλλική Κρεμάστρα Ρούχων Δαπέδου Βαρέως Τύπου με Ρόδες 129-169x 55x148/172cm Inox HSR12S</Name>
+		<Name>SONGMICS Τροχήλατη Μεταλλική Κρεμάστρα Ρούχων Βαρέως Τύπου με Διπλή Ράγα, Ρυθμιζόμενο Πλάτος 129–169 cm και Ύψος 148–172 cm, 4 Τροχούς 12 cm με 2 Φρένα, Μέγιστη Αντοχή 110 kg, Χρωμιωμένη HSR12S</Name>
 		<URL>https://www.skroutz.gr/s/48621881/Songmics-Trochilati-Kremastra-Dapedou-apo-Metallo-Gri-129x55x148cm-HSR12S.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/048621/48621881/fixedratio_20231206132914_songmics_trochilati_kremastra_dapedou_apo_metallo_gri_129x55x148cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/HSR12SV1/Heavy-Duty-Garment-Rack-HSR12S-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR12SV1/Heavy-Duty-Garment-Rack-HSR12S-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR12SV1/Heavy-Duty-Garment-Rack-HSR12S-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/HSR12SV1/Heavy-Duty-Garment-Rack-HSR12S-6.jpg</Additional_Image>
@@ -21753,7 +21753,7 @@ Barcode
 	<product>
 		<SKU>7700127202</SKU>
 		<EAN>6955880334049</EAN>
-		<Name>Vasagle Ξύλινο Κομοδίνο, Ανοιχτό με ατσάλινα πόδια Μ42xΠ35xΥ52cm, σε Ρουστίκ Καφέ και Μαύρο Χρώμα LET54X</Name>
+		<Name>VASAGLE Κομοδίνο Βιομηχανικού Στυλ με Ανοιχτό Αποθηκευτικό Χώρο και Υπερυψωμένα Πλαϊνά, Στοιβαζόμενο για Δημιουργία Ψηλού Βοηθητικού Τραπεζιού, Μεταλλικά Πόδια, Αντοχή 20 kg, 42 × 35 × 52 cm, Rustic Καφέ και Μαύρο LET54X</Name>
 		<URL>https://www.skroutz.gr/s/24367156/Komodino-Xylino-Kafe-42x35x52cm-LET54X.html?product_id=61432923&amp;sponsored=listing</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/024367/24367156/fixedratio_20220609121443_xylino_komodino_me_metallika_podia_42x35x52cm_let54x.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LET54X/Industriestil-Nachttisch-grosses-Fach-LET54X-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET54X/Industrietil-Nachttisch-grosses-Fach-LET54X-3.jpg.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET54X/Industrietil-Nachttisch-grosses-Fach-LET54X-4.jpg.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET54X/Industriestil-Nachttisch-grosses-Fach-LET54X-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET54X/Industriestil-Nachttisch-grosses-Fach-LET54X-6.jpg https://a.scdn.gr/images/sku_images/034047/34047963/fixedratio_20200812150711_8fad0aa0.jpeg https://b.scdn.gr/images/sku_images/034047/34047964/fixedratio_20200812150712_7af39829.jpeg https://c.scdn.gr/images/sku_images/061064/61064533/fixedratio_20220609121443_566c373a.jpeg </Additional_Image>
@@ -21791,7 +21791,7 @@ Barcode
 	<product>
 		<SKU>7700127203</SKU>
 		<EAN>0194343194172</EAN>
-		<Name>Vasagle Ξύλινο Κομοδίνο, με Συρτάρι και Ανοιχτό Τμήμα Μ39xΠ28xΥ41cm, σε Λευκό Χρώμα LET619T14</Name>
+		<Name>VASAGLE Κομοδίνο με Συρτάρι και Ανοιχτό Ράφι Αποθήκευσης, Μεταλλικό Πόμολο, Ομαλή Κύλιση Συρταριού, Ανθεκτική Μοριοσανίδα, Μέγιστο Συνολικό Φορτίο 75 kg, 39 × 28 × 41 cm, Λευκό LET619T14</Name>
 		<URL>https://www.skroutz.gr/s/52795956/Komodino-Xylino-Leyko-28x39x41cm-LET619T14.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/052795/52795956/xlarge_20260406144150_komodino_xylino_leyko_28x39x41cm_let619t14.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LET619T14/LET619T14-5.jpg </Additional_Image>
@@ -21827,140 +21827,157 @@ Barcode
 	<product>
 		<SKU>7700128101</SKU>
 		<EAN>0194343029467</EAN>
-		<Name>Vasagle Siren Συρταριέρα Κρεβατοκάμαρας με 6 Συρτάρια, Ξύλινη σε Vintage Λευκό και Μελί Καφέ Χρώμα Μ120xΠ40xΥ78cm LTS663WJ01</Name>
-		<URL>https://www.amazon.it/-/en/VASAGLE-Collection-LTS663WJ01-Versatile-Organizer/dp/B0G4QYLWFN?th=1</URL>
-		<Image>https://m.media-amazon.com/images/I/71G7FeUuS7L._AC_SL1500_.jpg</Image>
-		<Additional_Image>https://m.media-amazon.com/images/I/61DVjdaktcL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71GzkkH2RiL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81kJrmB7a1L._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81szaIPN5bL._AC_SL1500_.jpg https://m.media-amazon.com/images/I/71R563XJHML._AC_SL1500_.jpg https://m.media-amazon.com/images/I/81cS4f-Q0-L._AC_SL1500_.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ebb548e-a6e9-40c6-8622-b51931cb5f8a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/4fecc012-b33f-41af-a34a-81cc95c550d0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg https://m.media-amazon.com/images/S/aplus-media-library-service-media/d9cc76e6-407b-4e2b-8bfe-f0cb1941ed04.__CR0,0,1464,600_PT0_SX1464_V1___.jpg </Additional_Image>
+		<Name>VASAGLE SIREN Συρταριέρα 6 Συρταριών Country Style, Λευκό Vintage και Καφέ Μελί, Μοριοσανίδα και MDF, Αντοχή 10 kg ανά Συρτάρι και 50 kg στην Επιφάνεια, Σύστημα Προστασίας από Ανατροπή, 120 × 40 × 78 cm LTS663WJ01</Name>
+		<URL>https://eshop.promify.gr/spiti-kai-epipla/7518-vasagle-siren-syrtariera-6-syrtarion-country-style-120-40-78-cm-leyko-kai-kafe-lts663wj01-0194343029467.html</URL>
+		<Image>https://eshop.promify.gr/19893-large_default/vasagle-siren-syrtariera-krevatokamaras-me-6-syrtaria-xylini-se-vintage-leyko-kai-meli-kafe-chroma-m120xp40xy78cm-lts663wj01.jpg</Image>
+		<Additional_Image>https://media.promify.gr/public/7700128101/02.jpg https://media.promify.gr/public/7700128101/03.jpg https://media.promify.gr/public/7700128101/04.jpg https://media.promify.gr/public/7700128101/05.jpg https://media.promify.gr/public/7700128101/06.jpg https://media.promify.gr/public/7700128101/07.jpg https://media.promify.gr/public/7700128101/08.jpg https://media.promify.gr/public/7700128101/09.jpg https://media.promify.gr/public/7700128101/10.jpg </Additional_Image>
 		<Price>171.71</Price>
 		<Category>Συρταριέρες</Category>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LTS663WJ01</MPN>
-		<Description>Η συρταριέρα VASAGLE SIREN Collection συνδυάζει τη διαχρονική αισθητική του ρουστίκ σχεδιασμού με τη λειτουργικότητα που απαιτεί η σύγχρονη κατοικία. Η αρμονική αντίθεση ανάμεσα στο Vintage Λευκό σώμα και την επιφάνεια σε απόχρωση Μελί Καφέ, σε συνδυασμό με τα στρογγυλά μεταλλικά πόμολα και τις διακοσμητικές λεπτομέρειες τύπου shaker, δημιουργούν ένα έπιπλο που ταιριάζει ιδανικά σε κλασικούς, farmhouse, vintage αλλά και modern rustic χώρους.
+		<Description>VASAGLE SIREN LTS663WJ01 – Συρταριέρα 6 Συρταριών Country Style, Λευκό Vintage και Καφέ Μελί
 
-Με έξι ευρύχωρα συρτάρια και επιφάνεια μήκους 120 cm, προσφέρει άφθονο χώρο αποθήκευσης, διατηρώντας το υπνοδωμάτιο ή το σαλόνι οργανωμένο και καλαίσθητο.
+Προσθέστε ζεστασιά, κομψότητα και πρακτική οργάνωση στο σπίτι σας με τη συρταριέρα VASAGLE SIREN LTS663WJ01. Ένα ευρύχωρο έπιπλο αποθήκευσης με 6 συρτάρια, που συνδυάζει τη διαχρονική αισθητική της εξοχικής διακόσμησης Country Style με τη λειτουργικότητα ενός σύγχρονου επίπλου.
 
-Κομψός σχεδιασμός που ταιριάζει παντού
+Ο ιδιαίτερος συνδυασμός λευκού vintage φινιρίσματος με καφέ επιφάνεια σε απόχρωση μελιού δημιουργεί μια ζεστή και φιλόξενη ατμόσφαιρα, ενώ τα διακοσμητικά πλαίσια των συρταριών και τα σκούρα πόμολα αναδεικνύουν τον παραδοσιακό χαρακτήρα της σειράς SIREN.
 
-Η συλλογή SIREN ξεχωρίζει για τις καθαρές γραμμές, τις διακριτικές κορνίζες στις προσόψεις των συρταριών και τη ζεστή διχρωμία της.
+Με συνολικό πλάτος 120 cm, βάθος 40 cm και ύψος 78 cm, προσφέρει άνετους αποθηκευτικούς χώρους και μεγάλη επάνω επιφάνεια για διακοσμητικά αντικείμενα, φωτιστικά, βιβλία και προσωπικά είδη.
 
-Αποτελεί ιδανική επιλογή για:
+Η ανθεκτική κατασκευή από μοριοσανίδα και MDF εξασφαλίζει σταθερότητα στην καθημερινή χρήση, ενώ το παρεχόμενο σύστημα στερέωσης στον τοίχο συμβάλλει στην προστασία από ανατροπή.
 
-Υπνοδωμάτιο
-Σαλόνι
-Τραπεζαρία
-Δωμάτιο επισκεπτών
-Γραφείο
-Χωλ εισόδου
-Εξοχική κατοικία
+ΚΟΜΨΟΣ ΣΧΕΔΙΑΣΜΟΣ COUNTRY STYLE
 
-Η επάνω επιφάνεια μπορεί να διακοσμηθεί με φωτιστικά, κορνίζες, βάζα, βιβλία ή άλλα διακοσμητικά αντικείμενα, προσθέτοντας χαρακτήρα στον χώρο.
+Η συρταριέρα ξεχωρίζει για την ιδιαίτερη αισθητική της, που συνδυάζει παραδοσιακά διακοσμητικά στοιχεία με καθαρές γραμμές.
 
-Έξι μεγάλα συρτάρια αποθήκευσης
+Το λευκό vintage σώμα με τη διακριτική όψη παλαιωμένου ξύλου δημιουργεί μια αίσθηση φυσικότητας, ενώ η καφέ επάνω επιφάνεια προσθέτει ζεστασιά και όμορφη χρωματική αντίθεση.
 
-Τα έξι ευρύχωρα συρτάρια προσφέρουν οργανωμένο χώρο για καθημερινή χρήση.
+Τα ανάγλυφα πλαίσια στις προσόψεις των συρταριών και τα σκούρα πόμολα ολοκληρώνουν τον κομψό σχεδιασμό.
 
-Ιδανικά για αποθήκευση:
+Αποτελεί εξαιρετική επιλογή για χώρους με country, rustic, farmhouse, vintage ή κλασική διακόσμηση, αλλά μπορεί να συνδυαστεί και με μοντέρνα έπιπλα για ένα ενδιαφέρον αισθητικό αποτέλεσμα.
 
-Ρούχων
-Εσωρούχων
-Πλεκτών
-Πετσετών
-Σεντονιών
-Κουβερτών
-Αξεσουάρ
-Παιδικών ρούχων
-Εγγράφων
-Διαφόρων αντικειμένων του σπιτιού
+6 ΕΥΡΥΧΩΡΑ ΣΥΡΤΑΡΙΑ ΓΙΑ ΟΡΓΑΝΩΜΕΝΗ ΑΠΟΘΗΚΕΥΣΗ
 
-Η διάταξη των συρταριών διευκολύνει την οργάνωση και την εύκολη πρόσβαση στα αντικείμενα.
+Η συρταριέρα διαθέτει 6 ανεξάρτητα συρτάρια, τοποθετημένα σε δύο κάθετες σειρές των τριών, επιτρέποντας την εύκολη ταξινόμηση διαφορετικών αντικειμένων.
 
-Πολυχρηστικό έπιπλο
+Κάθε συρτάρι προσφέρει πρακτικό αποθηκευτικό χώρο για ρούχα, εσώρουχα, πετσέτες, λευκά είδη, αξεσουάρ και προσωπικά αντικείμενα.
 
-Χάρη στον διαχρονικό σχεδιασμό της, η συρταριέρα μπορεί να χρησιμοποιηθεί ως:
+Με ύψος πρόσοψης περίπου 22 cm, εσωτερικό ύψος περίπου 14 cm και βάθος περίπου 34 cm, τα συρτάρια διευκολύνουν την οργάνωση της καθημερινής γκαρνταρόμπας.
 
-Συρταριέρα υπνοδωματίου
-Έπιπλο σαλονιού
-Μπουφές
-Έπιπλο εισόδου
-Έπιπλο αποθήκευσης
-Έπιπλο διαδρόμου
-Βοηθητικό έπιπλο γραφείου
-Χώρος προβολής διακοσμητικών αντικειμένων
-Ανθεκτική κατασκευή
+Η διάταξη των έξι συρταριών επιτρέπει τον διαχωρισμό των αντικειμένων ανά κατηγορία, διευκολύνοντας την καθημερινή χρήση.
 
-Η κατασκευή από υψηλής ποιότητας μηχανικά επεξεργασμένο ξύλο (Engineered Wood / Particle Board) προσφέρει εξαιρετική αντοχή και σταθερότητα στην καθημερινή χρήση.
+Μέγιστο στατικό φορτίο ανά συρτάρι: 10 kg.
 
-Η ανθεκτική βαφή προστατεύει την επιφάνεια και καθαρίζεται εύκολα με ένα ελαφρώς νωπό πανί.
+ΜΕΓΑΛΗ ΕΠΑΝΩ ΕΠΙΦΑΝΕΙΑ ΜΕ ΑΝΤΟΧΗ 50 kg
 
-Σχεδιασμένη για ασφαλή χρήση
+Η ευρύχωρη επάνω επιφάνεια προσφέρει πρόσθετο λειτουργικό χώρο, επιτρέποντας τη χρήση της συρταριέρας και ως βοηθητικού επίπλου.
 
-Η συρταριέρα συνοδεύεται από κιτ στερέωσης στον τοίχο (anti-tip kit), το οποίο συμβάλλει στην αποφυγή ανατροπής, ιδιαίτερα σε σπίτια με παιδιά ή κατοικίδια.
+Μπορείτε να τοποθετήσετε διακοσμητικά βάζα, κορνίζες, βιβλία, φωτιστικά, μικρά φυτά ή άλλα αντικείμενα που συμπληρώνουν τη διακόσμηση του χώρου.
 
-Η χρήση του συνιστάται για μέγιστη ασφάλεια.
+Με διαστάσεις 120 × 40 cm, προσφέρει αρκετό χώρο για την οργάνωση και παρουσίαση των αγαπημένων σας αντικειμένων.
 
-Διακοσμητική επιφάνεια 120 cm
+Μέγιστο στατικό φορτίο επάνω επιφάνειας: 50 kg.
 
-Η μεγάλη επιφάνεια προσφέρει άνετο χώρο για:
+ΠΟΛΛΑΠΛΕΣ ΔΥΝΑΤΟΤΗΤΕΣ ΧΡΗΣΗΣ
 
-Επιτραπέζιο φωτιστικό
-Καθρέφτη
-Βάζα
-Κορνίζες
-Βιβλία
-Κεριά
-Διακοσμητικά αντικείμενα
-Φυτά εσωτερικού χώρου
+Η VASAGLE SIREN LTS663WJ01 είναι ένα ευέλικτο έπιπλο που μπορεί να χρησιμοποιηθεί σε διαφορετικούς χώρους του σπιτιού.
 
-Με αυτόν τον τρόπο λειτουργεί τόσο ως αποθηκευτικό όσο και ως διακοσμητικό έπιπλο.
+Στο υπνοδωμάτιο: Ως κύρια ή συμπληρωματική συρταριέρα για ρούχα, εσώρουχα, πιτζάμες και προσωπικά αντικείμενα.
 
-Γιατί να επιλέξετε τη VASAGLE SIREN
+Στο σαλόνι: Ως διακοσμητικός μπουφές ή βοηθητικό έπιπλο αποθήκευσης για μικροαντικείμενα, επιτραπέζια παιχνίδια και αξεσουάρ.
 
-✔ Κομψός ρουστίκ σχεδιασμός
+Στην είσοδο: Ως κονσόλα οργάνωσης για καθημερινά αντικείμενα, έγγραφα και αξεσουάρ.
 
-✔ Vintage Λευκό &amp; Μελί Καφέ
+Στο δωμάτιο φιλοξενίας: Ως πρακτικός αποθηκευτικός χώρος για ρούχα και είδη προσωπικής χρήσης.
 
-✔ 6 μεγάλα συρτάρια
+Κάτω από έναν καθρέφτη: Η μεγάλη επάνω επιφάνεια μπορεί να αξιοποιηθεί για τη δημιουργία ενός όμορφου σημείου περιποίησης ή διακόσμησης.
 
-✔ Μεγάλη επιφάνεια 120 cm
+ΑΝΘΕΚΤΙΚΗ ΚΑΤΑΣΚΕΥΗ ΑΠΟ ΜΟΡΙΟΣΑΝΙΔΑ ΚΑΙ MDF
 
-✔ Μεταλλικά πόμολα
+Η συρταριέρα κατασκευάζεται από μοριοσανίδα και MDF, υλικά που συνδυάζουν σταθερότητα και πρακτικότητα για καθημερινή χρήση.
 
-✔ Υψηλή σταθερότητα
+Η στιβαρή κατασκευή, τα κατάλληλα εξαρτήματα σύνδεσης και ο προσεγμένος σχεδιασμός των επιμέρους τμημάτων προσφέρουν ένα λειτουργικό έπιπλο για μακροχρόνια οικιακή χρήση.
 
-✔ Περιλαμβάνεται κιτ στερέωσης στον τοίχο
+Η επάνω επιφάνεια έχει μέγιστη στατική αντοχή 50 kg, ενώ κάθε συρτάρι υποστηρίζει ανεξάρτητα φορτίο έως 10 kg.
 
-✔ Εύκολος καθαρισμός
+ΑΣΦΑΛΕΙΑ ΚΑΙ ΠΡΟΣΤΑΣΙΑ ΑΠΟ ΑΝΑΤΡΟΠΗ
 
-✔ Ιδανική για κάθε χώρο του σπιτιού
+Η VASAGLE SIREN διαθέτει παρεχόμενο σύστημα στερέωσης στον τοίχο, το οποίο πρέπει να εγκατασταθεί για την αποφυγή ανατροπής.
 
-Τεχνικά χαρακτηριστικά
-Brand: VASAGLE
+Η στερέωση είναι ιδιαίτερα σημαντική σε σπίτια με παιδιά, καθώς συμβάλλει στη σταθερότητα του επίπλου κατά τη χρήση των συρταριών.
+
+Στο κάτω μέρος της κατασκευής προβλέπονται επίσης δύο μεταλλικά εξαρτήματα στήριξης, τα οποία πρέπει να τοποθετηθούν κατά τη συναρμολόγηση.
+
+Για την ασφαλή χρήση του προϊόντος απαιτείται πλήρης συναρμολόγηση και σωστή εγκατάσταση σύμφωνα με τις οδηγίες.
+
+ΕΥΚΟΛΗ ΣΥΝΑΡΜΟΛΟΓΗΣΗ ΜΕ ΑΝΑΛΥΤΙΚΕΣ ΟΔΗΓΙΕΣ
+
+Η συρταριέρα παραδίδεται αποσυναρμολογημένη, με τα απαραίτητα εξαρτήματα σύνδεσης, αριθμημένα μέρη και εικονογραφημένες οδηγίες.
+
+Η οργανωμένη διαδικασία συναρμολόγησης διευκολύνει την αναγνώριση των επιμέρους εξαρτημάτων και τη σωστή τοποθέτησή τους.
+
+Στη συσκευασία περιλαμβάνεται επίσης το σύστημα στερέωσης στον τοίχο για προστασία από ανατροπή.
+
+ΤΕΧΝΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ
+
+Μάρκα: VASAGLE
 Σειρά: SIREN Collection
 Μοντέλο: LTS663WJ01
-Τύπος: Συρταριέρα
+Τύπος: Συρταριέρα / Μπουφές αποθήκευσης
+Στυλ: Country / Rustic / Vintage / Farmhouse
+Χρώμα: Λευκό vintage και καφέ μελί
+Υλικά κατασκευής: Μοριοσανίδα και MDF
+Συνολικές διαστάσεις: 120 × 40 × 78 cm (Πλάτος × Βάθος × Ύψος)
 Αριθμός συρταριών: 6
-Υλικό: Μηχανικά επεξεργασμένο ξύλο (Engineered Wood / Particle Board)
-Χρώμα: Vintage Λευκό &amp; Μελί Καφέ
-Φινίρισμα: Βαμμένη επιφάνεια
-Σχήμα: Ορθογώνιο
-Τοποθέτηση: Δαπέδου
-Διαστάσεις: 120 × 40 × 78 cm
-Βάρος προϊόντος: 28,8 kg
-Κιτ αντι-ανατροπής: Περιλαμβάνεται
-Απαιτείται συναρμολόγηση: Ναι
-Οδηγίες συναρμολόγησης: Περιλαμβάνονται
-Περιεχόμενα συσκευασίας
-1 × Συρταριέρα VASAGLE SIREN
-1 × Κιτ στερέωσης στον τοίχο (Anti-Tip Kit)
+Διάταξη συρταριών: 2 στήλες × 3 σειρές
+Ύψος πρόσοψης συρταριού: περίπου 22 cm
+Εσωτερικό ύψος συρταριού: περίπου 14 cm
+Βάθος συρταριού: περίπου 34 cm
+Καθαρό βάρος προϊόντος: 28,8 kg
+Μέγιστο στατικό φορτίο ανά συρτάρι: 10 kg
+Μέγιστο στατικό φορτίο επάνω επιφάνειας: 50 kg
+Σύστημα προστασίας από ανατροπή: Περιλαμβάνεται
+Στερέωση στον τοίχο: Υποχρεωτική
+Συναρμολόγηση: Απαιτείται
+Προτεινόμενοι χώροι: Υπνοδωμάτιο, σαλόνι, καθιστικό, είσοδος, δωμάτιο φιλοξενίας
+Χρήση: Εσωτερικοί χώροι
+
+ΠΕΡΙΕΧΟΜΕΝΑ ΣΥΣΚΕΥΑΣΙΑΣ
+
+1 × Συρταριέρα VASAGLE SIREN LTS663WJ01
+1 × Σύστημα στερέωσης στον τοίχο
 1 × Σετ εξαρτημάτων συναρμολόγησης
-1 × Αναλυτικές οδηγίες εγκατάστασης</Description>
+1 × Οδηγίες συναρμολόγησης
+
+ΣΗΜΑΝΤΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ
+
+Το προϊόν παραδίδεται αποσυναρμολογημένο.
+
+Η συρταριέρα πρέπει να στερεώνεται στον τοίχο με το παρεχόμενο σύστημα προστασίας από ανατροπή.
+
+Τα δύο μεταλλικά εξαρτήματα στήριξης στο κάτω μέρος αποτελούν υποχρεωτικά μέρη της κατασκευής.
+
+Μην επιτρέπετε στα παιδιά να σκαρφαλώνουν ή να παίζουν με τα συρτάρια ή το έπιπλο.
+
+Μην υπερβαίνετε το μέγιστο στατικό φορτίο των 10 kg ανά συρτάρι ή των 50 kg στην επάνω επιφάνεια.
+
+ΒΙΝΤΕΟ ΠΑΡΟΥΣΙΑΣΗΣ
+
+Παρακολουθήστε το βίντεο παρουσίασης της συρταριέρας VASAGLE SIREN LTS663WJ01 και γνωρίστε τον σχεδιασμό και τις δυνατότητες αποθήκευσης του προϊόντος.
+
+https://media.promify.gr/public/7700128101/LTS663WJ01_Video.mp4
+
+ΟΔΗΓΙΕΣ ΣΥΝΑΡΜΟΛΟΓΗΣΗΣ (PDF)
+
+Δείτε τις αναλυτικές οδηγίες συναρμολόγησης και ασφαλούς εγκατάστασης της συρταριέρας.
+
+https://media.promify.gr/public/7700128101/97e19ee0c05e9889a4a12960f5bfeacf1e1868155dcc10220b9e9adbcc1ed102.pdf</Description>
 		<Quantity>0</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
 		<SKU>7700128102</SKU>
 		<EAN>0194343628066</EAN>
-		<Name>Vasagle Συρταριέρα Κρεβατοκάμαρας με 4 Συρτάρια, Ξύλινη σε Λευκό Χρώμα Μ60xΠ40xΥ97,4cm LTS614WE02</Name>
+		<Name>VASAGLE KAILYN Συρταριέρα 4 Συρταριών Χωρίς Πόμολα, Μοντέρνος Μινιμαλιστικός Σχεδιασμός, Μοριοσανίδα και MDF, Αντοχή 75 kg στην Επιφάνεια και 6,8 kg ανά Συρτάρι, 2 Συστήματα Αντι-Ανατροπής, 60 × 40 × 97,4 cm, Λευκή LTS614WE02</Name>
 		<URL>https://www.amazon.de/-/en/VASAGLE-Drawers-Cabinet-Collection-LTS614WE02/dp/B0F8HTZZ62?th=1</URL>
 		<Image>https://m.media-amazon.com/images/I/71OoNI3bwlL._AC_SL1500_.jpg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-2-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-3-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-4-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-5-DE.jpg https://static.eu.distributor.songmics.com/products/LTS614WE02/LTS614WE02-6-DE.jpg </Additional_Image>
@@ -21999,7 +22016,7 @@ Brand: VASAGLE
 	<product>
 		<SKU>7700130101</SKU>
 		<EAN>0194343107776</EAN>
-		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Ρυθμιζόμενο Φωτισμό 80x40x145cm RDT114W01 / RDT114WB01</Name>
+		<Name>VASAGLE Τουαλέτα Μακιγιάζ με Καθρέφτη και 9 Ρυθμιζόμενους Λαμπτήρες, 2 Συρτάρια, 3 Ανοιχτές Θήκες Αποθήκευσης, Μοντέρνος Σχεδιασμός, Μοριοσανίδα και MDF, Σύστημα Αντι-Ανατροπής, 80 × 40 × 145 cm, Λευκή RDT114W01 / RDT114WB01</Name>
 		<URL>https://www.skroutz.gr/s/38621267/Toualeta-Krevatokamaras-Xylini-Leyki-me-Kathrepti-80x40x145ek-RDT114W01.html#reviews</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/038621/38621267/fixedratio_20221010163838_xylini_toualeta_krevatokamaras_leyki_me_kathrepti_80x40x145ek_rdt114w01.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/065770/65770065/20221010163838_21d1eddc.jpeg https://d.scdn.gr/images/sku_images/111248/111248020/20250513161835_94446d23.jpeg https://c.scdn.gr/images/sku_images/111248/111248047/20250513161852_02aea325.jpeg https://c.scdn.gr/images/sku_images/111248/111248074/20250513161902_72bf8940.jpeg https://b.scdn.gr/images/sku_images/065770/65770069/20221010163839_bd6a2bac.jpeg https://c.scdn.gr/images/sku_images/065770/65770064/20221010163838_a17b2a98.jpeg https://b.scdn.gr/images/sku_images/065770/65770066/20221010163838_c7363c0b.jpeg https://b.scdn.gr/images/sku_images/065770/65770067/20221010163839_f1fd97b0.jpeg https://a.scdn.gr/images/sku_images/065770/65770068/20221010163839_1597a857.jpeg https://d.scdn.gr/images/sku_images/111248/111248002/20250513161823_db07ccb3.jpeg </Additional_Image>
@@ -22028,7 +22045,7 @@ Brand: VASAGLE
 	<product>
 		<SKU>7700130102</SKU>
 		<EAN>0194343038032</EAN>
-		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Φωτισμό 90x40x145cm RDT123T14V1</Name>
+		<Name>VASAGLE Τουαλέτα Μακιγιάζ με Φωτιζόμενο Καθρέφτη LED 3 Αποχρώσεων και Ρυθμιζόμενη Φωτεινότητα, 2 Συρτάρια, 7 Ανοιχτές Θήκες, Ρυθμιζόμενα Ράφια, Κρυφή Αποθήκευση πίσω από τον Καθρέφτη, 90 × 40 × 144,7 cm, Λευκή RDT123T14V1</Name>
 		<URL>https://www.skroutz.gr/s/52594024/Toualeta-Krevatokamaras-Xylini-Mpountouar-me-Kathrepti-90x40x145ek-RDT123T14.html</URL>
 		<Image>https://b.scdn.gr/images/sku_images/094411/94411771/fixedratio_20240419135057_044f82b5.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/094411/94411782/fixedratio_20240419135111_75b09c8d.jpeg https://a.scdn.gr/images/sku_main_images/052594/52594024/fixedratio_20240419135052_toualeta_krevatokamaras_xylini_mpountouar_me_kathrepti_90x40x145ek_rdt123t14.jpeg https://b.scdn.gr/images/sku_images/094411/94411771/fixedratio_20240419135057_044f82b5.jpeg https://c.scdn.gr/images/sku_images/094411/94411774/fixedratio_20240419135100_5bf1a6b9.jpeg https://a.scdn.gr/images/sku_images/094411/94411777/fixedratio_20240419135103_eabca0f2.jpeg https://d.scdn.gr/images/sku_images/094411/94411779/fixedratio_20240419135106_129e8d03.jpeg https://d.scdn.gr/images/sku_images/094411/94411780/fixedratio_20240419135108_9f963447.jpeg</Additional_Image>
@@ -22055,7 +22072,7 @@ Brand: VASAGLE
 	<product>
 		<SKU>7700130103</SKU>
 		<EAN>0194343013169</EAN>
-		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας από Ξύλο &amp; Μέταλλο Καφέ με Καθρέπτη και Μεταλλικό Σκαμπό 90x40x141cm RVT004B01V1</Name>
+		<Name>VASAGLE Τουαλέτα Μακιγιάζ με Τρίπτυχο Αναδιπλούμενο Καθρέφτη, 3 Συρτάρια, 4 Ανοιχτές Θήκες, Βάση για Πιστολάκι, Πλαϊνό Καλαθάκι και Σκαμπό με Μαξιλάρι, Μεταλλικό Σκελετό, 90 × 40 × 141 cm, Vintage Καφέ και Μαύρο RVT004B01</Name>
 		<URL>https://www.skroutz.gr/s/36477711/Toualeta-Krevatokamaras-apo-Xylo-Metallo-Kafe-me-Kathrepti-90x40x141ek-RVT004B01.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/036477/36477711/fixedratio_20220608102909_toualeta_krevatokamaras_apo_xylo_metallo_kafe_me_kathrepti_90x40x141ek_rvt004b01.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/060993/60993405/fixedratio_20220608102911_cb3aa241.jpeg https://d.scdn.gr/images/sku_images/060993/60993394/fixedratio_20220608102910_914115b8.jpeg https://b.scdn.gr/images/sku_images/060993/60993395/fixedratio_20220608102910_69052608.jpeg https://a.scdn.gr/images/sku_images/060993/60993396/fixedratio_20220608102910_a3e1cd09.jpeg https://c.scdn.gr/images/sku_images/060993/60993398/fixedratio_20220608102910_0f12cf49.jpeg https://a.scdn.gr/images/sku_images/060993/60993399/fixedratio_20220608102910_4441eb19.jpeg https://a.scdn.gr/images/sku_images/060993/60993402/fixedratio_20220608102910_0d90ad12.jpeg</Additional_Image>
@@ -22092,7 +22109,7 @@ Brand: VASAGLE
 	<product>
 		<SKU>77001301031</SKU>
 		<EAN>0194343262451</EAN>
-		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας από Ξύλο &amp; Μέταλλο σε Γκρι/Μαύρο Χρώμα με Καθρέπτη και Μεταλλικό Σκαμπό 90x40x141cm RVT004B02</Name>
+		<Name>VASAGLE Τουαλέτα Μακιγιάζ με Τρίπτυχο Αναδιπλούμενο Καθρέφτη, 3 Συρτάρια, 4 Ανοιχτές Θήκες, Βάση για Πιστολάκι, Πλαϊνό Καλαθάκι και Σκαμπό με Μαξιλάρι, Μεταλλικό Σκελετό, 90 × 40 × 141 cm, Γκρι και Μαύρο RVT004B02</Name>
 		<URL>https://www.skroutz.gr/s/47942071/Toualeta-Krevatokamaras-apo-Xylo-Metallo-Kafe-me-Kathrepti-90x40x141ek-RVT004B02.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/047942/47942071/fixedratio_20231110154208_toualeta_krevatokamaras_apo_xylo_metallo_kafe_me_kathrepti_90x40x141ek_rvt004b02.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-7-eu.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-6.jpg </Additional_Image>
@@ -22129,7 +22146,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130104</SKU>
 		<EAN>0194343020570</EAN>
-		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή, Διαθέτει Ντουλάπι με Καθρέπτη, Ράφια και μεγάλο Συρτάρι 70x40x136cm RDT118W01</Name>
+		<Name>VASAGLE Τουαλέτα Μακιγιάζ με Καθρέφτη, Ευρύχωρο Συρτάρι, Πλαϊνά Ράφια και Κρυφό Αποθηκευτικό Χώρο πίσω από τον Καθρέφτη, Μοντέρνος Μινιμαλιστικός Σχεδιασμός, Μοριοσανίδα, 70 × 40 × 136 cm, Λευκή RDT118W01</Name>
 		<URL>https://www.skroutz.gr/s/46763240/Toualeta-Krevatokamaras-Xylini-Mpountouar-Leyko-me-Kathrepti-70x40x136ek-RDT118W01.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/046763/46763240/fixedratio_20231012100914_toualeta_krevatokamaras_xylini_mpountouar_leyko_me_kathrepti_70x40x136ek_rdt118w01.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/RDT118W01/RDT118W01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT118W01/RDT118W01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT118W01/RDT118W01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT118W01/RDT118W01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT118W01/RDT118W01-6.jpg</Additional_Image>
@@ -22166,7 +22183,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130105</SKU>
 		<EAN>5903332070633</EAN>
-		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή, με Μεγάλο Καθρέπτη, Ρυθμιζόμενο Φωτισμό και 2 Συρτάρια 80x40x140cm RDT120WB01</Name>
+		<Name>VASAGLE Τουαλέτα Μακιγιάζ με Καθρέφτη και 9 Λάμπες LED Ρυθμιζόμενης Φωτεινότητας, 2 Συρτάρια, 3 Ανοιχτές Θήκες, Επιφάνεια Μελαμίνης, Μοντέρνος Σχεδιασμός, 80 × 40 × 140 cm, Λευκή RDT120T10 / RDT120WB01</Name>
 		<URL>https://www.skroutz.gr/s/49269029/Toualeta-Krevatokamaras-Xylini-Leyko-me-Kathrepti-80x40x140ek-RDT120T10.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/049269/49269029/fixedratio_20240116113320_toualeta_krevatokamaras_xylini_leyko_me_kathrepti_80x40x140ek_rdt120t10.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-10.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-8.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RDT120T10/RDT120T10-9.jpg</Additional_Image>
@@ -22203,7 +22220,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130201</SKU>
 		<EAN>0194343185996</EAN>
-		<Name>SONGMICS Καθρέπτης Δαπέδου Περιστρεφόμενος 360°,  με Κλείδωμα, Εσωτερικές Θήκες Κοσμημάτων και 3 Εξωτερικά Ράφια, 37x9.5x155cm, σε Λευκό Χρώμα με Γκριζωπά Νήματα Ξύλου JJC62WT</Name>
+		<Name>SONGMICS Κοσμηματοθήκη Δαπέδου με Ολόσωμο Καθρέφτη, Περιστροφή 360°, Κλειδαριά, Εσωτερικό Καθρεφτάκι, Θήκες για Σκουλαρίκια, Δαχτυλίδια και Κολιέ, 3 Πίσω Ράφια, Βελούδινη Επένδυση, 54 × 54 × 161 cm, Λευκή JJC62WT</Name>
 		<URL>https://www.skroutz.gr/s/21150774/Songmics-Kathreptis-Dapedou-me-Xylino-Plaisio-JBC62W-38x38x161ek.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/021150/21150774/fixedratio_20191127161929_songmics_jbc62w.jpeg</Image>
 		<Additional_Image>https://a.scdn.gr/images/sku_images/029156/29156772/fixedratio_20191127161931_f05e15d4.jpeg https://d.scdn.gr/images/sku_images/029156/29156768/fixedratio_20191127161930_e8104845.jpeg https://d.scdn.gr/images/sku_images/029156/29156769/fixedratio_20191127161930_355376dc.jpeg https://c.scdn.gr/images/sku_images/029156/29156771/fixedratio_20191127161931_e1994bc7.jpeg</Additional_Image>
@@ -22240,7 +22257,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130202</SKU>
 		<EAN>0194343030357</EAN>
-		<Name>SONGMICS Καθρέπτης Δαπέδου Περιστρεφόμενος 360°,  με Κλείδωμα, Εσωτερικές Θήκες Κοσμημάτων, 6 Εσωτερικά Led και 3 Εξωτερικά Ράφια, 37x9.4x155cm, σε Λευκό Χρώμα JJC007W01</Name>
+		<Name>SONGMICS Κοσμηματοθήκη Δαπέδου με Ολόσωμο Καθρέφτη 37 × 155 cm, Κλειδαριά, 6 LED, Εσωτερικό Καθρέφτη, Αναδιπλούμενο Ραφάκι Μακιγιάζ, 2 Συρτάρια, Θήκες για Κοσμήματα, Βελούδινη Επένδυση, 54,5 × 54,5 × 162 cm, Λευκή JJC007W01</Name>
 		<URL>https://www.skroutz.gr/s/47825918/Songmics-Kathreptis-Dapedou-me-Xylino-Plaisio-JJC007W01-37x9-4x162ek.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/047825/47825918/fixedratio_20231108093415_songmics_kathreptis_dapedou_me_xylino_plaisio_jjc007w01_37x9_4x162ek.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/JJC007W01/JJC007W01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JJC007W01/JJC007W01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JJC007W01/JJC007W01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JJC007W01/JJC007W01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JJC007W01/JJC007W01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JJC007W01/JJC007W01-7.jpg</Additional_Image>
@@ -22277,7 +22294,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130501</SKU>
 		<EAN>0194343005225</EAN>
-		<Name>Songmics Μπιζουτιέρα Κουτί Ξύλινη με Συρτάρι &amp; Καθρέφτη 27x12.5x12.5cm JOW008K01</Name>
+		<Name>SONGMICS Ξύλινη Θήκη Ρολογιών 8 Θέσεων και Κοσμημάτων, Διώροφη με Γυάλινο Καπάκι, Συρτάρι με Χωρίσματα, Βελούδινη Επένδυση, Μαξιλαράκια Ρολογιών, Ξύλο Παυλώνιας, 27 × 19 × 12,5 cm, Καρυδί JOW008K01</Name>
 		<URL>https://www.skroutz.gr/s/43748642/Songmics-Mpizoutiera-Kouti-Xylini-me-Syrtari-Kathrefti-27x12-5x12-5cm-JOW008K01.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/043748/43748642/fixedratio_20230630132602_songmics_mpizoutiera_kouti_xylini_me_syrtari_kathrefti_jow008k01.jpeg</Image>
 		<Additional_Image>https://d.scdn.gr/images/sku_images/078659/78659722/fixedratio_20250916194712_ebd646eb.jpeg https://b.scdn.gr/images/sku_images/078659/78659718/fixedratio_20250916194707_e1143487.jpeg https://c.scdn.gr/images/sku_images/078659/78659719/fixedratio_20250916194716_35c6373d.jpeg https://a.scdn.gr/images/sku_images/078659/78659715/fixedratio_20250916194720_ad8f5048.jpeg https://d.scdn.gr/images/sku_images/078659/78659720/fixedratio_20250916194724_8b2487fd.jpeg https://c.scdn.gr/images/sku_images/078659/78659717/fixedratio_20250916194734_bc1a331d.jpeg https://c.scdn.gr/images/sku_images/078659/78659721/fixedratio_20250916194739_0e51bc1b.jpeg</Additional_Image>
@@ -22297,7 +22314,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130511</SKU>
 		<EAN>0194343046648</EAN>
-		<Name>Songmics Ξύλινη Θήκη με διάφανο καπάκι για 12 ρολόγια με αφαιρούμενα μαξιλαράκια, μεταλλικό κούμπωμα, σε μαύρο συνθετικό δέρμα και γκρι επένδυση 30.2x20.2x8cm JWB12BK</Name>
+		<Name>SONGMICS Θήκη Ρολογιών 12 Θέσεων με Γυάλινο Καπάκι, Αφαιρούμενα Μαξιλαράκια, Βελούδινη Επένδυση, Εξωτερική Επένδυση Συνθετικού Δέρματος PU, Μεταλλικό Κούμπωμα, για Ρολόγια και Κοσμήματα, 30,2 × 20,2 × 8,1 cm, Μαύρο JWB12BK</Name>
 		<URL>https://www.skroutz.gr/s/31127271/Songmics-Xylini-THiki-me-diafano-kapaki-gia-12-rologia-se-Mayro-chroma-JWB12BK.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/031127/31127271/fixedratio_20250916194852_songmics_xylini_thiki_me_diafano_kapaki_gia_12_rologia_se_mayro_chroma_jwb12bk.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/050063/50063655/fixedratio_20250916194904_77e37a4a.jpeg https://c.scdn.gr/images/sku_images/050063/50063654/fixedratio_20250916194856_9a7668e0.jpeg https://d.scdn.gr/images/sku_images/050063/50063653/fixedratio_20250916194859_74f1faac.jpeg https://c.scdn.gr/images/sku_images/050063/50063652/fixedratio_20250916194902_5ceaaa9a.jpeg https://b.scdn.gr/images/sku_images/066955/66955949/fixedratio_20250916194910_42612b15.jpeg</Additional_Image>
@@ -22330,7 +22347,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>77001305111</SKU>
 		<EAN>6955880340682</EAN>
-		<Name>Songmics Ξύλινη Θήκη με διάφανο καπάκι για 6 ρολόγια με αφαιρούμενα μαξιλαράκια, μεταλλικό κούμπωμα, σε μαύρο συνθετικό δέρμα και γκρι επένδυση 11.2x30x8cm JWB06BK</Name>
+		<Name>SONGMICS Θήκη Ρολογιών 6 Θέσεων με Γυάλινο Καπάκι, Αφαιρούμενα Μαξιλαράκια, Γκρι Βελούδινη Επένδυση, Εξωτερική Επένδυση Συνθετικού Δέρματος PU, Μεταλλικό Κούμπωμα, για Ρολόγια και Κοσμήματα, 30 × 11,2 × 8 cm, Μαύρο JWB06BK</Name>
 		<URL>https://www.skroutz.gr/s/43973811/Songmics-Xylini-THiki-me-diafano-kapaki-gia-6-rologia-se-Mayro-chroma-JWB06BK.html</URL>
 		<Image>https://b.scdn.gr/images/sku_main_images/043973/43973811/fixedratio_20250916194853_songmics_xylini_thiki_me_diafano_kapaki_gia_6_rologia_se_mayro_chroma_jwb06bk.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/JWB12BK/Uhrenbox-mit-Glasdeckel-JWB12BK-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JWB12BK/Uhrenbox-mit-Glasdeckel-JWB12BK-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JWB12BK/Uhrenbox-mit-Glasdeckel-JWB12BK-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JWB12BK/Uhrenbox-mit-Glasdeckel-JWB12BK-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JWB12BK/Uhrenbox-mit-Glasdeckel-JWB12BK-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JWB12BK/Uhrenbox-mit-Glasdeckel-JWB12BK-7.jpg</Additional_Image>
@@ -22362,7 +22379,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130512</SKU>
 		<EAN>6955880332069</EAN>
-		<Name>Songmics Μπιζουτιέρα που Κλειδώνει με PU Δέρμα, Βελούδινη Επένδυση, Συρτάρι &amp; Καθρέφτη 26x18x17cm σε Λευκό Χρώμα JBC121W</Name>
+		<Name>SONGMICS Κοσμηματοθήκη με 2 Συρτάρια, 2 Πλαϊνές Πόρτες, Καθρέφτη, Αφαιρούμενη Θήκη Ταξιδιού, Θέσεις για Δαχτυλίδια, Σκουλαρίκια, Κολιέ και Βραχιόλια, Βελούδινη Επένδυση, Κλείδωμα με 2 Κλειδιά, 26 × 18 × 17 cm, Λευκό JBC121W</Name>
 		<URL>https://www.skroutz.gr/s/26533335/Songmics-Mpizoutiera-Kouti-Metalliki-me-Syrtari-Kathrefti-26x18x17cm-JBC121W.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/026533/26533335/fixedratio_20250916194656_songmics_mpizoutiera_kouti_metalliki_me_syrtari_kathrefti_26x18x17cm_jbc121w.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/JBC121W/JBC121WT-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121W/JBC121WT-3-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121W/JBC121WT-4-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121W/JBC121WT-5-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121W/JBC121WT-6-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121W/JBC121WT-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121W/JBC121WT-8-DE.jpg</Additional_Image>
@@ -22396,7 +22413,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>77001305121</SKU>
 		<EAN>6955880332052</EAN>
-		<Name>Songmics Μπιζουτιέρα που Κλειδώνει με PU Δέρμα, Βελούδινη Επένδυση, Συρτάρι &amp; Καθρέφτη 26x18x17cm σε Μαύρο Χρώμα JBC121B</Name>
+		<Name>SONGMICS Κοσμηματοθήκη με 2 Συρτάρια, 2 Πλαϊνές Πόρτες, Καθρέφτη, Αφαιρούμενη Θήκη Ταξιδιού, Θέσεις για Δαχτυλίδια, Σκουλαρίκια, Κολιέ και Βραχιόλια, Βελούδινη Επένδυση, Κλείδωμα με 2 Κλειδιά, 26 × 18 × 17 cm, Μαύρο JBC121B</Name>
 		<URL>https://www.skroutz.gr/s/26533326/Songmics-Mpizoutiera-Kouti-me-Syrtari-26x18x17cm-JBC121B.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/026533/26533326/fixedratio_20250916194705_songmics_mpizoutiera_kouti_me_syrtari_26x18x17cm_jbc121b.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/JBC121B/Schmuckkasten-Kunstleder-Schwarz-JBC121B-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121B/Schmuckkasten-Kunstleder-Schwarz-JBC121B-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121B/Schmuckkasten-Kunstleder-Schwarz-JBC121B-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121B/Schmuckkasten-Kunstleder-Schwarz-JBC121B-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121B/Schmuckkasten-Kunstleder-Schwarz-JBC121B-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121B/Schmuckkasten-Kunstleder-Schwarz-JBC121B-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC121B/Schmuckkasten-Kunstleder-Schwarz-JBC121B-8.jpg</Additional_Image>
@@ -22430,7 +22447,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130513</SKU>
 		<EAN>5903332071562</EAN>
-		<Name>Songmics Μπιζουτιέρα 6 Επιπέδων με PU Δέρμα, Βελούδινη Επένδυση, 5 Συρτάρια &amp; Καθρέφτη 30.5x21.5x31.5cm Λευκή JBC138</Name>
+		<Name>SONGMICS Μεγάλη Κοσμηματοθήκη 6 Επιπέδων με 5 Συρτάρια, Καθρέφτη, Πολλαπλές Θήκες για Δαχτυλίδια, Σκουλαρίκια, Κολιέ, Βραχιόλια και Ρολόγια, Βελούδινη Επένδυση, Συνθετικό Δέρμα PU, 30,2 × 21 × 31,3 cm, Λευκή JBC138</Name>
 		<URL>https://www.skroutz.gr/s/27821126/Songmics-Mpizoutiera-Kouti-me-Syrtari-Kathrefti-30-5x21-5x31-5cm-JBC138.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/027821/27821126/fixedratio_20250916194651_songmics_mpizoutiera_kouti_me_syrtari_kathrefti_30_5x21_5x31_5cm_jbc138.jpeg</Image>
 		<Additional_Image>https://b.scdn.gr/images/sku_images/042197/42197051/fixedratio_20250916194654_dd9e5a23.jpeg https://a.scdn.gr/images/sku_images/042197/42197048/fixedratio_20250916194657_e8b867e9.jpeg https://c.scdn.gr/images/sku_images/052421/52421620/fixedratio_20250916194701_220a2795.jpeg https://b.scdn.gr/images/sku_images/052421/52421630/fixedratio_20250916194709_7f2fb1d5.jpeg</Additional_Image>
@@ -22462,7 +22479,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130514</SKU>
 		<EAN>0194343002040</EAN>
-		<Name>Songmics Μπιζουτιέρα 6 Επιπέδων με PU Δέρμα, Βελούδινη Επένδυση, 5 Συρτάρια, 2 Πλαϊνές Θήκες Μενταγιόν &amp; Καθρέφτη 26x15.5x32cm Λευκή JBC152W01</Name>
+		<Name>SONGMICS Μεγάλη Κοσμηματοθήκη 6 Επιπέδων με 7 Συρτάρια, 2 Πλαϊνές Πόρτες με Γάντζους για Κολιέ, Θήκες για Δαχτυλίδια, Σκουλαρίκια και Ρολόγια, Εσωτερικό Καθρέφτη, Κλειδαριά με 2 Κλειδιά, Βελούδινη Επένδυση, 26 × 15,5 × 32 cm, Λευκή JBC152W01</Name>
 		<URL>https://www.skroutz.gr/s/38517958/Songmics-Mpizoutiera-Kouti-Xylini-me-Syrtari-Kathrefti-26x15-5x32cm-JBC152W01.html</URL>
 		<Image>https://a.scdn.gr/images/sku_main_images/038517/38517958/fixedratio_20250916194653_songmics_mpizoutiera_kouti_xylini_me_syrtari_kathrefti_26by15_5x32cm_jbc152w01.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/JBC152W01/JBC152W01-3.JPG https://static.eu.distributor.songmics.com/storage/images/product100/JBC152W01/JBC152W01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC152W01/JBC152W01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC152W01/JBC152W01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC152W01/JBC152W01-7-eu.jpg https://b.scdn.gr/images/sku_images/065577/65577315/fixedratio_20250916194659_bd9619ae.jpeg </Additional_Image>
@@ -22494,7 +22511,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130551</SKU>
 		<EAN>6955880315895</EAN>
-		<Name>Songmics Ξύλινη Κρεμαστή/Επιτοίχια Μπιζουτιέρα που Κλειδώνει με  Βελούδινη Επένδυση, 2 Συρτάρια &amp; Καθρέφτη 37x10x120cm σε Λευκό Χρώμα JJC93W / JBC93W</Name>
+		<Name>SONGMICS Κρεμαστή Κοσμηματοθήκη με Καθρέφτη Ολόσωμης Απεικόνισης, 6 LED, Κλειδαριά, 2 Συρτάρια, 5 Ράφια, 90 Θήκες Σκουλαρικιών και 32 Γάντζους για Κολιέ, Τοποθέτηση σε Τοίχο ή Πόρτα, 37 × 10 × 120 cm, Λευκή JJC93W / JBC93W</Name>
 		<URL>https://www.skroutz.gr/s/23387864/Songmics-Mpizoutiera-Kouti-Xylini-me-Syrtari-Kathrefti-37x10x120cm-JBC93W.html</URL>
 		<Image>https://c.scdn.gr/images/sku_main_images/023387/23387864/fixedratio_20250916194708_songmics_kremasti_kosmimatothiki_mpizoutiera_me_kathrepti_kai_fotismo_led_37_x_120_x_9_5_cm_mpizoutiera_kouti_xylini_me_syrtari_kathrefti_37x10x120cm_.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-1.1.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-2-.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-31.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-5-ou.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-6%20-ou.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/JBC93W/UJJC93W-8-ou.jpg</Additional_Image>
@@ -22530,7 +22547,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 	<product>
 		<SKU>7700130601</SKU>
 		<EAN>0194343033525</EAN>
-		<Name>Songmics Καθρέπτης Τοίχου με Μαύρο Μεταλλικό Πλαίσιο Διαμέτρου 61cm LWM102B01</Name>
+		<Name>SONGMICS Στρογγυλός Καθρέφτης Τοίχου Ø61 cm, Πλαίσιο από Κράμα Αλουμινίου Ανθεκτικό στη Σκουριά, Γυαλί Υψηλής Ανακλαστικότητας, Εύκολη Ανάρτηση Ενός Σημείου, για Μπάνιο, Υπνοδωμάτιο και Είσοδο, Μαύρος Ματ LWM102B01</Name>
 		<URL>https://www.skroutz.gr/s/52795273/Songmics-LWM102B01-Kathreptis-Toichou-me-Mayro-Metalliko-Plaisio-Diametrou-61cm.html</URL>
 		<Image>https://d.scdn.gr/images/sku_main_images/052795/52795273/xlarge_20260401154608_songmics_lwm102b01_kathreptis_toichou_me_mayro_metalliko_plaisio_diametrou_61cm.jpeg</Image>
 		<Additional_Image>https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LWM102B01/LWM102B01-8.jpg </Additional_Image>
@@ -23750,7 +23767,7 @@ BONUS - Η κομψή γυναίκα δεν μπορεί να ζήσει χωρ�
 - 1 x Καλάθι ρούχων
 - 1 x Τσάντα αξεσουάρ
 - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
-		<Quantity>40</Quantity>
+		<Quantity>41</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -25851,7 +25868,7 @@ Brand: SONGMICS
     Περιμετρικό τελείωμα με κερί για να μην μαδάει
 
 </Description>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -27984,7 +28001,7 @@ Brand: Sidirela
 Περιεχόμενα συσκευασίας:
 - 1 x Δέντρο για γάτες
 - 1 x Οδηγίες χρήσης</Description>
-		<Quantity>29</Quantity>
+		<Quantity>28</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
@@ -29876,7 +29893,7 @@ crate και κλουβί μεταφοράς,
 Μη χρησιμοποιείτε το γιλέκο ως πιστοποιημένο επαγγελματικό Μέσο Ατομικής Προστασίας χωρίς να έχει επιβεβαιωθεί η συμμόρφωσή του με τα απαιτούμενα πρότυπα.
 
 Η ορατότητα μειώνεται όταν οι ανακλαστικές ταινίες καλύπτονται από άλλα ρούχα, είναι λερωμένες ή παρουσιάζουν φθορές.</Description>
-		<Quantity>19</Quantity>
+		<Quantity>20</Quantity>
 		<Shipping_Lead_Time>0</Shipping_Lead_Time>
 	</product>
 	<product>
